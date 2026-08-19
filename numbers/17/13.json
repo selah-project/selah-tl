@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 17,
-  "translation": "At tumayo siya sa pagitan ng ⟨את⟩ mga patay at sa pagitan ng ⟨את⟩ mga buhay, at napigil ang salot.",
+  "translation": "At tumayo siya sa pagitan ng mga patay at sa pagitan ng mga buhay, at napigil ang salot.",
   "tokens": [
     {
       "surface": "ויעמד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המתים",
-      "gloss": "⟨את⟩ mga patay",
+      "gloss": "mga patay",
       "marks": "mga patay"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "החיים",
-      "gloss": "⟨את⟩ mga buhay",
+      "gloss": "mga buhay",
       "marks": "mga buhay"
     },
     {
@@ -38,6 +38,6 @@
       "gloss": "ang salot"
     }
   ],
-  "timestamp": "2026-08-19T15:10:09.476832620Z",
+  "timestamp": "2026-08-19T20:32:39.157231112Z",
   "model": "glm-5.3"
 }

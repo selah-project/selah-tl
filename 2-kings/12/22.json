@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 12,
-  "translation": "Sina Yozavad na anak ni Shimath at Yehozavad na anak ni Shomer, ang mga alipin niya, ang sumakit sa kanya, at namatay siya; at inilibing siya nila ⟨אתו⟩ kasama ng mga ama niya sa lungsod ni David; at naghari si Amatsya na anak niya sa lugar niya.",
+  "translation": "Sina Yozavad na anak ni Shimath at Yehozavad na anak ni Shomer, ang mga alipin niya, ang sumakit sa kanya, at namatay siya; at inilibing siya nila ⟨את⟩ ⟨אתו⟩ kasama ng mga ama niya sa lungsod ni David; at naghari si Amatsya na anak niya sa lugar niya.",
   "tokens": [
     {
       "surface": "ויוזבד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "siya"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "sa lugar niya"
     }
   ],
-  "timestamp": "2026-08-19T16:46:26.054524139Z",
+  "timestamp": "2026-08-19T20:32:39.128313953Z",
   "model": "glm-5.3"
 }

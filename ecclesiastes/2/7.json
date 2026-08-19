@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tl",
   "chapter": 2,
-  "translation": "Nabili ko ang ⟨את⟩ mga aliping lalaki at ang ⟨את⟩ mga aliping babae, at nagkaroon ako ng mga anak ng bahay; gayundin ng maraming hayop — baka at tupa — nagkaroon ako, higit sa lahat ng naging mga nauna sa akin sa Yerushalayim.",
+  "translation": "Nabili ko ang mga aliping lalaki at ang ⟨את⟩ mga aliping babae, at nagkaroon ako ng mga anak ng bahay; gayundin ng maraming hayop — baka at tupa — nagkaroon ako, higit sa lahat ng naging mga nauna sa akin sa Yerushalayim.",
   "tokens": [
     {
       "surface": "קניתי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "⟨את⟩ mga aliping lalaki",
+      "gloss": "mga aliping lalaki",
       "marks": "mga aliping lalaki"
     },
     {
       "surface": "ושפחות",
-      "gloss": "at ang ⟨את⟩ mga aliping babae",
+      "gloss": "at ang mga aliping babae",
       "marks": "mga aliping babae"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "sa Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-19T19:01:16.739273459Z",
+  "timestamp": "2026-08-19T20:32:39.044670738Z",
   "model": "glm-5.3"
 }

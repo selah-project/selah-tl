@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 8,
-  "translation": "At iuunday ni Aharon ang ⟨את⟩ mga Levita bilang handog na inuunday sa harapan ni Yahweh, ⟨מאת⟩ mula sa mga anak ni Yisrael; at magiging sa kanila ang maglingkod sa ⟨את⟩ paglilingkod kay Yahweh.",
+  "translation": "At iuunday ni Aharon ang ⟨את⟩ mga Levita bilang handog na inuunday sa harapan ni Yahweh, ⟨את⟩ ⟨מאת⟩ mula sa mga anak ni Yisrael; at magiging sa kanila ang maglingkod sa ⟨את⟩ paglilingkod kay Yahweh.",
   "tokens": [
     {
       "surface": "והניף",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩ mula sa"
+      "gloss": "⟨את⟩ ⟨מאת⟩ mula sa"
     },
     {
       "surface": "בני",
@@ -70,6 +70,6 @@
       "gloss": "kay Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T15:05:37.027318506Z",
+  "timestamp": "2026-08-19T20:32:39.158946306Z",
   "model": "glm-5.3"
 }

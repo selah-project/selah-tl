@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At ilalabas niya ang ⟨את⟩ buong toro sa labas ng kampo, sa dakong malinis, sa tapunan ng abo, at susunugin niya ⟨אתו⟩ sa mga kahoy sa apoy; sa tapunan ng abo siya susunugin.",
+  "translation": "At ilalabas niya ang ⟨את⟩ buong toro sa labas ng kampo, sa dakong malinis, sa tapunan ng abo, at susunugin niya ⟨את⟩ ⟨אתו⟩ sa mga kahoy sa apoy; sa tapunan ng abo siya susunugin.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "buong toro"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "siya susunugin"
     }
   ],
-  "timestamp": "2026-08-19T19:40:19.501312305Z",
+  "timestamp": "2026-08-19T20:32:39.130534286Z",
   "model": "glm-5.3"
 }

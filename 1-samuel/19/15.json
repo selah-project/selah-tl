@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 19,
-  "translation": "Nagpadala muli si Shaúl ng ⟨את⟩ mga sugo upang makita si David, na nagsasabi: dalhin ninyo ⟨אתו⟩ siya sa higaan sa akin, upang patayin siya.",
+  "translation": "Nagpadala muli si Shaúl ng ⟨את⟩ mga sugo upang makita si David, na nagsasabi: dalhin ninyo ⟨את⟩ ⟨אתו⟩ siya sa higaan sa akin, upang patayin siya.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "siya"
     },
     {
@@ -63,6 +63,6 @@
       "gloss": "upang patayin siya"
     }
   ],
-  "timestamp": "2026-08-19T16:05:55.166196251Z",
+  "timestamp": "2026-08-19T20:32:39.109627785Z",
   "model": "glm-5.3"
 }

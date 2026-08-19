@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At magpapakaparusahan siya sa ⟨the⟩ santuwaryo dahil sa mga karumihan ng mga anak ni Yisrael, at dahil sa kanilang mga pagsuway, sa lahat ng kanilang mga kasalanan; at gayundin ang gagawin niya sa tolda ng kaganapan, na nananahan ⟨אתם⟩ kasama nila sa gitna ng kanilang mga karumihan.",
+  "translation": "At magpapakaparusahan siya sa ⟨the⟩ santuwaryo dahil sa mga karumihan ng mga anak ni Yisrael, at dahil sa kanilang mga pagsuway, sa lahat ng kanilang mga kasalanan; at gayundin ang gagawin niya sa tolda ng kaganapan, na nananahan ⟨את⟩ ⟨אתם⟩ kasama nila sa gitna ng kanilang mga karumihan.",
   "tokens": [
     {
       "surface": "וכפר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ kasama"
+      "gloss": "⟨את⟩ ⟨אתם⟩ kasama"
     },
     {
       "surface": "בתוך",
@@ -76,6 +76,6 @@
       "gloss": "ng kanilang mga karumihan"
     }
   ],
-  "timestamp": "2026-08-19T14:53:21.923907945Z",
+  "timestamp": "2026-08-19T20:32:39.134796552Z",
   "model": "glm-5.3"
 }

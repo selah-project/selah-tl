@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 23,
-  "translation": "Hindi sila titira sa ⟨את⟩ iyong lupain, baka pasalanan nila ang ⟨אתך⟩ ikaw laban sa akin; sapagkat maglilingkod ka sa ⟨את⟩ kanilang mga elohim, sapagkat ⟨ang⟩ mga ito ay magiging bitag sa iyo.",
+  "translation": "Hindi sila titira sa ⟨את⟩ iyong lupain, baka pasalanan nila ang ⟨את⟩ ⟨אתך⟩ ikaw laban sa akin; sapagkat maglilingkod ka sa ⟨את⟩ kanilang mga elohim, sapagkat ⟨ang⟩ mga ito ay magiging bitag sa iyo.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "ikaw"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "bilang bitag"
     }
   ],
-  "timestamp": "2026-08-19T14:35:07.049406626Z",
+  "timestamp": "2026-08-19T20:32:39.083533699Z",
   "model": "glm-5.3"
 }

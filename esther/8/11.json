@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tl",
   "chapter": 8,
-  "translation": "Na ibinigay ng hari sa mga Judio na nasa bawat lunsod — na magtipon at tumayong ⟨para⟩ sa kanilang buhay — upang wasakin, upang patayin at upang lipulin ang ⟨את⟩ buong lakas ng bayan at lalawigan na nanliligalig sa ⟨אתם⟩ kanilang mga anak at babae, at ang kanilang samsam ay samsamin.",
+  "translation": "Na ibinigay ng hari sa mga Judio na nasa bawat lunsod — na magtipon at tumayong ⟨para⟩ sa kanilang buhay — upang wasakin, upang patayin at upang lipulin ang ⟨את⟩ buong lakas ng bayan at lalawigan na nanliligalig sa ⟨את⟩ ⟨אתם⟩ kanilang mga anak at babae, at ang kanilang samsam ay samsamin.",
   "tokens": [
     {
       "surface": "אשר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "mga anak at babae (kanila)"
     },
     {
@@ -114,6 +114,6 @@
       "gloss": "ay samsamin"
     }
   ],
-  "timestamp": "2026-08-19T19:06:29.419730359Z",
+  "timestamp": "2026-08-19T20:32:39.036628758Z",
   "model": "glm-5.3"
 }

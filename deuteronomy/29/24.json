@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 29,
-  "translation": "At kanilang sasabihin: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, Elohim ng kanilang mga ama, na kanyang tinipan ⟨kasama⟩ kanila noong ilabas niya sila ⟨אתם⟩ mula sa lupain ng Mitzrayim.",
+  "translation": "At kanilang sasabihin: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, Elohim ng kanilang mga ama, na kanyang tinipan ⟨kasama⟩ kanila noong ilabas niya sila ⟨את⟩ ⟨אתם⟩ mula sa lupain ng Mitzrayim.",
   "tokens": [
     {
       "surface": "ואמרו",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "silà (mula sa lupain ng Mitzrayim)"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "ng Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T19:42:23.118167819Z",
+  "timestamp": "2026-08-19T20:32:39.113816598Z",
   "model": "glm-5.3"
 }

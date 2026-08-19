@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 18,
-  "translation": "At si Benayahu na anak ni Yehoyada ⟨ay⟩ nasa ibabaw ng ⟨את⟩ mga Kereti at ng ⟨את⟩ mga Peleti; at ang mga anak ni David na pangunahin ⟨ay⟩ sa tabi ng hari.",
+  "translation": "At si Benayahu na anak ni Yehoyada ⟨ay⟩ nasa ibabaw ng mga Kereti at ng ⟨את⟩ mga Peleti; at ang mga anak ni David na pangunahin ⟨ay⟩ sa tabi ng hari.",
   "tokens": [
     {
       "surface": "ובניהו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הכרתי",
-      "gloss": "⟨את⟩ mga Kereti"
+      "gloss": "mga Kereti"
     },
     {
       "surface": "והפלתי",
-      "gloss": "at ng ⟨את⟩ mga Peleti"
+      "gloss": "at ng mga Peleti"
     },
     {
       "surface": "ובני",
@@ -52,6 +52,6 @@
       "gloss": "hari"
     }
   ],
-  "timestamp": "2026-08-19T19:24:12.000240809Z",
+  "timestamp": "2026-08-19T20:32:39.096718066Z",
   "model": "glm-5.3"
 }

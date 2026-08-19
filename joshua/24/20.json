@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tl",
   "chapter": 24,
-  "translation": "Kung iwanan ninyo si ⟨את⟩ Yahweh at maglingkod kayo ng mga elohim ng dayuhan, babalik ⟨siya⟩ at sasamain kayo, at lilipulin ⟨kayong את⟩ pagkatapos ng paggawa niya ng mabuti sa inyo.",
+  "translation": "Kung iwanan ninyo si ⟨את⟩ Yahweh at maglingkod kayo ng mga elohim ng dayuhan, babalik ⟨siya⟩ at sasamain kayo, at lilipulin ⟨את⟩ ⟨kayong את⟩ pagkatapos ng paggawa niya ng mabuti sa inyo.",
   "tokens": [
     {
       "surface": "כי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨kayong את⟩",
+      "gloss": "⟨את⟩ ⟨kayong את⟩",
       "marks": "kayo"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-08-19T15:46:47.764247469Z",
+  "timestamp": "2026-08-19T20:32:39.162966359Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 19,
-  "translation": "At iingatan ninyo ang ⟨את⟩ lahat ng aking mga tuntunin at ang ⟨את⟩ lahat ng aking mga hatol, at gagawin ninyo ang mga ito ⟨אתם⟩: ako ⟨si⟩ Yahweh.",
+  "translation": "At iingatan ninyo ang ⟨את⟩ lahat ng aking mga tuntunin at ang ⟨את⟩ lahat ng aking mga hatol, at gagawin ninyo ⟨את⟩ ang mga ito ⟨אתם⟩: ako ⟨si⟩ Yahweh.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "ang mga ito ⟨אתם⟩",
+      "gloss": "⟨את⟩ ang mga ito ⟨אתם⟩",
       "marks": "ang mga tuntunin at mga hatol"
     },
     {
@@ -55,6 +55,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T14:54:19.081000945Z",
+  "timestamp": "2026-08-19T20:32:39.132668801Z",
   "model": "glm-5.3"
 }
