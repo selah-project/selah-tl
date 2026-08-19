@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Dumarating ang ating Elohim at hindi mananahimik: apoy ang kumakain sa harapan niya, at sa paligid niya ay napakalakas na umuugong ang bagyo.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Dumarating"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang ating Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mananahimik"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ang kumakain"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "at sa paligid niya"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "umuugong ang bagyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napakalakas"
+    }
+  ],
+  "timestamp": "2026-08-19T20:07:26.783329940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi papasok ang ⟨isang⟩ nasugatan sa bayag, o pagputol ng ari, sa kapisanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "nasugatan"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "sa bayag"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "o pagputol"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ng ari"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:08.528943994Z",
+  "model": "glm-5.3"
+}

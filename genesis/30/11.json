@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sinabi ni Lea, Sa swerte! at tinawag niya ang ⟨את⟩ kanyang pangalang Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "sa swerte!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:11.720416496Z",
+  "model": "glm-5.3"
+}

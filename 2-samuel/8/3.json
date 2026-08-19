@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinaktan ni David ang ⟨את⟩ Hadadezer na anak ni Rehob, hari ng Tsoba, sa kanyang pagpunta na ibalik ang kanyang kamay sa ilog ‏(Euprates).",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "si Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ni Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ng Tsoba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "sa kanyang pagpunta"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sa ilog"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:09.042332510Z",
+  "model": "glm-5.3"
+}

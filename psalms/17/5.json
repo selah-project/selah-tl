@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang aking mga hakbang ay humawak sa ⟨mga⟩ landas mo; hindi matitinag ang aking mga paa.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "humawak nang matatag"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang aking mga hakbang"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "sa ⟨mga⟩ landas mo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "matitinag"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ang aking mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:32.371849795Z",
+  "model": "glm-5.3"
+}

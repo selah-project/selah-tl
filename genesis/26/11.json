@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At iniutos ni Avimelech sa ⟨את⟩ buong bayan, na nagsasabi: Ang humahawak sa taong ito o sa asawa niya ay tiyak na papatayin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang humahawak"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "o sa asawa niya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tiyak na papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:09.358608346Z",
+  "model": "glm-5.3"
+}

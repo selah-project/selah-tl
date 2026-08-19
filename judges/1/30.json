@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Si Zebulun ay hindi nagpaalis ng ⟨את⟩ mga naninirahan sa Kitron at ng ⟨את⟩ mga naninirahan sa Nahalol; at tumahan ang Kanaanito sa gitna niya, at sila'y naging mga tribute.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Si Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "nagpaalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan sa Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "sa Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga naninirahan sa Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "sa Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at tumahan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanito"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa gitna niya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at sila'y naging"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mga tribute"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:19.432321948Z",
+  "model": "glm-5.3"
+}

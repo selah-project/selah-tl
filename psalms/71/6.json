@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Sa iyo ako umako mula sa sinapupunan, mula sa tiyan ng aking ina ikaw ang humihiwalay sa akin; sa iyo ang aking papuri na walang hinto.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ako umako"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mula sa sinapupunan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "mula sa tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ng aking ina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "humihiwalay sa akin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "aking papuri"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na walang hinto"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.143452931Z",
+  "model": "glm-5.3"
+}

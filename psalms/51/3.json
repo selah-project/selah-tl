@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Maawan mo ako, O Elohim, ayon sa iyong hesed, ayon sa kasaganaan ng iyong mga habag, burahin mo ang aking mga pagsuway.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "maawan mo ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ayon sa iyong hesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ayon sa kasaganaan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ng iyong mga habag"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "burahin mo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang aking mga pagsuway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:10.701932006Z",
+  "model": "glm-5.3"
+}

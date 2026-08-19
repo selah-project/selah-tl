@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "⟨si⟩ Utz na panganay niya, at ⟨את⟩ Buz na kapatid niya, at ⟨את⟩ Kemuel na ama ni Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "si Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang panganay niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "si Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang kapatid niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "si Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ni"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:08.167529540Z",
+  "model": "glm-5.3"
+}

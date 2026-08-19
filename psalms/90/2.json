@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Bago pa isinilang ang mga bundok, at bago pa Hinubog ang lupa at sansinukob — mula sa walang hanggan hanggang sa walang hanggan, Ikaw ay El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "isinilang"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "at bago pa Hinubog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "at sansinukob"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "mula sa walang hanggan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:18.863170068Z",
+  "model": "glm-5.3"
+}

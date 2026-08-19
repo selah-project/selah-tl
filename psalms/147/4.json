@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Nagtutuos ng bilang ng mga bituin, sa lahat ng mga ito ay mga pangalan tinatawag niya.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "nagtutuos"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ng mga bituin"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "sa lahat ng mga ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tinatawag niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:36.027268524Z",
+  "model": "glm-5.3"
+}

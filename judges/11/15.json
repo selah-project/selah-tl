@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi sa kaniya: Ganito ang sabi ni Yiphtach: Hindi kinuha ng Israel ang ⟨את⟩ lupa ng Moab ni ang ⟨את⟩ lupa ng mga anak ni Amon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiphtach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa ng Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ang ⟨את⟩",
+      "marks": "lupa ng mga anak ni Amon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:07.214643645Z",
+  "model": "glm-5.3"
+}

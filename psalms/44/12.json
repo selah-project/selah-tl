@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Ibinigay mo kami na parang tupa na pagkain, at sa mga bansa binitagan mo kami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "ibinigay mo kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "na parang tupa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "na pagkain"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "at sa mga bansa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "binitagan mo kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:52.985858108Z",
+  "model": "glm-5.3"
+}

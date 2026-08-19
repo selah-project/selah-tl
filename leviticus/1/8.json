@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At magsasaayos ang mga anak ni Aharon na ⟨ang⟩ mga saserdote ng ⟨את⟩ mga piraso — ang ⟨את⟩ ulo at ang ⟨את⟩ taba — sa ⟨ang⟩ mga kahoy na nasa ⟨ang⟩ apoy na nasa ⟨ang⟩ altar.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "at magsasaayos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga piraso"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "mga piraso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:45.722011125Z",
+  "model": "glm-5.3"
+}

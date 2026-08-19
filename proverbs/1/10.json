@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Anak ko, kung akitin ka ng mga makasalanan, huwag kang pumayag.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "akitin ka"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ng mga makasalanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kang pumayag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:55.038360517Z",
+  "model": "glm-5.3"
+}

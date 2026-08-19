@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Hindi ba't may takdang panahon ng paglilingkod sa tao sa lupa, at parang mga araw ng isang upahan ang kaniyang mga araw?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba't"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "takdang panahon ng paglilingkod"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "at parang mga araw"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ng isang upahan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang kaniyang mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:47:08.676876896Z",
+  "model": "glm-5.3"
+}

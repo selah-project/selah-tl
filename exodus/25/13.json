@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawa ka ng mga payong ⟨את⟩ gawa sa kahoy ng shittim, at babalutan mo sila ng ginto.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mga payong"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "at babalutan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silang mga payong (na ginto ang balot)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:25.777560126Z",
+  "model": "glm-5.3"
+}

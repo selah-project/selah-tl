@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nangyari: ang naghandog sa unang araw ng ⟨את⟩ kanyang handog ay si Nachshon na anak ni Amminadav, sa tribo ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ang naghandog"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "na una"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang handog"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kanyang handog"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "si Nachshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Amminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:18.490794216Z",
+  "model": "glm-5.3"
+}

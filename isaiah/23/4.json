@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Mahiya ka, Tsidon, sapagkat nagsalita ang dagat, moog ng dagat, na nagsasabi: Hindi ako nanganhihikahika at hindi ako nanganak, at hindi ko pinalaki ang mga binata, hindi ko itinaas ang mga dalaga.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Mahiya ka"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "moog"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ng dagat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ako nanganhihikahika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ako nanganak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ko pinalaki"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ang mga binata"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "hindi ko itinaas"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ang mga dalaga"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:48.340569180Z",
+  "model": "glm-5.3"
+}

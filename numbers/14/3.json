@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 14:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At bakit dinadala ni Yahweh tayo sa lupain na ito upang mahulog sa tabak? Ang aming mga asawa at ang aming mga bata ay magiging samsam. Hindi ba't mabuti sa atin na bumalik sa Mitzrayim?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "dinadala"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tayo",
+      "marks": "tayo (aming)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "upang mahulog"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "aming mga asawa"
+    },
+    {
+      "surface": "ויטפנו",
+      "gloss": "at aming mga bata"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba't"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:20.216212031Z",
+  "model": "glm-5.3"
+}

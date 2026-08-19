@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At babaeng balo at batang ulila, dayuhan at dukha — huwag ninyong pagsamalin; at ang kasamaan ng bawat tao sa kapatid niya ay huwag ninyong binalak sa ⟨inyong⟩ puso.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "At babaeng balo"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "at batang ulila"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "at dukha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "ninyong pagsamalin"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "at ang kasamaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng bawat tao"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa kapatid niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ay huwag"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "ninyong binalak"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa ⟨inyong⟩ puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:18.898611736Z",
+  "model": "glm-5.3"
+}

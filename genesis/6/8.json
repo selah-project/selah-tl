@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Datapu't si Noach ay nakatagpo ng biyaya sa mga mata ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "datapu't si Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakatagpo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:42.391893600Z",
+  "model": "glm-5.3"
+}

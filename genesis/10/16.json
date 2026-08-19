@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ng ⟨את⟩ mga Jebusite, at ng ⟨את⟩ mga Amorite, at ng ⟨את⟩ mga Girgashite.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Jebusite"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "mga Jebusite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Amorite"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "mga Amorite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Girgashite"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "mga Girgashite"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:44.858424244Z",
+  "model": "glm-5.3"
+}

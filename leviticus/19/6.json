@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Sa araw ng inyong hain ay kakainin ⟨ang⟩ ⟨ito⟩, at sa kinabukasan; ngunit ang natitira hanggang sa ikatlong araw, sa apoy susunugin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "ng inyong hain"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "at sa kinabukasan"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ngunit ang natitira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikalawang — ikatlong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:35.057540262Z",
+  "model": "glm-5.3"
+}

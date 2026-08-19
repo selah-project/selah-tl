@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang mga nabilang sa kanila, sa lipi ni Gad, ay apat na pu't limang libo at anim na raan at limampu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang mga nabilang sa kanila"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa lipi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "at apat na pu'"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampu"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:35.625467799Z",
+  "model": "glm-5.3"
+}

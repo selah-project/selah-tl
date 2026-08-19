@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Kaya't napuno ang aking baywang ng pananakit; humawak sa akin ng mga kirot na parang kirot ng babaeng nanganganak — nagbaluktot ako sa pandinig, nabalisa ako sa paningin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kaya't (dahil dito)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dito"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ang aking baywang"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "ng pananakit"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "mga kirot"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "humawak sa akin"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "parang kirot ng"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "babaeng nanganganak"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "nagbaluktot ako"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "sa pandinig"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "nabalisa ako"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "sa paningin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:13.305738918Z",
+  "model": "glm-5.3"
+}

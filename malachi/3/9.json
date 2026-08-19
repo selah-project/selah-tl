@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa sumpa kayo ay sinasumpa, at ⟨את⟩ akin ay ninanakaw ninyo — ang bansa, buo nito.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "sa sumpa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "sinasumpa"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "at ⟨את⟩ akin",
+      "marks": "(minamarkahan: ang Akin — ninanakaw)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ninanakaw"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang bansa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "buo nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:21.699318370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat kahit na sila'y ⟨mga⟩ tinik na magkakaugnay, at tulad ng inumin nila ay lasing na lasing — malalamon sila na parang dayaming lubos na tuyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahit na"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "tinik"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "magkakaugnay"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "at tulad ng inumin nila"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "lasing na lasing"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "malalamon"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "na parang dayami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "tuyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "lubos na"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:31.253866092Z",
+  "model": "glm-5.3"
+}

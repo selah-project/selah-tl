@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Kinuha nila ang ⟨את⟩ lahat ng samsam at ang ⟨את⟩ lahat ng nadambong, sa tao at sa hayop.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "kinuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "lahat ng samsam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng nadambong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "nadambong"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "at sa hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:17.923330887Z",
+  "model": "glm-5.3"
+}

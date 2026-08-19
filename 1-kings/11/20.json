@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ipinanganak para sa kanya ng kapatid ni Tachpenes si ⟨את⟩ Genubat na kanyang anak, at iniwang-gatas siya ni Tachpenes sa loob ng bahay ni Paraoh; at naging kasama si Genubath ng bahay ni Paraoh, sa gitna ng mga anak ni Paraoh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "At ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ng kapatid ni"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Genubat na kanyang anak"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na kanyang anak"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "at iniwang-gatas siya"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "ni Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay ni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si Genubath"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay ni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:42.608834122Z",
+  "model": "glm-5.3"
+}

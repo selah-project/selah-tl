@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Sa ating kababaan, naalala niya tayo, sapagkat hanggang magpakailanman ang kanyang kahabagan.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "sa ating kababaan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalala niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kahabagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.246076442Z",
+  "model": "glm-5.3"
+}

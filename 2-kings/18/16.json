@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sa panahong iyon, pinutol ni Hizkiyah ang ⟨את⟩ mga pinto ng templo ni Yahweh at ang ⟨את⟩ mga suhay na pinatungan ni Hizkiyah na hari ng Yehudah, at ibinigay niya ⟨את⟩ mga ito sa hari ng Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "pinutol"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pinto"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mga pinto"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga suhay"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "mga suhay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "pinatungan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "at ibinigay mga ito"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:41.953054332Z",
+  "model": "glm-5.3"
+}

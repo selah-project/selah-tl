@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Umakyat ang mga bundok, bumaba ang mga libis, tungo sa dako ring iyong itinakda para sa kanila.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "umaakyat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ang mga libis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dako"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ring (itong)"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "iyong itinakda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:14.859492562Z",
+  "model": "glm-5.3"
+}

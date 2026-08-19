@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Mahusay ang kaunti na may katuwiran kaysa kasaganaan ng mga bunga na walang katarungan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mahusay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ang kaunti"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "na may katuwiran"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kaysa kasaganaan"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ng mga bunga"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "na walang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:37.649115890Z",
+  "model": "glm-5.3"
+}

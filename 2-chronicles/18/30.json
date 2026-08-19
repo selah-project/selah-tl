@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At iniutos ng hari ng Aram sa ⟨את⟩ mga pinuno ng mga karwahe na kanya, na sabihin: Huwag kayong makipaglaban sa ⟨את⟩ maliit ni sa ⟨את⟩ malaki, kundi sa ⟨את⟩ hari ng Israel lamang.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "At ang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pinuno ng mga karwahe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ng mga karwahe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sabihin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kayong makipaglaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "sa ⟨את⟩",
+      "marks": "maliit"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaki"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "sa ⟨את⟩",
+      "marks": "hari ng Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:32:33.531046720Z",
+  "model": "glm-5.3"
+}

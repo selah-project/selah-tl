@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "kundin si Baruch na anak ni Neriyahu ang nag-aanyo sa iyo laban sa amin, upang ibigay ⟨את⟩ kami sa kamay ng mga Kasdi, upang patayin ⟨את⟩ kami at upang itapon ⟨את⟩ kami sa pagkabihag sa Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kundin"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "si Baruch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "na anak"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "ni Neriyahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "ang nag-aanyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "laban sa amin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami (sa kamay ng mga Kasdi)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ng mga Kasdi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "upang patayin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami (patayin)"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "at upang itapon sa pagkabihag"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami (bihag)"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:33:15.754785781Z",
+  "model": "glm-5.3"
+}

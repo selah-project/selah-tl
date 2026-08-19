@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Pinarusan ako nang matindi ni Yah, ngunit hindi niya ako ibinigay sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "pinarusan nang matindi"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "pinarusan ako"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "ngunit sa kamatayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "ibinigay ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.189183155Z",
+  "model": "glm-5.3"
+}

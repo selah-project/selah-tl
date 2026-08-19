@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagsabi sa kanya ang anak ni Paroh: Pumunta ka. At pumunta ang dalagita, at tinawag ang ⟨את⟩ ina ng bata.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "at pumumaalam"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ang dalagita"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ang ina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ng bata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.106775869Z",
+  "model": "glm-5.3"
+}

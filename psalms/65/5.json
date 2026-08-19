@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Pinagpala ang taong pipiliin mo at papalapitin mo upang tumahan sa ⟨mga⟩ looban mo; mangabusaw tayo sa kabutihan ng bahay mo, ng banal na templo mo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "pipiliin mo"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "at papalapitin mo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "upang tumahan"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "sa looban mo"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "mangabusaw tayo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa kabutihan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng bahay mo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ng templo mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:34.574017849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ni Yahweh kay Moshe: Sabihin kay Aharon: Iunat mo ⟨את⟩ iyong tungkod at pukulin ⟨את⟩ alabok ng lupa, at magiging mga lamok ⟨ang mga ito⟩ sa buong lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sabihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Iunat mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong tungkod"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ang iyong tungkod"
+    },
+    {
+      "surface": "והך",
+      "gloss": "at pukulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alabok ng lupa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ang alabok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "mga lamok"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:57.793683845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Yahweh Elohim sa babae: Ano ang ito na ginawa mo? At sinabi ng babae: Ang ahas ay nagligaw sa akin, at kumain ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sa babae"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ang ahas"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "nagligaw sa akin"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at kumain ako"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:28.753288892Z",
+  "model": "glm-5.3"
+}

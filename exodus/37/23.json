@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ginawa niya ang ⟨את⟩ pitong ilawan nito, at ang mga sipit nito, at ang mga sisidlan-ng-abo nito — dalisay na ginto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong ilawan nito"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ilawan nito"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "at ang mga sipit nito"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "at ang mga sisidlan-ng-abo nito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:49.603736019Z",
+  "model": "glm-5.3"
+}

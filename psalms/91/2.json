@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Sasabihin ko kay Yahweh: 'Kanlungan ko at moog ko ⟨siya⟩, Elohim ko, sa kanya ako magtitiwala.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sasabihin ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kanlungan ko"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "at moog ko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "magtitiwala ako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:58.005016115Z",
+  "model": "glm-5.3"
+}

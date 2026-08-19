@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "sapagkat si Yah ay pumili para sa kaniyang sarili ni Yaakov, si Yisrael bilang kaniyang espesyal na ingatan-yaman;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pumili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kaniyang sarili"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "bilang kaniyang espesyal na ingatan-yaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:24.399689327Z",
+  "model": "glm-5.3"
+}

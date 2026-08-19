@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ang umiibig ng pilak ay hindi mabubusog sa pilak, at ang umiibig ng kasaganaan ay walang tubo ⟨ito⟩; ito man ay kabuluhan.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ang umiibig ng"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mabubusog"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at ang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig ng"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "kasaganaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tubo ⟨ito⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mismo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kabuluhan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:35.762037804Z",
+  "model": "glm-5.3"
+}

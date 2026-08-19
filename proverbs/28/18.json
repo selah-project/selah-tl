@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang lumalakad nang may katapatan ay maliligtas, ngunit ang baluktot sa kaniyang mga lakad ay mahuhulog nang minsanan.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "may katapatan"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "maliligtas"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "at baluktot"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "mga lakad"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "mahuhulog"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "nang minsanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:34.606202577Z",
+  "model": "glm-5.3"
+}

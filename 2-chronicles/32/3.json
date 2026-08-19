@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nagpayuhan siya kasama ng kanyang mga pangulo at ng kanyang mga makapangyarihan, na sarhan ang ⟨את⟩ mga tubig ng mga bukal na nasa labas ng lungsod; at tinulungan siya nila.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "at nagpayuhan siya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "kanyang mga pangulo"
+    },
+    {
+      "surface": "וגיבריו",
+      "gloss": "at kanyang mga makapangyarihan"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "na sarhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tubig ng mga bukal"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mga tubig ng"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "mga bukal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nasa labas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "at tinulungan siya nila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:19.236783307Z",
+  "model": "glm-5.3"
+}

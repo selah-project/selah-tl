@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Sapagkat ganito ang sinabi ng Adonai na Yahweh: sa Mitzrayim bumaba ang aking bayan noong una upang tumahan doon, at ang Ashur naman, nang walang dahil, ay nagpahirap sa kanila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sinabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ng Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang aking bayan"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "noong una"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "upang tumahan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "at ang Ashur naman"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "nang walang dahil"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "ay nagpahirap sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:02.131456282Z",
+  "model": "glm-5.3"
+}

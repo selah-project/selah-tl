@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kung sabihin mo sa iyong puso, Paano natin malalaman ang ⟨את⟩ salita na hindi sinalita ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa iyong puso"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "malalaman natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:57.868456769Z",
+  "model": "glm-5.3"
+}

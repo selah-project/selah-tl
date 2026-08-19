@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Makinig kayo sa salita ni Yahweh, mga pinuno ng Sodom; igalang ang torah ng ating Elohim, O bayan ng Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mga pinuno ng"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "igalang ang pandinig"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah ng"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ating Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:37.283885234Z",
+  "model": "glm-5.3"
+}

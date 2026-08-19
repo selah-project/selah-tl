@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At dumating ang mga alilang babae ni Ester at ang kanyang mga kasaping binabae at ipinahayag sa kanya, at labis na nabalisa ang reyna, at nagpadala siya ng mga damit para didamitan si ⟨את⟩ Mordekai at alisin ang kanyang sako mula sa kanya, ngunit hindi niya tinanggap",
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "At dumating ang"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "mga alilang babae"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "at ang kanyang mga kasaping binabae"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "at ipinahayag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "at nabalisa"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ang reyna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis na"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "para didamitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekai"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "at alisin"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "ang kanyang sako"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mula sa kanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "tinanggap"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:54.613343445Z",
+  "model": "glm-5.3"
+}

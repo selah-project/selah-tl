@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang mga anak ni Yavan: Elishah, at Tarshishah, ang mga Kitim, at ang mga Rodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ni Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "at Tarshishah"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ang mga Kitim"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "at ang mga Rodanim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:15.276423491Z",
+  "model": "glm-5.3"
+}

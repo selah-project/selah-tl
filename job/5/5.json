@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Na ang kaniyang ani'y kakainin ng gutom, at mula sa mga tinik ay kukunin ⟨ito⟩, at lilunok ng mga uhaw ang kanilang yaman.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "kaniyang ani"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "gutom"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "mga tinik"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "kukunin"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "at lilunok"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "mga uhaw"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ang kanilang yaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:46:34.595904573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang inyong binhi at ang inyong mga ubasan ay didikitin niya ng ikasampung bahagi, at ibibigay sa kanyang mga opisyal at sa kanyang mga alipin.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "ang inyong binhi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "at ang inyong mga ubasan"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "didikitin niya ng ikasampung bahagi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at ibibigay"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "sa kanyang mga opisyal"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "at sa kanyang mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:26.867488695Z",
+  "model": "glm-5.3"
+}

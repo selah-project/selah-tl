@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Kaya lumakad si David, siya at anim na raong lalaki na ⟨את⟩ kasama niya, at dumating sila hanggang sa daluyan ng Besor; at ang mga naiwan ay tumayo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kaya lumakad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "anim na raong lalaki"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "daluyan"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ng Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "at ang mga naiwan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ay tumayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:13.869280215Z",
+  "model": "glm-5.3"
+}

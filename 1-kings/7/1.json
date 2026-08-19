@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ⟨את⟩ kanyang bahay ay itinayo ni Shelomoh sa labintatlong taon, at tinapos niya ang ⟨את⟩ kalahatan ng kanyang bahay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang bahay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "labing-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "at tinapos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalahatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kalahatan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:07.575113880Z",
+  "model": "glm-5.3"
+}

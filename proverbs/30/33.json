@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sapagkat ang pagpiga ng gatas ay naglalabas ng ⟨את⟩ keso, at ang pagpiga ng ilong ay naglalabas ng ⟨את⟩ dugo, at ang pagpiga ng ngitngit ay naglalabas ng ⟨את⟩ alitan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "pagpiga"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "naglalabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keso"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "keso"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "at pagpiga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "naglalabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "at pagpiga"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ngitngit"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "naglalabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "alitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:44.932090679Z",
+  "model": "glm-5.3"
+}

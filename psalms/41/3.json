@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Ingatan siya ni Yahweh at panatilihin siyang buhay; palalain siyang tuwid sa lupain, at huwag mong ibibigay siya sa gana ng kanyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ingatan siya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "at panatilihin siyang buhay"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "palalain siyang tuwid"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag mong"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ibibigay siya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa gana"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ng kanyang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:43.867216111Z",
+  "model": "glm-5.3"
+}

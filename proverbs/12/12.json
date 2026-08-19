@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Nasa puso ng masama ang lambat ng masasama, ngunit ang ugat ng matutuwid ay magbubunga.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "nasa puso \/ nagnanais"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "lambat"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ngunit ang ugat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng matutuwid"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbubunga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:07.103182245Z",
+  "model": "glm-5.3"
+}

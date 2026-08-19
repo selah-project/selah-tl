@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At pinagtrabaho ng mga Mitsri ang ⟨את⟩ mga anak ni Yisrael nang may kalupitan.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "at pinagtrabaho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga Mitsri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "nang may kalupitan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:53.169994364Z",
+  "model": "glm-5.3"
+}

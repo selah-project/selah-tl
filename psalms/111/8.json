@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Tatag magpakailanman at walang hanggan, ginawa sa katotohanan at katuwiran.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "tatag"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "at walang hanggan"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa katotohanan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "at katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:32.022522552Z",
+  "model": "glm-5.3"
+}

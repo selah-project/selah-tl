@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At dadalawin ko ng pamalo ang kanilang pagsuway, at ng mga hagupit ang kanilang kasamaan.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "dadalawin ko"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ng pamalo"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ang kanilang pagsuway"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "at ng mga hagupit"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ang kanilang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:53.758656108Z",
+  "model": "glm-5.3"
+}

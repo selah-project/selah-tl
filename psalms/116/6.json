@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Bantay-salakay si Yahweh ng ⟨mga⟩ inosente: nang aba ako, at sa akin ay nagligtas ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Bantay-salakay"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "inosente"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "nang aba ako"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "at sa akin"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "nagligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.525148539Z",
+  "model": "glm-5.3"
+}

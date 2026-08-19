@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Datapuwa't ang aking kagandahang-loob ay hindi ko babaliin mula sa kaniya, at hindi ako magdaraya sa aking katapatan.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ang aking kagandahang-loob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "babaliin ko"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "mula sa kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "magdaraya ako"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "sa aking katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:53.758874995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At binasbasan ni Elohim si ⟨את⟩ Noach at ang ⟨את⟩ mga anak niya, at sinabi sa kanila: Magbunga kayo, at dumami, at punuin ang ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "binasbasan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga anak niya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magbunga kayo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at dumami"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "at punuin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:06.307967880Z",
+  "model": "glm-5.3"
+}

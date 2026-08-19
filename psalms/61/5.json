@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Magpapahanap-bahay ako sa iyong tolda magpakailanman, manganganlong ako sa kubli ng iyong mga pakpak. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "magpapahanap-bahay ako"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa iyong tolda"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "manganganlong ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa kubli"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ng iyong mga pakpak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:56.720433921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At si Noach ay anak na limang daang taon, at ipanganak ni Noach ang ⟨את⟩ Shem, ang ⟨את⟩ Cham, at ang ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipanganak ni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:22.958536487Z",
+  "model": "glm-5.3"
+}

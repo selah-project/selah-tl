@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At narinig ng buong Yavesh-Gilad ang ⟨את⟩ lahat ng ginawa ng mga Peleshti kay Sha ul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "narinig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Sha ul"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:39.685393270Z",
+  "model": "glm-5.3"
+}

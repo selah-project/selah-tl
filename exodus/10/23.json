@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi nakita ng bawat isa si ⟨את⟩ kanyang kapatid, at hindi bumangon ang bawat isa mula sa kanyang kinaroroonan sa loob ng tatlong araw; ngunit sa lahat ng mga anak ni Yisrael ay may liwanag sa kanilang mga tahanan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bawat isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si kanyang kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang kapatid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bawat isa"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "mula sa kanyang kinaroroonan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ngunit sa lahat ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay may"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "sa kanilang mga tahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:33.808249713Z",
+  "model": "glm-5.3"
+}

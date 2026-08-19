@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Inaasam namin ang kapayapaan, ngunit walang mabuti; inaasam ang panahon ng paggagaling, at nakita — naruon ang pangamba!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "inaasam"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ang kapayapaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ang panahon ng"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "paggagaling"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at nakita — naruon"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ang pangamba"
+    }
+  ],
+  "timestamp": "2026-08-19T17:19:11.764792376Z",
+  "model": "glm-5.3"
+}

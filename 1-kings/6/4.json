@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At gumawa siya para sa bahay ng mga bintanang nakalahad na may bahid, sarado sa loob.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At gumawa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para sa bahay"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "mga bintana"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "nakalahad na may bahid"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "sarado"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:58.513409053Z",
+  "model": "glm-5.3"
+}

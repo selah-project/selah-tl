@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At maglalagay si Aharon ng mga sorteho sa dalawang lalaking kambing: isang sorteo para kay Yahweh, at isang sorteo para kay Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "at maglalagay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ang mga lalaking kambing"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "mga sorteho"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sorteo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "at sorteo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "para kay Azazel"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:28.194170929Z",
+  "model": "glm-5.3"
+}

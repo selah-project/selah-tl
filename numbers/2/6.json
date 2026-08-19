@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "at ang kanyang hukbo at ang mga binilang sa kanya: apat na libo't limampung libo at apat na raan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "at ang kanyang hukbo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "at ang mga binilang sa kanya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ווארבע",
+      "gloss": ""
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:30.099893929Z",
+  "model": "glm-5.3"
+}

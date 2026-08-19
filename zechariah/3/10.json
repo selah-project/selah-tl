@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa araw na yaon, ganito ang sabi ni Yahweh ng mga hukbo, tatawagin ninyo ang bawat isa sa kanyang kapwa, sa ilalim ng puno ng ubas at sa ilalim ng puno ng igos.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ganito ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "tatawagin ninyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bawat lalaki"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sa kanyang kapwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalim ng"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "puno ng ubas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalim ng"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "puno ng igos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:45.601514440Z",
+  "model": "glm-5.3"
+}

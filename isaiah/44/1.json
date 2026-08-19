@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At ngayon, makinig ka, Yaakov na aking alipin, at ikaw, Yisrael na pinili ko sa kanya.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "makinig ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking alipin"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "at Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "pinili ko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:05.901038746Z",
+  "model": "glm-5.3"
+}

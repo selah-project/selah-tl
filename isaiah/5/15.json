@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At yumuko ang tao, at nababa ang lalaki, at ang mga mata ng mga palalo ay mabababa.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "at yumuko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "at nababa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "at ang mga mata ng"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "mga palalo"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ay mabababa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:15.331421247Z",
+  "model": "glm-5.3"
+}

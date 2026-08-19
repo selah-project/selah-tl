@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag mong lalaitin ang Elohim, at ang pinuno sa iyong bayan ay huwag mong sumpain.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mong lalaitin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "at ang pinuno"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "sa iyong bayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mong sumpain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:58.075474010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "⟨את⟩ mga damit-ng-serbisyo para sa paglilingkod sa ⟨the⟩ banal na lugar, ⟨את⟩ mga banal na damit ni Aharon ⟨the⟩ pari, at ⟨את⟩ mga damit ng kaniyang mga anak para sa pagkapari.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga damit-ng-serbisyo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ng-serbisyo"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "para sa paglilingkod"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa banal na lugar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga banal na damit"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga damit ng kaniyang mga anak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kaniyang mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "para sa pagkapari"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:07.859908575Z",
+  "model": "glm-5.3"
+}

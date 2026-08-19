@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng ahas sa babae: \"Hindi, hindi kayo mamamatay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ng ahas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kayo mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:52.916047361Z",
+  "model": "glm-5.3"
+}

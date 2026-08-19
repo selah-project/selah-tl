@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat tulad ng ugong ng mga tinik sa ilalim ng kaldero, gayon ang tawanan ng hangal; at ito man ay kahalayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "tulad ng ugong"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "mga tinik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kaldero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kahalayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:09.290522818Z",
+  "model": "glm-5.3"
+}

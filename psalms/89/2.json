@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Ang kagandahang-loob ni Yahweh ay aawitin ko nang magpakailanman; sa lahi hanggang lahi ipapahayag ko ang iyong katapatan sa aking bibig.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ang kagandahang-loob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aawitin ko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hanggang lahi"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ipapahayag ko"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang iyong katapatan"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:43.995235640Z",
+  "model": "glm-5.3"
+}

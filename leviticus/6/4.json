@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At maghuhubad siya ng ⟨את⟩ kanyang mga damit at magsusuot ng iba pang mga damit, at ilalabas niya ang ⟨את⟩ abo sa labas ng kampo, sa malinis na dako.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "At maghuhubad siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga damit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kanyang mga damit"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "at magsusuot"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iba pang"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "at ilalabas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "labas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ng kampo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dako"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "malinis (malinis sa seremonya)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:06.736207407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At pinuri ko ang ⟨את⟩ mga patay na namatay na, higit sa mga buhay na nabububay pa hanggang ngayon.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "at pinuri ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patay"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mga patay"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "higit sa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "mga buhay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nabubuhay pa"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "hanggang ngayon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:53.373324228Z",
+  "model": "glm-5.3"
+}

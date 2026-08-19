@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Ganito ang sabi ni Adonai Yahweh: Pipigilin ko ang ⟨את⟩ kaguluhan ng Mitzrayim sa kamay ni Nevukhadretstsar na hari ng Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "pipigilin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaguluhan ng Mitzrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ang kaguluhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ni Nevukhadretstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "na hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:48:51.190347467Z",
+  "model": "glm-5.3"
+}

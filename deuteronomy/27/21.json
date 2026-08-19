@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sumpa ang humihiga na ⟨may⟩ kasama ng anumang hayop; at sasabihin ng buong bayan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ang humihiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na ⟨may⟩ kasama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:28.503191251Z",
+  "model": "glm-5.3"
+}

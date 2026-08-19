@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Kaya pinababa niya sa pagod ang kanilang puso; natisod sila at walang tumulong.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "pinababa\/pinakumbaba"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "sa pagod"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kanilang puso"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "natisod"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tumulong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:25.046670073Z",
+  "model": "glm-5.3"
+}

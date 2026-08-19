@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat naging ulol ang mga pastol, at ang ⟨את⟩ Yahweh ay hindi nila hinanap; kaya't hindi sila nagsipagtagumpay, at ang buong kanilang kawan ay nagkawatak-watak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "naging ulol"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ang mga pastol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "hinanap nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nagsipagtagumpay sila"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "kanilang kawan"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "nagkawatak-watak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:00.371485900Z",
+  "model": "glm-5.3"
+}

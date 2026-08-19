@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "at hindi sila papasok upang tumingin, kahit isang kisap-mata, sa ⟨את⟩ mga banal na bagay, at mamamatay sila.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sila papasok"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang tumingin"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "kahit isang kisap-mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga banal na bagay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mga banal na bagay"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "at mamamatay sila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:23.080991319Z",
+  "model": "glm-5.3"
+}

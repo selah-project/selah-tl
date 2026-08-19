@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Dakilang kapayapaan ⟨ang⟩ mayroon ⟨sina⟩ ⟨ay⟩ mga umiibig sa iyong kauturan, at walang sa kanila ng matitisod.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sa mga umiibig"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iyong kauturan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "matitisod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:29.552320167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Narito, hindi antukin at hindi makatulog ang bantay ng Israel.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "antukin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "makatulog"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:42.770271944Z",
+  "model": "glm-5.3"
+}

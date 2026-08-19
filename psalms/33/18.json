@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Tingnan, ang mata ni Yahweh ay nasa mga natatakot sa kaniya, sa mga naghihintay sa kaniyang kagandahang-loob;",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ay nasa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga natatakot sa kaniya"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "sa mga naghihintay"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "sa kaniyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:30.309003622Z",
+  "model": "glm-5.3"
+}

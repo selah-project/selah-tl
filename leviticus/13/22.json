@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At kung lubos itong kumalat sa balat, ituturing na marumi ng pari siya — ⟨את⟩: dulot ito ng ayos ng balat; hapì ito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "At kung"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "kumalat"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "lumaganap"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sa balat"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ituturing na marumi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang taong may pinsala)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "hapì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:54.859392716Z",
+  "model": "glm-5.3"
+}

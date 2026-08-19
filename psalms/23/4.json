@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Oo, kahit lumakad ako sa libis ng anino ng kamatayan, hindi ako natatakot sa kasamaan, sapagkat ikaw ay kasama ko; ang iyong pamatok at ang iyong tungkod — sila ang nag-aaliw sa akin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "lumakad ako"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "anino ng kamatayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako natatakot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kasama ko"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "iyong pamatok"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "at iyong tungkod"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "nag-aaliw sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:55.638323365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ngunit kung magtigil ka ng ⟨mag⟩panata, hindi ⟨magiging⟩ kasalanan sa iyo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ngunit-kung"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "magtigil-ka"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ng-panata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa-iyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:12.246227782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Tubusin ng Elohim ang ⟨את⟩ Yisrael mula sa lahat ng kanyang mga kagipitan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "tubusin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kanyang mga kagipitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:05.211670724Z",
+  "model": "glm-5.3"
+}

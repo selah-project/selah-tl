@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi niya sa kanyang bayan: Narito, ang bayan ng mga anak ni Yisrael ay higit na marami at makapangyarihan kaysa sa atin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "higit na marami"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "at makapangyarihan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa sa atin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:31.998164658Z",
+  "model": "glm-5.3"
+}

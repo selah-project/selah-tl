@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At ang isa ay umalis ⟨את⟩ mula sa akin, at nagsabi ako, Siguradong napapatay ng hayop; at hindi ko pa siya nakikita hanggang ngayon.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ mula sa akin",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsabi ako"
+    },
+    {
+      "surface": "אך",
+      "gloss": "siguradong"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "napapatay"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ng hayop"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ko pa siya nakikita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngayon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:44.742098053Z",
+  "model": "glm-5.3"
+}

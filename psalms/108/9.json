@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Sa akin ang Gilad, sa akin ang Menashsheh, at ang Efrayim ay muog ng aking ulo, ang Yehudah ay aking tagapagbatas.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "at ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "muog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ng aking ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "aking tagapagbatas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:40.307290248Z",
+  "model": "glm-5.3"
+}

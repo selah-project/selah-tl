@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nakita ko ang ⟨את⟩ lahat ng mga gawang ginawa sa ilalim ng araw, at narito, ang lahat ay hangal na kabulaanan at pagkasakim ng hangin.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "mga gawa"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kabulaanan"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "at pagkasakim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:09.846036036Z",
+  "model": "glm-5.3"
+}

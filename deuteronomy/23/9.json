@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Mga anak na ipanganak sa kanila, sa ikatlong henerasyon, makapapasok ⟨ang⟩ mga ito sa kapisanan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ipanganak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ikatlong"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "makapapasok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ang⟩ mga ito"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:08.700292475Z",
+  "model": "glm-5.3"
+}

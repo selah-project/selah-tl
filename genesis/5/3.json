@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nabuhay si Adam na tatlumpung at isang daang taon, at nagkaanak sa kanyang wangis, ayon sa kanyang larawan, at tinawag ang ⟨את⟩ kanyang pangalan na Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "At nabuhay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "si Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "at isang daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "sa kanyang wangis"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "ayon sa kanyang larawan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:01.320356281Z",
+  "model": "glm-5.3"
+}

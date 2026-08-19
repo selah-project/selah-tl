@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Papasatuparin ⟨niya⟩ ang mga bayan sa ilalim natin, at ang mga bansa sa ilalim ng ating mga paa.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "ipapasatuparin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sa ilalim natin"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "at ang mga bansa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ating mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:56.878212674Z",
+  "model": "glm-5.3"
+}

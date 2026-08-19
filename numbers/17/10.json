@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Umahon kayo mula sa gitna ng pangkat na ito, at lulupigin ko sila ⟨את⟩ sa isang sandali. At nagpatirapa sila sa kanilang mga mukha.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Umahon kayo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ng pangkat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "at lulupigin ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "silá"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "sa isang sandali"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "At nagpatirapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kanilang mga mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T15:10:31.954050836Z",
+  "model": "glm-5.3"
+}

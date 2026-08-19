@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Lipas na ang ani, natapos na ang tag-init, ngunit tayo ay hindi maligtas.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "lipas na"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "natapos na"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ang tag-init"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngunit tayo"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "maligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:34.714113270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sila'y lalabas pagkatapos natin, hanggang sa mapunit natin sila mula sa ⟨ang⟩ siyudad; sapagkat sasabihin nila, Nangangalusot sila sa harapan natin, kung paano noong unang pagkakataon; at tayoy tatakas sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "at sila'y lalabas"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "pagkatapos natin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "mapunit natin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ siyudad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasabihin nila"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "nangangalusot sila"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sa harapan natin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paano"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "noong unang pagkakataon"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "at tayoy tatakas"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:01.087823336Z",
+  "model": "glm-5.3"
+}

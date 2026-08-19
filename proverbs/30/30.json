@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Ang leon na makapangyarihan sa ⟨mga⟩ hayop, at hindi uurong mula sa harap ng anuman.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "leon"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa ⟨mga⟩ hayop"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uurong"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harap ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anuman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:51.196394251Z",
+  "model": "glm-5.3"
+}

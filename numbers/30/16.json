@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At kung pawalang-bisa man niya ang ⟨את⟩ mga iyon matapos ang kanyang pagdinig, kanyang papasanin ang ⟨את⟩ kanyang kasalanan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pawalang-bisa"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ipawalang-bisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga iyon"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ang kanyang pagdinig"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kanyang papasanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang kasalanan"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kanyang kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:56.630826602Z",
+  "model": "glm-5.3"
+}

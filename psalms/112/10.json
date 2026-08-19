@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 112,
+  "translation": "Makikita ng masama at magalit; ngipin niya ay magngangalit at matutunaw; ang pithaya ng mga masasama ay manganganib.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "at magalit"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ngipin niya"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "magngangalit"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "at matutunaw"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ang pithaya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "manganganib"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:38.764111887Z",
+  "model": "glm-5.3"
+}

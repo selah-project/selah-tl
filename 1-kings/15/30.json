@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Dahil sa mga kasalanan ni Yarov'am na kanyang nagawa, at pinagkasalananan niya ang ⟨את⟩ Israel, sa pamamagitan ng kanyang pagpapagalit na nagalit niya sa ⟨את⟩ Yahweh, ang Elohim ng Israel.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga kasalanan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarov'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kanyang nagawa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pinagkasalananan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "sa pamamagitan ng kanyang pagpapagalit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "nagalit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:57.260895597Z",
+  "model": "glm-5.3"
+}

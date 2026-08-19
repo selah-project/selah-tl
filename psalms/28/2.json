@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Dinggin mo ang tinig ng aking mga pamamanhikan, sa aking pagsigaw sa Iyo, sa aking pag-angat ng aking mga kamay tungo sa iyong pinaka-dakong banal.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dinggin mo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ng aking mga pamamanhikan"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "sa aking pagsigaw"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa Iyo"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "sa aking pag-angat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng aking mga kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "pinaka-dakong banal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iyong kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:16.838336449Z",
+  "model": "glm-5.3"
+}

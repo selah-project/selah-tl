@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang ⟨את⟩ lahat ng iyong mga puno at ang bunga ng iyong lupa ay aagawin ng ⟨את⟩ balang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ng iyong mga puno"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "at bunga"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ng iyong lupa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "aagawin"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ang balang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:15.956328006Z",
+  "model": "glm-5.3"
+}

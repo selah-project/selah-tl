@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "At makikilala nila na ang iyong kamay ⟨ang⟩ ito; ikaw, si Yahweh, ang gumawa ⟨nito⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "at makikilala nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "gumawa nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:57.489037977Z",
+  "model": "glm-5.3"
+}

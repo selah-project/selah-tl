@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang saserdoteng nahasis na hahalili sa kanya mula sa kanyang mga anak ang gagawa ⟨את⟩ nito — batas magpakailanman kay Yahweh: lubos na sunugin sa usok.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "At ang saserdote"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "nahasis"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hahalili sa kanya"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "mula sa kanyang mga anak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nito",
+      "marks": "nito (ang handog)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "lubos na"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "sunugin sa usok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:45.127012132Z",
+  "model": "glm-5.3"
+}

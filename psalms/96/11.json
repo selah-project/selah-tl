@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Magalak ang mga langit at magtuwa ang lupa; umugong ang dagat at ang kapanahunan nito.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "at magtuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "umugong"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "at ang kapanahunan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:35.333019150Z",
+  "model": "glm-5.3"
+}

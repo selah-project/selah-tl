@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At nagpadala si Yoav ng mga sugo kay David, at nagsabi: Nakipaglaban ako sa Rabbah, at nabihag ko rin ang ⟨את⟩ lungsod ng tubig.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "nakipaglaban ako"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "sa Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "nabihag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod ng tubig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:58.203047443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At kukuha ka diyan ng kaunti ayon sa bilang, at ibabalot mo ang ⟨את⟩ mga iyon sa iyong palda.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "At kukuha ka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "diyan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ng kaunti"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ayon sa bilang"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "at ibabalot mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (sa iyong palda)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "sa iyong palda"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:26.223262946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Sa iyong payo iyong patnubayun ako, at pagkatapos ay aking tatanggapin sa kaluwalhatian",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Sa iyong payo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "iyong patnubayun ako"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "at pagkatapos"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sa kaluwalhatian"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "aking tatanggapin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:53.528273513Z",
+  "model": "glm-5.3"
+}

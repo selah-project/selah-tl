@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nakita ng Elohim ang ⟨את⟩ mga anak ni Yisrael, at nakilala ng Elohim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "at nakilala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:34.261981951Z",
+  "model": "glm-5.3"
+}

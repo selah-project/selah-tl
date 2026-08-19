@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At ngayon, narito, dinala ko ang ⟨את⟩ unang bunga ng bunga ng lupa na ibinigay mo sa akin, Yahweh; at ilalagay mo ito sa harap ni Yahweh na Elohim mo, at sasamba ka sa harap ni Yahweh na Elohim mo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "dinala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unang bunga ng bunga ng lupa"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "unang bunga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ng bunga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ibinigay mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "at ilalagak mo ito"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "at sasamba ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:49.374623047Z",
+  "model": "glm-5.3"
+}

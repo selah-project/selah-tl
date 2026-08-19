@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "at upang maghiwalay ng ⟨isang⟩ pagitan sa pagitan ng banal at sa pagitan ng karaniwan, at sa pagitan ng marumi at sa pagitan ng malinis;",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "at upang maghiwalay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "החל",
+      "gloss": "karaniwan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "marumi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "malinis"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:59.374424885Z",
+  "model": "glm-5.3"
+}

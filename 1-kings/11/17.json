@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At tumakas si Adad — siya at ilang mga Edomiteo na mga lingkod ng kanyang ama, ⟨את⟩ kasama niya — upang pumasok sa Mitzrayim; si Hadad noon ay batang maliit pa.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "At tumakas"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "si Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "at ilang mga tao"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomiteo"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mga lingkod ng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "siya (si Adad)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "upang pumasok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "at si Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batang"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "maliit pa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:42.608257663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Hindi ba nakakaalam ang mga gumagawa ng kabulaanan, na kumakain ng aking bayan na parang tinapay? Si Elohim ay hindi nila tinawag.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang mga gumagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kabulaanan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "na kumakain"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nila tinawag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:13.750985293Z",
+  "model": "glm-5.3"
+}

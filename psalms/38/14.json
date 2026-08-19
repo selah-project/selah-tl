@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ako, na parang binggi, ay hindi nakakarinig, at na parang pipi na hindi bubuka ng kaniyang bibig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "At ako"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "na parang binggi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nakakarinig"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "at na parang pipi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "bubuka"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ng kaniyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:28.640577434Z",
+  "model": "glm-5.3"
+}

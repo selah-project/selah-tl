@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Baka iyong hiyain ng nakakarinig, at ang iyong kasiraan ay hindi na maibalik",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "iyong hiyain"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ang nakakarinig"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "at ang iyong kasiraan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "maibalik"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:10.118330740Z",
+  "model": "glm-5.3"
+}

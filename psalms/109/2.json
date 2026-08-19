@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sapagkat binuksan laban sa akin ang bunganga ng masama at ang bunganga ng dayà; nagsalita sa akin ⟨את⟩ ako ng dila ng kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bunganga ng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "at ang bunganga ng"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dayà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "binuksan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akin",
+      "marks": "ako"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila ng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.602555315Z",
+  "model": "glm-5.3"
+}

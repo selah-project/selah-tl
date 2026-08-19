@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Dahil sa lahat ng mga kasalanan ni Baasha, at ng mga kasalanan ni Elah na anak niya, na nagkasala sila at pinagkasalahan nila ang ⟨את⟩ Israel, upang magpukaw ng galit sa ⟨את⟩ Yahweh, Elohim ng Israel, sa kanilang mga walang halaga na idolo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga kasalanan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "at ng mga kasalanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ni Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagkasala sila"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at na"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "pinagkasalahan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "upang magpukaw ng galit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "sa kanilang mga idolo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:30.034391953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Narito, sa mga palad ay iyong iniukit ⟨את⟩; ang iyong mga pader ay nasa harap Ko, palagi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "iniukit kita"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ang iyong mga pader"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "nasa harap Ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "palagi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:33.097451687Z",
+  "model": "glm-5.3"
+}

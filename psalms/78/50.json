@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Naghanda siya ng daan para sa kanyang galit; hindi niya iniligtas ang kanilang ⟨את⟩ kaluluwa mula sa kamatayan, at ang kanilang buhay ay ibinigay niya sa salot.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "naghanda ng daan"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ng landas"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "para sa kanyang galit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iniwasan\/iligtas"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mula sa kamatayan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang kanilang kaluluwa"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "at ang kanilang buhay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa salot"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ibinigay sa pangangalaga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:20.416606211Z",
+  "model": "glm-5.3"
+}

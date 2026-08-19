@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 8:28",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ko sa kanila: Kayo ay banal kay Yahweh, at ang mga kasangkapan ay banal, at ang pilak at ang ginto ay kusang alay kay Yahweh, Elohim ng mga ama ninyo.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "at ang mga kasangkapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "at ang pilak"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "at ang ginto"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kusang alay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mga ama ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:59.634536904Z",
+  "model": "glm-5.3"
+}

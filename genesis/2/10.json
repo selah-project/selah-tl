@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At may ilog na lumalabas mula sa Eden upang diligan ang ⟨את⟩ halamanan, at mula roon ay naghihiwalay ito at naging apat na ulo.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "at may ilog"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "mula sa Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "upang diligan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halamanan"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ang halamanan"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "at mula roon"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "naghihiwalay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mga ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:50.246173561Z",
+  "model": "glm-5.3"
+}

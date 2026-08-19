@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Ayon sa iyong pangalan, O Elohim, gayon ang iyong papuri hanggang sa mga wakas ng lupa; ng katuwiran ay puno ang iyong kanang kamay.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "ayon sa iyong pangalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ang iyong papuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw hanggang"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "sa mga wakas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ay puno"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.538810643Z",
+  "model": "glm-5.3"
+}

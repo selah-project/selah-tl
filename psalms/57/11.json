@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Sapagkat dakila hanggang sa ⟨mga⟩ langit ang iyong kagandahang-loob, at hanggang sa mga ulap ang iyong katotohanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong kagandahang-loob"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga ulap"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang iyong katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:21.926130890Z",
+  "model": "glm-5.3"
+}

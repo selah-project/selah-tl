@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ito ang aklat ng mga pinagmulan ni Adam. Sa araw na nilikha ni Elohim si Adam, sa wangis ng Elohim siya ⟨את⟩ ginawa.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "aklat"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga pinagmulan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Sa araw"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nilikha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "si Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "sa wangis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Adam"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:01.319658569Z",
+  "model": "glm-5.3"
+}

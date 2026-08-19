@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At dinala niya ako sa ⟨ang⟩ templo, at sinukat niya ang ⟨את⟩ mga haligi — anim na siko ang lapad mula rito, at anim na siko ang lapad mula roon — ⟨na siyang⟩ lapad ng tolda.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "at dinala niya ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨ang⟩ templo"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "at sinukat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "⟨ang⟩ mga haligi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "na siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang lapad"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "na siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang lapad"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lapad"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ng tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:48.401995120Z",
+  "model": "glm-5.3"
+}

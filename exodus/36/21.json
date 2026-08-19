@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Sampung siko ang haba ng ⟨the⟩ board, at isang siko at kalahatan ang lapad ng bawat isang board.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ng ⟨the⟩ board"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahatan"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ng siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lapad"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ng board"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng bawat isang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:36.187252545Z",
+  "model": "glm-5.3"
+}

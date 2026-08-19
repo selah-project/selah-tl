@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Nang subukin ako ng ⟨את⟩ inyong mga ama, tinalunan nila ako, gayong nakita nila ang aking gawa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "subukin nila ako"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyong mga ama"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "tinalunan nila ako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayong"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang aking gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:01.727090228Z",
+  "model": "glm-5.3"
+}

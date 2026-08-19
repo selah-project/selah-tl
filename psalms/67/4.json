@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 67,
+  "translation": "Magpuri sa iyo ang mga bansa, oh Elohim; magpuri sa iyo ang mga bansa, lahat sila.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "magpuri sa iyo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oh Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magpuri sa iyo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "lahat sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:34.556759463Z",
+  "model": "glm-5.3"
+}

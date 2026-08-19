@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At lumakad si Chanok kasama ⟨את⟩ Elohim, at hindi na siya ⟨naroon⟩, sapagkat kinuha siya ng Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "At lumakad"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "si Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "at hindi na siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:56.199422446Z",
+  "model": "glm-5.3"
+}

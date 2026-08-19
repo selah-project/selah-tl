@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "at ang ⟨את⟩ Yokmeam at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Beit-Choron at ang ⟨את⟩ mga bakuran nito",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at",
+      "marks": "Yokmeam"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yokmeam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:34.401467976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang kanyang pagbabalik ay sa Ramah, sapagkat doon ang kanyang bahay, at doon siya naghatol sa ⟨את⟩ Israel; at nagtayo siya roon ng dambana kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "at ang kanyang pagbabalik"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang kanyang bahay"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at doon"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "siya naghatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at nagtayo siya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:19.810724178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At anim na taon maghahasik ka ng ⟨את⟩ iyong lupa, at titipunin mo ang ⟨את⟩ ani nito.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "At anim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na taon"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "maghahasik ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong lupa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "iyong lupa"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "at titipunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani nito"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ani nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.375229282Z",
+  "model": "glm-5.3"
+}

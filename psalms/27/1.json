@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Kay David. Si Yahweh ay aking liwanag at aking kaligtasan — mula kanino ako matakot? Si Yahweh ay muog ng aking buhay — mula kanino ako manginig?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "aking liwanag"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "at aking kaligtasan"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mula kanino"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako matakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "muog"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ng aking buhay"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mula kanino"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ako manginig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:09.236804612Z",
+  "model": "glm-5.3"
+}

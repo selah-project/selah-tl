@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ako ay si Yahweh na Elohim mo, na naglabas sa iyo mula sa lupain ng Mitzrayim, mula sa bahay ng mga alipin.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "naglabas sa iyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ng mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:17.075222382Z",
+  "model": "glm-5.3"
+}

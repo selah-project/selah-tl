@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Iningatan ko ang iyong mgautos at ang iyong mga patotoo, sapagkat lahat ng aking mga lakad ay nasa harapan mo.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "iningatan ko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iyong mga-utos"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "at ang iyong mga patotoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "aking mga lakad"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa harapan mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:29.552915640Z",
+  "model": "glm-5.3"
+}

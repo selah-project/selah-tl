@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ikaw ang ipinakita upang malaman na si Yahweh — ⟨siya⟩ ang Elohim; walang iba pa bukod sa kanya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang ipinakita"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "upang malaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "iba pa"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "bukod sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:52.984691736Z",
+  "model": "glm-5.3"
+}

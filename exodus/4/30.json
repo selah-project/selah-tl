@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nagsalita si Aharon ng ⟨את⟩ lahat ng mga salita na sinalita ni Yahweh kay Moshe, at ginawa niya ang mga tanda sa harap ng mga mata ng ⟨the⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ang mga tanda"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa harap ng mga mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:29.553857339Z",
+  "model": "glm-5.3"
+}

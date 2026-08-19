@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At inilagay niya ang ⟨את⟩ kandelabro sa tolda ng kapisanan, katapat ng mesa, sa gilid ng ⟨the⟩ tabernakulo sa dakong timog.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "inilagay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandelabro"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandelabro"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "katapat"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sa dakong timog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:39.129540674Z",
+  "model": "glm-5.3"
+}

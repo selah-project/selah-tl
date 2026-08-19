@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Kumapit ang aking kaluluwa sa iyong likuran; sa akin ay sumusuporta ang iyong kanang kamay.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kumapit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa iyong likuran"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "sumusuporta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:07.200779321Z",
+  "model": "glm-5.3"
+}

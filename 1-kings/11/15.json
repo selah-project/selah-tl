@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nangyari, noong kasama ni David ang ⟨את⟩ Edom, sa pag-akyat ni Yoab na pinuno ng hukbo upang maglibing ng ⟨את⟩ mga napatay — tumimo siya ng bawat lalaki sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "noong kasama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sa pag-akyat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ng hukbo"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "upang maglibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga napatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mga napatay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tumimo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:07.698331406Z",
+  "model": "glm-5.3"
+}

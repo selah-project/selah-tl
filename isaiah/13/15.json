@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang bawat ⟨isang⟩ natatagpuan ay sasaksakin, at ang bawat ⟨isang⟩ nadakip ay babagsak sa tabak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "natatagpuan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sasaksakin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang bawat"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "nadakip"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "babagsak"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:23.817696663Z",
+  "model": "glm-5.3"
+}

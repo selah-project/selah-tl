@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At pumunta ako, at itinago ko ito sa Perath, kung paanong iniutos ni Yahweh sa akin.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "at pumunta ako"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "at itinago ko ito"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "sa Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ sa akin",
+      "marks": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T17:20:12.771406560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Magkano ang kamahalan ng iyong kagandahang-loob, Elohim! Kaya't ang mga anak ng tao ay lumilipana sa ilalim ng lilim ng iyong mga pakpak.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "magkano"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kamahalan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa lilim"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "iyong mga pakpak"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "lumilipana"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:04.657880532Z",
+  "model": "glm-5.3"
+}

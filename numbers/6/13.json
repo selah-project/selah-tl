@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ito ang torah ng Nazareo: sa araw ng pagkakaroon ng kanyang mga araw ng pagtatalaga, dadalhin siya ⟨את⟩ sa pasukan ng tolda ng pagkikita.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang torah"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "ng Nazareo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ng pagkakaroon"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ng mga araw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ng kanyang pagtatalaga"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "dadalhin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang Nazareo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng pagkikita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:58.681612492Z",
+  "model": "glm-5.3"
+}

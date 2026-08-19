@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ito ang mga salinlahi ni Shem: si Shem ay anak na sandaang taong gulang nang ipanganak niya si ⟨את⟩ Arpakhshad, dalawang taon pagkatapos ng baha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ang mga salinlahi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "si Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na ... gulang"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sandaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nang ipanganak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dalawang taon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "baha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:52.625982107Z",
+  "model": "glm-5.3"
+}

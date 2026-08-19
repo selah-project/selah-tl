@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Si Yahweh ang maglalaban para sa inyo, at kayo'y mananahimik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ang maglalaban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "at kayo"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ay mananahimik"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:24.002222967Z",
+  "model": "glm-5.3"
+}

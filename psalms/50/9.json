@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Hindi ako kukuha ng toro mula sa iyong bahay, ni mga kambing na lalaki mula sa iyong mga kulungan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "kukukuha-ko"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "mula-sa-iyong-bahay"
+    },
+    {
+      "surface": "פר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "mula-sa-iyong-mga-kulungan"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mga-kambing-na-lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.010294602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Itaas ninyo ang ⟨את⟩ ulo ng buong kapisanan ng mga anak ni Yisrael ayon sa kanilang mga angkan, ayon sa bahay ng kanilang mga ama, sa bilang ng mga pangalan, bawat lalaki, ayon sa kanilang mga ulo(gulohal)",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Itaas ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayon sa bahay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa bilang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ng mga pangalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ayon sa kanilang mga ulo(gulohal)"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:14.086412289Z",
+  "model": "glm-5.3"
+}

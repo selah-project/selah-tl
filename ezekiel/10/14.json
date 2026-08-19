@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 10:14",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At apat na mga mukha ⟨mayroon⟩ sa bawat isa: ang mukha ng isa ay mukha ng kerub, at ang mukha ng pangalawa ay mukha ng tao, at ang pangatlo ay mukha ng leon, at ang ikaapat ay mukha ng agila.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "At apat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mga mukha"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa bawat isa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang mukha ng"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha ng"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at ang mukha ng"
+    },
+    {
+      "surface": "השני",
+      "gloss": "pangalawa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "והשלישי",
+      "gloss": "at ang pangatlo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha ng"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "והרביעי",
+      "gloss": "at ang ikaapat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha ng"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "agila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:41:34.600674562Z",
+  "model": "glm-5.3"
+}

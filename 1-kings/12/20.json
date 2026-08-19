@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At nangyari, nang marinig ng buong Yisrael na nagbalik si Yarovam, ay nagsugo sila at tumawag sa ⟨את⟩ kanya sa kapulungan, at hinari nila si ⟨את⟩ kanya sa buong Yisrael; walang naging sumunod sa bahay ni David, maliban sa lipi ng Yehudah na nag-iisa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nang marinig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "si Yarovam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ay nagsugo sila"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si kanya (patungo sa kapulungan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kapulungan"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "at hinari nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si kanya (hari sa buong Yisrael)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sumunod sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "maliban sa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lipi ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "na nag-iisa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:50.882822525Z",
+  "model": "glm-5.3"
+}

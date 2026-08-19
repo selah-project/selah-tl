@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ni Paroh: Ako'y magpapapunta sa ⟨את⟩ inyo, at maghahandog kayo kay Yahweh na Elohim ninyo sa ilang; lamang lumayo — huwag kayong lalayong masyado sa paglalakbay — manalangin kayo alang-alang sa akin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "magpapapunta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "at maghahandog kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "lumayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "lalayong masyado kayo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglalakbay"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "manalangin kayo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "alang-alang sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:01.318624841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At sinaktan ni Shaul ang ⟨את⟩ Amalek mula sa Chavilah, patungo sa Shur, na nasa harapan ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "mula sa Chavilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sa pagpasok mo patungo sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harapan ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:26.608971748Z",
+  "model": "glm-5.3"
+}

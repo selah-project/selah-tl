@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Naalala Niya ang kanyang habag at ang kanyang tapat na pagmamahal sa sambahayan ni Yisrael; nakita ng lahat ng dulo ng lupa ang ⟨את⟩ kaligtasan ng ating Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "naalala Niya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang habag"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "at ang kanyang tapat na pagmamahal"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa sambahayan ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga dulo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaligtasan ng ating Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ng ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.404549598Z",
+  "model": "glm-5.3"
+}

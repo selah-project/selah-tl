@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At narinig ni Moshe, at naging mabuti ⟨ito⟩ sa kanyang mga mata.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "At narinig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "at naging mabuti"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:14.116479351Z",
+  "model": "glm-5.3"
+}

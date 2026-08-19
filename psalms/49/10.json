@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "At mabubuhay pa magpakailanman, hindi makikita ⟨ang⟩ hukay.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "at mabubuhay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.445441683Z",
+  "model": "glm-5.3"
+}

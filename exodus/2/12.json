@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At tumingin siya paligid — dito roon — at nakita niyang walang taong nandoon, at hinampas niya ang ⟨את⟩ taga-Mitsrayim at itinago niya siya sa buhangin.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "at tumingin siya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "dito (ganito)"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "at roon (ganoon)"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at hinampas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "at itinago niya siya"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "sa buhangin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:17.111211855Z",
+  "model": "glm-5.3"
+}

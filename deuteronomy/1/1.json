@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ito ang mga salita na sinalita ni Moshe sa buong Yisrael sa kabilang panig ng Yarden, sa ilang, sa Arabah, sa tapat ng Suph, sa pagitan ng Paran at sa pagitan ng Tophel, at Laban, at Chatserot, at Di-Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa kabilang panig ng"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Arabah"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa tapat ng"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tophel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "at Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "at Chatserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "at Di"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:46.899852148Z",
+  "model": "glm-5.3"
+}

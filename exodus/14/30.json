@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At linigtas ni Yahweh sa araw na yaon ang ⟨את⟩ Yisra'el mula sa kamay ng Misrayim, at nakita ng Yisra'el ang ⟨את⟩ Misrayim na patay sa bibig ng dagat.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "At linigtas ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ng dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:09.725839914Z",
+  "model": "glm-5.3"
+}

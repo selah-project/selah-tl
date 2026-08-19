@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "Purihin ninyo siya, ⟨mga⟩ araw at ⟨mga⟩ buwan; purihin ninyo siya, lahat ng ⟨mga⟩ bituin ng liwanag.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Purihin ninyo siya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "⟨mga⟩ araw"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "at ⟨mga⟩ buwan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "purihin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "⟨mga⟩ bituin ng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:15.929267076Z",
+  "model": "glm-5.3"
+}

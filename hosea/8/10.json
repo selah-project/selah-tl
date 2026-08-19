@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Oo, bagaman nagbayad sila sa ⟨את⟩ mga bansa, ngayo'y titipunin Ko sila, at magsisimula silang kumunti nang kaunti dahil sa pasan ng hari ng mga panginoon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bagaman"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nagbayad"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa",
+      "⟨את⟩-note": "mga bansa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "titipunin Ko sila"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "magsisimula silang kumunti"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nang kaunti"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "dahil sa pasan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ng mga panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:28.828102412Z",
+  "model": "glm-5.3"
+}

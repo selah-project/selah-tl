@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang katamaran ay nagpapatulog nang malalim, at ang kaluluwang nagtataksil ay magugutom.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "katamaran"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "nagpapatulog"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "nang malalim"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "at ang kaluluwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nagtataksil"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ay magugutom"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:43.415514134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At isinalaysay ni Mordekai sa kaniya ang ⟨את⟩ lahat ng nangyari sa kaniya, at ang ⟨את⟩ halagang pilak na sinabi ni Haman na kaniyang timbangin sa mga imbakan ng hari dahil sa mga Judio, upang lipulin sila.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at isinalaysay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng nangyari sa kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "nangyari sa kaniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang halagang pilak"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "halaga\/paliwanag ng"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "na kaniyang timbangin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "mga imbakan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "dahil sa mga Judio"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "upang lipulin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:40.937508117Z",
+  "model": "glm-5.3"
+}

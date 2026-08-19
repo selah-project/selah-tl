@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Mayroon din akong puso, gaya ninyo; hindi ako nahuhulog kaysa ⟨sa⟩ inyo; at ⟨את⟩ sino ang walang gaya ng mga ito?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "gaya ninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahuhulog"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mula sa inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "sino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gaya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:04.279759959Z",
+  "model": "glm-5.3"
+}

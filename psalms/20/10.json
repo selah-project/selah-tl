@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Yahweh, iligtas mo; pasagutin ng hari kami sa araw na tumawag kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "pasagutin kami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "na tumawag kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:37.621443603Z",
+  "model": "glm-5.3"
+}

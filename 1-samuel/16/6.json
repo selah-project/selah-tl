@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At nangyari, sa kanilang pagdating, na nakita niya si ⟨את⟩ Eliav, at sinabi, Katotoo'y sa harap ni Yahweh ang kanyang Mashíaj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "sa kanilang pagdating"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "katotoo'y"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ang kanyang Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:40.573111046Z",
+  "model": "glm-5.3"
+}

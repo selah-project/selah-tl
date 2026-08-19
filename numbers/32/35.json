@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At ang ⟨את⟩ Atrot-Shofan, at ang ⟨את⟩ Yaazer, at Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Atrot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "at Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:35.257580246Z",
+  "model": "glm-5.3"
+}

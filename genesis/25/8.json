@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At naghingalo at namatay si Avraham sa mabuting katandaan, matanda at busog sa mga araw, at pinagsama sa kanyang mga mamamayan.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "at naghingalo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "sa katandaan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "at busog"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinagsama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "kanyang mga mamamayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:17.850895940Z",
+  "model": "glm-5.3"
+}

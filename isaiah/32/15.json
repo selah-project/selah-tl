@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "hanggang sa mabuhos sa atin ang Espiritu mula sa kaitaasan, at ang ilang ay magiging kaparangan na mayaman, at ang kaparangan na mayaman ay bibilangin na ⟨parang⟩ gubat.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "mabuhos"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "mula sa kaitaasan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "kaparangan na mayaman"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "at ang kaparangan na mayaman"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bibilangin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:09.484228310Z",
+  "model": "glm-5.3"
+}

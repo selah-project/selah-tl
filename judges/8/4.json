@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At dumating si Gid'on sa Yarden, tumatawid siya at ang tatlong daang lalaki na ⟨את⟩ kasama niya, pagod ngunit naghahabol.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "si Gid'on"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tumatawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at ang tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "ang tatlong daang lalaki"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "pagod"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "ngunit naghahabol"
+    }
+  ],
+  "timestamp": "2026-08-19T15:51:01.600001894Z",
+  "model": "glm-5.3"
+}

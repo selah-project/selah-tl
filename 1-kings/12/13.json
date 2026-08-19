@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sumagot ang hari sa ⟨את⟩ bayan nang matigas, at pinawan niya ang ⟨את⟩ payo ng mga matanda na kanilang ipinayo sa kanya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nang matigas"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "at pinawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payo ng mga matanda"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "payo"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ng mga matanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ipinaino sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:17.061053643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Purihin mo, o aking kaluluwa, ⟨את⟩ si Yahweh, at huwag mong kalimutan ang lahat ng kanyang gawaing mabuti.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Purihin mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o aking kaluluwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "mong kalimutan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "kanyang gawaing mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:57.419214195Z",
+  "model": "glm-5.3"
+}

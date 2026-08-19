@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Malapit si Yahweh sa lahat ng nagtatawag sa kanya, sa bawat tumatawag sa kanya sa katotohanan.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "malapit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nagtatawag sa kanya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "tumatawag sa kanya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:33.776956064Z",
+  "model": "glm-5.3"
+}

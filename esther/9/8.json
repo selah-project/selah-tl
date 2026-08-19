@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ⟨את⟩ si Porata, at ⟨את⟩ si Adalya, at ⟨את⟩ si Aridata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Porata"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "si Porata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Adalya"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "si Adalya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aridata"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "si Aridata"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:13.718271768Z",
+  "model": "glm-5.3"
+}

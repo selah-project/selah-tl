@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At si Yaakov ay nagpatuloy sa kanyang lakad, at nasalubong siya ng mga tagapagbalita ng Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "at si Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagpatuloy\/naglakad"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sa kanyang lakad"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "at nasalubong"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "mga tagapagbalita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:20.913633079Z",
+  "model": "glm-5.3"
+}

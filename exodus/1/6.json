@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At namatay si Yosef, at ang lahat ng kanyang mga kapatid, at ang buong ⟨ang⟩ henerasyong yaon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:52.965715156Z",
+  "model": "glm-5.3"
+}

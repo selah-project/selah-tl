@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Yahweh Elohim ng mga hukbo, hanggang kailan ka nagnanabik sa panalangin ng iyong bayan?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "ka nagnanabik"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "sa panalangin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ng iyong bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.142887456Z",
+  "model": "glm-5.3"
+}

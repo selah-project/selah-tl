@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Sa Pangunguna, ayon sa Shushan-Edut, isang miktam ni David, upang ituro",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "upang ituro"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:26.680206864Z",
+  "model": "glm-5.3"
+}

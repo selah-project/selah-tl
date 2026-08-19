@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang ⟨את⟩ apat na ito ay ipinanganak sa Rafa sa Gat, at bumagsak sila sa kamay ni David at sa kamay ng kaniyang mga alipin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apat na ito"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "apat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "sa Rafa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "at bumagsak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "at sa kamay"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ng kaniyang mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:42.618413499Z",
+  "model": "glm-5.3"
+}

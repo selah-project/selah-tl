@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ito nga sila ang tumawid sa ⟨את⟩ Yarden sa unang buwan, habang ito ay umaapaw sa lahat ng mga gilid nito, at pinatakbo nila ang ⟨את⟩ lahat ng mga naninirahan sa mga lambak, pasilangan at pasakanluran.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nga sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "habang ito"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "umaapaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "mga gilid nito"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "at pinatakbo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga naninirahan sa mga lambak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "mga naninirahan sa mga lambak"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "pasilangan"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "at pasakanluran"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:19.693532651Z",
+  "model": "glm-5.3"
+}

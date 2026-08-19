@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At siya'y pumunta ⟨את⟩ kasama nila, at sila'y dumating sa Yarden, at humiwa sila ng mga kahoy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at siya'y pumunta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kasama nila"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at sila'y dumating"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "at humiwa sila"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ng mga kahoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:28.419432019Z",
+  "model": "glm-5.3"
+}

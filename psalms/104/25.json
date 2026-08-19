@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Ito ang dagat, dakila at malawak ng mga kamay; doon ⟨ang⟩ gumagalaw na mga nilalang na walang bilang, mga buhay na maliliit na kasama ng malalaki.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at malawak"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ng mga kamay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mga gumagalaw na nilalang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mga buhay"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "na maliliit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na kasama"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ng malalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:18.693868406Z",
+  "model": "glm-5.3"
+}

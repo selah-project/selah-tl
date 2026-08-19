@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Bawat isa, ang kanyang ina at ang kanyang ama ay kakatakutin ninyo, at ang ⟨את⟩ aking mga shabbat ay iingatan ninyo; ako si Yahweh na ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang kanyang ina"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "at ang kanyang ama"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kakatakutin ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "aking mga shabbat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "iingatan ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨ang⟩ Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:25.048752338Z",
+  "model": "glm-5.3"
+}

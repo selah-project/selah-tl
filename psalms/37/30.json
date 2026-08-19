@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Ang bibig ng tadik ay bubulong-bulong ng karunungan, at ang kanyang dila ay magsasalita ng hatol.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "bibig ng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tadik"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bubulong-bulong ng"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "at ang kanyang dila"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magsasalita ng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:45.563652702Z",
+  "model": "glm-5.3"
+}

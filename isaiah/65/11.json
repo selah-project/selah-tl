@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Ngunit kayo, mga nagpapaalam kay Yahweh, mga nakakalimot sa ⟨את⟩ bundok ng aking kabanalan, mga naghahanda ng mesa para kay Gad, at mga bumubuhos para kay Meni ng halong alak —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ngunit kayo"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "mga nagpapaalam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "mga nakakalimot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundok ng aking kabanalan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ng aking kabanalan"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "mga naghahanda"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "para kay Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "at mga bumubuhos"
+    },
+    {
+      "surface": "למני",
+      "gloss": "para kay Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "ng halong alak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:37.432375234Z",
+  "model": "glm-5.3"
+}

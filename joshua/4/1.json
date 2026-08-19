@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nangyari, nang matapos ang buong bansa na tumawid sa ⟨את⟩ Yarden, ay nagsalita si Yahweh kay Yehoshua, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bansa"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ay nagsalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:30.959667055Z",
+  "model": "glm-5.3"
+}

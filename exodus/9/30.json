@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit ikaw at ang iyong mga alipin — alam ko na hindi pa kayo nanginginig sa harapan ni Yahweh, ng Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "ו עבדיך",
+      "gloss": "at ang iyong mga alipin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "alam ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hindi pa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "nanginginig kayo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:14.188009521Z",
+  "model": "glm-5.3"
+}

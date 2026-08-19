@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa nila ang gayon; at iniunat ni Aharon ang ⟨את⟩ kanyang kamay na hawak ang kanyang tungkod, at hinampas ang ⟨את⟩ alabok ng lupain, at naging mga kinim ⟨ito⟩ sa tao at sa hayop; ang buong alabok ng lupain ay naging mga kinim sa buong lupain ng Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "na hawak ang kanyang tungkod"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at hinampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alabok ng lupain"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "mga kinim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "at sa hayop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mga kinim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:29.794106857Z",
+  "model": "glm-5.3"
+}

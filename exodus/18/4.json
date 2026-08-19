@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ang pangalan ng isa ay Eliezer, sapagkat sinabi niya: ang Elohim ng aking ama ay sa aking tulong, at Hinango Niya ako mula sa tabak ni Paraoh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "ay Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ng aking ama"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ay sa aking tulong"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "at Hinango Niya ako"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mula sa tabak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraoh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:49.293780629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Kaya nagtalo ang bayan kay Moshe, at nagsabi: Bigyan ninyo kaming tubig at uminom kami. At sinabi sa kanila ni Moshe: Bakit nangangatwiran kayo sa akin? Bakit sinusubok ninyo si ⟨את⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "at nagtalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bigyan ninyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami (ng)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "at uminom kami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "nangangatwiran kayo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "sinusubok ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:30.675022207Z",
+  "model": "glm-5.3"
+}

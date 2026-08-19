@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Ngunit sa mga sumasaway ay magiging malugod, at sa kanila dumarating ang pagpapalang mabuti.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "ngunit sa mga sumasaway"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "magiging malugod"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "at sa kanila"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "darating"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "pagpapala ng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:20.741067843Z",
+  "model": "glm-5.3"
+}

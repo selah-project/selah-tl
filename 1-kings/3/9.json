@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At igagawad mo sa iyong alila ang isang pusong nakikinig upang hatulan ang ⟨את⟩ iyong bayan, upang maunawaan ang pagitan ng mabuti at masama, sapagkat sinong makakayahang humatol sa ⟨את⟩ iyong bayan, sa ⟨isang⟩ kadakilaang ito?",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "at igagawad mo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa iyong alila"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakikinig"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "upang humatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "upang maunawaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ang pagitan ng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "at masama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makakayahang"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "humatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kadakilaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:30.458739897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At mula sa ⟨את⟩ kongregasyon ng mga anak ni Yisrael kukuha siya ng dalawang lalaking kambing para sa handog para sa kasalanan, at isang tupa para sa handog na susunugin.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ mula sa",
+      "marks": "kongregasyon ng mga anak ni Yisrael"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuha siya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "lalaking kambing"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ng mga kambing"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para sa handog para sa kasalanan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "at isang tupa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para sa handog na susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:28.193640052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Hindi ba ito gawa sa iyo mismo, sa pag-iwan mo kay Yahweh, iyong Elohim, sa panahon ng kanyang pagtatag sa iyo sa ⟨the⟩ daan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "pag-iwan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "kanyang pagtatag sa iyo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:03.555043575Z",
+  "model": "glm-5.3"
+}

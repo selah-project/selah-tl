@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "mga binata at gayundin ang mga dalaga, mga matatanda kasama ng mga bata:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mga binata"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at gayundin"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mga dalaga"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga bata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:38.010479598Z",
+  "model": "glm-5.3"
+}

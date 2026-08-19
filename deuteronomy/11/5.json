@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ginawa niya sa inyo sa ilang, hanggang sa pagdating ninyo hanggang sa ⟨the⟩ lugar na ito:",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "at ang ginawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pagdating ninyo"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨the⟩ lugar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:42.526287246Z",
+  "model": "glm-5.3"
+}

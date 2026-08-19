@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Buong araw siya ay nagpapakita ng awa at nagpapahiram, at ang kanyang binhi ay ⟨naging⟩ pagpapala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagpapakita ng awa"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "at nagpapahiram"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "at ang kanyang binhi"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "para sa pagpapala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:01.445976406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At pumasok si Elisha sa bahay, at narito, ang bata ay patay na, nakahiga sa kanyang higaan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "At pumasok"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ay patay na"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "nakahiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "kanyang higaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:07.837016273Z",
+  "model": "glm-5.3"
+}

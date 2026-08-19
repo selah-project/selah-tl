@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ako ay ⟨para⟩ sa aking minamahal, at ang aking minamahal ay ⟨para⟩ sa akin — siya na nagpapastol sa mga liryo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "⟨para⟩ sa aking minamahal"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "at ang aking minamahal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨para⟩ sa akin"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "siya na nagpapastol"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "sa mga liryo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:37.330342090Z",
+  "model": "glm-5.3"
+}

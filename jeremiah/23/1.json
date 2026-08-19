@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Kawawa kayong mga pastol na sumisira at nagkakalat ng ⟨את⟩ kawan ng aking pastulan, oracle ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "kawawa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga pastol"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "sumisira"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "at nagkakalat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "aking pastulan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:25:05.428753462Z",
+  "model": "glm-5.3"
+}

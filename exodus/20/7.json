@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Huwag mong dadalhin ⟨את⟩ pangalan ni Yahweh na iyong Elohim nang walang kabuluhan, sapagkat hindi papatawarin ni Yahweh ⟨את⟩ siyang magdadala ⟨את⟩ ng kanyang pangalan nang walang kabuluhan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dadalhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nang walang kabuluhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "papatawarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyang magdadala ng kanyang pangalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siyang"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ng kanyang pangalan"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nang walang kabuluhan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:22.332224806Z",
+  "model": "glm-5.3"
+}

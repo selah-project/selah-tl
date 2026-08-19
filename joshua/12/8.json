@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "sa kabundukan, at sa kapatagan, at sa Aravah, at sa mga dalisdis, at sa ilang, at sa Negev — ang ⟨mga⟩ Hiti, ang Emori, ang Kenaani, ang Perizi, ang Hivi, at ang Yevusi:",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "sa kabundukan"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "at sa kapatagan"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "at sa Aravah"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "at sa mga dalisdis"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "at sa ilang"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "at sa Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ang Kenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at ang Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:56.451688653Z",
+  "model": "glm-5.3"
+}

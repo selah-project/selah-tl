@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Lahat ng mga kapatid ng dukha ay kinamumuhian niya; magpahanggang pa, ang kanyang mga kaibigan ay lumayo sa kanya — naghahabol ng mga salita, ngunit sila ay wala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ng mga kapatid"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ng dukha"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "ay kinamumuhian niya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "magpahanggang pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lalo na"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ang kanyang mga kaibigan"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ay lumayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "naghahabol"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngunit wala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:43.601074902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tutuliin ninyo ang ⟨את⟩ laman ng inyong prepisyo, at magiging ⟨is⟩ tanda ng tipan sa pagitan ko at sa inyo.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "at tutuliin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ng inyong prepisyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ng tipan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa pagitan ko"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "at sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:05.837757425Z",
+  "model": "glm-5.3"
+}

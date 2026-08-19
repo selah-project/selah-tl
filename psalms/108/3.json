@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Gumising ka, nebel at kinor; gigisingin ko ang madaling-araw.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Gumising ka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "at kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "gigisingin ko"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ang madaling-araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:37.946036497Z",
+  "model": "glm-5.3"
+}

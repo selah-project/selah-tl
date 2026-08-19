@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Mas mabuti ang batang dukha at marunong kaysa matandang hari na hangal, na hindi na nakakaalam magpaalabin ⟨את⟩ sarili pa",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mas mabuti"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "batang"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "at marunong"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kaysa hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "na hangal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "magpaalabin ⟨את⟩ sarili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:36.621697208Z",
+  "model": "glm-5.3"
+}

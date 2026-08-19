@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Papurihan ko ang ⟨את⟩ Yahweh na nagpayo sa akin; oo, sa mga gabi ay tinuruan ako ng aking mga bato-bato.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "papurihan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "nagpayo sa akin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "sa mga gabi"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "tinuruan ako"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ng aking mga bato-bato"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.785533203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ginawa niya ang ⟨את⟩ lababo na tanso at ⟨את⟩ ang tungkulan nito na tanso, mula sa mga salaming-pangharap ng mga babaing nagsisilid na nagsisilid sa pasukan ng tolda ng tipanan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lababo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "lababo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tungkulan nito"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tungkulan nito"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "mula sa mga salamin"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "ng mga babaing nagsisilid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "nagsisilid sila"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:18.793091610Z",
+  "model": "glm-5.3"
+}

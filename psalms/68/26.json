@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Nanguna ang mga mang-aawit, sumunod ang mga tumutugtog, sa gitna ng mga dalagang pumupukol ng tambol.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nanguna"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga mang-aawit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "ang mga tumutugtog"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ng mga dalaga"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "pumupukol ng tambol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:13.221493423Z",
+  "model": "glm-5.3"
+}

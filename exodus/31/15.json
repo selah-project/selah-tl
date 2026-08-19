@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sa anim na araw ay gagawin ang gawa, ngunit sa ikapitong araw ay shabbat, shabbaton, banal kay Yahweh; bawat gumagawa ng gawa sa araw ng shabbat ay tiyak na papatayin.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sa anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ay gagawin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ang gawa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ng ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ng gawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng shabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak na patay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:58.325427769Z",
+  "model": "glm-5.3"
+}

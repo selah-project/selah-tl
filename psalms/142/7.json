@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 142,
+  "translation": "Pakinggan mo ang aking paghiyaw, sapagkat lubos akong napaubos; iligtas mo ako sa aking mga tagap_usig, sapagkat mas malakas sila kaysa sa akin.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "aking paghiyaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "napaubos ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "sa aking mga tagap_usig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "mas malakas sila"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaysa sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:44.416730585Z",
+  "model": "glm-5.3"
+}

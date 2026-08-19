@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 133,
+  "translation": "Awit ng mga pag-ahon, ni David. Masdan, gaano kabuti at gaano kaliyagan ang paninirahan ng mga kapatid, pati na magkakasama!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pag-ahon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "masdan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabuti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "at gaano"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kaliyagan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "paninirahan"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ng mga kapatid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati na"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:30.874212508Z",
+  "model": "glm-5.3"
+}

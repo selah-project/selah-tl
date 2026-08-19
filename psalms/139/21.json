@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Hindi baga kinamumuhian ko ang mga bumabangis sa iyo, Yahweh, at kinamumuhian ko ang mga nagtatanggol laban sa iyo?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "hindi baga"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ang mga sumasaway sa iyo \/ bumabangis sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "kinamumuhian ko"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "at ang mga nakikipaglaban sa iyo"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "akin silang kinamumuhian \/ nangangatwiran laban"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.365290070Z",
+  "model": "glm-5.3"
+}

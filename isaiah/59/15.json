@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "At naging tuluyang nawala ang katotohanan, at ang umiwas sa kasamaan ay naging samsam; at nakita ito ni Yahweh, at masama sa kanyang mga mata, sapagkat walang hatol.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "At naging"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ang katotohanan"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "tuluyang nawala"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "at ang umiwas"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "ay naging samsam"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita ito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "at masama"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang mga mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:55.600296300Z",
+  "model": "glm-5.3"
+}

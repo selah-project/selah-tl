@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At binili ko siya para sa akin sa labinlimang [shekel na] pilak, at isang homer ng sebada at kalahating letekh ng sebada.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "at binili ko siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "sa lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na may sampu (labinlima)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "at isang homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ng sebada"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "at isang letekh"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ng sebada"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:56.726544736Z",
+  "model": "glm-5.3"
+}

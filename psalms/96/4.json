@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Sapagkat si Yahweh ay dakila, at puspusang kapuri-puri; kailangang katakutan siya higit sa lahat ng mga dios.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "at puspusang kapuri-puri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "katakutan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "higit sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:27.677934415Z",
+  "model": "glm-5.3"
+}

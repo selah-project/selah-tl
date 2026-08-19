@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Mabuti ang karunungan na ⟨kapiling⟩ ng mana, at higit na kapaki-pakinabang sa mga nakakakita sa araw.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang karunungan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kapiling"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ng mana"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "at higit na kapaki-pakinabang"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "sa mga nakakakita"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:00.593832793Z",
+  "model": "glm-5.3"
+}

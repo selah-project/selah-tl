@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Kaya't gaya ng kuwintas ang kayabangan sa kanilang leeg, at gaya ng kasuutan ang karahasang bumabalot sa kanila.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "kuwintas sa kanilang leeg"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kayabangan"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "bumabalot"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kasuutan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karahasan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:18.617136356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Pumasok ka, magsalita kay Paraoh na hari ng Mitsrayim, at kanyang papayaging palayain ang ⟨את⟩ mga anak ni Yisrael mula sa kanyang lupain.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "pumasok ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at kanyang palayain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mula sa kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:08.978436682Z",
+  "model": "glm-5.3"
+}

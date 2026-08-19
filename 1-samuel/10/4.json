@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tatanungin ka nila tungkol sa kapayapaan, at bibigyan ka nila ng dalawang tinapay, at tatanggapin mo sa kanilang kamay.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "tatanungin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tungkol sa kapayapaan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bibigyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "tatanggapin mo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "sa kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:16.352443528Z",
+  "model": "glm-5.3"
+}

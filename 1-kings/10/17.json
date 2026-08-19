@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 10:17",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tatlong daang mga kalasag na ginto na pinapalo, tatlong mina ng ginto ang umakyat sa bawat ⟨isang⟩ kalasag; at inilagay ng hari ang mga iyon sa bahay ng gubat ng Lebanon.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daang"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "mga kalasag"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na ginto"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "pinapalo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mina"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "⟨isang⟩ kalasag"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "at inilagay niya ang mga iyon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ng gubat"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ng Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:56.824962552Z",
+  "model": "glm-5.3"
+}

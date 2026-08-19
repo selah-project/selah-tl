@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 113,
+  "translation": "Mga purihin ninyo si Yah! Mga purihin ninyo, mga lingkod ni Yahweh; purihin ninyo ang ⟨את⟩ pangalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "mga purihin ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mga purihin ninyo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga lingkod ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "purihin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:35.162290134Z",
+  "model": "glm-5.3"
+}

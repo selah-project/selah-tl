@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sumagot si Naval sa ⟨את⟩ mga alila ni David at nagsabi: Sino si David, at sino ang anak ni Yishay? Ngayon araw, marami nang mga alila na nangangalas, bawat isa sa harap ng kaniyang panginoon.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "si Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga alila ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alila ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayon araw"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "marami na"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga alila"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "na nangangalas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "kaniyang panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:53.488991050Z",
+  "model": "glm-5.3"
+}

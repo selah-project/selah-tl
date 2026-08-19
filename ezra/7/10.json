@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat si Ezra ay naghanda ng kaniyang puso upang saliksikin ang ⟨את⟩ torah ni Yahweh, at upang gawin ito, at upang magturo sa Yisrael ng batas at kahatulan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "si Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naghanda"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ang kaniyang puso"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "upang saliksikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torah ni Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah (kautusan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "at upang gawin"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "at upang magturo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batas (tuntunin)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at kahatulan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:54.244701182Z",
+  "model": "glm-5.3"
+}

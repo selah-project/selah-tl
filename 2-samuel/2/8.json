@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Avner na anak ni Ner, kumander ng hukbo ni Shaul, ay kumuha ng ⟨את⟩ Ish-Boshet na anak ni Shaul at ipinaglihis siya sa Machanayim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "at si Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ng"
+    },
+    {
+      "surface": "נר",
+      "gloss": "si Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kumander"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ng hukbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "at ipinaglihis siya"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "sa Machanayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:16.308033929Z",
+  "model": "glm-5.3"
+}

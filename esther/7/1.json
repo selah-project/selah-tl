@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At dumating ang hari at si Haman upang uminom kasama ni Ester ang reyna.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "at si Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "upang uminom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ni"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ang reyna"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:35.258698250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Na nagsasabi nila ng ikaw nang ⟨may⟩ tusong pag-iisip, itinataas nang ⟨patungkol sa⟩ ikaw, walang kabuluhan, ang mga kaaway mo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "nagsasabi nila ng ikaw"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "nang tusong pag-iisip"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "itinataas"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "walang kabuluhan"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ang mga kaaway mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:29.981068403Z",
+  "model": "glm-5.3"
+}

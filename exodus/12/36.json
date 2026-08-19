@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At si Yahweh ay nagbigay ng ⟨את⟩ biyaya ng bayan sa mga mata ng mga Mitsri, at pinagkalooban nila sila; at hinubaran nila ang ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ay nagbigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biyaya"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng mga Mitsri"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "at pinagkalooban nila sila"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "at hinubaran nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:12.345895825Z",
+  "model": "glm-5.3"
+}

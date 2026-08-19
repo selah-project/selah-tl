@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At sinabi ng Elohim sa akin: Hindi ka magtatayo ng bahay para sa aking pangalan, sapagkat lalaking mandirigma ka, at nagbuhos ka ng dugo.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "At sinabi ng Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ka magtatakayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "para sa aking pangalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaking"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "mandirigma sa mga digmaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "at dugo"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "nagbuhos ka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:28.304664362Z",
+  "model": "glm-5.3"
+}

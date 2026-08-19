@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At sinukat niya ang ⟨את⟩ lapad ng bukasan ng tarangkahan, sampung siko; ang haba ng tarangkahan, labintatlong siko.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "at sinukat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapad ng bukasan ng tarangkahan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lapad"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bukasan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "labín-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-tatlo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:24.280414395Z",
+  "model": "glm-5.3"
+}

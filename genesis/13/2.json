@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At si Avram ay ⟨mabigat⟩ nang labis — sa mga baka, sa pilak, at sa ginto.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "At si Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "⟨mabigat⟩ \/ mayaman"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "sa mga baka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "at sa ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:19.466409248Z",
+  "model": "glm-5.3"
+}

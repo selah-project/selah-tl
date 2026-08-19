@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Iligtas mo ang aking kaluluwa sa tabak, sa kamay ng aso ang aking tanging minamahal.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ng aso"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ang aking tanging minamahal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:37.836120597Z",
+  "model": "glm-5.3"
+}

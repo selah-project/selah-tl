@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 142,
+  "translation": "Pagtuturo ni David, noong siya'y nasa ⟨ang⟩ yungib — panalangin.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pagtuturo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "noong siya'y"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "nasa ⟨ang⟩ yungib"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:29.350300178Z",
+  "model": "glm-5.3"
+}

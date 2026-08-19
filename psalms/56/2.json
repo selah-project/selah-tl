@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Maawan mo ako, Elohim, sapagkat hiningahan ako ng taong-mortal; buong araw na nakikipaglaban, pipiga niya sa akin.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "maawan mo ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "hiningahan ako"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "taong-mortal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "pipiga niya sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:10.202212177Z",
+  "model": "glm-5.3"
+}

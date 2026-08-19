@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At mula sa lipi ng Dan: ⟨את⟩ Eltekeh at ⟨את⟩ mga bakuran nito, ⟨את⟩ Gibeton at ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "at mula sa lipi"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ng Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibeton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:02.378973249Z",
+  "model": "glm-5.3"
+}

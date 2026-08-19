@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At si Ketsron ang naging ama ni ⟨את⟩ Ram, at si Ram ang naging ama ni ⟨את⟩ Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "at si Ketsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "at si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:29.415489813Z",
+  "model": "glm-5.3"
+}

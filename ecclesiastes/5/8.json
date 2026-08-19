@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang karagdagang pakinabang ng lupa ay para sa lahat — ⟨siya⟩ ang hari: sa bukid na sinasaka siya naglilingkod.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "at ang pakinabang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ay pinaglilingkuran \/ sinasaka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:13.155308537Z",
+  "model": "glm-5.3"
+}

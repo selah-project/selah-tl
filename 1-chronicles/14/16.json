@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ginawa ni David kung ano ang iniutos sa kanya ng Elohim, at tinambangan nila ang ⟨את⟩ kampo ng mga Peleshti mula sa Giv'on hanggang Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung ano"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "iniutos sa kanya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at tinambangan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "mula sa Giv'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:59.914070837Z",
+  "model": "glm-5.3"
+}

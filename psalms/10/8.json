@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Nag-aabang siya sa mga lungga ng mga bakuran; sa mga taguan pumapatay siya ng ⟨את⟩ walang sala; ang kanyang mga mata ay nagmamasid nang palihim sa ⟨את⟩ aba.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "nag-aabang"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "sa mga lungga"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ng mga bakuran"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga taguan"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "pumapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walang sala"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "walang sala"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang kanyang mga mata"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "sa aba"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "nagmamasid nang palihim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:41.332606457Z",
+  "model": "glm-5.3"
+}

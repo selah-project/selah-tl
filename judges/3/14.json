@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At naglingkod ang mga anak ni Israel kay ⟨את⟩ Eglon, hari ng Moab, labing-walong taon.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon, hari ng Moab"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "puo\/labin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:32.486925789Z",
+  "model": "glm-5.3"
+}

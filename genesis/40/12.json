@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At sinabi ni Yosef sa kanya: Ito ang kahulugan nito: ang tatlong sanga — tatlong araw ⟨ang mga ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ang kahulugan nito"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ang tatlong"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:15.182604231Z",
+  "model": "glm-5.3"
+}

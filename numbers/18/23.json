@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 18:23",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ang Levita, siya ang maglilingkod ng ⟨את⟩ paglilingkod sa tolda ng tipunan, at sila ang mamumuhunan ng kanilang kawalang-katuwiran; tuntuning walang hanggan sa inyong mga salinlahi, at sa gitna ng mga anak ni Yisrael ay hindi sila magmamana ng pamana.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "at maglilingkod"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ang Levita"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paglilingkod"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "paglilingkod"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipunan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mamumuhunan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ng kanilang kawalang-katuwiran"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "tuntunin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa inyong mga salinlahi"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "at sa gitna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "magmamana"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ng pamana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:01.422952695Z",
+  "model": "glm-5.3"
+}

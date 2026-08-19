@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ilalagay mo sa ⟨את⟩ kaban ang ⟨את⟩ patotoo na ibibigay ko sa iyo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang patotoo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang patotoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:25.778062039Z",
+  "model": "glm-5.3"
+}

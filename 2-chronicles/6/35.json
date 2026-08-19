@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "at dinggin mo mula sa mga langit ang ⟨את⟩ kanilang panalangin at ang ⟨את⟩ kanilang pamamanhikan, at gawin mo ang kanilang hatol",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "at dinggin mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang panalangin"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "kanilang panalangin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kanilang hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:41.177576718Z",
+  "model": "glm-5.3"
+}

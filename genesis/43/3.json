@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At sinabi ni Yehudah sa kanya, na nagsasabi: Pinatotohanan ng ⟨את⟩ pagpapatotoo sa amin ang lalaki, na nagsasabi: Hindi ninyo makikita ang aking mukha, kung ang inyong kapatid ay ⟨את⟩ hindi kasama ninyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "העד",
+      "gloss": "pinatotohanan"
+    },
+    {
+      "surface": "העד",
+      "gloss": "ng pagpapatotoo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ninyo makikita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang aking mukha"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyong kapatid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kasama ninyo",
+      "marks": "kasama ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:05.358928620Z",
+  "model": "glm-5.3"
+}

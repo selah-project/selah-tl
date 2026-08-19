@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung talagang matatagpuan sa kanyang kamay ang nakaw — mula sa baka hanggang sa asno hanggang sa tupa, buháy — dalawá ang babayaran niya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "talagang matatagpuan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ang nakaw"
+    },
+    {
+      "surface": "משור",
+      "gloss": "mula sa baka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "sa asno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "שה",
+      "gloss": "sa tupa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buháy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawá"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.788285692Z",
+  "model": "glm-5.3"
+}

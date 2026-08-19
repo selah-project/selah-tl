@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sino siya, ang Hari ng kaluwalhatian? Si Yahweh, matibay at makapangyarihan; si Yahweh, makapangyarihan sa pakikipaglaban.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ng kaluwalhatian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "at makapangyarihan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa pakikipaglaban"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.506961488Z",
+  "model": "glm-5.3"
+}

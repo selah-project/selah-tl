@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At yumukod si Bat-Sheva at nagpatirapa sa hari; at sinabi ng hari: Ano ang ⟨mayroon⟩ para sa iyo?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "at yumukod"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "at nagpatirapa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:35.756462607Z",
+  "model": "glm-5.3"
+}

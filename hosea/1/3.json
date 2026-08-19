@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kaya't yumaon siya at kumuha ng ⟨את⟩ Gomer na anak ni Diblayim; at naglihi siya at nanganak sa kanya ng isang anak na lalake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ni Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "at naglihi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalake"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:01.169122835Z",
+  "model": "glm-5.3"
+}

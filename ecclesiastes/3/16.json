@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nakita ko pa sa ilalim ng araw: sa lugar ng hatol — naroon ang kasamaan; at sa lugar ng katuwiran — naroon ang kasamaan.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "At pa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ng hatol"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "naroon"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "at sa lugar"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "naroon"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:24.315451817Z",
+  "model": "glm-5.3"
+}

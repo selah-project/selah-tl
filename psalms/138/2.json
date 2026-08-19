@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 138,
+  "translation": "Yuyukod ako patungo sa iyong banal na templo, at papurihan ko ang ⟨את⟩ iyong pangalan dahil sa iyong kagandahang-loob at dahil sa iyong katotohanan; sapagkat pinalaki mo ang iyong salita higit sa lahat, sa iyong pangalan.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Yuyukod ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iyong banal"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "at papurihan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong pangalan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iyong pangalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iyong katotohanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "pinalaki mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "higit sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iyong pangalan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "iyong salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:11.273268233Z",
+  "model": "glm-5.3"
+}

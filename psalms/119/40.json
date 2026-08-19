@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Tingnan, nananabik ako sa iyong mga kautusan; sa iyong katuwiran buhayin mo ako.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "nananabik ako"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "sa iyong mga kautusan"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa iyong katuwiran"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "buhayin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:28.354831066Z",
+  "model": "glm-5.3"
+}

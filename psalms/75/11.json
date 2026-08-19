@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "At ang lahat ng mga sungay ng masasama ay puputulin ko; mga sungay ng matuwid ay itataas.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "puputulin ko"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ay itataas"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:49.767708534Z",
+  "model": "glm-5.3"
+}

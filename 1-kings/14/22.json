@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At gumawa ang Yehudah ng kasamaan sa mata ni Yahweh, at pinanibugso nila siya ⟨את⟩ higit sa lahat ng ginawa ng kanilang mga ninuno, sa pamamagitan ng kanilang mga kasalanan na kasalanang nagawa nila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At gumawa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "at pinanibugso nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Yahweh)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ninuno"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "sa pamamagitan ng kanilang mga kasalanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "kasalanang nagawa nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:01.627101010Z",
+  "model": "glm-5.3"
+}

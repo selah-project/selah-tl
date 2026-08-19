@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang iyong pagkasira, O Israel — sapagkat sa akin ⟨ang⟩ iyong tulong.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ang iyong pagkasira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "sa iyong tulong"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:48.395732600Z",
+  "model": "glm-5.3"
+}

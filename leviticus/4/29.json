@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At idiin niya ang ⟨את⟩ kanyang kamay sa ulo ng handog para sa kasalanan, at ihatid niya ang ⟨את⟩ handog para sa kasalanan sa dakong inihahandog ang ⟨the⟩ haing-susunugin.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "at idiin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "handog para sa kasalanan"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "at ihatid niya (sa pagkatay)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog para sa kasalanan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "handog para sa kasalanan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dakong"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "haing-susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:41.026254837Z",
+  "model": "glm-5.3"
+}

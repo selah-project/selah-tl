@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At gawin mo ang ⟨את⟩ bagay na ito: alisin mo ang mga hari, bawat isa sa kaniyang katungkulan, at maglagay ka ng mga pachah sa kanilang lugar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawin mo"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "alisin mo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "sa kaniyang katungkulan"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "at maglagay ka"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "mga pachah"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "sa kanilang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:08.973291671Z",
+  "model": "glm-5.3"
+}

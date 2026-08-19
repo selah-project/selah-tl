@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ngunit kung hindi niya hughugasan at hindi ibabanhaw ang kanyang laman, madadala niya ang kanyang sariling kasalanan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "niya hughugasan"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "at ang kanyang laman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ibabanhaw"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "madadala niya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ang kanyang kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:32.714911899Z",
+  "model": "glm-5.3"
+}

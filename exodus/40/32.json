@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Sa kanilang pagpasok sa Tolda ng Pagkikitang at sa kanilang paglapit sa dambana, naghuhugas sila, gaya ng iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "sa kanilang pagpasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Pagkikitan"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "at sa kanilang paglapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "naghuhugas sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:08.500249921Z",
+  "model": "glm-5.3"
+}

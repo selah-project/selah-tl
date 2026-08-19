@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Isang beses nagsalita si Elohim — dalawa ito, aking narinig: na kay Yahweh⟨–⟩⟨Elohim⟩ ang lakas ⟨ay⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "isang beses"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ito"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aking narinig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ang lakas"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:10.974825542Z",
+  "model": "glm-5.3"
+}

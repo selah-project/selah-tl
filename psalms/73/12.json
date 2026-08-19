@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Tingnan, sila ang masasamang tao, at ang mga laging nasa aliw ng walang hanggan ay lumago sa yaman.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang masasamang tao"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "at ang mga laging nasa aliw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ng walang hanggan"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "lumago"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa yaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:53.995363758Z",
+  "model": "glm-5.3"
+}

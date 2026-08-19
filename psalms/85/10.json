@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Tunay na malapit sa mga nakatatakot sa kanya ang kanyang kaligtasan, upang manahan ang kaluwalhatian sa ating lupain.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "malapit"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga nakatatakot sa kanya"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kanyang kaligtasan"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "upang manahan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa ating lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.192177415Z",
+  "model": "glm-5.3"
+}

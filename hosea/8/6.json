@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sapagkat mula sa Yisrael ito ⟨napagmulan⟩; binigkis ng artesano, at hindi Elohim ⟨ito⟩ — sapagkat magiging piraso ang guya ng Shomeron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mula sa Yisrael"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "artesano"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ang gumawa nito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "mga piraso"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "guya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ng Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:24.137098806Z",
+  "model": "glm-5.3"
+}

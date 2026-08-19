@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Sumapit sa iyong harapan ang daing ng bilanggo; ayon sa kadakilaan ng iyong bisig, iwanan mo ang mga anak ng kamatayan.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "sumapit"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "daing ng"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bilanggo"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "ayon sa kadakilaan ng"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "iyong bisig"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "iwanan mo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:42.826866485Z",
+  "model": "glm-5.3"
+}

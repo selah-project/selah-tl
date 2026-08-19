@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Naglakbay ang Yisraël, at iniunat ⟨ang⟩ kanyang tolda sa lampas ng Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "naglakbay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "iniunat"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "kanyang tolda"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "sa lampas"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "ng Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-Eder"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:50.173133762Z",
+  "model": "glm-5.3"
+}

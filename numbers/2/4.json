@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kanyang hukbo, at ang kanilang mga bibilangin: apat na put供给侧 sapulung at pitumpu libo at anim na raan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "At ang kanyang hukbo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "at ang kanilang mga bibilangin"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "at pitumpu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "na raan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:57.722085585Z",
+  "model": "glm-5.3"
+}

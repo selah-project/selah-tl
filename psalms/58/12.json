@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "At sasabihin ng tao: tunay na may bunga para sa matuwid; tunay na may Elohim na humahatol sa lupa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sasabihin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "para sa matuwid"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "humahatol"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:17.935881784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Kapag hinugasan ni Adonai ang ⟨את⟩ dumi ng mga anak na babae ng Tzion, at ang ⟨את⟩ dugô ng Yerushalayim ay pawiin niya mula sa gitna nito, sa pamamagitan ng espiritu ng hatol at ng espiritu ng pagsusunog.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "hinugasan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dumi ng mga anak na babae ng Tzion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "dumi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dugô ng Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dugô"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "pawiin"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "mula sa gitna nito"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sa espiritu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "at sa espiritu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pagsusunog"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:05.512968959Z",
+  "model": "glm-5.3"
+}

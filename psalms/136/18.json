@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "At pumatay ng mga makapangyarihang hari, sapagkat hanggang magpakailanman ang kaniyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "at pumatay ng"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kaniyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:58.180010876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At nakasumpong si Yosef ng biyaya sa mga mata niya, at naglingkod siya ⟨את⟩ sa kanya; at itinalaga niya siya sa ibabaw ng kanyang bahay, at ang lahat ng mayroon siya ay ibinigay niya sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "at nakasumpong"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa mga mata niya"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "si Yosef — pinaglilingkuran niya ang panginoon"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "at itinalaga siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ng mayroon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:32.665251228Z",
+  "model": "glm-5.3"
+}

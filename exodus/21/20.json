@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At kung hampisin ng isang lalaki ang ⟨את⟩ kaniyang aliping lalaki o ang ⟨את⟩ kaniyang aliping babae ng tungkod, at mamatay sa ilalim ng kaniyang kamay, tiyak na paghihigantihin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "hampisan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang aliping lalaki"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kaniyang aliping lalaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang aliping babae"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kaniyang aliping babae"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ng tungkod"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at mamatay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ng kaniyang kamay"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tiyak na"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "paghihigantihin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:55.929964287Z",
+  "model": "glm-5.3"
+}

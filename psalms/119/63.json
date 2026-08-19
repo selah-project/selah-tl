@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Kasama ako ng lahat ng nangangatakot sa iyo at ng mga nag-iingat ng iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "nangangatakot sa iyo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "at ng mga nag-iingat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ng iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:58.185874802Z",
+  "model": "glm-5.3"
+}

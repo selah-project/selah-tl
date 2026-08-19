@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At inunat ni Ehud ang ⟨את⟩ kanyang kaliwang kamay, at kinuha ang ⟨את⟩ espada mula sa kanyang kanang hita, at itinulas ito sa kanyang tiyan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inunat"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "si Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kaliwang kamay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "kaliwa niya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "espada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang espada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hita"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kanan niya"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "at itinulas ito"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "sa kanyang tiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:34.583385665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 134,
+  "translation": "Iangat ninyo ang inyong mga kamay patungo sa ⟨the⟩ santuwaryo, at basbasán ninyo si ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iangat ninyo"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ang inyong mga kamay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa ⟨the⟩ santuwaryo"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "at basbasán ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:54.278542431Z",
+  "model": "glm-5.3"
+}

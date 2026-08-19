@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Sa akin lumipas ang iyong mga pangingisi ng galit; ang iyong mga sindak ay nagpamatay sa akin nang lubos.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "iyong mga pangingisi ng galit"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "iyong mga sindak"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "nagpamatay sa akin nang lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:26.000945233Z",
+  "model": "glm-5.3"
+}

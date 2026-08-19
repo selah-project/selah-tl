@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At papakinggan mo ang tinig ni Yahweh na iyong Elohim, at gawin mo ang ⟨את⟩ kaniyang mga utos at ang ⟨את⟩ kaniyang mga batas na iniuutos ko sa iyo sa araw na ito.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "At papakinggan mo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga utos"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "kaniyang mga utos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang mga batas"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "kaniyang mga batas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "iniuutos ko sa iyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa araw na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:39.380320659Z",
+  "model": "glm-5.3"
+}

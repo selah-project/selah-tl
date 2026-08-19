@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "at lumaki ang iyong puso, at nakalimutan mo si ⟨את⟩ Yahweh na iyong Elohim, na naglabas sa iyo mula sa lupain ng Mitzrayim, mula sa bahay ng mga alipin,",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "at lumaki"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ang iyong puso"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "at nakalimutan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "na naglabas sa iyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ng mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:29.195006807Z",
+  "model": "glm-5.3"
+}

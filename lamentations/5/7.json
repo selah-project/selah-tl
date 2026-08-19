@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ang mga amain natin ay nagkasala — wala na sila; kami ang nagbunit ng kanilang mga kasalanan.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ang mga amain natin"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagkasala"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na sila"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ng kanilang mga kasalanan"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "nagbunit kami"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:59.187692126Z",
+  "model": "glm-5.3"
+}

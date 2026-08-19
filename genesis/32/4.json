@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nagpadala si Yaakov ng mga tagapagbalita sa harapan niya, kay Esav na kapatid niya, patungo sa lupain ng Seir, sa parang ng Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ng mga tagapagbalita"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay\/patungo sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kapatid niya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ng Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ng Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:20.913993546Z",
+  "model": "glm-5.3"
+}

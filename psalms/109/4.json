@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sa halip na pag-ibig ko, akusahan nila ako; ngunit ako — panalangin.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Sa halip na"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "pag-ibig ko"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "akusahan nila ako"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.602860581Z",
+  "model": "glm-5.3"
+}

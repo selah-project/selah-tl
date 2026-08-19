@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Ang apoy ay bumamo sa kanyang mga binata, at ang kanyang mga dalaga ay hindi hinangan.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "ang kanyang mga binata"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ay bumamo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang apoy"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "at ang kanyang mga dalaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "hinangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:24.043904891Z",
+  "model": "glm-5.3"
+}

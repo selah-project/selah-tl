@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At winasak nila ang ⟨את⟩ haliging-tanda ni Baal, at winasak nila ang ⟨את⟩ bahay ni Baal, at ginawa nila ⟨ito⟩ na lugar ng dumi hanggang sa araw na ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "at winasak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haliging-tanda ni Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "haliging-tanda"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "at winasak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "at ginawa nila ito"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "na lugar ng dumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:50.884759778Z",
+  "model": "glm-5.3"
+}

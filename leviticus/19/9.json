@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sa inyong pagaani ng ⟨את⟩ ani ng inyong lupain, huwag mong aanihin hanggang wakas ang gilid ng iyong bukid, at ang nalalabi ng iyong ani ay huwag mong pipitasin.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "at sa inyong pagaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ng inyong lupain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "aanihin hanggang wakas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ng iyong bukid"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "paganiin"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "at ang nalalabi"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ng iyong ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pipitasin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:28.359345438Z",
+  "model": "glm-5.3"
+}

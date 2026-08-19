@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa araw na yaon ay kakainin ⟨ito⟩; huwag kayong mag-iiwan ng anuman dito hanggang umaga: ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ay kakainin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "kayong mag-iiwan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dito ng anuman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:28.506524264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ngayon, O naninirahan sa Yerushalayim at mamamayan ng Yehuda, humatol kayo, pakiusap ko, sa pagitan ko at ng aking ubasan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "O naninirahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at mamamayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "humatol kayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pakiusap ko"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa pagitan ko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "aking ubasan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:32.352137976Z",
+  "model": "glm-5.3"
+}

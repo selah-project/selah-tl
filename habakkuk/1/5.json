@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Tingnan ninyo sa ⟨את⟩ mga bansa at masdan, at mangha, mangha nang lubos; sapagkat may gawang gumagawa sa inyong mga araw na hindi ninyo paniniwalaan kapag isinalaysay.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Tingnan ninyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "at masdan"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "at mangha"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "mangha nang lubos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "sa inyong mga araw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "paniniwalaan ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "isinalaysay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:05:18.689841099Z",
+  "model": "glm-5.3"
+}

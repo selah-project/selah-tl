@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At yumao ang kanyang mga kapatid upang magpastol ng ⟨את⟩ kawan ng kanilang ama sa Shechem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "at yumao ang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "upang magpastol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "kanilang ama"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "sa Shechem"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:23.371677048Z",
+  "model": "glm-5.3"
+}

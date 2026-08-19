@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At nakumis ang galit ng Yahweh laban sa kanyang bayan, at kinamuhian niya ang ⟨את⟩ kanyang minanang-ari",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "at nakumis\/sumiklab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit (ilong)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "laban sa kanyang bayan"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "at kinamuhian niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang minanang-ari"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kanyang minanang-ari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.301511006Z",
+  "model": "glm-5.3"
+}

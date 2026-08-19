@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Bawat isang naipangalan sa aking pangalan, at para sa aking kaluwalhatian: nilikha ko siya, hinubog ko siya, oo, ginawa ko siya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bawat"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "isang naipangalan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa aking pangalan"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "at para sa aking kaluwalhatian"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "nilikha ko siya"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "hinubog ko siya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ginawa ko siya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:40.748140066Z",
+  "model": "glm-5.3"
+}

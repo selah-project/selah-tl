@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sumailalim ang usok sa kaniyang ilong, at apoy mula sa kaniyang bibig ay kumakain; mga uling na nasindihan dahil ⟨sa kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "sumaangat"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "usok"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa kaniyang ilong"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "at apoy"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "mula sa kaniyang bibig"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "mga uling"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "nasindihan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dahil ⟨sa kaniya⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:39.231975977Z",
+  "model": "glm-5.3"
+}

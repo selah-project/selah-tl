@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang mga anak ni Elkanah: si Amasay at si Achimot.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak ni"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "si Amasay"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "at si Achimot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:47.454059772Z",
+  "model": "glm-5.3"
+}

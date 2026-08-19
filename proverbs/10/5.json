@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang nag-aani sa tag-araw ay anak na marunong; ang natutulog sa ani ay anak na nagdudulot ng kahihiyan.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "nag-aani"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa tag-araw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "natutulog"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "nagdudulot ng kahihiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:57.222849273Z",
+  "model": "glm-5.3"
+}

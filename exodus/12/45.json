@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang tagapamahay at ang upahang tao ay hindi kakain niyon.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "tagapamahay"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "at ang upahang tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niyon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:23.122520417Z",
+  "model": "glm-5.3"
+}

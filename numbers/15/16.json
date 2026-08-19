@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Isang torah at isang batas ang magiging para sa inyo at sa dayuhang naninirahan ⟨את⟩ kasama ninyo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at batas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "at sa dayuhan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "na naninirahan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kasama ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:09:12.744567002Z",
+  "model": "glm-5.3"
+}

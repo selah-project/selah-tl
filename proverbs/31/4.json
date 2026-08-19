@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Hindi para sa mga hari, O Lemuel, hindi para sa mga hari ang uminom ng alak, ni para sa mga pinuno ang paghahangad ng matapang na inumin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "para sa mga hari"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "O Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "para sa mga hari"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ang uminom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ng alak"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "at para sa mga pinuno"
+    },
+    {
+      "surface": "או",
+      "gloss": "ang paghahangad"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ng matapang na inumin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:18.024740181Z",
+  "model": "glm-5.3"
+}

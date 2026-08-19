@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Ulan ng mga kusang handog ang iyonugsik mo, O Elohim; ang iyong pamana, nang ito'y mapagod, ikaw ang nag-ayos nito.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ng mga kusang handog"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ang iyonugsik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ang iyong pamana"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "nang ito'y mapagod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ang nag-ayos nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:03.274874243Z",
+  "model": "glm-5.3"
+}

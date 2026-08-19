@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ngayo'y mga hari, magkaroon kayo ng karunungan; magpaturo kayo, mga hukom ng lupa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayo'y"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "magkaroon kayo ng karunungan"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "magpaturo kayo"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mga hukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:14.328446689Z",
+  "model": "glm-5.3"
+}

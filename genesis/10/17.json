@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "at ang ⟨את⟩ Hiwita at ang ⟨את⟩ Arqita at ang ⟨את⟩ Sinita",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiwita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arqita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.098702778Z",
+  "model": "glm-5.3"
+}

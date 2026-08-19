@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At gagawin mo ang ⟨את⟩ balabal ng ephod, buong-kabit-kabit na asul na tela.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balabal"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "balabal"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ng ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "buong-kabit-kabit na"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul na tela"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:21.025294050Z",
+  "model": "glm-5.3"
+}

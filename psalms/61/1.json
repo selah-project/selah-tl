@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Sa Pangulo ng mga mang-aawit, sa tugtugin ng kuwerdas, ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa Pangulo ng mga mang-aawit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "tugtugin ng kuwerdas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.437109123Z",
+  "model": "glm-5.3"
+}

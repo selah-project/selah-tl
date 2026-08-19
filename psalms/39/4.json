@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Naginit ang aking puso sa loob ko; habang nagbubulay-bulay ako, nagliyab ang apoy; nagsalita ako ng aking dila.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "naginit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa loob ko"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "habang nagbubulay-bulay ako"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "nagliyab"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang apoy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsalita ako"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ng aking dila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:23.721808508Z",
+  "model": "glm-5.3"
+}

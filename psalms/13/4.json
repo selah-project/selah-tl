@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Tingnan mo, sagutin mo ako, Yahweh Elohim ko; pasinagin mo ang aking mga mata, baka ako ay makatulog sa ⟨ang⟩ kamatayan.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "pasinagin mo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mga mata"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ako ay makatulog"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sa kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:59.447666154Z",
+  "model": "glm-5.3"
+}

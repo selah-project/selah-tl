@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kaya pinaikot ng Elohim ang ⟨את⟩ bayan sa daan ng ilang patungo sa Dagat ng Tambo; at sumanib na nakahandâ sa pakikipaglaban ang mga anak ni Yisrael mula sa lupain ng Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "pinaikot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Tambo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "nakahandâ sa pakikipaglaban"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sumanib"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:14.801167881Z",
+  "model": "glm-5.3"
+}

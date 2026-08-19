@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At ang lapad ng looban sa gilid ng kanluran: mga kurtina na limampung siko; mga haligi nila ay sampu, at mga basemento nila ay sampu.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "at ang lapad ng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "looban"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kanluran (dagat)"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "mga haligi nila"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at mga basemento nila"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampu"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:11.608040941Z",
+  "model": "glm-5.3"
+}

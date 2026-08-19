@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang pasimula ng karunungan ay ang pagkatakot kay Yahweh, at ang pagkaalam sa mga banal ay unawa.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ang pasimula"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ang pagkatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "at ang pagkaalam"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga banal"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ay unawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:03.588459401Z",
+  "model": "glm-5.3"
+}

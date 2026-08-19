@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Iparating ng iba ang papuri sa iyo, at hindi ang iyong bibig; ng taga-ibang bayan, at hindi ang iyong mga labi.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Iparating ng iba ang papuri sa iyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ng iba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang iyong bibig"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ng taga-ibang bayan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ang iyong mga labi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:07.150787403Z",
+  "model": "glm-5.3"
+}

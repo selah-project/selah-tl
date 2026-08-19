@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At si Asa na hari ay kumuha ng ⟨את⟩ buong Yehudah, at dinadala nila ang ⟨את⟩ mga bato ng Rama at ⟨את⟩ mga kahoy nito na itinayo ni Baasha, at siya'y tumayo sa pamamagitan nila ng ⟨את⟩ Geba at ⟨את⟩ haMitzpa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "At si Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "na hari"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kumuha ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at dinadala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato ng Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato ng"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga kahoy nito"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "mga kahoy nito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at siya'y tumayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "haMitzpa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "haMitzpa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:32:02.951211838Z",
+  "model": "glm-5.3"
+}

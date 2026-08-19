@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Pagkain ay bibilihin ninyong ⟨את⟩ mula sa kanila sa pilak at kakainin ninyo, at pati tubig ay bibilhin ninyong ⟨את⟩ mula sa kanila sa pilak at iinumin ninyo.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "bibilihin ninyo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ mula sa kanila"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "at kakainin ninyo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "bibilhin ninyo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ mula sa kanila"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "at iinumin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:32.481816286Z",
+  "model": "glm-5.3"
+}

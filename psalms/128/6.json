@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 128,
+  "translation": "at makita mo ang mga anak ng mga anak mo. Kapayapaan ⟨sa⟩ Yisra'el!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at makita mo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ng mga anak mo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:20.015939417Z",
+  "model": "glm-5.3"
+}

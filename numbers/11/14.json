@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Hindi ako makakaya na mag-isa lang búhatin ang ⟨את⟩ buong bayang ito, sapagkat mabigát ito nang higit sa akin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mag-isa lang"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "búhatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigát"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "higit sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:07:25.468675844Z",
+  "model": "glm-5.3"
+}

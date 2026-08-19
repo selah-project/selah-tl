@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Si Yahweh mag-isa ang namahala sa kaniya, at walang kasama niyang El na banyaga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "mag-isa"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "nagpatnubay sa kaniya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "banyaga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:42.428871969Z",
+  "model": "glm-5.3"
+}

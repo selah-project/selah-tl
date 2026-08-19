@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Yamang hindi niya naalang na gumawa ng kabutihan, kundi hinabol niya ang taong dukha at maralita, at ang may sugatang puso, upang patayin.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "yamang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalang"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gumawa ng"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kabutihan"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "hinabol niya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang taong"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at maralita"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "at ang may sugatang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "upang patayin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:19.974979192Z",
+  "model": "glm-5.3"
+}

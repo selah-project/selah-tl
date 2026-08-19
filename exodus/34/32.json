@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At pagkatapos nito, lumapit ang lahat ng mga anak ni Yisrael, at iniutos niya sa ⟨את⟩ kanila ang lahat na sinalita ni Yahweh ⟨את⟩ sa kaniya sa bundok ng Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "at pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "lumapit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "at iniutos sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat (na iniutos)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kaniya",
+      "marks": "sa kaniya (kay Moshe)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.224751721Z",
+  "model": "glm-5.3"
+}

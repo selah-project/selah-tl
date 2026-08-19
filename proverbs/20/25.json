@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Patibong sa tao ang biglang lumuwa ng banal, at pagkatapos ng mga panata ay mag-usisa.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "patibong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "biglang lumuwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "at pagkatapos"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ng mga panata"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mag-usisa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:59.141903591Z",
+  "model": "glm-5.3"
+}

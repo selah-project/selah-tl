@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Bumuhos ang tubig mula sa makapal na mga ulap; nagbigay ng tinig ang mga kalangitan; oo, ang iyong mga pana ay lumaganap.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "bumuhos"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "mga makapal na ulap"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nagbigay"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ang mga kalangitan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "ang iyong mga pana"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "lumaganap"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:59.210131518Z",
+  "model": "glm-5.3"
+}

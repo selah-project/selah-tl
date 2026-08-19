@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At kung maliit ang sambahayan na maging mula sa isang tupa, kukuha siya ⟨at⟩ ang kanyang kapitbahay na malapit sa kanyang bahay, ayon sa bilang ng mga ⟨kaluluwang⟩ tao; bawat isa ayon sa kanyang kakainin ang inyong bubuwatin sa ⟨את⟩ tupa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang sambahayan"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "maging"
+    },
+    {
+      "surface": "משה",
+      "gloss": "mula sa isang tupa"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "kukuha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "at ang kanyang kapitbahay"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na malapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "ayon sa bilang ng"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kanyang kakainin"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "ang inyong bubuwatin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השה",
+      "gloss": "⟨את⟩ tupa",
+      "marks": "tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:04.133628779Z",
+  "model": "glm-5.3"
+}

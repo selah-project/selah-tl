@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sa iyong mga paanyaya magbubulay-bulay ako, at pagsasapitan ko ang iyong mga landas.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "sa iyong mga paanyaya"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "magbubulay-bulay ako"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "at pagsasapitan ko"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ang iyong mga landas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:18.819518580Z",
+  "model": "glm-5.3"
+}

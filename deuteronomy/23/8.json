@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi mo kamumuhian ang isang Edomita, sapagkat siya ang iyong kapatid; hindi mo kamumuhian ang isang Mitsri, sapagkat dayuhan ka noon sa kanyang lupain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "mo kamumuhian"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ang isang Edomita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang iyong kapatid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "mo kamumuhian"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ang isang Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka noon"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "sa kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:13.271521671Z",
+  "model": "glm-5.3"
+}

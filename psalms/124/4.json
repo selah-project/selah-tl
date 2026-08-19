@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "pagkatapos ang mga tubig ay sana tayong bumaha, dumaluhong ang agos sa ⟨ibabaw ng⟩ ating buhay,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "tayong bumaha"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ang agos"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dumaluhong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ⟨ibabaw ng⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ating buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:07.744715748Z",
+  "model": "glm-5.3"
+}

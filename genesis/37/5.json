@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At nagpanaginip si Yosef ng panaginip, at isinalaysay niya ito sa kanyang mga kapatid, at nagdagdag pa sila ng pagkapoot kay ⟨את⟩ya.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "at nagpanaginip"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "panaginip"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "at isinalaysay"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa kanyang mga kapatid"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "at nagdagdag pa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ng pagkapoot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ya",
+      "marks": "ya (si Yosef)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:51.924651080Z",
+  "model": "glm-5.3"
+}

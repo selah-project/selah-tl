@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Panahon sa pagmamahal, at panahon sa pagkamuhi; panahon ng digmaan, at panahon ng kapayapaan.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sa pagmamahal"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at panahon"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagkamuhi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ng digmaan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at panahon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:08.602607931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Mga anak na babae ng mga hari ang nasa iyong mga marangal na kasama; nakatayo sa iyong kanan ang reyna, na suot ang ginto ng Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae ng"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "sa iyong mga marangal na kasama"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ang reyna"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "sa iyong kanan"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "na suot ang ginto ng"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:22.578161921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Ang ⟨את⟩ bayan na magaspang ay hindi mo na masisilayan, bayan ng malalim na pananalita na hindi maunawaan, ng nanunuyang dila — walang pag-uunawa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan na magaspang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "na magaspang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "mo na masisilayan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ng malalim"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "pananalita"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "hindi maunawaan"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "ng nanunuya"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pag-uunawa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:33.313605425Z",
+  "model": "glm-5.3"
+}

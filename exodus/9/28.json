@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Manalangin kayo kay Yahweh — sapat na na — huwag nang maging mga tinig ng Elohim at yelo; at papapasukin ko kayo ⟨את⟩ at hindi na kayo mananatili.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Manalangin kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "sapat na na"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "huwag nang maging"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "mga tinig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "at yelo"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "at papapasukin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (ang mga papapasukin)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "kayong magdaragdag pa"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "manatili"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:46.396218570Z",
+  "model": "glm-5.3"
+}

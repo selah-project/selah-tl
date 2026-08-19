@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ako rin, narinig ko ang ⟨את⟩ daing ng mga anak ni Yisrael na pinapag-alipin ng Mitsrayim, at naalala ko ang ⟨את⟩ aking tipan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at pati rin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "narinig ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daing"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "daing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "pinapag-alipin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "at naalala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:57.467950448Z",
+  "model": "glm-5.3"
+}

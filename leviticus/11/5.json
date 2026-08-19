@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ⟨את⟩ shaphan, sapagkat nagpapataas siya ng gira, ngunit hindi naghahati ng may split na paa — karumal-dumal siya sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang shaphan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shaphan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nagpapataas"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ngunit paa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "naghahati"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:02.775836192Z",
+  "model": "glm-5.3"
+}

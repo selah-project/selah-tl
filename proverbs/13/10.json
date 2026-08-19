@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Sa kayabangan lamang may pinagmumulang away, ngunit ⟨sa⟩ ⟨את⟩ mga nagpapayo ay karunungan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "sa kayabangan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagbibigay ng"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "away"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga nagpapayo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "mga nagpapayo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:02.325781073Z",
+  "model": "glm-5.3"
+}

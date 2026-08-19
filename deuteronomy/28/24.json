@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Pagkakalooban ni Yahweh ang ⟨את⟩ ulan ng lupain mo ng alabok at alikabok; mula sa mga langit bababa ito sa ibabaw mo, hanggang sa ikaw ay mapahamak.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "pagkakalooban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulan ng lupain mo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ng lupain mo"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "at alikabok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bababa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa ibabaw mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ikaw ay mapahamak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:01.034981720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At umiyak ang mga anak ni Israel kay ⟨את⟩ Moshe sa kapatagan ng Moab tatlumpung araw; at natapos ang mga araw ng pag-iyak at pagluluksa kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe (unang pagkakataon)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "at natapos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ng pag-iyak"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "at pagluluksa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kay Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:08.675087513Z",
+  "model": "glm-5.3"
+}

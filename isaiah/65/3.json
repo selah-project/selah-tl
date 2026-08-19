@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Ang bayan na pumupukaw sa ⟨את⟩ aking galit sa aking harapan nang walang tigil, naghahandog ng haing sa mga halamanan, at nagsusunog ng insenso sa mga laryo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "na pumupukaw ng galit"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aking galit",
+      "marks": "aking galit (ako)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aking harapan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang walang tigil"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "naghahandog ng haing"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "sa mga halamanan"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "at nagsusunog ng insenso"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "mga laryo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:54.912634979Z",
+  "model": "glm-5.3"
+}

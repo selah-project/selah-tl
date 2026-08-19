@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At kinain ng mga bakang payat at pangit ang ⟨את⟩ pitong unang bakang mataba.",
+  "tokens": [
+    {
+      "surface": "ויתאכלנה_ותאכלנה",
+      "gloss": "at kinain"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng mga baka"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "payat"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "at pangit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong unang bakang mataba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "baka"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "unang"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "mataba"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:34.965636380Z",
+  "model": "glm-5.3"
+}

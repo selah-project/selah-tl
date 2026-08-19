@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Nang magkagayon, magsasalita siya sa kanila sa kaniyang poot, at sa kaniyang nagngangalit na poot ay pangangatimulan niya sila.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nang magkagayon"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsasalita siya"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa kaniyang poot"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "at sa kaniyang nagngangalit na poot"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "pangangatimulan niya sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:09.096999906Z",
+  "model": "glm-5.3"
+}

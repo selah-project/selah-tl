@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 123,
+  "translation": "Maawa ka sa amin, Yahweh, maawa ka sa amin, sapagkat labis nang nabusog kami sa pang-aba.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Maawa ka sa amin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "maawa ka sa amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "labis"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "nang nabusog kami"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "sa pang-aba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:31.931515265Z",
+  "model": "glm-5.3"
+}

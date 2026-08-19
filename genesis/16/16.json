@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At si Avram ay mayroong ⟨edad na⟩ walumpung taon at anim na taon nang ipanganak kay Avram ni Hagar ang ⟨את⟩ Yishmael.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "at si Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak (na may edad na)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "walumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "nang ipanganak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kay Avram"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:33.386240582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sa kasalanan ng kanilang bibig, sa salita ng kanilang mga labi, mahuhuli sila sa kanilang kapalaluan; at sumpa at kasinungalingan ang kanilang isasalaysay.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Sa kasalanan"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ng kanilang bibig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa salita"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ng kanilang mga labi"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "mahuhuli sila"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "sa kanilang kapalaluan"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "at ng sumpa"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "at kasinungalingan"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "kanilang isasalaysay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:50.450296069Z",
+  "model": "glm-5.3"
+}

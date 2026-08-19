@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Pasan ng libis ng pangitain. Ano sa iyo ngayon, sapagkat umakyat kayong lahat sa mga bubong?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pasan"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libis"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ng pangitain"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "sa mga bubong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:04.493850521Z",
+  "model": "glm-5.3"
+}

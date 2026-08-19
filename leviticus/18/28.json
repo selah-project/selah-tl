@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Upang huwag sumuka ang lupa ng ⟨את⟩ inyo sa pagkadungisan ninyo ⟨את⟩ nito, kung paanong sumuka ito ng ⟨את⟩ bansang nasa harapan ninyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "upang huwag"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "sumuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "ng ⟨את⟩ inyo",
+      "marks": "ninyo"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "sa pagkadungisan ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang lupa)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "sumuka ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "ng ⟨את⟩",
+      "marks": "bansang nasa harapan ninyo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bansang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "nasa harapan ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:08.718705157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Kaya't lumakad si David at ang kaniyang mga lalake papunta sa Keilah, at lumaban sa mga Peleshet, at inihatid ang ⟨את⟩ kanilang mga hayop, at pinukol sila nang malaking pagkapatay; at lumigtas si David sa ⟨את⟩ mga naninirahan sa Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kaya't lumakad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "at ang kaniyang mga lalake"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "papunta sa Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "at lumaban"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Peleshet"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "at inihatid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga hayop"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "kanilang mga hayop"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at pinukol"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nang pagkapatay"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "at lumigtas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan sa Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:14.850951362Z",
+  "model": "glm-5.3"
+}

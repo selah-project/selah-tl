@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 113,
+  "translation": "Upang pauupuin ⟨silá⟩ kasama ng mga marangal, kasama ng mga marangal ng kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Upang pauupuin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ng mga marangal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ng mga marangal"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ng kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:00.778324642Z",
+  "model": "glm-5.3"
+}

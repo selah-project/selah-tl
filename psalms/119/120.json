@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nanginig na tumindig ang balahibo ng laman ko dahil sa pangamba sa iyo, at sa mga hatol mo nagatakot ako.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "nanginig na tumindig ang balahibo (nabalahibo)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "dahil sa pangamba sa iyo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang laman ko"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "at sa mga hatol mo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nagatakot ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:59.004264880Z",
+  "model": "glm-5.3"
+}

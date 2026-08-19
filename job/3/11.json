@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Bakit hindi ako namatay mula sa bahay-bata? Mula sa tiyan lumabas ako upang sumabog ⟨ang hininga ko⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mula sa bahay-bata"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mula sa tiyan"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "lumabas ako"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "at sumabog ang hininga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:32.069560724Z",
+  "model": "glm-5.3"
+}

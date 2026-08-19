@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At umangat ang kanyang puso sa mga daan ni Yahweh, at bukod pa riyan, kanyang inalis ang ⟨את⟩ mga mataas na dambana at ang ⟨את⟩ mga Asherah-linga mula sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "at umangat"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga daan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "at bukod pa riyan"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kanyang inalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mataas na dambana"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "⟨ang⟩ mga mataas na dambana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Asherah-linga"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "⟨ang⟩ mga Asherah-linga"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "mula sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:48.843829777Z",
+  "model": "glm-5.3"
+}

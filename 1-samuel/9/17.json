@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nakita ni Shemuel si ⟨את⟩ Shaul, at sumagot si Yahweh sa kaniya: Narito ang lalaking sinabi ko sa iyo — siya ang maghahari sa aking bayan.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "At si Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "sumagot sa kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "maghahari"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "sa aking bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:39.750485332Z",
+  "model": "glm-5.3"
+}

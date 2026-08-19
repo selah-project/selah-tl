@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At si Yirmeyahu ay pumapasok at lumalabas sa gitna ng bayan, at hindi pa nila siya inilalagay sa ⟨את⟩ bilangguan.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "At si Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumapasok"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lumalabas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nila inilalagay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "siya ⟨את⟩",
+      "marks": "bilangguan (בית הכליא)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ng bilangguan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:31:13.016925588Z",
+  "model": "glm-5.3"
+}

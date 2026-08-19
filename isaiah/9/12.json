@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit ang bayan ay hindi nagbalik kay ⟨את⟩ pumapalo sa kanila, at ang ⟨את⟩ Yahweh ng mga hukbo ay hindi nila hinanap.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ngunit ang bayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "pumapalo sa kanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh ng mga hukbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "hinanap"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:15.193122403Z",
+  "model": "glm-5.3"
+}

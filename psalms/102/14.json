@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Ikaw babangon, mangangahas ng awa sa Tsiyon, sapagkat dumating na ang takdang panahon ng kaluwagan, sapagkat naparito na ang itinakdang sandali.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "babangon"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "mangangahas ng awa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ang panahon"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ng kaluwagan sa kanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naparito na"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ang itinakdang sandali"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:34.873086344Z",
+  "model": "glm-5.3"
+}

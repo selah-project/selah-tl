@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 150,
+  "translation": "Ipadangal sa Kanya sa pag-ihip ng shofar; ipadangal sa Kanya sa nebel at kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "sa pag-ihip"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "at kinor"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:50.215257631Z",
+  "model": "glm-5.3"
+}

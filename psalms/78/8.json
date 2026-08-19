@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At huwag silang maging tulad ng kanilang mga ama: salinlahing suwail at mapaghimagsik, salinlahing hindi hinanda ang kanyang puso, at hindi nanatiling tapat ⟨את⟩ El ang kanyang espiritu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "tulad ng kanilang mga ama"
+    },
+    {
+      "surface": "דור",
+      "gloss": "salinlahi"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "suwail"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "at mapaghimagsik"
+    },
+    {
+      "surface": "דור",
+      "gloss": "salinlahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hinanda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "nanatiling tapat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang kanyang espiritu"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.009815871Z",
+  "model": "glm-5.3"
+}

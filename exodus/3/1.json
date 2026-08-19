@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At si Moshe ay ⟨naging⟩ pastol ng ⟨את⟩ kawan ni Yitro, bayaw niya, kasing-kasing ng Midyan; at kaniyang dinadala ang ⟨את⟩ kawan sa dakong likod ng ilang, at dumating siya sa bundok ng Elohim, sa Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "At si Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastol ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ni Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bayaw niya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kasing-kasing"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ng Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "at kaniyang dinadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa dakong likod"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ng ilang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "sa Horeb"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:36.378639377Z",
+  "model": "glm-5.3"
+}

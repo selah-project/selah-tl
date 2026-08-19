@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Zabad ay nagkaanak ng ⟨את⟩ Ephlal, at si Ephlal ay nagkaanak ng ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "at si Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephlal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ephlal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "at si Ephlal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:31.652477279Z",
+  "model": "glm-5.3"
+}

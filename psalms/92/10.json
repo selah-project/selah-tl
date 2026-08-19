@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Sapagkat narito, ang iyong mga kaaway, Yahweh; sapagkat narito, ang iyong mga kaaway ay mangangalaguyo: mangangalat ang lahat ng mga gumagawa ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ang iyong mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ang iyong mga kaaway"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mangangalaguyo"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "mangangalat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga gumagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:38.165275933Z",
+  "model": "glm-5.3"
+}

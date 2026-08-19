@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag mong igalaw ang hangganang walang hanggan na ginawa ng iyong mga magulang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag mong"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "igalaw"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ang hangganang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan (ng sinauna)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ng iyong mga magulang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:32.038937046Z",
+  "model": "glm-5.3"
+}

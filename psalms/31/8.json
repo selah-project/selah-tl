@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Mag-aala-ala ako at magagalak sa iyong chesed, na iyong nakita ang ⟨את⟩ aking pagdadalamhati; nakilala mo ang mga kagipitan ng aking nefesh.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Mag-aala-ala ako (sa tuwa)"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "at magagalak"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sa iyong chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "iyong nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking pagdadalamhati"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "aking pagdadalamhati"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakilala mo"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ang mga kagipitan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking nefesh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:44.776738061Z",
+  "model": "glm-5.3"
+}

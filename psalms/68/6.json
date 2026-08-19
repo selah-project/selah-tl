@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Ama ng mga ulila at tagahatol ng mga biyuda ⟨ang⟩ Elohim, sa kanyang banal na tahanan.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ama ng"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mga ulila"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "at tagahatol ng"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "mga biyuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "sa tahanan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ng kanyang kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.442390956Z",
+  "model": "glm-5.3"
+}

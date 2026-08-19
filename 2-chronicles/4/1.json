@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Gumawa siya ng altar na tanso, dalawampung siko ang haba nito, at dalawampung siko ang lapad nito, at sampung siko ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gumawa siya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "at dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang lapad nito"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "at sampu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:11.134689679Z",
+  "model": "glm-5.3"
+}

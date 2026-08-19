@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Tingnan ang aking kahirapan, at iligtas mo ako, sapagkat ang iyong torah ay hindi ko nalimutan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang aking kahirapan"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "at iligtas mo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang iyong torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ko nalimutan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:26.701947272Z",
+  "model": "glm-5.3"
+}

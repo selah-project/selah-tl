@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "At hindi nagsabi ang mga dumaraan: 'Nawa'y maging sa inyo ang pagpapala ni Yahweh; pinagpala namin ⟨את⟩ inyo sa pangalan ni Yahweh.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ang mga dumaraan"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "pagpapala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "pinagpala namin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ino (ang inyong pinagpala)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.007335778Z",
+  "model": "glm-5.3"
+}

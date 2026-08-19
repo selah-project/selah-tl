@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At iniutos ni David na tipunin ang ⟨את⟩ mga dayuhan na nasa lupain ng Israel, at nagtatakda siya ng mga mamamayos ng bato upang mamayos ng mga pinong bato sa pagtatayo ng bahay ng Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "na tipunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dayuhan na nasa lupain ng Israel"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "ang mga dayuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nasa lupain"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "at nagtatakda"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "ng mga mamamayos"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "upang mamayos"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ng mga bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "pinong bato"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtatayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:09.925811384Z",
+  "model": "glm-5.3"
+}

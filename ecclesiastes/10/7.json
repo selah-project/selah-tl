@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Nakita ko ang mga alipin na nakakabayo, at ang mga pinuno na lumalakad na parang mga alipin sa lupa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ang mga alipin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "at ang mga pinuno"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "na parang mga alipin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:34.559244403Z",
+  "model": "glm-5.3"
+}

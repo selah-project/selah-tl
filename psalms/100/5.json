@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 100,
+  "translation": "Sapagkat si Yahweh ay mabuti; hanggang sa walang hanggan ang Kanyang kagandahang-loob, at hanggang sa lahi at lahi ang Kanyang katapatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang sa walang hanggan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang Kanyang kagandahang-loob"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "דר",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at lahi"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ang Kanyang katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:30.970141172Z",
+  "model": "glm-5.3"
+}

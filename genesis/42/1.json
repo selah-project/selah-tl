@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At nakita ni Yaakov na may butil-grano sa Mitzrayim, at sinabi ni Yaakov sa kanyang mga anak na lalaki: Bakit kayo nagtatawanan?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "butil-grano"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "sa kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "nagtatawanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:21.021672899Z",
+  "model": "glm-5.3"
+}

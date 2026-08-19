@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "«Kapag papasok ako sa tolda ng aking bahay, kapag aakyat ako sa higaan ng aking pagkakahiga —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "papasok ako"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ng aking bahay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aakyat ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ng aking pagkakahiga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:06.727152052Z",
+  "model": "glm-5.3"
+}

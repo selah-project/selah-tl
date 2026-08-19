@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sa tapat ng dalawampung siko na ukol sa looban na panloob, at sa tapat ng patayong bato na ukol sa looban na panlabas: balustrada sa harap ng balustrada, sa tatlong antas.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "sa tapat"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ukol sa looban"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "panloob"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "at sa tapat"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "patayong bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ukol sa looban"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "panlabas"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "balustrada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "balustrada"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "tatlong antas"
+    }
+  ],
+  "timestamp": "2026-08-19T17:52:54.402297140Z",
+  "model": "glm-5.3"
+}

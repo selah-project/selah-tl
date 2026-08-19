@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At kay Eber ay ipinanganak ang dalawang anak na lalaki; ang pangalan ng isa ay Peleg, sapagkat sa kanyang mga araw ay nahati ang lupa; at ang pangalan ng kanyang kapatid ay Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "at kay Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "sa kanyang mga araw"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "nahati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kanyang kapatid"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:48.086547735Z",
+  "model": "glm-5.3"
+}

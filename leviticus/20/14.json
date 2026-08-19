@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking kukuhain ng ⟨את⟩ babae at ⟨את⟩ ng ina nito — kabalastugan ito; sa apoy silang susunugin, siya ⟨את⟩ at ⟨את⟩ sila; at hindi magkakaroon ng kabalastugan sa gitna ninyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuhain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babae"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ng ina nito"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kabalastugan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "silang susunugin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "at ⟨את⟩ sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kabalastugan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa gitna ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:55.670640610Z",
+  "model": "glm-5.3"
+}

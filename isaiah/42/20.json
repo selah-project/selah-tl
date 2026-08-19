@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Nakakita ka ng maraming bagay ngunit hindi mo pinagmamasdan; may nakabukas na tainga ngunit hindi siya nakakarinig.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "nakakita ka"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ng maraming bagay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "mo pinagmamasdan"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "may nakabukas"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "na tainga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "siya nakakarinig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:28.563296876Z",
+  "model": "glm-5.3"
+}

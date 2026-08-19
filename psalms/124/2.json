@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "kung hindi si Yahweh na ⟨ay⟩ naging para sa atin, nang tumindig laban sa atin ang tao,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "nang tumindig"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "laban sa atin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:07.744419449Z",
+  "model": "glm-5.3"
+}

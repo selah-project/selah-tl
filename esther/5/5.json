@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sinabi ng hari, Magmadali kayo kay ⟨את⟩ Haman upang gawin ang ⟨את⟩ kahilingan ni Ester; at dumating ang hari at si Haman sa handaan na ginawa ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "magmadali kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahilingan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kahilingan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "at si Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "handaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:01.106833683Z",
+  "model": "glm-5.3"
+}

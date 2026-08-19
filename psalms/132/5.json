@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Hanggang sa makatagpo ako ng lugar para kay Yahweh, ng mga tahanan para sa Makapangyarihan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hanggang sa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "makatagpo ako"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ng lugar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ng mga tahanan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "para sa Makapangyarihan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:25.826607782Z",
+  "model": "glm-5.3"
+}

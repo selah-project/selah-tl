@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nagsabi sila: Bakit, o Yahweh, Elohim ng Yisra'el, nangyari ito sa Yisra'el, na magkulang ngayon sa Yisra'el ng isang tribo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi sila"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisra'el"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisra'el"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "na magkulang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "sa Yisra'el"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:05.636477543Z",
+  "model": "glm-5.3"
+}

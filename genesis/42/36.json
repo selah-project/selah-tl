@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi sa kanila ni Yaakov na kanilang ama: Ako ang ⟨את⟩ inyong pinagbawalan ng mga anak — si Yosef ay wala na, at si Shim'on ay wala na, at si Binyamin ay kukunin ninyo — laban sa akin nangyari ang lahat ng mga ito!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "na kanilang ama"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "inyo (ako ang inyong pinagbawalan)"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "pinagbawalan ninyo ng mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ay wala na"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "at si Shim'on"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ay wala na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "si Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kukunin ninyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "ang lahat ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:33.539662643Z",
+  "model": "glm-5.3"
+}

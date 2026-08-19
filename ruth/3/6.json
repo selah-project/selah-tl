@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At bumaba siya sa giik, at gumawa ayon sa lahat ng iniutos sa kaniya ng kaniyang biyenan.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "at bumaba siya"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sa giik"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "kaniyang biyenan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:10.311684895Z",
+  "model": "glm-5.3"
+}

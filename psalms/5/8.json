@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Datapuwa't ako, sa kasaganaan ng iyong kahabagan, papasok sa iyong bahay; yuyukod ako patungo sa iyong banal na templo, sa takot sa iyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "datapuwa't ako"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan ng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kahabagan"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "yuyukod ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "iyong templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "banal na"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "sa takot sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:08.224570072Z",
+  "model": "glm-5.3"
+}

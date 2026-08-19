@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Na sumumpa kay Yahweh, nanata sa Makapangyarihang ⟨el⟩ ng Yaakov —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sumumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nanata"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "sa Makapangyarihan ng"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:06.727021827Z",
+  "model": "glm-5.3"
+}

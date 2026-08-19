@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Ikinawit ko ang aking mga kamay sa iyo; ang aking buhay-hininga ay parang lupang pagod na pagod na naghihintay sa iyo. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ikinawit ko \/ inunat ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang aking mga kamay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay-hininga"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "parang lupa"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "pagod na pagod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:33.620453867Z",
+  "model": "glm-5.3"
+}

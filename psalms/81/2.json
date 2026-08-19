@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Umawit nang malakas kay Elohim na siyang lakas natin; magsigawan kayo sa Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Umawit nang malakas"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "siyang lakas natin"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "magsigawan kayo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:41.048599438Z",
+  "model": "glm-5.3"
+}

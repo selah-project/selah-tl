@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At tinanggap ng mga Yehudi ⟨את⟩ ang sinimulan nilang gawin, at ⟨את⟩ ang isinulat ni Mordecai sa kanila.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "at tinanggap"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ng mga Yehudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sinimulan nilang gawin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "sinimulan nila"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gawin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang isinulat ni Mordecai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "isinulat"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordecai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:43.670124931Z",
+  "model": "glm-5.3"
+}

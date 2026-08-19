@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Elohim: Magpakarami ang ⟨mga tubig⟩ ng gumagalaw na ⟨nilalang⟩ na may buhay, at ang ⟨ibon⟩ ay lumipad sa ibabaw ng ⟨lupa⟩, sa ibabaw ng ⟨dibdib⟩ ng ⟨rakia⟩ ng ⟨mga langit⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "magpakarami ng maraming gumagalaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "baranggalaw\/gumagalaw na nilalang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nilalang"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "may buhay"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "at ibon"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "lumipad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dibdib\/mukha"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:00.970069820Z",
+  "model": "glm-5.3"
+}

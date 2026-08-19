@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ⟨את⟩ hitang kanan ay ibibigay ninyo bilang bahagi-ambag sa kohen, mula sa mga haing kapanatayan ninyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "hitang"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ibibigay ninyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "bahagi-ambag"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mula sa mga haing"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "kapanatayan ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:35.077395050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Awit ng mga paitaas. Alalahanin mo, Yahweh, para kay David ang ⟨את⟩ lahat ng kanyang mga kagipitan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga paitaas"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "alalahanin mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "para kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng kanyang mga kagipitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ng kanyang mga kagipitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:06.726757772Z",
+  "model": "glm-5.3"
+}

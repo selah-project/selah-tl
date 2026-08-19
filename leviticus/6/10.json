@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Huwag itong ihurno na may lebadura; ang kanilang bahagi ay ibinigay Ko ⟨את⟩ nito mula sa Aking mga handog sa apoy; kabanalan ng mga kabanalan ito, kagaya ng handog para sa kasalanan at ng handog para sa pagkakasala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ihurno"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "may lebadura"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ang kanilang bahagi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay Ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang bahaging ibinigay)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mula sa Aking mga handog sa apoy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga kabanalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kagaya ng handog para sa kasalanan"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "at ng handog para sa pagkakasala"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:33.651725059Z",
+  "model": "glm-5.3"
+}

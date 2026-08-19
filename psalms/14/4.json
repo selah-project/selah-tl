@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Hindi ba nalalaman ng lahat ng manggagawa ng kasamaan — ng mga kumakain sa aking bayan, kumain sila ng tinapay — na si Yahweh ay hindi nila tinatawag?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nalalaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "manggagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mga kumakain"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa aking bayan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kumain sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nila tinatawag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.322482872Z",
+  "model": "glm-5.3"
+}

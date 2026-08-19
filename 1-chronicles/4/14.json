@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At si Meonotai ay naging ama ni ⟨את⟩ Opra; at si Srayah ay naging ama ni ⟨את⟩ Yoab, ama ng libis ng Ge-harashim, sapagkat mga artesano sila.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "at si Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Opra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Opra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "at si Srayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ng"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libis"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Ge-harashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mga artesano"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:23.170708430Z",
+  "model": "glm-5.3"
+}

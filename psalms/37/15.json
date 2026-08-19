@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Ang kanilang tabak ay papasok sa kanilang sariling puso, at ang kanilang mga busog ay mababali.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ang kanilang tabak"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa kanilang puso"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "at ang kanilang mga busog"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "mababali"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:27.534164571Z",
+  "model": "glm-5.3"
+}

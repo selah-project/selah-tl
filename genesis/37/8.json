@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At nagsabi sa kaniya ang kanyang mga kapatid: Maghahari ba talaga ikaw sa amin, o mamamahala ka bang talaga sa amin? At nagdagdag pa sila ng pagkapoot kay ⟨את⟩ya dahil sa kanyang mga panaginip at dahil sa kanyang mga salita.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang kanyang mga kapatid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Maghahari ba talaga"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "משול",
+      "gloss": "mamamahala ka bang talaga"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "sa paghahari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "At nagdagdag pa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ng pagkapoot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ya",
+      "marks": "ya (si Yosef)"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "kanyang mga panaginip"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kanyang mga salita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:51.925213182Z",
+  "model": "glm-5.3"
+}

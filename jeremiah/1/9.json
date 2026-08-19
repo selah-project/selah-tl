@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iniunat ni Yahweh ang ⟨את⟩ kanyang kamay, at hinipo ang aking bibig; at sinabi ni Yahweh sa akin: Narito, inilagay ko ang aking mga salita sa iyong bibig.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "at hinipo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "aking bibig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inilagay ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "aking mga salita"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sa iyong bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:14:23.356354502Z",
+  "model": "glm-5.3"
+}

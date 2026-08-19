@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 57:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Ngunit ang mga masasama ay parang dagat na ginugulo, na hindi makapagpahinga, na ang mga tubig nito ay nagbubukang-bukang ng putik at lanot.",
+  "tokens": [
+    {
+      "surface": "והרשעים",
+      "gloss": "ngunit ang mga masasama"
+    },
+    {
+      "surface": "כים",
+      "gloss": "parang dagat"
+    },
+    {
+      "surface": "נגרש",
+      "gloss": "na ginugulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "ang pagpapahinga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makapag-"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "at nagbubukang-bukang"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ang mga tubig nito"
+    },
+    {
+      "surface": "רפש",
+      "gloss": "ng putik"
+    },
+    {
+      "surface": "וטיט",
+      "gloss": "at lanot"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:27.784486961Z",
+  "model": "glm-5.3"
+}

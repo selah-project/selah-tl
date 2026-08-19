@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ibibigay ko ang ⟨את⟩ Yerushalayim na mga tambak, pugad ng mga chyena, at ang ⟨את⟩ mga lungsod ng Yehudah ay ibibigay kong kalat-kalat, na walang naninirahan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "na mga tambak"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "pugad"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ng mga chyena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga lungsod ng Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "שמ姆ה",
+      "gloss": "kalat-kalat"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "na walang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "naninirahan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:35.582192536Z",
+  "model": "glm-5.3"
+}

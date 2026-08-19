@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At gagawin mo ang mga kawad ng tanso, limampu; at ipapasok mo ang ⟨את⟩ mga kawad sa mga luwal, at pagsasamahin mo ang ⟨את⟩ tolda upang maging ⟨isa⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ang mga kawad"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ng tanso"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampu"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "at ipapasok mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kawad"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ang mga kawad"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "sa mga luwal"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "at pagsasamahin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:47.722948654Z",
+  "model": "glm-5.3"
+}

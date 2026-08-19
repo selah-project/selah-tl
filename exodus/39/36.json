@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "⟨את⟩ Hapag, ⟨את⟩ lahat ng kagamitan nito, at ⟨את⟩ tinapay ng harapan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hapag"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Hapag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tinapay ng harapan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ng harapan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:33.512462029Z",
+  "model": "glm-5.3"
+}

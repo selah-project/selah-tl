@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Naligtas ba ⟨את⟩ sila ng mga elohim ng mga bansa na winasak ng aking mga ama — ⟨את⟩ Gozan at ⟨את⟩ Charan, at Retsef, at ang mga anak ni Eden na nasa Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Naligtas ba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga bansa)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng mga elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ng aking mga ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "at Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ni Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "sa Telasar"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:53.277027938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At lalabas ang isang sanga mula sa puno ni Yishai, at isang usbong mula sa mga ugat niya ay magbubunga.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "mula sa puno"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "at usbong"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "mula sa mga ugat niya"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "magbubunga"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:49.446251741Z",
+  "model": "glm-5.3"
+}

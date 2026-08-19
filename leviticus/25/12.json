@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat Yovel ito, banal na ⟨is⟩ ito para sa inyo; mula sa parang kakainin ninyo ang ⟨את⟩ ani nito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "parang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani nito"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ani nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:59.979437452Z",
+  "model": "glm-5.3"
+}

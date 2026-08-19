@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sumagot sila at nagsabi kay Nevukhadnetzar na hari: O hari, mabuhay ka magpakailanman!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "kay Nevukhadnetzar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "na hari"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "O hari"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mabuhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:51.065732234Z",
+  "model": "glm-5.3"
+}

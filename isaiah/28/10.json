@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sapagkat utos sa utos, utos sa utos, linya sa linya, linya sa linya, kaunti rito, kaunti roon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "צו",
+      "gloss": "utos"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sa utos"
+    },
+    {
+      "surface": "צו",
+      "gloss": "utos"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "sa utos"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sa linya"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "sa linya"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kaunti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rito"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kaunti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:07.415430760Z",
+  "model": "glm-5.3"
+}

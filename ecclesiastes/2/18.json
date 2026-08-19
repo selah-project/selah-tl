@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kinamuhian ko, ako, ang ⟨את⟩ buong pagpapagalsak ko na ginagawa ko sa ilalim ng araw, na iiwan ko ito sa taong magiging pagkatapos ko.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "at kinamuhian ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong pagpapagalsak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "pagpapagalsak ko"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "na ako"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nagpapagalsak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "na iiwan ko ito"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "na magiging"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ko"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:31.606628932Z",
+  "model": "glm-5.3"
+}

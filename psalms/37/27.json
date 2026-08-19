@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Umurong ka sa masama at gumawa ng mabuti, at tahanan ⟨mo⟩ magpakailanman.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "umurong ka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa masama"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "at tahanan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:01.446134003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At bantayan nila ang ⟨את⟩ pagbabantay ng tolda ng kapisanan, at ang ⟨את⟩ pagbabantay ng ⟨the⟩ banal na dako, at ang pagbabantay ng mga anak ni Aharon, na kanilang mga kapatid, para sa paglilingkod sa bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "at bantayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbabantay ng tolda ng kapisanan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbabantay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagbabantay ng banal na dako"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbabantay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ng banal na dako"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "at ang pagbabantay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "na kanilang mga kapatid"
+    },
+    {
+      "surface": "لעבדת",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:16.857150557Z",
+  "model": "glm-5.3"
+}

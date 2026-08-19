@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ginawa niya sa kanila ang gayon, at iniligtas niya sila ⟨את⟩ mula sa kamay ng mga anak ni Yisra'el, at hindi sila pinatay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "at iniligtas niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "pinatay sila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:08.245862831Z",
+  "model": "glm-5.3"
+}

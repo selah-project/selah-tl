@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sapagkat kasuklam-suklam kay Yahweh ang paumigid, ngunit ⟨sa⟩ mga matuwid ⟨את⟩ ang kaniyang lingid na tipanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ang paumigid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ngunit ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga matuwid",
+      "marks": "mga matuwid"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ang kaniyang lingid na tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:36.594884460Z",
+  "model": "glm-5.3"
+}

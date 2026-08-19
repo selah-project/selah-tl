@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Umiiibig ng katuwiran at kahatulan si Yahweh; ng kagandahang-loob ni Yahweh ay punô ang ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "umiiibig ng"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at kahatulan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "punô"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:45.604571772Z",
+  "model": "glm-5.3"
+}

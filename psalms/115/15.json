@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Pinagpala kayo ⟨ng⟩ Yahweh, gumagawa ng mga langit at lupa.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨ng⟩ Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:02.879047143Z",
+  "model": "glm-5.3"
+}

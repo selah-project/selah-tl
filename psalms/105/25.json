@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Binago ni Yahweh ang ⟨kanilang⟩ puso upang kapootin ang ⟨kaniyang⟩ bayan, upang magdaya laban sa ⟨kaniyang⟩ mga lingkod.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "binago"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang kanilang puso"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "upang kapootin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang kaniyang bayan"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "upang magdaya laban"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "sa kaniyang mga lingkod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:46.822822216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Alalahanin mo ang iyóng mga awà, Yahweh, at ang iyóng mga kagandahang-loob, sapagkákit mula sa simula pa lamang ⟨silá⟩ ay naroroon.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin mo"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ang iyóng mga awà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "at ang iyóng mga kagandahang-loob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkákit"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mula sa simula pa lamang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨silá⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:50.590463657Z",
+  "model": "glm-5.3"
+}

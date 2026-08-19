@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "At sinabi ni Yisrael kay Yosef: Narito, ako ay mamamatay, at magiging Elohim ⟨ang⟩ kakasama ninyo, at ibabalik niya ⟨את⟩ inyo sa lupain ng inyong mga ama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mamamatay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kakasama ninyo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "at ibabalik niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ng inyong mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:39.934069496Z",
+  "model": "glm-5.3"
+}

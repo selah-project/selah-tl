@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ngayon, tumayo kayo, at ako'y maghahatol ⟨את⟩ sa inyo sa harap ni Yahweh, ⟨את⟩ ng lahat ng mga katuwiran ni Yahweh na ginawa ⟨את⟩ sa inyo at ⟨את⟩ sa inyong mga ama.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "tumayo kayo"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "at ako'y maghahatol"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga katuwiran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "mga katuwiran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at",
+      "marks": "sa inyong mga ama"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyong mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:17.180744881Z",
+  "model": "glm-5.3"
+}

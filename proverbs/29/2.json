@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Kapag dumadami ang mga matuwid, nagagalak ang bayan; ngunit kapag naghahari ang masama, nananambitan ang bayan.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kapag dumadami"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagagalak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "at kapag naghahari"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "nananambitan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:11.285945970Z",
+  "model": "glm-5.3"
+}

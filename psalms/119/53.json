@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sumaklaw sa akin ang maingat na poot dahil sa mga masama, sa mga nagpapaanod sa iyong Torah.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "maingat na poot"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "sumaklaw sa akin"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "dahil sa mga masama"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "sa mga nagpapaanod"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iyong Torah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:26.835777467Z",
+  "model": "glm-5.3"
+}

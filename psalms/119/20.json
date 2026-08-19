@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nadudurog ang aking ⟨נפש⟩ sa pagpita sa iyong mga hatol sa bawat oras.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "nadudurog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking ⟨נפש⟩"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "sa pagpita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iyong mga hatol"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:24.475949678Z",
+  "model": "glm-5.3"
+}

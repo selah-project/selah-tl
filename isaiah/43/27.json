@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Ang iyong unang ama ay nagkasala, at ang iyong mga tagapamagitan ay sumuway sa akin.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Ang iyong ama"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "una"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ay nagkasala"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "at ang iyong mga tagapamagitan"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ay sumuway"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:01.043168095Z",
+  "model": "glm-5.3"
+}

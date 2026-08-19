@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking kukuha ng ⟨את⟩ asawa ng kanyang kapatid — karumal-dumi ito; ang kahubaran ng kanyang kapatid ay kanyang hinubaran; magiging walang-anak sila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ng kanyang kapatid"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kanyang kapatid"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "karumal-dumi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahubaran"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kanyang kapatid"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "kanyang hinubaran"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "walang-anak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:43.169391048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Nagbibigay siya ng pagkain sa ⟨את⟩ hayop, sa mga inakay ng uwak na tumatawag.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "sa hayop"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ng pagkain niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga inakay"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ng uwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "tumatawag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.383808593Z",
+  "model": "glm-5.3"
+}

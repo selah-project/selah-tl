@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang kasaganaan ba ng mga salita ay hindi masasagutan? At ang lalaking ⟨may⟩ maraming labi ba ay magiging matuwid?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "kasaganaan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "masasagutan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "At"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "mga labi"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "magiging matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T19:53:07.499785104Z",
+  "model": "glm-5.3"
+}

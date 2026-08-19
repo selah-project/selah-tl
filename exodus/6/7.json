@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At aking kukunin ⟨את⟩ inyo bilang akin, na bayan, at ako'y magiging sa inyo na Elohim, at makikilala ninyo na ako si Yahweh na inyong Elohim, na naglalabas ⟨את⟩ inyo mula sa ilalim ng mga pasanin ng Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "at aking kukunin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (bilang bayan)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "na bayan"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "at magiging ako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "at makikilala ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ang naglalabas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (mula sa pasanin)"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mula sa ilalim"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "ng mga pasanin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:57.468504844Z",
+  "model": "glm-5.3"
+}

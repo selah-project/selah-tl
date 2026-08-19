@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Bawat tao, bawat tao — sa lahat ng kamag-anak ng kanyang laman, huwag kayong lalapit upang magbunyag ng kahubaran; ako ay Yahweh.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kamag-anak"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ng kanyang laman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "kayong lalapit"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "upang magbunyag"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:52.584766556Z",
+  "model": "glm-5.3"
+}

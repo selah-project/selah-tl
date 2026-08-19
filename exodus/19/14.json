@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At bumaba si Moshe mula sa bundok patungo sa bayan, at pinagtibay niya ang ⟨את⟩ bayan; at naghugas sila ng kanilang mga damit.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "at kinalban siya ng kabanalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "at naghugas sila"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ng kanilang mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:22.255518021Z",
+  "model": "glm-5.3"
+}

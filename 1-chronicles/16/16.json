@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "na tinipan ⟨את⟩ Avraham, at ang kanyang panunumpa kay Yitshak —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tinipan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "at ang kanyang panunumpa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:22.709316321Z",
+  "model": "glm-5.3"
+}

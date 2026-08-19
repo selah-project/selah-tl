@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "Ngunit ako ay dukha at maralita; dali-dalian, Elohim, sa akin; ikaw ang aking saklolohan at aking tagapagligtas; Yahweh, huwag kang magluwat.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at maralita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "dali-dalian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "aking saklolohan"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "at aking tagapagligtas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "magluwat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:14.992384679Z",
+  "model": "glm-5.3"
+}

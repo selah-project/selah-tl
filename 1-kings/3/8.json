@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang iyong lingkod ay nasa gitna ng iyong bayang pinili mo — bayang marami na hindi mabibilang at hindi mababanggit dahil sa karamihan.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "at ang iyong lingkod"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "pinili mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "marami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "mabibilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mababanggit"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dahil sa karamihan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:38.869549755Z",
+  "model": "glm-5.3"
+}

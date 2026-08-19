@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Magpuri kay Yah; umawit kayo kay Yahweh ng bagong awit, ⟨ang⟩ papuri sa kapisanan ng mga banal.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Magpuri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "umawit kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "papuri Niya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ng mga banal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.964877843Z",
+  "model": "glm-5.3"
+}

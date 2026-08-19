@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At ang anak ng Tsor ay ⟨may⟩ handog; ang mayayaman ng bayan ay magmamakaawa sa iyong mukha.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "at anak ng"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "sa-handog"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong mukha"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "magmamakaawa"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "mga mayayaman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:07.119709370Z",
+  "model": "glm-5.3"
+}

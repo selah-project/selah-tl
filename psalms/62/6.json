@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Kundi sa Elohim lamang, tahimik ka, O aking kaluluwa; sapagkat mula sa Kanya ang aking pag-asa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kundi lamang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "tahimik ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula sa Kanya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "aking pag-asa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.434433430Z",
+  "model": "glm-5.3"
+}

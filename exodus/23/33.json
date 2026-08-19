@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi sila titira sa ⟨את⟩ iyong lupain, baka pasalanan nila ang ⟨אתך⟩ ikaw laban sa akin; sapagkat maglilingkod ka sa ⟨את⟩ kanilang mga elohim, sapagkat ⟨ang⟩ mga ito ay magiging bitag sa iyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "titira (sila)"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa iyong lupain"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "pasalanan (nila)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "maglilingkod ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga elohim"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang mga elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "bilang bitag"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:07.049406626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Umaapaw ang aking puso ng mabuting salita; sinasabi ko ang aking mga gawa para sa hari; ang aking dila ⟨ay⟩ panulat ng mabilis na manunulat.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "umaapaw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng salita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinasabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang aking mga gawa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para sa hari"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang aking dila"
+    },
+    {
+      "surface": "עט",
+      "gloss": "panulat"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ng manunulat"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "mabilis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.665975086Z",
+  "model": "glm-5.3"
+}

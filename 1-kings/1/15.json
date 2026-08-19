@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At pumasok si Bat-Sheba sa hari, sa ⟨isang⟩ silid; at ang hari ay napakatanda na; at si Avishag na taga-Shunem ay naglilingkod sa ⟨את⟩ hari.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "sa silid"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "napakatanda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "at si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "na taga-Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "naglilingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:35.756351208Z",
+  "model": "glm-5.3"
+}

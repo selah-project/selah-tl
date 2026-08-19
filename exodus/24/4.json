@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At isinulat ni Moshe ang ⟨את⟩ lahat ng mga salita ni Yahweh; at maaga pa lamang sa umaga siyang bumangon at nagtayo ng isang dambana sa ilalim ng bundok, at labindalawang haliging-tanda para sa labindalawang lipi ng Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "at isinulat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapat ng mga salita ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "at bumangong maaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at nagtayo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ng bundok"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "at labindalawa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(na) hinggil sa sampu"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "haliging-tanda"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "para sa dalawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(na) sampu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "na lipi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:31.273097274Z",
+  "model": "glm-5.3"
+}

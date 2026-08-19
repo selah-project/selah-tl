@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At pinakain ni Yosef ang ⟨את⟩ kanyang ama at ang ⟨את⟩ kanyang mga kapatid at ang ⟨את⟩ buong bahay ng kanyang ama, ng tinapay ayon sa bibig ng mga bata.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "at pinakain"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang kanyang mga kapatid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong bahay ng kanyang ama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ayon sa bibig"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ng mga bata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:16.810828982Z",
+  "model": "glm-5.3"
+}

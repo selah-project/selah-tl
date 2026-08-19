@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi niya sa kanila: Nawa'y maging gayon si Yahweh ⟨na kasama⟩ ninyo, kung paanong papayagan ko kayong ⟨את⟩ umalis ninyo ⟨את⟩ at ang inyong mga sanggol — tingnan ninyo, sapagkat kasamaan ang nasa harap ng inyong mga mukha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nawa'y maging"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kasama ninyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "papayagan ko umalis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at",
+      "marks": "ang inyong mga sanggol"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ang inyong mga sanggol"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tingnan ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ng inyong mga mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:40.478751923Z",
+  "model": "glm-5.3"
+}

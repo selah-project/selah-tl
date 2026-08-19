@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Silang lahat ay nainitan na parang hurno, at nilamon nila ang ⟨את⟩ kanilang mga hukom; ang lahat ng kanilang mga hari ay nagbuwal — walang tumatawag sa akin sa kanilang kalooban.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "silang lahat"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "nainitan"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "parang hurno"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "at nilamon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga hukom"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ang kanilang mga hukom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kanilang mga hari"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nagbuwal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tumatawag"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanilang kalooban"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:49.373114988Z",
+  "model": "glm-5.3"
+}

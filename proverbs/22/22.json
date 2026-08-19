@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag mong nakawin ang dukha, sapagkat dukha siya, at huwag mong dururin ang maralita sa tarangkahan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "mong nakawin"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ang dukha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "mong dururin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang maralita"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa tarangkahan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:46.188343473Z",
+  "model": "glm-5.3"
+}

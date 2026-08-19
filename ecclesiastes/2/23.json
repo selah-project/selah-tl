@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapagkat ang lahat ng kaniyang mga araw ay ⟨mga⟩ sakit, at ang kaniyang gawain ay pagkabalisa; gayon din sa gabi ay hindi nakahiga ang kaniyang puso — gayon din ito ay kahalayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kaniyang mga araw"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "at pagkabalisa"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ang kaniyang gawain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nakahiga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kaniyang puso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kahalayan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:33.007838405Z",
+  "model": "glm-5.3"
+}

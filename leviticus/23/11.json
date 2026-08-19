@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At iwawagayway niya ang ⟨את⟩ omer sa harapan ni Yahweh upang tanggapin para sa inyo; sa kinabukasan ng shabat, iwawagayway ito ng ⟨the⟩ paring kohen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "at iwawagayway niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "upang tanggapin para sa inyo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa kinabukasan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng shabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "iwawagayway ito"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng paring kohen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:46.723709913Z",
+  "model": "glm-5.3"
+}

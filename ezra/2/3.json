@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Mga anak ni Parosh, dalawang libo, isang daan, pitumpu't dalawa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ni Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dalawang libo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "'t dalawa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:33.532805733Z",
+  "model": "glm-5.3"
+}

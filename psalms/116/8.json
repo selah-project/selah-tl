@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Sapagkat iniligtas mo ang aking kaluluwa mula sa kamatayan, ⟨את⟩ aking mga mata mula sa luha, ⟨את⟩ aking mga paa mula sa pagkadapa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "iniligtas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mula sa kamatayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "luha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga paa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "aking mga paa"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "pagkadapa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.525474365Z",
+  "model": "glm-5.3"
+}

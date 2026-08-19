@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Isang salinlahi'y lumilipas at isang salinlahi'y dumarating, ngunit ang lupa'y nananatili magpakailanman.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "isang salinlahi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumilipas"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "at isang salinlahi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "darating"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ngunit ang lupa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nananatili nakatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:01.147882085Z",
+  "model": "glm-5.3"
+}

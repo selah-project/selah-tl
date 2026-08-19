@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nangyari, nang lumakas ang kaharian sa kaniya, pumatay siya sa ⟨את⟩ kaniyang mga alipin na pumukol sa ⟨את⟩ hari na ama niya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lumakas"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang kaharian"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "pinatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "na pumukol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari na ama niya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na ama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:20.742400991Z",
+  "model": "glm-5.3"
+}

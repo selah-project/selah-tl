@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At papalayasin ni Yahweh ang ⟨את⟩ lahat ng ⟨mga⟩ bansang ito mula sa inyong harapan, at inyong aariin ang mga bansang mas malalaki at mas makapangyarihan kaysa inyo.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "At papalayasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga bansang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "mula sa inyong harapan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "at inyong aariin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mas malalaki"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "at mas makapangyarihan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kaysa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:04.135674289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Sapagkat kasing taas ng ⟨mga⟩ langit sa ibabaw ng ⟨⟨ lupa, gayon nagpapanaig ang kaniyang kagandahang-loob sa ⟨mga⟩ natatakot sa kaniya;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kasing taas ng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nagpapanaig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kaniyang kagandahang-loob"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga natatakot sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.557745852Z",
+  "model": "glm-5.3"
+}

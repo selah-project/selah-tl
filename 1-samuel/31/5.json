@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At nakita ng tagadala ng kanyang mga sandata na patay na si Shaúl, at nagpatihulog din siya sa kanyang espada at namatay na kasama niya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ang tagadala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ng kanyang mga sandata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "at nagpatihulog"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kanyang espada"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:42.087477081Z",
+  "model": "glm-5.3"
+}

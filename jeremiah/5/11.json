@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sapagkat sukdulang nagtaksil — nagtaksil sila laban sa akin — ang bahay ni Yisrael at ang bahay ni Yehudah, ulirat ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "sukdulang pagtaksil"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nagtaksil sila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ulirat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:53.906844824Z",
+  "model": "glm-5.3"
+}

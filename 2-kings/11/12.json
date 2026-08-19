@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At inilabas niya ang ⟨את⟩ anak ng hari, at inilagay sa kaniya ang ⟨את⟩ putong at ang ⟨את⟩ patotoo, at hinarì nila ⟨את⟩ siya, at pinahid nila siya, at pumalakpak sila ng palad at nagsabi: Mabuhay ang hari!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "at inilabas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ng hari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putong"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ang putong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "patotoo"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "at hinarì nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang bagong hari)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "at pinahid nila siya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at pumukpok"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:01.750548418Z",
+  "model": "glm-5.3"
+}

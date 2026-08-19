@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Lalaki at babae sila nilikha, at binasbasan sila, at tinawag ang ⟨את⟩ kanilang pangalan na Adam, sa araw ng paglikha sa kanila.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "at babae"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "sila nilikha"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (lalaki at babae)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang pangalan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "kanilang pangalan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ng paglikha sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:01.320060439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At hihiwain niya ito ⟨את⟩ ayon sa kanyang mga hiwa, at ang ⟨את⟩ ulo nito at ang ⟨את⟩ taba nito; at iaayos ng kohen ang ⟨את⟩ mga ito sa mga kahoy na nasa apoy na nasa dambana.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "at hihiwain"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang hayop)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ayon sa kanyang mga hiwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "ulo nito"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "taba nito"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "taba nito"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "at iaayos"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga",
+      "marks": "ang mga ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:14.575993738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nangyari, pagkatapos ng mga araw, na natuyo ang batis, sapagkat walang ulan sa lupain.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "na natuyo"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ang batis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:41.263439649Z",
+  "model": "glm-5.3"
+}

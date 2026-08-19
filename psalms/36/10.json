@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Sapagkat sa iyo ay ⟨ang⟩ bukal ng buhay; sa iyong liwanag ay makakakita ⟨kami⟩ ng liwanag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "bukal"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "sa iyong liwanag"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "makakakita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ng liwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:43.563864536Z",
+  "model": "glm-5.3"
+}

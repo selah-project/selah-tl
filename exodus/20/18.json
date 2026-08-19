@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nakita ng buong bayan ang ⟨את⟩ mga tinig at ang ⟨את⟩ mga sikit ng apoy at ang ⟨את⟩ tinig ng shofar at ang ⟨את⟩ bundok na mausok; at nakita ng bayan at nanginig sila at tumayo sa malayo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinig"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "mga tinig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga sikit ng apoy"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "mga sikit ng apoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tinig ng shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ng shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bundok"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "na mausok"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "nanginig sila"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "tumayo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa malayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:34.042101882Z",
+  "model": "glm-5.3"
+}

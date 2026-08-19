@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ito ang mga lahi ni Noach: si Noach ay matuwid na tao, sakdal sa kanyang mga salinlahi; kasama ni ⟨את⟩ Elohim lumakad si Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ito ang"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga lahi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sakdal"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "sa kanyang mga salinlahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:16.726169634Z",
+  "model": "glm-5.3"
+}

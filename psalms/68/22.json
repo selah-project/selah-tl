@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Siyasat, si Elohim ang bubuwag ng ulo ng ⟨kanyang⟩ mga kaaway, ang tuktok na may buhok ng nagpapatuloy sa ⟨kanyang⟩ mga kasalanan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "siyasat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "bubuwag ng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mga kaaway niya"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tuktok ng ulo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "may buhok"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nagpapatuloy sa"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "kanyang mga kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:36.315831992Z",
+  "model": "glm-5.3"
+}

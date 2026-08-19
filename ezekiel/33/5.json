@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "⟨את⟩ tinig ng shofar ay narinig niya at hindi nakapagbabala — ang kanyang dugo ay ⟨sa⟩ kanya mangyayari; ngunit ⟨kung⟩ siya ay nagbantay, ang kanyang buhay ay makakaligtas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig ng shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ng shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narinig niya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nakapagbabala"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang kanyang dugo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ngunit siya"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang buhay"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "makakaligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T17:50:28.194498174Z",
+  "model": "glm-5.3"
+}

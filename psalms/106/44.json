@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At nakita niya ang kanilang kagipitan, nang marinig niya ang ⟨את⟩ kanilang pagsisigaw.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ang kagipitan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nila"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "nang marinig niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pagsisigaw"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ang kanilang pagsisigaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.206816618Z",
+  "model": "glm-5.3"
+}

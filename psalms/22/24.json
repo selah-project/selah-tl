@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Mga natatakot kay Yahweh, purihin ninyo siya; buong lahi ni Yaakov, luwalhatihin ninyo siya; at manginig kayo sa kanya, buong lahi ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "mga natatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "purihin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "luwalhatihin ninyo siya"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "at manginig kayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:37.836552830Z",
+  "model": "glm-5.3"
+}

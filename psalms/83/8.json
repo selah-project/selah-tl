@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Gebal, at Amon, at Amalek, Peleset kasama ng mga naninirahan sa Tzor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "at Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "at Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sa Tzor"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.845192715Z",
+  "model": "glm-5.3"
+}

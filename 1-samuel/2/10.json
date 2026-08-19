@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Yahweh — babagsak ang kanyang mga kalaban; sa langit kukulog laban sa kanila si Yahweh; huhukuman ni Yahweh ang mga wakas ng lupa, at bibigyan niya ng kapangyarihan ang kanyang hari, at itataas ang sungay ng kanyang Mashíaj.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "babagsak"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "ang kanyang mga kalaban"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "kukulog siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "huhukuman niya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ang mga wakas ng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at bibigyan niya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ng kapangyarihan"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ang kanyang hari"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "at itataas"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ang sungay"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ng kanyang Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:06.861533517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang ⟨את⟩ balat ng toro at ang ⟨את⟩ buong laman nito, kasama ang ulo nito at kasama ang mga binti nito, at ang kaloob-looban nito at ang dumi nito",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "balat ng toro"
+    },
+    {
+      "surface": "עור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng toro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "buong laman nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "laman nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo nito"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at kasama"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "mga binti nito"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "at ang kaloob-looban nito"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "at ang dumi nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:19.501084790Z",
+  "model": "glm-5.3"
+}

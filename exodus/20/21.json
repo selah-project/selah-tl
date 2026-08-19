@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nakatayo ang bayan sa malayo, at si Moshe ay lumapit sa makapal na kadiliman na doon ang Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at nakatayo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa malayo"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "at si Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ay lumapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "makapal na kadiliman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:34.799327777Z",
+  "model": "glm-5.3"
+}

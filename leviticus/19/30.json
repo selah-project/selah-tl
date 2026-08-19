@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang ⟨את⟩ aking mga Sabbath ay iingatan ninyo, at ang aking santuwaryo ay igagalang ninyo; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga Sabbath"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "aking mga Sabbath"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "iingatan ninyo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "at ang aking santuwaryo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "igagalang ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:37.131702531Z",
+  "model": "glm-5.3"
+}

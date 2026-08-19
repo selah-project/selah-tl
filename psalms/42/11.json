@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Tulad ng pagpatay sa aking mga buto, ininsulto ako ng aking mga kaaway, sa pagsasabi nila sa akin na buong araw: Nasaan ang iyong Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "tulad ng pagpatay"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "sa aking mga buto"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ininsulto ako"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "sa pagsasabi nila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:08.813211759Z",
+  "model": "glm-5.3"
+}

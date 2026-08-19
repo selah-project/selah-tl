@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 11:18",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sumirit ang tatlo sa kampo ng mga Peleshti, at humugot ng tubig mula sa balon ng Beit-Lechem na nasa tarangkahan, at dinaan at dinala kay David; ngunit hindi nagpa-loob si David nainumin ⟨ang⟩ iyon, ⟨את⟩ at ibinuhos niya ang ⟨את⟩ iyon kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבקעו",
+      "gloss": "at sumirit"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "ang tatlo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    },
+    {
+      "surface": "וישאבו",
+      "gloss": "at humugot"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "mula sa balon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nasa tarangkahan"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at dinaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nagpa-loob"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשתותם",
+      "gloss": "na inumin iyon"
+    },
+    {
+      "surface": "וינסך",
+      "gloss": "⟨את⟩ at ibinuhos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyon (ang tubig)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:03.180959126Z",
+  "model": "glm-5.3"
+}

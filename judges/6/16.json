@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi sa kaniya ni Yahweh: Dahil ako'y sasaiyo, at babagsakin mo ang ⟨את⟩ Midyan na parang isang lalaki lamang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ako'y sasa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "at babagsakin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ang Midyan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "na parang isang lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:44.787738412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nakasalubong nila si ⟨את⟩ Moshe at si ⟨את⟩ Aharon, nakatayo upang salubungin sila, sa paglabas nila mula ⟨את⟩ kay Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "at nakasalubong nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "upang salubungin sila"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "sa paglabas nila"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "kay Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:26.512875473Z",
+  "model": "glm-5.3"
+}

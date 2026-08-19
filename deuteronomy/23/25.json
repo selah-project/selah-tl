@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Kapag pumasok ka sa ubasan ng iyong kapwa, kakain ka ng mga ubas ayon sa iyong ⟨nefesh⟩, sa iyong kabusugan, ngunit sa iyong sisidlan ay huwag kang maglagay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pumasok ka"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "sa ubasan"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ng iyong kapwa"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "kakain ka"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ng mga ubas"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "ayon sa iyong ⟨nefesh⟩"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "sa iyong kabusugan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngunit sa"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "iyong sisidlan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maglagay ka"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:48.985400961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang umiibig sa turo ay umiibig sa kaalaman, ngunit ang mapoot sa pagtatama ay ⟨is⟩ mangmâ.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ang umiibig sa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "turo (disiplina)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig sa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalaman"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ngunit ang mapoot sa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pagtatama"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mangmâ (walang-isip)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:42.440091214Z",
+  "model": "glm-5.3"
+}

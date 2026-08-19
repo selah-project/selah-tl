@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ngayon ay dumating ⟨ito⟩ sa iyo, at ikaw ay nanghina; sumagi ⟨ito⟩ sa iyo, at ikaw ay nabalisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "at ikaw ay nanghina"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "sumagi"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "at ikaw ay nabalisa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:16.455411579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At itataas mo siya sa kabanalan, sapagkat ang ⟨את⟩ tinapay ng Elohim mo ay siya ang naghahandog; banal siya magiging sa iyo, sapagkat banal ako, si Yahweh, na nagpapabanal sa inyo.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "at itataas mo siya sa kabanalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ng Elohim mo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "naghahandog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nagpapabanal sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:58.612012874Z",
+  "model": "glm-5.3"
+}

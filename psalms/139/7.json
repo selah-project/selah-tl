@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Saan ako pupunta mula sa iyong Ruach? At saan ako tatakas mula sa iyong presensiya?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pupunta"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "mula sa iyong Ruach"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "at saan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mula sa iyong presensiya"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "tatakas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:12.016085244Z",
+  "model": "glm-5.3"
+}

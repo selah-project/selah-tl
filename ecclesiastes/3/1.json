@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "May itinalagang panahon ⟨ang⟩ bawat bagay, at may takdang oras bawat nais sa ilalim ng mga langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "itinalagang panahon"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at takdang oras"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nais"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:16.095131088Z",
+  "model": "glm-5.3"
+}

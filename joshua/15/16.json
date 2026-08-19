@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At sinabi ni Kalev: Ang tumama sa ⟨את⟩ Kiryat-Sefer at bumili nito, ay ibibigay ko sa kanya ang ⟨את⟩ Aksah na aking anak na babae bilang asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ang (na)"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "tumama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "at bumuli nito"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aksah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "si Aksah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "aking anak na babae"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilang asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:42:50.004005124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Magkano pa kaya ang tao — uod, at ang anak ng tao — higad!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "magkano pa kaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ang"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "uod"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "at ang anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "higad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:51:14.076928641Z",
+  "model": "glm-5.3"
+}

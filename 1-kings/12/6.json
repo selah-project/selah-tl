@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 12:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At nangmagpayo ang hari na si Rehavam sa ⟨את⟩ mga matatanda na nakatayo sa harap ng Shelomoh na ama niya noong nabubuhay pa siya, na nagsasabi: \"Paano kayo nagpapayo upang sumagot sa ⟨את⟩ bayang ito ng salita?\"",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "at nangmagpayo siya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga matatanda"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ang mga matatanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harap (ng Shelomoh)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap ng"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ama niya"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "noong siya ay"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabubuhay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "nagpapayo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "upang sumagot sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayang ito"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:44.204532751Z",
+  "model": "glm-5.3"
+}

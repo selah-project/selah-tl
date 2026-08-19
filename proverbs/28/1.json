@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Nagtatakas ang masama bagamat walang humahabol, ngunit ang mga matuwid ay parang batang leon na ⟨may⟩ tiwala.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "nagtatakas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bagamat walang"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "humahabol"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ngunit ang mga matuwid"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "parang batang leon"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "⟨may⟩ tiwala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:37.011492786Z",
+  "model": "glm-5.3"
+}

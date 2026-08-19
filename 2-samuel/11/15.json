@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sumulat siya sa ⟨the⟩ sulat, na nagsasabi: Ilagay ninyo si ⟨את⟩ Uriyah sa harap ng ⟨the⟩ matinding pakikipaglaban, at umurong kayo mula sa likod niya, upang siya'y matalo at mamatay.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "at sumulat siya"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa ⟨the⟩ sulat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ilagay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨the⟩ pakikipaglaban"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "matinding"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "at umurong kayo"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "mula sa likod niya"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "at matalo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T20:06:37.311757104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang anak ni Yehonatan ay ⟨ang⟩ Meriv-Baal, at si Meriv-Baal ay naging ama ni ⟨את⟩ Mika.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "At ang anak"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "at si Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mika"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    }
+  ],
+  "timestamp": "2026-08-19T19:55:49.816925254Z",
+  "model": "glm-5.3"
+}

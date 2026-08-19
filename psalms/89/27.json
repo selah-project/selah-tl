@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Siya ang tatawag sa akin: 'Ikaw ang aking ama, aking El, at bato ng aking kaligtasan.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "tatawag sa akin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aking ama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aking El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ng aking kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:45.207712494Z",
+  "model": "glm-5.3"
+}

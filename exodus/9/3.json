@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "narito, ang kamay ni Yahweh ay ⟨is⟩ laban sa iyong mga alagang hayop na nasa parang — sa mga kabayo, sa mga asno, sa mga kamelyo, sa mga baka, at sa mga tupa — isang napakabigat na salot.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "ay maging"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "sa iyong mga alagang hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nasa parang"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "sa mga asno"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "sa mga kamelyo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa mga baka"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "at sa mga tupa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salot"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:09.421771576Z",
+  "model": "glm-5.3"
+}

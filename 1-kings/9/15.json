@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ito ang usapin ng forced na paggawa (mas) na pinaalsa ni Haring Shelomoh, upang itayo ang ⟨את⟩ bahay ni Yahweh at ang ⟨את⟩ kaniyang bahay, at ang ⟨את⟩ Millo, at ang ⟨את⟩ pader ng Yerushalayim, at ang ⟨את⟩ Chatsor, at ang ⟨את⟩ Megiddo, at ang ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usapin"
+    },
+    {
+      "surface": "המס",
+      "gloss": "forced na paggawa (mas)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pinaalsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "upang itayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bahay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang bahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pader ng Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pader"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:12.568095425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At lumakad si David na lumalaking lalo, at si Yahweh, Elohim ng mga hukbo, ay ⟨kasama⟩ niya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "lumalaking"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "lalo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga hukbo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨kasama⟩ niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:35.232213796Z",
+  "model": "glm-5.3"
+}

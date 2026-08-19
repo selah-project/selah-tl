@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At natulog si Aviyam kasama ng mga magulang niya, at inilibing ⟨את⟩ siya sa lunsod ni David; at naghari si Asa na anak niya sa kahalihan niya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "At natulog"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "si Aviyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "mga magulang niya"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lunsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "si Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na anak niya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kahalihan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:26.080356590Z",
+  "model": "glm-5.3"
+}

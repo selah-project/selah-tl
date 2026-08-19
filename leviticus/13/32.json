@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At titingnan ng kohen ang ⟨את⟩ saot sa ikapitong araw, at narito, hindi kumalat ang netek at walang naging sa loob nito ang dilaw na buhok, at ang anyo ng netek ay hindi mas malalim kaysa balat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at titingnan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang saot"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang saot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "kumalat"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang netek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa loob nito"
+    },
+    {
+      "surface": "שער",
+      "gloss": "buhok"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "dilaw"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "at ang anyo"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ng netek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay wala"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "malalim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa"
+    },
+    {
+      "surface": "העור",
+      "gloss": "sa balat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:49.859929624Z",
+  "model": "glm-5.3"
+}

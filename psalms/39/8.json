@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ngayon, ano ang hinihintay ko? Adonai, ang pag-asa ko — nasa iyo ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ang hinihintay ko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ang pag-asa ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nasa iyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:34.157776014Z",
+  "model": "glm-5.3"
+}

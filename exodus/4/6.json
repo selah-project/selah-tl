@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Yahweh sa kanya: Ibang usarin — ilagay mo ngayon ang iyong kamay sa iyong dibdib. At inilagay niya ang kanyang kamay sa kanyang dibdib, at inilabas niya ito, at heto, ang kanyang kamay ay may ketong, parang niyebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ibang usarin"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ilagay mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "sa iyong dibdib"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "sa kanyang dibdib"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "at inilabas niya ito"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at heto"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "may ketong"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "parang niyebe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:21.850418011Z",
+  "model": "glm-5.3"
+}

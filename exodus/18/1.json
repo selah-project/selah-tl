@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At narinig ni Yitro, ang pari ng Midyan, ang biyenan ni Moshe, ang ⟨את⟩ lahat ng ginawa ng Elohim kay Moshe at kay Yisrael na bayan Niya, na dinadala ni Yahweh si ⟨את⟩ Yisrael palabas ng Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "si Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ng Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ang biyenan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "at kay Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na bayan Niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "dinadala palabas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "palabas ng Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:49.293175163Z",
+  "model": "glm-5.3"
+}

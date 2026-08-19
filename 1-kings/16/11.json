@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At nangyari, sa kanyang paghari, sa kanyang pagkaupo sa kanyang trono, hinampas niya ang ⟨את⟩ buong bahay ni Baasha; hindi nag-iwan sa kanya ng umiihi sa dingding, ni ng kanyang mga kamag-anak na tagapagtubos, ni ng kanyang kaibigan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa kanyang paghari"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "sa kanyang pagkaupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kanyang trono"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hinampas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bahay ni Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nag-iwan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ng umiihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ni ng kanyang mga tagapagtubos"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ni ng kanyang kaibigan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:04.784957123Z",
+  "model": "glm-5.3"
+}

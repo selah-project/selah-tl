@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Maiinit ang aking galit, at papatayin ko ⟨את⟩ kayo sa pamamagitan ng espada, at magiging balo ang inyong mga asawa at ang inyong mga anak ay magiging ulila.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "maiinit"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ang aking galit"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "at papatayin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa pamamagitan ng espada"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ang inyong mga asawa"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "balo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "at ang inyong mga anak"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "ulila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:27.685231091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 9:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Magsalita ka sa mga anak ni Yisrael, na kanilang sabihin: Kung ang sinumang tao ay magiging marumi dahil sa ⟨isang⟩ patay na tao, o nasa malayong paglalakbay — sa inyo man o sa inyong mga lahi — ay maghanda siya ng Pesach para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "magsalita ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kanilang sabihin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang sinumang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ay magiging"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dahil sa ⟨isang⟩ patay na tao"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nasa paglalakbay"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "malayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa inyong mga lahi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at maghanda"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ng Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:45.005095151Z",
+  "model": "glm-5.3"
+}

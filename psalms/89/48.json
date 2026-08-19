@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Alalahanin kong gaano kabilis ang buhay; bakit sa walang kabuluhan nilikha mo ang lahat ng mga anak ni Adam?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gaano kabilis"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "על",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sa anong"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "walang kabuluhan"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "nilikha mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:02.728113459Z",
+  "model": "glm-5.3"
+}

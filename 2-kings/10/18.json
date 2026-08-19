@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At nagtipon si Yehu sa ⟨את⟩ buong bayan, at sinabi niya sa kanila: Ajang naglingkod nang kaunti — ngunit si Yehu ay maglilingkod nang labis sa ⟨את⟩ Baal.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "at nagtipon"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ajab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "si Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nang kaunti"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "maglilingkod sa kanya"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nang labis"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:12.506848860Z",
+  "model": "glm-5.3"
+}

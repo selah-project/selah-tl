@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kanyang binalutan ng ⟨את⟩ bahay — ang mga bigkis, ang mga pasukan, at ang mga pader nito, at ang mga pintuan nito — ng ginto, at umukit siya ng mga kerub sa ⟨the⟩ mga pader.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "At kanyang binalutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "ang mga bigkis"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ang mga pasukan"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "at ang mga pader nito"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "at ang mga pintuan nito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "at umukit siya"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "mga kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "mga pader"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:14.655125175Z",
+  "model": "glm-5.3"
+}

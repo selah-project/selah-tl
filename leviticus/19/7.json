@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At kung talagang makakain sa ikatlong araw, karumal-dumal ⟨ito⟩; hindi ito tatanggapin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "talagang makakain"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makakain"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlong"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "tatanggapin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:35.057737197Z",
+  "model": "glm-5.3"
+}

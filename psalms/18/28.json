@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sapagkat ikaw ang ⟨ang⟩ bayang dukha ay ililigtas mo, ngunit ang ⟨ang⟩ mga matang nagmamataas ay ibababa mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ililigtas mo"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ngunit ang mga mata"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "nagmamataas"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ibababa mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:45.681313254Z",
+  "model": "glm-5.3"
+}

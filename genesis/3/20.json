@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At tinawag ng tao ang pangalan ng kaniyang asawa na Chavah, sapagkat siya ang naging ina ng lahat ng may buhay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tinawag"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ng kaniyang asawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ng may buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:17.940803105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ng buong puso ko hinanap kita; huwag mo akong pagpalilihing maligaw mula sa iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ng buo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "hinanap kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mo akong palilihing maligaw"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "mula sa iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:18.230331773Z",
+  "model": "glm-5.3"
+}

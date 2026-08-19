@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Bumabalik sila sa pagtakipsilim, umaalingahaw na parang aso, at lumiligid sa ⟨ang⟩ siyudad.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bumabalik sila"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa pagtakipsilim"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "umaalingahaw"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "na parang aso"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "at lumiligid"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa siyudad"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:25.678489126Z",
+  "model": "glm-5.3"
+}

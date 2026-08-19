@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At ganito ang gagawin mo kay Aharon at sa kanyang mga anak, ayon sa lahat na iniutos ko sa ⟨את⟩ iyo; pitong araw mo pangungunanan ang ⟨את⟩ kanilang kamay sa paglalaan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "at sa kanyang mga anak"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "iniutos ko"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mo pangungunanan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:46.582195170Z",
+  "model": "glm-5.3"
+}

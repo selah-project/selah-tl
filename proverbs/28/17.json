@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang taong napapabayaan ng dugo ng ⟨isang⟩ nefesh, hanggang sa hukay ay tatakas; huwag siyang suportahan ninuman.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "napapabayaan sa pang-aapi"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hukay"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "tatakas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "suportahan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:34.606007985Z",
+  "model": "glm-5.3"
+}

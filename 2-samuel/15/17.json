@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 15:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At lumabas ang hari, at ang buong bayan sa kanyang mga paa, at tumigil sila sa ⟨ang⟩ bahay-na-malayo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa kanyang mga paa"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "tumigil sila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "המרחק",
+      "gloss": "na malayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:12.000019348Z",
+  "model": "glm-5.3"
+}

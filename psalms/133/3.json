@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 133,
+  "translation": "Tulad ng hamog ng Chermon na bumabagsak sa mga bundok ng Tsiyon, sapagkat doon iniutos ni Yahweh ang ⟨את⟩ pagpapala — buhay hanggang sa walang hanggan.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "tulad ng hamog"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ng Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "na bumabagsak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagpapala"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "pagpapala"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:30.874686293Z",
+  "model": "glm-5.3"
+}

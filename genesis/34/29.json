@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At ⟨את⟩ lahat ng kanilang kayamanan, at ⟨את⟩ lahat ng kanilang mga bata, at ⟨את⟩ kanilang mga asawa ay dinala nilang bihag, at hinarian nila, at ⟨את⟩ lahat ng nasa loob ng bahay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ⟨את⟩",
+      "marks": "lahat ng kanilang kayamanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kanilang kayamanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng kanilang mga bata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "kanilang mga bata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga asawa"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "kanilang mga asawa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dinala nilang bihag"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "at hinarian nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng nasa loob ng bahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nasa loob ng bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:31.779970512Z",
+  "model": "glm-5.3"
+}

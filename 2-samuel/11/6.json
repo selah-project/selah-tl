@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nagsugo si David kay Joab: Ipadala mo sa akin si ⟨את⟩ Uriah na Hetita. At ipinadala ni Joab si ⟨את⟩ Uriah kay David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagsugo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": " ipadala mo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "na Hetita"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at ipinadala"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:36.457339601Z",
+  "model": "glm-5.3"
+}

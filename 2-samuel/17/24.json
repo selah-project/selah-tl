@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At dumating si David sa Mahanaim; at si Absalom ay tumawid sa ⟨את⟩ Jordan, siya at bawat lalaki ng Israel na kasama niya.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "At si David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "sa Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "at si Absalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:07.734049464Z",
+  "model": "glm-5.3"
+}

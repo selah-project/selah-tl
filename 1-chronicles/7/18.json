@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nag-anak ang kaniyang kapatid na babae na si Hammoleketh ng ⟨את⟩ Ishod, at ng ⟨את⟩ Abiezer, at ng ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "At ang kaniyang kapatid na babae"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "si Hammoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nag-anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Abiezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:25.151201486Z",
+  "model": "glm-5.3"
+}

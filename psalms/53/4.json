@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Lahat sila ay umatras, magkasama silang nagkasama; walang gumagawa ng mabuti, walang kahit na isa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "lahat sila"
+    },
+    {
+      "surface": "סג",
+      "gloss": "umatras"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkasama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nagkasama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:50.532346333Z",
+  "model": "glm-5.3"
+}

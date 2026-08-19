@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At mula sa anak ng limampung taon, babalik siya mula sa paglilingkod ng paglilingkod, at hindi na maglilingkod pa;",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "at mula sa anak ng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "babalik siya"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "mula sa paglilingkod"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ng paglilingkod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "maglilingkod"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:05:39.644757411Z",
+  "model": "glm-5.3"
+}

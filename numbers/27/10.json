@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung walang mga kapatid na lalaki siya, ibibigay ninyo ang ⟨את⟩ kanyang mana sa mga kapatid ng kanyang ama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "At kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "mga kapatid na lalaki"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ibibigay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mana"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kanyang mana"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "sa mga kapatid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:28.404859397Z",
+  "model": "glm-5.3"
+}

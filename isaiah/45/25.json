@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Kay Yahweh magiging-tuwid ang lahat ng binhi ng Yisra'el, at magmamalaki kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "magiging-tuwid"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "at magmamalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:52.815405540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Isang talentong gintong dalisay gagawin sa ⟨את⟩ kanyang sarili, ⟨את⟩ lahat ng mga kasangkapang ito.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "isang talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kandelabra)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga kasangkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ng ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:23.571688133Z",
+  "model": "glm-5.3"
+}

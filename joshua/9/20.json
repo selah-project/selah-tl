@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ito ang gagawin natin sa kanila, at pabubuhayin natin sila ⟨את⟩, upang huwag magkaroon sa atin ng poot dahil sa panunumpang nanumpahan natin sa kanila.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ang gagawin natin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "at pabubuhayin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "silá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "upang huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkaroon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ng poot"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "panunumpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "nanumpahan natin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:19.250286332Z",
+  "model": "glm-5.3"
+}

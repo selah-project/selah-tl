@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Bawat lalaki sa mga pari ay makakakain niyon; sa banal na dako kakainin; kabanalan ng mga kabanalan ito.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "sa mga pari"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "makakakain niyon"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dako"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga kabanalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:33.237290130Z",
+  "model": "glm-5.3"
+}

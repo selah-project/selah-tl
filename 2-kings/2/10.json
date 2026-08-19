@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi niya: Hinihiling mo ⟨את⟩ isang mahirap na bagay; kung makikita mo akong kinukuha mula ⟨את⟩ sa iyo, magkakaroon ito ng ganito sa iyo; ngunit kung hindi, hindi ito magkakaroon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "hinihiling mo ang mahirap"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na hingin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makikita mo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinukuha"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "mula ⟨את⟩ sa iyo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ng gayon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:44.277334264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking hihiga sa ⟨את⟩ asawa ng kanyang ama — ang kahubaran ng kanyang ama ay kanyang hinubaran — kamatayan ang parusa sa kanilang dalawa; ang kanilang dugo ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ng kanyang ama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hinubaran"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "patayin sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kanilang dalawa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "kanilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:06.486895642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ang iyong mga mata ay mangakakakita ng ⟨mga⟩ kakaibang bagay, at ang iyong puso ay magsasalita ng ⟨mga⟩ baluktot na bagay.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "ang iyong mga mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mangakakakita"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "⟨mga⟩ kakaibang bagay"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "at ang iyong puso"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsasalita"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "⟨mga⟩ baluktot na bagay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:34.313977368Z",
+  "model": "glm-5.3"
+}

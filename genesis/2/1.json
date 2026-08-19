@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At natapos ang mga langit at ang lupa, at ang lahat ng kanilang hukbo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "At natapos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "at ang lupa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "kanilang hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:55.484798102Z",
+  "model": "glm-5.3"
+}

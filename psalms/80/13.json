@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Bakit mo sinira ang kanyang mga bakod, at siya'y dinukot ng lahat ng dumadaan sa daan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "mo sinira"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ang kanyang mga bakod"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "at dinukot nila siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ng dumadaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa daan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:09.215786490Z",
+  "model": "glm-5.3"
+}

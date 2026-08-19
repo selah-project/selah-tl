@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At itinindig niya ang ⟨את⟩ kanyang mukha, at itinagal ito hanggang sa namutla siya sa hiya; at umiyak ang lalaki ng Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at itinindig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang mukha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kanyang mukha"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at itinagal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בש",
+      "gloss": "namutla sa hiya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:40.834803318Z",
+  "model": "glm-5.3"
+}

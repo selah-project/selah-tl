@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Naligaw ako na parang tupa na nawawala; hanapin mo ang iyong alipin, sapagkat ang iyong mga utos ay hindi ko nakalimutan.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "naligaw ako"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "na parang tupa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nawawala"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hanapin (mo)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong alipin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ang iyong mga utos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nakalimutan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:37.544265816Z",
+  "model": "glm-5.3"
+}

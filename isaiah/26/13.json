@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Yahweh na ⟨ang⟩ Elohim namin, naging mga panginoon sa amin ang mga adon maliban sa iyo; tanging sa iyo lamang natin binabanggit ang pangalan mo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim namin"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "naging mga panginoon sa amin"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "mga adon"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "maliban sa iyo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tanging"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "binabanggit natin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pangalan mo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:26.036453520Z",
+  "model": "glm-5.3"
+}

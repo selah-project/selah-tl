@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Sa Pangunguna, ayon kay Yedutun; mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon-"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "kay Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:44.126157739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pinatay ni Yoav at ni Avishay na kapatid niya si Avner, dahil pumatay siya ng ⟨את⟩ si Asahel na kapatid nila, sa Giv'on, sa digmaan.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "At si Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "at si Avishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kapatid niya"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "kay Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pumatay siya ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "si Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "kapatid nila"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sa Giv'on"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:47.854051819Z",
+  "model": "glm-5.3"
+}

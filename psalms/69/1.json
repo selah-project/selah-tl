@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Sa Panguluha ng mga mang-aawit, ayon sa ⟨mga⟩ Shoshannim, ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Panguluha ng mga mang-aawit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:43.210348950Z",
+  "model": "glm-5.3"
+}

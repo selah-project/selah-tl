@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Marami ang nagsasabi, Sino ang magpapakita sa amin ng mabuti? Iangat Mo sa amin ang liwanag ng Iyong mukha, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Marami"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ang nagsasabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ang magpapakita sa amin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Iangat Mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ang liwanag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ng Iyong mukha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:38.414886534Z",
+  "model": "glm-5.3"
+}

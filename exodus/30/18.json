@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At gagawin mo ang isang lababo ng tanso at ang kanan nito na tanso, para sa paghuhugas, at ilalagay mo ang ⟨את⟩ nito sa pagitan ng tolda ng kapisanan at sa pagitan ng ⟨ang⟩ altar, at maglalagay ka roon ng tubig.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "lababo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "at ang kanan nito"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "para sa paghuhugas"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nito"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at maglalagay ka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:22.083167351Z",
+  "model": "glm-5.3"
+}

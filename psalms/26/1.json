@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kay David. Hatulan mo ako, Yahweh, sapagkat ako'y lumakad sa aking kawalang-may-kasalanan, at kay Yahweh ako'y umasa; hindi ako maguguluhan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hatulan mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "sa aking kawalang-may-kasalanan"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "lumakad ako"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "at kay Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "umasà ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "maguguluhan ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:10.784559826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ⟨את⟩ kasama ninyo magiging bawat tao para sa bawat tribo, tao na ulo ng bahay ng kanyang mga ama, siya mismo.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "At ⟨את⟩ kasama ninyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para sa bawat tribo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ng kanyang mga ama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mismo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:14.086748637Z",
+  "model": "glm-5.3"
+}

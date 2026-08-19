@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sa ikaapat na taon, ang buong bunga nito ay magiging banal — pasasalamat-ugnay kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "at sa taon"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "ikaapat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "bunga nito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "pasasalamat-ugnay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:09.629118924Z",
+  "model": "glm-5.3"
+}

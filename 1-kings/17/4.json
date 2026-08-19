@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At mangyayari, mula sa batis iinom ka, at ⟨את⟩ mga uwak ay utusan kong pakainin ka doon.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At mangyayari"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "mula sa batis"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "iinom ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga uwak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga uwak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "utusan ko"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "na pakainin ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:52.534975143Z",
+  "model": "glm-5.3"
+}

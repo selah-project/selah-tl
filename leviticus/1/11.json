@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At katayin niya ito ⟨את⟩ sa gilid ng dambana sa hilaga, sa harap ni Yahweh; at itatapon ng mga anak ni Aharon, ang mga kohen, ang ⟨את⟩ dugo nito sa dambana sa paligid.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "at katayin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang hayop)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng dambana"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sa hilaga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "at itatapon nila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo nito"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang dugo nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:14.575797625Z",
+  "model": "glm-5.3"
+}

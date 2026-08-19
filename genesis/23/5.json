@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sumagot ang mga anak ni Chet kay ⟨את⟩ Avraham, na nagsasabi sa kanya,",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Chet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:29.617729724Z",
+  "model": "glm-5.3"
+}

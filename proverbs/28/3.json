@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang taong dukha na umaapi sa mga mahihina ay tulad ng ulan na bumabagsak nang malakas at walang tinapay.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "רש",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "na umaapi"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "sa mga mahihina"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "bumabagsak nang malakas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:37.011828295Z",
+  "model": "glm-5.3"
+}

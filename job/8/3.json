@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Magpapaliko ba ng ⟨את⟩ hatol si El? O magpapaliko ba ng ⟨את⟩ katarungan si Shaddai?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "si El ba"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magpapaliko"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng hatol"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "si Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magpapaliko"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ng katarungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:46:21.798193329Z",
+  "model": "glm-5.3"
+}

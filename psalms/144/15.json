@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Mapalad ang bayan na ganito ang kalagayan; oo, mapalad ang bayan na si Yahweh ang Elohim niya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mapalad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ganito ang kalagayan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mapalad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "na si Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ang Elohim niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.223478145Z",
+  "model": "glm-5.3"
+}

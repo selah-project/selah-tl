@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at ang ⟨את⟩ Tsorah, at ang ⟨את⟩ Ayalon, at ang ⟨את⟩ Chevron, na nasa Yehudah at sa Binyamin — mga lungsod na kuta",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "nasa Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "at sa Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "na kuta"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:27.863966205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sa karunungan ng babae, itinatag niya ang ⟨את⟩ kaniyang bahay, ngunit sa kamangmangan, sa kaniyang sariling mga kamay, ginigiba niya ito.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ng babae"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "itinatag niya"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ang kaniyang bahay"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ngunit sa kamangmangan"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "sa kaniyang mga kamay"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ginigiba niya ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:09.634245555Z",
+  "model": "glm-5.3"
+}

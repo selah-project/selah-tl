@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "At dinakip nila ang ⟨את⟩ hari, at iniahon nila siya sa hari ng Babilonia, sa Rivlah, sa lupain ng Chamat; at nagsalita siya sa kaniya ng mga hatol.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "dinakip nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "iniahon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Babilonia"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ng Chamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kaniya",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mga hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T17:37:51.841073810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At pinagsama-sama niya silang ⟨את⟩ sa bilangguan, tatlong araw.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinagsama-sama niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "bilangguan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:13.866937828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nagpatuloy pa si Ester at nagsalita sa harapan ng hari, at nagpatirapa sa harapan ng kanyang mga paa, at umiyak, at nanalangingin sa kanya, na ipagpalipat ang ⟨את⟩ kasamaan ni Haman ang Agagita at ang ⟨את⟩ kanyang binabalak na binalak laban sa mga Yehudi.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "at nagpatuloy pa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "at nagpatirapa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ng kanyang mga paa"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "at nanalangingin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "na ipagpalipat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasamaan"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ang Agagita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang binabalak"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "ang kanyang binabalak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "binalak"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sa mga Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:32.368184214Z",
+  "model": "glm-5.3"
+}

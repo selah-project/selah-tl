@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Na bilangin nang tama ang mga araw nati'y ipaalam mo sa amin, upang magdala kami ng pusong may karunungan.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "na bilangin"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mga araw natin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nang tama"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipaalam mo"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "upang magdala kami"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ng puso"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "may karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:25.089798355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi niya kay Yeter, ang kanyang panganay: Tumindig ka, patayin mo sila. Ngunit hindi hinila ng batà ang kanyang espada, sapagkat natakot siya, sapagkat batà pa rin siya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "kay Yeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ang kanyang panganay"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "patayin mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "hinila"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batà"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ang kanyang espada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "natakot siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "pa rin siya"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batà"
+    }
+  ],
+  "timestamp": "2026-08-19T15:51:24.813637521Z",
+  "model": "glm-5.3"
+}

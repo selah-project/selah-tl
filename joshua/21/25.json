@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At mula sa kalahati ng tribo ni Menashshe, ang ⟨את⟩ Taanach na kasama ang mga bakuran nito, at ang ⟨את⟩ Gath-Rimon na kasama ang mga bakuran nito; dalawang lungsod.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "at mula sa kalahati"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanach"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Gath-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "dalawang lungsod"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:51.376081592Z",
+  "model": "glm-5.3"
+}

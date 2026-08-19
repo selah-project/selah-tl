@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Sa gabi at sa araw, hindi mapapatay; magpakailanman, aakyat ang usok nito; mula lahi hanggang lahi, mananatiling tiwangwang; magpakailanman-mang-mang, walang makadaan ⟨dito⟩.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "mapapatay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "aakyat"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "ang usok nito"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "mula lahi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "hanggang lahi"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "mananatiling tiwangwang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "mang-mang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "makadaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:58.209383609Z",
+  "model": "glm-5.3"
+}

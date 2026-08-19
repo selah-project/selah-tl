@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nakita ni Elohim ang ⟨את⟩ liwanag na ⟨ito⟩ ay mabuti, at inihiwalay ni Elohim ang liwanag sa kadiliman.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "At nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang liwanag"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang liwanag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ay mabuti"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "at inihiwalay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang liwanag"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ang kadiliman"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:15.501395407Z",
+  "model": "glm-5.3"
+}

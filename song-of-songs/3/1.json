@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa aking higaan, sa mga gabi, hinanap ko ang ⟨את⟩ minamahal ng aking kaluluwa; hinanap ko siya, ngunit hindi ko siya natagpuan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "aking higaan"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabi"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "hinanap ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minamahal ng aking kaluluwa"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "minamahal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking kaluluwa"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "hinanap ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ko siya natagpuan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:04.267830937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At kanilang kakainin ang ⟨את⟩ laman sa gabiing ito, inihaw sa apoy; kasama ng tinapay na walang pampaasim at ng mapapait na mga yerba kakainin nila ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "At kanilang kakainin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "inihaw"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "at tinapay na walang pampaasim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "mapapait na mga yerba"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "kakainin nila siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:01.772101541Z",
+  "model": "glm-5.3"
+}

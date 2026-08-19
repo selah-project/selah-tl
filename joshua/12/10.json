@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang hari ng Yerushalayim, isa; ang hari ng Chevron, isa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ng Chevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:45.483046961Z",
+  "model": "glm-5.3"
+}

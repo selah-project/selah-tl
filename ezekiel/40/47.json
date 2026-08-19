@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At sinukat niya ang ⟨את⟩ hukay — haba na isang daang siko at luwang na isang daang siko, parisukat; at ang mizbeach ay nasa harap ng bahay.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "At sinukat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukay"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ang hukay"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at luwang"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "parisukat"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "at ang mizbeach"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:00.400542392Z",
+  "model": "glm-5.3"
+}

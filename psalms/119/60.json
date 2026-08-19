@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nagmadali ako at hindi ako nagdalawang-isip na ingatan ang iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nagmadali ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ako nagdalawang-isip\/nag-alinlangan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na ingatan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ang iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:41.650214997Z",
+  "model": "glm-5.3"
+}

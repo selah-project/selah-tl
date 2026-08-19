@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Makikinig ang marunong at magdaragdag ng aral, at ang may-unawa ay makakamtam ng ⟨את⟩ mga patnubay sa pamamahala.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "makikinig"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "at magdaragdag"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ng aral"
+    },
+    {
+      "surface": "ויקנה",
+      "gloss": "at makakamtang"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mga patnubay sa pamamahala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:42.387753424Z",
+  "model": "glm-5.3"
+}

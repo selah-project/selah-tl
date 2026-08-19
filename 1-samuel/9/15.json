@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nagbunyag si Yahweh sa ⟨את⟩ tainga ni Shemuel, isang araw bago pa ang pagdating ni Shaul, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "nagbunyag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tainga ni Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tainga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "isang araw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pagdating"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:29.408690130Z",
+  "model": "glm-5.3"
+}

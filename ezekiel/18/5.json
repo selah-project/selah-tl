@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kung ang isang tao ay magiging matuwid, at gumawa ng hatol at katuwiran —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "at katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T17:44:08.254204284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "⟨Ang⟩ tinapay ng kaniyang Elohim — mula sa ⟨mga⟩ pinaka-banal, at mula sa ⟨mga⟩ banal — ay makakain niya.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ng kaniyang Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mula sa pinaka-banal"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga banal"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ang mga banal"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makakain siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:57.148512558Z",
+  "model": "glm-5.3"
+}

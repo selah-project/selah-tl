@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At bawat marunong sa puso sa inyo ay pumasok at gumawa ng ⟨את⟩ lahat ng iniutos ni Yahweh:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At bawat"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "at gumawa ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:49.934962927Z",
+  "model": "glm-5.3"
+}

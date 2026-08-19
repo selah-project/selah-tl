@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Magsalita ka sa mga anak ni Yisrael, at sabihin mo sa kanila: Kapag ang sinumang tao sa inyo ay mag-aalay ng korban kay Yahweh, mula sa hayop — mula sa baka at mula sa tupa — ay inyong iaalay ang ⟨את⟩ inyong handog.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Magsalita ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sinumang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "mag-aalay"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ng korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "inyong iaalay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong handog"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "inyong handog"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:09.484655766Z",
+  "model": "glm-5.3"
+}

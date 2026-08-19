@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Mag-ingat ka sa iyong sarili, baka makalimutan mo si ⟨את⟩ Yahweh na naglabas sa iyo mula sa lupain ng Mitzrayim, mula sa bahay ng mga alipin.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "mag-ingat ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyong sarili"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "makalimutan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "naglabas sa iyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ng mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:13.182675586Z",
+  "model": "glm-5.3"
+}

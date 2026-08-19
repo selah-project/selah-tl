@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nabuhay si Terach na pitumpung taon, at naging anak niya sina ⟨את⟩ Avram, ⟨את⟩ Nachor, at ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "At nabuhay"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "si Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at naging anak niya sina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-19T20:05:26.175658430Z",
+  "model": "glm-5.3"
+}

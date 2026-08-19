@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ibibigay Ko ang ⟨את⟩ aking tipan sa pagitan Ko at sa pagitan mo, at paparamihin ⟨את⟩ kita ⟨את⟩ nang lubos na lubos.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "At ibibigay Ko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa pagitan Ko"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "at sa pagitan mo"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "at paparamihin"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kita",
+      "marks": "nang lubos na lubos"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:36.037757485Z",
+  "model": "glm-5.3"
+}

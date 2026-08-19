@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngunit ang saserdote, kung bibilhin niya ang isang tao na pag-aari ng kanyang salapi, siya ay kakain nito; at ang ipinanganak sa kanyang bahay, sila ay kakain ng kanyang tinapay.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "ngunit ang saserdote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "bibilhin niya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "pag-aari"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ng kanyang salapi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nito"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "at ang ipinanganak"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa kanyang bahay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ng kanyang tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:21.515930905Z",
+  "model": "glm-5.3"
+}

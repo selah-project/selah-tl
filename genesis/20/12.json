@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At bukod pa, talaga ngang kapatid ko siya — anak ng aking ama siya, ngunit hindi anak ng aking ina; at siya ay naging aking asawa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "At bukod pa"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "talaga ngang"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kapatid ko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ng aking ama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ng aking ina"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at siya ay naging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aking"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:53.826302321Z",
+  "model": "glm-5.3"
+}

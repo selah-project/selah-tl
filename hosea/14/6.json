@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ako ay magiging gaya ng hamog sa Israel, siya'y mamumulaklak gaya ng suso, at mamanhid ang kaniyang mga ugat gaya ng Lebanon.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "magiging ako"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "gaya ng hamog"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "mamumulaklak siya"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "gaya ng suso"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at mamanhid"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ang kaniyang mga ugat"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "gaya ng Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:48.620189352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Umibig ka, sumikat ka, sapagkat dumating na ang iyong liwanag, at ang kaluwalhatian ni Yahweh ay sumikat sa iyo.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Umibig ka (bumangon ka)"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "sumikat ka (magliwanag ka)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating na"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ang iyong liwanag"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "at ang kaluwalhatian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "sumikat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:58.751854558Z",
+  "model": "glm-5.3"
+}

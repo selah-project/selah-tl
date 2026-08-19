@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At ang ⟨את⟩ isang tupa ay kukunin mo, at magpapatong si Aharon at mga anak niya ⟨את⟩ ng kanilang mga kamay sa ulo ng tupa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isang tupa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kukunin mo"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "at magpapatong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at mga anak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kanilang mga kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ng tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:00.953649431Z",
+  "model": "glm-5.3"
+}

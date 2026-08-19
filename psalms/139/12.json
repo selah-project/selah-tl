@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Gayundin ang kadiliman ay hindi didilim sa iyong harap; at ang gabi ay magliliwanag na gaya ng araw; gaya ng kadiliman, gaya ng liwanag.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gayundin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kadiliman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "didilim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa iyong harap"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at ang gabi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "magliliwanag"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "gaya ng kadiliman"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "gaya ng liwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.806815928Z",
+  "model": "glm-5.3"
+}

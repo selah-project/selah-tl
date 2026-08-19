@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Ipadinig mo sa akin ang kagalakan at kasayahan, upang magsaya ang mga buto na iyong dinurog.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ipadinig mo sa akin"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ang kagalakan"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "at kasayahan"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "magsaya \/ magalak"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ang mga buto"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "na iyong dinurog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:26.281830951Z",
+  "model": "glm-5.3"
+}

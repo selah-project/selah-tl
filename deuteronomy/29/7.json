@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kinuha natin ang ⟨את⟩ kanilang lupain at ibinigay ito bilang pamana sa mga Rubenita at sa mga Gadita at sa kalahati ng tribo ng Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "at kinuha natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang lupain"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kanilang lupain"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "at ibinigay ito"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "bilang pamana"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "sa mga Rubenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "at sa mga Gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "at sa kalahati"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ng tribo"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:23.562426741Z",
+  "model": "glm-5.3"
+}

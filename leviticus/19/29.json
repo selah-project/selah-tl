@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag mong durungisan ang ⟨את⟩ iyong anak na babae upang siya'y magpakitaasa, at huwag magpakitaasa ang lupain, at mapuno ang lupain ng kasamaan; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "dungisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong anak na babae"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "iyong anak na babae"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "upang siya'y magpakitaasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "magpakitaasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "at mapuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:37.131430038Z",
+  "model": "glm-5.3"
+}

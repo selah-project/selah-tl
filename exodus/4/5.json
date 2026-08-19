@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Upang maniwala sila na nagpakita sa iyo si Yahweh, ⟨ang⟩ Elohim ng kanilang mga ama — Elohim ni Avraham, Elohim ni Yitshak, at Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "maniwala sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "kanilang mga ama"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:21.850182129Z",
+  "model": "glm-5.3"
+}

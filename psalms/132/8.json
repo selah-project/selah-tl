@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Magbangon ka, Yahweh, patungo sa iyong pahingahan, ikaw ⟨naman⟩ at ang ⟨את⟩ arko ng iyong kalakasan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "magbangon ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "patungo sa iyong pahingahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "at ang arko"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ng iyong kalakasan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:21.372189978Z",
+  "model": "glm-5.3"
+}

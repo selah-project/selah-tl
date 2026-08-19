@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Yahweh, huwag mo akong pahiyain, sapagkat tumawag ako sa iyo; mahiya ang mga masama, at maging tahimik sa Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "pahiyain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tumawag ako sa iyo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahiya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masama"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "maging tahimik"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:43.772056729Z",
+  "model": "glm-5.3"
+}

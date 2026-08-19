@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At alamin ninyo na hinirang ng Yahweh ang tapat para sa kanyang sarili; Yahweh ay ⟨didinig⟩ sa aking pagtawag sa kanya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "at alamin ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "hinirang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang tapat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanyang sarili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "didinig"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa aking pagtawag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.354939826Z",
+  "model": "glm-5.3"
+}

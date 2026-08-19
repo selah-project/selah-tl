@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Yahweh, inibig ko ang tahanan ng iyong bahay, at ang lugar ng tahanan ng iyong kaluwalhatian.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "inibig ko"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ang tahanan ng"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong bahay"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "at ang lugar ng"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "iyong kaluwalhatian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.915058453Z",
+  "model": "glm-5.3"
+}

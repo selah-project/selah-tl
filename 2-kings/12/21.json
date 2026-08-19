@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Tumindig ang mga alipin niya at nag-aksaya ng pakikipag-sabwatan, at sinaktan nila si ⟨את⟩ Yoash sa Beit-Milo, sa daang bumababa sa Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mga alipin niya"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "nagsabwatan"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sabwatan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "sinaktan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beit-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:26.054267557Z",
+  "model": "glm-5.3"
+}

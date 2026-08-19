@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Ang taong parang hayop ay hindi nakakaalam, at ang hangal ay hindi nakauunawa ng ⟨את⟩ ganito.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "בער",
+      "gloss": "parang hayop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "at ang hangal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganito"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ganito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.971338885Z",
+  "model": "glm-5.3"
+}

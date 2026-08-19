@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sa isang maikling sandali iniwan kita, ngunit sa malalaking awa pangangatawan kitang muli.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "sa isang maikling sandali"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "maikli"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "iniwan kita"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "ngunit sa malalaking awa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "malalaki"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "pangangatawan kitang muli"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:31.550928759Z",
+  "model": "glm-5.3"
+}

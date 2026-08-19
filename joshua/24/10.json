@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At hindi ako nagpahintulot na makinig kay Bilam, at pinagpala niya nang paulit-ulit ang ⟨את⟩ inyo, at iniligtas ko ang ⟨את⟩ inyo mula sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ako nagpahintulot"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "na makinig"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "kay Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at pinagpala niya"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nang paulit-ulit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "pinagpala ang inyo"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "at iniligtas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "iniligtas ko ang inyo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "mula sa kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:13.682012181Z",
+  "model": "glm-5.3"
+}

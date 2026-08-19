@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "At dumarating sa Tsiyon ang Tagapagtubos, at sa mga nagbabalik-loob mula sa paglaban sa Yaakov, dahil ng Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "at dumarating"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "ang Tagapagtubos"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "at sa mga nagbabalik-loob mula sa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "paglaban"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "dahil ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:38.443979497Z",
+  "model": "glm-5.3"
+}

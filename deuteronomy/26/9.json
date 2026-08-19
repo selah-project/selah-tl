@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At dinala niya tayo sa ⟨ang⟩ lugar na ito, at binigyan niya tayo ng ⟨את⟩ lupain na ito, lupain na umaagos ng gatas at pulot-pukyutan.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "at dinala niya tayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ang⟩ lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at binigyan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "niya tayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain na ito"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupain"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "umaagos"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ng gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "at pulot-pukyutan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:49.374323691Z",
+  "model": "glm-5.3"
+}

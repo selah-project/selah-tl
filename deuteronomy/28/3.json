@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Pinagpala ka sa ⟨the⟩ lungsod, at pinagpala ka sa ⟨the⟩ bukid.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "at pinagpala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:44.815875327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang taong umiibig sa karunungan ay nagpapasaya ng kaniyang ama; ngunit ang kumakasama sa mga babaing bayaran ay nagpapawalay ng kayamanan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagpapasaya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kaniyang ama"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "at kumakasama"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "mga babaing bayaran"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "nagpapawalay"
+    },
+    {
+      "surface": "הון",
+      "gloss": "kayamanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:11.286057479Z",
+  "model": "glm-5.3"
+}

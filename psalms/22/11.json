@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa iyo ako hinagis mula sa bahay-bata, mula sa tiyan ng aking ina — El ikaw ⟨na⟩ aking Elohim.",
+  "tokens": [
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "Sa iyo"
+    },
+    {
+      "surface": "הֻשְׁלַכְתִּי",
+      "gloss": "ako hinagis"
+    },
+    {
+      "surface": "מֵרָחֶם",
+      "gloss": "mula sa bahay-bata"
+    },
+    {
+      "surface": "מִבֶּטֶן",
+      "gloss": "mula sa tiyan"
+    },
+    {
+      "surface": "אִמִּי",
+      "gloss": "ng aking ina"
+    },
+    {
+      "surface": "אֵלִי",
+      "gloss": "aking El"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:34.707020576Z",
+  "model": "glm-5.3"
+}

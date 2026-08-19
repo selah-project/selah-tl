@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ipinagsabi nila kay David, na nagsasabi: Narito, ang mga Pelishtey ay nakikipaglaban sa Keilah, at sila'y nangangayayaw ng ⟨את⟩ mga giikan.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "atin ipinagsabi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishtey"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "nangangayayaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga giikan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "mga giikan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:30.485222129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Narito, dumarating ang mga araw, at puputulin ko ang ⟨את⟩ iyong braso at ang ⟨את⟩ braso ng bahay ng iyong ama, upang walang ⟨maging⟩ matanda sa iyong bahay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "darating"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "at puputulin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong braso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iyong braso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "braso ng bahay ng iyong ama"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "braso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "upang walang maging"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa iyong bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:29.761908874Z",
+  "model": "glm-5.3"
+}

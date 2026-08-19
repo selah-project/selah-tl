@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Magpapasalamat sa iyo, Yahweh, ang lahat ng iyong mga gawa, at papagpalain ka ng iyong mga tapat.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Magpapasalamat sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iyong mga gawa"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "at ang iyong mga tapat"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "papagpalain ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.961909381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinabi ni David kay Yoab at sa mga pangulo ng bayan: Lumakad kayo, ilagom sa talaan ang ⟨את⟩ Yisrael, mula sa Beer-Sheba hanggang sa Dan, at dalhin ninyo sa akin, at malalaman ko ang ⟨את⟩ kanilang bilang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo ng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lumakad kayo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ilagom sa talaan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "mula sa Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "at dalhin ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "at malalaman ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang bilang"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "kanilang bilang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:30.434411646Z",
+  "model": "glm-5.3"
+}

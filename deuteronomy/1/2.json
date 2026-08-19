@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Labing-isang araw mula sa Chorev sa daan ng bundok ng Seir hanggang Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "-isang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "Labing"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mula sa Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa daan ng"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok ng"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:46.900091909Z",
+  "model": "glm-5.3"
+}

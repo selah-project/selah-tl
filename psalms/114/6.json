@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 114,
+  "translation": "O mga bundok, na nagsisilandsot kayo na parang mga tupang lalaki, O mga burol, na parang mga kordero?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "O mga bundok"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "nagsisilandsot kayo"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "parang mga tupang lalaki"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "O mga burol"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "parang mga anak ng"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:13.710940514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Ang ⟨isang⟩ kapatid ay walang makatubos ⟨ng ganap⟩; hindi mabibigay ng tao sa Elohim ang kanyang pantubos,",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi \/ walang"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "⟨ng ganap⟩ (tubos)"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "makatubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mabibigay"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ang kanyang pantubos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:55.645190472Z",
+  "model": "glm-5.3"
+}

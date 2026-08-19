@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At kukunin mo ang ⟨את⟩ langis ng pagpapahid, at papahidan mo ang ⟨את⟩ tolda at ang ⟨את⟩ lahat ng nasa loob nito, at itatakdang-banaltad mo ⟨את⟩ siya at ang ⟨את⟩ lahat ng kasangkapan niya, at magiging banal ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "at kukunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langis"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "at papahidan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "at itatakdang-banaltad mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang tolda)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ng kasangkapan niya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:59.667295353Z",
+  "model": "glm-5.3"
+}

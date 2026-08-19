@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat ang iyong asawa ay ang iyong Lumikha — Yahweh ng mga hukbo ang kanyang pangalan; at ang iyong Manunubos ay ang Banal ng Israel, na tatawaging Elohim ng buong lupa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "ang iyong asawa"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "ang iyong Lumikha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "at ang iyong Manunubos"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Banal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tatawaging"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:31.550460050Z",
+  "model": "glm-5.3"
+}

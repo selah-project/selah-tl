@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ano ang gagawin ninyo sa araw ng takdang pulong, at sa araw ng pista ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gagawin ninyo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa araw ng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takdang pulong"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "at sa araw ng"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:42.050484265Z",
+  "model": "glm-5.3"
+}

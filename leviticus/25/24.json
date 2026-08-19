@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At sa buong lupain ng inyong pag-aari, katubusan ang ibibigay ninyo sa lupa.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "at sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ng inyong pag-aari"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "katubusan"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ibibigay ninyo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:04.581604500Z",
+  "model": "glm-5.3"
+}

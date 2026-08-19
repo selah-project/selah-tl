@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Dadami ang kanilang mga ídolo; sila na nagmamadaling humabol sa ibang diyos — hindi ko ibubuhos ang kanilang mga handog na inumin ng dugo, at hindi ko babanggitin ang ⟨את⟩ kanilang mga pangalan sa aking mga labi.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "dadami"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ang kanilang mga ídolo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa ibang"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "nagmamadali sila"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ibubuhos ko"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ang kanilang mga handog na inumin"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "babanggitin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga pangalan"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "kanilang mga pangalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "aking mga labi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:17.434758135Z",
+  "model": "glm-5.3"
+}

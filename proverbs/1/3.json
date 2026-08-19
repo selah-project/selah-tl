@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "upang tanggapin ang turo ng pag-iingat-na-katalinuhan — katarungan, at hatol, at katuwiran;",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "upang tanggapin"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "turo"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ng pag-iingat-na-katalinuhan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at hatol"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "at katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:53.361567434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At isusulat ng kohen ang ⟨את⟩ mga sumpang ito sa aklat, at papahidin sa mga tubig na mapait.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "at isusulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sumpang ito"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ang mga sumpa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ang ito"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa aklat"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "at papahidin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "na mapait"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:38.606866063Z",
+  "model": "glm-5.3"
+}

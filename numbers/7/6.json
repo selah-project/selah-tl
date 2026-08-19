@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At kinuha ni Moshe ang ⟨את⟩ mga kariton at ang ⟨את⟩ mga baka, at ibinigay ang ⟨את⟩ mga ito sa mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "At kinuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kariton"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ang mga kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ang ⟨את⟩ mga ito",
+      "marks": "mga ito (sa mga Levita)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:56.203556766Z",
+  "model": "glm-5.3"
+}

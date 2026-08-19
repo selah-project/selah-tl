@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ngayo'y sumpa ka mula sa lupa na nagbuka ng ⟨את⟩ kaniyang bibig upang tumanggap ng ⟨את⟩ mga dugo ng iyong kapatid mula sa iyong kamay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayo'y"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "nagbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang bibig"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kaniyang bibig"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "upang tumanggap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dugo ng iyong kapatid"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ng mga dugo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng iyong kapatid"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mula sa iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:03.948395341Z",
+  "model": "glm-5.3"
+}

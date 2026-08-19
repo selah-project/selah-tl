@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Magpapadala mula sa ⟨mga⟩ langit at ililigtas niya ako; ⟨sinisiya⟩ niya ang humahabol sa akin. Selah. Ipadadala ng Elohim ang kanyang khesed at ang kanyang katotohanan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Magpapadala"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa mga langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "at ililigtas niya ako"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "⟨sinisiya⟩ niya"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ang humahabol sa akin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Ipadadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang khesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "at ang kanyang katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:48.347284157Z",
+  "model": "glm-5.3"
+}

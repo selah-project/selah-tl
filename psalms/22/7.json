@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Datapuwa't ako ay ⟨is⟩ uod at hindi tao, kahihiyan ng mga tao at hinamak ng ⟨the⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "datapuwa't ako"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "uod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng mga tao"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "at hinamak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:50.278634375Z",
+  "model": "glm-5.3"
+}

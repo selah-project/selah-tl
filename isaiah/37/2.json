@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ipinadala niya si Eljakim na ⟨na⟩ nasa ibabaw ng bahay, at si Shevna ang eskriba, at ang mga matatanda ng mga saserdote, nakabalot ng mga sako, kay Yeshajahu na anak ni Amots ang propeta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At ipinadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "si Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Shevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "si Shevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "ang eskriba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga matatanda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda ng"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "nakabalot"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ng mga sako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:53.198820151Z",
+  "model": "glm-5.3"
+}

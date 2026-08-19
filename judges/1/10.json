@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At yumaon si Yehudah laban sa Kenaneo na naninirahan sa Chevron — at ang pangalan ng Chevron noon pa ay Kiryat-Arba — at hinampas nila si ⟨את⟩ Sheshai at si ⟨את⟩ Achiman at si ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaneo"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "na naninirahan"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ng Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "noon pa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at hinampas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:05.727853221Z",
+  "model": "glm-5.3"
+}

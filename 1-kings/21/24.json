@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang mamamatay kay Achav sa lungsod kakainin ng mga aso, at ang mamamatay sa parang kakainin ng mga ibon ng langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ang mamamatay"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kay Achav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ng mga aso"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "at ang mamamatay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ng mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:08.988697283Z",
+  "model": "glm-5.3"
+}

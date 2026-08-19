@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sapagkat tatayo siya sa kanan ng dukha upang iligtas ⟨siya⟩ sa mga humahatol sa kanyang buhay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tatayo siya"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "sa kanan ng"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "upang iligtas"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sa mga humahatol"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa kanyang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.734562542Z",
+  "model": "glm-5.3"
+}

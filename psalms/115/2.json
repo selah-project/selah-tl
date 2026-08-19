@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Bakit sasabihin ng ⟨את⟩ mga bansa, Nasaan nga ba ang kanilang Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Nasaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga ba"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:30.241638274Z",
+  "model": "glm-5.3"
+}

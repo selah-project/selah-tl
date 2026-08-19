@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At iniwan niya ang ⟨את⟩ payo ng mga matatanda na kanilang ipinayo sa kaniya, at nagpayo siya sa ⟨את⟩ mga batang lumaki kasama ⟨את⟩ niya, na mga tumatayo sa harap niya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "at iniwan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "payo ng"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ipinaino nila sa kaniya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "at nagpayo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mga batang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "lumaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na mga tumatayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:43.181307929Z",
+  "model": "glm-5.3"
+}

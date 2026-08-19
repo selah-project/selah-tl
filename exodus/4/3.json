@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ⟨niya⟩: Ihagis mo ito sa lupa. At kaniyang hinagis ito sa lupa, at ito'y naging ahas, at tumakas si Moshe sa harapan nito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "ihagis mo ito"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "at kaniyang hinagis ito"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ahas"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa harapan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:29.015891909Z",
+  "model": "glm-5.3"
+}

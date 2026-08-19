@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Kapag pinalo mo ang iyong olibo, huwag mong iwiwas ang mga sanga pagkatapos mo; sa dayuhan, sa ulila, at sa biyuda magiging.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "pinalo mo"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ang iyong olibo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "iwiwas"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "sa dayuhan"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "sa ulila"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "at sa biyuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:33.544146982Z",
+  "model": "glm-5.3"
+}

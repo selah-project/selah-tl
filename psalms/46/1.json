@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Sa pangunguna, ng mga anak ni Korach, alang-alam sa mga alamat ⟨soprano⟩, isang awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ng mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang-alam sa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mga babaeng tinig (soprano)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:25.285261500Z",
+  "model": "glm-5.3"
+}

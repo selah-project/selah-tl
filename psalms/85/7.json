@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Hindi ba kayo babalik upang buhayin kami, at ang inyong bayan ay magagalak sa inyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "buhayin kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "at ang inyong bayan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.124238919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Nagkulang at nagutom ang mga batang leon, ngunit ang mga naghahanap kay Yahweh ay hindi makukulangan ng anumang mabuti.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "mga batang leon"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "nagkulang"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "at nagutom"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ngunit ang mga naghahanap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "makukulangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng anumang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.097881680Z",
+  "model": "glm-5.3"
+}

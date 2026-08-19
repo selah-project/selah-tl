@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kaya kumuha si Hanun ng ⟨את⟩ mga alipin ni David, at ginulang ang ⟨את⟩ kalahati ng kanilang baba, at tinabas ang ⟨את⟩ kanilang mga damit sa gitna hanggang sa kanilang puwitan, at pinalayas sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kaya kumuha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "si Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga alipin ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "at ginulang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalahati ng kanilang baba"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "kalahati"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ng kanilang baba"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "at tinabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga damit"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "kanilang mga damit"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "kanilang puwitan"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "at pinalayas sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:25.204954645Z",
+  "model": "glm-5.3"
+}

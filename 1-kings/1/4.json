@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang dalaga ay napakaganda, at siya ay naging tagapag-alaga ng hari, at naglingkod siya sa kaniya, ngunit hindi siya nakilala ng hari.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "At ang dalaga"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at siya ay naging"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "tagapag-alaga"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "at naglingkod siya sa kaniya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ngunit ang hari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "nakilala siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:43.781893745Z",
+  "model": "glm-5.3"
+}

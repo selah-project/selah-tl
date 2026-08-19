@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Si Achimaats ang naging ama ni ⟨את⟩ Azarjah, at si Azarjah ang naging ama ni ⟨את⟩ Yochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "at si Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "at si Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:25.292766366Z",
+  "model": "glm-5.3"
+}

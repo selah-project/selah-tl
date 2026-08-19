@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ikinigo ng hari ang ⟨את⟩ kaniyang mukha, at binasbasan niya ang ⟨את⟩ buong kapulungan ng Israel, at ang buong kapulungan ng Israel ay nakatayo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "at ikinigo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mukha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kaniyang mukha"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong kapulungan ng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapulungan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapulungan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ay nakatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:52.604014565Z",
+  "model": "glm-5.3"
+}

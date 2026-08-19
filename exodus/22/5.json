@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung may apoy na lumabas at nakatagpo ng mga tinik at natunaw ⟨ang⟩ tumpok ng mga bunga ng lupa, o ang nakatayong pananim, o ang bukid — buo na kabayaran ang babayaran ng nagpasiklab ⟨את⟩ sunog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "at nakatagpo"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "mga tinik"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "at natunaw"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "tumpok ng mga bunga ng lupa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ang nakatayong pananim"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "buo na kabayaran"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ang nagpasiklab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunog"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "sunog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:19.244867265Z",
+  "model": "glm-5.3"
+}

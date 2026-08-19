@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ako nga ang nag-ahon sa inyo ⟨את⟩ mula sa lupain ng Mitzrayim, at pinatnubayan ko kayo ⟨את⟩ sa ilang sa loob ng apatnapung taon, upang pangunin ninyo ⟨את⟩ ang lupain ng Emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako nga"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nag-ahon ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "mula sa lupain ng Mitzrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "at pinatnubayan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "sa ilang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apatnapu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "upang pangunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupain"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng Emori"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:30.078436252Z",
+  "model": "glm-5.3"
+}

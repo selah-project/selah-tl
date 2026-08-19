@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ngayon nga, anak ko, makinig ka sa aking tinig, sa bagay na iniuutos ko sa ⟨את⟩ iyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ngayon nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "makinig ka"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sa aking tinig"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa bagay na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iniuutos"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:17.221537281Z",
+  "model": "glm-5.3"
+}

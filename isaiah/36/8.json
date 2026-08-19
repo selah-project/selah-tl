@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ngayon, mangako ka ngayon ⟨את⟩ aking panginoon, ang hari ng Ashur, at bibigyan kita ng dalawang libong kabayo, kung kaya mong maglagay para sa iyo ng mga sakay sa mga ito.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "mangako ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking panginoon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aking panginoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "at bibigyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kita"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dalawang libo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kabayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kaya mo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "maglagay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "mga sakay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:36.653382991Z",
+  "model": "glm-5.3"
+}

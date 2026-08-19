@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Awit para sa mga pag-ahon. Ibinababa ko—itinataas ko ang aking mga mata sa mga bundok: mula saan darating ang aking tulong?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "para sa mga pag-ahon"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "itinataas ko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mga mata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mula saan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "darating"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ang aking tulong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:42.769667573Z",
+  "model": "glm-5.3"
+}

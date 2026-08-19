@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ang ⟨את⟩ mga lalaking nasa may pintuan ng bahay ay hinampas nila ng pagkabulag, mula sa batà hanggang sa matanda, at napagod sila sa paghahanap ng pintuan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga lalaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nasa may pintuan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ay hinampas nila"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "ng pagkabulag"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "mula sa batà"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "at napagod sila"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "sa paghahanap"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ng pintuan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:34.333186472Z",
+  "model": "glm-5.3"
+}

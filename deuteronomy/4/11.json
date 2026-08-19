@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At lumapit kayo at tumayo kayo sa ilalim ng bundok, at ang bundok ay nasusunog sa apoy hanggang sa kaloob-looban ng mga langit — kadiliman, ulap, at makapal na kadiliman.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "at lumapit kayo"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "at tumayo kayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bundok"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "at ang bundok"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nasusunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kaloob-looban"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ulap"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "at makapal na kadiliman"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:08.905233037Z",
+  "model": "glm-5.3"
+}

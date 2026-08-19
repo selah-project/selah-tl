@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At si Arpakhshad ay namuhay na tatlump't limang taon, at ipinanganak niya si ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "At si Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "namuhay"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlump'"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:52.626303278Z",
+  "model": "glm-5.3"
+}

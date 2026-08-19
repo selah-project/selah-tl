@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Gayunman, sa Sheol ikaw ibababa, sa mga kamailibongan ng hukay.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Gayunman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ikaw ibababa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "mga kamailibongan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ng hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:09.769677319Z",
+  "model": "glm-5.3"
+}

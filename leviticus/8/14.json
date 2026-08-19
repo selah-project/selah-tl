@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At dinulot niya ang ⟨את⟩ baka ng handog para sa kasalanan, at inilapag nina Aharon at ng kanyang mga anak ang ⟨את⟩ kanilang mga kamay sa ulo ng baka ng handog para sa kasalanan.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "at dinulot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka ng handog para sa kasalanan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa kasalanan"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "at inilapag"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ng kanyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang kanilang mga kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:57.418560994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Maawa ka sa akin, Adonai, sapagkat sa iyo ako tumatawag sa buong araw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako tumatawag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:44.361216289Z",
+  "model": "glm-5.3"
+}

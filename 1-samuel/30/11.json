@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At nakasumpong sila ng isang lalaking Ehipsiyo sa bukid, at dinala nila ⟨את⟩ siya kay David, at binigyan nila siya ng tinapay at kumain siya, at pinainom nila siya ng tubig.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "at nakasumpong sila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Ehipsiyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at dinala nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "lalaking Ehipsiyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "at binigyan nila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "at kumain siya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "at pinainom nila siya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:13.869659547Z",
+  "model": "glm-5.3"
+}

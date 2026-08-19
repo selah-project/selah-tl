@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "sa mga panday-sa-kahoy, at sa mga panday-bato, at sa mga gumagawa ng bakod, at upang bumili ng kahoy at mga batong inhiwa, upang palakasin ⟨את⟩ ang bahay.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "sa mga panday-sa-kahoy"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "at sa mga panday-bato"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "at sa mga gumagawa ng bakod"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "at upang bumili"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "at mga bato"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "inhiwa"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "upang palakasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:28.700621972Z",
+  "model": "glm-5.3"
+}

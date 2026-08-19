@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ipag-uutos Ko ang ⟨את⟩ pagpapala Ko sa inyo sa ikaanim na taon, at magbubunga ⟨siya⟩ ng ani para sa tatlong taon.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "at ipag-uutos Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagpapala Ko"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "pagpapala Ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ikaanim"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "at magbubunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "para sa tatlong"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:04.580935512Z",
+  "model": "glm-5.3"
+}

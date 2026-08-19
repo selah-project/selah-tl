@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Sa mga armaniya nito, nakilala si Elohim bilang muog.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "sa mga armaniya nito"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "bilang muog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:12.790518075Z",
+  "model": "glm-5.3"
+}

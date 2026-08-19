@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Awdit ni David: Ibigay ninyo kay Yahweh, oh mga anak ng mga makapangyarihan; ibigay kay Yahweh ng kaluwalhatian at lakas.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "awdit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ibigay ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ng mga makapangyarihan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "at lakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:25.472786718Z",
+  "model": "glm-5.3"
+}

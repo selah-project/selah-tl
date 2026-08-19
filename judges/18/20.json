@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nagaluwag ang puso ng saserdote, at kumuha siya ng ⟨את⟩ ephod, at ng ⟨את⟩ terafim, at ng ⟨את⟩ inanyuang larawan, at pumunta siya sa gitna ng bayan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "nagaluwag"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "inanyuang larawan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "inanyuang larawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumunta"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:55:25.441335601Z",
+  "model": "glm-5.3"
+}

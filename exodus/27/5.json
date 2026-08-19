@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At ilalagay mo ⟨את⟩-ito sa ilalim ng bilog na gilid ng altar, mula sa ibaba; at ang lambat ay hanggang sa kalahati ng altar.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-ito",
+      "marks": "ito (ang lambat)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "bilog na gilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "mula sa ibaba"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ang lambat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "kahalati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:15.529114084Z",
+  "model": "glm-5.3"
+}

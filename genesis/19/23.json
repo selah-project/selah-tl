@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang araw ay sumikat sa ⟨ibabaw ng⟩ lupa nang pumasok si Lot sa Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sumikat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "at si Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "sa Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:41.069027014Z",
+  "model": "glm-5.3"
+}

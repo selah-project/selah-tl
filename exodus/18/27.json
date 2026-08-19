@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At pinaalam ni Moshe ang ⟨את⟩ kanyang biyenan, at siya'y umalis papunta sa kanyang sariling lupain.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at pinaalam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang biyenan"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "kanyang biyenan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:37.689231971Z",
+  "model": "glm-5.3"
+}

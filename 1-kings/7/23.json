@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ginawa niya ang ⟨את⟩ Dagat na hinulma; sampung siko ang layo mula sa gilid hanggang sa gilid nito, bilog sa paligid; at limang siko ang taas nito; at isang lubid na tatlumpung siko ang umiikot ⟨את⟩ dito sa paligid.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang Dagat"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "hinulma"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "mula sa gilid nito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "sa gilid nito"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "bilog"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at lima"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ang taas nito"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "at isang lubid"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "umiikot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dito (ang Dagat)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:51.247210934Z",
+  "model": "glm-5.3"
+}

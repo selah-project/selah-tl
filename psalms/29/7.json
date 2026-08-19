@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang tinig ni Yahweh ay humahati ng mga sindi ng apoy.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "humahati"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mga sindi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:04.581038006Z",
+  "model": "glm-5.3"
+}

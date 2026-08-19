@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Ang kaluwalhatian ng iyong kagitingan at ang mga salita ng iyong mga kababalaghan ay aking pag-iisipang ibabanggit.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ang kaluwalhatian"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ng kagitingan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ng iyong karangalan"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "at ang mga salita"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ng iyong mga kababalaghan"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ay aking pag-iisipang ibabanggit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.598178086Z",
+  "model": "glm-5.3"
+}

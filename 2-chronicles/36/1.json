@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At kinuha ng bayan ng lupa ang ⟨את⟩ Yehoachaz na anak ni Yoshiahu, at ginawa nila ⟨siya⟩ na hari sa halip ng kaniyang ama sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayán"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "at hinarian nila siya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:21.339883895Z",
+  "model": "glm-5.3"
+}

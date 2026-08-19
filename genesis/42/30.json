@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ang lalaki, ang panginoon ng lupain, ay nagsalita nang mariin ⟨את⟩ sa amin, at itinuring niya tayo ⟨את⟩ na parang mga tiktik ng lupain ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ay nagsalita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang panginoon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa amin"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "nang mariin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at itinuring niya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tayong"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "na parang mga tiktik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:05.903475918Z",
+  "model": "glm-5.3"
+}

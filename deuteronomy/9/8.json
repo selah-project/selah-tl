@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sa Choreb din ay pinaalab ninyo ng galit si ⟨את⟩ Yahweh, at nagalit si Yahweh sa inyo ⟨את⟩ upang ipahamak kayo.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "at sa Choreb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "pinaalab ninyo ng galit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "at nagalit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "upang ipahamak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:38.941513724Z",
+  "model": "glm-5.3"
+}

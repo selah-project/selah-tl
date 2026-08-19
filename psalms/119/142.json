@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang iyong katuwiran ay katuwiran ⟨na⟩ walang hanggan, at ang iyong torah ay katotohanan.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ang iyong katuwiran"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "walang hanggan"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "at ang iyong torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:25.433958483Z",
+  "model": "glm-5.3"
+}

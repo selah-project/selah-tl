@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang mga anak ni Kehat: Amram, at Yitshar, at Chevron, at Uzziel; at ang mga taon ng buhay ni Kehat ay isang daan at tatlumpung tatlong taon.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "at Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "at Chevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "at Uzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "at ang mga taon"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpung"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "at isang daan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:42.437913484Z",
+  "model": "glm-5.3"
+}

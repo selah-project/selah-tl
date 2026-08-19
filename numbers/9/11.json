@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sa ikalawang buwan, sa ikalabing-apat na araw, sa pagitan ng mga takipsilim, gagawin nila ⟨את⟩ niyon; sa tinapay na walang lebadura at sa mapait na mga yerba kakainin nila ⟨את⟩ niyon.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na-pu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga takipsilim"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gagawin nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niyon",
+      "marks": "niyon (ang kordero ng Pesach)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tinapay na walang lebadura"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "at mapait na mga yerba"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "kakainin nila ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:03.434538189Z",
+  "model": "glm-5.3"
+}

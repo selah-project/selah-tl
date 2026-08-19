@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Mizmor, awit ng pagdedebosyon ng ⟨ang⟩ bahay, ni David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pagdedebosyon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ang⟩ bahay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:57.619286556Z",
+  "model": "glm-5.3"
+}

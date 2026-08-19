@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Kaya't hindi tayo natatakot kapag nagbago ang lupa, at kapag nayanig ang mga bundok sa ⟨gitna⟩ ng mga dagat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa \/ dahil sa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't \/ gayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "tayo natatakot (Nifal)"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "kapag nagbago"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "at kapag nayanig\/natumba"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa gitna (lit. 'sa puso')"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:25.285600471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ibinigay ng Elohim si ⟨את⟩ Daniel para sa kabutihan at para sa awa sa harap ng puno ng mga sadin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "si Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "para sa kabutihan"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "at para sa awa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno ng"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "mga sadin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:02.341312942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ang ⟨את⟩ bahay ng hari at ang ⟨את⟩ bahay ng bayan ay sinunog ng mga Kasdeo sa apoy; at ang ⟨את⟩ mga pader ng Yerushalayim ay binagsak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bahay ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bahay ng bayan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ng mga Kasdeo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga pader ng Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "binagsak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:31:56.414844188Z",
+  "model": "glm-5.3"
+}

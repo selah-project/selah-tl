@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang hari na si Koresh ay naglabas ng ⟨את⟩ mga kasangkapan ng bahay ni Yahweh, na inilabas ni Nevuchadnetzar mula sa Yerushalayim, at inilagay niya ang mga ito sa bahay ng kanyang mga diyos.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "At ang hari"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "si Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "naglabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasangkapan ng bahay ni Yahweh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "inilabas"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "si Nevuchadnetzar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "mula sa Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "at inilagay niya ang mga ito"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ng kanyang mga diyos"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:44.084036237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ko: Hindi ko kayo ⟨את⟩ pastulan; ang mamatay, mamatay, at ang mapupuksa, mapupuksa, at ang natitira ay kainin ng bawat babae ang ⟨את⟩ laman ng kapwa niya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "pastulan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "ang mamatay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "at ang mapupuksa"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "mapupuksa"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "at ang natitira"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bawat babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ng kapwa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:33.916268473Z",
+  "model": "glm-5.3"
+}

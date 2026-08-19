@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Anak ng tao, sabihin mo sa kaniya: ⟨את⟩ ikaw ay lupa na hindi malinis ⟨ito⟩, hindi binuhusan ng ulan sa araw ng pagkagalit.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw (ang lupa)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "binuhusan ng ulan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ng pagkagalit"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:47.573013216Z",
+  "model": "glm-5.3"
+}

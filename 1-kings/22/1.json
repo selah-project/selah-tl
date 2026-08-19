@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nanahan sila nang tatlong taon, walang digmaan sa pagitan ng Aram at sa pagitan ng Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nanahan sila"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "digmaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:19.584365690Z",
+  "model": "glm-5.3"
+}

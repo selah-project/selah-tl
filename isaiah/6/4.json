@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nayanig ang mga haligi ng mga pintuan dahil sa tinig ng tumatawag, at ang bahay ay mapupuno ng usok.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "at nayanig"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ng mga pintuan"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "dahil sa tinig"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "ng tumatawag"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mapupuno"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ng usok"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:53.283134374Z",
+  "model": "glm-5.3"
+}

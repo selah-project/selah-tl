@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Mapuspos ang aking bibig ng iyong papuri, buong araw ng iyong karangalan.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "mapuspos"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang aking bibig"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ng iyong papuri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ng iyong karangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.143700805Z",
+  "model": "glm-5.3"
+}

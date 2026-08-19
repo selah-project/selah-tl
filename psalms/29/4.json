@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang tinig ni Yahweh ⟨ay⟩ may kapangyarihan; ang tinig ni Yahweh ⟨ay⟩ marangal.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "may kapangyarihan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "marangal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:25.473244531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At iniwan nila ang ⟨את⟩ bahay ni Yahweh, na Elohim ng kanilang mga magulang, at pinagsilbihan nila ang ⟨את⟩ mga Ashera at ang ⟨את⟩ mga idolo; at may poot laban sa Yehuda at sa Yerushalayim dahil sa kasalanan nilang ito.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "at iniwan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "kanilang mga magulang"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "at pinagsilbihan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mga Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga idolo"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "mga idolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at may"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "poot"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at Yerushalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "dahil sa kasalanan nila"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:33:52.264960241Z",
+  "model": "glm-5.3"
+}

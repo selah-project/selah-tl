@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Bakit itinatago mo ang iyong mukha, bakit nakakalimutan mo ang aming kahirapan at ang aming pang-aapi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "itinatago mo"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nakakalimutan mo"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ang aming kahirapan"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "at ang aming pang-aapi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:48.295945386Z",
+  "model": "glm-5.3"
+}

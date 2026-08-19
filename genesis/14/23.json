@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "kung mula sa sinulid hanggang sa tali ng sandalyas ay hindi ako kukuha ng anumang sa iyo, upang hindi mo masabi: 'Ako ang nagpayaman kay ⟨את⟩ Avram';",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "mula sa sinulid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "tali"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "ng sandalyas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ako kukuha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ng anumang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "upang hindi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mo masabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "ang nagpayaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:13.298674773Z",
+  "model": "glm-5.3"
+}

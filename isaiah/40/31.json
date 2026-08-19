@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Ngunit ang mga naghihintay kay Yahweh ay magpapalit ng lakas; mag-aangat sila ng pakpak na parang mga agila — tatakbo sila at hindi mapapagod, maglalakad sila at hindi mapapagalan.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "ngunit ang mga naghihintay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "magpapalit"
+    },
+    {
+      "surface": "כח",
+      "gloss": "lakas"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mag-aangat"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "pakpak"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "parang mga agila"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "tatakbo sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "mapapagod"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "maglalakad sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "mapapagalan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:22.210152126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Itaas ninyo, mga pintuan, ang inyong mga ulo, at itaas ang inyong sarili, mga daanan ng walang hanggan, at pumasok ang Hari ng kaluwalhatian.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "itaas ninyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mga pintuan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ang inyong mga ulo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "at itaas ang inyong sarili"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mga daanan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ng walang hanggan"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang Hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ng kaluwalhatian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.506813449Z",
+  "model": "glm-5.3"
+}

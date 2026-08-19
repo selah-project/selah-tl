@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapagkat nagbalik si Yahweh sa ⟨את⟩ karangalan ni Yaakov, gaya ng karangalan ng Yisrael; sapagkat pinuno sila ng mga pumupuno, at winasak ang kanilang mga puno ng ubas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karangalan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "gaya ng karangalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "pinuno sila"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ng mga pumupuno"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "at ang kanilang mga puno ng ubas"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "winasak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:05:26.764982149Z",
+  "model": "glm-5.3"
+}

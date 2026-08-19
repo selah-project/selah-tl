@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Doon naglalayag ang mga barko; si Livyatan, ito ay binuo mo upang maglaro doon.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Doon"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "mga barko"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "naglalayag"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "si Livyatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "binuo mo"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "upang maglaro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:18.694065010Z",
+  "model": "glm-5.3"
+}

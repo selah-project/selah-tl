@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ipinanganak ni Yoktan ang ⟨את⟩ Almodad, at ang ⟨את⟩ Shelef, at ang ⟨את⟩ Chatsermavet, at ang ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "At si Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ipinanganak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Chatsermavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsermavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:48.086861301Z",
+  "model": "glm-5.3"
+}

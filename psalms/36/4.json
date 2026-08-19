@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Ang mga salita ng kanyang bibig ay kabulaanan at dayà; huminto na siya sa pagiging marunong, sa paggawa ng mabuti.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ang mga salita"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ng kanyang bibig"
+    },
+    {
+      "surface": "און",
+      "gloss": "kabulaanan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "at dayà"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "huminto na siya"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "sa pagiging marunong"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "sa paggawa ng mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:53.051281192Z",
+  "model": "glm-5.3"
+}

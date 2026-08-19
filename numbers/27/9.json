@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung walang babae siya, ibibigay ninyo ang ⟨את⟩ kanyang mana sa kanyang mga kapatid.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "At kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babae"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ibibigay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mana"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kanyang mana"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa kanyang mga kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:28.404531301Z",
+  "model": "glm-5.3"
+}

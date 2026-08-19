@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "sapagkat marinilang nila ang ⟨את⟩ iyong dakilang pangalan at ang ⟨את⟩ iyong malakas na kamay at ang iyong unat na braso, at dumating at manalangin sa bahay na ito,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "marinilang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong dakilang pangalan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iyong pangalan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "iyong malakas na kamay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "malakas"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "at iyong braso"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "unat na"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "at manalangin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:45.876097977Z",
+  "model": "glm-5.3"
+}

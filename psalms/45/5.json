@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At ang iyong karangalan — sumulong, sumakay dahil sa salita ng katotohanan at ng kababaang-loob na matuwid; at ituturo sa iyo ng iyong kanang kamay ang mga bagay na nakasisindak.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "at ang iyong karangalan"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "sumulong"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "sumakay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "at kababaang-loob"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "at ituturo sa iyo ng"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mga bagay na nakasisindak"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:56.172279360Z",
+  "model": "glm-5.3"
+}

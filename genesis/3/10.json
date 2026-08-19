@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi niya: Ang ⟨את⟩ tinig mo ay narinig ko sa halamanan, at natakot ako, sapagkat hubad ako, at nagtago ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig mo"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "tinig mo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "narinig ko"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa halamanan"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "at natakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "hubad"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "at nagtago"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:10.007511948Z",
+  "model": "glm-5.3"
+}

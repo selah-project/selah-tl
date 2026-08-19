@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At matamis ang liwanag, at mabuti sa mga mata ang makakita ng ⟨את⟩ araw.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "at matamis"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang liwanag"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "at mabuti"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ang makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:34.567673207Z",
+  "model": "glm-5.3"
+}

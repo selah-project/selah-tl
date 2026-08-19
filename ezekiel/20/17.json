@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ngunit naawa ang aking mata sa kanila sa paglipol, at hindi ko ginawa ⟨את⟩ pagtatapos sa kanila sa ilang.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "ngunit naawa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mata"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "sa paglipol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "pagtatapos"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pagtatapos"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:44:33.573924466Z",
+  "model": "glm-5.3"
+}

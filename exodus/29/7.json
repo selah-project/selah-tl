@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kukunin mo ang ⟨את⟩ langis ng pagpapahid, at ibubuhos mo sa ibabaw ng kaniyang ulo, at papahidian mo ⟨אתו⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "at kukunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langis ng pagpapahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "at ibubuhos mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kaniyang ulo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "at papahidian mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:59.183088234Z",
+  "model": "glm-5.3"
+}

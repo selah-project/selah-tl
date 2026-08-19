@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "At ibinigay ang kanilang lupa bilang pamana, sapagkat hanggang magpakailanman ang kanyang kahabagan.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang kanilang lupa"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "bilang pamana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kahabagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.245741387Z",
+  "model": "glm-5.3"
+}

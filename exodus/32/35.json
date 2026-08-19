@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At sinaktan ni Yahweh ang ⟨את⟩ bayan dahil sa ginawa nila sa ⟨את⟩ guyang-baka na ginawa ni Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "At sinaktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guyang-baka"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ang guyang-baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:55.263519104Z",
+  "model": "glm-5.3"
+}

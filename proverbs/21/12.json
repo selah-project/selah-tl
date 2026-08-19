@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang matuwid ay nagpapatingin nang maingat sa bahay ng masama — sinusupil ang masasama tungo sa kapahamakan.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ay nagpapatingin nang maingat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Ang matuwid"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "sinusupil"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang masasama"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "tungo sa kapahamakan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:56.569193977Z",
+  "model": "glm-5.3"
+}

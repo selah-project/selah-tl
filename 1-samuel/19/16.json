@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Pumasok ang mga sugo, at narito, ang mga terafim ⟨ay⟩ sa higaan, at ang banig ng buhok ng mga kambing sa ulunan nito.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga sugo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ang mga terafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "at ang banig"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ng mga kambing"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "sa ulunan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:55.166305445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Pagkatapos nito, binuksan ni Iyov ang ⟨את⟩ kanyang bibig at sumpain ang ⟨את⟩ kanyang araw.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "binuksan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang bibig"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kanyang bibig"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "at sumpain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang araw"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "kanyang araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:32.364902286Z",
+  "model": "glm-5.3"
+}

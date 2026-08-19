@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At itinaas nila ang ⟨את⟩ butil nila sa mga asno nila, at yumaon mula doon.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "at itinaas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butil nila"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "butil nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "mga asno nila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:25.216065377Z",
+  "model": "glm-5.3"
+}

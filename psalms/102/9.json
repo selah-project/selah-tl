@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Buong araw hinamak ako ng aking mga kaaway; ang mga nabaliw laban sa akin ay sumumpa laban sa akin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hinamak ako"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "mga nabaliw laban sa akin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "sumumpa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:29.555148666Z",
+  "model": "glm-5.3"
+}

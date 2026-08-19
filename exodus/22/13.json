@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At kung humiram ang isang tao mula sa kapwa niya, at ito ay nasira o namatay, habang ang may-ari nito ay wala ⟨na⟩ kasama niya, tiyak na babayaran niya ang kapalit nito.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "humiram"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kapwa niya"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "at nasira"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "may-ari nito"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tiyak na babayaran"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ang kapalit nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:33.072814187Z",
+  "model": "glm-5.3"
+}

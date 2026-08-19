@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang ⟨את⟩ lahat ng mga hari na ito at ang ⟨את⟩ kanilang lupain, dinakip ni Yehoshua nang minsang-daan, sapagkat si Yahweh, ang Elohim ng Israel, nakipaglaban para sa Israel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga hari na ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang lupain"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kanilang lupain"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "dinakip"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "nang mga ulit"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakipaglaban"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:46.613310574Z",
+  "model": "glm-5.3"
+}

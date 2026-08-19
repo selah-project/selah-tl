@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sa ikatlong karwahe ay mga kabayong maputi, at sa ikaapat na karwahe ay mga kabayong batik-batik na mapuwersa.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "at sa ikatlong karwahe ay"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ikatlong"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "maputi"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "at sa ikaapat na karwahe ay"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "ikaapat na"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "batik-batik"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "mapuwersa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:08.451664714Z",
+  "model": "glm-5.3"
+}

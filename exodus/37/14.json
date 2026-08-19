@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Sa gilid ng ⟨ang⟩ mismuhang hangganan naroon ang ⟨את⟩ mga singsing, mga ulunan para sa mga patpat sa pagbubuhat ng ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ang hangganan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naroon"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga ulunan"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "para sa mga patpat"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagbubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ng mesa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:49.135358179Z",
+  "model": "glm-5.3"
+}

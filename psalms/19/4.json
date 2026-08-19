@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Walang salita at walang mga pananalita — ⟨hindi⟩ napapakinggan ang kanilang tinig.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pananalita"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨hindi⟩"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "napapakinggan"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ang kanilang tinig"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:41.966907667Z",
+  "model": "glm-5.3"
+}

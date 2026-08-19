@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At pinaluhod niya ang ⟨את⟩ buong bayan, ang bawat lalaki ay may sandata sa kanyang kamay, mula sa balikat ng bahay sa kanan hanggang sa balikat ng bahay sa kaliwa, sa dambana at sa bahay, sa paligid ng hari.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at pinaluhod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at bawat lalaki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ang kanyang sandata"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "mula sa balikat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sa kanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "balikat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "sa kaliwa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "at sa bahay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa paligid ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T19:33:33.829482196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang ⟨את⟩ mga kandelero at ang mga ilawan nila para pagningasin ayon sa batas sa harapan ng debir — ginto na pinurô.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kandelero"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "mga kandelero"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "at ang mga ilawan nila"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "para pagningasin"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa batas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "na pinurô"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:33.301769459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At bukod pa sa mga ito, anak ko, mag-ingat ka: ang paggawa ng maraming mga aklat ay walang katapusan, at ang pag-aaral nang labis ay pagkapagod ng laman.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "at bukod pa"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "mag-ingat ka"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ang paggawa"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mga aklat"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "marami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "at ang pag-aaral nang labis"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "labis"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "pagkapagod"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ng laman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:40.371831738Z",
+  "model": "glm-5.3"
+}

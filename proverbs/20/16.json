@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Kunin mo ang ⟨את⟩ kanyang balat, sapagkat siya ang nagpatotoo para sa dayuhan; at para sa mga dayuhan, kunin mo ang ⟨את⟩ kanyang prenda.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang balat"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kanyang balat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nagpatotoo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "para sa dayuhan"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "at para sa"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "kunin mo ang kanyang prenda"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:06.739175704Z",
+  "model": "glm-5.3"
+}

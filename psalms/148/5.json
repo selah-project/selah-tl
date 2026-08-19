@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "Ipagsanggalang nila ang ⟨את⟩ pangalan ni Yahweh, sapagkat siya ang nagutos at sila'y nilikha.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ipagsanggalang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagutos"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "at sila'y nilikha"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:24.582236946Z",
+  "model": "glm-5.3"
+}

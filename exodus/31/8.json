@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at ang ⟨את⟩ hapag at ang ⟨את⟩ mga kagamitan nito, at ang ⟨את⟩ daluyong-ng-liwanag na dalisay at ang ⟨את⟩ lahat ng mga kagamitan nito, at ang ⟨את⟩ dambana ng insenso",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "hapag"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "hapag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kagamitan nito"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "daluyong-ng-liwanag na dalisay"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "daluyong-ng-liwanag"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "dambana ng insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ng insenso"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:54.779563670Z",
+  "model": "glm-5.3"
+}

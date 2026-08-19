@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sapagkat maraming araw na uupo ang mga anak ni Yisrael nang walang hari, at walang pinuno, at walang haing-sakripisyo, at walang haliging-tanda, at walang ephod, at terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "na marami"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "uupo\/matitira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "haing-sakripisyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "haliging-tanda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "at terafim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:56.726903077Z",
+  "model": "glm-5.3"
+}

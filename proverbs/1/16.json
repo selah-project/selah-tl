@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat ang kanilang mga paa ay tumatakbo sa kasamaan, at nagmamadali silang magbuhos ng dugo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ang kanilang mga paa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "tumatakbo"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "at nagmamadali sila"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "magbuhos"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ng dugo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.886141945Z",
+  "model": "glm-5.3"
+}

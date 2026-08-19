@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At dinala siya at ipinakilala sa ina niya, at umupo siya sa mga tuhod niya hanggang tanghali, at namatay.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "dinala siya"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "at ipinakilala siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ina niya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at umupo siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "mga tuhod niya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tanghali"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:00.285032461Z",
+  "model": "glm-5.3"
+}

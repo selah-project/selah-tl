@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Kinukutya ng mga hangal ang ⟨את⟩ parusang-kasalanan; ngunit sa gitna ng mga matuwid ay kaluguran.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "mga hangal"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "kinukutya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "parusang-kasalanan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ngunit sa gitna ng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kaluguran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:37.921149307Z",
+  "model": "glm-5.3"
+}

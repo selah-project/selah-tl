@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking hihiga sa ⟨את⟩ kanyang manugang na babae — kamatayan ang parusa sa kanilang dalawa: kaguluhan ang ginawa nila; ang kanilang dugo ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang manugang na babae"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "kanyang manugang na babae"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "patayin sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kanilang dalawa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "kanilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:06.487026217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Sumagot si Yahweh kay ⟨את⟩ Iyov mula sa ipo-ipo, at nagsabi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ipo-ipo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:55:18.090947352Z",
+  "model": "glm-5.3"
+}

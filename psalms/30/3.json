@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim ko, sumigaw ako sa iyo, at pinagaling mo ako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "sumigaw ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "at pinagaling mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:57.619667188Z",
+  "model": "glm-5.3"
+}

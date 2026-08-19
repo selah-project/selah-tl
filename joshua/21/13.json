@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sa mga anak ni Aharon na saserdote ay ibinigay nila ang ⟨את⟩ lungsod ng kanlungan ng mamamatay-tao, ang ⟨את⟩ Chebron at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Livna at ang ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "at sa mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "na saserdote"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod ng kanlungan ng mamamatay-tao"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ng kanlungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ng mamamatay-tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:14.288141902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Narito ang araw, narito dumarating; sumailalim na ang umaga; namukadkad na ang tungkod, sumibol ang kapalmarusugan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "באה",
+      "gloss": "darating"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "sumailalim na"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "ang umaga"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "namukadkad na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ang tungkod"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "sumibol"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "ang kapalmarusugan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:47.187349014Z",
+  "model": "glm-5.3"
+}

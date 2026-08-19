@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Ang tao ay katulad ng hanging-walang-laman; ang kanyang mga araw ay parang aninipas na lumilipas.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ang tao"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ng hanging-walang-laman"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ay katulad"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang kanyang mga araw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "parang aninipas"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "na lumilipas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:24.682729210Z",
+  "model": "glm-5.3"
+}

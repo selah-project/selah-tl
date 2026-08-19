@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Siya ang magtatayo para sa akin ng bahay, at aking patatatagin ang ⟨את⟩ kanyang trono hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ang magtatayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "at aking patatatagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kanyang trono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:34.882897472Z",
+  "model": "glm-5.3"
+}

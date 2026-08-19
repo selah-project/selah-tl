@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At muling nagtipon si David ng ⟨את⟩ lahat ng mga piling mandirigma sa Yisrael, tatlumpung libo.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "at muling"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga piling mandirigma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "piling mandirigma"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:16.599899737Z",
+  "model": "glm-5.3"
+}

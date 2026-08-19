@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Pupurihin ko ang pangalan ng Elohim sa awit, at lulubusin ko Siya sa pasasalamat.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "pupurihin ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "sa awit"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "lulubusin ko Siya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "sa pasasalamat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:51.213184409Z",
+  "model": "glm-5.3"
+}

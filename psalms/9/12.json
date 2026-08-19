@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Magsi-awit kayo kay Yahweh na nananahanan sa Tsiyon, ipahayag sa mga bansa ang kanyang mga gawa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Magsi-awit kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "na nananahanan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ipahayag"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang kanyang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:30.751335464Z",
+  "model": "glm-5.3"
+}

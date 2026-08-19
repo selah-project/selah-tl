@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang mga nakakampo sa kanyang tabi ay ang tribo ng Yissaskhar, at ang pinuno ng mga anak ni Yissaskhar ay Netanel na anak ni Tzuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "at ang mga nakakampo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanyang tabi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "at ang pinuno"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:30.099664069Z",
+  "model": "glm-5.3"
+}

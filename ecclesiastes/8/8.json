@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Walang taong punò sa ⟨את⟩ hangin upang ikandado ang ⟨את⟩ hangin; at walang kapamahalaan sa araw ng kamatayan; at walang kaligtasan sa digmaan; at hindi ililigtas ng kasamaan ang ⟨את⟩ mga nag-aari nito.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "taong"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "punò"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "hangin upang ikandado ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangin"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "⟨hangin⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kapamahalaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ililigtas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga nag-aari nito"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ang ⟨mga nag-aari nito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:02.783659448Z",
+  "model": "glm-5.3"
+}

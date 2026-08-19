@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang hamak ay kasuklam-suklam sa kanyang mga mata, ngunit ⟨את⟩ mga natatakot kay Yahweh ay kanyang iginagalang; nanunumpa siya sa ikasasama at hindi nagbabago.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ang hamak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang mga mata"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga natatakot kay Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mga natatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "iginagalang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nanunumpa"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "sa ikasasama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "nagbabago"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:44.772048126Z",
+  "model": "glm-5.3"
+}

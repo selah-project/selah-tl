@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Magsisialihi tayo sa iyong kaligtasan, at sa pangalan ng Elohim natin tataas na bandila; papunuin ni Yahweh ang lahat ng iyong mga kahilingan.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "magsisialihi tayo"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa iyong kaligtasan"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "at sa pangalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ng Elohim natin"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "tataas na bandila"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "papunuin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "iyong mga kahilingan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:11.295550586Z",
+  "model": "glm-5.3"
+}

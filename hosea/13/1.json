@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Nang magsalita si Efrayim, nanginginig ⟨siya⟩; siya ay itinaas sa Yisrael, ngunit nagkasala siya sa Baal at namatay.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "nang magsalita"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "nanginginig"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "itinaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "at nagkasala"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "sa Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:31.219663139Z",
+  "model": "glm-5.3"
+}

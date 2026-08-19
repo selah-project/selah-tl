@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At napunit ang ⟨ang⟩ dambana, at nabuhos ang abo mula sa dambana, ayon sa tandang ibinigay ng lalaking ng Elohim sa pamamagitan ng salita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "At ang dambana"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "napunit"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "at nabuhos"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "ayon sa tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaking"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa pamamagitan ng salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:32.650640540Z",
+  "model": "glm-5.3"
+}

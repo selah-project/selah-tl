@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Lahat ng gawa ay ginawa ni Yahweh para sa Kanyang sariling layunin, at pati ang masama ay ⟨para⟩ sa araw ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Lahat"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "para sa Kanyang sariling layunin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama (na tao)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨para⟩ sa araw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:46.545415411Z",
+  "model": "glm-5.3"
+}

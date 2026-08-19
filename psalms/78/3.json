@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "na aming narinig at nalaman, at ipinakilala sa amin ng aming mga ama.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "aming narinig"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "at nalaman"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "at ng aming mga ama"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ipinakilala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:11.633705886Z",
+  "model": "glm-5.3"
+}

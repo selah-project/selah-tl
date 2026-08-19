@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi ni Moshe: Tumpak ang iyong sinabi; hindi ako magdaragdag pa ⟨na⟩ makita ang iyong mukha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tumpak"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ang iyong sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "magdaragdag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "makita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:12.451834844Z",
+  "model": "glm-5.3"
+}

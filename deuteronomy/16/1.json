@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Bantayan mo ang ⟨את⟩ buwan ng Abib, at maghanda ka ng Pesach para kay Yahweh na iyong Elohim, sapagkat sa buwan ng Abib inilabas ka ni Yahweh na iyong Elohim mula sa Mitsrayim, sa gabi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "bantayan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buwan ng Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "buwan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ng Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at maghanda ka"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ng Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "inilabas ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:53.768514404Z",
+  "model": "glm-5.3"
+}

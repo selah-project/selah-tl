@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 11:7",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Kaya't ganito ang sinabi ni Adonai Yahweh: Ang inyong mga pinatay na inyong inilagay sa gitna nito — sila ⟨ay⟩ ang laman, at ito ⟨ay⟩ ang kaldero; at kayo ⟨את⟩ ay ilalabas ko sa gitna nito.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kaya't"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "Ang inyong mga pinatay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "inyong inilagay"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa gitna nito"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ang kaldero"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (inilalabas)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ilalabas"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "sa gitna nito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:41:06.774292504Z",
+  "model": "glm-5.3"
+}

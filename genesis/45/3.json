@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At sinabi ni Yosef sa mga kapatid niya: Ako si Yosef — nabubuhay pa ba ang aking ama? At hindi nakayanan ng mga kapatid niya na sumagot ⟨את⟩ sa kaniya, sapagkat nanginig sila sa harap ng kaniyang presence.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga kapatid niya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "pa ba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang aking ama"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabubuhay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nakayanan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng mga kapatid niya"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "na sumagot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nanginig sila"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa harap ng kaniyang presence"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:50.152368159Z",
+  "model": "glm-5.3"
+}

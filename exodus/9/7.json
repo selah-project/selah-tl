@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nagpadala si Paroh, at narito, hindi namatay kahit isa sa mga hayop ni Yisrael; at naging mabigat ang loob ni Paroh, at hindi niya pinalaya ang ⟨את⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At nagpadala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paroh"
+    },
+    {
+      "surface": "ו הנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "sa mga hayop"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "at naging mabigat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang loob"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "niya pinalaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:21.930337081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sa paghahatol sa kaniya, lumabas siyang masama, at ang dalangin niya ay maging sa pagkakasala.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "sa paghahatol sa kaniya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumabas siya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "na masama"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "at ang dalangin niya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "sa pagkakasala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:50.806956761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At tinuli ni Avraham si ⟨את⟩ Yitshak na kaniyang anak, anak na walong araw ang gulang, kung paanong iniutos ⟨אתו⟩ ng Elohim sa kaniya.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "at tinuli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na kaniyang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "na walong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:57.280908145Z",
+  "model": "glm-5.3"
+}

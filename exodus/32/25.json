@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nakita ni Moshe ang ⟨את⟩ bayan, na kundi tumataboy ito sapagkat pinataboy ni Aharon upang maging kahihiyan sa mga nakatayo laban sa kanila,",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na kundi"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "tumataboy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "pinataboy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "upang maging kahihiyan"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "sa mga nakatayo laban sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:51.933683521Z",
+  "model": "glm-5.3"
+}

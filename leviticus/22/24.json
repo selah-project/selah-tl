@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ang pisa, o durog, o punit, o hiwa — ay huwag ninyong ilalapit kay Yahweh, at sa inyong lupain ay huwag ninyong gagawin ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "at ang pisa"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "o durog"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "o punit"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "o hiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ninyong ilalapit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "at sa inyong lupain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyong gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:25.859832271Z",
+  "model": "glm-5.3"
+}

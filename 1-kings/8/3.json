@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At dumating ang lahat ng mga matanda ng Yisra'el, at inangat ng mga pari ang ⟨את⟩ arko.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at inangat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang arko"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:18.545492598Z",
+  "model": "glm-5.3"
+}

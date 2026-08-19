@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ano ang sa inyo — dinudurog ninyo ang ⟨את⟩ bayan Ko, at ang mga mukha ng mga dukha ay dinikdik ninyo? — oracle ni Adonai Yahweh ng mga hukbo.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "ano ang sa inyo"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "dinudurog ninyo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang bayan Ko"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at ang mga mukha"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ng mga dukha"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "dinikdik ninyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:35.477554124Z",
+  "model": "glm-5.3"
+}

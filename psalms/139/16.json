@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Nakita ng iyong mga mata ang aking hubad na anyo, at sa iyong aklat lahat ng mga ito'y nasusulat — ang mga araw na itinakda, nang hindi pa isa man sa kanila ay mayroon.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "aking hubad na anyo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ang iyong mga mata"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "iyong aklat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "lahat ng mga ito"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "nasusulat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga araw"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "itinakda \/ hinulma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi pa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa man"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:25.975997455Z",
+  "model": "glm-5.3"
+}

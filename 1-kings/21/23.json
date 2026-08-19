@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At tungkol dinan kay Izevel nagsalita si Yahweh, na nagsasabi: Kakain ng mga aso si ⟨את⟩ Izevel sa bakod ng Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "At pati"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "tungkol kay Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mga aso"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "sa bakod"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:08.988569012Z",
+  "model": "glm-5.3"
+}

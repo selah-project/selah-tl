@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Pamana kay Yisrael, ang kanyang alipin, sapagkat hanggang magpakailanman ang kanyang kahabagan.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "pamana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ang kanyang alipin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kahabagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.245945606Z",
+  "model": "glm-5.3"
+}

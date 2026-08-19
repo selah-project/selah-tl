@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Ang iyong kawan ay nanirahan doon; inihanda mo sa iyong kabutihan para sa mahirap, O Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ang iyong kawan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ay nanirahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "inihanda mo"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "sa iyong kabutihan"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "para sa mahirap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:03.275000189Z",
+  "model": "glm-5.3"
+}

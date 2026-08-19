@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Paras, Kush at Put ⟨את⟩ kanila; silang lahat ay may kalasag at helmet.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "at Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sila lahat"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "at helmet"
+    }
+  ],
+  "timestamp": "2026-08-19T17:52:08.344191759Z",
+  "model": "glm-5.3"
+}

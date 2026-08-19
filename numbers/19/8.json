@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ang nagsunog ⟨את⟩ nito ay maghuhugas ng kanyang mga damit sa tubig, at liligo ang kanyang laman sa tubig, at magiging marumi hanggang pagkahapon.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "at ang nagsunog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang baka)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "maghuhugas"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ng kanyang mga damit"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "at liligo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang kanyang laman"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "at magiging marumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pagkahapon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:12.475930598Z",
+  "model": "glm-5.3"
+}

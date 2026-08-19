@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Upang iparinig ang tinig ng pasasalamat, at ikwento ang lahat ng iyong mga kagila-gilalas na gawa.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "upang iparinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tinig ng"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pasasalamat"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "at ikwento"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iyong mga kagila-gilalas na gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.914942066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sa iyong pangalan magagalak sila sa buong araw, at sa iyong katuwiran ⟨ sila ⟩ matataas.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "magagalak sila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "at sa iyong katuwiran"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "matataas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:48.567003462Z",
+  "model": "glm-5.3"
+}

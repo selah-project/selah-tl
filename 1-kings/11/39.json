@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At pahihirapan ko ang ⟨את⟩ binhi ni David dahil dito, ngunit hindi sa lahat ng mga araw.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "At pahihirapan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang binhi ni David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:49.309877842Z",
+  "model": "glm-5.3"
+}

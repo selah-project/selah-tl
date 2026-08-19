@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "At sinabi niya sa akin: Aking alipin ikaw, Yisrael, na sa iyo ako magmamalaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi niya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking alipin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ako magmamalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T17:09:04.235336858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At si Uzzi ay nagkaanak ⟨את⟩ Zerachyah, at si Zerachyah ay nagkaanak ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "At si Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "at si Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:28.460926240Z",
+  "model": "glm-5.3"
+}

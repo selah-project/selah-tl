@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang hangal ay niyayakap ⟨את⟩ kanyang mga kamay, at kinakain ⟨את⟩ kanyang laman.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ang hangal"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "niyayakap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga kamay"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kanyang mga kamay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at kinakain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang laman"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kanyang laman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:49.247273572Z",
+  "model": "glm-5.3"
+}

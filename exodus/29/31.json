@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At ⟨את⟩ ang tupang itinalaga ay kukunin mo, at lulutuin mo ang ⟨את⟩ laman nito sa banal na dako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ⟨את⟩",
+      "marks": "ang tupang itinalaga"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ang tupang itinalaga"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ng pagtatalaga"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kukunin mo"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "at lulutuin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman nito"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang laman nito"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "sa dako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:16.801393537Z",
+  "model": "glm-5.3"
+}

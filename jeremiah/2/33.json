@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 2:33",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Bakit mo ginagawang kaaya-aya ang iyong lakad sa paghahanap ng pag-ibig? kaya nga't kahit ⟨את⟩ mga kasamaan ay itinuro mo ang ⟨את⟩ iyong mga lakad.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תיטבי",
+      "gloss": "ginagawang kaaya-aya"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang iyong lakad"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa paghahanap"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "pag-ibig"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "kaya nga't"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasamaan"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "mga kasamaan"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "itinuro mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga lakad"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iyong mga lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T17:14:58.206598367Z",
+  "model": "glm-5.3"
+}

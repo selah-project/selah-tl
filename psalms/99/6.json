@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 99,
+  "translation": "Si Moshe at si Aharon ay nasa kaniyang mga koheno, at si Shmuel sa mga tumatawag sa kaniyang pangalan; sila'y tumatawag kay Yahweh, at siya'y sumasagot sa kanila.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "sa kaniyang mga koheno"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "at si Shmuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa mga tumatawag"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa kaniyang pangalan"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "sila'y tumatawag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "sumasagot sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:47.946992679Z",
+  "model": "glm-5.3"
+}

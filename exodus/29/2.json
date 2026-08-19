@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At tinapay na tinapay na walang lebadura, at mga munting keyk na walang lebadura na hinaluan ng langis, at mga manipis na wafer na walang lebadura na pinahiran ng langis — sa pinong arina ng trigo iyong gagawin ang mga ito ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "At tinapay"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "na walang lebadura"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "at mga keyk"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "na walang lebadura"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "na hinaluan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "at mga wafer"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "na walang lebadura"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "na pinahiran"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "arina"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ng trigo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "iyong gagawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ito (ang mga tinapay)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:28.856253986Z",
+  "model": "glm-5.3"
+}

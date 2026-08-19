@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Shemuel: Tipunin ninyo ang ⟨את⟩ buong Yisrael sa Mitzpa, at manalangin ako para sa inyo kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "tipunin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "sa Mitzpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "at manalangin ako"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:25.860357047Z",
+  "model": "glm-5.3"
+}

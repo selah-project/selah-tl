@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sisigaw sila, ngunit walang ⟨may⟩ tumutulong; kay Yahweh ⟨silas dumulong⟩, ngunit hindi Siya sumagot sa kanila.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "sisigaw sila"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "⟨may⟩ tumutulong"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "sumagot sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:30.143400975Z",
+  "model": "glm-5.3"
+}

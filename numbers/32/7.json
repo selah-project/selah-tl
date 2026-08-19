@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At bakit ninyo pinangangaliman ang ⟨את⟩ puso ng mga anak ng Israel na hindi lumusong papunta sa lupaing ibinigay sa kanila ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "ninyo pinangangaliman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ng mga anak ng Israel"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "na hindi lumusong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:06.406691358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nagluho si David ng ⟨את⟩ pagluluho ⟨na⟩ ito kay Shaul at kay Yehonatan na anak niya.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "At nagluho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagluluho"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "⟨ang⟩ pagluluho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at kay"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:05.691747520Z",
+  "model": "glm-5.3"
+}

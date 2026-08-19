@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "at ang kaniyang hukbo, at ang mga bilang sa kanila ⟨ay⟩ siyam na libo't limampung libo at tatlong daan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "at ang kaniyang hukbo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "at ang mga bilang sa kanila"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:30.071106500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang saksi ng mga kasinungalingan ay hindi maliligtas sa parusa, at ang humihihip ng mga kabulaanan ay mangawawala.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ng mga kasinungalingan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "maliligtas sa parusa"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "at humihihip"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ng mga kabulaanan"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "mangawawala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:43.673197355Z",
+  "model": "glm-5.3"
+}

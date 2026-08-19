@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Magsasalakay ba ang dalawa nang magkasama, kung hindi sila nagkatipon sa isa't isa?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "magsasalakay ba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ang dalawa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkasama"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nagkatipon sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:22.136817766Z",
+  "model": "glm-5.3"
+}

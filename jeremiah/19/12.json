@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ganyan ang gagawin ko sa lugar na ito, kangyang sinabi ni Yahweh, at sa mga nakatiriwan nito, upang gawin ang ⟨את⟩ lungsod na ito na katulad ng Tofet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ganyan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gagawin ko"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kangyang sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "at sa mga nakatiriwan nito"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod na ito"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "katulad ng Tofet"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:20.514249126Z",
+  "model": "glm-5.3"
+}

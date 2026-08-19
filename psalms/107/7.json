@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "At pinatnubayan niya silá sa tuwid na daan, upang lumakad patungo sa isang lungsod na tahanan.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "at pinatnubayan niya silá"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "upang lumakad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:08.992798191Z",
+  "model": "glm-5.3"
+}

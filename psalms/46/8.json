@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Si Yahweh ng mga hukbo ay napapatin natin; kuta natin ang Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ay napapatin natin"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "natin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:07.538811881Z",
+  "model": "glm-5.3"
+}

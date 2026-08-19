@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang Awit ng mga awit, na kay Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ng mga awit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:13.185686984Z",
+  "model": "glm-5.3"
+}

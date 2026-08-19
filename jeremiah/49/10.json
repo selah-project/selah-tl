@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Sapagkat ako, hinubaran ko ang ⟨את⟩ Esav, ibinunyag ko ang ⟨את⟩ kanyang mga taguan; at makapagtago siya'y hindi na niya makakaya — naranasan ng kanyang binhi, ng kanyang mga kapatid at ng kanyang mga kapitbahay, at wala na siya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "hinubaran ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ibinunyag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga taguan"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "kanyang mga taguan"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "at makapagtago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makakaya niya"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "naranasan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ang kanyang binhi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "at kanyang mga kapatid"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "at kanyang mga kapitbahay"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "at wala na siya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:35:15.932514464Z",
+  "model": "glm-5.3"
+}

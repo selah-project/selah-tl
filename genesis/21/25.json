@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinisi ni Avraham si ⟨את⟩ Avimelech dahil sa balon ng tubig na ninakaw ng mga alipin ni Avimelech.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "at sinisi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelech"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "ukol sa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "balon"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ninakaw"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin ni"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:30.742951977Z",
+  "model": "glm-5.3"
+}

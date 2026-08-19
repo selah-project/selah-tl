@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ni Yahweh kay Moshe: hindi makikinig sa inyo si Paroh, upang dumami ang aking mga tanda sa lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "makikinig"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "dumami"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ang aking mga tanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:33.452908766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At mga taong banal ⟨kayo⟩ para sa akin; ang laman na nadagit sa bukid ay hindi ninyo kakainin — sa aso ibubunton ninyo ⟨את⟩ ito.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "At mga taong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "kayo'y magiging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "at ang laman"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "na nadagit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kakainin"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "ibubunton ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang laman na nadagit)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:43.636943621Z",
+  "model": "glm-5.3"
+}

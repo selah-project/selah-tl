@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At dinakip niya ang ⟨את⟩ Agag na hari ng Amalek nang buhay, at ang ⟨את⟩ buong bayan ay kaniyang inialay sa pagkapahamak sa gilid ng tabak.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "at dinakip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ng Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nang buhay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "inalay sa pagkapahamak"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa gilid (bibig)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:26.609160447Z",
+  "model": "glm-5.3"
+}

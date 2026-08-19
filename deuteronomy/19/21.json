@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At hindi makaaawa ang iyong mata: buhay para sa buhay, mata para sa mata, ngipin para sa ngipin, kamay para sa kamay, paa para sa paa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "makaaawa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang iyong mata"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "para sa buhay"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "para sa mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "para sa ngipin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "para sa kamay"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "paa"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "para sa paa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:46.921770108Z",
+  "model": "glm-5.3"
+}

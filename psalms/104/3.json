@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Siya na nagtatahi ng mga balangkas ng kaniyang mga itaas na silid sa ⟨את⟩ mga tubig, na nagtatayo ng ⟨את⟩ mga ulap na kaniyang karo, na lumalakad sa mga pakpak ng hangin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "nagtatahi ng mga balangkas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa ⟨את⟩ mga tubig"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "kaniyang mga itaas na silid"
+    },
+    {
+      "surface": "השם",
+      "gloss": "nagtatayo ng"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "⟨את⟩ mga ulap"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "kaniyang karo"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pakpak ng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:05.721225917Z",
+  "model": "glm-5.3"
+}

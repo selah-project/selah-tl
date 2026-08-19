@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Alam kong gagawin ni Yahweh ang hatol para sa api, ang paghahatol para sa ⟨mga⟩ dukha.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "alam kong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ang hatol"
+    },
+    {
+      "surface": "עני",
+      "gloss": "para sa api"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang paghahatol"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "para sa mga dukha"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:06.808843034Z",
+  "model": "glm-5.3"
+}

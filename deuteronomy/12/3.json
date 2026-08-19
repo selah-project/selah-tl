@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At bubungkalin ninyo ang ⟨את⟩ kanilang mga dambana, at dudurugin ninyo ang ⟨את⟩ kanilang mga haligi, at ang kanilang mga Ashera ay susunugin ninyo sa apoy, at ang mga inanyuan ng kanilang mga elohim ay puputulin ninyo, at papatayin ninyo ang ⟨את⟩ kanilang pangalan mula sa lugar na iyon.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "At bubungkalin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang mga dambana"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "kanilang mga dambana"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "at dudurugin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang mga haligi"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "kanilang mga haligi"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "at ang kanilang mga Ashera"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "susunugin ninyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "at ang mga inanyuan ng"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang mga elohim"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "puputulin ninyo"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "at papatayin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang pangalan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "kanilang pangalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:51.789898146Z",
+  "model": "glm-5.3"
+}

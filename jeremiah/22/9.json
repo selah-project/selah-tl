@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sasabihin nila: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, ng Elohim nila, at yumukod sila sa mga elohim na iba at naglingkod sa mga ito.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "at sasabihin nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "iniwan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tipan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ng Elohim nila"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "at yumukod sila"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "at naglingkod sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:42.416078933Z",
+  "model": "glm-5.3"
+}

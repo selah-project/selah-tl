@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "at nagsabi: Kapag nanganganak kayo sa ⟨את⟩ mga babaeng Ebreo at nakikita ninyo sa mga upuan ng pagsilang, kung lalaki siya, ay papatayin ninyo siya ⟨את⟩; ngunit kung babae siya, ay mabubuhay siya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "kapag nanganganak kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga babaeng Ebreo"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "mga babaeng Ebreo"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "at nakikita ninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga upuan ng pagsilang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "ay papatayin ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "siya ⟨את⟩",
+      "marks": "siya (ang lalaki)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "בת",
+      "gloss": "babae"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ay mabubuhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:18.121315843Z",
+  "model": "glm-5.3"
+}

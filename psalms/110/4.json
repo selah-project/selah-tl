@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Sumumpa si Yahweh at hindi na magbabago ng isip: \"Ikaw ay paring magpakailanman ayon sa ayos ni Malki-Tsedek.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "magbabago ng isip"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "paring"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ayos"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ni Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:29.005157123Z",
+  "model": "glm-5.3"
+}

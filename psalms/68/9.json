@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Ang lupa ay nayanig, gayundin ang mga langit ay nagtulo sa harap ni Elohim — itong Sinai — sa harap ni Elohim, ng Elohim ng Israel.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ay nayanig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ay nagtulo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itong"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:03.274648873Z",
+  "model": "glm-5.3"
+}

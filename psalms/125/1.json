@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 125,
+  "translation": "Awit ng mga pag-ahon. Ang mga tumatalima kay Yahweh ay parang bundok ng Tsiyon — hindi ito maggagalaw, magpakailanman itong uupong matatag.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pag-ahon"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ang mga tumatalima(nagtiwala)"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "parang bundok ng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "maggagalaw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uupong matatag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:01.419155188Z",
+  "model": "glm-5.3"
+}

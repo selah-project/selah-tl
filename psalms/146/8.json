@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Si Yahweh, nagbubukas ng mga mata ng mga bulag; si Yahweh, nagtatayo ng mga yuko; si Yahweh, umiibig sa mga matuwid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "nagbubukas ng mata ng"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "mga bulag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "nagtatayo ng"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "mga yuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig sa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:20.218666987Z",
+  "model": "glm-5.3"
+}

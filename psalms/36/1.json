@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Sa Pangunguna. Para sa alagad ni Yahweh, kay David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "para sa alagad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:53.050852175Z",
+  "model": "glm-5.3"
+}

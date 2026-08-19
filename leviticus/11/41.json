@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang bawat umuusad na bagay na umuusad sa ⟨ang⟩ lupa, kasuklam-suklam ito; hindi kakainin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang bawat"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "umuusad na bagay"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "umuusad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:50:09.990258426Z",
+  "model": "glm-5.3"
+}

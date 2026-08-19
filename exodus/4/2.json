@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Yahweh sa kaniya: Ano ⟨ang⟩ ito sa iyong kamay? At kaniyang sinabi: ⟨Is⟩ tungkod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ano ito"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:29.015759420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Sa iyo, kalinisan na naghihintay — papuri, o Elohim, sa Tzion; at sa iyo ay babayaran ang ⟨את⟩ nauumpungan na pangako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sa iyo"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "kalinisan na naghihintay"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papuri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tzion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "at sa iyo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nauumpungan na pangako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.985019631Z",
+  "model": "glm-5.3"
+}

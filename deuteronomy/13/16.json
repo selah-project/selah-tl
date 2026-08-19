@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Apatayin mong tiyak ang ⟨את⟩ mga naninirahan sa lungsod na iyon sa gilid ng tabak; ilaan mo itong lubos sa pagkapahamak, at ang ⟨את⟩ lahat ng nasa loob nito at ang ⟨את⟩ mga hayop nito sa gilid ng tabak —",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "tiyak na patayin"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "mo patayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan sa lungsod na iyon"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ilaan mo sa pagkapahamak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "lahat ng nasa loob nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga hayop nito"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "mga hayop nito"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:06.238348114Z",
+  "model": "glm-5.3"
+}

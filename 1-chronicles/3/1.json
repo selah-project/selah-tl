@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang mga ito ay naging mga anak ni David na ipinanganak sa kanya sa Chevron: ang panganay na si Amnon, kay Ahinoham na taga-Yizreel; ang pangalawa si Daniel, kay Abigayil na taga-Karmel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ang mga ito"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Chevron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "kay Ahinoham"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "taga-Yizreel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "si Daniel"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "kay Abigayil"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "taga-Karmel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:42.605837813Z",
+  "model": "glm-5.3"
+}

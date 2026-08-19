@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang iyong paninirahan ay ⟨sa⟩ gitna ng pandaraya; sa pamamagitan ng pandaraya tumanggi silang makilala ⟨את⟩ akin, anila ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "ang iyong paninirahan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pandaraya"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "sa pamamagitan ng pandaraya"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "tumanggi sila"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "makilala"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ akin",
+      "marks": "akin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "anila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:17:53.444992521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sinabi ng Pelishteo, Ako'y nanglalait ⟨את⟩ sa mga hanay ng Israel ngayong araw na ito; bigyan ninyo ako ng isang lalaki at makipaglaban tayo nang magkasama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ng Pelishteo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "nanglalait ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hanay ng Israel"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mga hanay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bigyan ninyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang lalaki"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "at makipaglaban tayo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nang magkasama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:02.139684203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Makikipag-isa ba sa iyo ang trono ng kasamaan, ang humuhulma ng kapinsala sa pamamagitan ng batas?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "makikipag-isa ba sa iyo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "humuhulma"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ng kapinsala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa pamamagitan ng"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:52.835704238Z",
+  "model": "glm-5.3"
+}

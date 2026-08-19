@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa rin ng mga salamangkero ang gayon sa pamamagitan ng kanilang panggagaway, at pinaakyat ang ⟨את⟩ mga palaka sa ibabaw ng lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ng mga salamangkero"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "sa pamamagitan ng kanilang panggagaway"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at pinaakyat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga palaka"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "mga palaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:15.033327944Z",
+  "model": "glm-5.3"
+}

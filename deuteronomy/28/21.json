@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Didikit nang tuloy-tuloy si Yahweh sa iyo ng ⟨את⟩ salot, hanggang sa lipunin ka niya ⟨את⟩ mula sa ⟨the⟩ lupa na doon kinapaparoroonan mo upang ariin ito.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "didikit nang tuloy-tuloy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "salot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "lipunin ka niya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka",
+      "marks": "ikaw (object)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kinapaparoroonan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "upang ariin ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:25.952634556Z",
+  "model": "glm-5.3"
+}

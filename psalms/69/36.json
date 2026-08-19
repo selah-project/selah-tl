@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Sapagkat ililigtas ng Elohim ang Tsiyon, at itatayo ang mga lungsod ng Yehuda, at tatahan doon at mamanahin nila ito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ililigtas"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "at itatayo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at tatahan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "at mamanahin nila ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:39.111447841Z",
+  "model": "glm-5.3"
+}

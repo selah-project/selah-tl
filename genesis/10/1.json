@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ito ang mga lahi ng mga anak ni Noach: Shem, Cham, at Yafet; at ipinanganak sa kanila ang mga anak pagkatapos ng baha.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga lahi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "at Yafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "⟨ang⟩ baha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:40.400326807Z",
+  "model": "glm-5.3"
+}

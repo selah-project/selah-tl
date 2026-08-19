@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At sinabi ni Yosef kay Paroh: Ang pangarap ni Paroh ay iisa; ang ⟨את⟩ ginagawa ng Elohim ay ipinahayag na kay Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ang pangarap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ay iisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginagawa ng Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginagawa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ay ipinahayag na"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kay Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:20.237941853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At ⟨את⟩ ⟨ang⟩ lupaing ibinigay ko kay Avraham at kay Yitshak — sa iyo ibibigay ko ⟨ito⟩, at sa iyong binhi pagkatapos mo ibibigay ko ⟨את⟩ ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang lupa (הארץ)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "at kay Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ibibigay ko ito"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "at sa iyong binhi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupa (הארץ)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:53.729754197Z",
+  "model": "glm-5.3"
+}

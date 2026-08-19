@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Gayunman, ang mga mataas na dambana ay hindi tinanggal; nagpapatuloy pa rin ang bayan na naghahandog at nagsusunog ng insenso sa mga mataas na dambana.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gayunman"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga mataas na dambana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "tinanggal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nagpapatuloy pa rin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "naghahandog"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "at nagsusunog ng insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga mataas na dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:54.558991318Z",
+  "model": "glm-5.3"
+}

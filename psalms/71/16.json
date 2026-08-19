@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Paroroon ako sa makapangyarihang mga gawa ni Adonai Yahweh; aalalahanin ko ang iyong katuwiran, ikaw lamang.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "paroroon ako"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "sa makapangyarihang mga gawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "aalalahanin ko"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ang iyong katuwiran"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ikaw lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.495815460Z",
+  "model": "glm-5.3"
+}

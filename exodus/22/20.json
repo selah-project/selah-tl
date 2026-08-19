@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ang dayuhan ay huwag mong pandidirihan, at huwag mo siyang pipighatin, sapagkat dayuhan kayo sa lupain ng Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "at ang dayuhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi (huwag)"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "mong pandidirihin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi (huwag)"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "mo siyang pipighatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dayuhan (marami)"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo (noong) ay naging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:26.704573777Z",
+  "model": "glm-5.3"
+}

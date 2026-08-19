@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sapagkat ang iyong mga palaso ay lumusong sa akin, at ang iyong kamay ay nanindigan sa akin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ang iyong mga palaso"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "lumusong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "at nanindigan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:28.815446565Z",
+  "model": "glm-5.3"
+}

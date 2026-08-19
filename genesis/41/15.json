@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At sinabi ni Paroh kay Yosef: Isang panaginip ang panaginipin ko, at ⟨walang⟩ tagapag-interpret ⟨את⟩ nito; at ako'y nakarinig tungkol sa iyo, na sinasabi, nakikinig ka ng panaginip upang interpretein ⟨את⟩ nito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "panaginip"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "panaginipin ko"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "at tagapag-interpret"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨walang⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang panaginip)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakarinig"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tungkol sa iyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "nakikinig ka"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "panaginip"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "upang interpretein"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang panaginip)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:39.773879057Z",
+  "model": "glm-5.3"
+}

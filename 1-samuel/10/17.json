@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tinawag ni Shemuël ang ⟨את⟩ bayan kay Yahweh sa Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "sa Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:05.876192067Z",
+  "model": "glm-5.3"
+}

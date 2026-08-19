@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sapagkat sino ang elohim maliban kay Yahweh? At sino ang bato maliban sa ating Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ang elohim"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "maliban kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "maliban sa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:58.913779121Z",
+  "model": "glm-5.3"
+}

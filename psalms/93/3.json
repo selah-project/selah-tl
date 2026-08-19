@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 93,
+  "translation": "Nagtaas ang mga ilog, Yahweh; nagtaas ang mga ilog ng tinig nila; magtataas ang mga ilog ng alon ng dagat na lumalagas.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "nagtaas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga ilog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagtaas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga ilog"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ng tinig nila"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "magtataas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga ilog"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ng alon na lumalagas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:32.690098833Z",
+  "model": "glm-5.3"
+}

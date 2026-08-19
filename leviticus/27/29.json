@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ang bawat bagay na inihanay sa paglubog na ipinanganay ng tao ay hindi matutubos; kamatayan ang parusa sa kanya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "inihanay sa paglubog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "ipinanganay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "matutubos"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "parusa sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:20.113120226Z",
+  "model": "glm-5.3"
+}

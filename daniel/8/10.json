@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ito ay lumaki hanggang sa hukbo ng ⟨את⟩ mga langit, at nagpatihulog sa lupa ng ⟨את⟩ ilan sa hukbo at ng ⟨את⟩ mga bituin, at dinaap ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "at lumaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "at nagpatihulog"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ng"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "mga bituin"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "at dinaap ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:08:33.000555591Z",
+  "model": "glm-5.3"
+}

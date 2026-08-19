@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Tatakbo ba ang mga kabayo sa bato? Magbubungkal ba roon ng mga baka? Sapagkat inyong ginawang kamandag ang hatol, at ang bunga ng katuwiran ay inyong ginawang lasuna.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "Tatakbo ba"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ang mga kabayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaya ba"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "magbubungkal"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "ng mga baka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "inyong ginawa"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na kamandag"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hatol"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "at ang bunga"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "na lasuna"
+    }
+  ],
+  "timestamp": "2026-08-19T18:01:43.309282788Z",
+  "model": "glm-5.3"
+}

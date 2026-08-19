@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sasagot ang kayabangan ng Israel sa kaniyang harap; at ang Israel at Efraim ay matitigo sa kanilang kasamaan; natigo din ang Yehuda na kasama nila.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "at sasagot"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kayabangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "sa kaniyang harap"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "at ang Israel"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "at Efraim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matitigo"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "sa kanilang kasamaan"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "natigo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kasama nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:53.299866090Z",
+  "model": "glm-5.3"
+}

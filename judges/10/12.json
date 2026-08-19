@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang mga Tsidoni at Amalek at Maon ay nagpahirap sa ⟨את⟩ inyo, at humiyaw kayo sa akin, at iniligtas ko ang ⟨את⟩ inyo mula sa kanilang kamay.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "at ang mga Tsidoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "at Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "at Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "nagpahirap"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "at humiyaw kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "at iniligtas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mula sa kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:04.508122033Z",
+  "model": "glm-5.3"
+}

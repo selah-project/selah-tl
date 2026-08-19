@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "O aking giikan, at anak ng aking giik! Ang narinig ko mula ⟨את⟩ kay Yahweh ng mga hukbo, ang Elohim ng Israel, ay ipinahayag ko sa inyo.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "aking giikan"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "at anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ng aking giik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ang narinig ko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mula kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ay ipinahayag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:04.875323039Z",
+  "model": "glm-5.3"
+}

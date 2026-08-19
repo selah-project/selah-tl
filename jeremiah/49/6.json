@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "At pagkatapos nito, ibabalik Ko ang ⟨את⟩ pagkabihag ng mga anak ni Amon, oy ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "At pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ibalik Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagkabihag"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:35:28.738719781Z",
+  "model": "glm-5.3"
+}

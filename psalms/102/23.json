@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sa pagtitipon ng mga bayan na magkakasama, at ng mga kaharian, upang maglingkod kay ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "sa pagtitipon"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ng mga bayan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "at ng mga kaharian"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang maglingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:54.259523718Z",
+  "model": "glm-5.3"
+}

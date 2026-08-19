@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Katarungan, katarungan ang iyong tutuntunin, upang ikaw ay mabuhay at aariin mo ang ⟨את⟩ lupaing ibinigay ni Yahweh na iyong Elohim sa iyo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ang iyong tutuntunin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ikaw ay mabuhay"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "at aariin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:24.116440455Z",
+  "model": "glm-5.3"
+}

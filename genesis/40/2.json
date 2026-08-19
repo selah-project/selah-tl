@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At nagalit si Paroh sa dalawa sa kaniyang mga saris, sa puno ng mga tagapag-inom at sa puno ng mga tagapag-hurno.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "At nagalit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paroh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "sa kaniyang mga saris"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ng mga tagapag-inom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "ng mga tagapag-hurno"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:12.630793211Z",
+  "model": "glm-5.3"
+}

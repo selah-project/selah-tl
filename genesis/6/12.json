@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nakita ni Elohim ang ⟨את⟩ lupa, at narito, nasira ito, sapagkat winasak ng lahat ng laman ang ⟨את⟩ kanyang lakad sa ibabaw ng lupa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "nasira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang lakad"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kanyang lakad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:16.727220600Z",
+  "model": "glm-5.3"
+}

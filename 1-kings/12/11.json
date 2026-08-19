@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ngayon, pinatungan kayo ng aking ama ng mabigat na pamatok, at ako'y magdaragdag pa sa inyong pamatok; sinaktan kayo ng aking ama ng ⟨את⟩ mga latigo, at ako'y sasaktan kayo ng ⟨את⟩ mga alakdan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aking ama"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "pinatungan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng pamatok"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "magdaragdag pa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyong pamatok"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aking ama"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo (inilalatigo)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ng mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sasaktan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo (aalakdan)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ng mga alakdan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:03.994762880Z",
+  "model": "glm-5.3"
+}

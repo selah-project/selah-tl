@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ang nanunuya ⟨ay⟩ ang alak, umaalingawngaw ⟨ang⟩ mabinat; at ang bawat naliligaw dito ay hindi magiging marunong.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "nanunuya"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ang alak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "umaalingawngaw"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mabinat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "naliligaw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "magiging marunong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:40.012599182Z",
+  "model": "glm-5.3"
+}

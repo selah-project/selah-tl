@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "Magalak at magsaya sa iyo ang lahat ng naghahanap sa iyo, at sabihin ng mga umiibig sa iyong kaligtasan, nang walang hinto: \"Luwalhatihin si Elohim!\"",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "at magsaya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "naghahanap sa iyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at magsasabi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang walang hinto"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "luwalhatihin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mga umiibig sa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "iyong kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:14.992113339Z",
+  "model": "glm-5.3"
+}

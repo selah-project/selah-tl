@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ginawa niya ang ⟨את⟩ mga patpat na kahoy ng shittim, at biniyayan ng ginto ang ⟨את⟩ mga ito, sa pagbubuhat ng ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga patpat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "at biniyayan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagbubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ng mesa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:49.135539071Z",
+  "model": "glm-5.3"
+}

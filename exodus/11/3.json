@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ibinigay ni Yahweh ang ⟨את⟩ biyaya ng bayan sa mga mata ng mga Mitsrita; gayundin ang lalaking si Moshe ay napakadakila sa lupain ng Mitsrayim, sa mga mata ng mga alipin ni Paroh at sa mga mata ng bayan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya",
+      "marks": "biyaya ng bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng mga Mitsrita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ay dakila"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ng mga alipin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "at sa mga mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:55.295536881Z",
+  "model": "glm-5.3"
+}

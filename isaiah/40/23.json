@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Si Yahweh ang nagbibigay ng mga pinuno sa ⟨את⟩ wala; mga huwes ng lupa ay gaya ng walang-laman ginawa niya.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "sa wala"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mga huwes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "gaya ng walang-laman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:18.515898337Z",
+  "model": "glm-5.3"
+}

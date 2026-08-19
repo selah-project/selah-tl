@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Maaawa siya sa mahirap at sa dukha, at ⟨ang⟩ buhay ng mga dukha ay ililigtas niya.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "maaawa siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mahirap"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at sa dukha"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "at ang mga buhay"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ng mga dukha"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ililigtas niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:39.902929483Z",
+  "model": "glm-5.3"
+}

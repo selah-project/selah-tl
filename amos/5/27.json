@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ipapatapon ko ang ⟨את⟩ inyo sa lampas ng Damasek, anila Yahweh, Elohim ng mga hukbo ang kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "at ipapatapon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "sa lampas"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "ng Damasek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:01:31.452208569Z",
+  "model": "glm-5.3"
+}

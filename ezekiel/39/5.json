@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Sa ibabaw ng ⟨פני⟩ ng bukid mahuhulog ka, sapagkat ako ang nagsalita, oracle ni Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨פני⟩ (mukha\/ng harapan)"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "mahuhulog ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:52:23.571874129Z",
+  "model": "glm-5.3"
+}

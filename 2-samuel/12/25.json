@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At nagpadala ⟨siya⟩ sa pamamagitan ng kamay ni Natan ang propeta, at tinawag niya ang ⟨את⟩ kaniyang pangalan na Yedidyah, dahil kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan ng kamay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ni Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kaniyang pangalan"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:58.202541673Z",
+  "model": "glm-5.3"
+}

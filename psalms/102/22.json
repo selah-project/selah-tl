@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Upang ipahayag sa Tsiyon ang pangalan ni Yahweh, at ang papuri niya sa Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "upang ipahayag"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "at ang papuri niya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:53.254430687Z",
+  "model": "glm-5.3"
+}

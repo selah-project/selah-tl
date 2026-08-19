@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At inilabas Mo ang ⟨את⟩ iyong bayan na si ⟨את⟩ Yisrael mula sa lupain ng Mitzrayim, na may mga tanda at mga kahanga-hangaan, at sa kamay na malakas, at sa braso na unat, at sa dakilang pangamba.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "inilabas Mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "sa mga tanda"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "at sa mga kahanga-hangaan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "at sa kamay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "na malakas"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "at sa braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "na unat"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "at sa pangamba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "na dakila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:29:20.013965279Z",
+  "model": "glm-5.3"
+}

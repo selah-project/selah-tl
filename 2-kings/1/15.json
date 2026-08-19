@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nagsalita ang sugo ni Yahweh kay Eliyahu: Bumaba ka kasama niya, huwag kang matakot sa kanyang harap. At tumindig siya at bumaba kasama niya ⟨את⟩ sa hari.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "At nagsalita"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Bumaba ka"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "sa hari (kasama niya)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang matakot"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa kanyang harap"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "At tumindig"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:39.784657007Z",
+  "model": "glm-5.3"
+}

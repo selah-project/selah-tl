@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At tinipon ni David ang ⟨את⟩ mga anak ni Aharon at ang ⟨את⟩ mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "at tinipon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:09.604789038Z",
+  "model": "glm-5.3"
+}

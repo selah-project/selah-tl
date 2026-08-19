@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "⟨Ito ang⟩ handog na sunugin ng Shabbat, sa bawat Shabbat nito, bukod sa handog na sunugin ng tuloy-tuloy ⟨na handog⟩ at sa alak na handog nito.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "handog na sunugin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ng Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "sa bawat Shabbat nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "handog na sunugin"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ng tuloy-tuloy ⟨na handog⟩"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "at ang alak na handog nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:16:19.451363798Z",
+  "model": "glm-5.3"
+}

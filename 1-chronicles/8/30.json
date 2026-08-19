@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang anak niya, ang panganay ⟨ay⟩ Avdon, at Tzur, at Kish, at Ba'al, at Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "at ang anak niya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "at Tzur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "at Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "at Ba'al"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "at Nadav"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:03.442023812Z",
+  "model": "glm-5.3"
+}

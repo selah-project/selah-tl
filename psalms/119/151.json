@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Malapit ka, Yahweh, at lahat ng iyong mga utos ⟨ay⟩ katotohanan.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Malapit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at lahat ng"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iyong mga utos"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:17.518202244Z",
+  "model": "glm-5.3"
+}

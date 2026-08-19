@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At si Aminadav ang naging ama ni ⟨את⟩ Najshon, at si Najshon ang naging ama ni ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "at si Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Najshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "at si Najshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:29.415605439Z",
+  "model": "glm-5.3"
+}

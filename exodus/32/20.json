@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At kanyang kinuha ang ⟨את⟩ bakuang ginawa nila, at sinunog sa apoy, at dinikdik hanggang sa maging pinong-pino, at binudbod sa ibabaw ng tubig, at pinainom niya ang ⟨את⟩ mga anak ni Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "at sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "at dinikdik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דק",
+      "gloss": "maging pinong-pino"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "at binudbod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "at pinainom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:11.633245674Z",
+  "model": "glm-5.3"
+}

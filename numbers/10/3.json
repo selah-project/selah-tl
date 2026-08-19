@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sasabihan nila ⟨ang⟩ mga iyon, at magtitipon sa iyo ang buong kongregasyon sa pasukan ng tolda ng tipanan.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "at sasabihan nila"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "sa mga iyon"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "at magtitipon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:32.279174878Z",
+  "model": "glm-5.3"
+}

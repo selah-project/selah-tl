@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At hindi nagsalita si Avshalom kay Amnon, ni masama man mabuti, sapagkat kinamumuhian ni Avshalom si ⟨את⟩ Amnon dahil sa bagay na kanyang hinamak si ⟨את⟩ Tamar na kapatid niya",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay\/sumabay sa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "masama man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o hanggang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kinamuhian"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hinamak\/dinuwag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "si Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kapatid niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:35.217003851Z",
+  "model": "glm-5.3"
+}

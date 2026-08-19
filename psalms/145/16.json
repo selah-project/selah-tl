@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Bumubukas ka ng ⟨את⟩ iyong kamay, at nagbibigay-kabusugan sa bawat buhay na may kasiyahan.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Bumubukas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kamay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "at nagbibigay-kabusugan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "na may kasiyahan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.623913507Z",
+  "model": "glm-5.3"
+}

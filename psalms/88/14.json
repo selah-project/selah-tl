@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Ngunit ako, sa iyo, Yahweh, sumigaw ako, at sa umaga ang aking panalangin ay unang sasalubong sa iyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "sumigaw ako"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "at sa umaga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ay unang sasalubong sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:47.831071022Z",
+  "model": "glm-5.3"
+}

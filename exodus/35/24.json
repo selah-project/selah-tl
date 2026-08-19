@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Bawat nag-alsa ng handog na alay ng pilak at tanso ay naghanda ⟨את⟩ handog na alay para kay Yahweh; at ang bawat isa na may nahanap ⟨את⟩ sa kaniya na mga kahoy ng acacia para sa bawat gawain ng paglilingkod, ay naghanda ng mga ito.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "nag-alsa ng"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "handog na alay"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "at tanso"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ay naghanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na alay"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "handog na alay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "may nahanap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kaniya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ng acacia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa bawat"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ng paglilingkod"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ay naghanda ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:04.512047676Z",
+  "model": "glm-5.3"
+}

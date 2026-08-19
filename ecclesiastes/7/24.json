@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Malayo ang nangyari na, at malalim, malalim — sinong makatatagpo nito?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "malayo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nangyari na"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "at malalim"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "malalim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "makatatagpo nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:28.830390381Z",
+  "model": "glm-5.3"
+}

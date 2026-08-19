@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At hinalikan ni Yaakov si Rachel, at itinaas niya ang ⟨את⟩ kanyang tinig at umiyak.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "at hinalikan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "si Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "at itinaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang tinig"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ang kanyang tinig"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "at umiyak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:08.297287576Z",
+  "model": "glm-5.3"
+}

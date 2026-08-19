@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinabi niya sa kanila: \"Humayo pa kayo ⟨sa⟩ loob ng tatlong araw, at magbalik kayo sa akin.\" At umayo ang bayan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "humayo kayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "at magbalik kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at umayo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:44.204238595Z",
+  "model": "glm-5.3"
+}

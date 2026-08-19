@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At mula sa tribo ni Reuben: ⟨את⟩ Betser at ang ⟨את⟩ kaniyang bakuran, ⟨את⟩ Yahatsah at ang ⟨את⟩ kaniyang bakuran.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "at mula sa tribo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bakuran"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kaniyang bakuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Yahatsah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bakuran"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kaniyang bakuran"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:37.425468039Z",
+  "model": "glm-5.3"
+}

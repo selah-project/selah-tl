@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Walang kagalingan sa aking laman dahil sa iyong yapo, walang kapayapaan sa aking mga buto dahil sa aking kasalanan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walang"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kagalingan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "sa aking laman"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "iyong yapo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "sa aking mga buto"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aking kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:28.815561750Z",
+  "model": "glm-5.3"
+}

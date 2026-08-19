@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sumagot ako at nagsalita sa anghel na nagsasalita sa akin, na nagsasabing: Ano ang mga ito, Adonai ko?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "at sumagot ako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na nagsasalita"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai ko"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:32.464599216Z",
+  "model": "glm-5.3"
+}

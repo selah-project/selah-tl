@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Ang aking mga nazar kay Yahweh babayaran ko, sa harap nga ng kaniyang buong bayan.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ang aking mga nazar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "babayaran ko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:53.753434964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Alalahanin, O Adonai, ang kahihiyan ng iyong mga alipin; dinadala ko sa aking dibdib ang lahat ng pang-aabuso ng maraming mga bayan —",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Alalahanin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "O Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ang kahihiyan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ng iyong mga alipin"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "dinadala ko"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sa aking dibdib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ng maraming"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:41.802811229Z",
+  "model": "glm-5.3"
+}

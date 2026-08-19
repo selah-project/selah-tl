@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang ⟨את⟩ dalawang bato, at ang ⟨את⟩ taba na nasa ibabaw nila, na nasa ibabaw ng mga balakang, at ang ⟨את⟩ pagpapalampas sa ibabaw ng atay — sa ibabaw ng mga bato aalisin niya ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "nasa ibabaw nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mga balakang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagpapalampas"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "pagpapalampas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "aalisin niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:14.591553490Z",
+  "model": "glm-5.3"
+}

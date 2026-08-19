@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kumain at nagpatirapa sa harap niya ang lahat ng matataba sa lupa; luluhod ang lahat ng bumababa sa alabok, ⟨at⟩ ang kanyang kaluluwa ay hindi nagpalagay ng buhay.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "at nagpatirapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "matataba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap niya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "luluhod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa alabok"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "at ang kanyang kaluluwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nagpalagay ng buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:34.796064178Z",
+  "model": "glm-5.3"
+}

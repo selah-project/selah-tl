@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Si pilgesh ni Kalev, si Maakha, ay nanganak kay Shever at ⟨את⟩ Tirchanah.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "pilgesh"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "si Maakha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ay nanganak"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kay Shever"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Tirchanah"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Tirchanah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:50.987668205Z",
+  "model": "glm-5.3"
+}

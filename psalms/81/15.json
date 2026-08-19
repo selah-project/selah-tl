@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Sa ilang sandali ay pawawalin Ko ang kanilang mga kaaway, at laban sa kanilang mga tampalasan ibabalik Ko ang Aking kamay.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sa ilang sandali"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "kanilang mga kaaway"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "pawawalin Ko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at laban sa"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "kanilang mga tampalasan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ibalik Ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang Aking kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.580098164Z",
+  "model": "glm-5.3"
+}

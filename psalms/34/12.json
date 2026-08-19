@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Halina, mga anak, makinig kayo sa akin; ang pagtakot kay Yahweh ay ituturo ko sa inyo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Halina"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "makinig kayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ang pagtakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ay ituturo ko sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.097984290Z",
+  "model": "glm-5.3"
+}

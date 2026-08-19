@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sumpa ang humihiga ⟨may⟩ kasama sa biyenan niyang babae; at sasabihin ng buong bayan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ang humihiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨may⟩ kasama"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "sa biyenan niyang babae"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:28.503537609Z",
+  "model": "glm-5.3"
+}

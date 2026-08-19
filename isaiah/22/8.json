@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At siya naghubad ng ⟨את⟩ takip ng Yehudah, at tumingin ka sa araw na iyon sa mga sandata ng Bahay ng Gubat;",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "at naghubad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takip ng Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "takip"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "at tumingin ka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "mga sandata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bahay"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ng Gubat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:38.307976245Z",
+  "model": "glm-5.3"
+}

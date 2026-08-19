@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sa ikawalong araw, tataluparin ang balat ng kanyyang prepisyo.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ang ikawalo"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "tataluparin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ng kanyang prepisyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:56.134580581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Iumingon sa akin, at maawa ka sa akin; ibigay mo ang iyong lakas sa iyong alipin, at iligtas mo ang anak ng iyong aliping babae.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "iumingon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "at maawa ka sa akin"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ang iyong lakas"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa iyong alipin"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "at iligtas mo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ng iyong aliping babae"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:26.208589911Z",
+  "model": "glm-5.3"
+}

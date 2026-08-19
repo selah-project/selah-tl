@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Sa gumawa ng malalaking ilawan, sapagkat hanggang magpakailanman ang kanyang kahabagan.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Sa gumawa"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "ilawan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "malalaking"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kahabagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.894280013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 1:10",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Iniunat ng kalaban ang kanyang kamay sa lahat ng kanyang kinaliligtaan, sapagkat nakita niyang pumasok ang mga bansa sa kanyang santuwaryo, na ipinagutos mo na huwag silang pumasok sa ⟨the⟩ kapulungan sa iyo.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "iniunat"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kalaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "kanyang kinaliligtaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "מקדשה",
+      "gloss": "kanyang santuwaryo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ipinagutos mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "silang pumasok"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapulungan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:37.897339167Z",
+  "model": "glm-5.3"
+}

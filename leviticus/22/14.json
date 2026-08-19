@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ang isang tao, kung kakain siya ng banal na bagay nang hindi sinasadya, ay magdaragdag siya ng kaniyang ikalimang bahagi roon, at ibibigay sa saserdote ang ⟨את⟩ banal na bagay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang isang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain siya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ng banal na bagay"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "nang hindi sinasadya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "magdaragdag siya"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "ng kaniyang ikalimang bahagi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "roon"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at ibibigay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang banal na bagay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ang banal na bagay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:38.497708671Z",
+  "model": "glm-5.3"
+}

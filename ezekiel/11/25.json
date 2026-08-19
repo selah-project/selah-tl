@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ipinahayag ko sa ⟨את⟩ mga bihag ang lahat ng mga salita ni Yahweh na ipinakita niya sa akin.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "at ipinahayag ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "mga bihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga salita ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ipinakita niya sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:40:04.833779267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Dinggin mo, O Yahweh, ang aking tinig; tatawag ako, at maawa ka sa akin at sagutin mo ako.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dinggin mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang aking tinig"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tatawag ako"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "at maawa ka sa akin"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "at sagutin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:03.400789622Z",
+  "model": "glm-5.3"
+}

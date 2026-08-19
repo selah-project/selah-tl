@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Sa kanya ang dagat, at siya ang gumawa nito, at ang tuyoang lupa ay kanyang mga kamay ang humubog.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ng kanya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ang gumawa nito"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "at ang tuyoang lupa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kanyang mga kamay"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ang humubog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.274365867Z",
+  "model": "glm-5.3"
+}

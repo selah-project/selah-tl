@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Huwag mong bibigatan ng panghad ang baka habang gumigiling ng butil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "mong bibigatan ng panghad"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "habang gumigiling ng butil"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:09.743389633Z",
+  "model": "glm-5.3"
+}

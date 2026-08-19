@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ako ⟨ay⟩ parang tanga-sa-kahoy sa Ephraim, at parang bulok sa bahay ng Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "parang tanga"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "sa Ephraim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "at parang bulok"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:53.410925852Z",
+  "model": "glm-5.3"
+}

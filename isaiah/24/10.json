@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Nasira ang lungsod ng ⟨⟨kaguluhan⟩⟩ kaguluhan; sarado ang bawat bahay sa pagpasok.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "nasira"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "lungsod ng"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "sarado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sa pagpasok"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:30.040968058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang kanilang pag-ibig man, ang kanilang pagkapoot man, ang kanilang pagkainggit man — matagal nang nawala; at bahagi ay walang na sa kanila magpakailanman, sa lahat ng ginawa sa ilalim ng araw.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "ang kanilang pag-ibig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "ang kanilang pagkapoot"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "ang kanilang pagkainggit"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "matagal na"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "nawala"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "at bahagi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay walang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:06.583425807Z",
+  "model": "glm-5.3"
+}

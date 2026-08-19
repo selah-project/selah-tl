@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ginawa niya ang ⟨את⟩ mga patpat na kahoy ng akasya, at binalutan niya ⟨את⟩ ang mga ito ng tanso.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga patpat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "binalutan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga ito"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:18.792754933Z",
+  "model": "glm-5.3"
+}

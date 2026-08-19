@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Maitim ako ngunit kaibig-ibig, mga anak na babae ng Yerushalayim, gaya ng mga tolda ng Qedar, gaya ng mga kurtina ni Shlomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "maitim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "ngunit kaibig-ibig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "gaya ng mga tolda"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ng Qedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "gaya ng mga kurtina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shlomo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:59.502808934Z",
+  "model": "glm-5.3"
+}

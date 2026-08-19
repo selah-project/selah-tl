@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Mangatuwiran kayo ng plano, at ⟨ito⟩ matutupas; magsalita kayo ng salita, at hindi ito tatayo, sapagkat sumasa-atin ⟨ang⟩ El!",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "mangatuwiran kayo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ng plano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "at matutupas"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "magsalita kayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng salita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sumasa-atin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:16.128536648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Huwag maging marunong sa iyong sariling mga mata; mangamba ka ⟨את⟩ kay Yahweh at lumayo ka sa kasamaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "maging"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa iyong mga mata"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mangamba ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "at lumayo ka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:58.847825173Z",
+  "model": "glm-5.3"
+}

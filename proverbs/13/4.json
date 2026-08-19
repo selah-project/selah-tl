@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Nangangarap ang pithaya ng tamad, ngunit wala siyang natatanggap; ngunit ang pithaya ng masisikap ay magiging taba.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "nangangarap"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit wala"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "pithaya ng"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tamad"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ngunit pithaya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "masisikap"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "magiging taba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:59.106595701Z",
+  "model": "glm-5.3"
+}

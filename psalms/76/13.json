@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Puputulin niya ang diwa ng mga pinuno: nakakatakot siya sa mga hari ng ⟨the⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "puputulin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "diwa"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nakakatakot"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:34.270380734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At makikita mo ang kalaban sa ⟨the⟩ tirahan ⟨ko⟩, sa lahat ng kabutihang ipagkakaloob sa ⟨את⟩ Israel; at walang ⟨maging⟩ matanda sa iyong bahay sa lahat ng mga araw.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "at makikita mo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kalaban"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tirahan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "ipagkakaloob ng kabutihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:29.762152742Z",
+  "model": "glm-5.3"
+}

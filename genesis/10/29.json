@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ⟨את⟩ Ophir, at ⟨את⟩ Chavilah, at ⟨את⟩ Yobab; lahat ng mga ito ay mga anak ni Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ophir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yobab"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ni Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:46.222270254Z",
+  "model": "glm-5.3"
+}

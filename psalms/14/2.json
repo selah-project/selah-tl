@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Mula sa mga langit ay tumingin-pababa si Yahweh sa mga anak ng tao, upang makita kung may matinong nakakaintindi, na naghahanap sa ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "tumingin-pababa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kung may"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "matinong nakakaintindi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.322186464Z",
+  "model": "glm-5.3"
+}

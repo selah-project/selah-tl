@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ng mga salamangkero kay Paroh: 'Daliri ng Elohim ⟨ito⟩!' At tumigas ang puso ni Paroh at hindi niya sila pinakinggan, gaya ng sinalita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ng mga salamangkero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "Daliri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "at tumigas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "niya pinakinggan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:29.794619522Z",
+  "model": "glm-5.3"
+}

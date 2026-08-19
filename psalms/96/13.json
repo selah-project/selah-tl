@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Sa harapan ni Yahweh, sapagkat dumarating ⟨siya⟩, sapagkat dumarating ⟨siya⟩ upang hatulan ang ⟨את⟩ lupa; huhatulan niya ang ⟨את⟩ sangkati sa katuwiran, at ang mga bansa sa kanyang katapatan.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "darating ⟨siya⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "darating ⟨siya⟩"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "upang hatulan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "huhatulan niya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sangkati"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa katuwiran"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "at ang mga bansa"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "sa kanyang katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:11.879392749Z",
+  "model": "glm-5.3"
+}

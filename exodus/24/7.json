@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At kinuha ang aklat ng tipan at binasa sa mga tainga ng bayan, at nagsabi sila: Ang lahat na sinalita ni Yahweh ay gagawin namin at pakikinggan namin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ang aklat"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ng tipan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at binasa"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi sila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ay gagawin namin"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "at pakikinggan namin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:02.135967116Z",
+  "model": "glm-5.3"
+}

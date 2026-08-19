@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "Papuri kay Yahweh, na hindi niya tayo ibinigay na pangingisda sa ngipin nila.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Papuri kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "na hindi"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "niya tayo ibinigay"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "na pangingisda"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "sa ngipin nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.950346651Z",
+  "model": "glm-5.3"
+}

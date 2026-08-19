@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sapagkat hindi nagsara ng mga pintuan ng aking tiyan, at hindi naglihim ng kahirapan sa aking mga mata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nagsara"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "mga pintuan"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ng aking tiyan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "at naglihim"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ng kahirapan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "sa aking mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:32.069429556Z",
+  "model": "glm-5.3"
+}

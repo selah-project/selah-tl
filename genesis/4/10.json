@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At kaniyang sinabi: Ano ang ginawa mo? Ang tinig ng mga dugo ng iyong kapatid ay sumisigaw sa akin mula sa lupa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang ginawa mo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Ang tinig"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ng mga dugo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng iyong kapatid"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ay sumisigaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:03.948164336Z",
+  "model": "glm-5.3"
+}

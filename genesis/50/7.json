@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At umakyat si Yosef para ilibing ang ⟨את⟩ kanyang ama, at umakyat ⟨את⟩ kasama niya ang lahat ng mga alipin ni Paraoh, ang mga matanda ng kanyang bahay, at ang lahat ng mga matanda ng lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "para ilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga matanda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ng kanyang bahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:27.606112399Z",
+  "model": "glm-5.3"
+}

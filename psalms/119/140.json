@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Pinadalisay nang lubos ang iyong salita, at minahal ng iyong alipin ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "pinadalisay"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "iyong salita"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "at ang iyong alipin"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "minahal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:01.141445735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At ang aking dila ay magbubulalas ng iyong katuwiran, buong araw ng iyong papuri.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "at ang aking dila"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "magbubulalas"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ng iyong katuwiran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ng iyong papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:02.570781364Z",
+  "model": "glm-5.3"
+}

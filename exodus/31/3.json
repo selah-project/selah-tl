@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At pinunan ko siya ng ⟨את⟩ Espirito ng Elohim — sa karunungan at sa unawa at sa kaalaman, at sa bawat gawa:",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "at pinunan ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espirito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "at sa unawa"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "at sa kaalaman"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa bawat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:25.350678834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At nangyari, nang matapos nilang kainin ang ⟨את⟩ butil na dala nila mula sa Mitzrayim, sinabi sa kanila ng kanilang ama: Bumalik kayo, maggala kayo ng kaunting pagkain para sa atin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kainin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butil"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "butil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dala nila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ng kanilang ama"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Bumalik kayo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "maggala kayo ng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunting"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:58.986801564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit sila at ang ating mga magulang ay naging mapagmataas, at nagpamatigas ang ⟨את⟩ kanilang batok at hindi sumunod sa iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "at ang ating mga magulang"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "naging mapagmataas"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "at nagpamatigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang batok"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kanilang batok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T19:17:56.200366158Z",
+  "model": "glm-5.3"
+}

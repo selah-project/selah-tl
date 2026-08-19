@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At sinabi ni Yosef sa mga kapatid niya: Lumapit kayo nga sa akin. At lumapit sila. At kaniyang sinabi: Ako si Yosef na inyong kapatid, na ipinagbili ninyo ⟨את⟩ ako sa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga kapatid niya"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "lumapit kayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "at lumapit sila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong kapatid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ipinagbili ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:50.152535597Z",
+  "model": "glm-5.3"
+}

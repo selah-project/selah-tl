@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang taong kulang sa pangangailangan ay umiibig sa kasayahan; ang umiibig sa alak at langis ay hindi yayaman.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kulang sa pangangailangan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sa kasayahan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umiibig"
+    },
+    {
+      "surface": "יין",
+      "gloss": "sa alak"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "at langis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "yayaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:16.510258782Z",
+  "model": "glm-5.3"
+}

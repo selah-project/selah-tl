@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ang mga mapagpakumbaba ay magmamana ng lupa, at magagalak sila sa kasaganaan ng kapayapaan.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "at ang mga mapagpakumbaba"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magmamana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "at magagalak sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:20.461672630Z",
+  "model": "glm-5.3"
+}

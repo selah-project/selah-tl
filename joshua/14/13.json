@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At binasbasan siya ni Yehoshua, at ibinigay ang ⟨את⟩ Chebron kay Kalev na anak ni Yefune bilang mana.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "at binasbasan siya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kay Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "bilang mana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:42:03.540574909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At isusulat mo sa mga bato ⟨את⟩ ang lahat ng mga salita ng Toràh na ito — linaw na maayos.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "at isusulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga salita ng Toràh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ng Toràh"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "באר",
+      "gloss": "linaw \/ ukitin nang"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "maayos na"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:40.480886875Z",
+  "model": "glm-5.3"
+}

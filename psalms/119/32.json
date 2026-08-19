@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sa daan ng iyong mga utos tatakbo ako, sapagkat pinalalapad mo ang aking puso.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ng iyong mga utos"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "tatakbo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "pinalalapad mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:38.942635915Z",
+  "model": "glm-5.3"
+}

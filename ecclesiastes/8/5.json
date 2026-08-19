@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang nag-iingat ng utos ay hindi makakilala ng masamang bagay; at panahon at hatol ay nakikilala ng puso ng marunong.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ang nag-iingat"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ng utos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makakilala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masamang"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at panahon"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at hatol"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakikilala"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ng puso"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ng marunong"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:02.783073661Z",
+  "model": "glm-5.3"
+}

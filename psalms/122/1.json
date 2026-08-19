@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Awit ng mga pagaangat, ni David. Nagalak ako sa pagsabi sa akin: Sa bahay ni Yahweh tayo'y paroroon.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pagaangat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nagalak ako"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "sa pagsabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tayo'y paroroon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:38.486349946Z",
+  "model": "glm-5.3"
+}

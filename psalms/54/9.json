@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat mula sa lahat ng kagipitan diniligtas niya ako, at sa aking mga kaaway ay nakita ng aking mata ⟨silá⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kagipitan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "diniligtas ako"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "at sa aking mga kaaway"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:58.388510202Z",
+  "model": "glm-5.3"
+}

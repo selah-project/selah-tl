@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At kaniyang sinabi: Hindi ka makakakita sa ⟨את⟩ aking mukha, sapagkat hindi makakakita sa akin ang tao at mabubuhay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ka makakakita"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sa pagkakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aking mukha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "makakakita sa akin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "at mabubuhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:49.815645500Z",
+  "model": "glm-5.3"
+}

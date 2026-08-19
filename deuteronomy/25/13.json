@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Huwag magkakaroon ka sa iyong supot ng bato at bato, malaki at maliit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "sa iyong supot"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "at maliit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:34.010271494Z",
+  "model": "glm-5.3"
+}

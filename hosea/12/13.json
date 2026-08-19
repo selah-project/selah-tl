@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At tumakas si Yaakov sa patag ng Aram, at naglingkod si Yisrael ⟨ב⟩ isang babae, at sa isang babae nagbantay ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "patag \/ bukid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "⟨ב⟩ isang babae"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "at sa isang babae"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:25.676893991Z",
+  "model": "glm-5.3"
+}

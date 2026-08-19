@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Payo ni David: Yahweh, pakinggan mo ang aking panalangin, iiling ninyo ang aking pamamanalangin; sa iyong katapatan sagutin mo ako, sa iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Payo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "iiling ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "aking pamamanalangin"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sa iyong katapatan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:40.606917800Z",
+  "model": "glm-5.3"
+}

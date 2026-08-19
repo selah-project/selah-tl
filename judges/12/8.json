@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At pagkatapos niya ay hinatol ni Ivtsan ng Beit-Lechem ang ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "hinatol"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkatapos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ng Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:41.269946977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Sino ang gumawa at gumawa nito, na tumatawag ng mga lahi mula sa simula? Ako, si Yahweh, ang unang, at ⟨את⟩ ang mga huli — ako, ako ⟨ay⟩ siya.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tumatawag"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "ng mga lahi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "mula sa simula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ang unang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga huli"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ang mga huli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:55.142794814Z",
+  "model": "glm-5.3"
+}

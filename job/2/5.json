@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Gayon man, ipahinagod mo ngayon ang iyong kamay, at dumampi sa kanyang buto at sa kanyang laman; kung hindi — sa iyong harapan siya magpapala sa iyo.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Gayon man"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipahinagod"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "at dumampi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kanyang buto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kanyang laman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong harapan"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "magpapala sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:35.490495437Z",
+  "model": "glm-5.3"
+}

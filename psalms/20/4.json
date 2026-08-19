@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Alalahanin niya ang lahat ng iyong mga handog, at ang iyong mga handog na sunugin ay tustuin niya ⟨ng pabor⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "alalahanin niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "iyong mga handog"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "at ang iyong handog na sunugin"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "tustuin niya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:09.905962583Z",
+  "model": "glm-5.3"
+}

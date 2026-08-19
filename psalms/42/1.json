@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sa Pangunguna ng Koro; isang turo ng mga anak ni Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna ng Koro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isang turo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:20.850207152Z",
+  "model": "glm-5.3"
+}

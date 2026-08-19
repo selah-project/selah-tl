@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ni David kay Uriah: Bumaba ka sa iyong bahay at hugasan mo ang iyong mga paa. At lumabas si Uriah sa ⟨ang⟩ bahay ng ⟨ang⟩ hari, at lumabas pagkatapos niya ang isang handog mula sa ⟨ang⟩ hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "kay Uriah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "bumaba ka"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "at hugasan mo"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ang iyong mga paa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng ⟨ang⟩ hari"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkatapos niya"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "isang handog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng ⟨ang⟩ hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:36.457623647Z",
+  "model": "glm-5.3"
+}

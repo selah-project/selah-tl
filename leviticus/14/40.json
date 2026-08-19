@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At utusan ng saserdote, at aalisin nila ang ⟨את⟩ mga bato na may bahay-sotá sa mga ito, at itatapon nila ang ⟨את⟩ mga iyon sa labas ng lungsod, sa maruruming dako.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "at utusan ng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "at aalisin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang bahay-sotá"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "at itatapon nila"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "labas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dako"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:51.405996188Z",
+  "model": "glm-5.3"
+}

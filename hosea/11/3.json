@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ako ang nagturo kay Efrayim na lumakad, kinuha ko sila sa ⟨aking⟩ mga bisig, ngunit hindi nila nakilala na ako ang gumagaling sa kanila.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "At ako"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "nagturo... na lumakad"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kay Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "kinuha ko sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "mga bisig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila nakilala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ako ang gumagaling sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:08.048615296Z",
+  "model": "glm-5.3"
+}

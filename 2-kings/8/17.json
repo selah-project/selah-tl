@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Na edad na tatlumpu't dalawang taon siya nang siya'y maghari, at walong taon siyang naghari sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "na edad"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpu't"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "היה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nang maghari siya"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "at walong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari siya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:26.982947654Z",
+  "model": "glm-5.3"
+}

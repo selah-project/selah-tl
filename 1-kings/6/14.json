@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nagtayo si Shelomoh ng ⟨את⟩ bahay, at tinapos niya ito.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "At nagtayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "at tinapos niya ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:45.710331644Z",
+  "model": "glm-5.3"
+}

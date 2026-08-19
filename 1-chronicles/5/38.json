@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nagkaanak si Achituv ng ⟨את⟩ Tsadok, at nagkaanak si Tsadok ng ⟨את⟩ Shalum;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "at si Achituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ng Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "at si Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng Shalum"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:25.897949546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Katapat ng gilid magiging ⟨ang⟩ mga singsing, bilang mga lagayan ng mga patpat para buhatin ang ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "katapat ng"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "⟨ang⟩ mga singsing"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "bilang mga lagayan"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ng mga patpat"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "para buhatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.904640303Z",
+  "model": "glm-5.3"
+}

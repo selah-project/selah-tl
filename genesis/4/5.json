@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ngunit kay Kayin at sa kanyang handog ay hindi siya tumingin; at nasindian nang labis si Kayin, at bumagsak ang kanyang mukha.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ngunit kay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "kanyang handog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "tumingin"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "at nasindian"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "si Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "at bumagsak"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kanyang mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:40.718696205Z",
+  "model": "glm-5.3"
+}

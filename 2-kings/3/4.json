@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Si Mesha na hari ng Moab ay tagapag-alaga ng mga tupa, at nagbabayad siya sa hari ng Yisrael ng daang-libong kordero at daang-libong tupang lalaki, kasama ang balahibo.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Si Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "tagapag-alaga ng mga tupa"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "at nagbabayad"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "daang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-libong"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "at daang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-libong"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "tupang lalaki"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "balahibo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:59.817647714Z",
+  "model": "glm-5.3"
+}

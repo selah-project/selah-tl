@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ito ang mga anak ni Yisra'el: Reuven, Shim'on, Levi, at Yehudah, Yissakhar, at Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "at Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:54.002986359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Tumindig si Yonatan na anak ni Saul at pumunta kay David sa Horesha, at pinatibay niya ang ⟨את⟩ kaniyang kamay sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at pumunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "sa Horesha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "at pinatibay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kaniyang kamay"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:31.473974693Z",
+  "model": "glm-5.3"
+}

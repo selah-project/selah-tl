@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 22:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngayon, anak Ko, sumain Ka ni Yahweh, at magtatagumpay ka, at magtatayo ka ng bahay ni Yahweh na iyong Elohim, kung paanong Siya ay nagsalita tungkol sa iyo.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ngayon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak Ko"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sumain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "והצלחת",
+      "gloss": "at magtatagumpay ka"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "at magtatayo ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tungkol sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:26:30.253218959Z",
+  "model": "glm-5.3"
+}

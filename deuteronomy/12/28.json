@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 12:28",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ingatan mo at didinggin mo ang ⟨את⟩ lahat ng mga salitang ito na iniuutos ko sa iyo, upang maging mabuti sa iyo at sa iyong mga anak pagkatapos mo magpakailanman, sapagkat gagawin mo ang mabuti at ang matuwid sa mga mata ni Yahweh na iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ingatan mo"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "at didinggin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga salitang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "iniuutos ko sa iyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maging mabuti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "at sa iyong mga anak"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "magpakailanman hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang mabuti"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "at ang matuwid"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:41.464867066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 82,
+  "translation": "Hindi ⟨sila⟩ nakakilala at hindi nakauunawa; sa kadiliman sila lumalalakad; matitibag ⟨ang⟩ lahat ng mga pinagtatayuan ng lupa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "lumalalakad"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "matitibag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "mga pinagtatayuan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.719545554Z",
+  "model": "glm-5.3"
+}

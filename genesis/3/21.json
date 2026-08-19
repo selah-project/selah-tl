@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At gumawa si Yahweh Elohim nang mga damit na balat para kay Adam at sa kaniyang asawa, at binihisan sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "para kay Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "at sa kaniyang asawa"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "עור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "binihisan sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:41.437991179Z",
+  "model": "glm-5.3"
+}

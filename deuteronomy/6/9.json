@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At isusulat mo ang mga ito sa mga haliging pinto ng iyong bahay at sa iyong mga tarangkahan.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "at isusulat mo ang mga ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "mga haliging pinto"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng iyong bahay"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "at sa iyong mga tarangkahan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:13.181982176Z",
+  "model": "glm-5.3"
+}

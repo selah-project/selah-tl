@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "O Elohim, iibalik mo kami, at papagningninin mo ang iyong mukha, at maliligtas kami!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "iibalik mo kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "at papagningninin mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "at maliligtas kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.916418637Z",
+  "model": "glm-5.3"
+}

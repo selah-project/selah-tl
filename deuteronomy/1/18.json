@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iniutos ko sa inyo noon, sa ⟨את⟩ panahong iyon, ang ⟨את⟩ lahat ng mga bagay na inyong gagawin.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "at iniutos ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga bagay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ng mga bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyong gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:53.336898044Z",
+  "model": "glm-5.3"
+}

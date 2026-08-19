@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At dumating ang mga pastol at pinataboy sila; ngunit tumindig si Moshe at iniligtas sila, at pinainom niya ang ⟨את⟩ kanilang kawan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ang mga pastol"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "at pinataboy sila"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "at tumindig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "at iniligtas sila"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "at pinainom niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kawan"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kanilang kawan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.372479116Z",
+  "model": "glm-5.3"
+}

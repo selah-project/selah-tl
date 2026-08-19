@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At naging gabi, at naging umaga — araw na panglima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "panglima"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:13.203384052Z",
+  "model": "glm-5.3"
+}

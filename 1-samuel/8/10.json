@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At isinalita ni Samuel ang ⟨את⟩ lahat ng mga salita ni Yahweh sa bayang humihingi ⟨את⟩ mula sa kanya ng hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At nagsalita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "humihingi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ mula sa kanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:32.188143364Z",
+  "model": "glm-5.3"
+}

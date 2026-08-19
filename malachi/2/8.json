@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 2:8",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ngunit kayo ay lumihis mula sa ang daan; nagpatibok-tibok kayo sa marami sa kautusan; winasak ninyo ang tipan ni Levi, anila ni Yahweh ng mga hukbo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ngunit kayo"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "lumihis kayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "הכשלתם",
+      "gloss": "nagpatibok-tibok kayo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sa marami"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "sa kautusan"
+    },
+    {
+      "surface": "שחתם",
+      "gloss": "winasak ninyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang tipan"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:52.786161527Z",
+  "model": "glm-5.3"
+}

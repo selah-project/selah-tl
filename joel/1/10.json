@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sinamsam ang bukid, nanaghoy ang lupa, sapagkat sinamsam ang butil; nalanta ang bagong alak, humina ang langis.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "sinamsam"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "nanaghoy"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "sinamsam"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ang butil"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "nalanta"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ang bagong alak"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "humina"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ang langis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:19.908555598Z",
+  "model": "glm-5.3"
+}

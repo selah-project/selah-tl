@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sabihin mo sa kanila: Kapag inihatid ninyo ang ⟨את⟩ taba nito mula rito, bibilangin ito sa mga Levita na parang ani ng giikinan at parang ani ng pitungan ng ubas.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "kapag inihatid ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba nito"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "taba nito"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "at bibilangin"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "na parang ani ng"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "giikinan"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "at na parang ani ng"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "pitungan ng ubas"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:46.081565323Z",
+  "model": "glm-5.3"
+}

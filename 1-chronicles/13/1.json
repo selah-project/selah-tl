@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At nagpayo si David kasama ng mga pinuno ng libo at ng mga daan, sa bawat pangulo.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "at nagpayo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pinuno ng"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨mga⟩ libo"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "at ⟨ng mga⟩ daan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "panguno"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:49.395261351Z",
+  "model": "glm-5.3"
+}

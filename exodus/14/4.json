@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At patitigasin ko ang ⟨את⟩ puso ni Paraoh at hahabulin niya sila, at ako ay magpaparangal kay Paraoh at sa buong kanyang hukbo, at makikilala ng mga Egipcio na ako si Yahweh. At ginawa nila ang gayon.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "at patitigasin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ni Paraoh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraoh"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "at hahabulin niya"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "at magpaparangal ako"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kay Paraoh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa buong"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "kanyang hukbo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "at makikilala ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga Egipcio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:38.558846188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At hinulma niya para rito ang apat na singsing na ginto, at inilagay ang ⟨את⟩ mga singsing sa apat na sulok na nasa apat na paa nito.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "at hinulma niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga singsing"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "na mga sulok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na nasa"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "na paa nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:49.135081599Z",
+  "model": "glm-5.3"
+}

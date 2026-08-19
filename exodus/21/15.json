@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang pumapalo sa kanyang ama at sa kanyang ina, tiyak na papatayin sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "at ang pumapalo sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at kanyang ina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamataayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tiyak na papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:07.323349633Z",
+  "model": "glm-5.3"
+}

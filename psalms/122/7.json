@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Magyari ang kapayapaan sa loob ng iyong mga pader, katahimikan sa iyong mga armo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magyari"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "sa loob ng iyong mga pader"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "katahimikan"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "sa iyong mga armo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:39.536454177Z",
+  "model": "glm-5.3"
+}

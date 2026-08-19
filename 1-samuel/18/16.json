@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ngunit ang buong Yisrael at Yehudah ay umiibig kay ⟨את⟩ David, sapagkat siya ang lumalabas at pumapasok sa kanilang harapan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ngunit ang buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ay umiibig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ang lumalabas"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "at pumapasok"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa kanilang harapan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:30.869419567Z",
+  "model": "glm-5.3"
+}

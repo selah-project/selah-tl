@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At bawat babaing itinaas ng puso nila ⟨את⟩ sarili sa karunungan ay naghabi ⟨את⟩ balahibo ng mga kambing.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "babaing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "itinaas"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ang puso nila"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩",
+      "marks": "sarili ng mga babae"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "naghabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balahibo ng mga kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "balahibo ng mga kambing"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.171974892Z",
+  "model": "glm-5.3"
+}

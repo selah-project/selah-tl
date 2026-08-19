@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ginawa ni Yahweh ang ⟨את⟩ bagay na ito sa kinabukasan, at namatay ang lahat ng hayop ng mga Egipcio, ngunit sa mga hayop ng mga anak ni Yisrael ay hindi namatay ang kahit isa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa kinabukasan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ng hayop"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng mga Egipcio"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ngunit sa mga hayop"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang kahit isa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:21.930119455Z",
+  "model": "glm-5.3"
+}

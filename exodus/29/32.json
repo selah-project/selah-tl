@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kakain si Aharon at ang kaniyang mga anak ng ⟨את⟩ laman ng tupang ⟨את⟩ at ⟨את⟩ ng tinapay na nasa basket, sa pasukan ng tolda ng tipanan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "At kakain"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang kaniyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman ng tupa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ng tupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tinapay"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "nasa basket"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:16.801531776Z",
+  "model": "glm-5.3"
+}

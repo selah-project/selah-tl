@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At tinik at dungo ay tutubuin nito para sa iyo, at kakain ka ng ⟨את⟩ damong-gulay ng bukid.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "At tinik"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "at dungo"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "tutubuin nito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "at kakain ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damong-gulay ng bukid"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "damong-gulay"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:17.940340736Z",
+  "model": "glm-5.3"
+}

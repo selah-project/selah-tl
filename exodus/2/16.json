@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At may pitong anak na babae ang saserdote ng Midyan, at dumating sila at humatak ng tubig, at pinunan nila ang ⟨את⟩ mga sabsaban upang patubigin ang kawan ng kanilang ama.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "at sa saserdote"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ng Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "at dumating sila"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "at humatak sila"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "at pinunan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sabsaban"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "ang mga sabsaban"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "upang patubigin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ng kanilang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:27.591655812Z",
+  "model": "glm-5.3"
+}

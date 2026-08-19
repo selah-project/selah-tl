@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kanyang hukbo at ang kanyang mga binilang: anim na libo at apat na pung libo at limang raan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "at ang kanyang hukbo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "at ang kanyang mga binilang"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "anim"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "at apat na pung"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:24.388919366Z",
+  "model": "glm-5.3"
+}

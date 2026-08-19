@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ayon sa bilang na inihahanda ninyo, ganito ninyo gagawin sa bawat isa ayon sa kanilang bilang.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "ayon sa bilang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inihahanda ninyo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa bawat isa"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ayon sa kanilang bilang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:09:07.339385720Z",
+  "model": "glm-5.3"
+}

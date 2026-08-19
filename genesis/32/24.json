@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At kinuha niya sila, at pinagdaan niya sila sa ⟨את⟩ batis, at ipinagdaan niya ang ⟨את⟩ lahat ng kanya.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "at kinuha niya sila"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "at pinagdaan niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batis"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ang batis"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "at ipinagdaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:33.626517258Z",
+  "model": "glm-5.3"
+}

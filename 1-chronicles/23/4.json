@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Mula sa mga ito, ⟨ang⟩ mga tagapanguna sa gawain ng bahay ni Yahweh: dalawampu't apat na libo; at ⟨ang⟩ mga kawani at mga hukom, anim na libo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "mula sa mga ito"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mga tagapanguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu't"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "at mga kawani"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "at mga hukom"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anim na"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T20:08:58.799175336Z",
+  "model": "glm-5.3"
+}

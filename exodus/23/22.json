@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sapagkat kung tunay na makikinig ka sa kanyang tinig at gagawin mo ang lahat ng sasabihin ko, ay magiging kaaway ako ng ⟨את⟩ iyong mga kaaway, at pipighatin ko ang ⟨את⟩ iyong mga nanliligalig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tunay na makikinig"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sa kanyang tinig"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sasabihin ko"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "magiging kaaway ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng iyong mga kaaway"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iyong mga kaaway"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "at pipighatin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong mga nanliligalig"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "iyong mga nanliligalig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:31.849174494Z",
+  "model": "glm-5.3"
+}

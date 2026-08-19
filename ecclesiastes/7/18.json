@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Mabuti na hawakan mo ang ⟨isa⟩, at mula sa ⟨isa⟩ rin ay huwag mong bibitawan ang ⟨את⟩ kamay mo; sapagkat ang natatakot kay Elohim ay lalabas sa ⟨את⟩ lahat ng mga ito.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "hawakan mo"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ang ⟨isa⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mula sa ⟨isa⟩ rin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "bibitawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamay mo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang kamay mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ang natatakot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga ito"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sa lahat ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:52.136402810Z",
+  "model": "glm-5.3"
+}

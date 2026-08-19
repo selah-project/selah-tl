@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ngunit hindi sila tumalikod sa mga kasalanan ng bahay ni Yarovam na pinagkasalahan niya ang ⟨את⟩ Yisrael; doon sila lumakad, at ang Asherah ay nanatili rin sa Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "tumalikod sila"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "sa mga kasalanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "pinagkasalahan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ang Asherah"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nanatili tumayo"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:03.658137660Z",
+  "model": "glm-5.3"
+}

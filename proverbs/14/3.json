@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sa bibig ng hangal may pamalo ng kayabangan, ngunit ang mga labi ng marurunong ay nag-iingat sa kanila.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "sa bibig ng"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "may sanga-pamalo ng"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kayabangan"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ngunit ang mga labi ng"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "marurunong"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "ay nag-iingat sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:09.634615724Z",
+  "model": "glm-5.3"
+}

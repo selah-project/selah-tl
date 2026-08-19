@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Ang ⟨mga⟩ banal na iyong mga lungsod ay naging ilang; ang Tsiyon ay naging ilang; ang Yerushalayim ⟨ay⟩ kagutuman-ng-lupa, isang wasak.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "banal mo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naging sila"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naging siya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pagkawasak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.455123093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ayon sa batas, ano ang gawin sa reynang Vashti, dahil hindi niya ginawa ang ⟨את⟩ utos ng hari na si Achashverosh sa pamamagitan ng mga eunuko?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "ayon sa batas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang gawin"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "sa reyna"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "niya ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utos ng hari na si Achashverosh"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "utos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "si Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan ng"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "mga eunuko"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:08.422799904Z",
+  "model": "glm-5.3"
+}

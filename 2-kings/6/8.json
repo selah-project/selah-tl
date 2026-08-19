@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang hari ng Aram ay nakikipaglaban sa Israel, at nagtipon-tipon siya ng payo sa kaniyang mga alipin, na nagsasabi, Sa ganito't-ganitong dakong aking ilalagay ang aking kampo.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "At ang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "at nagpayo siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dako"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ganitong"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "at ganitong"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "aking kampo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:05.194295883Z",
+  "model": "glm-5.3"
+}

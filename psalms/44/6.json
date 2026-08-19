@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Sa iyo natin sinisiko ang ating mga kaaway; sa iyong pangalan natutuntungan natin ang mga bumabangon laban sa atin.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ating mga kaaway"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "sinisiko"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "natutuntungan natin"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "mga bumabangon laban sa atin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:12.145674502Z",
+  "model": "glm-5.3"
+}

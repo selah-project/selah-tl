@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi niya: Isang maliit na kahilingan ang hinihingi ko ⟨mula⟩ ⟨את⟩ sa iyo; huwag mong itanggi ⟨את⟩ aking mga mukha. At sinabi sa kaniya ng hari: Humingi ka, aking ina, sapagkat hindi ko ihihindi ⟨את⟩ iyong mga mukha.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kahilingan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "hinihingi"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ mula sa iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mong itanggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aking mga mukha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "humingi ka"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "aking ina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ko ihihindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga mukha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong mga mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:18.874148038Z",
+  "model": "glm-5.3"
+}

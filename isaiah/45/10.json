@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Abay sa nagsasabi sa ama, 'Ano ang ipinanganak mo?' At sa babae, 'Ano ang pinanganak mo?'",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "abay sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "sa ama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ang ipinanganak mo"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "at sa babae"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ang pinanganak mo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:31.215546192Z",
+  "model": "glm-5.3"
+}

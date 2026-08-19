@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kayo lamang ang nakilala ko sa lahat ng angkan ng ⟨the⟩ lupa; kaya't dadalawin ko sa inyo ang ⟨את⟩ lahat ng inyong mga kasalanan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakilala ko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dahil dito"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "dadalawin ko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng inyong mga kasalanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ng inyong mga kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:22.136599348Z",
+  "model": "glm-5.3"
+}

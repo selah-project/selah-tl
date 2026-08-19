@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi niya sa akin: Hanggang gabi at umaga, dalawang libo at tatlong daan; at magiging matuwid ang banal na lugar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dalawang libo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "at magiging matuwid"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ang banal na lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:08:59.282441674Z",
+  "model": "glm-5.3"
+}

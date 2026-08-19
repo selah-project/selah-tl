@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At susunugin mo ang ⟨את⟩ buong tupang ⟨את⟩ sa altar — handog na susunugin, ⟨ito⟩ kay Yahweh; amoy na kalugud-lugod, handog na apoy kay Yahweh ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "at susunugin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong tupang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tupang"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "amoy"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "na kalugud-lugod"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na apoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:50.927076128Z",
+  "model": "glm-5.3"
+}

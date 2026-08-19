@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at ang ra'ah, at ang ⟨את⟩ dayangkad, at ang buwitre ayon sa kanyang uri",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "at ang ra'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dayangkad"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "dayangkad"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "at ang buwitre"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ayon sa kanyang uri"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:45.238113187Z",
+  "model": "glm-5.3"
+}

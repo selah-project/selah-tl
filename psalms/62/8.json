@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Sa Elohim ang aking kaligtasan at aking kaluwalhatian; bato ng aking lakas, kanlungan ko sa Elohim ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "aking kaligtasan"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "at aking kaluwalhatian"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ng aking lakas"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "aking kanlungan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.434705220Z",
+  "model": "glm-5.3"
+}

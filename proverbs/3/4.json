@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At makakatagpo ka ng biyaya at mabuting kaunawaan sa mga mata ni Elohim at ng tao.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "at makakatagpo ka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ng biyaya"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "at kaunawaan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "at ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:22.901639057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi magiging qedeshah sa mga anak na babae ng Israel, at hindi magiging qadesh sa mga anak na lalaki ng Israel.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "qedeshah (babaeng patutot sa banal na dambana)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sa mga anak na babae"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qadesh (lalaking patutot sa banal na dambana)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak na lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:41.109740365Z",
+  "model": "glm-5.3"
+}

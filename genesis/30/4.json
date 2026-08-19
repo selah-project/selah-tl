@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At ibinigay niya sa kaniya ang ⟨את⟩ Bilha na kaniyang aliping babae bilang asawa, at pumasok si Yaakov sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "si Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "kaniyang aliping babae"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilang asawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:44.412755553Z",
+  "model": "glm-5.3"
+}

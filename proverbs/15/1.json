@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang banayad na sagot ay nagpapabalik ng layo sa ⟨pagiging⟩ init ng galit, ngunit ang salitang makapait ay nagpapasimula ng apoy sa ilong.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "sagot"
+    },
+    {
+      "surface": "רך",
+      "gloss": "banayad"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "nagpapabalik ng layo"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "init ng galit"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ngunit salita"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "makapait"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nagpapasimula ng apoy sa ilong"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:27.392826171Z",
+  "model": "glm-5.3"
+}

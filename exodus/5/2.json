@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sinabi ni Paroh: Sino si Yahweh na pawanganakin ang tinig niya upang ipadala ko ang ⟨את⟩ Israel? Hindi ko nakikilala si Yahweh, at pati ang ⟨את⟩ Israel ay hindi ko ipapadala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "pawanganakin ang"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "tinig niya"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "upang ipadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakikilala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ko ipapadala"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:53.831441760Z",
+  "model": "glm-5.3"
+}

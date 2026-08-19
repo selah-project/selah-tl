@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang mga salita ng mga marunong ay gaya ng mga pantusok, at gaya ng mga pako na matibay na nakatuha — mula sa mga panginoon ng mga pulong; ibinigay sila ng isang pastol.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ng mga marunong"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "gaya ng mga pantusok"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "at gaya ng mga pako"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "na nakatuha"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mga panginoon"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "ng mga pulong"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ng isang pastol"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:40.371689961Z",
+  "model": "glm-5.3"
+}

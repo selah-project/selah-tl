@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "O Elohim, upang iligtas mo ako; O Yahweh, sa tulong ko, magmadali ka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "upang iligtas mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa tulong ko"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "magmadali ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:25.168326055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sumain ⟨ang⟩ iyong kamay na tumulong sa akin, sapagkat ang iyong mgautos ay pinili ko.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "sumain\/maging"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "na tumulong sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iyong mga-utos"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "pinili ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:37.543710821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Pupurihin kita magpakailanman, sapagkat ikaw ang gumawa nito; at aasamin ko ang iyong pangalan, sapagkat mabuti ito sa harap ng iyong mga tapat.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Pupurihin kita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ikaw ang gumawa"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "at aasamin ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ng iyong mga tapat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:31.306453301Z",
+  "model": "glm-5.3"
+}

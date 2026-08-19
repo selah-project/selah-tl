@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ng isa sa kanyang mga alipin: Hindi, panginoon ko, o hari, kundi si Elisha na propeta na nasa Yisrael ang nagsasabi sa hari ng Yisrael ang ⟨את⟩ mga salitang iyong binibigkas sa silid ng iyong higaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "sa kanyang mga alipin"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panginoon ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "o hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundin"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "na propeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nasa Yisrael"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ang nagsasabi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga salita"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "iyong binibigkas"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "sa silid"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ng iyong higaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:02.493294566Z",
+  "model": "glm-5.3"
+}

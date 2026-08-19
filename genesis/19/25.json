@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "at pinabaligtad niya ang ⟨את⟩ mga lunsod na ito, at ang ⟨את⟩ buong kapatagan, at ang ⟨את⟩ lahat ng nananahanan sa mga lunsod, at ang tinubo ng lupa.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "at pinabaligtad niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lunsod na ito"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga lunsod"
+    },
+    {
+      "surface": "האל",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buong kapatagan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng nananahanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "יושבי הערים",
+      "gloss": "ng nananahanan sa mga lunsod"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "at tinubo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:46.913379630Z",
+  "model": "glm-5.3"
+}

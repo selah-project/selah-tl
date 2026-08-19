@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung talagang mapira ay mapira, dadalhin niya itong ⟨את⟩ patunay; ⟨את⟩ ang napinsala ay hindi niya babayaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mapira"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ay mapira"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "dadalhin niya ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patunay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "patunay"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ang napinsala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "siya babayaran"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:20.320046042Z",
+  "model": "glm-5.3"
+}

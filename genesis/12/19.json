@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Bakit sinabi mong kapatid ko siya na babae, at kinuha ko si ⟨את⟩ kanya bilang asawa? At ngayon, narito, ang asawa mo — kunin mo at umalis.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sinabi mo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kapatid ko na babae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "at kinuha ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "si ⟨את⟩",
+      "marks": "kanya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilang asawa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "asawa mo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "at umalis"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:19.629011399Z",
+  "model": "glm-5.3"
+}

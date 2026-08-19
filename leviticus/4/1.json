@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinalita ni Yahweh kay Moshe, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:16.749799266Z",
+  "model": "glm-5.3"
+}

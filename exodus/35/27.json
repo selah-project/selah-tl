@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At ang mga pinuno ay nagsidala ⟨את⟩ mga bato ng shoham at ⟨את⟩ mga batong pang-iling, para sa ephod at para sa choshen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "at ang mga pinuno"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ay nagsidala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato ng shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato ng"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham (onyx)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga batong pang-iling"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga batong"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pang-iling (para sa setting)"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "para sa ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "at para sa choshen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.172135906Z",
+  "model": "glm-5.3"
+}

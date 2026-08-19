@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat ang anak ay nanlilibak sa ama, ang anak na babae ay bumangon laban sa kaniyang ina, ang manugang babae laban sa kaniyang biyenan — ang mga kaaway ng tao ay mga tao ng kaniyang sariling bahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "ay nanlilibak"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sa ama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak na babae"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ay bumangon"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "laban sa kaniyang ina"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ang manugang babae"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "laban sa kaniyang biyenan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang mga kaaway"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ay mga tao"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ng kaniyang sariling bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:27.398202288Z",
+  "model": "glm-5.3"
+}

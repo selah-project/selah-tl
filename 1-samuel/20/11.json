@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni Yehonatan kay David: Halina, at lumabas tayo sa bukid. At lumabas ang dalawa sa bukid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "halina"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "at lumabas tayo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang dalawa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:24.571966622Z",
+  "model": "glm-5.3"
+}

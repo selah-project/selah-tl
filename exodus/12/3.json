@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Magsalita kayo sa buong kongregasyon ng Yisrael, na sinasabi: Sa ikasampu ng buwang ito, at kukuha ang bawat ⟨את⟩ tao ng tupa ayon sa bahay ng mga ama, isang tupa sa bawat bahay.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "magsalita kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kongregasyon ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "sa ikasampu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at kukuha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanilang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "שה",
+      "gloss": "⟨את⟩ tupa",
+      "marks": "tupa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayon sa bahay"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ng mga ama"
+    },
+    {
+      "surface": "שה",
+      "gloss": "isang tupa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bawat bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:04.133417936Z",
+  "model": "glm-5.3"
+}

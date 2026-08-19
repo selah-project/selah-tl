@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kukuha sila ng mga ibang bato at magdadala sa ilalim ng mga bato, at ibang abo ang kukuhanin at pandikitan ang ⟨את⟩ bahay.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "at kukuha sila"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "mga iba"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "at magdadala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalim \/ katungan"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ng mga bato"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "at abo-mortar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iba"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuhanin"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "at pandikitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:03.671509918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Elohim, mula sa aking pagkabata ay itinuro Mo ako, at hanggang ngayon ay ipahahayag ko ang ⟨mga⟩ kamangha-manghang gawa Mo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "itinuro Mo ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "mula sa aking pagkabata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ipahahayag ko"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang kamangha-manghang gawa Mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:30.015424923Z",
+  "model": "glm-5.3"
+}

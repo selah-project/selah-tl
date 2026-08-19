@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Isang siko ang haba niya, at isang siko ang luwang niya; parisukat ⟨siya⟩; at dalawang siko ang taas niya; mula sa kanya ⟨ang⟩ mga sungay niya.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "isang siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba niya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang luwang niya"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "parisukat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "at dalawang siko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula sa kanya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ang mga sungay niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:03.507187812Z",
+  "model": "glm-5.3"
+}

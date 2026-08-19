@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Si Achitub ang naging ama ni ⟨את⟩ Tsadok, at si Tsadok ang naging ama ni ⟨את⟩ Achimaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "at si Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "at si Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:25.292578497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sino ang lalaking nagkasundong mag-asawa sa isang babae at hindi pa niya ito nakuha? Pumaroon siya at bumalik sa kanyang bahay, baka mamatay siya sa digmaan at ibang lalaki ang kukuha sa kanya.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "nagkasundong mag-asawa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa isang babae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "niya ito nakuha"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pumaroon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa kanyang bahay"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay siya"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at ibang lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iba"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "kukuha sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:14.521969849Z",
+  "model": "glm-5.3"
+}

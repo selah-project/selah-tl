@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At nagpalabas siya ng ⟨את⟩ tinig niya sa pag-iyak, at narinig ng Mitzrayim, at narinig ng bahay ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at nagpalabas siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig niya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "tinig niya"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sa pag-iyak"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "at narinig ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim (mga Ehipsiyo)"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:50.152208487Z",
+  "model": "glm-5.3"
+}

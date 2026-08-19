@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "At ihahanda nila ang ⟨את⟩ tupa, at ang ⟨את⟩ handog na harina, at ang ⟨את⟩ langis, umaga nang umaga — handog na susunugin na palagi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "at ihahanda nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang tupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "handog na harina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang handog na harina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "langis"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ang langis"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nang umaga"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na palagi"
+    }
+  ],
+  "timestamp": "2026-08-19T17:55:36.715799086Z",
+  "model": "glm-5.3"
+}

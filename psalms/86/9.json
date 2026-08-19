@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Lahat ng mga bansang ginawa mo ay paroroon at magpapatirapa sa harapan mo, Adonai, at magnunugan sa iyong pangalan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "paroroon"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "at magpapatirapa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harapan mo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "at magnunugan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa iyong pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:25.849154018Z",
+  "model": "glm-5.3"
+}

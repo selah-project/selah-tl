@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Ang aming mga ama sa Mitzrayim ay hindi tumalastas sa iyong mga kababalaghan, hindi nila naalaala ang ⟨את⟩ kasaganaan ng iyong kagandahang-loob; kaya nanghimagsik sila sa dagat, sa Dagat ng Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "aming mga ama"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "tumalastas"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "iyong mga kababalaghan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "naalaala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaganaan ng iyong kagandahang-loob"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kasaganaan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "kaya nanghimagsik sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa Dagat ng"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:40.890100494Z",
+  "model": "glm-5.3"
+}

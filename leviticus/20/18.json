@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kung may lalaking hihiga ⟨את⟩ kasama ng isang babaeng may regla, at kaniyang hubaran ang ⟨את⟩ kaniyang kahubaran, kaniyang binuksan ang ⟨את⟩ kaniyang bukal, at siya naman ay nagbukas ng ⟨את⟩ bukal ng kaniyang dugo — pareho silang pupugutin mula sa gitna ng kanilang bayan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At kung may lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang babaeng may regla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isang babae"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "may regla"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "at kaniyang hubaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kahubaran"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "kaniyang kahubaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang bukal"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "kaniyang bukal"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "kaniyang binuksan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at siya naman"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "nagbukas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukal ng kaniyang dugo"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "bukal"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ng kaniyang dugo"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "at pupugutan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "silang dalawa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ng kanilang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:36.861367660Z",
+  "model": "glm-5.3"
+}

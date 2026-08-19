@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At dumating ang mga anak ni Yisra'el upang tumubo sa gitna ng ⟨mga⟩ dumarating, sapagkat may taggutom sa lupain ng Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "upang tumubo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ng ⟨mga⟩ dumarating"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "taggutom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:58.797223876Z",
+  "model": "glm-5.3"
+}

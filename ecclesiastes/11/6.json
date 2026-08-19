@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sa umaga maghasik ka ng ⟨את⟩ iyong binhi, at sa gabi huwag ipahinga ang iyong kamay, sapagkat hindi mo alam kung alin ang magtatagumpay, ito o iyon, o kung ang dalawa'y magkakatulad na mabuti.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maghasik ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong binhi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iyong binhi"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "at sa gabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ipahinga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "hindi mo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "alam"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "זה",
+      "gloss": "alin"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "magtatagumpay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itoyon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang dalawa"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "magkakatulad"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "na mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:34.567491922Z",
+  "model": "glm-5.3"
+}

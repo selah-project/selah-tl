@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sa pagpupulong ⟨את⟩ ng kapisanan, maghihip kayo, ngunit hindi kayo magtatarhata.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "at sa pagpupulong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng kapisanan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "maghihip kayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kayo magtatarhata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:09.094721125Z",
+  "model": "glm-5.3"
+}

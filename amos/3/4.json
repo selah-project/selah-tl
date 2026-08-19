@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Magngangawit ba ang leon sa kagubatan, at walang nahuling pagkain? Magbibigay ba ang batang leon ng kanyang tinig mula sa kanyang yungib, kung walang nakuhang anuman?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "magngangawit ba"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ang leon"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sa kagubatan"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "at walang nahuling pagkain"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "magbibigay ba"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ang batang leon"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ng kanyang tinig"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "mula sa kanyang yungib"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nakuhang anuman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:22.136984522Z",
+  "model": "glm-5.3"
+}

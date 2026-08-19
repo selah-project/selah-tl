@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At tumawag sila kay Lot at nagsabi sa kaniya, Nasaan ang mga lalaking pumaroon sa iyo ⟨this⟩ gabi? Ilabas mo sila sa amin, upang makilala natin sila ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "tumawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pumaroon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨this⟩ gabi"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "ilabas mo sila"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "upang makilala natin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:39.655495167Z",
+  "model": "glm-5.3"
+}

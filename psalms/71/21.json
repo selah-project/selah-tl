@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Dadakilain mo ang aking kadakilaan, at iibigin mong muli akong aliwin.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "dadakilain mo"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ang aking kadakilaan"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "at magbabalik-loob kang"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "aking aliwin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:20.624869041Z",
+  "model": "glm-5.3"
+}

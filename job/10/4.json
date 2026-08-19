@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mga mata ng laman ba ang nasa iyo, o tulad ng pagtingin sa taong-mortal ay nakakakita ka rin?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "mga mata ba"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ng laman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "tulad ng pagtingin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sa taong-mortal"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "nakakakita ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:02.881721246Z",
+  "model": "glm-5.3"
+}

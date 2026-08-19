@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At iikot ninyo ang ⟨את⟩ lungsod, kayong lahat ng mga lalaking mandirigma, pag-ikot ng ⟨את⟩ lungsod nang isang beses; ganito ang gagawin mo sa loob ng anim na araw.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "At iikot ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ng mga lalaking"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mandirigma"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "pag-ikot sa paligid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "beses"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:37.840460537Z",
+  "model": "glm-5.3"
+}

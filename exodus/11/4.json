@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ni Moshe: ‘Ganito ang sabi ni Yahweh: Sa kalagitnaan ng gabi, ako ang lalabas sa gitna ng Mitsrayim,’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "amoor",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "sa kalagitnaan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ng gabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ang lalabas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:55.295714399Z",
+  "model": "glm-5.3"
+}

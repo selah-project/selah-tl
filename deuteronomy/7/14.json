@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Papagpalain ka higit sa lahat ng mga bansa; walang magiging baog na lalaki o babae sa iyo, o sa iyong mga hayop.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "papagpalain"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka (magiging)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "baog na lalaki"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "o baog na babae"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "o sa iyong mga hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:52.964877517Z",
+  "model": "glm-5.3"
+}

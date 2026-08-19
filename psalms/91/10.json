@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Hindi sasapit sa iyo ang kasamaan, at hindi lalapit ang salot sa iyong tolda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "sasapit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "at salot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "lalapit"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa iyong tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:45.323425431Z",
+  "model": "glm-5.3"
+}

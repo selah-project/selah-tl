@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At papasukin mo ang ⟨את⟩ mesa, at isaayos mo ang ⟨את⟩ kakaayusan nito; at papasukin mo ang ⟨את⟩ candelabra, at papaganaan mo ang ⟨את⟩ mga ilawan nito.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "papasukin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "isaayos mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakaayusan nito"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "kakaayusan nito"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "papasukin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "candelabra"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "candelabra"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "papaganaan mo \/ patataasin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ilawan nito"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "mga ilawan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:34.841293181Z",
+  "model": "glm-5.3"
+}

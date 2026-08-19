@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Kumuha si Moshe ng ⟨את⟩ kaniyang asawa at ng ⟨את⟩ kaniyang mga anak, at pinasakay niya sila sa asno, at siya'y bumalik patungo sa lupain ng Mitsrayim; kumuha din si Moshe ng ⟨את⟩ tungkod ng Elohim sa kaniyang kamay.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kumuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ng kaniyang asawa"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kaniyang mga anak"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "pinasakay niya sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "asno"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "patungo sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kumuha din"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungkod ng Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kaniyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:09.027796565Z",
+  "model": "glm-5.3"
+}

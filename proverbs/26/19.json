@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "gayon ang taong nanlilinlang sa ⟨את⟩ kanyang kapwa, at nagsasabi: Hindi ba't naghahamon lamang ako?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "nanlilinlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kapwa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanyang kapwa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsasabi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba't"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "naghahamon lamang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:41.447168309Z",
+  "model": "glm-5.3"
+}

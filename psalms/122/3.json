@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Yerushalayim, ⟨ang⟩ itinatayong-bayan, na parang lungsod na pinag-ugnay sa kanyang sarili nang magkakaisa.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "itinatayong-bayan"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "parang lungsod"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "pinag-ugnay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanyang sarili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakaisa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:38.486728505Z",
+  "model": "glm-5.3"
+}

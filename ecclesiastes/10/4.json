@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kung ang diwa ng namumuno ay tumaas laban sa iyo, huwag mong iwan ang iyong katungkulan, sapagkat ang pagpapatahimik ay nagpapahinga ng mga malaking pagkakasala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang diwa"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ng namumuno"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "tumaas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ang iyong katungkulan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "iwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ang panggagamot \/ kalma"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "magpapahinga"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ng mga pagkakasala"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "malalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.798719712Z",
+  "model": "glm-5.3"
+}

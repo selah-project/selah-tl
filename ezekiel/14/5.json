@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Upang mahuli ko ang ⟨את⟩ sambahayan ng Israel sa kanilang sariling puso, na naglayo sa akin sa pamamagitan ng kanilang mga diyus-diyosan — silang lahat.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "mahuli ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sambahayan ng Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa kanilang puso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "naglayo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "sa kanilang mga diyus-diyosan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:43:23.719601179Z",
+  "model": "glm-5.3"
+}

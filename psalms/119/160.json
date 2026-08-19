@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang ulo ng iyong salita ay katotohanan, at magpakailanman ang bawat hatol ng iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ng iyong salita"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ay katotohanan"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "at magpakailanman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ng iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:38.780401638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ginawa ng Elohim ⟨את⟩ mabangis na hayop ng lupa ayon sa kanyang uri, at ⟨את⟩ ang hayop ayon sa kanyang uri, at ⟨את⟩ bawat gumagapang sa lupaing-dulo ayon sa kanyang uri; at nakita ng Elohim na mabuti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "atin ginawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabangis na hayop ng lupa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mabangis na hayop"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ayon sa kanyang uri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang hayop"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang hayop"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ayon sa kanyang uri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "bawat gumagapang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gumagapang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa lupaing-dulo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ayon sa kanyang uri"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "atin nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:13.203835229Z",
+  "model": "glm-5.3"
+}

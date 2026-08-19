@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Datapuwa't kayo na nakadikit kay Yahweh na inyong Elohim, buhay kayong lahat ngayong araw.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "datapuwa't kayo"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "na nakadikit"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:33.060959478Z",
+  "model": "glm-5.3"
+}

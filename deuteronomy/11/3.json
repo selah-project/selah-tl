@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at ⟨ang⟩ kanyang mga tanda at ⟨ang⟩ kanyang mga gawa na ginawa niya sa gitna ng Mitsrayim — kay Paroh na hari ng Mitsrayim at sa kanyang buong lupain",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "kanyang mga tanda",
+      "marks": "kanyang mga tanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kanyang mga gawa",
+      "marks": "kanyang mga gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kay Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at sa buong"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:36.944949454Z",
+  "model": "glm-5.3"
+}

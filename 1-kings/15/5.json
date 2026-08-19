@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Yamang ginawa ni David ang ⟨את⟩ matuwid sa mga mata ni Yahweh, at hindi lumihis sa anumang iniutos sa kanya, sa lahat ng mga araw ng buhay niya — bagamat sa usapin ni Uryah ang Hetita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yamang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matuwid"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa anumang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "iniutos sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ng buhay niya"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bagamat"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa usapin"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uryah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hetita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:26.079902992Z",
+  "model": "glm-5.3"
+}

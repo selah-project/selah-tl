@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Huwag masusumulan sa iyo ang sinumang nagpaparaan sa kaniyang anak na lalaki at anak na babae sa apoy, manghuhula ng kapalaran, tagamasid ng mga palatandaan, manggagamot na may salamangka, at mangkukulam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "masusumulan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "nagpaparaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak na lalaki"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "at anak na babae"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "manghuhula ng kapalaran"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ng mga panghuhula"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "tagamasid ng mga palatandaan"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "manggagamot na may salamangka"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "at mangkukulam"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:08.393679146Z",
+  "model": "glm-5.3"
+}

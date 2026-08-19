@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Ang mga nangangail kay Yahweh ay magkukunwaring tatalikod sa Kanya, at ang kanilang panahon ay ⟨magiging⟩ magpakailanman.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ang mga nangangail"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "magkukunwaring tatalikod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa Kanya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "kanilang panahon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.580206837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At sinabi ni Yaakov: Ipagbili mo ngayon araw na ito ang ⟨את⟩ iyong primogenitura sa akin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Ipagbili mo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ngayon araw na ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong primogenitura"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "iyong primogenitura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:48.236177158Z",
+  "model": "glm-5.3"
+}

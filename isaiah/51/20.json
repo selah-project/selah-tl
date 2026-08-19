@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Ang iyong mga anak ay nanghina, nakahiga sila sa ulo ng lahat ng lansangan, gaya ng antelope sa lambat, napupunan ng poot ni Yahweh, ng saway ng iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Ang iyong mga anak"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "nakahiga sila"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "lansangan"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "gaya ng antelope"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "sa lambat"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "napupunan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "poot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "saway"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ng iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:09:54.985413517Z",
+  "model": "glm-5.3"
+}

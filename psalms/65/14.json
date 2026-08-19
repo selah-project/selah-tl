@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Nagdamit ang mga kawan ng mga tupa, at ang mga lambak ay nababalot ng butil; sila'y sumisigaw, oo, umaawit.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "nagdamit"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mga kawan"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "at mga lambak"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "nababalot"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ng butil"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "sumisigaw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "umaawit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:18.522807158Z",
+  "model": "glm-5.3"
+}

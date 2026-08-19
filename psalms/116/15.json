@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Mahalaga sa mga mata ni Yahweh ang kamatayan ng kanyang mga tapat.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Mahalaga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ang kamatayan"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ng kanyang mga tapat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:57.250181544Z",
+  "model": "glm-5.3"
+}

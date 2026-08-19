@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang tinig ni Yahweh ay bumabali ng mga sedro; oo, pinagbali ni Yahweh ang ⟨את⟩ mga sedro ng Levanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bumabali"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "at pinagbali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sedro ng Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro ng"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:04.580687613Z",
+  "model": "glm-5.3"
+}

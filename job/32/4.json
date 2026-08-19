@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At si Elihu ay naghintay kay ⟨את⟩ Iyov sa mga salita, sapagkat mas matatanda sila kaysa sa kanya sa mga araw.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "At si Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "naghintay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sa mga salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mas matatanda"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa sa kanya"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "sa mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:53:21.465223760Z",
+  "model": "glm-5.3"
+}

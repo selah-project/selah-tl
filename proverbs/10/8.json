@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang matalino sa puso ay tatanggap ng mga utos, ngunit ang hangal na madaldal ay mapapahamak.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ang matalino"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tatanggap"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ng mga utos"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ngunit ang hangal"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "na madaldal"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "mapapahamak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:57.223310120Z",
+  "model": "glm-5.3"
+}

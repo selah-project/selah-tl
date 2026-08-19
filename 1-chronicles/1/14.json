@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "at ⟨את⟩ mga Jebuseo, at ⟨את⟩ mga Amoreo, at ⟨את⟩ mga Girgaseo,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Jebuseo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "mga Jebuseo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Amoreo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "mga Amoreo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Girgaseo"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "mga Girgaseo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:02.962376253Z",
+  "model": "glm-5.3"
+}

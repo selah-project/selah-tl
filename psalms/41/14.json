@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Papuri sa Yahweh, ang Elohim ni Yisrael, mula sa walang hanggan hanggang sa walang hanggan. Amen, at amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Papuri sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "mula sa walang hanggan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ang walang hanggan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "at amen"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:21.498281637Z",
+  "model": "glm-5.3"
+}

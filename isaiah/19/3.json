@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At mabubulid sa pangamba ang diwa ng Mitzrayim sa loob nito, at lulunukin ko ang kaniyang mga balak; at magsisitanong sila sa mga diyus-diyosan, at sa mga sombrero ng mga espiritung dating patay, at sa mga espiritista, at sa mga manghuhula ng mga yumao.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "At mabubulid sa pangamba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang diwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa loob nito"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "at ang kaniyang mga balak"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "lulunukin ko"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "at magsisitanong sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ang mga diyus-diyosan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "ang mga sombrero ng mga espiritung dating patay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ang mga espiritista"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ang mga manghuhula ng mga yumao"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:38.177758329Z",
+  "model": "glm-5.3"
+}

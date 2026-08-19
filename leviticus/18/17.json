@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kahubaran ng isang babae at ng anak na babae niya, huwag mong ilalantad; ⟨את⟩ anak na babae ng anak niyang lalaki at ⟨את⟩ anak na babae ng anak niyang babae, huwag mong kakunin upang ilantad ang kanyang kahubaran; kadugo niya sila; kalaswaan iyon.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isang babae"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "at ng anak na babae niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "moong ilalantad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak na babae ng anak niyang lalaki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ng anak niyang lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "anak na babae ng anak niyang babae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "ng anak niyang babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mong kakunin"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "upang ilantad"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ang kanyang kahubaran"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "kadugo niya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kalaswaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:05.638681457Z",
+  "model": "glm-5.3"
+}

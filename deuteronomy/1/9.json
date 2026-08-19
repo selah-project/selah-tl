@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ko sa inyo noonang panahon, na nagsasabi: Hindi ako makakaya nang mag-isa na dalhin ⟨את⟩ inyo;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "noonang panahon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ako makakaya"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "na dalhin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.962987462Z",
+  "model": "glm-5.3"
+}

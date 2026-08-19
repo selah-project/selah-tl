@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Sa araw na yaon ay magkakaroon ng daang-bakuran mula sa Mitzrayim tungo sa Ashur, at dumarating ang Ashur sa Mitzrayim at ang Mitzrayim sa Ashur, at magsisilbi ang Mitzrayim ⟨את⟩ Ashur na kasama.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "daang-bakuran"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "tungo sa Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "at dumarating"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "at ang Mitzrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "at magsisilbi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:47.919610481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ginawa niya ang ⟨את⟩ ⟨mga⟩ bahay ng mga mataas na dako, at gumawa siya ng mga pari mula sa mga dulo ng bayan, na hindi sila mula sa mga anak ni Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bahay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mga mataas na dako"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa siya"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "mula sa mga dulo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mula sa mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:53.101417073Z",
+  "model": "glm-5.3"
+}

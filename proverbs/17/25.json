@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang lungkot\/ sama ng loob sa ama ang anak na hangal, at ang pait sa nag-anak sa kanya.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "sama ng loob"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa kanyang ama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "at pait"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "sa nag-anak sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:07.578549965Z",
+  "model": "glm-5.3"
+}

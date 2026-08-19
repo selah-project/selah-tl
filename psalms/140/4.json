@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Natalas nila ang ⟨את⟩ kanilang dila na parang ahas; lason ng keruan ay nasa ilalim ng kanilang mga labi. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "natalas nila"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang kanilang dila"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "parang"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ahas"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "lason ng keruan"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "keruan\/ajolote"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nasa ilalim ng"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "kanilang mga labi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:10.151700148Z",
+  "model": "glm-5.3"
+}

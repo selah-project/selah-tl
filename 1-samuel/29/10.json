@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ngayon umaga nang maaga, ikaw at ang mga alipin ng iyong panginoon na dumating ⟨את⟩ kasama mo — kayo'y bumangon nang maaga sa umaga, at kapag may liwanag na, humayo kayo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bumangon nang maaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ang mga alipin"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ng iyong panginoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama mo",
+      "marks": "mga alipin ng iyong panginoon"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "kayo'y bumangon nang maaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "at may liwanag na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "humayo kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:23.740191314Z",
+  "model": "glm-5.3"
+}

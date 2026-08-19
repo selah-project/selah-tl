@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Maliit ⟨ako⟩ at hamak, ngunit ang iyong mga tuntunin ay hindi ko nalimutan.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "at hamak"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ang iyong mga tuntunin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ko nalimutan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:25.433744185Z",
+  "model": "glm-5.3"
+}

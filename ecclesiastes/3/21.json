@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sino ang nakaaalam kung ang ruach ng mga anak ng tao ay umaahon paitaas, at kung ang ruach ng hayop ay bumababa pababa sa lupa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakaaalam"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umaahon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "paitaas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "at ang ruach"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ng hayop"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pababa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:32.570928912Z",
+  "model": "glm-5.3"
+}

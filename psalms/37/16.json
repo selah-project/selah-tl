@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Mas mabuti ang kaunti ng matuwid kaysa kasaganaan ng maraming masasama.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mas mabuti"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ang kaunti"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kaysa kasaganaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "na marami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:27.534284144Z",
+  "model": "glm-5.3"
+}

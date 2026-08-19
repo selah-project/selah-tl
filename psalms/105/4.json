@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Hanapin ninyo si Yahweh at ang kanyang lakas, hanapin ninyo ang kanyang mukha nang walang tigil.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Hanapin ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "at ang kanyang lakas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hanapin ninyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kanyang mukha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang walang tigil"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.851975470Z",
+  "model": "glm-5.3"
+}

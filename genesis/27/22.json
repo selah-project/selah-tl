@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At lumapit si Yaakov kay Yitshak na kanyang ama, at hinipo siya, at sinabi: Ang tinig ⟨ay⟩ tinig ni Yaakov, ngunit ang mga kamay ⟨ay⟩ mga kamay ni Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "At lumapit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kanyang ama"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "at hinipo siya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Ang tinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "ngunit ang mga kamay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mga kamay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:29.201797152Z",
+  "model": "glm-5.3"
+}

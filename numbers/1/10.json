@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa mga anak ni Yosef: kay Efrayim, Elishama na anak ni Amihud; sa Menashe, Gamliel na anak ni Pedah'tsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Sa mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kay Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "sa Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedah'tsur"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:50.511561207Z",
+  "model": "glm-5.3"
+}

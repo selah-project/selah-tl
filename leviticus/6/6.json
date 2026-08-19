@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Apoy na walang hinto ang susunog sa ⟨ang⟩ dambana; hindi ito papatayin.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na walang hinto"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ang susunog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨ang⟩ dambana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ito papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:00.758507483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Nagsalita ang hari na si Achashverosh at sinabi kay Ester ⟨ang⟩ reyna: Sino ⟨siya⟩ — itong ito? At saan ⟨siya⟩ — itong puno ng kanyang pusong gawin ang gayon?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "si Achashverosh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨ang⟩ reyna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itong ito"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "at saan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "puno"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:32.891850202Z",
+  "model": "glm-5.3"
+}

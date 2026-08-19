@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sinabi ng Elohim kay Avraham: Si Saray na asawa mo — huwag mong tatawagin ang ⟨את⟩ kanyang pangalang Saray, sapagkat Sarah ang kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Si Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "na asawa mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "mong tatawagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:58.901175412Z",
+  "model": "glm-5.3"
+}

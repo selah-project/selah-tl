@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagdagdag pa si Yehonatan na panumpain si ⟨את⟩ David dahil sa pag-ibig niya ⟨את⟩ sa kanya, sapagkat sa pag-ibig ng kanyang sariling kaluluwa iniibig niya siya.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "at nagdagdag pa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "na panumpain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "dahil sa pag-ibig niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "si David (niya)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "sa pag-ibig"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ng kanyang kaluluwa"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "iniibig niya siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:30.492296700Z",
+  "model": "glm-5.3"
+}

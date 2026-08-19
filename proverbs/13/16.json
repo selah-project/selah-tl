@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang bawat maingat ay kumikilos may kaalaman; ngunit ang mangmang ay nagbubukang-loob ng katuwiran-⟨walang⟩ kahulugan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "maingat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kumikilos"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "may kaalaman"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ngunit ang mangmang"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "nagbubukang-loob"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ng kamangmangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:59.997666212Z",
+  "model": "glm-5.3"
+}

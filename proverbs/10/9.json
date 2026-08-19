@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang lumalakad nang may katapatan ay maglalakad nang may katiwasayan, ngunit ang nagpapatagilid ng kaniyang mga lakad ay mahahayag.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ang lumalakad"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "nang may katapatan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "maglalakad"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nang may katiwasayan"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ngunit ang nagpapatagilid"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ng kaniyang mga lakad"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahahayag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:59.580291595Z",
+  "model": "glm-5.3"
+}

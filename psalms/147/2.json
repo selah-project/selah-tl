@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Ang nagtatayo ng Yerushalayim ay Yahweh; ⟨siya⟩ nagtitipon ng mga itinaboy ng Yisrael.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Ang nagtayo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ay Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "mga itinaboy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "nagtitipon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:46.092573099Z",
+  "model": "glm-5.3"
+}

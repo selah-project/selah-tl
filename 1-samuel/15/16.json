@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At sinabi ni Shemuël kay Sha'ul: Tumigil ka, at isasaad ko sa iyo ang ⟨את⟩ sinabi ni Yahweh sa akin ngayong gabi. At sinabi nila sa kanya: Magsalita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "tumigil ka"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "at isasaad ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sinabi ni Yahweh sa akin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ngayong gabi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magsalita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:59.389218555Z",
+  "model": "glm-5.3"
+}

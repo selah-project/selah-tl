@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ipapasok mo ang ⟨את⟩ mga payong sa mga singsing sa mga gilid ng ⟨את⟩ kaban, upang bitbitin ⟨⟨את⟩⟩ ang kaban sa pamamagitan nila.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "at ipapasok mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga payong"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga payong"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga gilid ng"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "upang bitbitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaban"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:25.777797982Z",
+  "model": "glm-5.3"
+}

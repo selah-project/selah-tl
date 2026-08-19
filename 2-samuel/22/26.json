@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa matapat, ikaw ay nagpapakita ng tapang; sa matapang na ganap, ikaw ay nagpapakita ng ganap.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "matapat"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ikaw ay nagpapakita ng tapang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "matapang na ganap"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ganap"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ikaw ay nagpapakita ng ganap"
+    }
+  ],
+  "timestamp": "2026-08-19T16:22:36.403492966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ngayon nga, magtrabaho kayo; at dayami ay hindi ibibigay sa inyo, ngunit nakatakdang bilang ng laryo ay ibibigay ninyo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngayon nga"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pumunta kayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "magtrabaho kayo"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "at dayami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "at nakatakdang bilang"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ng laryo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ibibigay ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:26.512545437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Yahweh kay Kayin: Bakit nasindian ka, at bakit bumagsak ang iyong mukha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nasindian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bumagsak"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:40.719087324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At tunay, ang ⟨את⟩ inyong dugo para sa inyong mga buhay ay aking hahanapin; mula sa kamay ng bawat hayop aking hahanapin ito, at mula sa kamay ng tao — mula sa kamay ng tao, sa kaniyang kapatid — aking hahanapin ang ⟨את⟩ buhay ng tao.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "at tunay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong dugo"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "inyong dugo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "para sa inyong mga buhay"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "aking hahanapin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "aking hahanapin ito"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "at mula sa kamay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa kaniyang kapatid"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "aking hahanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhay ng tao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:07.026308597Z",
+  "model": "glm-5.3"
+}

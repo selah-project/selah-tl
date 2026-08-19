@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Sapagkat ang pangingibabaw ng iyong ⟨bahay⟩ ay kumain sa akin, at ang mga tuyang-uyam ng mga umuuyam sa iyo ay nahulog sa akin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang pangingibabaw"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng iyong ⟨bahay⟩"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "ay kumain sa akin"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "at ang mga tuyang-uyam"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ng mga umuuyam sa iyo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ay nahulog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:37.891464935Z",
+  "model": "glm-5.3"
+}

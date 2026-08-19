@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang aliping marunong ay maghahari sa anak na nakapapahiya, at sa gitna ng mga kapatid maghahati siya ng mana.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "alipin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "maghahari"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "na nakapapahiya"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "at sa gitna"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ng mga kapatid"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "maghahati"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ng mana"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:11.362120935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Bumangon ang hari, at pumunit niya ng ⟨את⟩ kaniyang mga damit, at humiga sa lupa, at ang lahat ng kaniyang mga alilang nakatayo ay may punit na mga damit.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "at pumunit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga damit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kaniyang mga damit"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "at humiga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ng kaniyang mga alila"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "may punit"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "na mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:59.574459344Z",
+  "model": "glm-5.3"
+}

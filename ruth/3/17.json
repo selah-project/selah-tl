@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kaniyang sinabi, Ang anim na ← hindi, ito: Anim sukat ng sebada ang mga ito — bigay niya sa akin, sapagkat kaniyang sinabi, Huwag kang lumapit na walang dala sa iyong biyenan. — Tama: At sinabi niya, Anim na sukatan ng sebada ang mga ito ang ibinigay niya sa akin, sapagkat sinabi niya, Huwag kang pumaroon na walang dala ⟨אל⟩ iyong biyenan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mga sukat ng sebada"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaniyang sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "kang pumaroon"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "na walang dala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "iyong biyenan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:12.352961345Z",
+  "model": "glm-5.3"
+}

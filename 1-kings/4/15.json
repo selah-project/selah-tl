@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Achimaats, sa Naftali; siya rin ay nag-asawa ⟨את⟩ kay Basmat na anak ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "sa Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nag-asawa\/nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilang asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:40.040758387Z",
+  "model": "glm-5.3"
+}

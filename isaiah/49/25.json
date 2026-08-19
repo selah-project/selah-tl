@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Sapagkat kaya sinabi ni Yahweh: Kahit ang bihag ng makapangyarihan ay kunin, at ang nasamsam ng mapangahas ay mailigtas; at ang ⟨את⟩ kaaway-mo ay aking paglalabanan, at ang ⟨את⟩ mga anak-mo ay aking ililigtas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "bihag"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kunin"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "at nasamsam"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "mapangahas"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "mailigtas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaaway-mo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "kaaway-mo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "paglalabanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak-mo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "mga anak-mo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ililigtas"
+    }
+  ],
+  "timestamp": "2026-08-19T17:09:09.452109894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Nagsabi sila: \"Kayo'y lumapit, at pawiin natin sila bilang isang bansa, at hindi na maaalala pa ang pangalan ng Israel kailanman.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi sila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kayo'y lumapit"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "at pawiin natin sila"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "bilang isang bansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "maaalala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.844662750Z",
+  "model": "glm-5.3"
+}

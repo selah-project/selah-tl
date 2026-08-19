@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Isang sulat ni Chizkiyahu, hari ng Yehudah, nang siya'y magkasakit at mabuhay muli mula sa kanyang sakit.",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "sulat"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "ni Chizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "nang siya'y magkasakit"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "at mabuhay muli"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "mula sa kanyang sakit"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:22.416371753Z",
+  "model": "glm-5.3"
+}

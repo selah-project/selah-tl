@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At nagpatong siya ⟨את⟩ ng kanyang mga kamay sa kanya at iniutos sa kanya, ayon sa sinalita ni Yahweh sa pamamagitan ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "at nagpatong siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kamay"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ng kanyang mga kamay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "at iniutos sa kanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan (sa kamay) ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:42.549864855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Ang ⟨את⟩ tolda ng tipanan, at ang ⟨את⟩ arka ng patotoo, at ang ⟨את⟩ takip ng pagpapakasala na ⟨nasa⟩ ibabaw nito, at ang ⟨את⟩ lahat ng mga kagamitan ng tolda",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda ng tipanan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "arka ng patotoo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ng patotoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "takip ng pagpapakasala"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takip ng pagpapakasala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nasa ibabaw nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga kagamitan ng tolda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ng tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:54.779337477Z",
+  "model": "glm-5.3"
+}

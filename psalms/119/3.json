@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sila nga'y hindi gumagawa ng ⟨is⟩ kawalang-katuwiran; sa kanyang mga lakad sila lumalakad.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ng kawalang-katuwiran"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa kanyang mga lakad"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "lumalakad sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:25.856239033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Huwag kayong umakyat, sapagkat wala si Yahweh sa gitna ninyo, at baka kayo mangagliyab sa harap ng inyong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "kayong umakyat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sa gitna ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at baka"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "kayo mangagliyab"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:58.115825732Z",
+  "model": "glm-5.3"
+}

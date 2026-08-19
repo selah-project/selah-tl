@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Hinatulan niya ang hatol ng dukha at ng lubos na maralita; nang magkagayon ay mabuti. Hindi ba ito ang pagkilala sa ⟨את⟩ akin? — neum ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "hinatulan niya"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ang hatol"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ng dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at ng lubos na maralita"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ang pagkilala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "akin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:25:16.122343344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kumuhan si Yahweh Elohim kay ⟨את⟩ Adan at hinimlay niya ⟨siya⟩ sa halamanan ng Eden, upang itanim ito at ingatan ito.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adan"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "at hinimlay siya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa halamanan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ng Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "upang itanim ito"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "at ingatan ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:49.218414670Z",
+  "model": "glm-5.3"
+}

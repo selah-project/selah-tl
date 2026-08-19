@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Moshe sa ⟨את⟩ Elohim: Sino ako, na pumunta ako kay Paroh at na ilabas ko ang ⟨את⟩ mga anak ni Yisrael mula sa Mitzrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "pumunta ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at na"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ilabas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:46.631669219Z",
+  "model": "glm-5.3"
+}

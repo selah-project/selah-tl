@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At si Aharon ⟨את⟩ at ang kanyang mga anak na lalaki ⟨את⟩ ay ilalapit mo sa pasukan ng Tolda ng Tipanan, at ipapaligo mo sila ⟨את⟩ sa tubig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ilalapit mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Tipanan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "at ipapaligo mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (Aharon at mga anak)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:28.856553408Z",
+  "model": "glm-5.3"
+}

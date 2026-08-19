@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Sa Elohim, aking pinupuri ang salita; sa Yahweh, aking pinupuri ang salita.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aking pinupuri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aking pinupuri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:07.354290954Z",
+  "model": "glm-5.3"
+}

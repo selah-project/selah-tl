@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At ginabayan niya sila ng ulap sa araw, at buong gabi sa liwanag ng apoy.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "at ginabayan niya sila"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ng ulap"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at buong"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "באור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:29.002183377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Yahweh, Elohim ko, kung ginawá ko itó, kung may kamalian sa aking mga palad —",
+  "tokens": [
+    {
+      "surface": "יהה",
+      "gloss": "",
+      "notes": "ignore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawá ko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "itó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kamalian"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "sa aking mga palad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:30.713295065Z",
+  "model": "glm-5.3"
+}

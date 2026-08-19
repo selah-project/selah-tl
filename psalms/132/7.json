@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Pumarito tayo sa kaniyang mga tahanan, yumukod tayo sa ⟨dambana ng⟩ mga paa niya.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "pumarito tayo"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "sa kaniyang mga tahanan"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "yumukod tayo"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "sa dambana ng paa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "mga paa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:21.371976061Z",
+  "model": "glm-5.3"
+}

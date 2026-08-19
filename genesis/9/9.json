@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ako, narito, ako'y nagtatatag ng aking tipan ⟨את⟩ sa inyo, at ⟨את⟩ sa inyong binhi pagkatapos ninyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "At ako"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "nagtatatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "inyong binhi"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "pagkatapos ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:19.425089090Z",
+  "model": "glm-5.3"
+}

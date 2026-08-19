@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Dumating si Hathakh at ipinahayag kay Ester ang ⟨את⟩ mga salita ni Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "התך",
+      "gloss": "si Hathakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ni Mordekhai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:08.964844753Z",
+  "model": "glm-5.3"
+}

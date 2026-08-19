@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Ito ang mga anak ni Seir ang Horita, mga naninirahan sa lupain: Lotan, at Shobal, at Tsibeon, at Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ni Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ang Horita"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "at Shobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "at Tsibeon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "at Ana"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:54.130762118Z",
+  "model": "glm-5.3"
+}

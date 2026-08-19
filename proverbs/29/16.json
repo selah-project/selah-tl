@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Kapag dumami ang masasama, lumalaganap ang paghihimagsik, ngunit ang matutuwid ay masisiil sa kanilang pagbagsak.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kapag dumami"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang masasama"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "lumalaganap"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ang paghihimagsik"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ngunit ang matutuwid"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "sa kanilang pagbagsak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ay masisiil"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:56.710047275Z",
+  "model": "glm-5.3"
+}

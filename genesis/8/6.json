@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari sa katapusan ng apatnapung araw, binuksan ni Noach ang ⟨את⟩ bintana ng arka na kanyang ginawa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ng apatnapung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "binuksan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintana"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ng arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kanyang ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:18.695188626Z",
+  "model": "glm-5.3"
+}

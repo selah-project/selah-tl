@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Dumating ang mga anak ni Yaakov sa mga napatay, at ninakawan nila ang lungsod — sapagkat dinungisan nila ang kanilang kapatid na babae.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "mga napatay"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "at ninakawan nila"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "dinungisan nila"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ang kanilang kapatid na babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:17.970456699Z",
+  "model": "glm-5.3"
+}

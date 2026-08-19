@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Nang siya ay ⟨isang⟩ bata pa si Yisrael, iniibig ko siya, at mula sa Mitsrayim tinawag ko ang aking anak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nang"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bata pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "iniibig ko siya"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "at mula sa Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tinawag ko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ang aking anak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:08.048286211Z",
+  "model": "glm-5.3"
+}

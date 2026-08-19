@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "at ang ⟨את⟩ ilawan ng taglay na liwanag, at ang ⟨את⟩ mga kagamitan nito, at ang ⟨את⟩ mga ilaw nito, at ang ⟨את⟩ langis ng taglay na liwanag",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "ilawan ng liwanag"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "ilawan ng"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "taglay na liwanag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kagamitan nito"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga ilaw nito"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "mga ilaw nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "langis ng liwanag"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis ng"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "taglay na liwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:37.809923671Z",
+  "model": "glm-5.3"
+}

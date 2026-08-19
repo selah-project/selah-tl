@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Nagpapagaling siya ng ⟨mga⟩ nabali sa puso, at nagbibinting ⟨sa⟩ kanilang mga sugat.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "nagpapagaling"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ng mga nabali"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "at nagbibinting"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "sa kanilang mga sugat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:36.027078032Z",
+  "model": "glm-5.3"
+}

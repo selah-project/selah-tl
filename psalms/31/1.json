@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sa pangunguna ng manguna-nguna, isang mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna ng manguna-nguna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:25.267294026Z",
+  "model": "glm-5.3"
+}

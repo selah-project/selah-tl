@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawin mo ang ⟨את⟩ ⟨the⟩ mesa na gawa sa kahoy ng akasya: dalawang siko ang haba nito, at isang siko ang luwang nito, at isang siko at kalahati ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dalawang siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang luwang nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:30.476916734Z",
+  "model": "glm-5.3"
+}

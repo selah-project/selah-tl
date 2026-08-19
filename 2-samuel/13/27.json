@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ngunit pumilit si Avshalom sa kanya, at ipinadala niyang kasama niya si ⟨את⟩ Amnon at ⟨את⟩ lahat ng mga anak ng hari.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "ngunit pumilit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at ipinadala niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng mga anak ng hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:48.009804517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ito ang mga pangalan ng mga anak na lalaki ni Aharon: ang panganay na si Nadav, at Avihu, Elazar, at Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak na lalaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "si Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "at Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "at Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:06.906847370Z",
+  "model": "glm-5.3"
+}

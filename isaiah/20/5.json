@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sila'y mangangatog at mangangahiya dahil sa Kush na inaasahan nila, at dahil sa Mitsrajim na ipinagmamalaki nila.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "at sila'y mangangatog"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "at mangangahiya"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "dahil sa Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "inaasahan nila"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ipinagmamalaki nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:34.244818982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 23:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At iniutos ng hari kay ⟨את⟩ Hilkiyahu na punong parì, at ⟨את⟩ sa mga parì ng ikalawa, at ⟨את⟩ sa mga bantay ng pintuan, na ilabas mula sa templo ni Yahweh ang ⟨את⟩ lahat ng mga kasangkapan na ginawa para kay Baal at para kay Asherah at para sa buong hukbo ng langit; at sinunog niya ang mga iyon sa labas ng Yerushalayim, sa mga bukid ng Kidron, at dinala ⟨את⟩ ang kanilang abo sa Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Hilkiyahu"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "parì"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "punong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga parì ng ikalawa"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mga parì"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ng ikalawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bantay ng pintuan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "mga bantay"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ng pintuan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "na ilabas"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "mula sa templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga kasangkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "העשוים",
+      "gloss": "na ginawa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "para kay Baal"
+    },
+    {
+      "surface": "ולאשרה",
+      "gloss": "at para kay Asherah"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at para sa buong"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "וישרפם",
+      "gloss": "at sinunog niya ang mga iyon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "בשדמות",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "ng Kidron"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang abo"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "ang kanilang abo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:37.577058260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Nakita ko, at narito, wala nang tao, at ang lahat ng ibon ng ⟨mga⟩ langit ay lumipad na palayo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨ang⟩ tao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng ⟨mga⟩ langit"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "lumipad na palayo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:16:36.211505799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Umupo ka, nagsalita laban sa iyong kapatid, sa anak ng iyong ina ibinigay mo ang kahihiyan.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Umupo ka"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "laban sa iyong kapatid"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ng iyong ina"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ibinigay mo"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ang kahihiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:47.177796374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Kaya't hinango ni Elohim ang ⟨את⟩ kawan ng inyong ama, at ibinigay sa akin.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "hinango"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan ng inyong ama"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ng inyong ama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:07.802336943Z",
+  "model": "glm-5.3"
+}

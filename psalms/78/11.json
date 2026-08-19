@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At kalimutan nila ang Kanyang mga gawa, at ang Kanyang mga kamangha-manghang gawa na ipinakita Niya sa kanila.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "At kalimutan nila"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang Kanyang mga gawa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "at ang Kanyang mga kamangha-manghang gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ipinakita Niya sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:33.221530123Z",
+  "model": "glm-5.3"
+}

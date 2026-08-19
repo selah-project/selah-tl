@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At sinabi ni Elisha sa kanya: Kumuha ka ng busog at mga palaso. At kumuha siya ng ⟨את⟩ busog at mga palaso para sa kanya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Kumuha ka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ng busog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "at mga palaso"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "at mga palaso"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:50.663335315Z",
+  "model": "glm-5.3"
+}

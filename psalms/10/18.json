@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "upang hatulan mo ang ulila at ang inaapi, upang huwag nang magdala pa ng takot ang ⟨mortal⟩ mula sa lupa.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "upang hatulan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ang ulila"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "at ang inaapi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nang hindi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "magdaragdag pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "magdala ng takot"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:32.411947238Z",
+  "model": "glm-5.3"
+}

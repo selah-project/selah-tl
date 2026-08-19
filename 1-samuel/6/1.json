@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nangyari, ang aron ni Yahweh ay nasa katihan ng mga Peleshti pitong buwan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nasa katihan ng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "buwan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:58.430896922Z",
+  "model": "glm-5.3"
+}

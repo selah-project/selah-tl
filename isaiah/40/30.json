@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Mapapagod ang mga binata at mapapaguran, at ang mga batang lalaki ay matutibok nang husto't matutibok.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "mapapagod"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga binata"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "mapapaguran"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "mga batang lalaki"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "matutibok nang husto"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matutibok"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:22.209967924Z",
+  "model": "glm-5.3"
+}

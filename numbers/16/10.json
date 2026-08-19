@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "at inilapit ⟨ang⟩ ikaw, at ⟨את⟩ ang lahat ng iyong mga kapatid na mga anak ni Levi, ⟨את⟩ kasama mo — at hiningin pa ninyo ang pagkapari?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "inilapit sa Kanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng iyong mga kapatid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng iyong mga kapatid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama mo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "at hiningin pa ninyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ang pagkapari"
+    }
+  ],
+  "timestamp": "2026-08-19T15:09:50.405626008Z",
+  "model": "glm-5.3"
+}

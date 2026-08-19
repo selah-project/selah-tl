@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Sapagkat pinagputol-putol niya ang mga pinto ng tanso, at ang mga halang ng bakal ay hiniwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "pinagputol-putol"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mga pinto ng"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "at ang mga halang ng"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "hiniwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.744383074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ni David, noong binago niya ang ⟨את⟩ kanyang asal sa harap ni Avimelekh, at pinalayas siya nito, at umalis siya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "noong binago niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang asal"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ang kanyang asal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "at pinalayas siya nito"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at umalis siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.320005819Z",
+  "model": "glm-5.3"
+}

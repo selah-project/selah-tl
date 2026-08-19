@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nagtaksil ang Moab laban sa Israel pagkatapos ng kamatayan ni Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "nagtaksil"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "laban sa Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:33.319138302Z",
+  "model": "glm-5.3"
+}

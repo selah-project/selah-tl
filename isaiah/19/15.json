@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At walang magiging gawa para sa Ehipto na gagawin ng ulo o buntot, ng palma o tambo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "para sa Ehipto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin ng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "o buntot"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "o tambo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:11.221994769Z",
+  "model": "glm-5.3"
+}

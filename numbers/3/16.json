@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At binalangkas ni Moshe ang ⟨את⟩ mga iyon ayon sa bibig ni Yahweh, kung paanong iniutos.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "at binalangkas niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga Levita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:26.745894546Z",
+  "model": "glm-5.3"
+}

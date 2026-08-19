@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nagluluksa ang mga daan ng Tsiyon, sapagkat walang dumarating sa takdang kapistahan; lahat ng kaniyang mga pintuan ay lubhang nag-iisa, ang kaniyang mga pari ay nagsusumamo, ang kaniyang mga dalaga ay nalulumbay, at siya'y mapait sa kaniya.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga daan ng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "nagluluksa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sapagkat walang"
+    },
+    {
+      "surface": "באי",
+      "gloss": "darating"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa takdang kapistahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "kaniyang mga pintuan"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "lubhang nag-iisa"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "kaniyang mga pari"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "nagsusumamo"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "kaniyang mga dalaga"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "nalulumbay"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:04.832722592Z",
+  "model": "glm-5.3"
+}

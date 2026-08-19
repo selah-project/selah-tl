@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At naghandog ang mga pangulo ng ⟨את⟩ paglalagong handog ng dambana sa araw na ito naharian; at naghandog ang mga pangulo ng ⟨את⟩ kanilang mga handog sa harap ng dambana.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "at naghandog"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paglalagong handog ng dambana"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "paglalagong handog"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng dambana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw na"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "naharian"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang dambana)"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "at naghandog"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga handog"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "kanilang mga handog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:18.490459261Z",
+  "model": "glm-5.3"
+}

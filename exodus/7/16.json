@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sabihin mo sa kanya: Si Yahweh, ang Elohim ng mga Hebreo, ang nagsugo sa akin sa iyo, na nagsasaying: Ipadala mo ang ⟨את⟩ aking bayan upang maglingkod sila sa akin sa ilang; at narito, hindi ka nakinig hanggang ngayon.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ng mga Hebreo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ang nagsugo sa akin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasaying"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ipadala mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking bayan"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "upang maglingkod sila sa akin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka nakinig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngayon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:06.500448977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At umalis ang isang lalaki mula sa bahay ng Levy, at kumuha siya ng ⟨את⟩ isang anak na babae ng Levy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang lalaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ng Levy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang anak na babae ng Levy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ng Levy"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:03.992413750Z",
+  "model": "glm-5.3"
+}

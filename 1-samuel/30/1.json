@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At nangyari, nang dumating si David at ang kaniyang mga lalaki sa Tsiklag sa ikatlong araw, na ang mga Amalekita ay sumalakay sa timugan at sa Tsiklag, at hinampas nila ang ⟨את⟩ Tsiklag at sinunog nila ito sa apoy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "nang dumating"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ang kaniyang mga lalaki"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "sa Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ng ikatlo"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "at ang mga Amalekita"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "sumalakay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timugan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at hinampas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ang Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "at sinunog nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang Tsiklag)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:01.222392652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Ganito ang sabi ni Yahweh, na gumawa nito — si Yahweh na tumibok ⟨את⟩ nito upang itayo ito — Yahweh ⟨ang⟩ kaniyang pangalan:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na gumawa nito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "na tumibok"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang tinibok)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "upang itayo ito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kaniyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:54.463339472Z",
+  "model": "glm-5.3"
+}

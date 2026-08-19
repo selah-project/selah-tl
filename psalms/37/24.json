@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Kapag siya'y nadapa, hindi siya ihahagis nang lubos, sapagkat si Yahweh ang sumasandal sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "nadapa siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ihahagis nang lubos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "sumasandal sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:23.833294219Z",
+  "model": "glm-5.3"
+}

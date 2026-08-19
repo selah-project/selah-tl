@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Nagkatunaw ang mga bundok na parang wax sa harap ni Yahweh, sa harap ng Adonai ng buong ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "na parang wax"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nagkatunaw"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:11.094942718Z",
+  "model": "glm-5.3"
+}

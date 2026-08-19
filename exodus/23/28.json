@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ipadadala ko ang ⟨את⟩ gamugamo na parumiwing sa unahan ninyo, at palalayasin nito ang ⟨את⟩ Hivi, ang ⟨את⟩ Kenaneo, at ang ⟨את⟩ Heteo mula sa harapan ninyo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "at ipadadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gamugamo na parumiwing"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang gamugamo na parumiwing"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa unahan ninyo"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "at palalayasin nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaneo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaneo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Heteo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Heteo"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "mula sa harapan ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:13.499092094Z",
+  "model": "glm-5.3"
+}

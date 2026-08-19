@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Huwag kang matakot sa takot ng gabi, sa palasong lumilipad sa araw,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag\/hindi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matakot ka"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sa takot\/pangamba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ng gabi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "sa palaso"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "lumilipad"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa araw (katamtaman)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.110821682Z",
+  "model": "glm-5.3"
+}

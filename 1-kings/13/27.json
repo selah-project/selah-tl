@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At nagsalita siya sa kanyang mga anak na sinasabi: Damianan ninyo para sa akin ang ⟨את⟩ asno; at dinamitan nila ito.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "damitan ninyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang asno"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ang asno"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "at dinamitan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:58.513074872Z",
+  "model": "glm-5.3"
+}

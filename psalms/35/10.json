@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Lahat ng aking mga buto ay magsasabi: Yahweh, sino ang tulad Mo, nagliligtas sa dukha mula sa mas malakas kaysa kanya, at sa dukha at sa lubos na maralita mula sa nananamit sa kanya?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Lahat"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ng aking mga buto"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ay magsasabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang tulad Mo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nagliligtas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa dukha"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mula sa mas malakas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa kanya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "at sa dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at sa lubos na maralita"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "mula sa nananamit sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:10.601522927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa ikatlong taon ng paghahari ni Yehoyakim, hari ng Yehudah, dumating si Nevukadnetstsar, hari ng Bavel, sa Yerushalayim at humadlang laban dito.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ng paghahari"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "at humadlang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban dito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:23.786202604Z",
+  "model": "glm-5.3"
+}

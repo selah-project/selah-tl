@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sa dalisay na kandelero aayusin niya ang ⟨את⟩ mga ilaw sa harapan ni Yahweh, palagi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "dalisay na kandelero"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "na dalisay"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "aayusin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ilaw"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "mga ilaw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "palagi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:13.333816114Z",
+  "model": "glm-5.3"
+}

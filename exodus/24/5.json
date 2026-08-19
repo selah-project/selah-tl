@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nagpadala siya ng ⟨את⟩ mga batang lalaki ng mga anak ni Yisrael, at nagsiahon sila ng mga handog na susunugin, at naghain sila ng mga hain na mga handog na kapayapaan kay Yahweh — mga batang baka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga batang lalaki ng mga anak ni Yisrael"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mga batang lalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at nagsiahon sila"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mga handog na susunugin"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "at naghain sila"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mga hain"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "mga handog na kapayapaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mga batang baka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:02.135472367Z",
+  "model": "glm-5.3"
+}

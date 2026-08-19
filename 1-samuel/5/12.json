@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang mga lalaking hindi namatay ay sinaktan ng mga tumor; at umakyat ang sigaw ng lungsod hanggang ⟨sa⟩ langit.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "At ang mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ay sinaktan"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ng mga tumor"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ang sigaw"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanggang sa langit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:58.537807443Z",
+  "model": "glm-5.3"
+}

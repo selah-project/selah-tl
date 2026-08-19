@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At binasbasan ni Yahweh ang ⟨את⟩ huling bahagi ni Iyov higit sa kaniyang simula; at naging kaniya ang labing-apat na libong tupa, at anim na libong kamelyo, at isang libong pares ng baka, at isang libong babaing asno.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binasbasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huling bahagi ni Iyov"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "huling bahagi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "higit sa kaniyang simula"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kamelyo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "at isang libo"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pares"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "at isang libo"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "babaing asno"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:21.586722722Z",
+  "model": "glm-5.3"
+}

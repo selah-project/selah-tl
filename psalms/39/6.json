@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Narito, mga dangal ng palad ang ginawa mong mga araw ko, at ang ⟨את⟩ buhay-panandali ko ay parang wala sa harap mo; tunay na ang kabuuan ng tao ay hangin-lamang, ang bawat tao ay nakatayong ganito. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "mga dangal ng palad"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ginawa mo \/ binigyan mo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw ko"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "at ang buhay-panandali ko"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "parang wala"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang kabuuan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hangin-lamang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:34.157517048Z",
+  "model": "glm-5.3"
+}

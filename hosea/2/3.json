@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sabihin ninyo sa inyong mga kapatid na lalaki, 'Ammi,' at sa inyong mga kapatid na babae, 'Ruchamah.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sabihin ninyo"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "sa inyong mga kapatid na lalaki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "at sa inyong mga kapatid na babae"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamah"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:50.592958859Z",
+  "model": "glm-5.3"
+}

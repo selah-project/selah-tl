@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sa mga hina ng ⟨ang⟩ kawan, hindi niya inilagay; at naging ⟨kay⟩ Lavan ang mga hina, at ang mga nakatali kay Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "at sa mga hina"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng kawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "niya inilagay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ang mga hina"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kay Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "at ang mga nakatali"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:57.282655499Z",
+  "model": "glm-5.3"
+}

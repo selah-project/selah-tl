@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ikaw, magtatala ka para sa iyo ng hukbong katulad ng hukbong nawala mula ⟨את⟩ sa iyo, kabayo katulad ng kabayo, at karwahe katulad ng karwahe, at makikipaglaban kami sa kanila sa kapatagan; kung hindi ba tayo magiging mas malakas kaysa kanila? At pinakinggan niya ang kanilang tinig at ginawa niya ang gayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "magtatala ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "katulad ng hukbo"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "na nawala"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "mula ⟨את⟩ sa iyo",
+      "marks": "sa iyo"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "at kabayo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "katulad ng kabayo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "at karwahe"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "katulad ng karwahe"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "at makikipaglaban kami"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "sa kanila"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "magiging mas malakas"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaysa kanila"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at pinakinggan niya"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ang kanilang tinig"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:56.502981456Z",
+  "model": "glm-5.3"
+}

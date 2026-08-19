@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Siya na gumawa sa ⟨את⟩ mundo na parang ilang, at ⟨את⟩ mga bayan nito ay winasak; ang mga bilanggo niya ay hindi niya pinatnubayang makalaya sa bahay?",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "gumawa (naglagay)"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mundo"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "parang ilang"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "at mga bayan nito"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "mga bilanggo niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "binuksan \/ pinalaya"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:25.398129358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At kaniyang sinabi: Ito ang Kasamaan. At itinapon niya siya ⟨את⟩ sa gitna ng eipa, at itinapon niya ⟨את⟩ ang bato ng tinga sa bibig nito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ang Kasamaan"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "at itinapon niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang babae)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gitna"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ng eipa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "at itinapon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bato ng tinga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ng tinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "bibig nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:41.456105012Z",
+  "model": "glm-5.3"
+}

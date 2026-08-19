@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At nagtipon si Moshe sa ⟨את⟩ buong kapisanan ng mga anak ni Yisra'el, at sinabi niya sa kanila: Ito ang mga salita na iniutos ni Yahweh na gawin ⟨ang mga ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong kapisanan ng mga anak ni Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:16.583974260Z",
+  "model": "glm-5.3"
+}

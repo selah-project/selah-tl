@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Yahweh: Dahil iniwan nila ang ⟨את⟩ aking torot na inilagay ko sa harapan nila, at hindi nakinig sa aking tinig ni lumakad man dito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "iniwan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking torot"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "aking torot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inilagay ko"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa harapan nila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sa aking tinig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:35.582528805Z",
+  "model": "glm-5.3"
+}

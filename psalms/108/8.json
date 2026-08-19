@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Nagsalita si Elohim sa Kanyang kabanalan; magsasaya ako, hahatiin ko ang Shekhem, at ang libis ng Sukkot ay susukatin ko.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa Kanyang kabanalan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "magsasaya ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "hahatiin ko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "at ang libis ng"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "susukatin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:40.599496275Z",
+  "model": "glm-5.3"
+}

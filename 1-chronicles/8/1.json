@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At si Binyamin ay nagkaanak kay ⟨את⟩ Bela, ang panganay niya; si Ashbel ang pangalawa, at si Acharach ang pangatlo.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "At si Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang panganay niya"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "at si Acharach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang pangatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:46.385915648Z",
+  "model": "glm-5.3"
+}

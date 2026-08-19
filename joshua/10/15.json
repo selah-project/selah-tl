@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At nagbalik si Yehoshua at buong Yisrael na kasama niya sa kampo, sa Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at nagbalik"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na kasama niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sa Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:41.652315531Z",
+  "model": "glm-5.3"
+}

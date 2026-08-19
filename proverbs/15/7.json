@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang mga labi ng marurunong ay nagkakalat ng kaalaman, ngunit ang puso ng mga mangmang ay hindi ganoon.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ang mga labi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ng marurunong"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "nagkakalat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ng kaalaman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ngunit ang puso"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ng mga mangmang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:33.006966137Z",
+  "model": "glm-5.3"
+}

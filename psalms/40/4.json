@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At inilagay Niyá sa aking bibig ang isáng bagong awit, papuri sa ating Elohim; makikita itó ng marami at mangangamba, at magtitiwala kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay Niyá"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa aking bibig"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papuri"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "sa ating Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ng marami"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "at mangangamba"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "at magtitiwala"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:48.686823447Z",
+  "model": "glm-5.3"
+}

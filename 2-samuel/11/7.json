@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At dumating si Uriah sa kaniya, at tinanong ni David ang kalagayan ni Joab, at ang kalagayan ng ⟨ang⟩ bayan, at ang kalagayan ng ⟨ang⟩ digmaan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "at tinanong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ang kalagayan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Joab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "at ang kalagayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng ⟨ang⟩ bayan"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "at ang kalagayan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ng ⟨ang⟩ digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:36.457464035Z",
+  "model": "glm-5.3"
+}

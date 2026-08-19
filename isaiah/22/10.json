@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ⟨ang⟩ mga bahay ng Yerushalayim ay binilang ninyo, at giniba ninyo ang mga bahay upang palakasin ang pader.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ⟨ang⟩",
+      "marks": "mga bahay ng Yerushalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "binilang ninyo"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "at giniba ninyo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ang mga bahay"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "upang palakasin"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ang pader"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:45.916169368Z",
+  "model": "glm-5.3"
+}

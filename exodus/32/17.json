@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At narinig ni Yehoshua ang ⟨את⟩ tinig ng bayan sa pagsigaw nito, at sinabi niya kay Moshe: Tinig ng digmaan sa kampo!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa pagsigaw nito"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ng digmaan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:11.632542234Z",
+  "model": "glm-5.3"
+}

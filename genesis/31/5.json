@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At sinabi niya sa kanila: Nakikita ko ang ⟨את⟩ Mukha ng inyong ama, na hindi na ito sa akin gaya ng kailanman; ngunit ang Elohim ng aking ama ay naging kasama ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "להן",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakikita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukha ng inyong ama"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Mukha"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ng inyong ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "gayā ng kailanman"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "noong nakaraan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ngunit ang Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ng aking ama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kasama ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:24.633504731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang ⟨את⟩ Chilen at ang ⟨את⟩ mga bakuran nito, ang ⟨את⟩ Devir at ang ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Chilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:41.814344166Z",
+  "model": "glm-5.3"
+}

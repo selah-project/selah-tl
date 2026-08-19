@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 128,
+  "translation": "Ang iyong asawa ay ⟨ay⟩ parang mabungang ubas sa gilid ng iyong bahay; ang iyong mga anak na parang mga supang ng olibo sa palibot ng iyong hapag.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Ang iyong asawa"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "parang ubas"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "mabunga"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong bahay"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang iyong mga anak"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "parang mga supang"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ng olibo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ng iyong hapag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:34.487510302Z",
+  "model": "glm-5.3"
+}

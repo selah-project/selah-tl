@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Sapagkat doon umaangat ang mga lipi, ang mga lipi ni Yah, isang patotoo para sa Israel, upang magpasalamat sa pangalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "sapagkat doon"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umaangat"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mga lipi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga lipi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Israel"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "upang magpasalamat"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:38.486897556Z",
+  "model": "glm-5.3"
+}

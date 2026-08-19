@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ulan ay nasa ibabaw ng lupa nang apat na pung araw at apat na pung gabi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat na pung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "at apat na pung"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:21.642105498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Miktam ni David. Ingatan mo ako, El, sapagkat sa iyo ako nagkanlong.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ingatan mo ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nagkanlong ako"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:17.434224876Z",
+  "model": "glm-5.3"
+}

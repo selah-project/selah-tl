@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At ipapasok ⟨את⟩-ang mga pingga nito sa mga singsing; at ang mga pingga ay nasa magkabilang gilid ng altar, sa pagbubuhat dito.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "at ipapasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pingga nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang mga pingga nito"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga pingga"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "magkabilang"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "sa pagbubuhat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nito",
+      "marks": "nito (ang altar)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:15.529554116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Ang kapangyarihan ng kanyang mga gawa ay ipinahayag niya sa kanyang bayan, sa pagbibigay sa kanila ng pamana ng mga bansa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ang kapangyarihan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ng kanyang mga gawa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa kanyang bayan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa pagbibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "pamana"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:32.022252284Z",
+  "model": "glm-5.3"
+}

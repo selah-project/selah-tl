@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At sinabi niya: Ipakita sa akin, isang kahilingan, ang ⟨את⟩ iyong kaluwalhatian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ipakita sa akin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "isang kahilingan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kaluwalhatian"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "iyong kaluwalhatian"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:49.347758358Z",
+  "model": "glm-5.3"
+}

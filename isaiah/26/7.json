@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang daan ng matuwid ay katuwiran; ikaw, O Matuwid, inaayos mo ang landas ng matuwid.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "daan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "O Matuwid"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "landas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "inaayos (mo)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:53.942223390Z",
+  "model": "glm-5.3"
+}

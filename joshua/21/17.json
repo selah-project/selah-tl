@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At mula sa lipi ni Binjamin: ⟨את⟩ Gibon at ⟨את⟩ mga bakuran nito, ⟨את⟩ Geba at ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "at mula sa lipi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:19.576637388Z",
+  "model": "glm-5.3"
+}

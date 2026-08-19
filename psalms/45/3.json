@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Ikaw ang pinakamaganda sa mga anak ni Adam; hinugisan ng biyaya ang iyong mga labi; kaya't hinirang ka ng Elohim magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "ikaw ang pinakamaganda"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "hinugisan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ng biyaya"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "sa iyong mga labi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't sa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dahil dito"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "hinirang ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.666114909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Gaano kadami ang mga gawa mo, Yahweh! Sa karunungan ginawa mo ang lahat ng mga ito; napuno ng mga pag-aari mo ang lupa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "kadami"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang mga gawa mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ang lahat ng mga ito"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ng mga pag-aari mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:21.570619941Z",
+  "model": "glm-5.3"
+}

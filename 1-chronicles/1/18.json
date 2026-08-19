@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ipinanganak ni Arpachshad ang ⟨את⟩ Shelach, at si Shelach ay nag-ipanganak ng ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "At si Arpachshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nag-ipanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "si Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "at si Shelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nag-ipanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "si Ever"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:27.160341010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "At nagsasabi sila: Paano ba nakakaalam si El, at may ba karunungan sa Elyon?",
+  "tokens": [
+    {
+      "surface": "ו�אמרו",
+      "gloss": "at nagsasabi sila"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "paano ba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "at may"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "sa Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:53.995222933Z",
+  "model": "glm-5.3"
+}

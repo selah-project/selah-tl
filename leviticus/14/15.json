@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kukuha ang kohen mula sa log ng langis, at ibubuhos ⟨ito⟩ sa palad ng kaliwang kamay ng kohen.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "At kukuha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "mula sa log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "at ibubuhos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "kaliwa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:57.236009884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At tumawid sila sa ⟨את⟩ Yarden, at humantong sa Aroer, sa kanang bahagi ng ⟨the⟩ lungsod na nasa gitna ng anak ng Gad, at hanggang sa Yaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "tumawid sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "humantong"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "sa Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanang bahagi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nasa gitna"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ng anak"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:18.505061534Z",
+  "model": "glm-5.3"
+}

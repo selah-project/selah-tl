@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At gumawa siya ng dalawang kerubin na ginto; hinamis na gawa ang ⟨את⟩ mga ito, sa dalawang dulo ng kaporan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na ginto"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinamis na gawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito (ang mga kerubin)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa dalawang"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ng kaporan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:29.933424740Z",
+  "model": "glm-5.3"
+}

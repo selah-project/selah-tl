@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At lumaki ang lalaki, at nagpatuloy siyang lumakad na lumalaki at lumalaki, hanggang sa lumaking-laki siya nang lubos.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "at lumaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at nagpatuloy siyang lumakad"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "na lumalakad"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "at lumalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "lumaking-laki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:45.951104095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At pinaalis niya ang ⟨את⟩ gulong ng kanilang mga karwahe, at pinatnubay sila nang mabigat; at sinabi ng mga Egipcio: Magtatakas tayo mula sa harapan ng Israel, sapagkat si Yahweh ay nakikipaglaban para sa kanila laban sa mga Egipcio.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "at pinaalis niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulong"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "gulong"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "ng kanilang mga karwahe"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "at pinatnubay sila"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "nang mabigat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang mga Egipcio"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "magtatakas tayo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "laban sa mga Egipcio"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:45.964324987Z",
+  "model": "glm-5.3"
+}

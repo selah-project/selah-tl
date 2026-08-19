@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang ⟨את⟩ Chesbon at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Yaazer at ang ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Chesbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:01.006035951Z",
+  "model": "glm-5.3"
+}

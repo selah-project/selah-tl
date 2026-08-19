@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "At nakita niya na ang pahingahan ay mabuti, at ang ⟨את⟩ lupa na kaaya-aya, at yumuko ang kanyang balikat na magbuhat, at naging alipin sa tributo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "At nakita niya"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pahingahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "kaaya-aya"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "at yumuko"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ang kanyang balikat"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "na magbuhat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "למס",
+      "gloss": "sa tributo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:11.733096814Z",
+  "model": "glm-5.3"
+}

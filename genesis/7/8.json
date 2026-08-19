@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Mula sa ⟨mga⟩ hayop na malinis, at mula sa ⟨mga⟩ hayop na hindi malinis, at mula sa ⟨mga⟩ ibon, at bawat gumagalaw sa ibabaw ng lupa.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Mula sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gumagalaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:13.613976125Z",
+  "model": "glm-5.3"
+}

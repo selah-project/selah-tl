@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Sa gitna ng mga tinamaan ng tabak sila manganganod; sa tabak ⟨siya⟩ ibinigay — hilahin ninyo ⟨את⟩ siya at ang kanyang buong karamihan.",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "Sa gitna ng"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "mga tinamaan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "sila manganganod"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "⟨siya⟩ ibinigay"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "hilahin ninyo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang Ehipto)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "kanyang karamihan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:49:32.247762008Z",
+  "model": "glm-5.3"
+}

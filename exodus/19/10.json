@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sinabi ni Yahweh kay Moshe: Pumunta ka sa bayan at santohin mo sila ngayon at bukas, at manghugasi sila ng ⟨את⟩ kanilang mga damit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "at santohin mo sila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "at bukas"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "at manghugasi sila"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "kanilang mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:08.954474885Z",
+  "model": "glm-5.3"
+}

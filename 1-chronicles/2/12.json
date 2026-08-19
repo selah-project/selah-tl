@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Boaz ay naging ama ni ⟨את⟩ Oved, at si Oved ay naging ama ni ⟨את⟩ Yishai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "At si Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "at si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishai"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:50.394222658Z",
+  "model": "glm-5.3"
+}

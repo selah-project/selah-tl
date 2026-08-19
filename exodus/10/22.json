@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At iniunat ni Moshe ang ⟨את⟩ kanyang kamay sa ⟨ibabaw ng⟩ mga langit, at naging kadiliman — mabalanging kadiliman — sa buong lupain ng Mitzrayim sa loob ng tatlong araw.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ⟨ibabaw ng⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "mabalanging kadiliman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:33.808070041Z",
+  "model": "glm-5.3"
+}

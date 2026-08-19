@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Gayon ang katuwiran ay patungo sa buhay; ngunit ang umuusig ng kasamaan ay patungo sa kanyang sariling kamatayan.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Gayon"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "patungo sa buhay"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ngunit ang umuusig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "patungo sa kanyang kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:30.755437833Z",
+  "model": "glm-5.3"
+}

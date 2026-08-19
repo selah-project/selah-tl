@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At paroroon ka sa mga koheng, ang mga Levita, at sa hukom na magiging ⟨siya⟩ sa mga araw na yaon, at magtatanong ka, at ipahahayag nila sa iyo ang ⟨את⟩ pasya ng hatol.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "at paroroon ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga koheng"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging ⟨siya⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "at magtatanong ka"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "at ipahahayag nila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasya ng hatol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pasya"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ng hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:49.204743530Z",
+  "model": "glm-5.3"
+}

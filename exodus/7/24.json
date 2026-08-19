@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At naghukay ang lahat ng mga Egipcio sa paligid ng ilog ng tubig na mainom, sapagkat hindi sila nakayanan uminom mula sa tubig ng ilog.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "At naghukay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga Egipcio"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "sa paligid ng"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "na mainom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila nakayanan"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "uminom"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "mula sa tubig ng"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ilog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:11.714362662Z",
+  "model": "glm-5.3"
+}

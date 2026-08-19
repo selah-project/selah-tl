@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang unang bunga ng iyong butil, ng iyong bagong alak, at ng iyong langis, at ang unang balahibo ng iyong kawan ay ibibigay mo sa kanya.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ang unang bunga ng"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "iyong butil"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "iyong bagong alak"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "at iyong langis"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "at ang unang"
+    },
+    {
+      "surface": "גז",
+      "gloss": "balahibo\/paggugat"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ng iyong kawan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ibibigay mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:56.556937210Z",
+  "model": "glm-5.3"
+}

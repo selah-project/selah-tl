@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Sa likod at sa harap mo ako pinaliligiran, at inilalagay mo sa akin ang iyong palad.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "at sa harap"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "mo ako pinaliligiran"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "at inilalagay mo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ang iyong palad"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:14.002302970Z",
+  "model": "glm-5.3"
+}

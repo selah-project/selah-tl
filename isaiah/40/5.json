@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At mailalantad ang kaluwalhatian ni Yahweh, at makikita ito ng lahat ng laman nang magkakasama, sapagkat ang bibig ni Yahweh ang ⟨nag⟩salita.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "at mailalantad"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "at makikita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakasama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:40.463325017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At dumampot si Achiya sa bagong balabal na nasa kanya, at pinunit niya ito — labindalawang piraso.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "At dumampot"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "si Achiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "sa balabal"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "ang bago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nasa kanya"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "at pinunit niya ito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-pung (sa labi)"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "piraso"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:32.443621185Z",
+  "model": "glm-5.3"
+}

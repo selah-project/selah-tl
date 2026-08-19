@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sumama ito sa mata ni Elohim dahil sa bagay na ito, at sinaktan niya ang ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "at sumama"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:27.308057071Z",
+  "model": "glm-5.3"
+}

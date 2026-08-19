@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At iniutos ni Yahweh Elohim kay Adan, na nagsasabi: Mula sa bawat puno ng halamanan, kumain ka nga ng kumain.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa bawat"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puno"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ng halamanan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ng kumain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:49.218840017Z",
+  "model": "glm-5.3"
+}

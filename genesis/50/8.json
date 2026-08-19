@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At ang buong bahay ni Yosef, at ang kanyang mga kapatid, at ang bahay ng kanyang ama; ngunit ang kanilang mga bata at ang kanilang mga kawan at mga baka ay iniwan nila sa lupain ng Goshen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "at ang kanyang mga kapatid"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ang kanilang mga bata"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "at ang kanilang mga kawan"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "at mga baka nila"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ay iniwan nila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:27.606269587Z",
+  "model": "glm-5.3"
+}

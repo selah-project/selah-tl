@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ibinigay sa kanila ang ⟨את⟩ mga lungsod ng pagtakas: ang ⟨את⟩ Shekhem at ang ⟨את⟩ mga bakuran nito sa bundok ng Efrayim, at ang ⟨את⟩ Gezer at ang ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga lungsod ng pagtakas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ng pagtakas"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ng Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:21.613310714Z",
+  "model": "glm-5.3"
+}

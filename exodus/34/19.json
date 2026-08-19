@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ang lahat ng pumuputak sa sinapupunan ay ⟨ay⟩ akin, at ang lahat ng mga hayop mo na lalaki, ang pumuputak ng baka at tupa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "pumuputak (unang ipinanganak)"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "sa sinapupunan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "mga hayop mo"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "na lalaki"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ang pumuputak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "at tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:32.654605858Z",
+  "model": "glm-5.3"
+}

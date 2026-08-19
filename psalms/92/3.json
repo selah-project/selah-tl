@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Sa ipahayag sa umaga ang iyong kagandahang-loob, at ang iyong tapang-kalooban sa mga gabi.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sa ipahayag"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong kagandahang-loob"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "at ang iyong tapang-kalooban"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:48.463576390Z",
+  "model": "glm-5.3"
+}

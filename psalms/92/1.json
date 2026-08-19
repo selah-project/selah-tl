@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Isang mizmór, isang awit, para sa araw ng ⟨ang⟩ Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para sa araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng ⟨ang⟩ Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:45.221580515Z",
+  "model": "glm-5.3"
+}

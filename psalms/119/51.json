@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Minsdihan ako ng mga palalo nang labis, ngunit hindi ako lumihis sa iyong Torah.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "mga palalo"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "minsdihan ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "sa iyong Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ako lumihis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:45.030807698Z",
+  "model": "glm-5.3"
+}

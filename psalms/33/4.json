@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Sapagkat tuwid ang salita ni Yahweh, at ang buong gawa niya ay ⟨ay⟩ nasa katapatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "gawa niya"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "nasa katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.173191032Z",
+  "model": "glm-5.3"
+}

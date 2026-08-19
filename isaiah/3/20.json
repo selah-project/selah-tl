@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "ang mga pambansot-ulo, at ang mga tanikala ng bukong, at ang mga sinturon, at ang mga lalagyan ng pabango, at ang mga anting-anting;",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "mga pambansot-ulo \/ headdress"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "mga tanikala ng bukong (pangsulong-hakbang)"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "mga sinturon \/ tali"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "mga lalagyan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ng pabango (literal: ng nefesh)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "mga anting-anting"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:24.214210090Z",
+  "model": "glm-5.3"
+}

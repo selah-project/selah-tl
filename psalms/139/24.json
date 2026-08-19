@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "at tingnan mo kung may daan ng kapinsalaan sa akin, at akayin mo ako sa daang walang hanggan.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at tingnan mo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ng kapinsalaan\/idolo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "at akayin mo ako"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.365841037Z",
+  "model": "glm-5.3"
+}

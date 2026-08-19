@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 24:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Mag-ingat ka sa sugat ng ketong, ingatan nang lubos at gawin ang lahat ng ituturo sa inyo ⟨את⟩ ng mga pari na mga Levita; kung paano ko sila utusan, gayon ninyo iingatan na gawin.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "mag-ingat ka"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "sa sugat"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ng ketong"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "at gawin"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "ituturo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "ang ituturo ng mga pari"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ng mga pari"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "na mga Levita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paano"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ko sila utusan"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ninyo iingatan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:20.672924444Z",
+  "model": "glm-5.3"
+}

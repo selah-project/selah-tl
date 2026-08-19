@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 133,
+  "translation": "Tulad ng langis na mabuti sa ulo, na bumabagsak sa barba, barba ni Aharon, na bumabagsak sa bibig ng kanyang mga damit.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "tulad ng langis"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "na mabuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bumabagsak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "barba"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "barba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "na bumabagsak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "ng kanyang mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:30.874505761Z",
+  "model": "glm-5.3"
+}

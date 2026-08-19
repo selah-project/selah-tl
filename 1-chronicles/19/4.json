@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Kaya't dinakip ni Hanun ang ⟨את⟩ mga alipin ni David, at ginupitan sila ng buhok, at pinutol ang ⟨את⟩ kanilang mga damit sa gitna, hanggang sa balakang, at pinalayas sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kaya't dinakip"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ni Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga alipin ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga alipin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "at ginupitan sila ng buhok"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "at pinutol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang mga damit"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ang kanilang mga damit"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "balakang"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "at pinalayas sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:58.240877732Z",
+  "model": "glm-5.3"
+}

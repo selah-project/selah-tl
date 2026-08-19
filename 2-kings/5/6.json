@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At idinala ang liham sa hari ng Yisrael, na nagsasabi: At ngayon, sa pagdating nitong liham na ito sa iyo, narito, ipinadala ko sa iyo si ⟨את⟩ Naaman, aking alila, at iyong gagamutin siya sa kaniyang ketong.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at idinala"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang liham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "sa pagdating"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang liham"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ipinadala ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking alila"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "at iyong gagamutin siya"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "sa kaniyang ketong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:39.861603736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Maging maikli ang mga araw niya; ang katungkulan niya ay kunin ng iba.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang mga araw niya"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "maikli"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ang katungkulan niya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kunin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ng iba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:50.807073800Z",
+  "model": "glm-5.3"
+}

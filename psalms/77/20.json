@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Sa dagat ang iyong lakad, at ang iyong mga landas sa maraming tubig; ngunit ang iyong mga yapak ay hindi nakilala.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang iyong lakad"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "at ang iyong mga landas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa maraming tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ang iyong mga yapak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "nakilala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:59.210415423Z",
+  "model": "glm-5.3"
+}

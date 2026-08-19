@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Pinalitan niya ang ⟨את⟩ kanilang mga tubig ng dugo, at pinatay ang ⟨את⟩ kanilang mga isda.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "pinalitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga tubig"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "kanilang mga tubig"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at pinatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga isda"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "kanilang mga isda"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:45.702688950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Pinagpala ang sasalakay at babaliin ⟨את⟩ mga sanggol mo sa bato.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "sasalakay"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "babaliin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sanggol mo"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "mga sanggol mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:47.529445324Z",
+  "model": "glm-5.3"
+}

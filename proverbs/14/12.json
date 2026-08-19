@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "May daang tuwid sa harap ng tao, ngunit ang wakas nito ay mga daan ng kamatayan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ngunit ang wakas nito"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mga daan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:37.921649562Z",
+  "model": "glm-5.3"
+}

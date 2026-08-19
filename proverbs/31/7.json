@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Uminom siya at makalimutan ang kanyang karalitaan, at ang kanyang kapaitan ay hindi na maalala pa.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "uminom"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "at makalimutan"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "kanyang karalitaan"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "at kanyang kapaitan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "maaalala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:56.285823047Z",
+  "model": "glm-5.3"
+}

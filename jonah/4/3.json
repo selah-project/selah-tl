@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ngayo'y, Yahweh, kunin mo nga ang ⟨את⟩ aking nefesh mula sa akin, sapagkat mabuti ang aking kamatayan kaysa aking buhay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayo'y"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking nefesh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mula sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ang aking kamatayan"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kaysa aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:10.102460665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At binigyan niya sila ng kanilang hiling, ngunit nagpadala ng pangangayayat sa kanilang ⟨is⟩ kaluluwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "binigyan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ng kanilang hiling"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ng pangangayayat"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "sa kanilang kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:16.381367530Z",
+  "model": "glm-5.3"
+}

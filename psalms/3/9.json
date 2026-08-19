@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kay Yahweh ang kaligtasan; sumaiyo ang iyong pagpapala sa iyong bayan. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ang kaligtasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa (ibabaw ng)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "iyong pagpapala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:37.243165999Z",
+  "model": "glm-5.3"
+}

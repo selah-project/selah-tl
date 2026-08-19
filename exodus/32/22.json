@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At sinabi ni Aharon: Huwag sumiklab ang poot ng aking panginoon; ⟨ikaw⟩ mismo ang nakakakilala ⟨את⟩ sa bayan, na masama ang kalagayan nila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "sumiklab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang poot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ng aking panginoon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakakakilala ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:46.828690069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ipinanganak ni Avraham si ⟨את⟩ Yitshak; ang mga anak ni Yitshak: Esav at Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "at Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:14.189977881Z",
+  "model": "glm-5.3"
+}

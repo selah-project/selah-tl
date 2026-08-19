@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Pinapala ang lalaking nagtakda kay Yahweh na ⟨ang⟩ kanyang pagtitiwala, at hindi tumingin sa mga palalo, sa mga umiwas sa kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinapala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagtakda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "kanyang pagtitiwala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "tumingin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "mga palalo"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "sa mga umiwas"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sa kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:13.708382210Z",
+  "model": "glm-5.3"
+}

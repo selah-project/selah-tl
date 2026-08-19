@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At gagawin mo sa ibabaw ng choshen dalawang singsing na ginto, at ilalagay mo ang ⟨את⟩ dalawang singsing sa dalawang dulo ng choshen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang singsing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "(ang) mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ng choshen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:52.718546044Z",
+  "model": "glm-5.3"
+}

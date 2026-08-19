@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sumakay siya sa isang kerub at lumipad; oo, lumipad siya sa mga pakpak ng hangin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "at sumakay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "at lumipad"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "lumipad nang mabilis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pakpak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:39.232271513Z",
+  "model": "glm-5.3"
+}

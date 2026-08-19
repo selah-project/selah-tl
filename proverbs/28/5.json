@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang mga taong masama ay hindi nakauunawa ng hatol, ngunit ang mga naghahanap kay Yahweh ay nauunawaan ang lahat.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "mga taong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "ngunit ang mga naghahanap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nauunawaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:15.911720617Z",
+  "model": "glm-5.3"
+}

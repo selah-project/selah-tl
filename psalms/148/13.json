@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "Ipupuri nila ang ⟨את⟩ pangalan ni Yahweh, sapagkat nakalulong ⟨ang⟩ kanyang pangalang nag-iisa; ang kanyang kaluwalhatian ay mataas ⟨sa⟩ lupa at sa mga langit.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ipupuri nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "nakalulong"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nag-iisa"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "kanyang kaluwalhatian"
+    },
+    {
+      "surface": "על",
+      "gloss": "mataas sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "at sa mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:25.255064083Z",
+  "model": "glm-5.3"
+}

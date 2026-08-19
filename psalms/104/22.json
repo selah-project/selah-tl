@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Sumisikat ang araw, sila'y ⟨nangangalap⟩, at sa kanilang mga lungga nakadapa sila.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "sumisikat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "⟨nangangalap⟩ sila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "kanilang mga lungga"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "nakadapa sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:21.570385924Z",
+  "model": "glm-5.3"
+}

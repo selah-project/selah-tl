@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sapagkat hindi niya ⟨alám⟩ ang mangyayari; sapagkat kung kailan ito mangyayari, sino ang magpapahayag sa kanya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi niya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨alám⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung kailan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ang magpapahayag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:02.783435419Z",
+  "model": "glm-5.3"
+}

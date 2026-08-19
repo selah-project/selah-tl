@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sa mga ito ay walang ⟨is⟩ lalaking naiwan mula sa mga binilang ni Moshe at ni Aaron na kohen, na bumilang ng ⟨את⟩ mga anak ni Yisrael sa ilang ng Sinai.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "At sa mga ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨naging⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "mula sa mga binilang ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at ni Aaron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "bumilang sila ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang ng"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:43.902081249Z",
+  "model": "glm-5.3"
+}

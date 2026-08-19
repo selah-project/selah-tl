@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Itinaas si Yahweh, sapagkat nakatira ⟨siya⟩ sa kaitaasan; pinunuin niya ang Tsiyon ng hatol at ng katuwiran.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "itinaas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nakatira"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kaitaasan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pinunuin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng hatol"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "at ng katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:24.372871536Z",
+  "model": "glm-5.3"
+}

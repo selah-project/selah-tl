@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ang materyal ay sapat na para sa lahat ng gawain upang gawin ⟨את⟩ ito, at may natira pa.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "at ang materyal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "דים",
+      "gloss": "sapat na"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa lahat ng"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang gawain)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "at may natira pa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:44.574852038Z",
+  "model": "glm-5.3"
+}

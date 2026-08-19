@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At mula sa lipi ni Gad: ang ⟨את⟩ Ramoth sa Gilead at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Machanayim at ang ⟨את⟩ mga bakuran nito.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "at mula sa lipi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Machanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:01.005813003Z",
+  "model": "glm-5.3"
+}

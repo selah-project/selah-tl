@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sapagkat natapos na sa kalungkutan ang aking buhay, at ang aking mga taon sa paghingasing-lungkot; natisod dahil sa aking kasalanan ang aking lakas, at ang aking mga buto ay nanghina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "natapos na"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "sa kalungkutan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "at ang aking mga taon"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "sa paghingasing-lungkot"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "natisod"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "dahil sa aking kasalanan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "at ang aking mga buto"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "nanghina"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:42.767792438Z",
+  "model": "glm-5.3"
+}

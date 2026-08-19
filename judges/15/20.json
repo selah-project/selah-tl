@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At hinatulan niya ang ⟨את⟩ Israel sa mga araw ng mga Peleshti, dalawampung taon.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "at hinatulan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:54:08.319313613Z",
+  "model": "glm-5.3"
+}

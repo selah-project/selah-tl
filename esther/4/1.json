@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nalaman ni Mordekai ang ⟨את⟩ lahat ng nangyari, at pinunit ni Mordekai ang ⟨את⟩ kanyang mga damit, at nagdamit siya ng sako at abo, at lumabas siya sa gitna ng lungsod at sumigaw ng malakas na hiyaw at mapait",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "At si Mordekai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nalaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "laha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng nangyari"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "at pinunit"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga dami"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kanyang mga damit"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "at nagdamit"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "at abo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "at sumigaw"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "hiyaw"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "at mapait"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:54.612690327Z",
+  "model": "glm-5.3"
+}

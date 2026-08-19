@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "ga doon, papatnubay sa akin ang iyong kamay, at hahawakan ako ng iyong kanang kamay.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "papatnubay sa akin"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "at hahawakan ako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ng iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.806521443Z",
+  "model": "glm-5.3"
+}

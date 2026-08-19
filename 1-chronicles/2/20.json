@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Chur ay nagkaanak ng ⟨את⟩ Uri, at si Uri ay nagkaanak ng ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "At si Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "at si Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:39.433783358Z",
+  "model": "glm-5.3"
+}

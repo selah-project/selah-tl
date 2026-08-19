@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ang kanyang mga paa ay bumababa sa ⟨ang⟩ kamatayan; sa Sheol umaakay ang kanyang mga hakbang.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "ang kanyang mga paa"
+    },
+    {
+      "surface": "יורדות",
+      "gloss": "bumababa sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "ang kanyang mga hakbang"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "umaakay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:52.122523540Z",
+  "model": "glm-5.3"
+}

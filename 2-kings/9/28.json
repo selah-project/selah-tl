@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At isinakay siya ng kaniyang mga alila papuntang Yerushalayim, at inilibing siya sa kaniyang libingan, kasama ng kaniyang mga ama, sa lunsod ni David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "at isinakay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Achazyahu)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ng kaniyang mga alila"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "papuntang Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (sa kaniyang libingan)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sa kaniyang libingan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kaniyang mga ama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lunsod ng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:20.085364078Z",
+  "model": "glm-5.3"
+}

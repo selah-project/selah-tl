@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "sa salot na lumalakad sa kadiliman, sa kapahamakan na sumisira sa tanghali.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "sa salot"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "sa kapahamakan\/pagkasira"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "sumisira\/sumasalakay"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "sa tanghali"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.111071931Z",
+  "model": "glm-5.3"
+}

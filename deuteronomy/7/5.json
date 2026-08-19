@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Kundi gayon ang gagawin ninyo sa kanila: ang kanilang mga altaran ay gibain ninyo, at ang kanilang mga haliging-tanda ay basagin ninyo, at ang kanilang mga Asherah ay putulin ninyo, at ang kanilang mga inanyuan ay sunugin ninyo sa apoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gagawin ninyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "kanilang mga altaran"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "gibain ninyo"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "at kanilang mga haliging-tanda"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "basagin ninyo"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "at kanilang mga Asherah"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "putulin ninyo"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "at kanilang mga inanyuan"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "sunugin ninyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:52.274134331Z",
+  "model": "glm-5.3"
+}

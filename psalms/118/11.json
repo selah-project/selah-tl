@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Umikot sila sa paligid ko, oo, umikot ulit sa paligid ko; sa pangalan ni Yahweh ⟨ay⟩ puputulin ko sila.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "umikot sila sa paligid ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo, ulit"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "umikot sa paligid ko"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ay⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "puputulin ko sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.872682087Z",
+  "model": "glm-5.3"
+}

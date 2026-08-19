@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At minana nila ang ⟨את⟩ kaniyang lupain at ang ⟨את⟩ lupain ni Og na hari ng Bashan — ang dalawang hari ng Emori na nasa kabilang panig ng Yarden, sa dakong sikatan ng araw.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "At minana nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang lupain"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "kaniyang lupain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ng Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang dalawang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nasa kabilang panig"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ng Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sa dakong sikatan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ng araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:25.858541056Z",
+  "model": "glm-5.3"
+}

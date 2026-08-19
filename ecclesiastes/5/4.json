@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Mas mabuti ang hindi ka magtatalaga kaysa magtatalaga ka at hindi mo tuparin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mas mabuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ka magtatalaga"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kaysa magtatalaga ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mo tuparin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:56.593398647Z",
+  "model": "glm-5.3"
+}

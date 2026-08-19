@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ipadala mo ang iyong tinapay sa ibabaw ng surface ng tubig, sapagkat sa pagdami ng mga araw ay matatagpuan mo ito.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ipadala mo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ang iyong tinapay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "surface ng"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ tubig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa pagdami ng"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨the⟩ mga araw"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ay matatagpuan mo ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:17.425990482Z",
+  "model": "glm-5.3"
+}

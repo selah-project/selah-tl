@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Sa ibabaw nila naninirahan ang mga ibon ng langit; mula sa pagitan ng mga sanga nagbibigay sila ng tinig.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw nila"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mula sa pagitan ng"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "mga sanga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nagbibigay sila"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ng tinig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:42.533350347Z",
+  "model": "glm-5.3"
+}

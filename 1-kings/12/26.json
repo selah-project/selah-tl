@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinabi ni Yarovam sa kanyang puso: Ngayon ay babalik ang kaharian sa bayan ni David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kanyang puso"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang kaharian"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:25.353660301Z",
+  "model": "glm-5.3"
+}

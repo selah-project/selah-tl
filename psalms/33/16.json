@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Walang hari na naililigtas sa karamihan ng hukbo; ang makapangyarihan ay hindi maililigtas sa karamihan ng lakas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "naililigtas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa karamihan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ng hukbo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ang makapangyarihan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "maililigtas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa karamihan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ng lakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.926649193Z",
+  "model": "glm-5.3"
+}

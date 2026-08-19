@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang magnanakaw ng isang tao at nagtindag sa kanya, at natagpuan sa kanyang kamay, tiyak na papatayin sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "at ang magnanakaw ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "at nagtindag sa kanya"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "at natagpuan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamataayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tiyak na papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:07.323539325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Dakila si Yahweh at lubhang karapat-dapat purulin, at ⟨ang⟩ kanyang kadakilaan ay walang paghahapit.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "at karapat-dapat purulin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubha"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "at ang kanyang kadakilaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "paghahapit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:31.356432217Z",
+  "model": "glm-5.3"
+}

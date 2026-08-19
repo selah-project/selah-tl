@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 67,
+  "translation": "Kaawaan tayo ni Elohim at pagpalain; pasinan niya ng liwanag ⟨את⟩ amin ang kanyang mukha. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kaawaan tayo"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "at pagpalain tayo"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "pasinan ng liwanag"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kanyang mukha"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ amin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:34.556529353Z",
+  "model": "glm-5.3"
+}

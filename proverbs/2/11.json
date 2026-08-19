@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang pag-iisip na maingat ay magbabantay sa iyo, ang unawa ay mag-iingat sa iyo.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "pag-iisip na maingat"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "magbabantay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "unawa"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "mag-iingat sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:07.601553883Z",
+  "model": "glm-5.3"
+}

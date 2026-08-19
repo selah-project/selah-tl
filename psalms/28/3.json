@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Huwag mo akong hilahin kasama ng mga masasama, at kasama ng mga gumagawa ng kasamaan, na nagsasalita ng kapayapaan sa kanilang mga kapwa, ngunit kasamaan ay nasa kanilang puso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "mo akong hilahin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama ng"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga gumagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "na nagsasalita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng kapayapaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "kanilang mga kapwa"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ngunit kasamaan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa kanilang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:16.838502212Z",
+  "model": "glm-5.3"
+}

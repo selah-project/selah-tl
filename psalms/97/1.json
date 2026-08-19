@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Naghari si Yahweh; magsaya ang ⟨ang⟩ lupa; magalak ang maraming isla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "magsaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "איים",
+      "gloss": "isle"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:09.296359321Z",
+  "model": "glm-5.3"
+}

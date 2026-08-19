@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sasagot sila at magsasabi: Hindi binuhos ng aming mga kamay ang ⟨את⟩ dugong ito, at hindi nakita ng aming mga mata.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "At sasagot"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "at magsasabi"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ng aming mga kamay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "binuhos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugong ito"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "at ng aming mga mata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:47.244569585Z",
+  "model": "glm-5.3"
+}

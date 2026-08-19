@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Sapagkat makikita niyang ang mga pantas ay namamatay; kapuwa ng hangal at mangmang ay mapapahamak, at iiwan sa iba ang kanilang yaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mga pantas"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "namamatay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kapuwa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "at mangmang"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mapapahamak"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "at iiwan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "sa iba"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kanilang yaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.445607046Z",
+  "model": "glm-5.3"
+}

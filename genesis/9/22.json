@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nakita ni Cham, ama ni Kenaan, ang ⟨את⟩ kahubaran ng kanyang ama, at isinalaysay niya sa dalawang kapatid niya sa labas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahubaran"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "at isinalaysay"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "sa dalawang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kapatid niya"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa labas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:27.444257345Z",
+  "model": "glm-5.3"
+}

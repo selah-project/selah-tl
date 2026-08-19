@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Kaya itinaas niya ang kanyang kamay laban sa kanila, upang patumbahin sila ⟨את⟩ sa ilang.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "at itinaas niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "upang patumbahin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:07.643700449Z",
+  "model": "glm-5.3"
+}

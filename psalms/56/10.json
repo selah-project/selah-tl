@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Nang magtawag ako, magbabalik paatras ang aking mga kaaway; ito'y alam ko, na ang Elohim ay ⟨ay⟩ para sa akin.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa oras na iyon"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "magbabalik"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang aking mga kaaway"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paatras"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magtawag ako"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "alam ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:07.354181781Z",
+  "model": "glm-5.3"
+}

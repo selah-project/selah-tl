@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Sa ⟨mga⟩ palad nila ay dadalhin ka nila, baka matigil ang iyong paa sa bato.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "dadalhin ka nila"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "matigil"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "iyong paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:45.323733493Z",
+  "model": "glm-5.3"
+}

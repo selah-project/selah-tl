@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Sapagkat busog na busog sa mga kasamaan ang ⟨kaluluwa⟩ ko, at ang buhay ko ay dumating na sa Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "busog na busog"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "sa mga kasamaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨kaluluwa⟩ ko"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "at ang buhay ko"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ay dumating na"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:05.711792128Z",
+  "model": "glm-5.3"
+}

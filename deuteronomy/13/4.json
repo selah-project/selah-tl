@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "huwag kayong makikinig sa mga salita ng propetang iyon o sa nanaginip ng ⟨את⟩ panaginip na iyon, sapagkat sinusubok sa inyo ni Yahweh na ⟨את⟩ inyong Elohim upang malaman kung inyong minamahal si Yahweh na ⟨את⟩ inyong Elohim nang buong puso ninyo at nang buong kaluluwa ninyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kayong makikinig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ng propeta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "nanaginip"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ng panaginip"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "sinusubok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "upang malaman"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "inyong minamahal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "puso ninyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at nang buong"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "kaluluwa ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:41.729888229Z",
+  "model": "glm-5.3"
+}

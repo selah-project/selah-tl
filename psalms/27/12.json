@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Huwag mo akong ibigay sa loob ng aking mgaumpera, sapagkat bumangon laban sa akin ang mga testigo ng kasinungalingan, at humihinga ng karahasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "mo akong ibigay"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa loob \/ sa kalooban"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ng aking mga umpera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mga testigo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "at humihinga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ng karahasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:47.617998255Z",
+  "model": "glm-5.3"
+}

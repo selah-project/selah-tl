@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "At aking sinabi: Sino ang magbibigay sa akin ng pakpak na ⟨tulad ng⟩ kalapati? Lilipad ako at magpapahinga.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "At aking sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "pakpak"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "⟨tulad ng⟩ kalapati"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Lilipad ako"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "at magpapahinga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:59.883406777Z",
+  "model": "glm-5.3"
+}

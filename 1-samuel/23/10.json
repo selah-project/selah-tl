@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sinabi ni David: Yahweh, Elohim ng Israel, ang iyong alipin ay tunay na nakarinig na si Saul ay naghahangad na pumasok sa Keila upang wasakin ang lungsod dahil sa akin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tunay na nakarinig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakarinig"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong alipin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Saul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "upang wasakin"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "dahil sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:31.720284242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Apat na pung taon ako nagalit sa lahing iyon, at aking sinabi: Bayang naliligaw ang puso — sila!, at sila'y hindi nakakilala sa aking mga lakad.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "apat na pung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ako nagalit"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa lahing iyon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at aking sinabi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "naliligaw"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila!"
+    },
+    {
+      "surface": "והם",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "sa aking mga lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:01.727336058Z",
+  "model": "glm-5.3"
+}

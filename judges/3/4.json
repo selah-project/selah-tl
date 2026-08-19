@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sila ay naiwan upang subukan sa pamamagitan ng mga ito si ⟨את⟩ Yisrael, upang maalaman kung makinig sila sa ⟨את⟩ mga utos ni Yahweh na iniutos niya sa ⟨את⟩ kanilang mga ninuno sa pamamagitan ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "At sila ay naging"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "upang subukan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa pamamagitan ng mga ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "upang maalaman"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "kung makinig sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga utos ni Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga ninuno"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "kanilang mga ninuno"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:57.445964729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At nangusap si Shaul kay Yonatan na anak niya, at sa lahat ng kanyang mga lingkod, upang patayin si ⟨את⟩ David; ngunit si Yonatan, anak ni Shaul, lubos na nalulugod kay David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nangusap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ng kanyang mga lingkod"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "upang patayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ngunit si Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalulugod"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:18.446764383Z",
+  "model": "glm-5.3"
+}

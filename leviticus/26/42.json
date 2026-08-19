@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At aalalahanin ko ang ⟨את⟩ aking tipan kay Yaakov, at pati ang ⟨את⟩ aking tipan kay Yitshak, at pati ang ⟨את⟩ aking tipan kay Avraham ay aalalahanin ko, at ang lupa ay aalalahanin ko.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "at aalalahanin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan kay Yaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan kay Yitshak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kay Yitshak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan kay Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "aalalahanin ko"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "at ang lupa"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "aalalahanin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:20.448184914Z",
+  "model": "glm-5.3"
+}

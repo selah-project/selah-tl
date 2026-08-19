@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At pumasok ⟨siya⟩ ng ⟨את⟩ mga pingga sa mga singsing sa mga gilid ng kaban, upang bitbitin ang ⟨את⟩ kaban.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pingga"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga pingga"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga gilid"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ng kaban"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "upang bitbitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:29.932968571Z",
+  "model": "glm-5.3"
+}

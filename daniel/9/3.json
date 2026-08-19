@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At itinuro ko ang ⟨את⟩ aking mukha kay Adonai, ⟨ang⟩ Elohim, upang humingi ng panalangin at mga pamamanhikan, na may pag-aayuno, guni-guni at abo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "At itinuro ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang aking mukha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "upang humingi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "at mga pamamanhikan"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "na may pag-aayuno"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "at guni-guni"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "at abo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:09:37.620439963Z",
+  "model": "glm-5.3"
+}

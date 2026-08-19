@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Sa pangunguna, may kaakibat na instrumentong may kuwerdas; isang mizmór ni Asaf, isang awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "may kaakibat na instrumentong may kuwerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:17.626472181Z",
+  "model": "glm-5.3"
+}

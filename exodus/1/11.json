@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kaya naglagay sila ng mga tagapangasiwa ng pinilit na paggawa sa ibabaw nila upang pahirapan sila sa mga pasanin nila; at itinayo nila ang mga lunsod-imbakan ni Paraoh, ang ⟨את⟩ Pitom at ang ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "naglagay sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nila"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga tagapangasiwa"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "ng pinilit na paggawa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "pahirapan sila"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "sa mga pasanin nila"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at itinayo nila"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lunsod"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "-imbakan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ni Paraoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:31.998653656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ang ⟨את⟩ panig ng timog ay sinukat niya: limang daang kawayo, ayon sa kawayo ng pagsukat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panig ng timog"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "panig"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ng timog"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "sinukat"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kawayo"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ayon sa kawayo"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ng pagsukat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:13.534624797Z",
+  "model": "glm-5.3"
+}

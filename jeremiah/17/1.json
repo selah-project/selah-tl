@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang kasalanan ni Yehuda ay nakasulat na may panulat na bakal, may tuli ng samir, inukit sa ⟨loob⟩ ng kanilang puso at sa mga sungay ng inyong mga dambana.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "kasalanan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "na may panulat"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "may tuli"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "samir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "inukit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "loob"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ng kanilang puso"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "at sa mga sungay"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ng inyong mga dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T17:21:51.899566579Z",
+  "model": "glm-5.3"
+}

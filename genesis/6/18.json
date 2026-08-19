@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At itatayo ko ang ⟨את⟩ aking tipan ⟨את⟩ sa iyo; at papasok ka sa ⟨the⟩ arko — ikaw, at ang iyong mga anak, at ang iyong asawa, at ang mga asawa ng iyong mga anak ⟨את⟩ na kasama mo.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "At itatayo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyo"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "at papasok ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ang arko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "at ang iyong mga anak"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "at ang iyong asawa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "at ang mga asawa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ng iyong mga anak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na kasama mo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:21.199165093Z",
+  "model": "glm-5.3"
+}

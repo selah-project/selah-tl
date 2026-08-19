@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At kung ang isang tao ay magbigay ng pinsala sa kanyang kapwa, kung ano ang ginawa niya, ganoon din ang gagawin sa kanya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang isang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbigay"
+    },
+    {
+      "surface": "מום",
+      "gloss": "pinsala"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "sa kanyang kapwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung ano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon din"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:08.753333774Z",
+  "model": "glm-5.3"
+}

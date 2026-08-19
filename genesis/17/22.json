@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At natapos na magsalita ⟨את⟩ sa kanya, at umahon si Elohim mula kay Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "at natapos"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "Avraham (sa kanya)"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at umahon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:20.541280092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 60:18",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Hindi na maririnig pa ang karahasan sa iyong lupain, pagwasak at kapinsalaan sa iyong mga hangganan; at tatawagin mo ang kaligtasan na mga pader mo, at ang mga pintuan mo'y papuri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "maririnig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karahasan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa iyong lupain"
+    },
+    {
+      "surface": "שד",
+      "gloss": "pagwasak"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "at kapinsalaan"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "sa iyong mga hangganan"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "at tatawagin mo"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "mga pader mo"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "at mga pintuan mo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T17:12:29.816369480Z",
+  "model": "glm-5.3"
+}

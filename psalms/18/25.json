@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nagbalik si Yahweh sa akin ayon sa aking katuwiran, ayon sa kalinisan ng aking mga kamay sa harap ng kanyang mga mata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "At nagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ayon sa aking katuwiran"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ayon sa kalinisan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng aking mga kamay"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kanyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:54.930862500Z",
+  "model": "glm-5.3"
+}

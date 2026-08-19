@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang babaing may biyaya ay nakakamit ng karangalan, at ang mga marahas ay nakakamit ng yaman.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "babaing"
+    },
+    {
+      "surface": "חן",
+      "gloss": "may biyaya"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "nakakamit ng"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "at mga marahas"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "nakakamit ng"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "yaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:33.838251638Z",
+  "model": "glm-5.3"
+}

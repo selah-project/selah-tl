@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ang ⟨את⟩ aking tipan ay itatatag ko kay ⟨את⟩ Yitshak, na ipanganganak sa iyo ni Sara sa takdang panahong ito, sa susunod na taon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "aking tipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "itatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ipanganganak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sa takdang panahon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "susunod"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:20.541040021Z",
+  "model": "glm-5.3"
+}

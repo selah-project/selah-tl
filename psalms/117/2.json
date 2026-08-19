@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 117,
+  "translation": "Sapagkat nanaig sa atin ang kanyang malaking kabaitan, at ang katapatan ni Yahweh ay ⟨may⟩ panatili magpakailanman; magpuri kayo kay Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nanaig \/ napakalaki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kabaitan"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "at ang katapatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "magpuri kayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:52.074903553Z",
+  "model": "glm-5.3"
+}

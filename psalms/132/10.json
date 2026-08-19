@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Dahil kay David, lingkod mo, huwag mong iwan ang mukha ng iyong Mashíaj.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lingkod mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ibabalik\/iiwan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang mukha ng"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "iyong Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:25.029526591Z",
+  "model": "glm-5.3"
+}

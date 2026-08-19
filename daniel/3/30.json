@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Nang magkagayon, pinalaking-muli ng hari si Shadrach, Meshach at Abed-Nego sa lalawigan ng Babilonia.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "pinalaking-muli"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "si Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "at Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "sa lalawigan ng"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonia"
+    }
+  ],
+  "timestamp": "2026-08-19T19:07:12.212572260Z",
+  "model": "glm-5.3"
+}

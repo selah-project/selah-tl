@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang mga ito ay mga anak ni Shem, ayon sa kanilang mga angkan, ayon sa kanilang mga wika, sa kanilang mga lupain, ayon sa kanilang mga bansa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ang mga ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ayon sa kanilang mga wika"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa kanilang mga lupain"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ayon sa kanilang mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:46.222865513Z",
+  "model": "glm-5.3"
+}

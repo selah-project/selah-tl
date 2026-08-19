@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At inilagay niya ang ⟨את⟩ mga aliping babae at ⟨את⟩ mga anak nila sa unahan, at ang ⟨את⟩ Lea at mga anak niya sa hulihan, at ang ⟨את⟩ Rachel at ang ⟨את⟩ Yosef sa hulihan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga aliping babae"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ang mga aliping babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak nila"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "mga anak nila"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "sa unahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "at mga anak niya"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa hulihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa hulihan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:07.319908461Z",
+  "model": "glm-5.3"
+}

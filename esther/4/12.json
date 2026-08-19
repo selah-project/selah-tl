@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipinahayag nila kay Mordecai ang ⟨את⟩ mga salita ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "at ipinahayag nila"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ni Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:41.276442207Z",
+  "model": "glm-5.3"
+}

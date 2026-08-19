@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At inilagay nila ito ⟨את⟩ hanggang sa umaga, gaya ng iniutos ni Moshe; at hindi ito nangamoy, at uod ay walang naging sa loob nito.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang man)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "nangamoy"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "at uod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa loob nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:09.034124868Z",
+  "model": "glm-5.3"
+}

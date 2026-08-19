@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Elohim ng mga hukbo, ibalik mo kami, at pasiningin ang iyong mukha, at maliligtas kami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ibalik mo kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "at pasiningin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "at maliligtas kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.143328637Z",
+  "model": "glm-5.3"
+}

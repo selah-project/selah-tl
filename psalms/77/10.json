@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Kalimutan baga ng El ang maging mapagmarahil? Kung sakaling nagsara sa galit ang kanyang mga awa? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "kalimutan baga"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ang maging mapagmarahil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung sakali"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "nagsara"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa galit"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ang kanyang mga awa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:50.129419213Z",
+  "model": "glm-5.3"
+}

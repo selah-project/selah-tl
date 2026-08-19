@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Siya ang nagtayo ng ⟨את⟩ Eilot at ibinalik ⟨את⟩ ito sa Yehudah, nang matulog na ang hari na kasama ng kaniyang mga ninuno.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang nagtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "at ibinalik"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nang"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "matulog na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kaniyang mga ninuno"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:13.116729535Z",
+  "model": "glm-5.3"
+}

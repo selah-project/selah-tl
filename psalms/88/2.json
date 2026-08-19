@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim ng kaligtasan ko — sa araw sumigaw ako, sa gabi, sa harap Mo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kaligtasan ko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "sumigaw ako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa harap Mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:05.711514084Z",
+  "model": "glm-5.3"
+}

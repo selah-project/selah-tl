@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Naging ⟨ kami ay⟩ kahihiyan sa mga kapitbahay namin, tuyâ at kutyâ sa mga nakapaligid sa amin.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "naging kami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa mga kapitbahay namin"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "tuyâ"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "at kutyâ"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "sa mga nakapaligid sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:45.591953946Z",
+  "model": "glm-5.3"
+}

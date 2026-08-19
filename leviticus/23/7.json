@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa unang araw ay magiging banal na pagtitipon ⟨ito⟩ para sa inyo; anumang gawa ng paglilingkod ay huwag ninyong gawin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "pagtitipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ng paglilingkod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyong gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:44.948600955Z",
+  "model": "glm-5.3"
+}

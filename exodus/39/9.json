@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Apat na sulok ⟨ang⟩anyo nito; dobleng ginawa nila ang ⟨את⟩ Choshen: isang dangkal ang haba nito at isang dangkal ang luwang nito, dobleng-todo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "apat na sulok"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ang⟩anyo nito"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dobleng"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Choshen (susog-suso)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang Choshen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "isang dangkal"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "at isang dangkal"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang luwang nito"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "doblong-todo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:20.043283712Z",
+  "model": "glm-5.3"
+}

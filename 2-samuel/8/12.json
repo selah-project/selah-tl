@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Mula sa Aram, at mula sa Moav, at mula sa mga anak ni Amon, at mula sa mga Pelishti, at mula sa Amalek, at mula sa samsam ni Hadadezer na anak ni Rehov, hari ng Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Mula sa Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "at mula sa Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "at mula sa mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "at mula sa mga Pelishti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "at mula sa Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "at mula sa samsam"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ni Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ng Tsova"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:05.961267646Z",
+  "model": "glm-5.3"
+}

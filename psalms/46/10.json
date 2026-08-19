@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Pinaghihintong-giit ang mga digmaan hanggang sa dulo ng lupa; sinusira ⟨niya⟩ ang busog at pinuputol ang sibat; ang mga karo ay sinusunog sa apoy.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "pinaghihintong-giit"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "mga digmaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sinusira"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "at pinuputol"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "mga karo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sinusunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:17.403286081Z",
+  "model": "glm-5.3"
+}

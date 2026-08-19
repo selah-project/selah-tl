@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nangyari sa ikatlong taon, bumaba si Yehoshafat na hari ng Yehudah sa hari ng Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ang ikatlong"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa (harap ng)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:19.584709333Z",
+  "model": "glm-5.3"
+}

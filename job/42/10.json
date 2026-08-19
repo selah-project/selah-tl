@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At nagbalik si Yahweh sa ⟨את⟩ pagkabihag ni Iyov nang manalangin siya para sa kanyang kapwa; at dinagdagan ni Yahweh ang ⟨את⟩ lahat ng kay Iyov nang dalawang beses.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagkabihag ni Iyov"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "nang manalangin siya"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanyang kapwa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "at dinagdagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahan ng kay Iyov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "kay Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "nang dalawang beses"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:15.225319731Z",
+  "model": "glm-5.3"
+}

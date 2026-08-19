@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At sinabi ni Amnon kay Tamar: Ihatid mo ang ⟨את⟩ pagkain sa ⟨the⟩ silid, at kakain ako mula sa iyong kamay. At kinuha ni Tamar ang ⟨את⟩ mga tinapay na ginawa niya, at dinala kay Amnon na kaniyang kapatid, papunta sa silid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "si Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ihatid mo"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "ang pagkain"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "sa silid"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "at kakain ako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mula sa iyong kamay"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "si Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinapay"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "ang mga tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "kay Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "na kaniyang kapatid"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "papunta sa silid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:42.052939682Z",
+  "model": "glm-5.3"
+}

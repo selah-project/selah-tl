@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang ungol ng leon, at ang tinig ng mabangis na leon, at ang mga ngipin ng mga batang leon ay napupurga.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ang ungol"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ng leon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "at ang tinig"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ng mabangis na leon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "at ang mga ngipin"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ng mga batang leon"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "ay napupurga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:09.205094420Z",
+  "model": "glm-5.3"
+}

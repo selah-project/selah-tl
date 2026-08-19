@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari pagkatapos nito, sinaktan ni David ang ⟨את⟩ mga Peleshti at pinailalim niya sila; at kinuha ni David ang ⟨את⟩ sentena ng inang-lungsod mula sa kamay ng mga Peleshti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Peleshti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "pinailalim niya sila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sentena ng inang-lungsod"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "sentena"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ng inang-lungsod"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:09.041828374Z",
+  "model": "glm-5.3"
+}

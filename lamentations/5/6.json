@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sa Mitzrayim ibinigay natin ang kamay, sa Ashur, upang mabusog sa tinapay.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay natin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "upang mabusog"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sa tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:59.187518155Z",
+  "model": "glm-5.3"
+}

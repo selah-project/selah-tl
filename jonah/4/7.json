@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Nagtalaga naman ang Elohim ng uod sa pagsikat ng madaling-araw sa kinabukasan, at sinaktan nito ang ⟨את⟩ kikayon at ito'y natuyo.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nagtalaga naman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ng uod"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sa pagsikat"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ng madaling-araw"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "sa kinabukasan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ang kikayon"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "at natuyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:32.078301391Z",
+  "model": "glm-5.3"
+}

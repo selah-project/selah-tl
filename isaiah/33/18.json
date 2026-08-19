@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Ang iyong puso ay magninilay sa pangamba: nasaan ang tagasulat? nasaan ang tagatimbang? nasaan ang ⟨את⟩ nagbibilang ng mga tore?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "ang iyong puso"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "magninilay"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "sa pangamba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ang tagasulat"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ang tagatimbang"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ang nagbibilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tore"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "mga tore"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:33.313449709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Ang ⟨את⟩ ginto at ang ⟨את⟩ pilak, ang ⟨את⟩ tanso, ang ⟨את⟩ bakal, ang ⟨את⟩ tingga at ang ⟨את⟩ tingga-pilak,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanso"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakal"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tingga"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tingga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "tingga-pilak"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:30.668847082Z",
+  "model": "glm-5.3"
+}

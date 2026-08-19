@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag mong ararin na may kasamang baka at bundok na magkasabay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mong ararin"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "may baka"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "at (may) bundok"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkasabay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:13.675525390Z",
+  "model": "glm-5.3"
+}

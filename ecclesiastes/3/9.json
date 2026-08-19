@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ano ang pakinabang ng gumagawa sa bagay na kanyang pinagpapaguran?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ng gumagawa"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "sa bagay na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pinagpapaguran"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:47.082046752Z",
+  "model": "glm-5.3"
+}

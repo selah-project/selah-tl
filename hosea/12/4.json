@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sa sinapuputan, hinawakan sa takong ⟨את⟩ kanyang kapatid, at sa kanyang lakas nakipagbuno ⟨siya⟩ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "sa sinapuputan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hinawakan sa takong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang kapatid"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "at sa kanyang lakas"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "nakipagbuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:08.737488018Z",
+  "model": "glm-5.3"
+}

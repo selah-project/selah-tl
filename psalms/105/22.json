@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "upang magtali ng kaniyang mga pinuno ayon sa kaniyang kalooban, at ang kaniyang mga matatanda ay ituor sa karunungan.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "upang magtali"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ng kaniyang mga pinuno"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ayon sa kaniyang kalooban"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "at ang kaniyang mga matatanda"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ituor sa karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.496225547Z",
+  "model": "glm-5.3"
+}

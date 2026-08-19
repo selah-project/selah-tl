@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipinanganak ni Adah ang ⟨את⟩ Yaval; siya ang naging ama ng ⟨mga⟩ naninirahan sa tolda at ng ⟨mga⟩ may alagang hayop.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ni Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יוב",
+      "gloss": "naninirahan sa tolda",
+      "surface_alt": null,
+      "gloss_alt": null,
+      "surface_actual": "ישב",
+      "gloss_actual": "naninirahan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "may alagang hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:02.366318360Z",
+  "model": "glm-5.3"
+}

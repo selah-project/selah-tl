@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At nagkapisan ang mga Pelishteo, at dumating, at nagkampo sa Shunem; at pinulutan ng kapisanan ni Shaúl ang ⟨את⟩ buong Yisrael, at nagkampo sila sa Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nagkapisan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "at nagkampo"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "sa Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "pinulutan ng kapisanan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "at nagkampo sila"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "sa Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:24.293953604Z",
+  "model": "glm-5.3"
+}

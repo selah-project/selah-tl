@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Magkamit ka ng karunungan, magkamit ka ng unawa; huwag kalimutan, at huwag lumihis sa mga salita ng aking bibig.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "magkamit ka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "magkamit ka"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ng unawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimutan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תט",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "sa mga salita"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ng aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:24.722443138Z",
+  "model": "glm-5.3"
+}

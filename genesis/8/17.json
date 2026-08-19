@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang bawat nilalang na ⟨את⟩ kasama mo, mula sa lahat ng laman, sa ibon at sa hayop at sa bawat gumagapay na gumagapay sa ibabaw ng lupa — ilabas ⟨את⟩ mo sila kasama; at magdami-dami sila sa lupa, at magbunga at dumami sa ibabaw ng lupa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nilalang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama mo",
+      "marks": "ang bawat nilalang"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "sa ibon"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "at sa hayop"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa bawat"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "gumagapay"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "gumagapay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "ilabas"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mo sila kasama",
+      "marks": "silang lahat"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "at magdami-dami sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "at magbunga"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at dumami"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:33.370549592Z",
+  "model": "glm-5.3"
+}

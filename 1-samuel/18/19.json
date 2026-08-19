@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nangyari, sa pagdating ng panahon ng pagbibigay kay ⟨את⟩ Merab na anak ni Shaul kay David, siya ay ibinigay na asawa kay Adriel ang Meholathita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ng pagbibigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kay Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "na anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ay ibinigay"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kay Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "ang Meholathita"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:51.408876634Z",
+  "model": "glm-5.3"
+}

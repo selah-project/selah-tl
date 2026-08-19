@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Tulad ng iniutos ni Yahweh kay ⟨את⟩ Moshe na kanyang alipin, gayon iniutos ni Moshe kay ⟨את⟩ Yehoshua; at gayon ginawa ni Yehoshua — hindi niya iniwanan ang ⟨את⟩ anumang salita mula sa lahat ng iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "tulad ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kanyang alipin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "at gayon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "iniwanan \/ inalis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:35.958673170Z",
+  "model": "glm-5.3"
+}

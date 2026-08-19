@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Saliksikin mo ako, El, at kilalanin ang aking puso; subukan mo ako at kilalanin ang aking mga pag-iisip —",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "saliksikin mo ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "at kilalanin"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "subukan mo ako"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "at kilalanin"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ang aking mga pag-iisip"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.365654662Z",
+  "model": "glm-5.3"
+}

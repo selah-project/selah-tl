@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kaya't hindi tatayo ang mga masasama sa ⟨ang⟩ paghuhukom, ni ⟨man⟩ ang mga makasalanan sa kapisanan ng mga matutwid.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kaya't (sa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghuhukom"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ni ang mga makasalanan"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matutwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:44.762277616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At maghahandog si Aharon ng ⟨את⟩ tungang kambing na sa kanya bumagsak ang palaso para kay Yahweh, at gagawin niya itong handog para sa pagkakasala.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "at maghahandog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungang kambing"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "⟨ang⟩ tungang kambing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bumagsak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨ang⟩ palaso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "at gagawin niya ito"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "handog para sa pagkakasala"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:47.018905696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Yahweh, sa kagipitan dininalaw ka nila; ibinubulong nila ang panalangin nang ang tulong mong pagtatama ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagipitan"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "dininalaw ka nila"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "ibinubulong nila"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ang bulong-panalangin"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "tulong mong pagtatama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:26.037017730Z",
+  "model": "glm-5.3"
+}

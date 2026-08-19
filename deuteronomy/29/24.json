@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kanilang sasabihin: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, Elohim ng kanilang mga ama, na kanyang tinipan ⟨kasama⟩ kanila noong ilabas niya sila ⟨אתם⟩ mula sa lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "At kanilang sasabihin"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "iniwan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tipan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tinipan"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "noong ilabas niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "silà (mula sa lupain ng Mitzrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:23.118167819Z",
+  "model": "glm-5.3"
+}

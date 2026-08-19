@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Bawat libis ay itataas, at bawat bundok at burol ay ibababa; at ang baluktot ay magiging tuwid, at ang mga matatarik na lugar ay magiging kapatagan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libis"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ay itataas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "at burol"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ay ibababa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ang baluktot"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "at ang mga matatarik na lugar"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "kapatagan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:14.438697710Z",
+  "model": "glm-5.3"
+}

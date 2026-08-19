@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "at mula sa mga lupain tinipon ⟨niya⟩ sila, mula sa silangan at mula sa kanluran, mula sa hilaga at mula sa dagat.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "at mula sa mga lupain"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "tinipon sila"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mula sa silangan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "at mula sa kanluran"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mula sa hilaga"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "at mula sa dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.069447208Z",
+  "model": "glm-5.3"
+}

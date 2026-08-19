@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sino sa inyo ang magpapalapad ng tainga ⟨sa⟩ ito? Sino ang mag-iingat ng pandinig at makikinig para sa⟨ang⟩ hinaharap?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "magpapalapad ng tainga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "mag-iingat ng pandinig"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at makikinig"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "para sa hinaharap"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:21.151919367Z",
+  "model": "glm-5.3"
+}

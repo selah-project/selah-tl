@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Magalak kayo sa ⟨את⟩ Yerushalayim, at magsaya kayo sa kanya, kayong lahat na umiibig sa kanya; magdiwang kayo ⟨את⟩ kanya ng malaking kagalakan, kayong lahat na naghuhumas para sa kanya.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Magalak kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "at magsaya kayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "na umiibig sa kanya"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "magdiwang kayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kanya (malaking kagalakan)"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ng malaking kagalakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "na naghuhumas"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "para sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:48.250732451Z",
+  "model": "glm-5.3"
+}

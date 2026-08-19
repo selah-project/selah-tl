@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At maguguho ang inyong lakas sa walang kabuluhan, at hindi ibibigay ng inyong lupa ang ⟨את⟩ kanyang ani, at ang punongkahoy ng lupa ay hindi magbibigay ng kanyang bunga.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "at maguguho"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sa walang kabuluhan"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ang inyong lakas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ng inyong lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ani"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kanyang ani"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "at ang punongkahoy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ng kanyang bunga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:06.866627970Z",
+  "model": "glm-5.3"
+}

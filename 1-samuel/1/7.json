@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At gayon ang ginagawa niya taon-taon, sa bawat pag-ahon niya sa bahay ni Yahweh, gayon niya pinaiinig si Hannah; kaya umiiyak siya at hindi makakain.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "At gayon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ginagawa niya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "taon-taon"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "pag-ahon niya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "pinaiinig siya"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "at umiiyak siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "makakain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:32.393045572Z",
+  "model": "glm-5.3"
+}

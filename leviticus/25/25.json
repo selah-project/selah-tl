@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Kapag lumubog ang iyong kapatid at nagtangging nabenta ang kanyang inaaring-lupa, at dumating ang kanyang tagapagtubos na malapit sa kanya, itubos niya ang ⟨את⟩ nabentang-lupa ng kanyang kapatid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "lumubog"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang iyong kapatid"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "at nabenta"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "ang kanyang inaaring-lupa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "ang kanyang tagapagtubos"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na malapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "at itubos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabentang-lupa"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ang nabentang-lupa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kanyang kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:18.032076548Z",
+  "model": "glm-5.3"
+}

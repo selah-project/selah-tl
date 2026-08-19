@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "at sa dulong-likod ng tabernakulo, sa dakong kanluran, gagawa ka ng anim na tabla",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "at sa dulong-likurang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨ang⟩ tabernakulo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "sa dakong kanluran (panig ng dagat)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawa ka ng"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "anim"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mga tabla"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:47.478215852Z",
+  "model": "glm-5.3"
+}

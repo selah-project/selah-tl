@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kung may lalaking hihiga ⟨את⟩ kasama ng kaniyang tiyahin, ang kahubaran ng kaniyang tiyuhin ay kaniyang hinubaran; ang kanilang kasalanan ay kanilang dadalhin; na walang anak sila mamamatay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At kung may lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang tiyahin"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "kaniyang tiyahin"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahubaran"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ng kaniyang tiyuhin"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "kaniyang hinubaran"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ang kanilang kasalanan"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "kanilang dadalhin"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "na walang anak"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:36.861667456Z",
+  "model": "glm-5.3"
+}

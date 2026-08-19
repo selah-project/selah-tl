@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ang kalaliman ay tumatawag sa kalaliman sa ingay ng iyong mga talong-tubig; lahat ng iyong mga alon at ng iyong mga alon na malalaki ay lumilipas sa akin.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ang kalaliman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kalaliman"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ay tumatawag"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa ingay"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ng iyong mga talong-tubig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ng iyong mga alon na sumisira"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "at ng iyong mga alon na malalaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ay lumilipas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:17.064702086Z",
+  "model": "glm-5.3"
+}

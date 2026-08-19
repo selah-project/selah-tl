@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "ang ⟨את⟩ mga kurtina ng hukay, ang ⟨את⟩ mga haligi nito at ang ⟨את⟩ mga pundasyon nito, at ang ⟨את⟩ tabing ng tarangkahan ng hukay,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kurtina ng hukay"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng hukay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi nito"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "mga haligi nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pundasyon nito"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "mga pundasyon nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tabing ng tarangkahan ng hukay"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabing"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:40.422953262Z",
+  "model": "glm-5.3"
+}

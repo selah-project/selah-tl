@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Dumatong sa harap Mo ang panalangin ko; iyon Mo ang pandinig Mo sa pag-iyak ko.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Dumatong"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap Mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang panalangin ko"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "iyon Mo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang pandinig Mo"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "sa pag-iyak ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:05.711678466Z",
+  "model": "glm-5.3"
+}

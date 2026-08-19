@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Bunyag ng masasama ang tabak, at hinila nila ang kanilang busog, upang patumbahin ang duwag at dukha, upang ikatlat ang matutuwid ng lakad.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "bunyag"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "at hinila nila"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ang kanilang busog"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "upang patumbahin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang duwag"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at dukha"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "upang ikatlat"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ang matutuwid"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ng lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:27.534026562Z",
+  "model": "glm-5.3"
+}

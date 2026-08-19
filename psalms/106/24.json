@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At tinanggihan nila ang lupain na pinaaaliw, hindi sila sumampalataya sa kanyang salita,",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "at tinanggihan nila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "na pinaaaliw\/kahanga-hanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sumampalataya sila"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "sa kanyang salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:16.633347123Z",
+  "model": "glm-5.3"
+}

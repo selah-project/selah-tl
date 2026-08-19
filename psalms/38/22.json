@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Huwag mo akong iwan, Yahweh Elohim ko; huwag kang lumayo sa akin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mo akong iwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kang lumayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:45.586357799Z",
+  "model": "glm-5.3"
+}

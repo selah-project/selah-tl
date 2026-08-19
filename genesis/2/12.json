@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang ginto ng lupaing iyon ay mabuti; doon may bdellium at bato ng shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "at ang ginto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdellium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ng shoham"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:50.246858458Z",
+  "model": "glm-5.3"
+}

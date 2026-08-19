@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Ipinakilala niya ang kaniyang mga lakad kay Moshe, ang kaniyang mga gawa sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "ipinakilala niya"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "kaniyang mga lakad"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "kaniyang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:05.853892165Z",
+  "model": "glm-5.3"
+}

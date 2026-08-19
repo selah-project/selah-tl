@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sira-sira na nang lubos ang lupa, wasak na nang lubos ang lupa, pagaambang nang lubos ang lupa.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "sira-sira"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "פור",
+      "gloss": "wasak na"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "pagaambang"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:10.441796839Z",
+  "model": "glm-5.3"
+}

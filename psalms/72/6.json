@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Bababa siya na parang ulan sa ⟨guiit na⟩ damo, na parang mga buhos ng ulan na dinidilig ang lupa.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "bababa siya"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "na parang ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גז",
+      "gloss": "gunting na damo (guiit)"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "na parang mga buhos ng ulan"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "nagbubuhos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.164735714Z",
+  "model": "glm-5.3"
+}

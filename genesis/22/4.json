@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa ikatlong araw, itinaas ni Avraham ang ⟨את⟩ kanyang mga mata, at nakita niya ang ⟨את⟩ lugar mula sa malayo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlong"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "itinaas niya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kanyang mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lugar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang lugar"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mula sa malayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:38.935151589Z",
+  "model": "glm-5.3"
+}

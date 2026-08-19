@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ginawa niya ang ⟨את⟩ mga patpat na kahoy ng akasya, at binalutan niya ng ginto ang ⟨את⟩ mga iyon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga patpat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "at binalutan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ang ⟨את⟩ mga iyon",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:37.150925217Z",
+  "model": "glm-5.3"
+}

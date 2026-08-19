@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At naglaan si Yahweh ng isang malaking isda upang lumunok kay ⟨את⟩ Yonah; at nagtagal si Yonah sa tiyan ⟨ng⟩ isda tatlong araw at tatlong gabi.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "naglaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "isda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "upang lumunok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at nagtagal"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ng isda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:14.302351602Z",
+  "model": "glm-5.3"
+}

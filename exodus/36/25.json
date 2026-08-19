@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At para sa pangalawang gilid ng mishkan, sa dako ng hilaga, gumawa siya ng dalawampung ⟨את⟩ mga tabla.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "at para sa pangalawang gilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "pangalawang"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa dako ng"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "hilaga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa siya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mga tabla"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:40.855303530Z",
+  "model": "glm-5.3"
+}

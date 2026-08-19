@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang nagbubuhos ng dugo ng tao, ng kamay ng tao ang kaniyang dugo ay bubuhusin; sapagkat sa larawan ng Elohim ginawa niya ang ⟨את⟩ tao.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ang nagbubuhos"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ng kamay ng tao"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang kaniyang dugo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ay bubuhusin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa larawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:07.026668885Z",
+  "model": "glm-5.3"
+}

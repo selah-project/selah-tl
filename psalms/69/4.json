@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Napagod ako sa ⟨aking⟩ pagsigaw, natuyo ang aking lalamunan, naglaho ang aking mga mata, habang naghihintay sa aking Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Napagod ako"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa pagsigaw"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "natuyo"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ang aking lalamunan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "naglaho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mga mata"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "naghihintay"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:43.210870658Z",
+  "model": "glm-5.3"
+}

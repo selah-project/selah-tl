@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sapagkat hindi nila naiintindihan ang mga gawa ni Yahweh at ang gawa ng kanyang mga kamay; ibabagsak niya sila at hindi niya sila itatayo muli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "naiintindihan nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mga gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ng kanyang mga kamay"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ibaba-bagsak niya sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "itatago niya sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.686790038Z",
+  "model": "glm-5.3"
+}

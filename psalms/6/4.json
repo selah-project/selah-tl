@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At lubos na nangangamba ang aking kaluluwa — datapwa't ikaw, Yahweh, hanggang kailan?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "at ang aking kaluluwa"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nangangamba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "datapwa't ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:25.676576126Z",
+  "model": "glm-5.3"
+}

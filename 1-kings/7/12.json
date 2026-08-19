@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 7:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ⟨ang⟩ malaking looban sa palibot: tatlong hanay ng inukit na bato at isang hanay ng tinapyas na sedro; gayundin sa ⟨ang⟩ looban ng bahay ni Yahweh, ⟨ang⟩ panloob, at sa ⟨ang⟩ porche ng bahay.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "at ang looban"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "hanay"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "inukit na bato"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "at isang hanay"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "tinapyas"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "at sa looban"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "panloob"
+    },
+    {
+      "surface": "ולאלם",
+      "gloss": "at sa porche"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:20.144364618Z",
+  "model": "glm-5.3"
+}

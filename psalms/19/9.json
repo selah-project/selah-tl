@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang mga tuntunin ni Yahweh ay matutuwid, nagpapasaya ng puso; ang utos ni Yahweh ay malinis, nagpapaliwanag sa mga mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "mga tuntunin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "matutuwid"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "nagpapasaya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "nagpapaliwanag"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:57.802001313Z",
+  "model": "glm-5.3"
+}

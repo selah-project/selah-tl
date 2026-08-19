@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At siya'y yumaon at gumawa ayon sa salita ni Eliyahu, at kumain siya at siya, at ang kaniyang sambahayan, mga araw.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "at yumaon siya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "at gumawa siya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita ni"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "at kumain"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya (si Eliyahu)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at siya (ang babae)"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "at ang kaniyang sambahayan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T16:34:04.787092758Z",
+  "model": "glm-5.3"
+}

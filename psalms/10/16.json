@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Si Yahweh ay hari magpakailanman at walang hanggan; sumailalim sa pagkawasak ang mga bansa mula sa kanyang lupa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at walang hanggan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "sumailalim sa pagkawasak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mula sa kanyang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:54.560852915Z",
+  "model": "glm-5.3"
+}

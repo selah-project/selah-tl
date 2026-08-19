@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi niya: Ibalik mo ang iyong kamay sa iyong dibdib. At ibinalik niya ang kanyang kamay sa kanyang dibdib, at inilabas niya ito mula sa kanyang dibdib, at heto, naipabalik ito tulad ng kanyang laman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ibalik mo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "iyong dibdib"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at ibinalik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "kanyang dibdib"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "at inilabas niya ito"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "mula sa kanyang dibdib"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at heto"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "naipabalik"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "tulad ng kanyang laman"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:21.850562985Z",
+  "model": "glm-5.3"
+}

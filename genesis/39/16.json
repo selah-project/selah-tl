@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At inilatag niya ang kanyang darno sa piling niya, hanggang sa pagdating ng kanyang panginoon sa kanyang bahay.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "At inilatag niya"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ang kanyang damit"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "sa piling niya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pagdating"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ng kanyang panginoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:11.403914936Z",
+  "model": "glm-5.3"
+}

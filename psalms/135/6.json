@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Ang lahat ng naging kalooban ni Yahweh ay ginawa Niya — sa ⟨the⟩ mga langit at sa lupa, sa mga dagat, at sa lahat ng mga kalaliman.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "naging kalooban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "at sa lupa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at sa lahat"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ng mga kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:09.807060741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At pinalayo ni Yahweh ang ⟨את⟩ tao, at dumami ang abandunado sa gitna ng lupain.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "at pinalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "at dumami"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ang abandunado"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:40.571803269Z",
+  "model": "glm-5.3"
+}

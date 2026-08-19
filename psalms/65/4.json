@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Mga bagay ng mga kasamaan ay lumakas higit sa akin; ⟨⟨amo⟩⟩ ang mga paglaban namin, ikaw ang magtatakip ng ⟨את⟩ mga ito.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mga bagay"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ng mga kasamaan"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "lumakas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "higit sa akin"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mga paglaban namin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "magtatakip ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.985235443Z",
+  "model": "glm-5.3"
+}

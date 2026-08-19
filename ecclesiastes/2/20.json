@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At lumipat ako, ako, upang mapawalan ng pag-asa ang ⟨את⟩ puso ko dahil sa buong pagpapagalsak na pinagpagsikapan ko sa ilalim ng araw.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "at lumipat ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "upang mapawalan ng pag-asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "puso ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "pagpapagalsak"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "na pinagpagsikapan ko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:31.606917217Z",
+  "model": "glm-5.3"
+}

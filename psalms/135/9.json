@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Nagpadala siya ng mga tanda at mga kahimalaan sa gitna mo, O Mitsrayim, kay Paroh at sa lahat ng kaniyang mga alipin.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mga tanda"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "at mga kahimalaan"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sa gitna mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "O Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kay Paroh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa lahat ng"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.126348102Z",
+  "model": "glm-5.3"
+}

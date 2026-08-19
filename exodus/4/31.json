@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At naniwala ang bayan, at narinig nila na dinalaw ni Yahweh ang ⟨את⟩ mga anak ni Yisra'el, at nakita Niya ang ⟨את⟩ kanilang kagipitan; at yumukod sila at nagpatirapa.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "at naniwala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "at sila'y nakarinig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "dinalaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at na"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita Niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kagipitan"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "kanilang kagipitan"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "at yumukod sila"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "at nagpatirapa sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:29.554070828Z",
+  "model": "glm-5.3"
+}

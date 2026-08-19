@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At sinabi ni Yaakov sa kanila, Mga kapatid ko, taga-saan kayo? At nagsabi sila, Taga-Kharan kami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Mga kapatid ko"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "taga-saan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Taga-Kharan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:02.096561993Z",
+  "model": "glm-5.3"
+}

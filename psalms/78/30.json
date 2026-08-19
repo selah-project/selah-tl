@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Hindi sila humiwalay sa kanilang pagnanasa; ang kanilang pagkain ay nasa pa sa kanilang bibig —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "humiwalay"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "sa kanilang pagnanasa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nasa pa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang kanilang pagkain"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa kanilang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:14.653904619Z",
+  "model": "glm-5.3"
+}

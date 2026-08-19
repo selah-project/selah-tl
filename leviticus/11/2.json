@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Magsalita kayo sa mga anak ni Yisrael, sabihin: Ito ang ⟨ang⟩ hayop na maaari ninyong kainin mula sa lahat ng ⟨mga⟩ hayop na nasa lupa.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "magsalita kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sabihin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ang hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "maaari ninyong kainin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:07.943767455Z",
+  "model": "glm-5.3"
+}

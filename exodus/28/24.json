@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At ilalagay mo ang ⟨את⟩ dalawang lubid na gintong inihat sa dalawang singsing, sa mga dulo ng choshen.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "At ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang lubid"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "lubid na inihat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mga dulo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ng choshen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:52.718695044Z",
+  "model": "glm-5.3"
+}

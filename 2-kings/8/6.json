@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At tinanong ng hari ang babae, at isinaysay niya sa kaniya. At itinalaga ng hari sa kaniya ang isang saris, na sinasabi: Ibalik mo ang ⟨את⟩ lahat ng kaniya-kaniya, at ang ⟨את⟩ lahat ng ani ng bukid, mula sa araw na iniwan niya ang ⟨את⟩ lupa hanggang ngayon.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "At tinanong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "at isinaysay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "At ibinigay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris (katiwala)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Ibalik mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng kaniya-kaniya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang lahat ng ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ani"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "mula sa araw"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "iniwan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:10.628265989Z",
+  "model": "glm-5.3"
+}

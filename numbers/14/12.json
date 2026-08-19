@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sasaktan ko sila ng salot at aalisin ko sila sa kanilang mana, at gagawin ko naman ⟨את⟩ ikaw na isang bansang dakila at makapangyarihan kaysa rito.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Sasaktan ko sila"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ng salot"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "at aalisin ko sila sa mana"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "at gagawin ko naman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na bansa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "at makapangyarihan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa rito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:29.605486978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "May awit, hindi sila mag-iinom ng alak; mapait ang malalasing inumin sa mga umiinom nito.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "may awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "mag-iinom sila"
+    },
+    {
+      "surface": "יין",
+      "gloss": "alak"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "malalasing inumin"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "sa mga umiinom nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:30.040779417Z",
+  "model": "glm-5.3"
+}

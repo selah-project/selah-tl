@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Lakihan ninyo ang tapang, at lakasan ng Yahweh ang inyong puso, kayong lahat na umaasa kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "maging malakas kayo"
+    },
+    {
+      "surface": "ואמץו",
+      "gloss": "at magpakatatag"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ang inyong puso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "naghihintong mga tao"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:17.952703814Z",
+  "model": "glm-5.3"
+}

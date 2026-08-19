@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At matuwa ka kay Yahweh, at ibibigay niya sa iyo ang mga hiling ng iyong puso.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "At matuwa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibibigay niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ang mga hiling"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ng iyong puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:28.597849847Z",
+  "model": "glm-5.3"
+}

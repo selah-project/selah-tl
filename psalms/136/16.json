@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Sa namumuno sa kanyang bayan sa ilang, sapagkat sa magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Sa namumuno"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kanyang bayan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.430763820Z",
+  "model": "glm-5.3"
+}

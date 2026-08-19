@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi niya: Sino ang nagsabi sa iyo na hubad ka? Mula sa ⟨את⟩ punong iyon, na iniutos ko sa iyo na huwag kumain mula rito — kumain ka ba?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ang nagsabi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "hubad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Mula sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨את⟩ puno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "iniutos ko sa iyo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na huwag"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "kumain ka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:10.007768914Z",
+  "model": "glm-5.3"
+}

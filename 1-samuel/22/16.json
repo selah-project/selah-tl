@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi ng hari: Kamatayan ang mamatay ka, Achimelek, ikaw at buong bahay ng iyong ama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mamatay ka"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:20.025122408Z",
+  "model": "glm-5.3"
+}

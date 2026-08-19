@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Namatay ang matapat sa lupain, at walang matuwid sa mga tao; silang lahat ay nagtatago para manghuli ng dugo, bawat lalake sa ⟨את⟩ kaniyang kapwa ay nahuhulihan ng lambat.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang matapat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "at ang matuwid"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa mga tao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sila lahat"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "para sa dugo"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "nagtatago-nang-naghahanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kapwa"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "kaniyang kapwa"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "nahuhulihan ng lambat"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "lambat-pagtatago"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:33.817041432Z",
+  "model": "glm-5.3"
+}

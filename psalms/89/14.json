@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sa iyo ⟨ay⟩ ang braso na kasama ng kalakasan; matibay ang iyong kamay, itinaas ang iyong kanang kamay.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "braso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kalakasan"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "itinaas"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:46.801356192Z",
+  "model": "glm-5.3"
+}

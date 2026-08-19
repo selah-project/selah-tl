@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Ngunit tinukso nila at sinuway ang ⟨את⟩ Elohim na Elyon, at ang kanyang mga patotoo ay hindi nila ginunita.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "tinukso nila"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "at sinuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim na Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ang kanyang mga patotoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ginunita nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:34.841979707Z",
+  "model": "glm-5.3"
+}

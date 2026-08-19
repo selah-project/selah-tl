@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Maawa ka sa akin, Yahweh, sapagkat akoynanghihina; pagmulin mo ako, Yahweh, sapagkat nangangatog ang aking mga buto.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "akoynanghihina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "pagmulin mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nangangatog"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang aking mga buto"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:25.676470190Z",
+  "model": "glm-5.3"
+}

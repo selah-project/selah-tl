@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang mabuting unawa ay nagbibigay ng biyaya; ngunit ang lakad ng mga taksil ay ⟨napakatiyagaan⟩.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "unawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ngunit ang lakad"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ng mga taksil"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "napakatiyagaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:59.997510796Z",
+  "model": "glm-5.3"
+}

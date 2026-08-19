@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Datapuwa't ako, na gaya ng halos, ⟨ay⟩ natiwangki ang aking mga paa; na parang wala, ⟨ay⟩ nalaglag ang aking mga hakbang.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "datapuwa't ako"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "na gaya ng halos"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natiwangki"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang aking mga paa"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "na parang wala"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "nalaglag"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang aking mga hakbang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:42.195874215Z",
+  "model": "glm-5.3"
+}

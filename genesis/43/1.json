@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At ang gutom ay mabigat sa ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "At ang gutom"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa ⟨ang⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:58.986483251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Likharin mo sa akin ang pusong dalisay, O Elohim, at ang matibay na espiritu ay iyo itong mag-iba sa kaibuturan ko.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "na dalisay"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "likharin mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "at ang espiritu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "na matibay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "iyo itong mag-iba"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa kaibuturan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:26.282075168Z",
+  "model": "glm-5.3"
+}

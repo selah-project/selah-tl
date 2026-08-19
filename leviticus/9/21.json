@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang ⟨את⟩ mga dibdib at ang ⟨את⟩ hitang kanan ay inianinaw ni Aharon bilang handog na inianinaw sa harapan ni Yahweh, kung paanong iniutos ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga dibdib"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mga dibdib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "hitang kanan"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "hita"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "inianinaw"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "handog na inianinaw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:13.284406844Z",
+  "model": "glm-5.3"
+}

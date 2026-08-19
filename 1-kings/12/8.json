@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At iniwan niya ang ⟨את⟩ payo ng mga matatanda na kanilang ibinigay sa kanya, at nangmagpayo siya sa ⟨את⟩ mga batang lumaki ⟨את⟩ kasama niya, na mga nakatayo sa harap niya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "at iniwan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payo ng mga matatanda"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "payo ng"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "kanilang ipinayo sa kanya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "at nangmagpayo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "lumaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ang mga nakatayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:44.204893888Z",
+  "model": "glm-5.3"
+}

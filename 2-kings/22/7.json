@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Gayon ma'y huwag nang bilangin ⟨את⟩ sa kanila ang pilak na ibinigay sa kanilang kamay, sapagkat may katapatan silang gumagawa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gayon ma'y"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bilangin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanila"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "na ibinigay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kamay nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "may katapatan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gumagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:28.700769330Z",
+  "model": "glm-5.3"
+}

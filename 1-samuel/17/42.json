@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tumingin ang Filisteo, at nakita niya ang ⟨את⟩ David, at hinamak niya siya, sapagkat siya ⟨ay⟩ binata, at mapula ang balat, na maganda ang anyo.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "at tumingin"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Filisteo"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "at hinamak niya siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נער",
+      "gloss": "binata"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "at mapula ang balat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ang anyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:14.493147805Z",
+  "model": "glm-5.3"
+}

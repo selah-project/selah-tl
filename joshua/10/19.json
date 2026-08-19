@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 10:19",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At kayo'y huwag tumigil; habulin ninyo ang inyong mga kaaway, at sibakin ninyo sila ⟨את⟩ sa hulihan; huwag ninyong hayaan silang makapasok sa kanilang mga lungsod, sapagkat ibinigay sila ni Yahweh na inyong Elohim sa inyong kamay.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "at kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "tumigil"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "habulin ninyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ang...sa likod ng"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    },
+    {
+      "surface": "וזנבתם",
+      "gloss": "at sibakin ninyo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga kaaway)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתנום",
+      "gloss": "hayaan ninyo sila"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na makapasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kanilang mga lungsod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ibinigay sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:39.596774796Z",
+  "model": "glm-5.3"
+}

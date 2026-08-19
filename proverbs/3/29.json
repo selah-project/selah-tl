@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Huwag magbalak ng kasamaan laban sa iyong kapwa, samantalang siya'y naninirahang tiwasay sa ⟨את⟩ iyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "magbalak"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "samantalang siya"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tiwasay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyo",
+      "marks": "sa iyo (katotohanan ng paninirahan)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:36.594382701Z",
+  "model": "glm-5.3"
+}

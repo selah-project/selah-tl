@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "Sa halip, sa puso kayo'y gumagawa ng kasamaan; sa lupa ang karahasan ng inyong mga kamay ay tinatatimbang ninyo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sa halip"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kayo'y gumagawa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ang karahasan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ng inyong mga kamay"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ay tinatatimbang ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:42.032369815Z",
+  "model": "glm-5.3"
+}

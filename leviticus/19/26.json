@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag kayong kakain sa ⟨dugo⟩; huwag kayong manghuhula, at huwag manggagamot sa panghuhula.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakain kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa\/ukol"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "manghuhula kayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "manggagamot-sa-panghuhula kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:30.899933479Z",
+  "model": "glm-5.3"
+}

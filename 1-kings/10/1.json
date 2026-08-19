@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang reyna ng Sheba, narinig niya ang ⟨את⟩ balita tungkol kay Shelomoh — dahil sa pangalan ni Yahweh — at dumating siya upang subukan siya sa mga bugtong.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "At ang reyna ng"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "narining"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balita"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "balita"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "dahil sa pangalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "at dumating siya"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "upang subukan siya"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "sa mga bugtong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:34.354448485Z",
+  "model": "glm-5.3"
+}

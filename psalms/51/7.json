@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Narito, sa kalapastanganan ako ipinanganak, at sa kasalanan ako dinamdanan ng aking ina.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "sa kalapastanganan"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ipinanganak ako"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "at sa kasalanan"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "dinamdanan ako"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ng aking ina"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:21.796087999Z",
+  "model": "glm-5.3"
+}

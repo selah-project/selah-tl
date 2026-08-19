@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ako ba ang pinapagalit nila? — neum ni Yahweh — hindi ba sila mismo, para sa kahihiyan ng kanilang mga mukha?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩ ako ba",
+      "marks": "Ako"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nila"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ang pinapagalit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila mismo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ng kanilang mga mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:08.780854239Z",
+  "model": "glm-5.3"
+}

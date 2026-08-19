@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nagtipan sila sa Be'er Sheva; at bumangon si Avimelech at si Fikol, pinuno ng kaniyang hukbo, at nagbalik sila sa lupain ng mga Filisteo.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "at nagtipan sila"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "sa Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "at bumangon"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "at si Fikol"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ng kaniyang hukbo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at nagbalik sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Filisteo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:28.802095789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Gawin ang iyong kalooban, aking Elohim, ikinatuwa ko, at ang iyong torà ⟨ay⟩ nasa loob ng aking tiyan.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "gawin"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "iyong kalooban"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ikinatuwa ko"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "at ang iyong torà"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "aking tiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:10.630987140Z",
+  "model": "glm-5.3"
+}

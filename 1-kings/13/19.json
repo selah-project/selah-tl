@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kaya't bumalik siya ⟨את⟩ ⟨kasama⟩ niya, at kumain ng tinapay sa bahay niya, at uminom ng tubig.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kaya't bumalik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kasama⟩ niya",
+      "marks": "siya (ang taong ng Diyos)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "at kumain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa bahay niya"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "at uminom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:36.452415721Z",
+  "model": "glm-5.3"
+}

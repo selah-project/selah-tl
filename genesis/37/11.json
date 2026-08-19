@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At hinamtikan siya ng kanyang mga kapatid, ngunit ang kanyang ama ay iniingatan ⟨את⟩ ang sabi.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "at hinamtikan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ngunit ang kanyang ama"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iniingatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sabi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang sabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:23.371521814Z",
+  "model": "glm-5.3"
+}

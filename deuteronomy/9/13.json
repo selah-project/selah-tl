@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Yahweh sa akin, na nagsasabi: Nakita ko ang ⟨את⟩ bayang ito, at narito, bayan na matigas ang batok ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayang ito"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "matigas"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ang batok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:55.831030574Z",
+  "model": "glm-5.3"
+}

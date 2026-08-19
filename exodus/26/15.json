@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At gagawa ka ng ⟨את⟩ mga haligi na nakatayo para sa Mishkan, na kahoy ng acacia shitim.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi na nakatayo para sa Mishkan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mga haligi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia shitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nakatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:03.659298489Z",
+  "model": "glm-5.3"
+}

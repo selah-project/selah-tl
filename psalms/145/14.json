@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Sumasandal si Yahweh sa lahat ng mga nabubuwal, at nagtatayo sa lahat ng mga yumuyuko.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "sumasandal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "mga nabubuwal"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "at nagtatayo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "mga yumuyuko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.623568085Z",
+  "model": "glm-5.3"
+}

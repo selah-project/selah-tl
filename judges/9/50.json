@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At pumunta si Avimelech sa Tevetz, at humantong siya laban sa Tevetz, at binihag niya ito.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at pumunta"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "at humantong siya"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "sa Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "at binihag niya ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:51:33.440790187Z",
+  "model": "glm-5.3"
+}

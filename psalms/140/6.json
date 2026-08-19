@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Nagtago ang mga palalo ng bitag sa akin, at mga lubid; naglawit sila ng lambat sa gilid ng landas; mga pain inilagay nila sa akin. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ang mga palalo"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ng bitag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "at mga lubid"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "naglawit sila"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ng lambat"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "sa gilid"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ng landas"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "mga pain"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "inilagay nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:32.369975246Z",
+  "model": "glm-5.3"
+}

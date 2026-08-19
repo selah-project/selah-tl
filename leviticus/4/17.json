@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At didilhin ng kohen ang kaniyang daliri sa ⟨את⟩ dugo, at wiwisikhiya nang pitong ulit sa harapan ni Yahweh, sa harap ng ⟨ang⟩ tabing.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "at didilhin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ang kaniyang daliri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "at wiwisikhiya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ulit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dugo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tabing"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:53.229426044Z",
+  "model": "glm-5.3"
+}

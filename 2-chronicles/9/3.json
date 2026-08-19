@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nakita ng reyna ng Sheba ang ⟨את⟩ karunungan ni Shelomoh, at ang bahay na kaniyang itinayo,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "At nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ng reyna ng"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karunungan ni Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "karunungan ni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kaniyang itinayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:28.057431680Z",
+  "model": "glm-5.3"
+}

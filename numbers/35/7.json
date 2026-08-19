@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Lahat ng mga lungsod na ibibigay ninyo sa mga Levita: apatnapu't walong lungsod — ⟨את⟩ mga ito at ang ⟨את⟩ mga bakuran ng mga ito.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ng mga lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ibibigay ninyo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apatnapu't"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "walong"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "na lungsod"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito (ang mga lungsod)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran ng mga ito"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mga bakuran ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:24.446339340Z",
+  "model": "glm-5.3"
+}

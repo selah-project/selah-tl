@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ni Yiftach sa mga matanda ng Gilad: Hindi ba kayo ⟨את⟩ ang nagpatiwakal sa akin sa pagkamuhian ninyo ako, at pinatalsik ninyo ako sa bahay ng aking ama? At bakit kayo pumunta sa akin ngayon, nang maging mahigpit ang kalagayan ninyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiftach"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "sa mga matanda ng"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "nagpatiwakal sa akin sa pagkamuhian"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "pinatalsik ako (objecto ng pagkamuhian at pagpapatalas)"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "at pinatalsik ninyo ako"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay ng"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aking ama"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "At bakit"
+    },
+    {
+      "surface": "באתм",
+      "gloss": "kayо pumunta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "צר",
+      "gloss": "maging mahigpit ang kalagayan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:56.206939785Z",
+  "model": "glm-5.3"
+}

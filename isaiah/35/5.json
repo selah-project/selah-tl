@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Nang magkagayon, mabubuksan ang mga mata ng ⟨mga⟩ bulag, at ang mga tainga ng ⟨mga⟩ pipi ay mabubuka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "mabubuksan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mga mata ng"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "mga bulag"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "at mga tainga ng"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mga bingi"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "mabubuka"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:58.731861963Z",
+  "model": "glm-5.3"
+}

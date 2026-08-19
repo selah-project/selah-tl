@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Kung lulukutin ko ang mga pakpak ng bukang-liwayway, at magtatahan sa dulong bahagi ng dagat,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "lulukutin ko"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pakpak ng"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "bukang-liwayway"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "magtatahan"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa dulong bahagi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.806320239Z",
+  "model": "glm-5.3"
+}

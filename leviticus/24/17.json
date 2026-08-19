@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At kung ang isang tao ay tumama sa anumang kaluluwa ng tao, kamatayan ay papatayin siya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At kung ang isang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "tumama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:08.752965113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "At makasasagot ako sa nanunuya sa akin ng salita, sapagkat nagtiwala ako sa iyong salita.",
+  "tokens": [
+    {
+      "surface": "ו אענה",
+      "gloss": "at makasasagot ako"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "sa nanunuya sa akin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagtiwala ako"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa iyong salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.850486475Z",
+  "model": "glm-5.3"
+}

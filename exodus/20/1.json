@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagsalita si Elohim ng ⟨את⟩ lahat ng mga salitang ito, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "At nagsalita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laha ng mga salitang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:17.074974747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ginawa nila ang ⟨את⟩ namumulang plake ng banal na putong, ginto na dalisay, at sumulat sila sa ibabaw nito ng kasulatan na ukit ng singsing ng tatak: Banal kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namumulang plake"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "namumulang plake"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ng putong"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "at sumulat sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "kasulatan"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukit"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "singsing ng tatak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Banal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:05.878560962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Sinumang pumapatay ng tao, ayon sa bibig ng mga saksi ay papatayin ⟨את⟩ mamamatay-tao; at ang isang saksi lamang ay hindi sasagot laban sa isang tao upang mamatay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sinumang"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pumapatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ayon sa bibig ng"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ay papatayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamamatay-tao"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ang mamamatay-tao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at ang saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "laban sa isang tao"
+    },
+    {
+      "surface": "למות",
+      "gloss": "upang mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:19:49.412205347Z",
+  "model": "glm-5.3"
+}

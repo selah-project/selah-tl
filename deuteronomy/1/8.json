@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Tingnan ninyo: inilagay Ko sa harapan ninyo ang ⟨את⟩ lupain; pumasok kayo at manahanin ninyo ang ⟨את⟩ lupain na isinumpa ni Yahweh sa inyong mga ama — kay Avraham, kay Yitshak, at kay Yaakov — na ibibigay sa kanila at sa kanilang binhi pagkatapos nila.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tingnan ninyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inilagay Ko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa harapan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pumasok kayo"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "at manahanin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "isinumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "sa inyong mga ama"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "at kay Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "na ibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "at sa kanilang binhi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "pagkatapos nila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:49.397998523Z",
+  "model": "glm-5.3"
+}

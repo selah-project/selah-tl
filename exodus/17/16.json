@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sinabi: Sapagkat ang kamay ay ⟨is⟩ sa trono ni Yah — digma para kay Yahweh laban kay Amalek, mula sa panuko hanggang panuko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כס",
+      "gloss": "trono"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "digma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "laban kay Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "mula sa panuko"
+    },
+    {
+      "surface": "דר",
+      "gloss": "hanggang panuko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:33.572951828Z",
+  "model": "glm-5.3"
+}

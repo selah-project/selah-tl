@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Kunin mo ang ⟨את⟩ mga Levita mula sa gitna ng mga anak ni Yisrael, at lilinisin mo sila.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mula sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "at lilinisin mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga Levita)"
+    }
+  ],
+  "timestamp": "2026-08-19T15:05:18.389446361Z",
+  "model": "glm-5.3"
+}

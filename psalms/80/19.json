@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "at hindi kami aatras mula sa iyo; buhayin mo kami, at sa iyong pangalan tatawagin ⟨namin⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "kami aatras"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mula sa iyo"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "buhayin mo kami"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "at sa iyong pangalan"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tatawagin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.230718822Z",
+  "model": "glm-5.3"
+}

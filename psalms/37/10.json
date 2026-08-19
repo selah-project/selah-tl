@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At pagkatapos ng maikling sandali, at wala na ang masama; at titingnan mo ang kinaroroonan niya, at wala na siya.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "at pagkatapos"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ng maikling sandali"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at wala na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "at titingnan mo nang mabuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kinaroroonan niya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "at wala na siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:20.461518850Z",
+  "model": "glm-5.3"
+}

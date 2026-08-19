@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At itinatag ko rin ang aking tipan ⟨את⟩ sa kanila, upang ibigay sa kanila ang ⟨את⟩ lupain ng Kenaan — ang ⟨את⟩ lupain ng kanilang pamamalagi bilang dayuhan, kung saan sila nanirahan bilang dayuhan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at ... rin"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "itinatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain ng Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain ng kanilang pamamalagi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ng kanilang pamamalagi bilang dayuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "sila nanirahan bilang dayuhan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:53.773811871Z",
+  "model": "glm-5.3"
+}

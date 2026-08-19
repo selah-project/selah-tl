@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Tipunin ⟨mo⟩ sa akin ang aking mga matapat, ang mga tumatahi ng aking tipan sa ⟨ibabaw ng⟩ hain.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "tipunin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "aking mga matapat"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ang mga tumatahi ng"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ⟨ibabaw ng⟩"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:13.468074626Z",
+  "model": "glm-5.3"
+}

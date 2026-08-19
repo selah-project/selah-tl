@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Bumaba sila mula sa mataas na lugar patungo sa ⟨ang⟩ lungsod, at nangusap siya kay Sha'ul sa ibabaw ng ⟨ang⟩ bubong.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Bumaba sila"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "mula sa mataas na lugar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa ⟨ang⟩ lungsod"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at nangusap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "bubong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:36.180905442Z",
+  "model": "glm-5.3"
+}

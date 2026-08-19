@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sapagkat itatago niya ako sa kanyang kubol sa araw ng kasamaan; ikukubli niya ako sa lihim na dako ng kanyang tolda; sa bato itataas niya ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "itatago niya ako"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa kanyang kubol"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ikukubli niya ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa lihim na dako"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ng kanyang tolda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "itataas niya ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:03.400429058Z",
+  "model": "glm-5.3"
+}

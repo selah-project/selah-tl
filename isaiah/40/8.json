@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Nalalanta ang damo, nalalagas ang bulaklak, ngunit ang salita ng ating Elohim ay tatayo magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "nalalanta"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ang damo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nalalagas"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ang bulaklak"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ngunit ang salita"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ng ating Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:40.463921377Z",
+  "model": "glm-5.3"
+}

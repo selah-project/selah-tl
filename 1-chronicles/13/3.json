@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At magpapanaog tayo ng ⟨את⟩ kaban ng ating Elohim sa atin, sapagkat hindi natin siya hinanap sa mga araw ni Sha'ul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "at magpapanaog tayo ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng ating Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban ng"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ating Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "hinanap natin siya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga araw ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:49.395735962Z",
+  "model": "glm-5.3"
+}

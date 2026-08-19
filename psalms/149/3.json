@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Purihin nila ang Kanyang pangalan sa pagsasayaw; sa tambol at alpa, magsiganya sila sa Kanya.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Purihin nila"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang Kanyang pangalan"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "sa pagsasayaw"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "sa tambol"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "at alpa"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "magsiganya sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa Kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.965183366Z",
+  "model": "glm-5.3"
+}

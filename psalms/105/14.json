@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Hindi niya hinayaang mang-api ang sinumang tao sa kanila, at pinatamaan niya ang mga hari alang-alang sa kanila.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "hinayaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "na mang-api sa kanila"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "at pinatamaan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alang-alang sa kanila"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:03.810116072Z",
+  "model": "glm-5.3"
+}

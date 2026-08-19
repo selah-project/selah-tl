@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "sa paglipat ng kaharian mula sa bahay ni Shaul, at sa pagtindig ng ⟨את⟩ trono ni David sa ibabaw ng Israel at sa ibabaw ng Yehudah, mula sa Dan hanggang sa Be'er Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "sa paglipat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ng kaharian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "at sa pagtindig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trono ni David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa ibabaw ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "mula sa Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:49.718624872Z",
+  "model": "glm-5.3"
+}

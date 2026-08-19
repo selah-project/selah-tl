@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nagsisi si Yahweh na ginawa niya ang ⟨את⟩ tao sa lupain, at nalungkot siya sa kaniyang puso.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "at nagsisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "at nalungkot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kaniyang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:42.391284462Z",
+  "model": "glm-5.3"
+}

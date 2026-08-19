@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Sapagkat narito, ang iyong mga kaaway ay nagugumon, at ang mga napopoot sa iyo ay nagtaas ng ulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ang iyong mga kaaway"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagugumon"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "at ang mga napopoot sa iyo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagtaas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ng ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.423020686Z",
+  "model": "glm-5.3"
+}

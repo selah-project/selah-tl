@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Yehoshua sa mga anak ni Yisrael: Lumapit kayo rito, at dinggin ninyo ang ⟨את⟩ mga salita ni Yahweh, ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "lumapit kayo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "at dinggin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:50.455255490Z",
+  "model": "glm-5.3"
+}

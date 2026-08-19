@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Hindi ba ang araw ni Yahweh ay ⟨is⟩ kadiliman at hindi liwanag, at karimlan at walang kinang para rito?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "at karimlan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "kinang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:01:37.988848128Z",
+  "model": "glm-5.3"
+}

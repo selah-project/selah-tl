@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 26:30",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sa mga Chevroni, si Chashavyahu at ang kanyang mga kapatid na mga anak ng bisa, isang libo at pitong daan, sa ⟨את⟩ pangangasiwa ng Yisrael, sa kabilang panig ng Yarden, sa kanluran, para sa buong gawain ni Yahweh at para sa paglilingkod sa hari.",
+  "tokens": [
+    {
+      "surface": "לחברוני",
+      "gloss": "sa mga Chevroni"
+    },
+    {
+      "surface": "חשביהו",
+      "gloss": "Chashavyahu"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "at ang kanyang mga kapatid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isang libo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "at pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ng mga daan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "⟨את⟩ pangangasiwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa kabilang panig"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ng Yarden"
+    },
+    {
+      "surface": "מערבה",
+      "gloss": "sa kanluran"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa buong"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעבדת",
+      "gloss": "at para sa paglilingkod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:19.753784979Z",
+  "model": "glm-5.3"
+}

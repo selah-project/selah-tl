@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sasagot ang lupa sa ⟨את⟩ trigo, at sa ⟨את⟩ bagong alak, at sa ⟨את⟩ langis, at sila ay sasagot sa ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "at ang lupa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trigo"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bagong alak"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "bagong alak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "langis"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "langis"
+    },
+    {
+      "surface": "והם",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:24.973843785Z",
+  "model": "glm-5.3"
+}

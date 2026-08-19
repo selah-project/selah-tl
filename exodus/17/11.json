@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nangyari: kapag itinaas ni Moshe ang kanyang kamay, nanaig ang Israel; at kapag pinahinga niya ang kanyang kamay, nanaig si Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itinaas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nanaig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "at kapag"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "pinahinga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "nanaig"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:59.855459660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "At itinatag niya sila magpakailanman, hanggang sa walang hanggan; nagtakda siya ng ⟨is⟩ batas at hindi ito malalampasan.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "at itinatag niya sila"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang sa walang hanggan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagtakda siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "malalampasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:24.582435228Z",
+  "model": "glm-5.3"
+}

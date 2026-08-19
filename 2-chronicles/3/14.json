@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ginawa niya ang ⟨את⟩ tabing — ng azul, at ng ube, at ng karmesi, at ng pinong lino; at pinaakyat niya roon ang mga kerub.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabing"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ang tabing"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "azul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "at ng ube"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "at ng karmesi"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "at ng pinong lino"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at pinaakyat niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "roon"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "mga kerub"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:19.591233427Z",
+  "model": "glm-5.3"
+}

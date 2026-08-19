@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At kunin ninyo ang ⟨את⟩ inyong mga kapatid, at tumindig kayo, magbalik kayo sa ⟨the⟩ lalaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga kapatid"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong mga kapatid"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "kunin ninyo"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "at tumindig kayo"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "magbalik kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:13.163318411Z",
+  "model": "glm-5.3"
+}

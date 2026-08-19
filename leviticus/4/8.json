@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ⟨את⟩ buong taba ng baka ng handog para sa pagkakasala ay itataas niya mula rito: ang ⟨את⟩ tabang tumatakip sa bituka, at ⟨את⟩ buong taba na nasa ibabaw ng bituka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong taba ng baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa pagkakasala"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ay itataas niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "tabang tumatakip sa bituka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tumatakip"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong taba na nasa bituka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bituka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:53.667270051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At kumuha si Avraham ng ⟨את⟩ mga kahoy ng ⟨ang⟩ handog na susunugin, at inilagay kay Yitshak na kanyang anak; at kumuha siya sa kanyang kamay ng ⟨את⟩ apoy at ⟨את⟩ ⟨ang⟩ kutsilyo; at nagpatuloy silang dalawa nang magkasama.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kahoy ng handog na susunugin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨ang⟩ handog na susunugin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na kanyang anak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apoy"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨ang⟩ apoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kutsilyo"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "⟨ang⟩ kutsilyo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at nagpatuloy sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sila'y dalawa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkasama"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:44.849703857Z",
+  "model": "glm-5.3"
+}

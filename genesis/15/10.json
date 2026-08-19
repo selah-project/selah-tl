@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Kinuha niya ang ⟨את⟩ lahat ng mga ito, at hiniwa niya ang mga ito sa gitna, at inilagay ang bawat hiwa na nakaharap sa kapwa nito; ngunit ang ⟨את⟩ mga ibon ay hindi hiniwa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihat ng mga ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "at hiniwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ito"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "hiwa nito"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nakaharap sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kapwa nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga ibon"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "mga ibon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "hiniwa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:58.615120151Z",
+  "model": "glm-5.3"
+}

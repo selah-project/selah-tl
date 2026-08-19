@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Natahimik ako, hindi ko binubuka ang aking bibig, sapagkat ikaw ang gumawa ⟨nito⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "natahimik ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ko binubuka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang aking bibig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang gumawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:42.377012309Z",
+  "model": "glm-5.3"
+}

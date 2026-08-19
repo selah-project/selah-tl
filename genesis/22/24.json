@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ang kanyang pingkian, na si Reuma ang pangalan, ay nanganak din ⟨siya⟩ ng ⟨את⟩ Tebach at ⟨את⟩ Gacham at ⟨את⟩ Tachash at ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "At ang kanyang pingkian"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "at ang pangalan niya"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "si Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ay nanganak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tebach"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "si Tebach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "si Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Tachash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "si Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "si Maakha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:08.168300272Z",
+  "model": "glm-5.3"
+}

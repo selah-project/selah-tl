@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At itali mo ang mga ito bilang tanda sa iyong kamay, at ⟨maging⟩ mga pambigkis sa pagitan ng iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "at itali mo ang mga ito"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "bilang tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "mga pambigkis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:46.936080448Z",
+  "model": "glm-5.3"
+}

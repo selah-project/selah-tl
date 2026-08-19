@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Matatag ang kanyang mga lakad sa lahat ng panahon; mataas ang iyong mga hatol, malayo sa kanyang paningin; sa lahat ng kanyang mga kaaway, siya ay humihihip ⟨ng hangin⟩ laban sa kanila.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "matatag"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ang kanyang mga lakad"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang iyong mga hatol"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "malayo sa kanyang paningin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "kanyang mga kaaway"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "humihihip ⟨ng hangin⟩"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "laban sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:41.332104960Z",
+  "model": "glm-5.3"
+}

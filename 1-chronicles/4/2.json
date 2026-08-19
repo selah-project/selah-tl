@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At Reayah na anak ni Shobal ay naging ama ni ⟨את⟩ Yachat; at si Yachat ay naging ama ni ⟨את⟩ Achumai at ni ⟨את⟩ Lahad. Ito ang mga pamilya ng mga Tsareati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "At Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "at si Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga pamilya"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "mga Tsareati"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:42.422400766Z",
+  "model": "glm-5.3"
+}

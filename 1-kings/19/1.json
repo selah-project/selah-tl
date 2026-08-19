@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ipinahayag ni Achav kay Izebel ang ⟨את⟩ lahat ng ginawa ni Eliyahu, at ang ⟨את⟩ lahat ng pinatay niya — ⟨את⟩ lahat ng mga propeta sa pamamagitan ng tabak.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kay Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapat ng ginawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat ng ginawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lalahat ng pinatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat ng pinatay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga propeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ng mga propeta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:22.913772920Z",
+  "model": "glm-5.3"
+}

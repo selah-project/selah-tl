@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At lumabas ang hari na si Yehoram sa araw na iyon mula sa Shomron, at isinagawa ang ⟨את⟩ bilang ng buong Israel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "si Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "mula sa Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "at biniyaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilang ng buong Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:48.503348819Z",
+  "model": "glm-5.3"
+}

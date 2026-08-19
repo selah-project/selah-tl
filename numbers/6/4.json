@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa lahat ng mga araw ng kaniyang paglalaan, ng anumang ginawa mula sa puno ng ubas, mula sa buto hanggang sa balat, ay hindi kakainin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ng kaniyang paglalaan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ng anumang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "mula sa puno ng ubas"
+    },
+    {
+      "surface": "היין",
+      "gloss": "⟨the⟩ ng alak"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "mula sa buto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "זג",
+      "gloss": "balat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:09.810107048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At pinunan niya ⟨את⟩ siya ng espirito ng Elohim — sa karunungan, sa unawa, at sa kaalaman, at sa bawat gawain.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "at pinunan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Betzalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espirito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "sa unawa"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "at sa kaalaman"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa bawat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:47.644188593Z",
+  "model": "glm-5.3"
+}

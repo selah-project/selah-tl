@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nakikilala ng baka ang may-ari nito, at ng asno ang sabsaban ng panginoon nito; ngunit si Yisrael ay hindi nakakakilala, ang aking bayan ay hindi nakauunawa.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Nakikilala"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "ang may-ari nito"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "at ng asno"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ang sabsaban"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ng panginoon nito"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang aking bayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "nakauunawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:29.490638730Z",
+  "model": "glm-5.3"
+}

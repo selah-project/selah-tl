@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At mangyayari, kapag sinabi niya sa iyo: Hindi ako aalis mula sa iyo, dahil iniibig niya ikaw at ⟨את⟩ iyong sambahayan, dahil mabuti sa kanya na kasama mo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At mangyayari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sinabi niya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ako aalis"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "mula sa iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "iniibig niya ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "iyong sambahayan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong sambahayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na kasama mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:14.001681020Z",
+  "model": "glm-5.3"
+}

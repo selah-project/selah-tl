@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pawawarain ng ⟨את⟩ saserdote ang mga ito sa ⟨את⟩ dambana — pagkaing handog na apoy na mabangong amoy; ang buong taba ay para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "at pawawarain niya ang mga ito"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na apoy"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "amoy"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mabango nakalulugod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:43.480170926Z",
+  "model": "glm-5.3"
+}

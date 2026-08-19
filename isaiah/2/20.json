@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sa araw na yaon, itatapon ng tao ang ⟨את⟩ mga diyus-diyosan ng kanyang pilak at ang ⟨את⟩ mga diyus-diyosan ng kanyang ginto, na ginawa nila para sa kanya upang sambahin, sa mga agaruang at sa mga paniki.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "itatapon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga diyus-diyosan ng kanyang pilak"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga diyus-diyosan"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ng kanyang pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga diyus-diyosan ng kanyang ginto"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga diyus-diyosan"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "ng kanyang ginto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "upang sambahin"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "sa mga agaruang"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "(mga butas)"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "at sa mga paniki"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:01.582714729Z",
+  "model": "glm-5.3"
+}

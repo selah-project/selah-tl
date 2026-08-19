@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ilalapit mo ang ⟨את⟩ mga Levita sa harapan ni Yahweh, at iidlap ng mga anak ni Yisrael ang ⟨את⟩ kanilang mga kamay sa mga Levita.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "at ilalapit mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "at iidlap ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kanilang mga kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:05:37.027144967Z",
+  "model": "glm-5.3"
+}

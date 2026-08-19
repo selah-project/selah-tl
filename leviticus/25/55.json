@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat sa akin ang mga anak ni Yisrael ⟨ay⟩ mga alipin — mga alipin ko sila, na inilabas ko ⟨את⟩ nila mula sa lupain ng Mitzrayim; ako si Yahweh, ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin ko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "inilabas ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga anak ni Yisrael)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:33.728043277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ⟨את⟩ ang anak ng yaanah, at ⟨את⟩ ang tachmas, at ⟨את⟩ ang shachaf, at ⟨את⟩ ang netz ayon sa kanyang uri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak ng yaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ng yaanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ang tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ang shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang netz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ang netz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ayon sa kanyang uri"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:40.576828070Z",
+  "model": "glm-5.3"
+}

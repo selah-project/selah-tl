@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawin mo ang ⟨את⟩ mga patpat na kahoy ng shittim, at babalutan mo ng ginto ang ⟨את⟩ mga ito, at babuhat sa pamamagitan nila ang ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga patpat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "at babalutan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ang ⟨את⟩ mga ito",
+      "marks": "ginto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "at babuhat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.904802981Z",
+  "model": "glm-5.3"
+}

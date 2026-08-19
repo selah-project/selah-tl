@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At iniwan ni David ang ⟨את⟩ mga kagamitan mula sa kaniya sa kamay ng tagapag-ingat ng mga kagamitan, at tumakbo siya sa hanay ng labanan, at dumating, at nagtanong sa kaniyang mga kapatid sa payapa.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "At iniwan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kagamitan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ang mga kagamitan"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mula sa kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ng tagapag-ingat"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ng mga kagamitan"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "at tumakbo"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "sa hanay ng labanan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "at nagtanong"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa kaniyang mga kapatid"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sa payapa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:00.562477949Z",
+  "model": "glm-5.3"
+}

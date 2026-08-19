@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng hari kay Haman: Ang pilak ay ibinigay na sa iyo, at ang bayan din, upang gawin mo sa kanya ang mabuti sa iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kay Haman"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "ibinigay na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "at ang bayan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo sa kanya"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "ang mabuti"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:43.464687857Z",
+  "model": "glm-5.3"
+}

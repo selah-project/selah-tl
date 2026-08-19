@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ginawa ni Balak ang ⟨את⟩ gaya ng sinabi ni Bilam, at naghandog siya ng ⟨את⟩ baka at ng ⟨את⟩ tupang lalaki sa ⟨את⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at naghandog siya"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "at tupang lalaki"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sa altar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:46.541133175Z",
+  "model": "glm-5.3"
+}

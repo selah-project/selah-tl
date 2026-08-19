@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Mga kurtina na labinlimang siko sa ⟨isang⟩ balikat; ang kanilang mga haligi ay tatlo, at ang kanilang mga pinggan ay tatlo.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampu (labing-)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "balikat (panig)"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "kanilang mga haligi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at ang kanilang mga pinggan (ose)"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:07.840115717Z",
+  "model": "glm-5.3"
+}

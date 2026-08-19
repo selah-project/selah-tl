@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At kumuha sina Moshe at Aharon ng ⟨את⟩ mga lalaking ito na tinukoy sa mga pangalan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lalaking ito"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "tinukoy"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "sa mga pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:59.468290284Z",
+  "model": "glm-5.3"
+}

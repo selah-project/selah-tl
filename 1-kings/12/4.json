@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "\"Pinabigat ng iyong ama ang ⟨את⟩ aming pamatok; ngunit ikaw, ngayon, pagaanin mo ang mahigpit na paglilingkod ng iyong ama, at ang kanyang mabigat na pamatok na inilagay niya sa amin, at maglilingkod kami sa iyo.\"",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "pinabigat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming pamatok"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "aming pamatok"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pagaanin mo"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ang ... paglilingkod"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mahigpit na"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "at ang kanyang pamatok"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mabigat na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inilagay niya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "at maglilingkod kami sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:13.709576327Z",
+  "model": "glm-5.3"
+}

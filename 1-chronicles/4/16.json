@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang mga anak ni Yehalelel: si Zif, si Zifa, si Tiryah, at si Asarel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Yehalelel"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "at si Zifa"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Tiryah"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "at si Asarel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:23.171033208Z",
+  "model": "glm-5.3"
+}

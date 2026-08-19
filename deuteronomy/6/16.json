@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Huwag ninyong subukin si ⟨את⟩ Yahweh na inyong Elohim, kung paanong inyong sinubukan ⟨siya⟩ sa Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ninyong subukin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh na inyong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "inyong sinubukan"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "sa Massah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:28.953130932Z",
+  "model": "glm-5.3"
+}

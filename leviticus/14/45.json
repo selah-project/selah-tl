@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At bubuwagin niya ang ⟨את⟩ bahay — ang ⟨את⟩ mga bato nito at ang ⟨את⟩ mga kahoy nito at ang ⟨את⟩ buong alabok ng bahay — at ilalabas niya sa labas ng lungsod, sa ⟨the⟩ maruming lugar.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "at bubuwagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato nito"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "mga bato nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga kahoy nito"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "mga kahoy nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong alabok ng bahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "at ilalabas niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "labas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:17.096434369Z",
+  "model": "glm-5.3"
+}

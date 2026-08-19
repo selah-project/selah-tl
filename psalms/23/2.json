@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa mga pastulan ng sariwang damo pinahihiga niya ako; sa tabig ng mga tubig ng kapayapaan pinapatnubay niya ako.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "sa mga pastulan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "sariwang damo"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "pinahihiga niya ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tabig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "pinapatnubay niya ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:55.638059591Z",
+  "model": "glm-5.3"
+}

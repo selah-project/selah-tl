@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang mga nagpapaalam sa Torah ay pumupuri sa masama, ngunit ang mga nag-iingat ng Torah ay nakikipaglaban sa kanila.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "ang mga nagpapaalam"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "pumupuri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa masama"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ngunit ang mga nag-iingat"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ng Torah"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:37.011933702Z",
+  "model": "glm-5.3"
+}

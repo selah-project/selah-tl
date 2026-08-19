@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Para ngang tanda ako sa marami, ngunit ikaw ang aking kanlungan, kalakasan.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "para ngang tanda"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako ⟨ay⟩"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "sa marami"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "aking kanlungan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kalakasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.143571573Z",
+  "model": "glm-5.3"
+}

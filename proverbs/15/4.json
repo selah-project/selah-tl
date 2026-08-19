@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang nagpapagaling na dila ay punongkahoy ng buhay, ngunit ang pagkabaluktot nito ay pagkasira ng kaluluwang-hininga.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "nagpapagaling"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "punongkahoy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ngunit pagkabaluktot"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nito"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "pagkasira"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "kaluluwang-hininga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:27.393279483Z",
+  "model": "glm-5.3"
+}

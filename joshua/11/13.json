@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ngunit ang lahat ng ⟨את⟩ mga lungsod na nakatayo sa kanilang bunton ay hindi sinusunog ng Israel; maliban lamang sa ⟨את⟩ Chatzor — ito lamang sinunog ni Yehoshua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngunit lamang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨ang⟩ mga lungsod"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "kanilang bunton"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "sinusunog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "maliban sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:35.958184031Z",
+  "model": "glm-5.3"
+}

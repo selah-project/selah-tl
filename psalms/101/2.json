@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 101,
+  "translation": "Magpapatalas ako ng pag-iisip sa daang walang kapintasan. Kailan mo ako paroroonan? Maglalakad ako sa katapatan ng puso ko sa loob ng aking bahay.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "magpapatalas ako ng pag-iisip"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang kapintasan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mo paroroonan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "maglalakad ako"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "sa katapatan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ng puso ko"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "aking bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:49.577604016Z",
+  "model": "glm-5.3"
+}

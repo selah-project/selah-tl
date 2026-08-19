@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Pagwasakin mo ang braso ng masama at ng masama; hanapin mo ang kanyang kasamaan — wala nang matatagpuan.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "pagwasakin mo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ang braso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "at ng masama"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "hanapin mo"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ang kanyang kasamaan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala nang"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "matatagpuan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:54.560743632Z",
+  "model": "glm-5.3"
+}

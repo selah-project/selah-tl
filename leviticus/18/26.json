@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At babantayan ninyo kayo ang ⟨את⟩ aking mga batas at ang ⟨את⟩ aking mga hatol, at huwag kayong gumawa ng alinman sa lahat ng mga karumal-dumal na ito, ang katutubo at ang dayuhan na naninirahan sa gitna ninyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at babantayan ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga batas"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ang aking mga batas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking mga hatol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang aking mga hatol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kayong gumawa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ng alinman sa lahat ng"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mga karumal-dumal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ang katutubo"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "at ang dayuhan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "na naninirahan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa gitna ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:08.718373979Z",
+  "model": "glm-5.3"
+}

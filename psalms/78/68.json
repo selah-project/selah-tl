@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Kundi hinirang niya ang ⟨את⟩ tribo ni Yehuda, ang ⟨את⟩ bundok ng Tsiyon na kanyang minahal.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "at hinirang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribo ni Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundok ng Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok ng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "minahal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:02.080825570Z",
+  "model": "glm-5.3"
+}

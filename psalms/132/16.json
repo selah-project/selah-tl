@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "At ang kanyang mga pari ay bibihisan ko ng kaligtasan, at ang kanyang mga banal ay magalak na sisigaw.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "at ang kanyang mga pari"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "bibihisan ko"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "at ang kanyang mga banal"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "magalak na sisigaw"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sisigaw sila ng tuwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:13.663623695Z",
+  "model": "glm-5.3"
+}

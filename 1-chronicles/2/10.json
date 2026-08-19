@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Ram ay naging ama ni ⟨את⟩ Aminadav, at si Aminadav ay naging ama ni ⟨את⟩ Nachshon, pangulo ng mga anak ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "At si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "at si Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ni Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:50.393942689Z",
+  "model": "glm-5.3"
+}

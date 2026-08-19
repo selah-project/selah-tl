@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Sa loob ng iyong mga tarangkahan kakainin mo ⟨siya⟩; ang marumi at ang malinis ⟨ay kakain⟩ nang magkasama, gaya ng usa at gaya ng taruk.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "sa loob ng iyong mga tarangkahan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "kakainin mo ⟨siya⟩"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ang marumi"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "at ang malinis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkasama"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "gaya ng usa"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "at gaya ng taruk"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:02.640932619Z",
+  "model": "glm-5.3"
+}

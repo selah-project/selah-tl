@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Sa araw na yaon, nagtipan si Yahweh kay Avram, na sinasabi: Sa iyong binhi ibinigay ko ang ⟨את⟩ lupaing ito, mula sa ilog ng Mitzrayim hanggang sa malaking ilog, sa ilog ng Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nagtipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "sa iyong binhi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupaing ito"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupaing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "mula sa ilog ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:07.823777411Z",
+  "model": "glm-5.3"
+}

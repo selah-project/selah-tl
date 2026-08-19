@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Upang kanilang ingatan ang kanyang mga batas at ang kanyang mga kautusan kanilang babantayan. Magbuning-buning kayo kay Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "kanilang ingatan"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ang kanyang mga batas"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "at ang kanyang mga kautusan"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "kanilang babantayan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Magbuning-buning kayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:38.935595647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Isang beses akong nagsalita, ngunit hindi ako sasagot; at dalawang beses, ngunit hindi na ako magdaragdag pa.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "isang beses"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsalita ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "sasagot ako"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "at dalawang beses"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "magdaragdag pa ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:55:18.090740407Z",
+  "model": "glm-5.3"
+}

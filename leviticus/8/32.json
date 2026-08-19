@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang natitira sa laman at sa tinapay, sa apoy ninyo susunugin.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "at ang natitira"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "sa laman"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "at sa tinapay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ninyo susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:47.370232913Z",
+  "model": "glm-5.3"
+}

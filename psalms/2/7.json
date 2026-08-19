@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Isasalaysay ko ang tungkol sa estatuto: sinabi ni Yahweh sa akin, \"Ikaw ang aking anak; ako, ngayong araw, ay ipinanganak kita.\"",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Isasalaysay ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "estatuto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ipinanganak kita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:09.097340068Z",
+  "model": "glm-5.3"
+}

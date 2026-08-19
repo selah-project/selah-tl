@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Mula sa ⟨את⟩ iyo ang aking papuri, sa dakilang kapisanan; ang aking mga nazar ay babayaran ko sa harap ng mga nananatakot sa kaniya.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "mula sa ⟨את⟩ iyo",
+      "marks": "iyo (sa iyo)"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ang aking papuri"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ang aking mga nazar"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "babayaran ko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nananatakot sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:40.596791301Z",
+  "model": "glm-5.3"
+}

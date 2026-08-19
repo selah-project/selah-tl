@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Mga natatakot sa iyo, makikita nila ako at magsasaya, sapagkat sa iyong salita umasa ako.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "mga natatakot sa iyo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "makikita nila ako"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "at magsasaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sa iyong salita"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "umasà ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:16.189757215Z",
+  "model": "glm-5.3"
+}

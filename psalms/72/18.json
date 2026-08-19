@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Purihin si Yahweh ⟨ang⟩ Elohim, ⟨ang⟩ Elohim ni Yisrael, na gumagawa ng mga kababalaghan nang mag-isa lamang!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "purihin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa ng"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga kababalaghan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nang mag-isa lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:43.661741177Z",
+  "model": "glm-5.3"
+}

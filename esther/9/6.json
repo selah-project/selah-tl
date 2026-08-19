@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sa Shushan ha-birah, pinatay ng mga Yehudi at sinira ang limang daang ⟨את⟩ tao.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "at sa Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ang kastilyo"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ang mga Yehudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "at sinira"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:13.718040746Z",
+  "model": "glm-5.3"
+}

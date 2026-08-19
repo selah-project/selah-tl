@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Sapagkat ang bawat lalaki — bawat lalaking sumusumpa sa ⟨את⟩ kanyang ama at sa ⟨את⟩ kanyang ina, kamatayan ang parusa sa kanya: ang kanyang ama at ina ay sumpa niya; ang kanyang dugo ay mapapasa kanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "sumusumpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩",
+      "marks": "kanyang ina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "kanyang ina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patayin siya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at kanyang ina"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "kanyang dugo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:06.486458176Z",
+  "model": "glm-5.3"
+}

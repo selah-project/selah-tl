@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung sa pagbutas matatagpuan ang magnanakaw at siyaʼy hinampas at namatay, walang mga dugo para sa kanya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sa pagbutas"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ang magnanakaw"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "at hinampas"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mga dugo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.787911078Z",
+  "model": "glm-5.3"
+}

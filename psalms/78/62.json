@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At ibinigay niya sa tabak ang kanyang bayan, at sa kanyang minanang lupain nagalit siya.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang kanyang bayan"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "at sa kanyang minanang lupain"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "nagalit siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:24.043766741Z",
+  "model": "glm-5.3"
+}

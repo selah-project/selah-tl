@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨ang⟩ Mishkan, ⟨את⟩ tolda nito at ⟨את⟩ pantakip nito, ⟨את⟩ mga kawit nito at ⟨את⟩ mga tabla nito, ⟨את⟩ mga barahan nito, ⟨את⟩ mga haligi nito at ⟨את⟩ mga base nito;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨ang⟩ Mishkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda nito"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tolda nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pantakip nito"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "pantakip nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kawit nito"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "mga kawit nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga tabla nito"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mga tabla nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga barahan nito"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mga barahan nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi nito"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "mga haligi nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga base nito"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mga base nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:49.935126496Z",
+  "model": "glm-5.3"
+}

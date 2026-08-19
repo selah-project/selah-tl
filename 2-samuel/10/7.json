@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Narito ni David, at nagsugo siya ng ⟨את⟩ Yoav at ng ⟨את⟩ buong hukbo ng mga makapangyarihang lalaki.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "narito ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nagsugo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong hukbo ng mga makapangyarihang lalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ng mga makapangyarihang lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:21.916669832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At nakita ng mga lalaki ng Israel na sapilit sila, sapagkat pinighati ang bayan; kaya nagkubli ang bayan sa mga yungib, at sa mga paghahawan, at sa mga bato, at sa mga matataas na lugar, at sa mga hukay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang mga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sapilit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "pinighati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "kaya nagkubli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "sa mga yungib"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "at sa mga paghahawan"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "at sa mga bato"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "at sa mga matataas na lugar"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "at sa mga hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:52.007860424Z",
+  "model": "glm-5.3"
+}

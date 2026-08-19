@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 126,
+  "translation": "Awit ng mga pag-ahong-baitang. Nang ipagbalik ni Yahweh ang ⟨את⟩ pagbabalik ng mga bihag ng Tsiyon, tayo'y naging parang mga nananaginip.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pag-ahong-baitang"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Nang ipagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbabalik ng mga bihag ng Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ang pagbabalik ng mga bihag"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tayo'y naging"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "parang mga nananaginip"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.641711593Z",
+  "model": "glm-5.3"
+}

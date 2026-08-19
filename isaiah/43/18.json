@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Huwag ninyong alalahanin ang mga sinaunang bagay, at ang mga unang panahon ay huwag ninyong pag-isipan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "ninyong alalahanin"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "mga sinaunang bagay"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "mga unang panahon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "ninyong pag-isipan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:00.935780326Z",
+  "model": "glm-5.3"
+}

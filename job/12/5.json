@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang sulo ng paghamak ay ⟨sa⟩ mga iniisip ng mapagpalagay; nakahanda ⟨siya⟩ sa mga nag-aanod ⟨ang⟩ paa.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "sulo"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "paghamak"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "sa mga iniisip"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "mapagpalagay"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nahahanda"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "sa mga nag-aanod"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:42.383092846Z",
+  "model": "glm-5.3"
+}

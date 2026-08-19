@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ayon sa iyong mga hatol, nakatayo sila sa araw na ito; sapagkat ang lahat ay mga lingkod mo.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "ayon sa iyong mga hatol"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nakatayo sila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa araw na ito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mga lingkod mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:59.127790017Z",
+  "model": "glm-5.3"
+}

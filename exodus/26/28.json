@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At ang gitnang bar, sa gitna ng mga board, ay dadaan mula sa ⟨isang⟩ dulo hanggang sa ⟨isang⟩ dulo.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "at ang bar"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "gitnang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mga board"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "dadaan\/patatakbong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨isang⟩ dulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨isang⟩ dulo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:52.309196390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang puno ay si Achi'ezer, at si Yo'ash, mga anak ni Shema'ah ang Gib'eonita <hidden>... galing mula sa Givat; at si Yiz'u'el at si Pelet, mga anak ni Azmavet; at si Berakha, at si Yehu ang Anatotita.",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo\/puno"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Achi'ezer"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "at si Yo'ash"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "Shema'ah"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "ang Gib'atita"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "at si Yiz'u'el"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "at si Pelet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "at si Berakha"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "at si Yehu"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ang Anatotita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:56.011896171Z",
+  "model": "glm-5.3"
+}

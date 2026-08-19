@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi ka makakagawa sa kanila at sa kanilang mga elohim ng tipan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ka makakagawa ng tipan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "at sa kanilang mga elohim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:55.994348669Z",
+  "model": "glm-5.3"
+}

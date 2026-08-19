@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Huwag mahiya dahil sa akin ang mga umaasa sa iyo, Adonai Yahweh Tsevaot; huwag mapahiya dahil sa akin ang mga naghahanap sa iyo, Elohim ng Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahiya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dahil sa akin"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ang mga umaasa sa iyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "mapahiya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dahil sa akin"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ang mga naghahanap sa iyo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:41.946615718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At sinabi ni Paroh kay Yosef, na nagsasabi: Ang iyong ama at ang iyong mga kapatid ay dumating sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang iyong ama"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "at ang iyong mga kapatid"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ay dumating"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:24.350763118Z",
+  "model": "glm-5.3"
+}

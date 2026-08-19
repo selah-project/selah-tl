@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ingatan mo ako na parang itim ng mata, na anak ng mata; sa lilim ng iyong mga pakpak iyong itatago ako.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ingatan mo ako"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "na parang itim (ng mata)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak (ng mata)"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa lilim ng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ang iyong mga pakpak"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "itatago mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:32.372302317Z",
+  "model": "glm-5.3"
+}

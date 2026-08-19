@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Ipinaalam ko sa iyo ang aking kasalanan, at ang aking kahalayan ay hindi ko tinakpan; sinabi ko: ipagtatapat ko ang tungkol sa aking pagsuksok kay Yahweh, at ikaw — ikinarga mo ang kahalayan ng aking kasalanan. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "aking kasalanan"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ipinaalam ko sa iyo"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "at ang aking kahalayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ko tinakpan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ipagtatapat ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "aking pagsuksok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ikinarga mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kahalayan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ng aking kasalanan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:42.583550975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ingatan ang ⟨את⟩ araw ng shabat upang santohin ito, kung paanong iniutos sa iyo ni Yahweh na iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ingatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng shabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "upang santohin ito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "iniutos sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:37.989474682Z",
+  "model": "glm-5.3"
+}

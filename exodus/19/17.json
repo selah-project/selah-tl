@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At dinadálá ni Moshe ang ⟨את⟩ bayan upang salubungin ang Elohim mula sa kampo, at nagtayô sila sa paanan ng bundok.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dinadálá"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "upang salubungin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "at nagtayô sila"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "sa paanan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ng bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:14.140398416Z",
+  "model": "glm-5.3"
+}

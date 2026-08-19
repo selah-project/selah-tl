@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Naghahanap sila ng mga kasamaan; naganap na, ang sikreto ay hanap na paghahanap; at ang kaloob-looban ng tao at ang puso ay malalim.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "naghahanap sila"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mga kasamaan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "naganap na"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ang sikreto"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "hanap na paghahanap"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "at ang kaloob-looban"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "at ang puso"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ay malalim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.633784606Z",
+  "model": "glm-5.3"
+}

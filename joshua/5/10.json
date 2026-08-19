@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nagkampo ang mga anak ni Yisrael sa Gilgal, at isinagawa nila ang ⟨את⟩ Pesach sa ikalabing-apat na araw ng buwan, sa takipsilim, sa kapatagan ng Yericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "At nagkampo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "at isinagawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ikalabing-apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa takipsilim"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ng Yericho"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:01.194078403Z",
+  "model": "glm-5.3"
+}

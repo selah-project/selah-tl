@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Sabihin nawa ng sambahayan ni Aharon: na magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Sabihin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng sambahayan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.302062668Z",
+  "model": "glm-5.3"
+}

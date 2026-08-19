@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At hindi binigyan ni Yahweh kayo ng puso na makaalam, at mga mata na makakita, at mga tainga na makarinig, hanggang sa araw na ito.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "binigyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ng puso"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "na makaalam"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "at mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "na makakita"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "at mga tainga"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "na makarinig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:30.032067511Z",
+  "model": "glm-5.3"
+}

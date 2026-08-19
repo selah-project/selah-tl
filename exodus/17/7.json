@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tinawag niya ang pangalan ng ⟨ang⟩ lugar na Massah at Meribah, dahil sa pagtutunggali ng mga anak ni Yisrael at dahil sa pagsubok nila kay ⟨את⟩ Yahweh, na nagsasabi: May Yahweh ba sa gitna natin, o wala?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ng ⟨ang⟩ lugar"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "at Meribah"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pagtutunggali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "pagsubok nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "may ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "sa gitna natin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:17.569341863Z",
+  "model": "glm-5.3"
+}

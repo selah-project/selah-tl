@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nilikha ng Elohim ang ⟨את⟩ tao sa Kanyang larawan; sa larawan ng Elohim nilikha Niya ⟨את⟩ siya; lalaki at babae nilikha Niya ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "At nilikha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "sa Kanyang larawan"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa larawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nilikha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "at babae"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nilikha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:54.664258471Z",
+  "model": "glm-5.3"
+}

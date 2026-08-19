@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "ngunit ang ikapitong araw ay Sabbath para kay Yahweh na Elohim mo; hindi ka gagawa ng anumang gawain — ikaw, ang iyong anak na lalaki at ang iyong anak na babae, ang iyong aliping lalaki at ang iyong aliping babae, ang iyong hayop, at ang dayuhan na nasa iyong mga tarangkahan.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ngunit ang araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka gagawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng anumang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "at ang iyong anak na lalaki"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "at ang iyong anak na babae"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong aliping lalaki"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "at ang iyong aliping babae"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "at ang iyong hayop"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "at ang dayuhan mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "nasa iyong mga tarangkahan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:28.349070642Z",
+  "model": "glm-5.3"
+}

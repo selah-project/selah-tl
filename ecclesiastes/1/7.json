@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Lahat ng mga ilog ay umaagos patungo sa dagat, ngunit ang dagat ay hindi napupuno; sa lugar na pinag-aagusan ng mga ilog, doon sila nagbabalik upang umagos muli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "mga ilog"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "pumupunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ngunit ang dagat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napupuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "na pinagpupuntahan ng mga ilog"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "pumupunta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "nagbabalik"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "upang umanos muli"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:14.823829538Z",
+  "model": "glm-5.3"
+}

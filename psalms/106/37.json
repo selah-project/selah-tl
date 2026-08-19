@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At naghain sila ng ⟨את⟩ kanilang mga anak at ⟨את⟩ kanilang mga anak na babae sa mga Sheddím (mga demonyo)",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "naghain sila ng handog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kanilang mga anak na lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga anak na babae"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "kanilang mga anak na babae"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "sa mga sheddím (mga demonyo)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.301002633Z",
+  "model": "glm-5.3"
+}

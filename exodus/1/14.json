@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At pinait nila ang ⟨את⟩ kanilang buhay sa mahirap na paglilingkod, sa putik at sa laryo, at sa lahat ng uri ng paggawa sa bukid; ⟨את⟩ lahat ng kanilang paglilingkod na pinaglingkod nila sa kanila ay nang may kalupitan.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "at pinait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang buhay"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "kanilang buhay"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "sa paglilingkod"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mahirap"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "sa putik"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "at sa laryo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa lahat"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ng paggawa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kanilang paglilingkod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ng kanilang paglilingkod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "pinaglingkod nila"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "nang may kalupitan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:53.170252730Z",
+  "model": "glm-5.3"
+}

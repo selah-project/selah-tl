@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At magtatakda ka ng hangganan sa ⟨את⟩ bayan sa paligid, na nagsasabi: Mag-ingat kayo sa inyong sarili sa umahon sa bundok o humawak sa gilid nito; sinumang humahawak sa bundok ay tiyak na papatayin.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "at magtatakda ka ng hangganan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "mag-ingat kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyong sarili"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sa umahon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "o humawak"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "sa gilid nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sinumang"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "humahawak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak na papatayin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:08.954840812Z",
+  "model": "glm-5.3"
+}

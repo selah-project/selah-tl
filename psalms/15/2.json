@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang lumalakad nang walang kapintasan, at gumagawa ng katuwiran, at nagsasalita ng katotohanan sa kanyang puso.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nang walang kapintasan"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "at gumagawa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "at nagsasalita"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ng katotohanan"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sa kanyang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:41.556146766Z",
+  "model": "glm-5.3"
+}

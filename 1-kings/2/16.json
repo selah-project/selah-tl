@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ngayon, isang kahilingan ang ⟨את⟩ hinihingi ko sa iyo; huwag mong itanggi ang ⟨את⟩ aking mukha. At sinabi niya sa kanya: Magsalita.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayon"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kahilingan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "hinihingi"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sa iyo",
+      "marks": "isang kahilingan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "mong itanggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aking mukha"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Magsalita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:55.269735362Z",
+  "model": "glm-5.3"
+}

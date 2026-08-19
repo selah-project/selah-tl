@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Oras ang pumatay, at oras ang magpagaling; oras ang magwasak, at oras ang magtayo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ang pumatay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ang magpagaling"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ang magwasak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ang magtayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:16.095475342Z",
+  "model": "glm-5.3"
+}

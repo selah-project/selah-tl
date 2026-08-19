@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ko sa inyo: Huwag kayong masisindak at huwag kayong matakot sa kanila.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kayong masisindak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kayong matakot"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:39.678835199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nagkaanak si Hever ng ⟨את⟩ Yaflet, ng ⟨את⟩ Shomer, ng ⟨את⟩ Chotam, at ng ⟨את⟩ Shua na kanilang kapatid na babae.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "at si Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "kanilang kapatid na babae"
+    }
+  ],
+  "timestamp": "2026-08-19T19:55:46.808049115Z",
+  "model": "glm-5.3"
+}

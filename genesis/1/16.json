@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ginawa ng Elohim ⟨את⟩ ang dalawang malalaking ilaw: ⟨את⟩ ang malaking ilaw upang pamahalaan ang araw, at ⟨את⟩ ang maliit na ilaw upang pamahalaan ang gabi, at ⟨את⟩ ang mga bituin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalawang malalaking ilaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang dalawang"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ilaw"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "malalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang malaking ilaw"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ang ilaw"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "upang pamahalaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang maliit na ilaw"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ang ilaw"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "upang pamahalaan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ang gabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga bituin"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ang mga bituin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:34.832278540Z",
+  "model": "glm-5.3"
+}

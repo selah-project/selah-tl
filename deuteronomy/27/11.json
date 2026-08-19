@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At iniutos ni Moshe sa ⟨את⟩ bayan sa araw na iyon, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "At iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:39.380464290Z",
+  "model": "glm-5.3"
+}

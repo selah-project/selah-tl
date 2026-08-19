@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At may dalawang anak na lalake ang iyong aliping babae, at nag-away ang dalawa sa bukid, at walang humihiwalay sa kanilang dalawa, at pinagsakmal ng isa ang ⟨את⟩ isa, at siya'y pinatay niya.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "at sa iyong aliping babae"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak na lalake"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "at nag-away"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang kanilang dalawa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "humihiwalay\/humihinga"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "sa kanilang dalawa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at pinagsakmal"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:17:21.363415954Z",
+  "model": "glm-5.3"
+}

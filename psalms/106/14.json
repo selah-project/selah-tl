@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At naghangad sila ng matinding pagnanasa sa ilang, at tinukso ang El sa tuyong disyerto.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "naghangad"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ng pagnanasa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "tinukso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa tuyong disyerto"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:16.381262365Z",
+  "model": "glm-5.3"
+}

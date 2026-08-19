@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Konti lamang — tatawirin ng iyong lingkod ⟨את⟩ Yarden na kasama ⟨את⟩ ng hari; at bakit gantimpalahan pa ako ng hari ng gayong gantimpala?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "konti lamang"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "tatawirin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ng iyong lingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ang Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (kasama)",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "gantimpalahan ako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "ng gantimpala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:42.049665332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat walang matuwid na tao sa lupa na gumagawa ng mabuti at hindi nagkakasala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "nagkakasala"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:52.136689922Z",
+  "model": "glm-5.3"
+}

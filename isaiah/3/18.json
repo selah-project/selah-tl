@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa araw na yaon, aalisin ni Adonai ang ⟨את⟩ aliwalas ng mga tsinelas na may kampanilya, at ng mga pandekorasyon na ulo, at ng mga kabilugang-tulad-ng-buwan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaon"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "aalisin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aliwalas \/ gayak"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "aliwalas\/gayak"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "mga tsinelas na may kampanilya"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "at mga pandekorasyon na ulo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "at mga kabilugang-tulad-ng-buwan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:24.213958067Z",
+  "model": "glm-5.3"
+}

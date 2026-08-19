@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Sapagkat hindi manghihinto ang dukha mula sa gitna ng lupain; kaya nga ako nag-uutos sa iyo, na nagsasabi: Buksan mo nga ang ⟨את⟩ iyong kamay sa iyong kapatid, sa iyong mahirap at sa iyong dukha sa iyong lupain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "manghihinto"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ang dukha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nag-uutos sa iyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "buksan mo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kamay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "sa iyong kapatid"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "sa iyong mahirap"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "at sa iyong dukha"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa iyong lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:01.961874713Z",
+  "model": "glm-5.3"
+}

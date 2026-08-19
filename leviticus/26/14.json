@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ngunit kung hindi kayo makinig sa akin, at hindi ninyo gawin ang ⟨את⟩ lahat ng mga utos na ito,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kayo makinig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga utos na ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ng mga utos"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:09.803535432Z",
+  "model": "glm-5.3"
+}

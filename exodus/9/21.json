@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ⟨sila⟩ na hindi nagtakda ng kanilang puso sa salita ni Yahweh ay iniwan ang ⟨את⟩ kanilang mga alipin at ang ⟨את⟩ kanilang mga hayop sa bukid.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "at ⟨sila⟩ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagtakda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kanilang puso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "at iniwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanilang mga alipin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga hayop"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kanilang mga hayop"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:41.144824733Z",
+  "model": "glm-5.3"
+}

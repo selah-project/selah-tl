@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Ang aming kalasag — masdan, O Elohim, at tingnan Mo ang mukha ng iyong Mashíaj.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ang aming kalasag"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "masdan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "at tingnan Mo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang mukha ng"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "iyong Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:19.317403123Z",
+  "model": "glm-5.3"
+}

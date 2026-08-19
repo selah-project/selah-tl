@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Makinig ka nga, at ako'y magsasalita; itatanong ko sa iyo, at ipaalam mo sa akin.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "makinig ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "magsasalita"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "itatanong ko sa iyo"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "ipaalam mo sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:25.504736304Z",
+  "model": "glm-5.3"
+}

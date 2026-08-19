@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Silang mga iyon ay yumukod tuhod at bumagsak, ngunit kami ay tumindig at tumayong matatag.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "silang mga iyon"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "yumukod tuhod"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "at bumagsak"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngunit kami"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ay tumindig"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "at tumayong matatag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:37.621182354Z",
+  "model": "glm-5.3"
+}

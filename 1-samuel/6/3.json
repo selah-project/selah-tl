@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi nila: Kung isusugo ninyo ang ⟨את⟩ aron ng Elohim ng Yisrael, huwag ninyong ⟨את⟩ ito ipadala na walang laman, sapagkat katiyakang babalik kayo sa kanya ng handog para sa pagkakasala; kung magkagayon, magagaling kayo, at makikilala ninyo kung bakit hindi humihinto ang kanyang kamay sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At sinabi nila"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "isusugo ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron ng Elohim ng Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ninyong ipadala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (na walang laman)"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "na walang laman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat katiyakan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "katiyakang babalik"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "kayong magbabalik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "handog para sa pagkakasala"
+    },
+    {
+      "surface": "אז",
+      "gloss": "kung magkagayon"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "magagaling kayo"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "at makikilala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kung bakit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "humihinto"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:58.431348405Z",
+  "model": "glm-5.3"
+}

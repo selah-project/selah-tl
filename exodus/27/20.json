@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At ikaw, utusan mo ang ⟨את⟩ mga anak ni Yisrael, at magdala sila sa iyo ng langis ng olibo, dalisay, dinurog, para sa ilawan, para sa pag-iilaw ng taglay na lampara.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "utusan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at magdala sila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ng olibo"
+    },
+    {
+      "surface": "זך",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "dinurog"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para sa ilawan"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "para sa pag-iilaw"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampara"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang tuloy-tuloy"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:24.080619071Z",
+  "model": "glm-5.3"
+}

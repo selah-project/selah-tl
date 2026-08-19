@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang pinunong kulang sa unawa ay maraming pang-aapi, ngunit ang mapoot sa sariling pakinabang ay magpapatagal ng mga araw.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "unawa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ngunit marami"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "pang-aapi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mapoot"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sariling pakinabang"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "magpapatagal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:12.892238955Z",
+  "model": "glm-5.3"
+}

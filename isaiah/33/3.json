@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Sa ingay ng kaguluhan, tumakas ang mga bayan; sa iyong pagtataas, nagsabog ang mga bansa.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sa ingay ng"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "tumakas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "sa iyong pagtataas"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nagsabog"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:30.660683505Z",
+  "model": "glm-5.3"
+}

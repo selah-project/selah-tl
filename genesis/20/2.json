@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni Avraham kay Sarah na asawa niya, \"Kapatid ko ⟨siya⟩,\" kaya't nagsugo si Avimelech, hari ng Gerar, at kinuha ⟨את⟩ si Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na asawa niya"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "\"Kapatid ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya\""
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kaya't nagsugo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "ng Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:11.497114884Z",
+  "model": "glm-5.3"
+}

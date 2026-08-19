@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At inalis siya ng hari ng Mitzrayim sa Yerushalayim, at pinarusahan niya ang ⟨את⟩ lupa nang isang daang talentong pilak at isang talentong ginto.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "at inalis siya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "at pinarusahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talento"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "at isang talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:21.340278538Z",
+  "model": "glm-5.3"
+}

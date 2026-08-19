@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sapagkat narito, naglalatag sila ng bitag sa aking buhay; nagkakapisan laban sa akin ang mga marahas — hindi dahil sa aking pagsuwayal, ni sa aking pagkakasala, o Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "naglalatag sila ng bitag"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa aking buhay"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "nagkakapisan sila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ang mga marahas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang aking pagsuwayal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ang aking pagkakasala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:43.066540796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Labindalawa kaming mga kapatid, mga anak ng aming ama; ang isa ay wala na, at ang bunso ay ngayon ⟨את⟩ kasama ng aming ama sa lupain ng Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu [labindalawa]"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "mga kapatid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ng aming ama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ay wala na"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "at ang bunso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming ama"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aming ama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:07.969866295Z",
+  "model": "glm-5.3"
+}

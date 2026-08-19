@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nabuhay si Shelach na tatlumpung taon, at ipanganak niya si ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "At si Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabuhay"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipanganak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:49.432798646Z",
+  "model": "glm-5.3"
+}

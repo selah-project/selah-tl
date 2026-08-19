@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ilalapit mo si ⟨את⟩ Aharon at ang ⟨את⟩ mga anak niya sa pasukan ng tolda ng kapisanan, at maliligo mo sila sa tubig.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "at ilalapit mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "si ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga anak niya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "at maliligo mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (si Aharon at mga anak niya)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:59.667826179Z",
+  "model": "glm-5.3"
+}

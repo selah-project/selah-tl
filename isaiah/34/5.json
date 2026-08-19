@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Sapagkat nabusog sa ⟨the⟩ langit ang aking espada; narito, bababa sa Edom, at sa bayang inilaan ko sa pagkalipol, sa paghuhukom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "nabusog"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa ⟨the⟩ langit"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ang aking espada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bababa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "inilaan ko sa pagkalipol"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sa paghuhukom"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:39.188921969Z",
+  "model": "glm-5.3"
+}

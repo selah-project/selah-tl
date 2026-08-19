@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang mga binilang sa kanila, sa tribo ni Efrayim, ay apat na pung libo at limang daan.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang mga binilang sa kanila"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat na pu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:17.738136445Z",
+  "model": "glm-5.3"
+}

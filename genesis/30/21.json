@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At pagkatapos ay nanganak siya ng anak na babae, at tinawag niya ang ⟨את⟩ pangalan nito: Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "at pagkatapos"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nanganak siya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:18.910206026Z",
+  "model": "glm-5.3"
+}

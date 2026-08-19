@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At si ⟨את⟩ Aharon at ang ⟨את⟩ kanyang mga anak ay iyong itatalaga, at babantayan nila ang ⟨את⟩ kanilang pagkasaserdote; ang di-saserdote na lumalapit ay papatayin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "iyong itatalaga"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "at babantayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pagkasaserdote"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "kanilang pagkasaserdote"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "at ang di-saserdote"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lumalapit"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ay papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:47.407516820Z",
+  "model": "glm-5.3"
+}

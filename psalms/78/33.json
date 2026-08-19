@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Kaya tinapos Niya sa kahalayan ang kanilang mga araw, at ang kanilang mga taon sa pangamba.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tinapos Niya"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "sa kahalayan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ang kanilang mga araw"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "at ang kanilang mga taon"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "sa pangamba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:35.617037330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Lahat ng mga lungsod ng kapatagan, at ang buong Gilead, at ang buong Bashan hanggang Salkha at Edrei — mga lungsod ng kaharian ni Og sa Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ng kapatagan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "at Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "mמלכת",
+      "gloss": "ng kaharian"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:45.828607583Z",
+  "model": "glm-5.3"
+}

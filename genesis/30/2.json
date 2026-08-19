@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sumiklab ang galit ni Yaakov laban kay Rahel, at sinabi niya: Ako ba ang nakalagay sa haligid ng Elohim, na siyang tumanggi sa iyo ng bunga ng bahay-bata?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "at sumiklab (ang galit)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong \/ galit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "laban kay Rahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "sa haligid ba ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tumanggi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ng bahay-bata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:44.412450415Z",
+  "model": "glm-5.3"
+}

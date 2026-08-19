@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Matapos niyang pagtaluin si Sichon, hari ng Emori, na tumatahan sa Cheshvon, at ⟨את⟩ si Og, hari ng Bashan, na tumatahan sa Ashtarot sa Edrei —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Matapos"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "niyang pagtaluin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "si Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tumatahan"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "sa Cheshvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "si Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tumatahan"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "sa Edrei"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:46.900565689Z",
+  "model": "glm-5.3"
+}

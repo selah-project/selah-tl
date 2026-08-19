@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sinabi ni David: Ihahabilin ba ako ng mga panginoon ng Keila, ⟨את⟩ ako at ⟨את⟩ ang aking mga tauhan, sa kamay ni Saul? At sinabi ni Yahweh: Ihahabilin ka nila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "ihahabilin ba"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ng mga panginoon"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ng Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking mga tauhan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang aking mga tauhan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "ihahabilin ka nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:31.720544151Z",
+  "model": "glm-5.3"
+}

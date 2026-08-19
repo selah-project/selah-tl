@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang mga anak ni Ketura, pingkakasama ni Avraham: ipinanganak niya ang ⟨את⟩ Zimran, at Yokshan, at Medan, at Midyan, at Yishbak, at Shuach; at ang mga anak ni Yokshan: Sheva at Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak ni"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pingkakasama ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ipinanganak niya ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "at Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "at Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "at Midyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "at Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "at Shuach"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "at Dedan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:07.187203055Z",
+  "model": "glm-5.3"
+}

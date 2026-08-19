@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At ang ⟨את⟩ kaniyang mga anak ay lalapitin mo, at bibihisan mo sila ng mga kutunet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "kaniyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "lalapitin mo"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "at bibihisan mo sila"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga kutunet"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:59.183209350Z",
+  "model": "glm-5.3"
+}

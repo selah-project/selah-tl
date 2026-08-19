@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "⟨את⟩ araw upang mamahala sa araw, sapagkat hanggang magpakailanman ang kanyang kahabagan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw (na ningning)"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw (na ningning)"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "upang mamahala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kahabagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.894383626Z",
+  "model": "glm-5.3"
+}

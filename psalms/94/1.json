@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "El ng mga paghihiganti, si Yahweh; El ng mga paghihiganti, ⟨siya⟩ ay nagliwanag.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ng mga paghihiganti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ng mga paghihiganti"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "nagliwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:55.619227250Z",
+  "model": "glm-5.3"
+}

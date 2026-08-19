@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sumulat siya roon sa mga bato ang ⟨את⟩ kopya ng Torah ni Moshe, na isinulat niya sa harapan ng mga anak ng Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "at sumulat siya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopya ng Torah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kopya"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ng Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "isinulat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:39:57.902235116Z",
+  "model": "glm-5.3"
+}

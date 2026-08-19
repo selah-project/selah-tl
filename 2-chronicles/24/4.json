@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nangyari pagkatapos nito, sumagi sa puso ni Yoash na ipanibago ang ⟨את⟩ bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sumagi\/naging"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa\/kasama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "na ipanibago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:33:26.970259866Z",
+  "model": "glm-5.3"
+}

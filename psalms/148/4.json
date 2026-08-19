@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "Purihin ninyo siya, ⟨mga⟩ langit ng ⟨mga⟩ langit, at ⟨mga⟩ tubig na ⟨nasa⟩ itaas ng ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Purihin ninyo siya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "⟨mga⟩ langit ng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "at ⟨mga⟩ tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨nasa⟩ itaas ng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:15.929405437Z",
+  "model": "glm-5.3"
+}

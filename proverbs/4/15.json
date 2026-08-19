@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Iwasan mo ito, huwag lumampas dito; lumihis ka mula rito at lumampas.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "iwasan mo ito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "lumampas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "lumihis ka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "at lumampas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:44.542538288Z",
+  "model": "glm-5.3"
+}

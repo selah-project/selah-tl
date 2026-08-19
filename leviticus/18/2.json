@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Magsalita ka sa mga anak ng Israel, at sabihin mo sa kanila: Ako si Yahweh, ang ⟨inyong⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "magsalita ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:20.630603155Z",
+  "model": "glm-5.3"
+}

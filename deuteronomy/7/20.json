@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ipadadala rin ni Yahweh na iyong Elohim ang ⟨את⟩ putakti sa kanila, hanggang sa mapahamak ang mga natitira at nagkukubli sa iyong harapan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at rin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang putakti"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang putakti"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipadadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mapahamak"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ang mga natitira"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "at nagkukubli"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa iyong harapan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:27.595050592Z",
+  "model": "glm-5.3"
+}

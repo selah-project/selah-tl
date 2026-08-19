@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At sa puno ng ubas ay tatlong sanga; at ⟨siya⟩ ay parang namumulaklak, umahon ang kanyang bulaklak, namulungan ang mga kumpol nito ⟨na⟩ ubas.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "at sa puno ng ubas"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "parang namumulaklak"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ang kanyang bulaklak"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "namulungan"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "ang mga kumpol nito"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ubas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:15.182216140Z",
+  "model": "glm-5.3"
+}

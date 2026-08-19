@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Umawit kayo kay Yahweh, sapagkat kadakilaan ang kanyang ginawa; ipaalam ito sa buong ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Umawit kayo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גֵאוּת",
+      "gloss": "kadakilaan"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "ang kanyang ginawa"
+    },
+    {
+      "surface": "מִיֻּדַּעַת",
+      "gloss": "ipaalam"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:32.201493234Z",
+  "model": "glm-5.3"
+}

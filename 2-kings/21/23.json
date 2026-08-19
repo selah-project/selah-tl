@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Nagsabuwatan ang mga lingkod ni Amon laban sa kanya, at pinatay nila si ⟨את⟩ hari sa kaniyang sariling bahay.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "nagsabuwatan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga lingkod"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "at pinatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "si ⟨the⟩ hari"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa kaniyang sariling bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:05.604463622Z",
+  "model": "glm-5.3"
+}

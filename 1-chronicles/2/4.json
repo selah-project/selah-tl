@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Tamar, manugang niya, ay nanganak sa kanya ng ⟨את⟩ Perets at ng ⟨את⟩ Zerach. Lahat ng mga anak ni Yehudah ay lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "At si Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "manugang niya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Lahat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:54.003498344Z",
+  "model": "glm-5.3"
+}

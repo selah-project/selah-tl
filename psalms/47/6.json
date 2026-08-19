@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Umakyat si Elohim na may masayang sigaw, si Yahweh na may tunog ng shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na may masayang sigaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na may tunog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:14.318970158Z",
+  "model": "glm-5.3"
+}

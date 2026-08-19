@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Dahil sa iyong pagngangalit at sa iyong poot, sapagkat inangat mo ako at hinagis mo ako palayo.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "iyong pagngangalit"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "at iyong poot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "inangat mo ako"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "at hinagis mo ako palayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:29.555534259Z",
+  "model": "glm-5.3"
+}

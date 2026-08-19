@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Hiningahan ng aking mga kaaway ang buong araw, sapagkat marami ang nakikipaglaban sa akin mula sa kaitaasan.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "hiningahan"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mula sa kaitaasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:10.202364986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Nagpadala muli si Shaúl ng ⟨את⟩ mga sugo upang makita si David, na nagsasabi: dalhin ninyo ⟨אתו⟩ siya sa higaan sa akin, upang patayin siya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sugo"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "dalhin ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "sa higaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "upang patayin siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:55.166196251Z",
+  "model": "glm-5.3"
+}

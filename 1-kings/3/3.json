@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At iniibig ni Shelomoh si ⟨את⟩ Yahweh, na lumakad sa mga tuntunin ni David na kaniyang ama; ngunit sa mga mataas na dako siya ⟨lang⟩ naghahandog at nagsusunog ng insenso.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "at iniibig"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "na lumakad"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga tuntunin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kaniyang ama"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngunit lamang"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga mataas na dako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "naghahandog"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "at nagsusunog ng insenso"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:50.330682075Z",
+  "model": "glm-5.3"
+}

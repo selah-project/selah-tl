@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mga kawikaan ni Shelomoh. Ang marunong na anak ay nagpapasaya sa ama, ngunit ang hangal na anak ay kadalamhatian ng kaniyang ina.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "mga kawikaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagpapasaya"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ngunit anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kadalamhatian"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ng kaniyang ina"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:03.433627269Z",
+  "model": "glm-5.3"
+}

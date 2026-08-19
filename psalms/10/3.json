@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat pinuri ng masama ang pithaya ng kanyang kaluluwa, at pinagpala ng tubero — hinamak niya si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "pinuri"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "על",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pithaya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ng kanyang kaluluwa"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ng tubero"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "hinamak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:43.110599476Z",
+  "model": "glm-5.3"
+}

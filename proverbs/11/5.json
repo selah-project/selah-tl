@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang katuwiran ng taong tapat nagtatama ng kaniyang lakad; at sa kaniyang kasamaan, mahuhulog ang masama.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "taong tapat"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "nagtatama ng"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kaniyang lakad"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "at sa kaniyang kasamaan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "mahuhulog"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:13.017672676Z",
+  "model": "glm-5.3"
+}

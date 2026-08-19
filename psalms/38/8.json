@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sapagkat ang aking mga baywang ay napuno ng pamumuhos ng init, at walang kagalingan sa aking laman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ang aking mga baywang"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pamumuhos ng init"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kagalingan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "sa aking laman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:31.845787492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 10:12",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang gumagawa ng lupa sa kaniyang kapangyarihan, ang nagtatatag ng sangkalupaan sa kaniyang karunungan, at sa kaniyang unawa ay iniunat ang mga langit.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "sa kaniyang kapangyarihan"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "nagtatatag"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sangkalupaan"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "sa kaniyang karunungan"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "at sa kaniyang unawa"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "iniunat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:38.221346350Z",
+  "model": "glm-5.3"
+}

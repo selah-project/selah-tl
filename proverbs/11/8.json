@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang matuwid, mula sa kapighatian, inililigtas; at pumasok ang masama sa kaniyang dako.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "mula sa kapighatian"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "inililigtas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kaniyang dako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:13.018114707Z",
+  "model": "glm-5.3"
+}

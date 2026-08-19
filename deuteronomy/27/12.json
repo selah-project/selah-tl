@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ang mga ito ang tatayo upang pagpalain ang ⟨את⟩ bayan sa bundok ng Gerizim, sa pagtawid ninyo sa ⟨את⟩ Jordan: Shim'on, at Levi, at Yehuda, at Yissakhar, at Yosef, at Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ang mga ito"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ang tatayo"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "upang pagpalain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "sa pagtawid ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "at Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "at Yissakhar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "at Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "at Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:39.380631117Z",
+  "model": "glm-5.3"
+}

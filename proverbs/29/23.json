@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang kayabangan ng tao magpapaibaba sa kaniya, ngunit ang mapagpakumbabang-loob ay tatanggapin ng karangalan.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "kayabangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "magpapaibaba sa kaniya"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ngunit ang mapagpakumbaba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng loob\/ruach"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "tatanggapin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "karangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:15.686834038Z",
+  "model": "glm-5.3"
+}

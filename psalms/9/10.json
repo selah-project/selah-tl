@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At magiging kuta si Yahweh sa nalulupig, kuta sa mga panahon ng kagipitan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At magiging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "sa nalulupig"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "sa mga panahon"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ng kagipitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:30.751090767Z",
+  "model": "glm-5.3"
+}

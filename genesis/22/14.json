@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At tinawag ni Avraham ang pangalan ng lugar na iyon na 'Yahweh Yireh'; kaya't sinasabi hanggang ngayong araw, 'Sa bundok ni Yahweh ay makikita.'",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ng lugar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Yireh (makakita)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kaya't"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sinasabi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hanggang ngayong araw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ay makikita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:35.044785764Z",
+  "model": "glm-5.3"
+}

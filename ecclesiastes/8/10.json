@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kaya'y nakita ko ang masasamang tao na inilibing — sila'y pumasok ⟨din⟩, at mula sa banal na dako ay lumalakad sila, at nakalimutan sila sa lungsod na gayon ang ginawa nila. Ganoon din ito: karangalan.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "at kaya'y"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masasamang tao"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "at mula sa dako"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "lumalakad sila"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "at nakalimutan sila"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "karangalan (walang laman)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:30.953564254Z",
+  "model": "glm-5.3"
+}

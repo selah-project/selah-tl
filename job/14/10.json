@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ngunit ang lalaki ay mamamatay at hihina; humihingá na huli ang tao — at nasaan na siya?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "Ngunit ang lalaki"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamamatay"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "at hihina"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "humihingá na huli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "at nasaan na siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:45.313146673Z",
+  "model": "glm-5.3"
+}

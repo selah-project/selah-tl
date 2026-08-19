@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At para sa kanya ay naghanda ⟨siya⟩ ng mga kasangkapan ng kamatayan; ang kanyang mga palaso ay gagawin ⟨niya⟩ na madilap",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "at para sa kanya"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naghanda"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ang kanyang mga palaso"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "na madilap \/ para sa mga nanununugot"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:21.643996849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nagsalita si Elohim kay Moshe, at sinabi niya sa kaniya: Ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:53.773458689Z",
+  "model": "glm-5.3"
+}

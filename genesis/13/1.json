@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At umahon si Avram mula sa Mitsrayim — siya at ang asawa niya at ang lahat ng kanyroon sa kanya, at si Lot na kasama niya — patungo sa Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "at ang asawa niya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "at si Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "patungo sa Negev"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:19.466075563Z",
+  "model": "glm-5.3"
+}

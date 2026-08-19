@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Parang ungol ng batang leon ⟨ang⟩ takot ng hari; ang nagpapasiklab sa kanya ay nagkakasala sa kanyang ⟨sariling⟩ buhay.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ungol"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "parang batang leon"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "takot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "ang nagpapasiklab sa kanya"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "nagkakasala"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa kanyang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:40.012836719Z",
+  "model": "glm-5.3"
+}

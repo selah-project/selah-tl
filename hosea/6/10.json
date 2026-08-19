@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa bahay ni Yisrael ay nakita ko ang nakakagimbal na bagay; doon ang pakikiapid para kay Efrayim, nagkaroon ng karumihan si Yisrael.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ay nakita ko"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "ang nakakagimbal na bagay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ang pakikiapid"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "para kay Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "nagkaroon ng karumihan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:49.705151064Z",
+  "model": "glm-5.3"
+}

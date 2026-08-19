@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At gagawin ko sa iyo ang ⟨את⟩ hindi ko nagawa at ang ⟨את⟩ hindi ko gagawin na katulad niyan pa, dahil sa lahat ng iyong karumal-dumal na kasuklam-suklam.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "at gagawin ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hindi ko nagawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ko nagawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "hindi ko gagawin na katulad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ko gagawin"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "katulad niyan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "iyong mga kasuklam-suklam"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:42.628998524Z",
+  "model": "glm-5.3"
+}

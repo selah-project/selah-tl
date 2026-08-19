@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Narito, dumarating ang mga araw, neum ni Yahweh, at maghahasik ako sa ⟨את⟩ sambahayan ng Israel at sa ⟨את⟩ sambahayan ng Yehudah — binhi ng tao at binhi ng hayop.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "darating"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "at maghahasik ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sambahayan ng Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sambahayan ng Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "at binhi"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ng hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T17:28:45.874248641Z",
+  "model": "glm-5.3"
+}

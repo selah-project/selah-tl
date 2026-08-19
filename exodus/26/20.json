@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At para sa ikalawang gilid ng Mishkan, sa gilid ng hilaga: dalawampung keresh.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "at para sa gilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "hilaga"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "keresh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:55.845113556Z",
+  "model": "glm-5.3"
+}

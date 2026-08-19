@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At dumating ang mga lalaki ng Yehuda, at ⟨את⟩ doon nila pinaharian si David bilang hari sa bahay ng Yehuda. At ibinalita kay David, na sinasabi: Ang mga lalaki ng Yavesh-Gilead ang ⟨את⟩ naglibing ⟨את⟩ kay Shaul.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "At dumating"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "וימשחu",
+      "gloss": "pinaharian"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "pinaligiran ng langis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨את⟩ doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "At ibinalita"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Ang mga lalaki"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ng Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "⟨את⟩ naglibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:12.838983238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Alalahanin ang kanyang mga kamangha-manghang gawa na ginawa niya, ang kanyang mga tanda at ang mga hatol ng kanyang bibig.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "alalahanin"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mga kamangha-manghang gawa niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mga tanda niya"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "at mga hatol"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ng kanyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.320904883Z",
+  "model": "glm-5.3"
+}

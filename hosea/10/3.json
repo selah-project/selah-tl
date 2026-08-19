@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat ngayon sabihin nila: Walang hari sa amin, sapagkat hindi natin kinilaban ang ⟨את⟩ Yahweh — at ang hari, ano ang gagawin niya sa atin?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sabihin nila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "kinilaban natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:13.110795404Z",
+  "model": "glm-5.3"
+}

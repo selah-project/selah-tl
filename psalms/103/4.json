@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Na nagtubos sa iyong buhay mula sa pagkawasak, nagtutakip ng korona sa iyo ng kagandahang-loob at mga awa.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Na nagtubos"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mula sa pagkawasak"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "sa iyong buhay"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "nagtutakip ng korona sa iyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ng kagandahang-loob"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "at mga awa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:57.419444164Z",
+  "model": "glm-5.3"
+}

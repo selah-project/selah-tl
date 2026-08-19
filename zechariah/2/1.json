@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At iniangat ko ang ⟨את⟩ aking mga mata, at nakita ko, at narito, apat na mga sungay.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "at iniangat ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "at nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mga sungay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:31.176261635Z",
+  "model": "glm-5.3"
+}

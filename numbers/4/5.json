@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At pumasok si Aharon at ang kaniyang mga anak kapag naglalakbay ang kampo, at bababaín nila ang ⟨את⟩ tabing ng harong, at tatakpan nila sa pamamagitan nito ang ⟨את⟩ kaban ng patotoo.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang kaniyang mga anak"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kapag naglalakbay"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "at bababaín nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabing"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabing"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ng harong"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "at tatakpan nila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa pamamagitan nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng patotoo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:24.101414255Z",
+  "model": "glm-5.3"
+}

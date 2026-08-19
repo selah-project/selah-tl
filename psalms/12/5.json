@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Na nagsabi: Sa aming dila kami magpapanaig; ang aming mga labi ay ⟨את⟩ kasama namin; sino ang panginoon sa amin?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "sa aming dila"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "magpapanaig"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ang aming mga labi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kasama namin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "panginoon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:35.636053270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Sa mga banal na nasa lupa — sila, at mga marangal, ang lahat ng aking kasiyahan ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "sa mga banal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nasa lupa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "at mga marangal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "aking kasiyahan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nasa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:17.434525121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Mata kapalit mata, ngipin kapalit ngipin, kamay kapalit kamay, paa kapalit paa.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "paa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "paa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:47.074402873Z",
+  "model": "glm-5.3"
+}

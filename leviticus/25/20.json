@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At kung inyong sasabihin, Ano ang kakainin natin sa ikapitong taon? narito, hindi tayo maghahasik at hindi tayo mag-aani ng ⟨את⟩ ating ani.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sasabihin ninyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ang kakainin natin"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "הן",
+      "gloss": "narito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "maghahasik tayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "mag-aani tayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ating ani"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ating ani"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:23.905793063Z",
+  "model": "glm-5.3"
+}

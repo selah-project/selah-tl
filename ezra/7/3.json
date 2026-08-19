@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "anak ni Amarjah, anak ni Azarjah, anak ni Merajot",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ni Amarjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ni Azarjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ni Merajot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:25.895688059Z",
+  "model": "glm-5.3"
+}

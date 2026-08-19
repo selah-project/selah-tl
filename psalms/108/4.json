@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Magpapasalamat ako sa iyo sa mga bayan, O Yahweh, at mag-aawit ako sa iyo sa mga leom.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Magpapasalamat ako sa iyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga bayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "at mag-aawit ako sa iyo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa mga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "leom"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:37.946166731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Kalev: Ang hahampasin sa ⟨את⟩ Kiryat-Sefer at huhulihin ito, sa kanya ibibigay ko si ⟨את⟩ Aksah na aking anak na babae bilang asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "hahampasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "at huhulihin ito"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aksah"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "na aking anak na babae"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bilang asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:05.728132525Z",
+  "model": "glm-5.3"
+}

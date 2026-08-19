@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Yahweh sa Satanas: Saan ka nagmula? At sumagot ang Satanas ⟨את⟩ kay Yahweh at nagsabi: Mula sa pagpapaligid-paligid sa lupain at mula sa paglalakad-lakad dito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ang Satanas"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ka nagmula"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "At sumagot"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ang Satanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Mula sa pagpapaligid-paligid"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "at mula sa paglalakad-lakad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:46:06.696177208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang nagtatatuwa ng disiplina ay humahamak sa kanyang ⟨kaluluwa⟩, ngunit ang nakikinig ng saway ay nagkakamit ng puso — ng pag-unawa.",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "nagtatatuwa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplina"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "humahamak"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kanyang kaluluwa"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "ngunit ang nakikinig"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "saway"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "nagkakamit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:40.790788639Z",
+  "model": "glm-5.3"
+}

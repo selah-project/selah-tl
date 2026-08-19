@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At naalala ni Elohim si ⟨את⟩ Noach, at ⟨את⟩ ang lahat ng hayop, at ⟨את⟩ ang lahat ng hayop na ⟨את⟩ kasama niya sa arka; at pinadaan ni Elohim ang isang hangin sa ibabaw ng lupa, at humupa ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "at naalala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang lahat ng hayop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang lahat ng hayop (baka)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayop na baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "at pinadaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "at humupa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:58.980774593Z",
+  "model": "glm-5.3"
+}

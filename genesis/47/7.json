@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At ipinakilala ni Yosef ang ⟨את⟩ Yaakov na kanyang ama, at pinatayo niya siya sa harapan ni Paroh; at binasbasan ni Yaakov ang ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at ipinakilala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ang Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kanyang ama"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "at pinatayo niya siya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ang Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:24.351376560Z",
+  "model": "glm-5.3"
+}

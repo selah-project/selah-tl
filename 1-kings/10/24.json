@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang buong lupa ay naghahanap ⟨את⟩ ng mukha ni Shelomoh, upang makinig ⟨את⟩ ng kaniyang karunungan na ibinigay ng Elohim sa kaniyang puso.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng mukha ni Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "upang makinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng kaniyang karunungan"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "kaniyang karunungan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kaniyang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:13.522769119Z",
+  "model": "glm-5.3"
+}

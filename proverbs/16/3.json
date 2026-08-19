@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ihanda kay Yahweh ang iyong mga gawa, at ang iyong mga balak ay matatatag.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Ihanda (sa pamamagitan ng pag-irog)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang iyong mga gawa"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "at matatatag"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ang iyong mga balak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:46.545222845Z",
+  "model": "glm-5.3"
+}

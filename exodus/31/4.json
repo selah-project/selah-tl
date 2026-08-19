@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "sa pagbabalak ng mga balak, sa paggawa sa ginto at sa pilak at sa tanso:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "sa pagbabalak"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ng mga balak"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paggawa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sa ginto"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "at sa pilak"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "at sa tanso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:25.350819368Z",
+  "model": "glm-5.3"
+}

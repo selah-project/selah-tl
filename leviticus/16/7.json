@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At kukunin niya ang ⟨את⟩ dalawang lalaking kambing, at itatayo niya ang ⟨את⟩ mga ito sa harapan ni Yahweh, sa pasukan ng tolda ng kapisanan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukunin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang lalaking kambing"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ang mga lalaking kambing"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "at itatayo niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga ito",
+      "marks": "sa harapan ni Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:28.194028631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang iyong pagkaupo, ang iyong paglabas, at ang iyong pagpasok ay aking nakikilala, at ⟨את⟩ ang iyong pagngangalit laban sa akin.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "at ang iyong pagkaupo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "at ang iyong paglabas"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "at ang iyong pagpasok"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aking nakikilala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong pagngangalit"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ang iyong pagngangalit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "laban sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:39.017578907Z",
+  "model": "glm-5.3"
+}

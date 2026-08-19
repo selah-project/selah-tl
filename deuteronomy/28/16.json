@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sumpain ka sa siyudad, at sumpain ka sa bukid",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "sumpain ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "at sumpain ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:59.204764274Z",
+  "model": "glm-5.3"
+}

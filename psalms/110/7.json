@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Mula sa batis sa daan ay iinom siya; kaya't itataas niya ang ulo.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Mula sa batis"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "iinom siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't dahil dito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't dahil dito"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itataas niya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:08.134878192Z",
+  "model": "glm-5.3"
+}

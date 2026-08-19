@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Yahweh kay Moshe sa Midyan: Umalis ka, bumalik ka sa Mitsrayim, sapagkat patay na ang lahat ng mga lalaking naghahanap ng ⟨את⟩ iyong buhay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "sa Midyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "umalis ka"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bumalik ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "naghahanap ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong buhay"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "iyong buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:09.027615330Z",
+  "model": "glm-5.3"
+}

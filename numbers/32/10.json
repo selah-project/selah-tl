@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Nag-alab ang galit ni Yahweh sa araw na yaon, at nanumpa Siya, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nag-alab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit (ilong)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "at nanumpa Siya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:53.543073317Z",
+  "model": "glm-5.3"
+}

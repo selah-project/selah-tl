@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Upang itakda sa kanila na maging gagawa sila ng ⟨את⟩ araw na ikalabimpito ng buwan ng Adar at ⟨את⟩ araw na ikalabinglima nito, sa bawat taon at taon.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "upang itakda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "na maging"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gagawa sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ikalabimpito (apat-na-sampu)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ikalabinglima (lima)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nito"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "at taon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:43.669563603Z",
+  "model": "glm-5.3"
+}

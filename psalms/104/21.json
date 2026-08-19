@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Ang mga batang leon ay umuungal para sa biktima, at upang hanapin mula sa El ang kanilang pagkain.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "ang mga batang leon"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "uumuungal"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "para sa biktima"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "at upang hanapin"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "mula sa El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang kanilang pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:21.570185042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Idagdag mo ang kasamaan sa ibabaw ng kanilang kasamaan, at huwag silang pumasok sa iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Idagdag mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kanilang kasamaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sila pumasok"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:35.854310697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Gutóm at uhaw din, ang kanilang ⟨kanilang⟩ kaluluwa ay nanglupaypay sa loob nila.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "gutóm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "uhaw"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "kanilang kaluluwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "nanglupaypay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:08.992377429Z",
+  "model": "glm-5.3"
+}

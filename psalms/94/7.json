@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "At nagsabi sila, 'Hindi makakakita si Yah, at hindi uunawain ng Elohim ni Yaakov.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makakakita"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "uunawain"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.021119717Z",
+  "model": "glm-5.3"
+}

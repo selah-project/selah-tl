@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kahubaran ng iyong ama at ang kahubaran ng iyong ina — huwag mong ibubunyag; siya ang iyong ina, huwag mong ibubunyag ang kanyang kahubaran.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "at ang kahubaran"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ng iyong ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mong ibubunyag"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ang iyong ina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mong ibubunyag"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ang kanyang kahubaran"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:52.584957229Z",
+  "model": "glm-5.3"
+}

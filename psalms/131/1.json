@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 131,
+  "translation": "Awit ng mgaumaangat, ni David. Yahweh, hindi lumalong ⟨ang⟩ aking puso, at hindi tumana ang aking mga mata, at hindi ako lumakad sa mga dakilang bagay at sa mga kamanghaang higit sa akin.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga-umaangat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "lumalong"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "tumana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ako lumakod"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "sa mga dakilang bagay"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "at sa mga kamanghaan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "higit sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:37.467043856Z",
+  "model": "glm-5.3"
+}

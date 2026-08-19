@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Huhugasan ko sa kalinisang-puri ang aking mga palad, at lilibutin ko ang ⟨את⟩ iyong dambana, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "huhugasan ko"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "sa kalinisang-puri"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang aking mga palad"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "at lilibitin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong dambana"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "iyong dambana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.914735042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "O Elohim ko, ilagay Mo sila na parang gulong na gumugulong, na parang dayami sa harapan ng hangin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim ko"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ilagay Mo sila"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "parang gulong na gumugulong"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "parang dayami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:08.882384647Z",
+  "model": "glm-5.3"
+}

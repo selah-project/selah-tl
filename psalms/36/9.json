@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Magabusog-binubusog sila sa taba ng iyong bahay, at bulaong ng iyong mga kaligayahan ay paiinumin mo sila.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "magabusog-binubusog sila"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "taba"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng iyong bahay"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "at bulaong"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "ng iyong mga kaligayahan"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "paiinumin mo sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:43.563631621Z",
+  "model": "glm-5.3"
+}

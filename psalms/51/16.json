@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Iligtas mo ako sa mga dugo, Elohim, Elohim ng aking kaligtasan, at aking dila ay aawit nang malakas ng iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "aking kaligtasan"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "aawit nang malakas"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "aking dila"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:17.822511553Z",
+  "model": "glm-5.3"
+}

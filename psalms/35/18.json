@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Magpapasalamat ako sa iyo sa malaking kongregasyon, sa laking bayan ikaw ay aking papurihan.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magpapasalamat ako sa iyo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kongregasyon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "laking"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ikaw ay aking papurihan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:51.938220619Z",
+  "model": "glm-5.3"
+}

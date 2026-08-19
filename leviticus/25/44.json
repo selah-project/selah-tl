@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ang iyong aliping lalaki at aliping babae na magiging ⟨ay⟩ sa iyo — mula sa ⟨את⟩ mga bansang nasa palibot ninyo, mula sa kanila bibilhin ninyo ang aliping lalaki at aliping babae.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "at ang iyong aliping lalaki"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "at aliping babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula sa ⟨את⟩",
+      "marks": "mga bansang nasa palibot ninyo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "nasa palibot ninyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mula sa kanila"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "bibilhin ninyo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aliping lalaki"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at aliping babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:14.856514810Z",
+  "model": "glm-5.3"
+}

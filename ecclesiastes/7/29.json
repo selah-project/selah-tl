@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Tingnan mo, ito lamang ang nahanap ko: ginawa ni Elohim ang ⟨את⟩ tao na tuwid, ngunit sila ay naghánap ng maraming mga balak.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nahanap ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "naghánap"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "mga balak"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:49.376365473Z",
+  "model": "glm-5.3"
+}

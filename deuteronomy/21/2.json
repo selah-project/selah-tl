@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Lalabas ang iyong mga nakatatanda at ang iyong mga hukom, at susukatin nila patungo sa mga lungsod na nasa paligid ng ⟨si⟩ pinatay,",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ang iyong mga nakatatanda"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "at ang iyong mga hukom"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "at susukatin nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "nasa paligid ng"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "pinatay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:26.877479864Z",
+  "model": "glm-5.3"
+}

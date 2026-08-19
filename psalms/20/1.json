@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Sa tagapanguna; mizmor ⟨na⟩ ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa tagapanguna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:09.905544037Z",
+  "model": "glm-5.3"
+}

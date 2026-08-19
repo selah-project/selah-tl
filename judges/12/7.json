@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At hinatol ni Yiftach ang ⟨את⟩ Israel na anim na taon; at namatay si Yiftach na Giladita, at inilibing sa mga lunsod ng Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "hinatol"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na taon"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "na Giladita"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga lunsod"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ng Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:41.269810431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Madiliman ang kanilang mga mata sa pagkakita, at ang kanilang mga baywang ay laging nangangatog.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "madiliman"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang kanilang mga mata"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "sa pagkakita"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "at ang kanilang mga baywang"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "laging"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "nangangatog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:35.142379211Z",
+  "model": "glm-5.3"
+}

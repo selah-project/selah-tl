@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sumagot sila kay ⟨את⟩ Yehoshua, na nagsasabi: Ang lahat ng ipinagutos mo sa amin ay gagawin namin, at sa bawat lugar na iyong ipapatalaga sa amin ay tatakban namin.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "At sumagot sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "kay Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ipinagutos mo sa amin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gagawin namin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "iyong ipapatalaga sa amin"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tatakban namin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:06.037540158Z",
+  "model": "glm-5.3"
+}

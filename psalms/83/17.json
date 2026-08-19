@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Punuin ang kanilang mga mukha ng kahihiyan, at hanapin nila ang iyong pangalan, Yahweh.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Punuin"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ang kanilang mga mukha"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ng kahihiyan"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "at hanapin nila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:53.094889001Z",
+  "model": "glm-5.3"
+}

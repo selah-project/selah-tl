@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Na Iyong iniingatan para sa lingkod Mo, kay David na ama ko, ⟨את⟩ ang ipinangako Mo sa kanya; Iyong sinabi sa Iyong bibig, at sa Iyong kamay Iyong tinupad, gaya ng araw na ito.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "Iyong iniingatan"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "para sa lingkod Mo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ipinangako Mo sa kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Iyong sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "at Iyong sinabi"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sa Iyong bibig"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "at sa Iyong kamay"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "Iyong tinupad"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:54.597330276Z",
+  "model": "glm-5.3"
+}

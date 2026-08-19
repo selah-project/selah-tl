@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sumagot si Eli at sinabi, Umalis ka nang may kapayapaan, at ibigay ng Elohim ng Israel ang ⟨את⟩ hiling mo na hiningi mo mula sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "si Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "umalis ka"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nang may kapayapaan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at ng Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiling mo"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "hiling mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "hiningi mo"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "mula sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:30.873916098Z",
+  "model": "glm-5.3"
+}

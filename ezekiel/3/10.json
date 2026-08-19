@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi Niya sa akin: Anak ng tao, ang ⟨את⟩ lahat ng Aking mga salita na sasabihin Ko sa iyo, tanggapin mo sa iyong puso, at ng iyong mga tainga makinig ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng Aking mga salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lanut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ng Aking mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sasabihin Ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tanggapin mo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa iyong puso"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "at ng iyong mga tainga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "makinig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:08.824091057Z",
+  "model": "glm-5.3"
+}

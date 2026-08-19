@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Nang matapos si David sa pagpapasampa ng holocausto at ng mga handog-na-kapayapaan, binasbasan niya ang ⟨את⟩ bayan sa pangalan ni Yahweh Tzevaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nang matapos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "sa pagpapasampa ng"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "holocausto"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "at mga handog-na-kapayapaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binasbasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:04.104029402Z",
+  "model": "glm-5.3"
+}

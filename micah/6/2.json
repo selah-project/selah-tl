@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Makinig kayo, mga bundok, sa ⟨את⟩ hatol ni Yahweh, at ⟨mga⟩ matitibay na ⟨mga⟩ pundasyon ng lupa; sapagkat may hatol si Yahweh sa kanyang bayan, at sa Israel siya magtatanggol.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatol"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "at matitibay"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "may hatol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "magtatanggol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:48.718265421Z",
+  "model": "glm-5.3"
+}

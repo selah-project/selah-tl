@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Masama — sa kataasan ng kanyang ilong — hindi niya hinahanap; 'walang Elohim' — ang lahat ng kanyang mga balakin.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Masama"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sa kataasan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ng kanyang ilong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "niya hinahanap"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ng kanyang mga balakin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:43.110738797Z",
+  "model": "glm-5.3"
+}

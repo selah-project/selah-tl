@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At ⟨ang⟩ tupang ⟨את⟩ ay hihiwain mo sa mga piraso nito, at hihilamusan mo ang kanyang mga loob at ang kanyang mga binti, at ilalagay mo ⟨ito⟩ sa mga piraso nito at sa ulo nito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tupang"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang tupang"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "hihiwain mo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sa mga piraso nito"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "at hihilamusan mo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ang kanyang mga loob"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "at ang kanyang mga binti"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "mga piraso nito"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:50.926831813Z",
+  "model": "glm-5.3"
+}

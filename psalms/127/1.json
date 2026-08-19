@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 127,
+  "translation": "Awit ng mga pag-ahong-baitang, kay Shelomoh. Kung hindi babangunin ni Yahweh ang ⟨את⟩ bahay, walang-labin ang nagpagal ng mga nagtatayo nito; kung hindi babantayan ni Yahweh ang ⟨את⟩ lungsod, walang-labin ang magpuyat ang bantay.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pag-ahong-baitang"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "babangunin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "walang-labin"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nagpagal"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "ang mga nagtatayo nito"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "babantayan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "walang-labin"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "magpuyat"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ang bantay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:02.415852301Z",
+  "model": "glm-5.3"
+}

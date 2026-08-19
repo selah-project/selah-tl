@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kaloob ng tao ay nagluluwang ng daan para sa kanya, at sa harap ng mga dakila ay pinapatnubay sa kanya.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "kaloob"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "nagluluwang ng daan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga dakila"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "pinapatnubay sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:25.909184873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Narito, ang mga unang bagay ay dumating na, at ang mga bagong bagay ay ipinahayag ko; bago pa sila sumibol, iparinig ko sa ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "ang mga unang bagay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating na"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "at ang mga bagong bagay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "sila sumibol"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "iparinig ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:35.932289294Z",
+  "model": "glm-5.3"
+}

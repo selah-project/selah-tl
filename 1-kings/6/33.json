@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At gayundin niya ginawa sa pintuan ng ⟨את⟩ templo: mga haliging pinto na gawa sa kahoy ng olibo, mula sa ikaapat na bahagi.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "at gayundin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pintuan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ng templo"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga haliging pinto"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olibo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "templo"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "ikaapat na bahagi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:28.283340017Z",
+  "model": "glm-5.3"
+}

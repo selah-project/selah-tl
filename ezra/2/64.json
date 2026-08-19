@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang buong kapisanan na parang iisang tao: apat na sampu-libo, dalawang libo, tatlong daan, at animnapu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "na parang iisang tao"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "sampu-libo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "animnapu"
+    }
+  ],
+  "timestamp": "2026-08-19T19:12:40.277828086Z",
+  "model": "glm-5.3"
+}

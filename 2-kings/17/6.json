@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sa ikasiyam na taon ni Hoshéa, dinakip ng hari ng Ashur ang ⟨את⟩ Shomron, at ipinatapon ang ⟨את⟩ Israel sa Ashur, at pinatira sila sa Chalach at sa Chevor, ilog ng Gozan, at sa mga lunsod ng Madai.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa taon"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ikasiyam"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ni Hoshéa"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "dinakip"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "at ipinatapon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at pinatira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silang Israel"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "at sa Chevor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ng Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "at sa mga lunsod"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ng Madai"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:14.945993561Z",
+  "model": "glm-5.3"
+}

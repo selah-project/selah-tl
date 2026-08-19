@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sinabi ni Avraham sa kaniya: Mag-ingat ka, huwag mong ibalik ang ⟨את⟩ anak ko doon!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mag-ingat ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka \/ huwag"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ibalik mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:44.104061387Z",
+  "model": "glm-5.3"
+}

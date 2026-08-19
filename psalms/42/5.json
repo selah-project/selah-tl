@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ang mga ito ay inaalala ko, at ibinubuhos ko ang aking kaluluwa sa akin; sapagkat lumalampas ako sa karamihan, marahang lumalakad kasama nila hanggang sa bahay ni Elohim, sa tinig ng sigaw ng kasiyahan at pasasalamat, kasama ang karamihang nagdiriwang.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "inaalala ko"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "at ibinubuhos ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "lumalampas ako"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "sa karamihan"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "marahang lumalakad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sigaw ng kasiyahan"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "at pasasalamat"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ang karamihan"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "nagdiriwang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:17.064174226Z",
+  "model": "glm-5.3"
+}

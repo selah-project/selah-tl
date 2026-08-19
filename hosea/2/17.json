@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ibibigay Ko sa kanya ang ⟨את⟩ kaniyang mga ubasan mula roon, at ang ⟨את⟩ libis ng Akor ay magiging pinto ng pag-asa; at sasagot siya roon gaya ng mga araw ng kaniyang kabataan, at gaya ng araw ng kaniyang pag-ahon mula sa lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay Ko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga ubasan"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "kaniyang mga ubasan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "libis ng Akor"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "libis"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pinto ng"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "pag-asa"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "at sasagot siya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "gaya ng mga araw"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ng kaniyang kabataan"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "at gaya ng araw"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ng kaniyang pag-ahon"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:31.777890963Z",
+  "model": "glm-5.3"
+}

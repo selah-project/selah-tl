@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ginawa ng lahat ng mga anak ni Yisrael ayon sa iniutos ni Yahweh ⟨את⟩ Moshe at ⟨את⟩ Aharon — gayon nga sila gumawa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gumawa sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:58.256001385Z",
+  "model": "glm-5.3"
+}

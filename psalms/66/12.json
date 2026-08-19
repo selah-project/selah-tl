@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Pinaandar Mo ⟨את⟩ mga tao sa aming mga ulo; dumating kami sa apoy at sa tubig, ngunit inilabas Mo kami sa kasaganaan.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Pinaandar Mo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "sa aming mga ulo"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "dumating kami"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "at sa tubig"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "ngunit inilabas Mo kami"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "sa kasaganaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:58.678022972Z",
+  "model": "glm-5.3"
+}

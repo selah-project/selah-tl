@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat sa kanan at sa kaliwa kang lalaganap, at ang iyong lahi ay mang-aangkin ng mga bansa, at ang mga sirang lungsod ay papanirahan nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sa kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "at sa kaliwa"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "lalaganap kang"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "at ang iyong lahi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mang-aangkin"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "at ang mga lungsod"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "sirang"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "papanirahan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:28.853951905Z",
+  "model": "glm-5.3"
+}

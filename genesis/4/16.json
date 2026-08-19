@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At lumabas si Kayin sa harap ni Yahweh, at tumira sa lupain ng Nod, sa silangan ng Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "At lumabas"
+    },
+    {
+      "surface": "קין",
+      "gloss": "si Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at tumira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain ng"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "sa silangan ng"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:10.574173272Z",
+  "model": "glm-5.3"
+}

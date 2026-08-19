@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At magiging kubliaan ⟨ito⟩ na anino sa araw laban sa init, at kanlungan, at taguan laban sa unos at laban sa ulan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "at kubliaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "na anino"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "laban sa init"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "at kanlungan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "at taguan"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "laban sa unos"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "at laban sa ulan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:42.854451659Z",
+  "model": "glm-5.3"
+}

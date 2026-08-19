@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kaniyang sinabi: Purihin si Yahweh, ang Elohim ng Israel, na nagsalita sa ⟨את⟩ kaniyang bibig kay David na aking ama, at sa kaniyang kamay naganap, na sinasabi:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At kaniyang sinabi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Purihin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa kaniyang bibig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David na aking ama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "na aking ama"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "at sa kaniyang kamay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naganap"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:52.604148568Z",
+  "model": "glm-5.3"
+}

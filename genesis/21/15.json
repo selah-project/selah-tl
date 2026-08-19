@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nauubos ang tubig mula sa balon, at itinapon niya ⟨את⟩ ang bata sa ilalim ng isa sa mga palumpong.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "at nauubos"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "sa balon"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "at itinapon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "sa mga palumpong"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:57.630062343Z",
+  "model": "glm-5.3"
+}

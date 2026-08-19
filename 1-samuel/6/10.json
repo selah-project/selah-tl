@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ginawa ng mga lalaki ang gayon, at kumuha sila ng dalawang baka na nagpapasuso, at tinali sila sa kariton, at ⟨את⟩ mga anak nila ay isinara sa bahay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga lalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at kumuha sila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "baka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nagpapasuso"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "at tinali sila"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "sa kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak nila"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "mga anak nila"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "isinara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:57.528087233Z",
+  "model": "glm-5.3"
+}

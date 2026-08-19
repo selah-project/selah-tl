@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sa mga anak ni Aharon ⟨ay⟩ ang kanilang mga bahagi: ang mga anak ni Aharon ⟨ay⟩ si Nadav at Avihu, Elazar at Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "At sa mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ang kanilang mga bahagi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "si Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "at Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "at Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:26:16.880474249Z",
+  "model": "glm-5.3"
+}

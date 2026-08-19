@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Sapagkat ikaw, Yahweh, ay aking kanlungan; ⟨ang⟩ Elyon ang iyong itinakdang tahanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "aking kanlungan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "itinakda"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "iyong tahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:45.323202455Z",
+  "model": "glm-5.3"
+}

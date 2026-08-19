@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang mga mata ng kayabangan ng tao ay ibaba, at yuyuko ang kataasan ng mga tao, at si Yahweh lamang ang itataas sa araw na yaon.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "ng kayabangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ay ibaba"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "at yuyuko"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ang kataasan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ng mga tao"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "at itataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:48.611996332Z",
+  "model": "glm-5.3"
+}

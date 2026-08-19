@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 67,
+  "translation": "Pagpapalain tayo ng Elohim, at pangangambahan ng lahat ng dulo ng lupa ⟨את⟩ Kaniya.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Pagpapalain tayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "at pangangambahan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ng dulo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:25.521606875Z",
+  "model": "glm-5.3"
+}

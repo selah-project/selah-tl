@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Gawin mo sa kanila ang ⟨gaya⟩ ng sa Midyan, ⟨gaya⟩ ni Sisera, ⟨gaya⟩ ni Yabin, sa batis ng Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gawin mo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "⟨gaya⟩ ng sa Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "⟨gaya⟩ ni Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "⟨gaya⟩ ni Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa batis"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ng Kishon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:11.255754912Z",
+  "model": "glm-5.3"
+}

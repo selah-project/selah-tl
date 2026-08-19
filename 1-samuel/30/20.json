@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At kinuha ni David ang ⟨את⟩ lahat ng kawan at ng baka; pinatnubay nila sa harap ng hayop na iyon, at nagsabi sila: Ito ay samsam ni David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng kawan at baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng kawan"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "at ng baka"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "pinatnubay nila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi sila"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:37.225333029Z",
+  "model": "glm-5.3"
+}

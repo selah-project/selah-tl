@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi ka magpapapatubo sa iyong kapatid: tubo ng pilak, tubo ng pagkain, tubo ng anumang bagay na iipatubo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ka magpapapatubo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "sa iyong kapatid"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tubo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tubo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ng pagkain"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tubo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng anumang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "iipatubo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:41.110188624Z",
+  "model": "glm-5.3"
+}

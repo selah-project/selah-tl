@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung ang may-ari nito ay ⟨naroroon⟩ kasama niya, hindi siya magbabayad; kung upahan ito, dumaan ito kapalit ng upa niya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "may-ari nito"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magbabayad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "upahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumaan"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "kapalit ng upa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:33.073056381Z",
+  "model": "glm-5.3"
+}

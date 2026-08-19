@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At napuno ang kaniyang lupain ng pilak at ginto, at walang hanggan ang kaniyang mga kayamanan; at napuno ang kaniyang lupain ng mga kabayo, at walang hanggan ang kaniyang mga karwahe.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "At napuno"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ang kaniyang lupain"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "at ginto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "hanggan"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ang kaniyang mga kayamanan"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ang kaniyang lupain"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ng mga kabayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "hanggan"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "ang kaniyang mga karwahe"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:09.579864436Z",
+  "model": "glm-5.3"
+}

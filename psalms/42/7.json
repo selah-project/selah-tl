@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "O aking Elohim, nalulumbay sa akin ang aking kaluluwa; kaya't inaalaala kita mula sa lupain ng Yarden, at ⟨mula sa⟩ mga Hermon, mula sa bundok ng Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O aking Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "nalulumbay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "inaalaala kita"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ng Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "at mga Hermon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mula sa bundok"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ng Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:17.064565710Z",
+  "model": "glm-5.3"
+}

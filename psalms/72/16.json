@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Magkaroon ng kasaganaan ng trigo sa lupa, sa taluktok ng mga bundok; umaugoy ang bunga nito na parang Lebanon, at mamumukadkad mula sa lungsod na parang damo ng lupa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magkaroon"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ng kasaganaan"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ng trigo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa taluktok"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ng mga bundok"
+    },
+    {
+      "surface": "לירעש",
+      "gloss": "umaugoy\/umaugong"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "na parang Lebanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang bunga nito"
+    },
+    {
+      "surface": "וליציצו",
+      "gloss": "at mamumukadkad"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mula sa lungsod"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "na parang damo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:39.903522191Z",
+  "model": "glm-5.3"
+}

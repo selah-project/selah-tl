@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi niya: Sumama ka ⟨את⟩ sa akin at makita mo ang aking pagsusumikap para kay Yahweh. At pinasakay nila siya ⟨את⟩ sa kanyang karwahe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Sumama ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kasama sa akin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at makita mo"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ang aking pagsusumikap"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "at pinasakay nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "sa kanyang karwahe"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:42.771864793Z",
+  "model": "glm-5.3"
+}

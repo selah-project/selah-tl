@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At tinanggal ng mga anak ni Israel ang ⟨את⟩ mga Baal at ang ⟨את⟩ mga Ashtarot, at pinaglingkuran ang ⟨את⟩ Yahweh na mag-isa lamang.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "at tinanggal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mga Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "mga Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "at pinaglingkuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "mag-isa lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.197607682Z",
+  "model": "glm-5.3"
+}

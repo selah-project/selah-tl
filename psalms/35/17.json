@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Adonai, hanggang kailan mo pa titingnan? Ibalik ang aking buhay mula sa kanilang mga pagwasak, mula sa mga batang leon ang aking iisang minamahal.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hanggang kailan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "mo pa titingnan"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "mula sa kanilang mga pagwasak"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "mula sa mga batang leon"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ang aking iisang minamahal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:51.938023595Z",
+  "model": "glm-5.3"
+}

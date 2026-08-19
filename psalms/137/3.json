@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Sapagkat doon, hiniling sa atin ng mga bumihag sa atin ang mga salita ng isang awit, at ng mga nagsamantala sa atin ang kasiyahan: 'Umawit kayo sa amin ng isang awit ng Tsiyon.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "hiniling sa atin"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ng mga bumihag sa atin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ng isang awit"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "at ng mga nagsamantala sa atin"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ang kasiyahan"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "umawit kayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ng isang awit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:29.902938483Z",
+  "model": "glm-5.3"
+}

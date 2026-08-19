@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "May maliit na lungsod, at ilang tao roon; at dumating laban dito ang isang dakilang hari, at pinalibutan niya ang ⟨את⟩ lungsod, at nagtayo laban dito ng malalaking muog.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "at mga tao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "laban dito"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "at pinalibutan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "at nagtayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban dito"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "muog"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "malalaking"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:02.757961541Z",
+  "model": "glm-5.3"
+}

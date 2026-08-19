@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Naluguran mo, Yahweh, ang iyong lupa; ibinlik mo ang pagkabihag ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "naluguran mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ang iyong lupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ibinlik mo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:13.354120673Z",
+  "model": "glm-5.3"
+}

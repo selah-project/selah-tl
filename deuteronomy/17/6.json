@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sa bibig ng dalawang saksi o tatlong saksi papatayin ang ⟨na⟩ mamamatay; hindi papatayin sa bibig ng isang saksi",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ang mamamatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:34.668851869Z",
+  "model": "glm-5.3"
+}

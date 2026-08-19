@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi niya sa kanyang mga anak na babae: At nasaan siya? Bakit ninyo ⟨ay⟩ iniwan ang ⟨את⟩ lalaki? Tawagin ninyo siya upang kumain ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "kanyang mga anak na babae"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "at nasaan siya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "iniwan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "tawagin ninyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "upang kumain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.373139129Z",
+  "model": "glm-5.3"
+}

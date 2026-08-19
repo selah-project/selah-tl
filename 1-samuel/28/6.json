@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At nagtanong si Shaúl kay Yahweh, ngunit hindi siya sinagot ni Yahweh — ni sa mga panaginip, ni sa Urim, ni sa mga propeta.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "at nagtanong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "siya sinagot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni sa"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "mga panaginip"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni sa"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni sa"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "mga propeta"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:43.923309433Z",
+  "model": "glm-5.3"
+}

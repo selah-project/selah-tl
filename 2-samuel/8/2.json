@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinaktan niya ang ⟨את⟩ Moab, at sinukat niya ⟨את⟩ sila ng tali, pinahiga silang nakadapa sa lupa; at sumukat siya ng dalawang tali upang patayin, at ang puno ng tali upang buhayin. At naging Moab kay David na mga alipin, mga tagapagdala ng handog.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "at sinukat niya sila"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "ng tali"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "pinahiga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nakadapa sa lupa"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "at sumukat siya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ng dalawang"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "tali"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "upang patayin"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "at ang puno"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "ng tali"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "upang buhayin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "na mga alipin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga tagapagdala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ng handog"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:09.042185212Z",
+  "model": "glm-5.3"
+}

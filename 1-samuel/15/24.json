@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At sinabi ni Shaúl kay Shemuël: Nagkasala ako, sapagkat lumampas ako sa ⟨את⟩ bibig ni Yahweh at ⟨את⟩ iyong mga salita, sapagkat natakot ako sa ⟨את⟩ bayan at nakinig ako sa kanilang tinig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagkasala ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "lumampas ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibig ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga salita"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "natakot ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayani"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "at nakinig ako"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "sa kanilang tinig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:03.981025266Z",
+  "model": "glm-5.3"
+}

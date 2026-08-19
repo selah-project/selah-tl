@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sa mga pangkat ng mga tagapagbantay ng pintuan: sa mga Korhita si Meshelemjah na anak ni Kore, mula sa mga anak ni Asaf.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "sa mga pangkat"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ng mga tagapagbantay ng pintuan"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "sa mga Korhita"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "si Meshelemjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ni Kore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    }
+  ],
+  "timestamp": "2026-08-19T19:26:36.409806637Z",
+  "model": "glm-5.3"
+}

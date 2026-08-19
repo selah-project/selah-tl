@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa pasimula, nilikha ni Elohim ang ⟨את⟩ mga langit at ang ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "sa pasimula"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nilikha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:18.244509312Z",
+  "model": "glm-5.3"
+}

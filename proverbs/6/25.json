@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Huwag mong kayamin ang kanyang kagandahan sa iyong puso, at huwag hayaan ka niyang mahulî sa kanyang mga pilik-mata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "kayamin"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "kanyang kagandahan"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa iyong puso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "hayaan ka niyang mahulî"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "sa kanyang mga pilik-mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:32.353793615Z",
+  "model": "glm-5.3"
+}

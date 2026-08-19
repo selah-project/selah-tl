@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Siya na bumubuo nang magkakasama ng kanilang mga puso, siya na nakauunawa sa lahat ng kanilang mga gawa.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Siya na bumubuo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nang magkakasama"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ng kanilang mga puso"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "siya na nakauunawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lapat ng"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "kanilang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.926510483Z",
+  "model": "glm-5.3"
+}

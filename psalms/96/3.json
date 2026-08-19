@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Isalaysay sa mga bansa ang kaniyang kaluwalhatian, sa lahat ng mga bayan ang kaniyang mga kamangha-manghang gawa.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "isalaysay"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang kaniyang kaluwalhatian"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ang kaniyang mga kamangha-manghang gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:27.677786566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa araw na yaon, itatayo ko laban kay Eli ang ⟨את⟩ lahat ng sinasabi ko tungkol sa kaniyang sambahayan: sisimulan ko at tatapusin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "itatayo ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang sambahayan"
+    },
+    {
+      "surface": "החל",
+      "gloss": "sisimulan"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "at tatapusin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:57.544957514Z",
+  "model": "glm-5.3"
+}

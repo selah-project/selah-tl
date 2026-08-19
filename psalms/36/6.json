@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Yahweh, hanggang sa mga langit ang iyong kagandahang-loob, ang iyong katapatan hanggang sa mga ulap.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "iyong katapatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga ulap"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:04.657573894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ito ang hayop na maaari ninyong kainin: baka, tupa ng mga kordero, at kambing ng mga kambing.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "maaari ninyong kainin"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tupa\/kordero"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ng mga kordero"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "at kambing"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ng mga kambing"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:01.849931047Z",
+  "model": "glm-5.3"
+}

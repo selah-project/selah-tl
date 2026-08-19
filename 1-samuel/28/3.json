@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At si Shemuel ay namatay, at pinaghuluhan ng luha siya ng buong Yisrael, at inilibing siya sa Rama, sa ⟨kanyang⟩ bayan niya. At si Shaúl ay nag-alis ng mga {אוב} at ng ⟨את⟩ mga {ידעני} mula sa lupain.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "At si Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ay namatay"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "pinaghuluhan ng luha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "at inilibing siya"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "sa Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "sa kanyang bayan"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "At si Shaúl"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nag-alis"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ng mga espiritista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga salamangkero"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mga salamangkero"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "mula sa lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:24.293802288Z",
+  "model": "glm-5.3"
+}

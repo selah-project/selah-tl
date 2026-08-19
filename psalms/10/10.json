@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Yumuyuko siya at dumadako, at nahuhulog ⟨ang⟩ mga kaawa-awa sa kanyang kapangyarihan.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "yumuyuko"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "dumadako"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "at nahuhulog"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "sa kanyang kapangyarihan"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "mga kaawa-awa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:14.315724109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat sa kahalayan siya pumapasok at sa kadiliman siya lumalakad, at sa kadiliman ang kanyang pangalan ay makukubli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "sa kahalayan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "siya pumapasok"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "at sa kadiliman"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "siya lumalakad"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "at sa kadiliman"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "makukubli"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:06.937129229Z",
+  "model": "glm-5.3"
+}

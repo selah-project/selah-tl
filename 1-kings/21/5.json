@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Pumasok sa kaniya si Izebel na asawa niya, at siya'y nagsalita sa kaniya: Ano ito — nanlulumo ang iyong pag-iisip, at hindi ka kumakain ng tinapay?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "si Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na asawa niya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ang iyong pag-iisip"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "nanlulumo"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "at hindi ka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:57.948383567Z",
+  "model": "glm-5.3"
+}

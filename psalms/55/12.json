@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Kasiraan ⟨ay⟩ sa loob nito, at hindi lumilisan sa mga lansangan nito ang pang-aapi at pandaraya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Kasiraan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa loob nito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "lumilisan"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "sa mga lansangan nito"
+    },
+    {
+      "surface": "תך",
+      "gloss": "pang-aapi"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "at pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:06.630330670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Pinapalad ⟨ang⟩ mga nag-iingat ng hatol, gumagawa ng katuwiran sa bawat panahon.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinapalad"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "⟨ang⟩ mga nag-iingat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng hatol"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:06.482291200Z",
+  "model": "glm-5.3"
+}

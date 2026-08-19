@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang natira mula sa mincha ay ⟨ay⟩ kay Aharon at sa kanyang mga anak — kabanalan ng mga kabanalan, mula sa mga haing-apoy ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "at ang natira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "at sa kanyang mga anak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga kabanalan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mula sa mga haing-apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:10.537154588Z",
+  "model": "glm-5.3"
+}

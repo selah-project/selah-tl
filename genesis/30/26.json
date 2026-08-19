@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Ibigay mo sa akin ang ⟨את⟩ aking mga asawa at ang ⟨את⟩ aking mga anak, na pinaglingkuran ko ⟨את⟩ ikaw sa pamamagitan nila, at magpupunta ako; sapagkat ikaw ay nakakaalam ng ⟨את⟩ aking paglilingkod na ipinaglingkod ko sa iyo.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga asawa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "aking mga asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking mga anak"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "aking mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "pinaglingkuran ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "at magpupunta ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking paglilingkod"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "aking paglilingkod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ipinaglingkod ko sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:45.763829113Z",
+  "model": "glm-5.3"
+}

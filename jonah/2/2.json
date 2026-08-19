@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nanalangin si Yonah kay Yahweh, sa kaniyang Elohim, mula sa tiyan ng isda.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "nanalangin"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sa kaniyang Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "mula sa tiyan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ng isda"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:14.302572279Z",
+  "model": "glm-5.3"
+}

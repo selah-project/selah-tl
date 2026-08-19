@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Ngunit ikaw, Israel, aking lingkod, si Yaakov na aking pinili, binhi ni Avraham na aking minamahal —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ngunit ikaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking lingkod"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "aking pinili"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "na aking minamahal"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:43.648639471Z",
+  "model": "glm-5.3"
+}

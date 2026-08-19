@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nagdagdag pa si Avraham, at kumuha ng asawa, at ang kanyang pangalan ay Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nagdagdag pa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kumuha ng"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:10.191167935Z",
+  "model": "glm-5.3"
+}

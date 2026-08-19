@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang ⟨את⟩ isang batang tupa ay iyong ihahanda sa umaga, at ang ⟨את⟩ pangalawang batang tupa ay iyong ihahanda sa pagitan ng mga dapit-hapon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang batang tupa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang batang tupa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "iyong ihahanda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang pangalawang batang tupa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang batang tupa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "pangalawa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "iyong ihahanda"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga dapit-hapon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:47.145090760Z",
+  "model": "glm-5.3"
+}

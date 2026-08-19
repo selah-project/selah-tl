@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Kung gumanti ako ng kasamaan sa aking kaaway-kapayapaan, at linigtas ko ang aking kalaban nang walang dahilan,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "gumanti ako"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "aking kapayapaan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "at linigtas ko"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "aking kalaban"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nang walang dahilan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:47.654159375Z",
+  "model": "glm-5.3"
+}

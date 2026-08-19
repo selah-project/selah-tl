@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sa pagitan ko at sa pagitan ng mga anak ni Yisrael, tanda ito magpakailanman, sapagkat sa anim na araw gumawa si Yahweh ng ⟨את⟩ mga langit at ng ⟨את⟩ lupa, at sa ikapitong araw nagpahinga siya at nanghimas na muli.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "sa pagitan ko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nagpahinga"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "at nanghimas na muli"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:40.751501390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At kalat ko ang ⟨את⟩ Mitzrayim sa mga bansa, at papalagan ko sila sa mga lupain.",
+  "tokens": [
+    {
+      "surface": "ווהפצותי",
+      "gloss": "at kalat ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "at papalagan ko sila"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T17:49:30.024350862Z",
+  "model": "glm-5.3"
+}

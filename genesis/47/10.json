@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At binasbasan ni Yaakov si ⟨את⟩ Paroh, at lumabas mula sa harapan ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mula sa harapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:16.810390904Z",
+  "model": "glm-5.3"
+}

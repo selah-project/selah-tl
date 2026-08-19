@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ipapahayag ko ang iyong pangalan sa aking mga kapatid, sa gitna ng kapisanan ay aking pupurihin ka.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ipapahayag ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "sa aking mga kapatid"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ay aking pupurihin ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:37.836437095Z",
+  "model": "glm-5.3"
+}

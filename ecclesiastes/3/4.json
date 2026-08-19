@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Oras ang umiyak, at oras ang tumawa; oras ang magluksa, at oras ang sumayaw.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ang umiyak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ang tumawa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ang magluksa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ang sumayaw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:16.095706304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Hindi lihim sa iyo ang aking katawan, nang ako'y yumaon sa lihim, nang hinabi ako sa kaibuturan ng lupa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "lihim"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang aking katawan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ako'y yumaon \/ ginawa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa lihim"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "hinabi ako \/ bordan ako"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sa kaibuturan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:25.975806592Z",
+  "model": "glm-5.3"
+}

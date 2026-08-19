@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Nakita ninyo ang ⟨את⟩ ginawa ko sa Mitzrayim, at dinamdamin ko kayo ⟨את⟩ — at kayo'y bitbitin ko sa mga pakpak ng mga agila, at dadalhin ko kayo ⟨את⟩ sa akin.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Kayo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakita ninyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "at bitbitin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pakpak"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ng mga agila"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "at dadalhin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:25.111983739Z",
+  "model": "glm-5.3"
+}

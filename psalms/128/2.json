@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 128,
+  "translation": "Ang bunga ng pagpapagod ng iyong mga palad ay kakainin mo; mapalad ka, at maganda ang sa iyo.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Ang bunga ng pagpapagod"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ng iyong mga palad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakainin mo"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "mapalad ka"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "at maganda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:34.487389155Z",
+  "model": "glm-5.3"
+}

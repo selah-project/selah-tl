@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At tingnan mo, at gawin mo ayon sa kanilang huwaran na ipinakikita sa iyo sa bundok.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at tingnan mo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "ayon sa kanilang huwaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ipinakikita sa iyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:23.571832155Z",
+  "model": "glm-5.3"
+}

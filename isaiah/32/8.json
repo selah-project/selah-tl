@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Datapu't ang marangal ay nagbubunyi ng mga mararangal na bagay, at siya ay sa mga mararangal na bagay tatayo.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "datapu't ang marangal"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "mga mararangal na bagay"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "nagbubunyi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "mga mararangal na bagay"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:25.938253301Z",
+  "model": "glm-5.3"
+}

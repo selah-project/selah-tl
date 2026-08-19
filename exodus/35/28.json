@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At ⟨את⟩ pabango, at ⟨את⟩ langis — para sa ilawan, at para sa langis ng pagpapahid, at para sa insenso ng mga pabango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pabango\/espesya"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "pabango\/espesya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "langis"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "para sa ilawan"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "at para sa langis ng"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pagpapahid (pamahid)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "at para sa insenso ng"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mga pabango"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.172283584Z",
+  "model": "glm-5.3"
+}

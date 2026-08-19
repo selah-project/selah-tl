@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sa aba ng mga nagsasabi sa masama na mabuti, at sa mabuti na masama; naglalagay ng kadiliman bilang liwanag, at ng liwanag bilang kadiliman; naglalagay ng mapait bilang matamis, at ng matamis bilang mapait!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "sa aba"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ng mga nagsasabi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa masama"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "at sa mabuti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng mga naglalagay"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ng kadiliman"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "bilang liwanag"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "at ng liwanag"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "bilang kadiliman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng mga naglalagay"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ng mapait"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "bilang matamis"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "at ng matamis"
+    },
+    {
+      "surface": "למר",
+      "gloss": "bilang mapait"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:01.460787367Z",
+  "model": "glm-5.3"
+}

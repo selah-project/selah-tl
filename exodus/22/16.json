@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung matigas na tumanggi ang kanyang ama na ibigay siya sa kanya, magbabayad siya ng pilak ayon sa mahal na bayad-pangkasal ng mga birhen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "matigas na"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "tumanggi"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "na ibigay siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "magbabayad"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "ayon sa bayad-pangkasal"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ng mga birhen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:33.073429592Z",
+  "model": "glm-5.3"
+}

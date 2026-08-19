@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 93,
+  "translation": "Naghari si Yahweh, nagdamit ng ⟨karangalan⟩; nagdamit si Yahweh ng ⟨lakas⟩, nagbigkis ⟨siya⟩; gayundin, ⟨ay⟩ natatag ang sanglibutan, hindi magagalaw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nagdamit"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nagdamit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lakas"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nagbigkis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "natatag"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sanglibutan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magagalaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:32.689786212Z",
+  "model": "glm-5.3"
+}

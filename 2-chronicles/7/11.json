@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Nakumpleto ni Shelomoh ⟨את⟩ bahay ni Yahweh at ⟨את⟩ bahay ng hari, at ⟨את⟩ lahat ng dumaan sa pusò ni Shelomoh na gawin sa bahay ni Yahweh at sa kanyang bahay — nagtagumpay siya.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nakumpleto"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "bahay ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "dumaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pusò"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "at sa kanyang bahay"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "nagtagumpay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:02.723535317Z",
+  "model": "glm-5.3"
+}

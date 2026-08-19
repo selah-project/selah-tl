@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sapagkat nalugod ang mga lingkod mo sa ⟨את⟩ mga bato nito, at ang ⟨את⟩ alabok nito ay kanilang kaaawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nalugod"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang mga lingkod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato nito"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "mga bato nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "alabok nito"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "alabok nito"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kanilang kaaawan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:34.873254192Z",
+  "model": "glm-5.3"
+}

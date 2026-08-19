@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Gumising ka! Bakit ka natutulog, Adonai? Magmulat ka, huwag mong itakwil magpakailanman!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Gumising ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "natutulog ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Magmulat ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "mong itakwil"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:46.164633034Z",
+  "model": "glm-5.3"
+}

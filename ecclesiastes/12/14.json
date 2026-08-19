@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sapagkat ang ⟨את⟩ bawat gawa ng Elohim ay dadalhin sa hatol, ukol sa bawat bagay na nakatago, maging mabuti o masama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawat gawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ay dadalhin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa hatol"
+    },
+    {
+      "surface": "על",
+      "gloss": "ukol sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "bagay na nakatago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maging"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:29.819980315Z",
+  "model": "glm-5.3"
+}

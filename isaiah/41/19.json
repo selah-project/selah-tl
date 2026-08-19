@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Maglalagay ako sa ilang ng sedro, akasya, at mirto, at puno ng langis; itatanim ko sa Araba ang dagat-pino, tidhar, at tashur na magkakasama.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "maglalagay ako \/ ibibigay ko"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "at mirto"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "at puno ng"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "itatanim ko \/ ilalagay ko"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Araba"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "dagat-pino"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidhar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "at tashur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "na magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:34.172577729Z",
+  "model": "glm-5.3"
+}

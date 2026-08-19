@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At kayo rin, ninyong batid na buong lakas ko pinaglingkuran ko si ⟨את⟩ inyong ama;",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "at kayo rin"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ninyong batid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "lakas ko"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "pinaglingkuran ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong ama"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "inyong ama"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:24.633842553Z",
+  "model": "glm-5.3"
+}

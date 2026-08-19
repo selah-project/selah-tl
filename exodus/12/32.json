@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Pati ang inyong mga kawan pati ang inyong mga baka ay kunin ninyo, kung paanong nagsalita kayo, at humayo kayo, at bendisyunan ninyo ⟨את⟩ pati ako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ang inyong mga kawan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ang inyong mga baka"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ay kunin ninyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "nagsalita kayo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "at humayo kayo"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "at bendisyunan ninyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:56.454716062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Bawat nag-uurong na lumilipad, na lumalakad sa apat — karumal-dumal ⟨siya⟩ sa inyo",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nag-uurong"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "na lumilipad"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "na lumalakad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:54.880472419Z",
+  "model": "glm-5.3"
+}

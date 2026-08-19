@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Magbalik-loob ka, Yisrael, kay Yahweh na iyong Elohim, sapagkat nakadapa ka sa iyong kasamaan.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "magbalik-loob ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "nakadapa ka"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "sa iyong kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:10.987537611Z",
+  "model": "glm-5.3"
+}

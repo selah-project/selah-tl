@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At sinabi niya: Hindi ko magagawang bumalik ⟨את⟩ kasama iyo ni pumasok ⟨את⟩ kasama iyo; at hindi ako kakain ng tinapay at hindi iinom ⟨את⟩ kasama iyo ng tubig sa lugar na ito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ko magagawa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama iyo"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ni pumasok"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kakain ako"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "iinom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama iyo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:57.674767217Z",
+  "model": "glm-5.3"
+}

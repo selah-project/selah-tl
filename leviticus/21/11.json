@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "at sa kahit anong patay na tao ay hindi siya lalapit; para sa kanyang ama at para sa kanyang ina ay hindi siya magpapakarumî.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kahit anong"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "tao (na may buhay)"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "lalapit \/ papasok"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "para sa kanyang ama"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "at para sa kanyang ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magpapakarumî"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:16.546041899Z",
+  "model": "glm-5.3"
+}

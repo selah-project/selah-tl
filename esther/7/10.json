@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At hinanging nila ang ⟨את⟩ Haman sa punong inihanda niya para kay Mordekai; at ang poot ng hari ay huminahon.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "at hinanging nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "inihanda niya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "para kay Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "at ang poot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ay huminahon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:11.773953542Z",
+  "model": "glm-5.3"
+}

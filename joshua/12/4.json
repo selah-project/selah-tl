@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "at ang hangganang-dulo ni Og, hari ng Bashan, mula sa natirang mga Refaim, na naninirahan sa Ashtarot at sa Edrei;",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "at ang hangganang-dulo"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ng Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "mula sa natira"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mga Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "na naninirahan"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "at sa Edrei"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:17.183416391Z",
+  "model": "glm-5.3"
+}

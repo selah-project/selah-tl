@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At sinunog niya ang ⟨את⟩ bahay ni Yahweh at ang ⟨את⟩ bahay ng hari, at ang ⟨את⟩ lahat ng mga bahay ng Yerushalayim; at ang ⟨את⟩ lahat ng bahay na malaki sinunog niya sa apoy.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "at sinunog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bahay ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga bahay ng Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng bahay na malaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:41.502861223Z",
+  "model": "glm-5.3"
+}

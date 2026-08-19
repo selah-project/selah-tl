@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Si Paroh na hari ng Mitsrayim ay umahon, at binihag niya ang ⟨את⟩ Gezer, at sinunog ito sa apoy, at pinatay ang ⟨את⟩ Kananeo na tumatahan sa lungsod, at ibinigay ito bilang bigay-kasal sa kaniyang anak na babae, asawa ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "at binihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "at sinunog niya ito"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Kananeo na tumatahan sa lungsod"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananeo"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tumatahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "at ibinigay niya ito"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "bilang bigay-kasal (shilluchim)"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "sa kaniyang anak na babae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:12.568379157Z",
+  "model": "glm-5.3"
+}

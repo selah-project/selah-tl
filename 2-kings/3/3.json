@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Lamang sa mga kasalanan ni Yerovam na anak ni Nevat, na pinagkasalahan niya ang ⟨את⟩ Yisrael, siya'y nakadikit; hindi siya lumayo sa mga ito.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "sa mga kasalanan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yerovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pinagkasalahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nakadikit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "lumayo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:59.817477661Z",
+  "model": "glm-5.3"
+}

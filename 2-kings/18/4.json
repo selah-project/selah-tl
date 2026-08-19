@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 18:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Siya ang nag-alis ng ⟨את⟩ mga mataas na lugar, at sumira ng ⟨את⟩ mga haliging-tuod, at nagputol ng ⟨את⟩ Asherah, at sinira ang ahas na tanso na ginawa ni Moshe, sapagkat hanggang sa mga araw na iyon ay nagsusunog ng insenso sa kaniya ang mga anak ni Israel; at tinawag itong Nechushtan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nag-alis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mataas na lugar"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mga mataas na lugar"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "at sumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haliging-tuod"
+    },
+    {
+      "surface": "המצבת",
+      "gloss": "mga haliging-tuod"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "at nagputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "נחשתן",
+      "gloss": "Nechushtan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:05.936342508Z",
+  "model": "glm-5.3"
+}

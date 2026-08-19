@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 128,
+  "translation": "Nawa'y pagpalain ka ni Yahweh mula sa Tzion, at makita mo ang kabutihan ng Yerushalayim, sa lahat ng mga araw ng buhay mo.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "nawa'y pagpalain ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "mula sa Tzion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at makita mo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ang kabutihan ng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ng buhay mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:20.015705289Z",
+  "model": "glm-5.3"
+}

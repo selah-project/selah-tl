@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At pinarami niya ang ⟨את⟩ kaniyang bayan nang husto, at pinalakas niya ito kaysa kaniyang mga kalaban.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "at pinarami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang husto"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "at pinalakas niya ito"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kaysa kaniyang mga kalaban"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.496499322Z",
+  "model": "glm-5.3"
+}

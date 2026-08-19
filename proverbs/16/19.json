@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Mabuti ang mababang espiritu ⟨kasama⟩ ng mga dukha kaysa magbahagi ng samsam ⟨kasama⟩ ng mga mayabang.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "mababang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng mga dukha"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ng mga dukha"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "kaysa magbahagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ng samsam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng mga mayabang"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ng mga mayabang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:07.592661651Z",
+  "model": "glm-5.3"
+}

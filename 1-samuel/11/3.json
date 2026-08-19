@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi sa kanya ng mga matanda ng Yavesh: Magpalamig ka muna sa amin na pitong araw, upang makapagpadala kami ng mga sugo sa buong hangganan ng Israel; at kung walang magliligtas sa amin, lalabas kami sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda ng"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "magpalamig ka muna (magpatawad ng daloy)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "upang makapagpadala kami"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hangganan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "magliligtas"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa amin",
+      "marks": "sa amin (lilikom ng מושיע)"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "lalabas kami"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:00.750053790Z",
+  "model": "glm-5.3"
+}

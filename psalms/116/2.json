@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Sapagkat yumukoy nito ang kaniyang tainga sa akin, at sa mga araw ko tatawagin ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "yumukoy"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ang kaniyang tainga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "at sa mga araw ko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tatawagin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:59.690960720Z",
+  "model": "glm-5.3"
+}

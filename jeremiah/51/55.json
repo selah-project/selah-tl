@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "jeremiah 51:55",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Sapagkat si Yahweh ang sumisira sa ⟨את⟩ Babilonya, at kaniyang papatayin mula rito ang malaking tinig; at uungal ang mga alon ng mga ito na parang maraming tubig, ibinigay ang kaguluhan ng tinig ng mga ito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ang sumisira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babilonya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ang Babilonya"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "at kaniyang papatayin"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "והמו",
+      "gloss": "at uungal"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ang mga alon ng mga ito"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "na parang tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ang kaguluhan"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ng tinig ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:36:54.492744090Z",
+  "model": "glm-5.3"
+}

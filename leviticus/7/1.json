@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ito ang torot ng ⟨אשם⟩: banal ng mga banal ito.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang torot"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ng ⟨אשם⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga banal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:30.888240809Z",
+  "model": "glm-5.3"
+}

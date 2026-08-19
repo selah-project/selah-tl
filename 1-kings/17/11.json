@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At siya'y umalis upang kunin, at tinawag niya siya at nagsabi: Kunin mo nga ako ng piraso ng tinapay sa iyong kamay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at sinigawan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Kunin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ng piraso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:34:08.958098462Z",
+  "model": "glm-5.3"
+}

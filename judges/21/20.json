@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At iniutos ⟨את⟩ sa mgá anak ni Binyamin, na nagsasabi: Umalis kayo at magtatago kayo sa mgá ubasan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mgá anak ni Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mgá anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "umalis kayo"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "at magtatago kayo"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "sa mgá ubasan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:56:52.583203874Z",
+  "model": "glm-5.3"
+}

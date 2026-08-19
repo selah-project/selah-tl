@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Sa kagipitan ikaw tumawag at pinaligtas kita; sinagot kita sa tago ng kulog; sinubok kita sa tubig ng Merivah. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Sa kagipitan"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ikaw tumawag"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "at pinaligtas kita"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "sinagot kita"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ng kulog"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "sinubok kita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ng Merivah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.674669770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At iiwagayway ng saserdote ang mga iyon ⟨את⟩ kasama ng tinapay ng mga unang bunga bilang iwagayway sa harapan ni Yahweh, kasama ng dalawang mga batang tupa; banal sila ⟨ay⟩ magiging kay Yahweh, para sa saserdote.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "at iiwagayway"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga iyon (dalawang tupa at tinapay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "ng mga unang bunga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "iwagayway"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "mga batang tupa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "para sa saserdote"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:44.621445046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sa paligid lumalakad-lakad ang mga masasama, kapag ⟨iniingatan⟩ ang karumihan ⟨ay⟩ itinataas sa gitna ng mga anak ng tao.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "lumalakad-lakad"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "karumihan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:56.789175387Z",
+  "model": "glm-5.3"
+}

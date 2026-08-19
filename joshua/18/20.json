@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ang Yarden ang bumabakra ⟨את⟩ rito sa gawing silangan — ito ang pamana ng mga anak ni Binyamin, ayon sa mga hangganan nito sa palibot, ayon sa kanilang mga mag-anak.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "at ang Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "bumabakra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rito (ang pamana ni Binyamin)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa gawing"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "silangan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "pamana ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ayon sa mga hangganan nito"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga mag-anak"
+    }
+  ],
+  "timestamp": "2026-08-19T15:43:48.871971459Z",
+  "model": "glm-5.3"
+}

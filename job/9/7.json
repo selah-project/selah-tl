@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Siya na nagsasabi sa araw, at ito ay hindi sumisikat, at ang mga bituin ay kanyang kinukulkas",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "sumisikat"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "at sa ganang"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "mga bituin"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "kinukulkas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:47:25.834263476Z",
+  "model": "glm-5.3"
+}

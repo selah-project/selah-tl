@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang makapangyarihang mandirigma at ang lalaking gerero, ang hukom at ang propeta, ang manghuhula at ang matanda —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihang mandirigma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ng digmaan"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "at ang propeta"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "at ang manghuhula"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "at ang matanda"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:07.483214277Z",
+  "model": "glm-5.3"
+}

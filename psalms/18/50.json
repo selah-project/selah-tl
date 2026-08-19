@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Kaya't magpapasalamat ako sa iyo sa harap ng mga bansa, Yahweh, at sa iyong pangayan aawit ako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kaya't (dahil dito)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magpapasalamat ako sa iyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa harap ng mga bansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "at sa iyong pangalan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aawit ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:38.002431995Z",
+  "model": "glm-5.3"
+}

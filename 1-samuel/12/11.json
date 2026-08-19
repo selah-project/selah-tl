@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinugo ni Yahweh si ⟨את⟩ Yerubbaal at si ⟨את⟩ Bedan at si ⟨את⟩ Yiftach at si ⟨את⟩ Shmuel, at iniligtas kayo sa kamay ng inyong mga kaaway sa paligid, at tumira kayo nang tiwasay.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at sinugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Yiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "at iniligtas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ng inyong mga kaaway"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "at tumira kayo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nang tiwasay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:57.577955879Z",
+  "model": "glm-5.3"
+}

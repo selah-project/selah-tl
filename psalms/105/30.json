@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Nagkalat sa ⟨the⟩ kanilang lupa ang mga palaka, sa mga silid-kwangangan ng kanilang mga hari.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "nagkalat"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kanilang lupa"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "mga palaka"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "sa mga silid-kwangangan"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ng kanilang mga hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:45.702890754Z",
+  "model": "glm-5.3"
+}

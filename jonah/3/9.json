@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sino ang nakakaalam? Baka magbaling ang Elohim at magsisi, at bumalik mula sa kanyang ningas ng galit, at hindi tayo maipahamak.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ang nakakaalam"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "magbaling"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "at magsisi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "mula sa ningas"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ng kanyang galit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "maipahamak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:44.037148754Z",
+  "model": "glm-5.3"
+}

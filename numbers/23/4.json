@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sumapit ang Elohim kay Bilam, at sinabi niya sa kaniya: ⟨את⟩ pitong altar ang inayos ko, at naghandog ako ng baka at barako sa altar.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "at sumapit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "inayos ko"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "at naghandog ako"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "at barako"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sa altar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:13:22.221879230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ito ang mga naglilingkod sa ⟨את⟩ hari, bukod sa mga inilagay ng hari sa mga nakukulungang lungsod sa buong Yehudah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "ang mga naglilingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga lungsod"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "nakukulungan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:08.482254886Z",
+  "model": "glm-5.3"
+}

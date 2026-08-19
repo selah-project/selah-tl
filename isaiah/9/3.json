@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ⟨ang⟩ ⟨את⟩ ayok ng kanyang pasanin, at ⟨ang⟩ ⟨את⟩ tungkod ng kanyang balikat, ang pamatok ng nagpapahirap sa kanya — winasak mo ito gaya ng araw ng Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayok"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ng kanyang pasanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tungkod"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ng kanyang balikat"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pamatok"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ng nagpapahirap"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "winasak mo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:27.300217728Z",
+  "model": "glm-5.3"
+}

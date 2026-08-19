@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Ang aking panginoon ay nagtanong sa ⟨את⟩ kaniyang mga alipin, na nagsasabi, Mayroon ba kayong ama o kapatid?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ang aking panginoon"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nagtanong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sa kaniyang mga alipin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Mayroon ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:15.935092836Z",
+  "model": "glm-5.3"
+}

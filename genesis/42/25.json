@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At iniutos ni Yosef, at pinuno nila ang ⟨את⟩ mga sisidlan nila ng butil, at isauli ang pilak nila, bawat isa sa sako niya, at bigyan sila ng baon sa daan; at ginawa sa kanila ang gayon.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "at pinuno nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sisidlan nila"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "mga sisidlan nila"
+    },
+    {
+      "surface": "בר",
+      "gloss": "butil"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "at upang isauli"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "ang pilak nila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "sako niya"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "at upang bigyan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "baon"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:25.215834424Z",
+  "model": "glm-5.3"
+}

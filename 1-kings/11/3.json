@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At naging sa kanya ang mga asawang babae na pinuno, pitong daan, at mga kalapating-muni, tatlong daan; at ang kanyang mga asawa ay umiwas sa ⟨את⟩ kanyang puso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At naging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga asawang babae"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "at mga kalapating-muni"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ay umiwas"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ang kanyang mga asawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang puso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kanyang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:48.177744426Z",
+  "model": "glm-5.3"
+}

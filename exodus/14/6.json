@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At nagbitin siya ng ⟨את⟩ kaniyang mga karo, at ⟨את⟩ kaniyang bayan ay dinala niya na kasama niya.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "at nagbitin\/naghanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga karo"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kaniyang mga karo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dinala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:39.276135477Z",
+  "model": "glm-5.3"
+}

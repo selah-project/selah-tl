@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Yahweh: Aahon si Yehudah; narito, ibinigay ko na ang ⟨את⟩ lupa sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "aahon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:50.878721538Z",
+  "model": "glm-5.3"
+}

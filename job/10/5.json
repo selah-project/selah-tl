@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Bagá man ang iyong mga araw ay parang mga araw ng tao, o ang iyong mga taon ay parang mga araw ng isang lalaki?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "bagá man parang"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "taong namamatay"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ang iyong mga araw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o bagá"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ang iyong mga taon"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "parang mga araw"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:47:58.567655436Z",
+  "model": "glm-5.3"
+}

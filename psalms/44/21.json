@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Kung nakalimutan namin ang pangalan ng ating Elohim, o kung iniunat namin ang aming mga palad sa ⟨isang⟩ banyagang el —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "nakalimutan namin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ng ating Elohim"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "o kung iniunat namin"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "ang aming mga palad"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa ⟨isang⟩ el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "banyaga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:46.164080856Z",
+  "model": "glm-5.3"
+}

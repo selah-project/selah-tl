@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Bilang korban ng mga unang bunga, ihandog ninyo ang ⟨את⟩ mga iyon kay Yahweh, ngunit sa altar ay hindi sila iaakyat bilang bango ng kasiyahan.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ng mga unang bunga"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ihandog ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngunit sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sila iaakyat"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "bilang bango"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "ng kasiyahan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:10.537461137Z",
+  "model": "glm-5.3"
+}

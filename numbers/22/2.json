@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nakita ni Balak na anak ni Tsipor ang ⟨את⟩ lahat ng ginawa ni Yisrael sa Amori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ni Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laba ng ginawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sa Amori"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:31.318674781Z",
+  "model": "glm-5.3"
+}

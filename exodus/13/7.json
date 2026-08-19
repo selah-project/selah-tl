@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Tinapay na walang lebadura ang kakainin sa loob ng ⟨את⟩ pitong araw, at hindi ipapakita sa iyo ang anumang may lebadura, at hindi ipapakita sa iyo ang lebadura sa anomang bahagi ng iyong hangganan.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "tinapay na walang lebadura"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong araw"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ipapakita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "anumang may lebadura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ipapakita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ang lebadura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa anomang bahagi ng"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "iyong hangganan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:19.562130134Z",
+  "model": "glm-5.3"
+}

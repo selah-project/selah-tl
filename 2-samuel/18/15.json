@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At lumigid sampung batang lalaking tagapagdala ng mga kagamitan ni Yoav, at hinampas nila si ⟨את⟩ Avshalom at pinatay siya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "at lumigid sila"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "batang lalaki"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tagapagdala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at hinampas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "at pinatay siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:08.042731378Z",
+  "model": "glm-5.3"
+}

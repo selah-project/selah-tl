@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Huwag kayong matakot sa kanila, sapagkat si Yahweh na inyong Elohim, ⟨siya⟩ ang lumalaban para sa inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "kayong matakot sa kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ang lumalaban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:47.906693222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Tingnan, nagturo ako sa inyo ng ⟨את⟩ mga tuntunin at mga hatol, kung paanong iniutos sa akin ni Yahweh na aking Elohim, na gawin ninyo ang gayon sa gitna ng lupain na papasukan ninyo roon upang ito'y pangunin.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "nagturo ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "mga tuntunin at mga hatol"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "mga tuntunin"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "at mga hatol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "iniutos sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "papasukan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "upang ito'y pangunin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:47.359729529Z",
+  "model": "glm-5.3"
+}

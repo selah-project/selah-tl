@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "sapagkat kay Elohim ng kanyang ama siya humingi, at sa mga utos niya lumakad, at hindi ayon sa gawa ng Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kay Elohim ng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "humingi"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "at sa mga utos niya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ayon sa gawa ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:51.908141826Z",
+  "model": "glm-5.3"
+}

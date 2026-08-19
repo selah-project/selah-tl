@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Sapagkat ang isang libong taon sa iyong mga mata ay gaya ng kahapon nang lumipas, gaya ng gabi na pagdaraanan, gaya ng pag-iimsak sa gabi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isang libo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa iyong mga mata"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "kahapon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nang"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "at gaya ng pag-iimsak"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:18.863404245Z",
+  "model": "glm-5.3"
+}

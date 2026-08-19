@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At sumikat sa kaniya ang araw nang siya ay nakalipas na sa ⟨את⟩ Penuel, at siya ay sumasangsanghit sa kaniyang hita.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "at sumikat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nakalipas siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "sa Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sumasangsanghit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "kaniyang hita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:22.703395977Z",
+  "model": "glm-5.3"
+}

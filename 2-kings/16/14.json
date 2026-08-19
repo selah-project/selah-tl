@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 16:14",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ang ⟨את⟩ altar na tanso na nasa harap ni Yahweh, inilapit niya mula ⟨את⟩ harap ng bahay, mula sa pagitan ng altar at sa pagitan ng bahay ni Yahweh, at inilagay ⟨את⟩ niya ⟨it⟩ ito sa gilid ng altar, sa hilagang bahagi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "altar na tanso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "na tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "nasa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit niya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap ng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mula sa pagitan ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya ito",
+      "marks": "ang altar na tanso"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "sa hilagang bahagi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:08.732855254Z",
+  "model": "glm-5.3"
+}

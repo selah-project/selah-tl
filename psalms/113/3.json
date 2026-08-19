@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 113,
+  "translation": "Mula sa pagsikat ng araw hanggang sa paglubog nito, pinupuri ang pangalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "mula sa pagsikat"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "paglubog nito"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "pinupuri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:35.162659746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Ang Moav ay kaldero ng aking paghuhugas, sa Edom itatapon ko ang aking sandalyas, sa Peleshet maghihiyaw ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ang Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kaldero"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ng aking paghuhugas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "itatapon ko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ang aking sandalyas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "maghihiyaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:40.307545266Z",
+  "model": "glm-5.3"
+}

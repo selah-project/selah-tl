@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 127,
+  "translation": "Pinagpala ang lalaking nagpuno ng ⟨את⟩ kanyang pana-ng-arrow-case ⟨galing sa kanila⟩; hindi sila mapapahiya, sapagkat sasalitin nila ⟨את⟩ mga kaaway ⟨sa pintuang-bayan⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pana-ng-arrow-case (quiver)"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "kanyang pana-ng-arrow-case"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "galing sa kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sila mapapahiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sasalitin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaaway"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa pintuang-bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:50.213354043Z",
+  "model": "glm-5.3"
+}

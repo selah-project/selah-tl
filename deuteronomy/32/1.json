@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Mamalasap kayo, oh mga langit, at magsasalita ako; at dinggin ng lupa ang mga salita ng aking bibig.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "mamalasap kayo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "at magsasalita ako"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "at dinggin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ng aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:11.600360661Z",
+  "model": "glm-5.3"
+}

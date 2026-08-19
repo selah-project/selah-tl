@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At pinagdugtong niya ang ⟨את⟩ limang kurtina nang hiwalay, at ang ⟨את⟩ anim na kurtina nang hiwalay.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "pinagdugtong niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nang hiwalay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "anim na kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nang hiwalay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:07.267481982Z",
+  "model": "glm-5.3"
+}

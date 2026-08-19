@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Bakit ka nalulumbay, o aking kaluluwa, at bakit ka nagugulumihanan sa akin? Maghintay ka kay Yahweh—sa Elohim, sapagkat muli kong lululuwalhatiin siya, ⟨siya ang⟩ kaligtasan ng aking mukha at aking Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ka nalulumbay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o aking kaluluwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ka nagugulumihanan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "maghintay ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "kong lululuwalhatiin siya"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng aking mukha"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:56.866424572Z",
+  "model": "glm-5.3"
+}

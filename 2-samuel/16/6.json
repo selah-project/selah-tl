@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At naghahagis siya ng mga bato kay ⟨את⟩ David at sa ⟨את⟩ lahat ng mga alipin ng hari na si David; at ang buong bayan at ang lahat ng mga makapangyarihang lalaki ⟨ay⟩ sa kanyang kanan at sa kanyang kaliwa.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "at naghahagis ng bato"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ng mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa lahat ng mga alipin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "na si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayanan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mga makapangyarihang lalaki"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "sa kanyang kanan"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "at sa kanyang kaliwa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:05.361051025Z",
+  "model": "glm-5.3"
+}

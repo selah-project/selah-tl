@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Apoy ang umaagos sa harapan Niya, at sinusindak sa paligid ang Kanyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan Niya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "umaagos"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "at sinusindak"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ang Kanyang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:09.296698975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kaya bumaba ang buong Israel sa mga Pelishteo upang magpatalas bawat lalaki ng ⟨את⟩ kanyang araro, at ng ⟨את⟩ kanyang asarol, at ng ⟨את⟩ kanyang palako, at ng ⟨את⟩ kanyang taga.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "sa mga Pelishteo"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "upang magpatalas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang araro"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "kanyang araro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang asarol"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kanyang asarol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang palako"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kanyang palako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang taga"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "kanyang taga"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:39.340608249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Pinaparusahan ng kasamaan ang mga makasalanan, ngunit sa mga matuwid ay babayaran ⟨את⟩ ng mabuti.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "mga makasalanan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "pinaparusahan ng"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ngunit ⟨את⟩",
+      "marks": "mga matuwid"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:52.636236366Z",
+  "model": "glm-5.3"
+}

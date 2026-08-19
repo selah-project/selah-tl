@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At itatalaga ko ang ⟨את⟩ aking mukha laban sa taong iyon at laban sa kaniyang angkan, at puputulin ko siya at ⟨את⟩ lahat ng nag-aalipin-aka matapos niya, na nag-aalipin-aka matapos kay Molech, mula sa gitna ng kanilang bayan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "at itatalaga ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "at sa kaniyang angkan"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "at puputulin ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng nag-aalipin-aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "nag-aalipin-aka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "matapos niya"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "sa pag-aalipin-aka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kay Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ng kanilang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:52.295730703Z",
+  "model": "glm-5.3"
+}

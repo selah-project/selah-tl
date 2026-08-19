@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Sumumpa si Yahweh kay David ng katotohanan, hindi Niya ito ibabalik: 'Mula sa bunga ng tiyan mo, ilalagay Ko sa trono para sa iyo.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ng katotohanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ibabalik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mula dito"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mula sa bunga"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ng tiyan mo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ilalagay Ko"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sa trono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:25.029678728Z",
+  "model": "glm-5.3"
+}

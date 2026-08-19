@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ipinanganak sa kaniya ang pitong anak na lalaki at tatlong anak na babae.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak na babae"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:28.628499386Z",
+  "model": "glm-5.3"
+}

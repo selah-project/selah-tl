@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At gumawa siya ng mga pingga na kahoy ng akasya, at binihisan niya ang ⟨את⟩ mga ito ng ginto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gumawa siya"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ng mga pingga"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "binihisan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:26.429115541Z",
+  "model": "glm-5.3"
+}

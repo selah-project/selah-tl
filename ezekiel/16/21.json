@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At pinatay mo ang ⟨את⟩ iyong mga anak, at ibinigay mo sila sa pagpapadaan sa ⟨את⟩ mga ito para sa kanila.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "at pinatay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iyong mga anak"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "at ibinigay mo sila"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "sa pagpapadaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:42:51.034110086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Bumalik ang Ravshakeh, at natagpuan niya ⟨את⟩ hari ng Ashur na nakikipaglaban sa Libnah, sapagkat narinig niya na umalis na siya sa Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav(kataas-taasan)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "at natagpuan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari ng Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narining niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "umaalis"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "sa Lakish"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:07.898242014Z",
+  "model": "glm-5.3"
+}

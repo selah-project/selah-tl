@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Tingnan mo, sapagkat iyong mga kautusan ay minahal ko; O Yahweh, ayon sa iyong kagandahang-loob, buhayin mo ako.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tingnan mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iyong mga kautusan"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ay minahal ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ayon sa iyong kagandahang-loob"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "buhayin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:38.780278889Z",
+  "model": "glm-5.3"
+}

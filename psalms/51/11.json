@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Iyong itago ang iyong mukha sa aking mga kasalanan, at ang lahat ng aking mga kasamaan ay iyong burahin.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "iyong itago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "sa aking mga kasalanan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "aking mga kasamaan"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ay iyong burahin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:26.281943952Z",
+  "model": "glm-5.3"
+}

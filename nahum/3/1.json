@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Abay sa lungsod ng mga dugo! Bukod-tangi ⟨ang⟩ pandaraya at pandarambong, hindi umiiris ang hagupit ng nasamsam.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Abay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ng mga dugo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bukod-tangi"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "pandaraya"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "pandarambong"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "umiiris"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nasamsam"
+    }
+  ],
+  "timestamp": "2026-08-19T18:05:19.654193770Z",
+  "model": "glm-5.3"
+}

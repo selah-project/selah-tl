@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Ngunit hindi sila nakinig at hindi nila iniingglar ang ⟨את⟩ kanilang tainga upang bumalik sa kanilang kasamaan, upang huwag nang magsi- ng simoy ng insenso sa mga elohim na iba.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "iniingglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang tainga"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kanilang tainga"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "upang bumalik"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "sa kanilang kasamaan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "upang huwag"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "magsing ng simoy ng insenso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    }
+  ],
+  "timestamp": "2026-08-19T19:49:25.225278012Z",
+  "model": "glm-5.3"
+}

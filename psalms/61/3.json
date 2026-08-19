@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Mula sa dulo ng lupa, sa iyo tatawag ako; kapag nababalot ang aking puso, sa bato na mataas kaysa akin sa akin ay patnubayan mo ako.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "mula sa dulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tatawag ako"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "kapag nababalot"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "na mataas kaysa akin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaysa akin"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "patnubayan mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.437389921Z",
+  "model": "glm-5.3"
+}

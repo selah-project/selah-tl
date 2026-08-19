@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Kunin mo nga ang ⟨את⟩ aking pagpapala na dinala sa iyo, sapagkat nagtangis sa akin ang Elohim at sapagkat may lahat sa akin. At pumilit siya rito, at kinuha niya ito.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking pagpapala"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "aking pagpapala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "dinala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nagtangis sa akin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at sapagkat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "at pumilit siya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:21.142978330Z",
+  "model": "glm-5.3"
+}

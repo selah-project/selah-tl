@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat pagkawasak, at ito ay nakapasya na, ay gagawin ng Adonai Yahweh Tsevaot sa gitna ng buong lupain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pagkawasak"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "at nakapasya na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:30.219720895Z",
+  "model": "glm-5.3"
+}

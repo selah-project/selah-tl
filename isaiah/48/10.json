@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Tingnan, pinatino kita ngunit hindi gaya ng pilak; pinili kita sa hurno ng kagipitan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "pinatino kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "gaya ng pilak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "pinili kita"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sa hurno"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ng kagipitan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:37.289258763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Magbibigay ako ng damo sa iyong bukid para sa iyong mga hayop, at ikaw ay kakain at mabubusog.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "magbibigay ako"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ng damo"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "sa iyong bukid"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "para sa iyong mga hayop"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "at kakain"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "at mabubusog"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:27.455139230Z",
+  "model": "glm-5.3"
+}

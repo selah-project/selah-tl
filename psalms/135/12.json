@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "at ibinigay ang kanilang lupang mana, isang mana para kay Yisrael na kaniyang bayan.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang kanilang lupa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lupang mana"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "isang mana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para kay Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.126842718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi sa kanila ng igos: Itinatawik ko ba ang ⟨את⟩ aking tamis at ang ⟨את⟩ aking mabuting bunga, at ako'y lalakad upang magpaiwayway sa ibabaw ng mga puno?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "ng igos"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "itinatawik ko ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tamis"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "aking tamis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking mabuting bunga"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "aking bunga"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "at ako'y lalakad"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "upang magpaiwayway"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mga puno"
+    }
+  ],
+  "timestamp": "2026-08-19T15:50:20.408647810Z",
+  "model": "glm-5.3"
+}

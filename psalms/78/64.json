@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Ang kanyang mga pari ay sa tabak nahulog, at ang kanyang mga balo ay hindi umiyak.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ang kanyang mga pari"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "at ang kanyang mga balo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "umiyak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:24.044039875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 4:22",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At tumawag siya sa asawang lalaki, at nagsabi: Magpadala ka nga sa akin ng isa sa mga batang lalaki at ng isa sa mga babaeng asno, at tatakbo ako hanggang sa lalaking ng Elohim, at babalik ako.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "asawang lalaki niya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "magpadala ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa mga"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "batang lalaki"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "at ng isa"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "babaeng asno"
+    },
+    {
+      "surface": "וארוצה",
+      "gloss": "at tatakbo ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaking ng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "at babalik ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:37.953231953Z",
+  "model": "glm-5.3"
+}

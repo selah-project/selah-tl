@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 15:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Umahok sa Bajit, at ang Dibon sa mga mataas na dako, upang umiyak; dahil sa Nevo at sa Medeba ay magngingiyaw ang Moav; sa lahat ng mga ulo nito ay kakalbuhan, bawat baba ay tatagulin.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "umahok"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang Bajit"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "at ang Dibon"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "sa mga mataas na dako"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "upang umiyak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "magngingiyaw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ראשיו",
+      "gloss": "mga ulo nito"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kakalbuhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "baba"
+    },
+    {
+      "surface": "גרועה",
+      "gloss": "tatagulin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:53.314022049Z",
+  "model": "glm-5.3"
+}

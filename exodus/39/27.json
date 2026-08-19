@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ginawa nila ang ⟨את⟩ mga tuniko ng pinong lino, gawa ng manghahabi, para kay Aharon at sa kanyang mga anak na lalaki.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tuniko ng pinong lino"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang mga tuniko"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ng pinong lino"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa ng"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "manghahabi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "at sa kanyang mga anak na lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:32.415915818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ⟨את⟩ baboy, sapagkat may split na paa siya at biyak na biyak ang paa, ngunit ang gira ay hindi niya isinusuot pabalik — karumal-dumal siya sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang baboy"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "baboy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "may split na paa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "paa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "at biyak"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "biyak na biyak"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "paa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ngunit siya"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "isinusuot pabalik"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:02.776379524Z",
+  "model": "glm-5.3"
+}

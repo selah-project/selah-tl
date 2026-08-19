@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 99,
+  "translation": "Igawad ninyo si Yahweh na ating Elohim, at magpatirapa kayo sa ⟨ang⟩ kabanal-banalang bundok Niya, sapagkat banal si Yahweh na ating Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Igawad ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na ating Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "at magpatirapa kayo"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kabanal-banalang Niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:31.495329368Z",
+  "model": "glm-5.3"
+}

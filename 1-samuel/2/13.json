@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kaugalian ng mga pari sa ⟨את⟩ bayan ay ganito: bawat lalaking nag-aalay ng haing handog, papasok ang batang kasama ng pari habang kumukulo ang laman, at ang tinidor na may tatlong ngipin ay nasa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "At ang kaugalian"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ng mga pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nag-aalay ng hain"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "handog"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ang batang kasama"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng pari"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "habang kumukulo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "at ang tinidor"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:56.733083233Z",
+  "model": "glm-5.3"
+}

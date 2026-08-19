@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Ganito ang sabi ni Yahweh, ang tumubos sa iyo at ang humubog sa iyo mula sa sinapupunan: Ako si Yahweh, gumagawa ng ⟨את⟩ lahat, nagbubuka ng mga langit nang mag-isa, naglalatag ng lupa — sino ⟨את⟩ ang kasama ko?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "ang tumubos sa iyo"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "at ang humubog sa iyo"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mula sa sinapupunan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nagbubuka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "naglalatag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ang kasama ko",
+      "marks": "sino — ang nagtatanong kung sino ang ⟨את⟩ kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:14.946070452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ganito ang sabi ni Yahweh ng mga hukbo, ang Elohim ng Israel: Itama ninyo ang inyong mga lakad at ang inyong mga gawa, at pahihirain kong tumira kayo ⟨את⟩ sa dakong ito.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "itama ninyo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ang inyong mga lakad"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "at ang inyong mga gawa"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "at pahihirain kong tumira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (na titira sa dakong ito)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dakong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:17:12.441793418Z",
+  "model": "glm-5.3"
+}

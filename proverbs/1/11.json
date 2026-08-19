@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kung magsabi sila: Halika ⟨את⟩ kasama namin, magmamatyag tayo laban sa dugo, magtatago tayo laban sa walang sala nang walang dahilan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "magsabi sila"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "halika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kasama namin"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "magmamatyag tayo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "laban sa dugo"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "magtatago tayo"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "laban sa walang sala"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang dahilan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:55.038480444Z",
+  "model": "glm-5.3"
+}

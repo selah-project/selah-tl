@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ang pinili na makisama sa lahat ng mga buhay ay may pag-asa: sapagkat sa buhay na aso, mabuti siya kaysa patay na leon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "pinili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makisama sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ng mga buhay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ay may"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "pag-asa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "patay na leon"
+    },
+    {
+      "surface": "המת",
+      "gloss": "patay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:42.423716241Z",
+  "model": "glm-5.3"
+}

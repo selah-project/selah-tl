@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang kanilang mga kapatid sa kanilang mga baryo ay pumapasok sa bawat pitong araw, mula sa isang panahon hanggang sa isa pang panahon, kasama ng mga ito.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "at ang kanilang mga kapatid"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "sa kanilang mga baryo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pumapasok"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "sa bawat pitong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "mula sa isang panahon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isa pang panahon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:00.630849465Z",
+  "model": "glm-5.3"
+}

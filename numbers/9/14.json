@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 9:14",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At kung magpapamayan ⟨את⟩ inyo ang dayuhan at gagawa ng Pasko kay Yahweh, ayon sa tuntunin ng Pasko at ayon sa kaniyang batas, gayon gagawin niya: isang tuntunin magkakaroon ⟨ang⟩ para sa inyo at para sa dayuhan at para sa katutubo ng lupain.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "At kung"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "magpapamayan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gagawa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pasko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כחקת",
+      "gloss": "ayon sa tuntunin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ng Pasko"
+    },
+    {
+      "surface": "וכמשפטו",
+      "gloss": "at ayon sa kaniyang batas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin niya"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "tuntunin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "at para sa dayuhan"
+    },
+    {
+      "surface": "ולאזרח",
+      "gloss": "at para sa katutubo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:11.695566654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "at ang ⟨את⟩ mga kaldero, at ang ⟨את⟩ mga pala, at ang ⟨את⟩ mga tinidor, at ang ⟨את⟩ lahat ng mga kasangkapan nila — ginawa ni Huram ang kaniyang ama para sa haring Shelomoh, para sa bahay ni Yahweh, pinakintab na tanso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaldero"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "mga kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "mga pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinidor"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "mga tinidor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga kasangkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "mga kasangkapan nila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kaniyang ama"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para sa hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "para sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "pinakintab"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:37.634411718Z",
+  "model": "glm-5.3"
+}

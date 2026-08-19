@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Yoav ay bumalik mula sa paghabol kay Avner, at pinipisan niya ang ⟨את⟩ buong bayan, at nabilang mula sa mga lingkod ni David na siyamnampung lalaki at si Asahel.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "At si Yoav"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mula sa paghabol kay"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "at pinipisan niya ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "at nabibilang"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mula sa mga lingkod ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-nampu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at si Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asahel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:36.754911533Z",
+  "model": "glm-5.3"
+}

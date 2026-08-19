@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sumagot ka sa mangmang ayon sa ⟨את⟩ kaniyang kahunyaan, baka siya'y maging marunong sa kaniyang sariling paningin.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "sumagot ka"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sa mangmang"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ayon sa kaniyang kahunyaan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kaniyang sariling paningin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:47.385798884Z",
+  "model": "glm-5.3"
+}

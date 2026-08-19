@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At inyong ingatan ang ⟨את⟩ mga salita ng tipang ito at inyong gawin ang ⟨את⟩ mga ito, upang kayo'y magtagumpay sa ⟨את⟩ lahat ng inyong ginagawa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at inyong ingatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ng tipang ito"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ng tipa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nitong ito"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "at inyong gawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ito"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "kayo'y magtagumpay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng inyong ginagawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyong ginagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:23.562572005Z",
+  "model": "glm-5.3"
+}

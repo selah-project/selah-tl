@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Siya ang iyong papuri, at siya ang iyong Elohim, na gumawa ⟨את⟩ sa iyo ng ⟨את⟩ mga dakilang bagay at ng ⟨את⟩ mga kakilakilabot na ito, na nakita ng iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "iyong papuri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dakilang bagay"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "mga dakilang bagay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga kakilakilabot"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "mga kakilakilabot"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:00.318550331Z",
+  "model": "glm-5.3"
+}

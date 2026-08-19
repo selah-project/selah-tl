@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang mabuti ay magbubunga ng kaluguran mula kay Yahweh, ngunit ang lalaking mapanlinlang ay kanyang hahatulan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ang mabuti"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "magbubunga ng \/ makakamit"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kaluguran (pabor)"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "mula kay Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ngunit ang lalaking"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "mapanlinlang (mga masamang balak)"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "hahatulan (papatnahin ng kasamaan)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:42.440334563Z",
+  "model": "glm-5.3"
+}

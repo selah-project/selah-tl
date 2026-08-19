@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At narinig ni Paraon ang ⟨את⟩ bagay na ito, at hinanap niyang patayin si ⟨את⟩ Moshe; ngunit tumakas si Moshe mula sa harapan ni Paraon at tumira sa lupain ng Midyan, at umupo sa tabi ng balon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "at hinanap"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "patayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at tumira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ng Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at umupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tabi ng"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "balon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:27.591481150Z",
+  "model": "glm-5.3"
+}

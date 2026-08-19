@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sa pag-alsa ni Aharon ng ⟨את⟩ mga ilawan sa pagitan ng mga takipsilim, paiusukin niya ito — insensong tuloy-tuloy sa harap ni Yahweh para sa inyong mga salinlahi.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "at sa pag-alsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ilawan"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "mga ilawan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga takipsilim"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "paiusukin niya ito"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuloy-tuloy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "para sa inyong mga salinlahi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:03.715470268Z",
+  "model": "glm-5.3"
+}

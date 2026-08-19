@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Dinurog nila ang iyong bayan, O Yahweh, at pinahirapan ang iyong pamana.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "dinudurog nila"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "at ang iyong pamana"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "pinahirapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.020760876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At ito ang kanyang karumihan sa kanyang agos: kung tumulo ang kanyang laman ng ⟨את⟩ kanyang agos, o napigilan ang kanyang laman mula sa kanyang agos — ⟨ito⟩ ang kanyang karumihan.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ang magiging"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kanyang karumihan"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "sa kanyang agos"
+    },
+    {
+      "surface": "רר",
+      "gloss": "kung tumulo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang kanyang laman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang agos"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "kanyang agos"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "napigilan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang kanyang laman"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "mula sa kanyang agos"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ang kanyang karumihan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:17.413946764Z",
+  "model": "glm-5.3"
+}

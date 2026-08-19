@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking hihipin ang ⟨את⟩ isang lalaki sa paraan ng pagkakahiga sa babae — kasuklam-suklam na gawa ang ginawa nilang dalawa — kamatayan silang walang-awa nga patayin; ang kanilang dugo ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihipin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isang lalaki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "sa mga higaan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ng babae"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "nilang dalawa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "nga patayin silang walang-awa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ang kanilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ay nasa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:55.670364871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Lumayo kayo sa akin, kayong manggagawa ng kasamaan, upang ingatan ko ang mga utos ng aking Elohim.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Lumayo kayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kayong manggagawa ng kasamaan"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "at ingatan ko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang mga utos"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:45.615059262Z",
+  "model": "glm-5.3"
+}

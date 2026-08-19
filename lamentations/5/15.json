@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Tumigil ang kasiyahan ng ating puso; ang ating sayaw ay nabaligtad sa pagluluksa.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "tumigil"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kasiyahan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ating puso"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nabaligtad"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "sa pagluluksa"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ating sayaw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:47.114115867Z",
+  "model": "glm-5.3"
+}

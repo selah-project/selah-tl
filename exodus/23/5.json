@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Kung makita mo ang asno ng iyong kinamumuhian na nakadapa sa ilalim ng kanyang pasanin, at ikaw ay magpigil na iwanan ito, ay tiyak na iwanan mo ito kasama niya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita mo"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asno"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ng iyong kinamumuhian"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "nakadapa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "ng kanyang pasanin"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "at magpipigil ka"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "na iwanan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tiyak na iwanan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mo iwanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:44.329788515Z",
+  "model": "glm-5.3"
+}

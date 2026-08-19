@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 17:25",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sinabi ni Yahweh kay Moshe: Ibalik ang ⟨את⟩ tungkod ni Aharon sa harap ng ⟨the⟩ patotoo, bilang ingatan, bilang tanda para sa ⟨mga⟩ anak ni Meri, at matapos ang ⟨mga⟩ pag-aalsa nila laban sa akin, upang hindi sila mamatay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tungkod ni Aharon"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "bilang ingatan"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "bilang tanda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ni Meri"
+    },
+    {
+      "surface": "ותכל",
+      "gloss": "at matapos"
+    },
+    {
+      "surface": "תלונתם",
+      "gloss": "mga pag-aalsa nila"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "upang hindi"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:10:51.448148188Z",
+  "model": "glm-5.3"
+}

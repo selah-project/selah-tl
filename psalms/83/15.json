@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Gaya ng apoy na sinusunog ang gubat, at gaya ng ningas na sinisindihan ang mga bundok.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "gaya ng apoy"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sinusunog"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ang gubat"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "at gaya ng ningas"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "sinisindihan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:08.882571442Z",
+  "model": "glm-5.3"
+}

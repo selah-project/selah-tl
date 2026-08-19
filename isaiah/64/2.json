@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Sa paggawa mo ng mga kataka-taka, hindi namin inaasahan ⟨ito⟩; bumaba ka, sa iyong harap ang mga bundok ay nayanig.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "sa paggawa mo"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mga kataka-taka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "inaasahan"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "bumaba ka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa iyong harap"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "nayanig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.656403393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 112,
+  "translation": "Yaman at kasaganaan ⟨ay nasa⟩ sa kanyang bahay, at ang kanyang katuwiran ay nananatili magpakailanman.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "yaman"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "at kasaganaan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa kanyang bahay"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "at ang kanyang katuwiran"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nananatili \/ nakatayo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:23.269186991Z",
+  "model": "glm-5.3"
+}

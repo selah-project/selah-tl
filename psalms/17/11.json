@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang aming mga hakbang ay ngayo'y pinaliligawan nila ako; ang kanilang mga mata ay itinuring upang itumba sa lupa ⟨kami⟩.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ang aming mga hakbang"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "pinaliligawan nila ako"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang kanilang mga mata"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "itinuring"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "upang itumba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:27.033080660Z",
+  "model": "glm-5.3"
+}

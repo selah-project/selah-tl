@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kaniyang sinabi: Hindi ako gumulo sa ⟨את⟩ Israel, kundi ikaw at ang bahay ng iyong ama, sa pag-abandona ninyo sa ⟨את⟩ mga utos ni Yahweh, at sa paglakad ninyo mga sumunod sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ako gumulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung sa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bagkus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "sa pag-abandona ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga utos"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sumunod sa"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mga Baal"
+    }
+  ],
+  "timestamp": "2026-08-19T16:37:59.171690Z",
+  "model": "glm-5.3"
+}

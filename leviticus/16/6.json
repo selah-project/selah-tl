@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At maghahandog si Aharon ng ⟨את⟩ baka ng handog para sa kasalanan na sa kanya, at magpapatalwis para sa kanyang sarili at para sa kanyang sambahayan.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "at maghahandog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka ng handog para sa kasalanan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa kasalanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ווכפר",
+      "gloss": ""
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "para sa kanyang sarili"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "at para sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang sambahayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:28.193881704Z",
+  "model": "glm-5.3"
+}

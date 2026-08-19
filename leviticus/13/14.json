@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ngunit sa araw na maganap sa kanya ang paglitaw ng buhay na laman, marumi siya.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ng paglitaw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay (hilaw)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "marumi siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:50:36.877496184Z",
+  "model": "glm-5.3"
+}

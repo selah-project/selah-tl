@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At nakita ni Yaakov ang ⟨את⟩ mukha ni Lavan, at ⌈narádaman⌉ na hindi na ⌈siya⌉ ⌈pabor⌉ sa kanya gaya ng kailanman pa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi na siya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "gaya ng kahapon"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "at kamakailan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:06.991643154Z",
+  "model": "glm-5.3"
+}

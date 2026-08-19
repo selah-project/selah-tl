@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Ako ay ⟨para sa⟩ kapayapaan; ngunit kapag nagsasalita ako, sila ay ⟨para sa⟩ digmaan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨para sa⟩ kapayapaan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ngunit kapag"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nagsasalita ako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨para sa⟩ digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:33.612625025Z",
+  "model": "glm-5.3"
+}

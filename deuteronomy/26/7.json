@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sumigaw kami kay Yahweh, sa Elohim ng aming mga ama, at dininig ni Yahweh ang ⟨את⟩ aming tinig, at nakita niya ang ⟨את⟩ aming kahapisan at ang ⟨את⟩ aming pagpapagalan at ang ⟨את⟩ aming pang-aapi.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "at sumigaw kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ng aming mga ama"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at dininig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming tinig"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "aming tinig"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming kahapisan"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "aming kahapisan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aming pagpapagalan"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "aming pagpapagalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aming pang-aapi"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "aming pang-aapi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:22.994848312Z",
+  "model": "glm-5.3"
+}

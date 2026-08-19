@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sa daan ng katuwiran ay ⟨may⟩ buhay, at sa landas niyon ay walang kamatayan.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "at sa landas"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "niyon\/landas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamataan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:49.484145756Z",
+  "model": "glm-5.3"
+}

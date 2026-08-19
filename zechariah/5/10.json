@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sinabi ko sa anghel na nagsasalita sa akin, Saan nila dinadala ang ⟨את⟩ eipah?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na nagsasalita"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "saan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "dinadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eipah"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ang eipah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:50.039758699Z",
+  "model": "glm-5.3"
+}

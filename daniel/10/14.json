@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ako'y dumating upang ipaunawa sa iyo ang ⟨את⟩ kung ano ang mangyayari sa iyong bayan sa huling mga araw, sapagkat may pananaw pa para sa mga araw.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "At ako'y dumating"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "upaang ipaunawa sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kung ano ang mangyayari sa iyong bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung ano ang"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "sa iyong bayan"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa huling"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pananaw"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "para sa mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:12:18.458645736Z",
+  "model": "glm-5.3"
+}

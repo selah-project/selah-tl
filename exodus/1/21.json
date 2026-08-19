@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nangyari, sapagkat natakot ang mga hilot sa ⟨את⟩ Elohim, na gumawa siya para sa kanila ng mga bahay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natakot"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ang mga hilot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gumawa siya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:30.286364246Z",
+  "model": "glm-5.3"
+}

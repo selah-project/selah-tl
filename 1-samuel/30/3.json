@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At dumating si David at ang kaniyang mga lalaki sa ⟨את⟩ lunsod, at narito, sinusunog sa apoy; at ang kanilang mga asawa at ang kanilang mga anak na lalaki at ang kanilang mga anak na babae ay nabilanggo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ang kaniyang mga lalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lunsod"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "sinusunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "at ang kanilang mga asawa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "at ang kanilang mga anak na lalaki"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "at ang kanilang mga anak na babae"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ay nabilanggo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:01.222945433Z",
+  "model": "glm-5.3"
+}

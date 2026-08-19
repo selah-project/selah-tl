@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At hindi na maghahain sila ng ⟨את⟩ kanilang mga handog sa mga seirim, na sinusunod nila sa paglalandero; batas magpakailanman ito'y magiging para sa kanila, sa kanilang mga salinlahi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "maghahain"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga handog"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "kanilang mga handog"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "sa mga seirim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "naglalandero"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sumusunod sa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa kanilang mga salinlahi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:33.026264424Z",
+  "model": "glm-5.3"
+}

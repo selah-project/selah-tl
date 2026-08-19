@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Yaong natakot sa ⟨את⟩ salita ni Yahweh mula sa mga alipin ni Paroh — pinalayas niya ang ⟨את⟩ kanyang mga alipin at ⟨את⟩ kanyang mga hayop patungo sa mga bahay.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "yaong natakot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "mula sa mga alipin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "pinalayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga alipin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga hayop"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kanyang mga hayop"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mga bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:47.018232248Z",
+  "model": "glm-5.3"
+}

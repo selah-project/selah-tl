@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Ibigay mo sa amin ang ⟨את⟩ tulong laban sa kaaway, sapagkat walang-saysay ang kaligtasan mula sa tao.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ibigay mo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ang tulong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "laban sa kaaway"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "sapagkat walang-saysay"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ang kaligtasan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mula sa tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:25.834095059Z",
+  "model": "glm-5.3"
+}

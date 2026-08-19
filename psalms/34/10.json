@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Mangatakot kayo kay ⟨את⟩ Yahweh, mga banal niya, sapagkat walang kakulangan sa mga natatakot sa kaniya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Mangatakot kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "mga banal niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kakulangan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga natatakot sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.097748130Z",
+  "model": "glm-5.3"
+}

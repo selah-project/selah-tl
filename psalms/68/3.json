@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Kagaya ng usok na itinataboy, sila'y ⟨ibabaoy⟩ Mo; kagaya ng pagkatunaw ng kandila sa harap ng apoy, mangawala ang masasama sa harap ng Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "kagaya ng pagtataboy"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "usok"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "itinataboy"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kagaya ng pagkatunaw"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kandila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mangawala"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masasama"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:34.979747354Z",
+  "model": "glm-5.3"
+}

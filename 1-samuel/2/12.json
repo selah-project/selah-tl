@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang mga anak ni Eli ay mga anak ng kawalang-halaga; hindi nila nakikilala ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak ni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "kawalang-halaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakikilala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:06.861842010Z",
+  "model": "glm-5.3"
+}

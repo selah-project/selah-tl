@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ⟨את⟩ sahig ng bahay ay biniyaran ng ginto, sa loob at sa labas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sahig ng bahay"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "sahig"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "biniyaran ng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "at sa labas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:51.262813143Z",
+  "model": "glm-5.3"
+}

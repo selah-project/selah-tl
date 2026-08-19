@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit ang trigo at ang espelta ay hindi sinaktan, sapagkat huli ang mga ito.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ngunit ang trigo"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "at ang espelta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "huli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:14.188291944Z",
+  "model": "glm-5.3"
+}

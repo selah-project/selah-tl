@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sapagkat sa iyo ako tatakbo laban sa ⟨the⟩ kumpol ng mga sundalo, at sa aking Elohim ako tatalon ang ⟨the⟩ pader.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ako tatakbo laban"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "sa kumpol ng mga sundalo"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "at sa aking Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ako tatalon ang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "pader"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:58.913315978Z",
+  "model": "glm-5.3"
+}

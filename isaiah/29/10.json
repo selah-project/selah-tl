@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Sapagkat binuhos ni Yahweh sa inyo ang ⟨isang⟩ espiritu ng malalim na tulog, at pinalo niya ang ⟨את⟩ mga mata ninyo — ang ⟨את⟩ mga propeta — at ang ⟨את⟩ mga ulo ninyo — ang mga tagatanaw — kanyang tinakpan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "binuhos"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨isang⟩ espiritu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ng malalim na tulog"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "at pinalo\/pinid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mata ninyo"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mga mata ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga propeta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ang mga propeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga ulo ninyo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mga ulo ninyo"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ang mga tagatanaw"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kanyang tinakpan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:35.709611578Z",
+  "model": "glm-5.3"
+}

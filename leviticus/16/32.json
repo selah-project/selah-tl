@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ang saserdoteng papahiran ng langis, at ⟨את⟩ na ang kanyang kamay ay pupunuin bilang saserdote sa halip ng kanyang ama — siya ang magiging kaparaanan, at isusuot niya ang ⟨את⟩ mga damit ng lino, ang mga banal na damit.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "at magiging kaparaanan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "papahiran ng langis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at na"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "pupunuin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bilang saserdote"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip ng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "at magsusuot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga damit ng lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ng lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ng kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:53.172048253Z",
+  "model": "glm-5.3"
+}

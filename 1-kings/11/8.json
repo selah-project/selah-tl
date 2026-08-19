@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At gayon din ang ginawa niya para sa lahat ng kaniyang mga babaeng dayuhan, na nagsusunog ng insenso at naghahandog ng haing mga alay sa kanilang mga diyos.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "at gayon din"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang ginawa niya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa lahat ng"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "kaniyang mga asawa"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "nagsusunog ng insenso"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "at naghahandog ng mga alay"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "sa kanilang mga diyos"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:17.919835664Z",
+  "model": "glm-5.3"
+}

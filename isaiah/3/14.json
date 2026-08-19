@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Papasok si Yahweh sa ⟨isang⟩ hatol kasama ng mga matanda ng kaniyang bayan at ng mga pinuno nito: kayo ang nagsunog ⟨sa⟩ ubasan, ang samsam ng dukha ay nasa ⟨inyong⟩ mga bahay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa ⟨isang⟩ hatol"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Papasok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ng kaniyang bayan"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "at ng mga pinuno niya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "nagsunog\/ninakaw ninyo"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ang ubasan"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ang samsam"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ng dukha"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "sa inyong mga bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:44.655325603Z",
+  "model": "glm-5.3"
+}

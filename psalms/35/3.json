@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At igawa mo ng daan ang sibat, at harangin mo ang aking mga nag-uusig; sabihin mo sa aking kaluluwa: 'Ako ang iyong kaligtasan.'",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "At igawa mo ng daan"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "at harangin mo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa paglapit ng"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "aking mga nag-uusig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa aking kaluluwa"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "iyong kaligtasan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:48.385277909Z",
+  "model": "glm-5.3"
+}

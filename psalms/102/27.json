@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Silá'y maglalaho, ngunit Ikaw ay mananatili; siláng lahat na parang damit ay malaluma; na parang kasuotan ay papalitan Mo sila, at sila'y mapapalitan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "silá"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "maglalaho"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit Ikaw"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "mananatili"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "at siláng lahat"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "parang damit"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "malaluma"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "parang kasuotan"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "papalitan Mo sila"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "at mapapalitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:30.763364915Z",
+  "model": "glm-5.3"
+}

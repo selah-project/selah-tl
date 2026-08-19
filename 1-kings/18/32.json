@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kaniyang itinayo ang ⟨את⟩ mga bato bilang dambana sa pangalan ni Yahweh, at gumawa siya ng kanal sa paligid ng dambana, na kasinglaki ng dalawang sukat ng binhi.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "at kaniyang itinayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "na kasinglaki"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "ng dalawang sukat"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ng binhi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ng dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T16:37:26.875966341Z",
+  "model": "glm-5.3"
+}

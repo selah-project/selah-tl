@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Na sa kanilang mga kamay ay masamang balak, at ang kanilang kanan ay puno ng suhol.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "sa kanilang mga kamay"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "masamang balak"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "at ang kanilang kanan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ay puno"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ng suhol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:53.769222844Z",
+  "model": "glm-5.3"
+}

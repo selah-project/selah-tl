@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Isang salita ng kawalang-halaga ay binubuhos sa kanya — sinasabi nila — at pagdating sa kanya na nakahiga, hindi na niya idadagdag ang ⟨bumangon⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "isang salita"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ng kawalang-halaga"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ay binubuhos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at pagdating sa kanya na"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nakahiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi na"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "idadagdag niya"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ang ⟨bumangon⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:18.838268158Z",
+  "model": "glm-5.3"
+}

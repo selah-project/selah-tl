@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ang ⟨את⟩ kanyang mga anak ay iyong ilalapit, at iyong dadamitan sila ng ⟨את⟩ mga kuto-tono.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "iyong ilalapit"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "at iyong dadamitan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "mga kuto-tono"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga kuto-tono"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:43.410654762Z",
+  "model": "glm-5.3"
+}

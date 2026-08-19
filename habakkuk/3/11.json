@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang araw at ang buwan ay tumigil sa kanilang tahanan; sa liwanag ng iyong mga palaso sila lumakad; sa ningning ng kidlat, ang iyong sibat.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "at ang buwan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ay tumigil"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "sa kanilang tahanan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ng iyong mga palaso"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "silа lumakad"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sa ningning"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ng kidlat"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "ang iyong sibat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:06:55.786859034Z",
+  "model": "glm-5.3"
+}

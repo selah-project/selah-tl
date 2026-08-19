@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang mga binilang sa kanila, ayon sa kanilang mga angkan, ay tatlong libo at dalawang daan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "At nangyari na"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang mga binilang sa kanila"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "at dalawang daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:25.287864836Z",
+  "model": "glm-5.3"
+}

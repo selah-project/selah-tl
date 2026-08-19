@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kaniyang sinabi: Alin ang daan na aakyatin natin? At kaniyang sinabi: Ang daan ng ilang ng Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "alin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "aakyatin natin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ng ilang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ng Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:48.503718092Z",
+  "model": "glm-5.3"
+}

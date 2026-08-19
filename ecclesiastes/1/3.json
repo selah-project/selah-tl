@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Anong pakinabang mayroon ang tao sa lahat ng kanyang pagsisikap na kanyang pinagsisikapan sa ilalim ng araw?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ng kanyang pagsisikap"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "na kanyang pinagsisikapan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:01.147760898Z",
+  "model": "glm-5.3"
+}

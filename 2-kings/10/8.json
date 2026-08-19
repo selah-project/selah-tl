@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At dumating ang mensahero at ibinalita sa kanya, na sinasabi: Dinala nila ang mga ulo ng mga anak ng hari. At siya'y nagsabi: Ilagay ninyo ang ⟨את⟩ mga iyon sa dalawang tambak sa pasukan ng tarangkahan hanggang umaga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ibinalita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dinala nila"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at siya'y nagsabi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ilagay ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (na dalawang tambak)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "tambak"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pasukan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:15.541198385Z",
+  "model": "glm-5.3"
+}

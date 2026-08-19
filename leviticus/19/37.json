@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At iingatan ninyo ang ⟨את⟩ lahat ng aking mga tuntunin at ang ⟨את⟩ lahat ng aking mga hatol, at gagawin ninyo ang mga ito ⟨אתם⟩: ako ⟨si⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at iingatan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng aking mga tuntunin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ng aking mga tuntunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng aking mga hatol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ng aking mga hatol"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "at gagawin ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ang mga ito ⟨אתם⟩",
+      "marks": "ang mga tuntunin at mga hatol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:19.081000945Z",
+  "model": "glm-5.3"
+}

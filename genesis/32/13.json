@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At ikaw ay nagsabi, tiyak na gagawin kong mabuti ang ⟨את⟩ sa iyo, at ilalagay ko ang ⟨את⟩ binhi mo na parang buhang ng dagat na hindi mabibilang dahil sa karamihan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ay nagsabi"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "tiyak na mabuti"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "gagawin kong mabuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "at ilalagay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binhi mo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "binhi mo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "parang buhang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ng dagat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mabibilang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dahil sa karamihan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:54.012526853Z",
+  "model": "glm-5.3"
+}

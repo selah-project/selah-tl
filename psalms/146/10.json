@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Maghahari si Yahweh magpakailanman — ang iyong Elohim, O Tsiyon, sa lahat ng henerasyon. Luwalhatihi ninyo si Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "maghahari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa lahat ng henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at henerasyon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "luwalhatihi ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:02.883381198Z",
+  "model": "glm-5.3"
+}

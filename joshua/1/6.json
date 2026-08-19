@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Malakas ka at matapang ka, sapagkat ikaw ang magpapamana sa ⟨את⟩ bayan na ito ng ⟨את⟩ lupa na isinumpa ko sa kanilang mga ama na ibibigay ko sa kanila.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "malakas ka"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "at matapang ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "magpapamana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan na ito"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "isinumpa ko"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "sa kanilang mga ama"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "na ibibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:40.867650513Z",
+  "model": "glm-5.3"
+}

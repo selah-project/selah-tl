@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sapagkat paanong ako makakaya at makakita sa kasamaan na sasapit sa aking bayan? At paanong ako makakaya at makakita sa pagkawasak ng aking kamaganakan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "paanong"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ako makakaya"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "at makakita"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sasapit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa aking bayan"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "at paanong"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ako makakaya"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "at makakita"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "sa pagkawasak"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ng aking kamaganakan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:52.912618519Z",
+  "model": "glm-5.3"
+}

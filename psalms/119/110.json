@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Naglatag ang masasama ng bitag para sa akin, ngunit mula sa iyong mga utos ay hindi ako naligaw.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "naglatag"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang masasama"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bitag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ngunit mula sa iyong mga utos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "naligaw ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:12.691309888Z",
+  "model": "glm-5.3"
+}

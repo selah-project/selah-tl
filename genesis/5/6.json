@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At namuhay si Shet na limang taon at isang daang taon, at ipinanganak ang ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "At namuhay"
+    },
+    {
+      "surface": "שת",
+      "gloss": "si Shet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "at isang daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "si Enosh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:48.196946677Z",
+  "model": "glm-5.3"
+}

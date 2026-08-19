@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang mga pagbubula mo ay pinapatahimik ng mga tao, at nanlait ka, at walang nagpapahiya sa iyo.",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "mga pagbubula mo"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "pinapatahimik"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "at nanlait ka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "nagpapahiya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:53:20.824419400Z",
+  "model": "glm-5.3"
+}

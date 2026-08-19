@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Sa may mga ilog ng Babilonia, doon umupo tayo — oo, umiyak tayo, nang maalala natin ang ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga ilog"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Babilonia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "umupo tayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "umiyak tayo"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "nang maalala natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:29.902611995Z",
+  "model": "glm-5.3"
+}

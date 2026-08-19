@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Tiyak na parusahan niya ang ⟨את⟩ inyo, kung sa lihim kayo nagtataas ng mga mukha.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Tiyak na"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "parusahan\/sisiglahin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa lihim"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mga mukha"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "nagtataas kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:47.524005837Z",
+  "model": "glm-5.3"
+}

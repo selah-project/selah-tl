@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa pangunguna, ayon sa 'Usang Babae ng Umaga' — mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "usang babae"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ng umaga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:11.709726069Z",
+  "model": "glm-5.3"
+}

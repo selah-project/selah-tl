@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Umawit kayo kay Yahweh sa may alpa; sa may alpa at sa tinig ng awit.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Umawit kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa may alpa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa may alpa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "at sa tinig"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ng awit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:38.390359197Z",
+  "model": "glm-5.3"
+}

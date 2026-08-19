@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Hindi siya sisigaw, at hindi magtataas, at hindi papagingin sa daan ang kaniyang tinig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "siya sisigaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magtataas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "papagingin"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ang kaniyang tinig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:57.123248758Z",
+  "model": "glm-5.3"
+}

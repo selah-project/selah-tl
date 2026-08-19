@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Nang umatras ang aking mga kaaway, sila'y matitisod at manganganaw mula sa iyong harapan.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "nang umatras"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matitisod sila"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "at manganganaw"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mula sa iyong harapan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:32.810117834Z",
+  "model": "glm-5.3"
+}

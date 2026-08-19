@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ngunit ang bayan ay naghahandog sa mga mataas na dako, sapagkat hindi pa naitatayo ang ⟨isang⟩ bahay para sa pangalan ni Yahweh hanggang sa mga araw na ⟨yaon⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ngunit lamang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "naghahandog"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga mataas na dako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi pa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "naitatayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "na yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:50.330534376Z",
+  "model": "glm-5.3"
+}

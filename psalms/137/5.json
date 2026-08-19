@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Kung kalimutan ko ikaw, Oh Yerushalayim, kalimutan ng kanang kamay ko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "kalimutan ko ikaw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimutan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "kanang kamay ko"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:26.606618027Z",
+  "model": "glm-5.3"
+}

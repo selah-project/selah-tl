@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Wawasakin mo ang mga nagsasalita ng kasinungalingan; kinamuhi ni Yahweh ang lalaking mapangahas na mamatay-tao at mapanlinlang.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "wawasakin mo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga nagsasalita ng"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kasinungalingan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaking"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mamatay-tao"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "at mapanlinlang"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "kinamuhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:08.224440079Z",
+  "model": "glm-5.3"
+}

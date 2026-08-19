@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kayo'y babangon mula sa pagkukubli, at pangangasarin ninyo ang ⟨את⟩ siyudad; at ibibigay ito ni Yahweh, ⟨ang⟩ Elohim ninyo, sa kamay ninyo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "at kayo"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "babangon"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "mula sa pagkukubli"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "at pangangasarin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "at ibibigay ito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "⟨ang⟩ Elohim ninyo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa kamay ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:01.087960805Z",
+  "model": "glm-5.3"
+}

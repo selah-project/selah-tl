@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nagsugo ang ⟨bahay ni El⟩ — si Sar-Etser at Regen-Melech at ang kaniyang mga tao — upang mamahagi ng kahabagan sa ⟨את⟩ pasiya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At nagsugo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Sar"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Etser"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "at Regen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melech"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ang kaniyang mga tao"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "upang mamahagi ng kahabagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasiya ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha \/ pasiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:56.940806043Z",
+  "model": "glm-5.3"
+}

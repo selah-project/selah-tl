@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang mga anak ni Elpaal: Ever, at Misham, at Shamed — siya ang nagtayo ng ⟨את⟩ Ono at ng ⟨את⟩ Lod at ng mga baryo nito.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ni Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "at Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "at Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "ng ⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "at ng mga baryo nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:50.797835293Z",
+  "model": "glm-5.3"
+}

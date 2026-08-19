@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ingatan ninyo ang aking mga utos at gawin ninyo ang ⟨את⟩ mga ⟨ito⟩: ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at ingatan ninyo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ang aking mga utos"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "at gawin ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ito (ang mga utos)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:28.506669358Z",
+  "model": "glm-5.3"
+}

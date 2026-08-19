@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Pasan ng Babilonya, na nakita ni Yeshayahu na anak ni Amotz.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pasan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Babilonya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ni Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amotz"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:39.234326647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Nagkakaisa sila laban sa buhay ng matuwid, at ang dalang walang sala ay hinahatulang salarin.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "nagkakaisa sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "at ang dugo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "walang sala"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "hinahatulang salarin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:52.036423336Z",
+  "model": "glm-5.3"
+}

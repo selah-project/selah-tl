@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 21:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At binaril natin sila — nalipol ang Cheshbon hanggang Dibon, at winasak natin sila hanggang Nofach, na hanggang Medeva.",
+  "tokens": [
+    {
+      "surface": "ונירם",
+      "gloss": "at binaril natin sila"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nalipol"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ang Cheshbon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "at winasak natin sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "Nofach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeva"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:22.339820705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At itatanim ko siya ⟨את⟩ para sa akin sa lupain, at Aakahuyin ko ang ⟨את⟩ hindi-kahuyahan, at sasabihin ko sa hindi-aking-bayan, \"Aking-bayan ka,\" at siya'y magsasabi, \"Aking Elohim.\"",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "at itatanim ko siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "at aakahuyin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hindi-kahuyahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "kahuyahan (Lo-Ruhamah)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "at sasabihin ko"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "sa hindi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking-bayan (Lo-Ammi)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking-bayan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "magsasabi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:55:41.169615965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Kawalan sa inyo, mga nagdaragdag ng bahay sa bahay, nagpapatong ng bukid sa bukid, hanggang sa mapupuwulan ng lupa — at kayo'y mananahan nang mag-isa sa gitna ng lupain!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "kawalan sa inyo"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "mga nagdaragdag"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "nagpapatong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "mapupuwulan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "at kayo'y mananahan"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:02.360267273Z",
+  "model": "glm-5.3"
+}

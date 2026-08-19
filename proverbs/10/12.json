@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang pagkapoot ay gumigising ng alitan, ngunit ang pag-ibig ay nagtatakip sa lahat ng mga pagsuway.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "ang pagkapoot"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "ay gumigising"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ng alitan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ngunit sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ng mga pagsuway"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ay nagtatakip"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ang pag-ibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:59.580928459Z",
+  "model": "glm-5.3"
+}

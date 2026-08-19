@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Umupo kayo at manginwari sa mga gawa ni Elohim — nakakatakot ⟨siya⟩ sa kaniyang paggawa sa ⟨ibabaw ng⟩ mga anak ni Adán.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umupo kayo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "at manginwari"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "sa mga gawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nakakatakot"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "sa kaniyang paggawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ⟨ibabaw ng⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adán"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.332109101Z",
+  "model": "glm-5.3"
+}

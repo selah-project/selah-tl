@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Kung ganito ang sasabihin nila sa atin: 'Manatili kayong katahimikan hanggang sa makarating kami sa inyo,' ay tatayo kami sa ating dako at hindi tataas sa kanila.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasabihin nila"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "manatili kayong katahimikan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "makarating kami"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "ay tatayo kami"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sa ating dako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tataas"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:06.131483823Z",
+  "model": "glm-5.3"
+}

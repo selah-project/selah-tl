@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Inilagay nila sa ⟨mga⟩ langit ang kanilang bibig, at ang kanilang dila ay lumalakad sa ⟨mga⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "inilagay nila"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang kanilang bibig"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "at ang kanilang dila"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:53.994888590Z",
+  "model": "glm-5.3"
+}

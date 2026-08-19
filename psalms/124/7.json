@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "Ang ating buhay ay nakaligtas na parang ibon mula sa bitag ng mga mananabitag; nabali ang bitag, at tayo ay nakaligtas.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ang ating buhay"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "parang ibon"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "nakaligtas"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "mula sa bitag"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ng mga mananabitag"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ang bitag"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "at tayo"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nakaligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.950504159Z",
+  "model": "glm-5.3"
+}

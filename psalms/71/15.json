@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Ang aking bibig ay mag-uulat ng iyong katuwiran, ang iyong kaligtasan buong araw; sapagkat hindi ko rin alam ang ⟨bilang⟩ mga iyon.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ang aking bibig"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mag-uulat"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ng iyong katuwiran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ang iyong kaligtasan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko rin alam"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ang ⟨bilang⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.495655458Z",
+  "model": "glm-5.3"
+}

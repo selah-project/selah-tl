@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Gagawin mo ang dalawang kerub na ginto; hinahawakang-gawa ⟨את⟩ sila, mula sa dalawang dulo ng kaporo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Gagawin mo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinahawakang-gawa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga kerub)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mula sa dalawang"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ng kaporo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:23.963521090Z",
+  "model": "glm-5.3"
+}

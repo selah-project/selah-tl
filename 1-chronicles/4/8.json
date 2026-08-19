@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At si Kots ay nagkaanak kay ⟨את⟩ Anub at kay ⟨את⟩ haTsovava, at ng mga angkan ni Aharjel na anak ni Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "At si Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si haTsovava"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "haTsovava"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "at ng mga angkan"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "ni Aharjel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "ni Harum"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:07.193275936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Huwag kang sasagot laban sa iyong kapwa ⟨na⟩ saksing kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kang sasagot"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "laban sa iyong kapwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksing"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:10.591740239Z",
+  "model": "glm-5.3"
+}

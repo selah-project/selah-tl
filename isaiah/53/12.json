@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 53:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Kaya maghahati ako sa kanya ng bahagi sa kasama ng marami, at ⟨את⟩ mga makapangyarihan hahatian niya ng samsam; sapagkat ibinuhos niya ang kanyang buhay hanggang kamatayan, at ⟨את⟩ mga tumiwalag ay kabilang siya; at siya ang nagdala ng kasalanan ng marami, at para sa mga tumiwalag siya namagitan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kaya"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "maghahati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "sa kasama ng marami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga makapangyarihan"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mga makapangyarihan"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "hahatian"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ibinuhos"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hanggang kamatayan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang buhay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga tumiwalag"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mga tumiwalag"
+    },
+    {
+      "surface": "נמנה",
+      "gloss": "ay kabilang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kasalanan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ng marami"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "ולפשעים",
+      "gloss": "at para sa mga tumiwalag"
+    },
+    {
+      "surface": "יפגיע",
+      "gloss": "namagitan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:53.604263744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Mga araw at ⟨isang⟩ taon, manginig kayo, mga tiwala, sapagkat napakahinang na ang ani ng ubas, walang dumarating na pagtitipon.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "על",
+      "gloss": "at"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "manginig kayo"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "mga tiwala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "napakahinang na"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ani ng ubas"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pagtitipon"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dumarating"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:36.563904192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "si Elkanah ang kanyang anak, kay Elkanah: si Tzofay ang kanyang anak, at si Nachat ang kanyang anak.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kanyang anak"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "kay Elkanah"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "si Tzofay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kanyang anak"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "at si Nachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kanyang anak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:47.454196962Z",
+  "model": "glm-5.3"
+}

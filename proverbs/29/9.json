@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang taong marunong ay naghatol ⟨kay⟩ ⟨את⟩ taong hangal, at siya'y nagngangalit at tumatawa, at walang kapayapaan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "taong"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "naghatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taong hangal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "taong"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "at nagngangalit"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "at tumatawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:06.310520358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Sapagkat ang hari ay nananalig kay Yahweh, at sa kabutihang-loob ng Elyon — hindi siya magugulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nananalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "at sa kabutihang-loob"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ng Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "magugulo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:17.079221845Z",
+  "model": "glm-5.3"
+}

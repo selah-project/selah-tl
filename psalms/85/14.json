@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Ang katuwiran ay maglalakad sa harapan niya, at gagawin niyang daan ang ⟨mga⟩ yapak ng kanyang mga paa.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ang katuwiran"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "maglalakad"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at gagawin\/ilalagay"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "bilang daan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "mga yapak ng kanyang mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:07.723826446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At ang mga Hebreo ay tumawid sa ⟨את⟩ Jordan patungo sa lupain ng Gad at ng Gilead; si Shaul ay nasa Gilgal pa, at ang buong bayan ay nanginginig sa pagsunod sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "At ang mga Hebreo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ay tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ng Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "at ng Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ay nasaGilgal pa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "ay nanginginig"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa pagsunod sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:52.008195779Z",
+  "model": "glm-5.3"
+}

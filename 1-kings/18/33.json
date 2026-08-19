@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kanya-y inayos ang ⟨את⟩ mga kahoy, at hinati niya ang ⟨את⟩ baka, at inilagay niya sa ibabaw ng mga kahoy.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "at kanya-y inayos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kahoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "at hinati niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mga kahoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:37:47.282933518Z",
+  "model": "glm-5.3"
+}

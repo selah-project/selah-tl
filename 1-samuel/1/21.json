@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Umahad ang lalaking si Elkanah at ang kanyang buong sambahayan upang maghain ng ⟨את⟩ haing pangtaon kay Yahweh at ⟨את⟩ ang kanyang nain.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "umahad"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang sambahayan"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "upang maghain"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haing pangtaon"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "haing"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "pangtaon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kanyang nain"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "ang kanyang nain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:22.778318755Z",
+  "model": "glm-5.3"
+}

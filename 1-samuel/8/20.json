@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "at maging tayo rin na gaya ng lahat ng mga bansa, at hatulan tayo ng ating hari, at siya'y lalabas sa harapan natin, at manganglaban ⟨את⟩ ating mga digmaan.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "at maging tayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "tayo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "na gaya ng lahat ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "at hatulan tayo"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ng ating hari"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lalabas siya"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sa harapan natin"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "at manganglaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ating mga digmaan"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "ating mga digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.932499320Z",
+  "model": "glm-5.3"
+}

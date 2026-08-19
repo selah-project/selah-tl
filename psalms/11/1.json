@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sa pangunguna, ni David. Kay Yahweh ako sumilong; bakit ninyo sinasabi sa aking kaluluwa, Magpaligaw-ligaw kayo sa bundok na parang ibon?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako sumilong"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ninyo sinasabi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa aking kaluluwa"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "magpaligaw-ligaw kayo"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ibon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:03.378689676Z",
+  "model": "glm-5.3"
+}

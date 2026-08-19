@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Sapagkat maghahatol si Yahweh ⟨sa⟩ kanyang bayan, at sa kanyang mga lingkod siya ay magpapakita ng awa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "maghahatol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga lingkod"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "magpapakita ng awa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:47.416261062Z",
+  "model": "glm-5.3"
+}

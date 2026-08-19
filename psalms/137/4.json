@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Paano tayo aawit ng ⟨את⟩ awit ni Yahweh sa lupa ng ibang bayan?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "paano"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "tayo aawit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awit ni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ng ibang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:29.903047446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At lumabas ang mga lalaki ng Yisrael sa digmaan laban kay Binjamin, at inihanay ng mga lalaki ng Yisrael ang ⟨את⟩ pakikipaglaban sa kanila patungo sa Gevah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "si Binjamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "at inihanay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ang ⟨את⟩ kanila",
+      "marks": "pakikipaglaban (o: ang kanilang mga hanay)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pakikipaglaban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gevah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:56:58.051869409Z",
+  "model": "glm-5.3"
+}

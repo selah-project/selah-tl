@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At tinawag ng Elohim ang ⟨את⟩ kakalat na Langit; at naging takipsilim at naging umaga, araw na ikalawa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tinawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ang ⟨את⟩ kakalat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "na Langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "takipsilim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikalawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:52.002740208Z",
+  "model": "glm-5.3"
+}

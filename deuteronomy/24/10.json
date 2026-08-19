@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Kapag nagpautang ka sa iyong kapwa ng anumang pautang, huwag kang papasok sa kaniyang bahay upang kunin ang kaniyang paniningil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kapag"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "nagpautang ka"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "sa iyong kapwa"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ng pautang"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kang papasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang bahay"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "upang kunin"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "kaniyang paniningil"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:22.459568739Z",
+  "model": "glm-5.3"
+}

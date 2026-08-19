@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At gagawa ka ng mga pingga para sa altar, mga pingga ng kahoy ng akasya, at babalutin mo ⟨את⟩-sila ng tanso.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka ng"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mga pingga"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "para sa altar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mga pingga ng"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "at babalutin mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-sila",
+      "marks": "sila (ang mga pingga)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:15.529365116Z",
+  "model": "glm-5.3"
+}

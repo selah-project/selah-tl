@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ni Yahweh kay Shemuel: Pakinggan mo ang tinig ng bayan, sa lahat ng sasabihin nila sa iyo, sapagkat hindi ikaw ang ⟨את⟩ Hinayaan nila, kundi ako ang ⟨את⟩ Hinayaan nila, sa paghari sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasabihin nila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hinayaan nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "hinayaan nila"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sa paghari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:41.621399449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kapag may sugat ng sarado⟨ang⟩ balat-ng-tsaraat na nasa tao, dadalhin siya sa kohen;",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "sugat"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "sakit-sa-balat (tsaraat)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manga"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "at dadalihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:50:31.882241672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Lumabas ka mula sa arka — ikaw, at ang iyong asawa, at ang iyong mga anak, at ang mga asawa ng iyong mga anak ⟨את⟩ iyo.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Lumabas ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "at ang iyong asawa"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "at ang iyong mga anak"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "at ang mga asawa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ng iyong mga anak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:59.448152435Z",
+  "model": "glm-5.3"
+}

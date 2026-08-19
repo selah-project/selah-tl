@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang babaing lumalapit sa alinmang hayop upang arian ⟨את⟩ nito — papatayin mo ang ⟨את⟩ babae at ⟨את⟩ ang hayop; kamatayan silang walang-awa nga patayin; ang kanilang dugo ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "At ang babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "lumalapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alinman"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "upang arian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nito"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "papatayin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang babae"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang hayop"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "silang walang-awa nga patayin"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ang kanilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ay nasa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:55.671054740Z",
+  "model": "glm-5.3"
+}

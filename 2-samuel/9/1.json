@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni David: May natitira pa bang tao sa bahay ni Shaul, upang magawa ko sa kaniya ang kagandahang-loob alang kay Yehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "bagama't \/ kaya't"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "natitira"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "at magawa ko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "kay Yehonatan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:09.822470160Z",
+  "model": "glm-5.3"
+}

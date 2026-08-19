@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Bawat naghihiwalay ng kuko at buong hiwalay ang biyak ng kuko at nagbubuga ng kinakain, sa mga hayop — ⟨את⟩ niyon maaari ninyong kainin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "naghihiwalay ng"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "at buong hiwalay ang biyak"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "biyak"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ng kuko"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nagbubuga ng"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kinakain (idinura muli)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa mga hayop"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niyon (ang hayop na iyon)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "maaari ninyong kainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:07.944034958Z",
+  "model": "glm-5.3"
+}

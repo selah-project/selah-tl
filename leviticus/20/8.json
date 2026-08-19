@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At babantayan ninyo ang ⟨את⟩ aking mga batas at gagawin ninyo ang ⟨את⟩ mga ito: ako si Yahweh na nagpapabanal sa inyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at babantayan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga batas"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "aking mga batas"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "at gagawin ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "na nagpapabanal sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:52.296376456Z",
+  "model": "glm-5.3"
+}

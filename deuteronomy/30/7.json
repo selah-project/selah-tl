@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At ilalagay ni Yahweh na Elohim mo ang ⟨את⟩ lahat ng mga sumpang ito sa mga kaaway mo at sa mga napopoot sa iyo na nangaghabol sa iyo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "at ilalagay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga sumpang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "mga sumpa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mga kaaway mo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "mga napopoot sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "nangaghabol sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:49.201241819Z",
+  "model": "glm-5.3"
+}

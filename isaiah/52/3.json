@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Sapagkat ganito ang sinabi ni Yahweh: nang walang bayad kayo'y nabili, at hindi sa pilak kayo tutubusin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang bayad"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kayo'y nabili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kayo tutubusin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:02.131296489Z",
+  "model": "glm-5.3"
+}

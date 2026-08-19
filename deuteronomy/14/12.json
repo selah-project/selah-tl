@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ito ang hindi ninyo kakainin sa mga ito: ang agila, ang peres, at ang osnia.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "agila"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "osnia"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:32.977382684Z",
+  "model": "glm-5.3"
+}

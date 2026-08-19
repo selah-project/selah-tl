@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Paparating ⟨siya⟩ sa lahi ng kanyang mga ama; hanggang sa walang-hanggan, hindi nila makikita ang liwanag.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "pararating"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "kanyang mga ama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "walang-hanggan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makikita nila"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:13.284324881Z",
+  "model": "glm-5.3"
+}

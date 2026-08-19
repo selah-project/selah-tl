@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At nakita ni Shaúl ang ⟨את⟩ kampo ng mga Pelishti, at natakot siya, at nanginig nang labis ang kanyang puso.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo ng mga Pelishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Pelishti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at natakot"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "at nanginig"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:43.923077700Z",
+  "model": "glm-5.3"
+}

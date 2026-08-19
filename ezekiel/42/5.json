@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At ang mga silid sa itaas ay mas maikli, sapagkat ang mga balangkas ay kumakain mula sa mga ito — mula sa mga nasa ibaba at mula sa mga nasa gitna ng gusali.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "At ang mga silid"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "ay mas maikli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ay kumakain"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "ang mga balangkas"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "mula sa mga ito"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "mula sa mga nasa ibaba"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "at mula sa mga nasa gitna"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ng gusali"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:37.128420754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At kumuha sila ng ⟨את⟩ usok ng hurno at tumayo sa harapan ni Paroh; at winisik ni Moshe ang ⟨את⟩ ito patungo sa langit, at nagkaroon ng mga pigsa na mga singaw na nag-uugong sa tao at sa hayop.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "at kumuha sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usok ng hurno"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "usok"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ng hurno"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "at winisik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ang ⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "patungo sa langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at nagkaroon"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "mga pigsa"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mga singaw"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nag-uugong"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "at sa hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:28.671694786Z",
+  "model": "glm-5.3"
+}

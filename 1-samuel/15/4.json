@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At ipinatawag ni Shaoul ⟨את⟩ ang bayan at bilangin sila sa Telaim: dalawang daang libong lalaking lakad, at sampung libong lalaki ⟨את⟩ ng Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at ipinatawag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "at bilangin sila"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "sa Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dalawang daan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lalaking lakad"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "at sampung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lalaki ng Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:13.735729133Z",
+  "model": "glm-5.3"
+}

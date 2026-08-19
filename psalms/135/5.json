@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Sapagkat ako'y nakakaalam na dakila si Yahweh, at ang ating Adonai ay higit sa lahat ng elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "at ang ating Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:09.806827966Z",
+  "model": "glm-5.3"
+}

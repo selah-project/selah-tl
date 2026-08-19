@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Ang mga nagtitiwala sa kanilang kayamanan, at sa kasaganaan ng kanilang yaman ay nagmamalaki —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ang mga nagtitiwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kanilang kayamanan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "at sa kasaganaan"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ng kanilang yaman"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "nagmamalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:55.645046200Z",
+  "model": "glm-5.3"
+}

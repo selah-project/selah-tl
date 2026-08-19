@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ginawa niya ang ⟨את⟩ gitnang halang upang umagos sa gitna ng mga tabla, mula sa ⟨isang⟩ dulo hanggang sa ⟨isang⟩ dulo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gitnang halang"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "gitnang halang"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "gitna"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "upang umagos"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "dulo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:19.514263927Z",
+  "model": "glm-5.3"
+}

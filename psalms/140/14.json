@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Katiyakan, ang mga matuwid ay magpupuri sa iyong pangalan; titahan ng mga tuwid ang ⟨את⟩ iyong mga pananaw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Katiyakan,"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ang mga matuwid"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "magpupuri"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "titahan ng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga tuwid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga pananaw"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong mga pananaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:06.809077653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At sinabi ng ⟨ang⟩ babae: ⟨את⟩ Sino ang itataas ko para sa iyo? At kaniyang sinabi: ⟨את⟩ si Shemu'el — itaas mo sa akin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨ang⟩ babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ang itataas ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemu'el"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "itaas mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:26.690833895Z",
+  "model": "glm-5.3"
+}

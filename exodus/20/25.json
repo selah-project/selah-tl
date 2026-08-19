@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kung altar ng mga bato ang gagawin mo sa akin, huwag mong itatayo ang ⟨את⟩ mga ito bilang mga inangkad na bato; sapagkat kung iyong iwinagayway ang iyong tabak sa ibabaw nito, dinungisan mo ito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "itatayo"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mga inangkad na bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "inangkad na bato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "iyong tabak"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "iwinagayway mo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "dinungisan mo ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:31.557030854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "at sa pasukan ng tolda ng tipunan hindi niya dadalhin ⟨את⟩ iyon upang gawin para kay Yahweh — puputulin yaong tao mula sa kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipunan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "niya dadalhin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyon (ang handog)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "at puputulin"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "yaong tao"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "mula sa kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:36.757435135Z",
+  "model": "glm-5.3"
+}

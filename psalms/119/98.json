@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Higit na pinatalino ako ng iyong mga utos kaysa sa aking mga kaaway, sapagkat ⟨ito⟩ sa akin ay hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "kaysa sa aking mga kaaway"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "pinatalino ako"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "iyong mga utos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ito⟩ siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:45.819235160Z",
+  "model": "glm-5.3"
+}

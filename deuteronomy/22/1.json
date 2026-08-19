@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag mong makikita ang ⟨את⟩ baka ng iyong kapatid o ang ⟨את⟩ kanyang tupa na naligaw, at ikaw ay magkukunwaring hindi nakakita: walang-pagsala'y ibabalik mo sila sa iyong kapatid.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka ng iyong kapatid"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng iyong kapatid"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang tupa"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "kanyang tupa"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "naligaw"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "at magkukunwaring hindi nakakita"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "השב",
+      "gloss": "walang-pagsala'y ibabalik"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "sa iyong kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:55.314784775Z",
+  "model": "glm-5.3"
+}

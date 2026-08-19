@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At binilang ni David ang ⟨את⟩ bayan na ⟨את⟩-niya-kasama, at naglagay siya sa kanila ng mga sarili ng libo at mga sarili ng daan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "binilang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at naglagay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga puno"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng libo-liboan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "at mga puno"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ng daan-daanan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:39.789979250Z",
+  "model": "glm-5.3"
+}

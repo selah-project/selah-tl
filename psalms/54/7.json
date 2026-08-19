@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Ibabalik ang kasamaan sa aking mga kaaway; sa iyong katapatan lipulin sila.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ibabalik"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "sa aking mga kaaway"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa iyong katapatan"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "lipulin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:27.068569488Z",
+  "model": "glm-5.3"
+}

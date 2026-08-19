@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ito ang mga salinlahi ni Terach: nagkaanak si Terach kay Avram, kay Nachor, at kay Haran; at namunla si Haran ⟨את⟩ kay Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga salinlahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ni Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "si Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "kay Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "kay Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kay Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "kay Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "at si Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "namunla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "kay Lot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:58.767201211Z",
+  "model": "glm-5.3"
+}

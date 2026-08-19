@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagpadala siya ng mga sugo kay Achav na hari ng Israel, patungo sa ⟨loob ng⟩ lungsod.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At nagpadala"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "patungo sa lungsod"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:20.505255381Z",
+  "model": "glm-5.3"
+}

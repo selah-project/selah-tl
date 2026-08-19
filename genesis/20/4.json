@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Si Avimelech naman ay hindi lumapit sa kanya, at nagsabi: Adonai, ang bansa bang gituwid ay papatayin mo rin?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "at si Avimelech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lumapit"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang bansa bang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gituwid"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "papatayin mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:12.789966278Z",
+  "model": "glm-5.3"
+}

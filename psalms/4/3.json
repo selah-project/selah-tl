@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Mga anak ng tao, hanggang kailan ang aking kaluwalhatian ay ⟨itatakwil⟩ sa kahihiyan, na inibig ninyo ang walang laman at hinanap ninyo ang kasinungalingan? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang aking kaluwalhatian"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "sa kahihiyan"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "inibig ninyo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ang walang laman"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "hinanap ninyo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ang kasinungalingan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.354802368Z",
+  "model": "glm-5.3"
+}

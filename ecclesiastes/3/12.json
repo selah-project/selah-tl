@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Alam kong walang mabuti sa kanila kundi ang magalak at gumawa ng mabuti sa kanilang buhay.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "alam ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "[sa kundi]"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ang magalak"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "sa kanilang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:47.082639302Z",
+  "model": "glm-5.3"
+}

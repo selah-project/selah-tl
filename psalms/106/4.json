@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Alalahanin mo ako, O Yahweh, sa iyong ikasasaya ng iyong bayan; dalawin mo ako sa iyong kaligtasan.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Alalahanin mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "sa iyong ikasasaya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ng iyong bayan"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "dalawin mo ako"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa iyong kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:06.482404722Z",
+  "model": "glm-5.3"
+}

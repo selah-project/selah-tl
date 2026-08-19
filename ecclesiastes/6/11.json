@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat maraming mga bagay ang nagpaparami ng hebel; ano ang labis pang pakinabang sa tao?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "marami"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "nagpaparami"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ng hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ang labis pang pakinabang"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sa tao"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:13.795309664Z",
+  "model": "glm-5.3"
+}

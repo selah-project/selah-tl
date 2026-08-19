@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At ginawa ni Asa ang matuwid sa mga mata ni Yahweh, na gaya ni David na kaniyang ama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "na gaya ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kaniyang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:28.274128729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At pinagtisa ni Yahweh ⟨את⟩ sila mula roon sa ibabaw ng mukha ng buong lupa, at tumigil silang magtayo ng lungsod.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "at pinagtisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "at tumigil sila"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "magtayo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:32.191026533Z",
+  "model": "glm-5.3"
+}

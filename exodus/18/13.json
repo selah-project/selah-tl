@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nangyari sa kinabukasan, at umupo si Moshe upang hatulan ang ⟨את⟩ bayan; at tumayo ang bayan kay Moshe mula sa umaga hanggang sa takipsilim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa kinabukasan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at umupo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "upang hatulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "takipsilim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:56.113023145Z",
+  "model": "glm-5.3"
+}

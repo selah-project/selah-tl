@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At papasngain ng kohen ang ⟨את⟩ taba sa ⟨את⟩ altar, at magiging ⟨is⟩ para kay Aharon at para sa mga anak niya ang dibdib.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "At papasngain"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dibdib"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "at sa mga anak niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:35.077242312Z",
+  "model": "glm-5.3"
+}

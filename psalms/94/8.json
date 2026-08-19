@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Magunig-unawa kayo, mga hangal sa bayan, at mga mangmang — kailan kayo magiging marunong?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "magunig-unawa kayo"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mga hangal"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "at mga mangmang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "magiging marunong kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.021255081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Ang aking kaluluwa ay nasa gitna ng mga leon; matutulog ako sa gitna ng mga nag-aapoy — mga anak ng tao, ang kanilang mga ngipin ay sibat at mga pana, at ang kanilang dila ay matalas na espada.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "mga leon"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "matutulog ako"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "mga nag-aapoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang kanilang mga ngipin"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "at mga pana"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "at ang kanilang dila"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "matalas na"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:29.345951914Z",
+  "model": "glm-5.3"
+}

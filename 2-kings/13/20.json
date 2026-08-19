@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At namatay si Elisha, at inilibing siya. At mga pulutong ng Moab ay pumapasok sa lupain sa pagpasok ng taon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "at inilibing siya"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "at mga pulutong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ay pumapasok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa pagpasok"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ng taon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:52.676910276Z",
+  "model": "glm-5.3"
+}

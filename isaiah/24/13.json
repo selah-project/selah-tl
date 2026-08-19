@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 24:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sapagkat kung gayon magiging sa gitna ng lupain, sa gitna ng mga bansa, gaya ng pagpapaian ng olibo, gaya ng natirang bungang ubas kapag natapos ang ani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kung gayon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ lupain"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨the⟩ mga bansa"
+    },
+    {
+      "surface": "כנקף",
+      "gloss": "gaya ng pagpapaian"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ng olibo"
+    },
+    {
+      "surface": "כעוללת",
+      "gloss": "gaya ng natirang bunga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "natapos"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ang ani ng ubas"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:03.879535227Z",
+  "model": "glm-5.3"
+}

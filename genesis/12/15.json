@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At nakita siya ⟨את⟩ ng mga pinuno ni Paroh, at hinabol-dasal nila siya ⟨את⟩ kay Paroh, at dinala ang babae sa bahay ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ng mga pinuno"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "at hinabol-dasal nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.516231800Z",
+  "model": "glm-5.3"
+}

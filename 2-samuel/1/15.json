@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At tumawag si David sa isa sa mga binata at nagsabi: Lumapit ka, saktan mo siya. At hinampas niya siya, at namatay siya.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "sa mga binata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "lumapit ka"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "saktan mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "at hinampas niya siya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:37.664624020Z",
+  "model": "glm-5.3"
+}

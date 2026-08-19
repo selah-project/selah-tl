@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "at pinaulan niya sa kanila ang mana na makakain, at ang butil ng ⟨mga⟩ langit ay ibinigay niya sa kanila.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "at pinaulan niya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "na kakainin"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "at butil ng butil"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:31.542210916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ⟨את⟩ Kibtsayim at ⟨את⟩ mga bakuran nito, at ⟨את⟩ Beit-Choron at ⟨את⟩ mga bakuran nito — apat na lungsod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:02.378823295Z",
+  "model": "glm-5.3"
+}

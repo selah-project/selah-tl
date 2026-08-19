@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Ngunit hindi mo ako ⟨את⟩ tinawag, o Yaakov, sapagkat napagod ka sa akin, o Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tinawag mo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "o Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "napagod ka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "o Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:47.009023688Z",
+  "model": "glm-5.3"
+}

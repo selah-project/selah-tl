@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At natulog si Achaz kasama ng kanyang mga ama, at inilibing kasama ng kanyang mga ama sa lungsod ni David, at naghari si Chizkiyahu na kanyang anak sa kanyang halili.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "natulog"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "si Chizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kanyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang halili"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:08.981916469Z",
+  "model": "glm-5.3"
+}

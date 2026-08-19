@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Hindi isiniwalat ni Ester ang ⟨את⟩ kanyang bayan at ⟨את⟩ kanyang pinagmulan, sapagkat si Mordekai ang nag-utos sa kanya na huwag isiwalat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "isiwalat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang bayan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pinagmulan"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "kanyang pinagmulan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nag-utos"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "isiwalat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:11.962563179Z",
+  "model": "glm-5.3"
+}

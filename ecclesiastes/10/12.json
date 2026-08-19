@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mga salita ng bibig ng marunong ay biyaya; ngunit ang mga labi ng hangal ay lulunukin siya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ngunit ang mga labi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "lulunukin siya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:21.161867616Z",
+  "model": "glm-5.3"
+}

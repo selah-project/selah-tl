@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At magpapadala ako ng apoy sa Yehudah, at lilamon ito ng mga kuta ng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "at magpapadala ako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "at lilamon ito"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "mga kuta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:56.001052010Z",
+  "model": "glm-5.3"
+}

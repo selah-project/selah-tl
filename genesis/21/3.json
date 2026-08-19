@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At tinawag ni Avraham ang ⟨את⟩ pangalan ng kaniyang anak na ipinanganak sa kaniya, na isinilang sa kaniya ni Sarah: Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ng kaniyang anak"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "na ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "isinilang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:57.280707813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung papakainin ng isang tao ang ⟨את⟩ kanyang hayop sa bukid o sa ubasan, at makakain ito sa bukid ng iba, mula sa pinakamabuti ng kanyang bukid at mula sa pinakamabuti ng kanyang ubasan ang babayaran niya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "papakainin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang tao"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "sa ubasan"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "at pinalaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang hayop"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "kanyang hayop"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "at nakakain"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ng iba"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "mula sa pinakamabuti"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ng kanyang bukid"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "at mula sa pinakamabuti"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "ng kanyang ubasan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.788468830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ⟨את⟩ ang kanyang dalawang anak na lalaki, na ang pangalan ng isa ay Gershom, sapagkat kanyang sinabi: dayuhan ako sa lupang banyaga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kanyang dalawang anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ay Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kanyang sinabi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako ay naging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "banyaga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:49.293625435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagtanim si Yahweh Elohim ng halamanan sa Eden, sa silangan, at doon inilagay niya ⟨את⟩ tao na kanyang hinulma.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "at nagtanim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "halamanan"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa silangan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kanyang hinulma"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:29.305997623Z",
+  "model": "glm-5.3"
+}

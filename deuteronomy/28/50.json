@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Isang bansang matigas ang mukha, na hindi magtataas ng mukha sa matanda, ni sa bata ay hindi maawa.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "bansa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matigas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ang mukha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magtataas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ng mukha"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "sa matanda"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ni sa bata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "maawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:59.830923162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Kaya umalis ang sugo, at dumating, at ipinahayag kay David ang ⟨את⟩ lahat ng ipinadala sa kaniya ni Yoav.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "umalis"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ipinadala sa kaniya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:03.703147101Z",
+  "model": "glm-5.3"
+}

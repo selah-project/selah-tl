@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At si David — siya ang bunso; at ang tatlong pinakamatanda ay lumakad na sumunod kay Shaoul.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "At si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ang bunso"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "at ang tatlong"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ang mga pinakamatanda"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sumunod kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:33.904698946Z",
+  "model": "glm-5.3"
+}

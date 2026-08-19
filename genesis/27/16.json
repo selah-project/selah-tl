@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At ang ⟨את⟩ mga balat ng mga batang kambing ng mga kambing ay binitisan niya sa kaniyang mga kamay at sa makinis na bahagi ng kaniyang leeg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga balat ng mga batang kambing"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "mga balat"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ng mga batang kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ng mga kambing"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "binitisan niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa(ganap sa)"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kaniyang mga kamay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "makinis na bahagi"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ng kaniyang leeg"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:34.147251481Z",
+  "model": "glm-5.3"
+}

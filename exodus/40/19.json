@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At iniunat niya ang ⟨את⟩ tolda sa ibabaw ng Mishkan, at inilagay ang ⟨את〕 takip ng tolda sa ibabaw nito, mula sa itaas — kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "At iniunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang takip ng tolda"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ang takip"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "mula sa itaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:21.620866517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 142,
+  "translation": "Tumanaw sa kanan at tumingin, ngunit walang nakakakilala sa akin; nawala sa akin ang kanlungan, walang naghahanap sa aking kaluluwa.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "tumanaw"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sa kanan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at tumingin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nawala"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "kanlungan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa aking kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:44.416341675Z",
+  "model": "glm-5.3"
+}

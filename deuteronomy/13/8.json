@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "mula sa mga elohim ng mga bayan na nasa paligid ninyo, ⟨ang⟩ malalapit sa inyo o ⟨ang⟩ malalayo sa inyo, mula sa dulo ng ⟨ang⟩ lupa hanggang sa dulo ng ⟨ang⟩ lupa",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "mula sa mga elohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ng mga bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "nasa paligid ninyo"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "⟨ang⟩ malalapit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "⟨ang⟩ malalayo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mula sa dulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng ⟨ang⟩ lupa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng ⟨ang⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:46.107452484Z",
+  "model": "glm-5.3"
+}

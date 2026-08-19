@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Bakit nanggulo ang mga bansa, at ang mga lalawigin naghahangad ng walang-laman?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "nanggulo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "at mga lalawigin"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ng walang-laman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:57.744323546Z",
+  "model": "glm-5.3"
+}

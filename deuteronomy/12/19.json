@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Mag-ingat ka sa iyong sarili, baka mo iwan ang ⟨את⟩ Levita, sa lahat ng iyong mga araw, sa ibabaw ng iyong lupa.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "mag-ingat ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyong sarili"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mo iwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Levita"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ang Levita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "iyong mga araw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "iyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:44.835053586Z",
+  "model": "glm-5.3"
+}

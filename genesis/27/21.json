@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At sinabi ni Yitshak kay Yaakov: Lumapit ka nga, at hipuin kita, anak ko — ikaw ba ⟨ito⟩ ang anak kong si Esav, o hindi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "Lumapit ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "at hipuin kita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ikaw ba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:29.201427167Z",
+  "model": "glm-5.3"
+}

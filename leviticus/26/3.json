@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kung sa aking mga tuntunin lumalakad kayo, at ang ⟨את⟩ aking mga utos iningatan ninyo at ginawa ninyo ⟨את⟩ sila,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "sa aking mga tuntunin"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "lumalakad kayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga utos"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "aking mga utos"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "iningatan ninyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "at ginawa ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga utos)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:56.534810896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Naghanapan ⟨ng⟩ mga matitapang ang pusò — natulog na nang lubos ang kanilang tulog, at hindi natagpuan ng anumang mga lalaking makapangyarihan ang kanilang mga kamay.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "naghanapan"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "mga matitapang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang pusò"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "natulog na nang lubos"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ang kanilang tulog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "natagpuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaking"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang kanilang mga kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:45.031966242Z",
+  "model": "glm-5.3"
+}

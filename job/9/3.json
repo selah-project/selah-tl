@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Kung magbigay-loob siyang makipagbaka sa kanya, hindi ito masasagot ng ⟨isang⟩ isa mula sa sanlibo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "magbigay-loob siya"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "makipagbaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "masasagot niya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sanlibo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:53:09.708051550Z",
+  "model": "glm-5.3"
+}

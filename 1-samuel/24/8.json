@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Pinaghati-hati ni David ang ⟨את⟩ kanyang mga lalaki sa mga salita at hindi niya sila hinayaang tumayo laban kay Shaúl; at si Shaúl ay bumangon mula sa yungib at lumakad sa ⟨את⟩ daan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "pinaghati-hati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga lalaki"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ang kanyang mga lalaki"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sa mga salita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hinayaan niya sila"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "tumayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Shaúl"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "at si Shaúl"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mula sa yungib"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:35.703887077Z",
+  "model": "glm-5.3"
+}

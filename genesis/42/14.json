@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi ni Yosep sa kanila: Ito ⟨is⟩ ang sinasabi ko sa inyo, na nagsasabing: Mga espiya kayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosep"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:25.358791758Z",
+  "model": "glm-5.3"
+}

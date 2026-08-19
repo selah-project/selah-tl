@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sa tumawa, sinabi ko: ⟨it ay⟩ baliw; at sa kasiyahan: Ano ang ginagawa ⟨nito⟩?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "sa tumawa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "baliw"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "at sa kasiyahan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:40.628329863Z",
+  "model": "glm-5.3"
+}

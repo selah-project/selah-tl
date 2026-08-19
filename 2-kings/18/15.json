@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ibinigay ni Hizkiyah ang ⟨את⟩ buong pilak na natagpuan sa bahay ni Yahweh at sa mga imbakan ng bahay ng hari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong pilak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "natagpuan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "at sa mga imbakan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:41.952916182Z",
+  "model": "glm-5.3"
+}

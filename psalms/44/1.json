@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Sa Panguluha ng mga Awit, para sa mga anak ni Korach, isang turo na tulain.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Panguluha ng mga Awit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isang turo na tulain"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:59.962379641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Kung magutom ako, hindi ko sasabihin sa iyo, sapagkat sa akin ang sanlibutan at ang kapunuan nito.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "magutom-ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sasabihin-ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa-iyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa-akin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sanlibutan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "at-kapunuan-nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.010827292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "May henerasyon na sumusumpa sa kanyang ama, at ang ⟨את⟩ kanyang ina ay hindi niya pinagpala.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "sumusumpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "kanyang ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pinagpala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:30.145139257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sa pandinig ng tainga narinig kita, ngunit ngayon, nakita ka ng aking mata.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pandinig"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ng tainga"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "narining kita"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ngunit ngayon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mata"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nakita kita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:25.897310993Z",
+  "model": "glm-5.3"
+}

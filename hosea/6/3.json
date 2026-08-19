@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At makikilala natin, hangarin nating makilala si ⟨את⟩ Yahweh; gaya ng madaling-araw, tiyak ang kanyang paglabas, at dadaan siya sa atin gaya ng ulan, gaya ng huling ulan na nagbubuhos sa lupa.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "at makikilala natin"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "hangarin nating makilala (pagtulungin)"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "upang makilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "gaya ng madaling-araw"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tiyak (ang kanyang paglabas)"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang kanyang paglabas"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "at dadaan siya"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "gaya ng ulan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "gaya ng huling ulan"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "nagbubuhos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:53.348108224Z",
+  "model": "glm-5.3"
+}

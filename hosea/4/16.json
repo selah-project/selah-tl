@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sapagkat tulad ng baka'ng suwail, nagpa-suwal suwal ang Yisrael; ngayon yayamain sila ni Yahweh na parang tupa sa malawak na bukirin?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "tulad ng baka'ng"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "suwail"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "nagpa-suwal suwal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "yayamain sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "na parang tupa"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "sa malawak na bukirin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:55.172146871Z",
+  "model": "glm-5.3"
+}

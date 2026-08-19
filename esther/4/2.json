@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At pumasok hanggang sa harap ng tarangkahan ng hari, sapagkat walang makapasok sa tarangkahan ng hari nakadamit ng sako",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "harap ng"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "makapasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "nakadamit ng"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:54.612964683Z",
+  "model": "glm-5.3"
+}

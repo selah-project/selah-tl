@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Ingatan mo ako, O Yahweh, mula sa mga kamay ng masama; mula sa taong mararahas iligtas mo ako; mga nagplano na itulak palayo ang mga hakbang ko.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ingatan mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mula sa mga kamay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mula sa taong"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "mararahas"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mga"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "nagplano"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "na itulak palayo"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ang mga hakbang ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:32.369596246Z",
+  "model": "glm-5.3"
+}

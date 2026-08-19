@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Mababanggit ba sa libingan ang iyong kagandahang-loob, ang iyong katapatan sa Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "mababanggit ba"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "sa libingan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong kagandahang-loob"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang iyong katapatan"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "sa Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:12.324289250Z",
+  "model": "glm-5.3"
+}

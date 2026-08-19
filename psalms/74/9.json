@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Hindi namin nakita ang ⟨את⟩ ating mga tandâ; walang na pang propeta, at walang ⟨את⟩ sa atin nakakaalam hanggang kailan.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ating mga tandâ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nakita namin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na (pang)"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "sa atin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kailan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:23.500996373Z",
+  "model": "glm-5.3"
+}

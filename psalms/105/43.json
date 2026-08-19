@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At dinadala niya ang kanyang bayan na may kagalakan, ang ⟨את⟩ kanyang mga hirang na may pag-awit.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "at dinadala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang kanyang bayan"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "na may kagalakan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na may pag-awit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga hirang"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "kanyang mga hirang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:49.269127115Z",
+  "model": "glm-5.3"
+}

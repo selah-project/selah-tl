@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ang sinumang tao na kakain ng bangkay o ng nahila ng mabangis na hayop, kapwa ⟨ang⟩ katutubo at dayuhan, ay maghuhugas ng kanyang mga damit at maliligo sa tubig at marumi hanggang sa paglubog ng araw, at magiging malinis.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang sinumang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ng bangkay"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "o ng nahila ng mabangis"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "sa katutubo"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "at sa dayuhan"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ay maghuhugas"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ng kanyang mga damit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "at maliligo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "at marumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "paglubog ng araw"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "at magiging malinis"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:32.714783879Z",
+  "model": "glm-5.3"
+}

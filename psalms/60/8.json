@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Nagsalita si Elohim sa kanyang kabanalan: Magagalak ako, hahatiin ko ang Shekhem, at susukatin ko ang libis ng Sukkot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa kanyang kabanalan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "magagalak ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "hahatiin ko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "at ang libis"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ng Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "susukatin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:39.791520762Z",
+  "model": "glm-5.3"
+}

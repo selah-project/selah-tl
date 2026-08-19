@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang ⟨את⟩ tungkod na ito ay dadalhin mo sa iyong kamay, na kung saan gagawin mo dito ang ⟨את⟩ mga tanda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tungkod na ito"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tungkod na ito"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "dadalhin mo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kung saan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tanda"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ang mga tanda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:09.027133846Z",
+  "model": "glm-5.3"
+}

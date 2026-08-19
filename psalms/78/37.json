@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Datapuwa't ang kanilang puso ay hindi tumibay kasama niya, at hindi sila naging tapat sa kanyang tipan.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "at ang kanilang puso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tumibay \/ tumegi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sila naging tapat"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "sa kanyang tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:20.237596898Z",
+  "model": "glm-5.3"
+}

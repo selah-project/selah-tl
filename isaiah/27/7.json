@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sa paghampas ng nagpahampas sa kanya — hinampas ba siya nito? O ayon sa pagpatay ng kanyang pinatay — pinatay ba siya?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "ayon sa paghampas ng"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "nagpahampas sa kanya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hinampas siya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "ayon sa pagpatay ng"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "kanyang pinatay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pinatay siya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:23.811745507Z",
+  "model": "glm-5.3"
+}

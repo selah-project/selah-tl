@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung magpapahiram kayo ng salapi sa ⟨את⟩ aking bayan, sa ⟨את⟩ mahirap na kapiling ninyo, huwag kayong magiging parang tagapautang sa kanya; huwag ninyong ilalagay sa kanya ang tubo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "magpapahiram kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahirap"
+    },
+    {
+      "surface": "העני",
+      "gloss": "mahirap"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kapiling ninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "parang tagapautang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ninyong ilalagay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ang tubo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:27.685414881Z",
+  "model": "glm-5.3"
+}

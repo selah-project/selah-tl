@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At tinipon ni Sha'ul ang ⟨את⟩ buong bayan sa pakikidigma, upang bumaba sa Keilah, upang pagkubkubin si David at ang kaniyang mga lalake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at tinipon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa pakikidigma"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "upang bumaba"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "upang pagkubkubin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ang kaniyang mga lalake"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:14.851621082Z",
+  "model": "glm-5.3"
+}

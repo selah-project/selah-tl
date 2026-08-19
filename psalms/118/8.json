@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Mabuti ang manalangin sa Yahweh kaysa magtiwala sa tao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ang manalangin \/ mangakalinga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kaysa magtiwala"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:58.651534460Z",
+  "model": "glm-5.3"
+}

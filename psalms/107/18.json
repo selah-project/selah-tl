@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Ang bawat pagkain ay kasuklam-suklam sa kanilang ⟨kaluluwa⟩, at sila'y nakarating hanggang sa mga tarangkahan ng kamatayan",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨kaluluwa⟩ nila"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "at sila'y nakarating"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mga tarangkahan ng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:34.114438048Z",
+  "model": "glm-5.3"
+}

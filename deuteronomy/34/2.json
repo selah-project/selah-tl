@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "at ang ⟨את⟩ buong Naftali, at ang ⟨את⟩ lupain ng Efraim at Menashe, at ang ⟨את⟩ buong lupain ng Yehuda hanggang sa huling dagat,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "buong Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lupain ng Efraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ng Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "at Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "buong lupain ng Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "huling"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:13.960450858Z",
+  "model": "glm-5.3"
+}

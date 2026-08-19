@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang ⟨את⟩ dalawang bato, at ang ⟨את⟩ taba na nasa mga ito, na nasa ⟨את⟩ baywang, at ang ⟨את⟩ lamang-atay na nasa atay — kasama ng mga bato aalisin niya ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "dalawang bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "nasa mga ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "baywang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lamang-atay"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lamang-atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa \/ kasama ng"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "aalisin niya ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:43.480037997Z",
+  "model": "glm-5.3"
+}

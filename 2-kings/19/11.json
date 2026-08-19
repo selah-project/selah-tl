@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Tingnan mo, narinig mo ang ⟨את⟩ ginawa ng mga hari ng Ashur sa lahat ng mga bansa upang ilipol sila, at ikaw ba ay maliligtas?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "narinig mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "upang ilipol sila"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "ay maliligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:02.215324889Z",
+  "model": "glm-5.3"
+}

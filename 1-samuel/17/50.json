@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nanaig si David laban sa Filisteo sa pamamagitan ng slingshot at ng bato, at hinampas niya ang ⟨את⟩ Filisteo at pinatay siya niya; at walang tabak sa kamay ni David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at nanaig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisteo"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "sa slingshot"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "at sa bato"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at hinampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Filisteo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Filisteo"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "at pinatay siya"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "at tabak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:42.827562331Z",
+  "model": "glm-5.3"
+}

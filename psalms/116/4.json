@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "At sa pangalan ni Yahweh tumawag ako: Oh, Yahweh, iligtas Mo ang aking buhay.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "At sa pangalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tumawag ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Oh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "iligtas Mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:59.691229916Z",
+  "model": "glm-5.3"
+}

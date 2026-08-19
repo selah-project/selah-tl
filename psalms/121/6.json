@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Sa araw ay hindi ka tatamaan ng araw, ni ng buwan man sa gabi.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "tatamaan ka"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "at buwan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:57.680338701Z",
+  "model": "glm-5.3"
+}

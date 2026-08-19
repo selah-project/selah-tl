@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ngunit ⟨את⟩ ito ay hindi ninyo kakainin sa mga nagbubuga ng kinakain at sa mga naghihiwalay ng kuko: ⟨את⟩ ang kamelyo, sapagkat nagbubuga ito ng kinakain ngunit hindi naghihiwalay ng kuko — karumal-dumal ito sa inyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kakainin"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "sa mga nagbubuga ng"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "kinakain"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "at sa mga naghihiwalay ng"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kamelyo"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ang kamelyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nagbubuga"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kinakain"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ngunit kuko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "naghihiwalay"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:07.944300918Z",
+  "model": "glm-5.3"
+}

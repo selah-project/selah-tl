@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ipinatapon ng hari ng Ashur ang ⟨את⟩ Israel sa Ashur, at inilagay niya sila sa Chalach at sa Chevor, ilog ng Gozan, at sa mga lungsod ng Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "At ipinatapon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "at inilagay niya sila"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "at sa Chevor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "at sa mga lungsod"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:27.388872869Z",
+  "model": "glm-5.3"
+}

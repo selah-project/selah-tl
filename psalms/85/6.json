@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Magpakailanman ba kayong magagalit sa amin? Hilaan ba ninyo ang inyong panggigigil hanggang ⟨sa⟩ lahi at lahi?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "magpakailanman ba"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "kayong magagalit"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Hilaan ba ninyo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ang inyong panggigigil"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "hanggang ⟨sa⟩ lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.124133513Z",
+  "model": "glm-5.3"
+}

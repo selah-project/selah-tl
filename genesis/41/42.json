@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At inalis ni Paroh ang ⟨את⟩ kanyang singsing ng tatak mula sa kanyang kamay, at inilagay ito ⟨את⟩ sa kamay ni Yosef, at binihisan siya ⟨את⟩ ng mga damit ng puting lino, at nagpatong ng kwintas ng ginto sa kanyang leeg.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "at inalis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang singsing ng tatak"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "kanyang singsing ng tatak"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang singsing)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "at binihisan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Yosef)"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ng puting lino"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at nagpatong"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "kwintas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "kanyang leeg"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:47.983790415Z",
+  "model": "glm-5.3"
+}

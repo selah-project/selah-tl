@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Huwag mong iwan ⟨siya⟩, at ⟨siya⟩ mag-iingat sa iyo; ibigin mo ⟨siya⟩, at ⟨siya⟩ magbabantay sa iyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "mong iwan ⟨siya⟩"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "at ⟨siya⟩ mag-iingat sa iyo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ibigin mo ⟨siya⟩"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "at ⟨siya⟩ magbabantay sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:24.722724433Z",
+  "model": "glm-5.3"
+}

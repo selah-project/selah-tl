@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "At maghain sila ng mga haing pasasalamat, at ipagsabi ang kanyang mga gawa nang may pagkanta.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "At maghain sila ng"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mga haing"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pasasalamat"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "at ipagsabi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ang kanyang mga gawa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nang may pagkanta"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.205025995Z",
+  "model": "glm-5.3"
+}

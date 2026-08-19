@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Si Adonai sa iyong kanan, nagdurog ng mga hari sa araw ng ⟨kanyang⟩ poot.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "si Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanan"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nagdurog"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw ng"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "poot niya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:08.134540723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At mangyayari: tulad ng bayan, gayon ng pari; tulad ng alipin, gayon ng kanyang panginoon; tulad ng aliping babae, gayon ng kanyang ginang; tulad ng mamimili, gayon ng nagtitinda; tulad ng nagpapautang, gayon ng umuutang; tulad ng singilin, gayon ng sinisingil.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At mangyayari"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "tulad ng bayan"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "gayon ng pari"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "tulad ng alipin"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "gayon ng kanyang panginoon"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "tulad ng aliping babae"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "gayon ng kanyang ginang"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "tulad ng mamimili"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "gayon ng nagtitinda"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "tulad ng nagpapautang"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "gayon ng umuutang"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "tulad ng singilin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gayon ng"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sinisingil"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:40.966026218Z",
+  "model": "glm-5.3"
+}

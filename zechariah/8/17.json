@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 8:17",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang bawat isa ay huwag mag-isip ng ⟨את⟩ kasamaan ng kanyang kapwa sa inyong puso, at ang panunumpang kasinungalingan ay huwag ninyong ibigin, sapagkat ang ⟨את⟩ lahat ng mga bagay na ito ay aking kinamumuhian, oracle ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At ang bawat isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasamaan"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ng kanyang kapwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "magsa-isip"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa inyong puso"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "at ang panunumpa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "ibigin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga bagay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga bagay na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aking kinamumuhian"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:06.794029318Z",
+  "model": "glm-5.3"
+}

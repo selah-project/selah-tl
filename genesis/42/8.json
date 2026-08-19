@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At nakilala ni Yosef ang ⟨את⟩ kanyang mga kapatid, ngunit sila ay hindi siya nakilala.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "at nakilala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "siya nakilala"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:58.797962453Z",
+  "model": "glm-5.3"
+}

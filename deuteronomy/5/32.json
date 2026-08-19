@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ingatan ninyong gawin ang ⟨את⟩ gaya ng iniutos ni Yahweh na inyong Elohim sa inyo; huwag kayong lumihis — kanan at kaliwa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at ingatan ninyong"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gawin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (kayo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "kayong lumihis"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "at kaliwa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:39.877918090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Oo, sa daan ng iyong mga hatol, Yahweh, hinihintay ka namin; sa iyong pangalan at sa iyong pag-alaala nasa ang pagnanais ng ⟨kaluluwa⟩.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ng iyong mga hatol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "hinihintay ka namin"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "at sa iyong pag-alaala"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pagnanais"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ng kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:53.942510699Z",
+  "model": "glm-5.3"
+}

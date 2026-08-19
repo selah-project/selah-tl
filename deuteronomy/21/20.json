@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sasabihin sa mga matatanda ng kanyang lungsod: Ang aming anak na ito ay suwail at tumututol, hindi siya nakikinig sa aming tinig; siya ay matamis-kain at lasingero.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ng kanyang lungsod"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "ang aming anak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "suwail"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "at tumututol"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi siya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakikinig"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "sa aming tinig"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "matamis-kain"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "at lasingero"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:41.662230377Z",
+  "model": "glm-5.3"
+}

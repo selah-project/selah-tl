@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sumain na nga ang iyong kagandahang-loob upang aliwin ako, ayon sa iyong ipinangako sa iyong lingkod.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sumain"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na nga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "upang aliwin ako"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ayon sa iyong ipinangako"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa iyong lingkod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:16.189982154Z",
+  "model": "glm-5.3"
+}

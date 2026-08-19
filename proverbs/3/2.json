@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sapagkat haba ng mga araw at mga taon ng buhay at kapayapaan ang idaragdag sa iyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga araw"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "at mga taon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "at kapayapaan"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "idaragdag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:22.901363544Z",
+  "model": "glm-5.3"
+}

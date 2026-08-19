@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At kung magbibili ang isang lalaki ng ⟨את⟩ kanyang anak na babae bilang aliping babae, hindi siya lalabas tulad ng paglabas ng mga aliping lalaki.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "magbibili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang isang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang anak na babae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kanyang anak na babae"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "bilang aliping babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "siya lalabas"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "tulad ng paglabas"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ng mga aliping lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:04.542246268Z",
+  "model": "glm-5.3"
+}

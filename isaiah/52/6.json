@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Kaya't makikilala ng aking bayan ang aking pangalan; kaya't sa araw na iyon ay malalaman nila na ako nga ang nagsasalita — narito ako!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makikilala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang aking bayan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang aking pangalan"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ang nagsasalita"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito ako"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:15.263569852Z",
+  "model": "glm-5.3"
+}

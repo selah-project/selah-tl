@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Matuwid si Yahweh; pumutol siya ng mga tali ng mga masasama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "pumutol siya"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "mga tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.584019967Z",
+  "model": "glm-5.3"
+}

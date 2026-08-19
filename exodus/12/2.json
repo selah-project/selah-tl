@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang buwang ⟨na⟩ ito ay inyo ⟨ang⟩ ulo ng mga buwan; panguna ⟨ito⟩ sa inyo sa mga buwan ng taon.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ang buwan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ng mga buwan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "panguna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "sa mga buwan ng"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:04.133277240Z",
+  "model": "glm-5.3"
+}

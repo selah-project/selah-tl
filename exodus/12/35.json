@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ang mga anak ni Yisrael ay gumawa ayon sa salita ni Moshe, at humingi sila sa mga Mitsri ng mga kasangkapang pilak at mga kasangkapang ginto, at mga damit.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ay gumawa"
+    },
+    {
+      "surface": "कदबर",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "at humingi sila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa mga Mitsri"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ng mga kasangkapan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "at mga kasangkapan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "at mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:12.345706805Z",
+  "model": "glm-5.3"
+}

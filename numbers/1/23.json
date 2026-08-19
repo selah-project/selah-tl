@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang mga binilang sa lipi ni Shim'on: limampu't siyam na libo at tatlong daan.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang mga binilang"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa lipi"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:41.627035897Z",
+  "model": "glm-5.3"
+}

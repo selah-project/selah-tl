@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Mana na kinamumuhian ⟨sa⟩ pasimula, ngunit ang wakas nito ay hindi pagpapalain.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "kinamumuhian"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "sa pasimula"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ngunit ang wakas nito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "pagpapalain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:48.739077536Z",
+  "model": "glm-5.3"
+}

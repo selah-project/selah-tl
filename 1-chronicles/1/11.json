@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ipinanganak ni Mitzrayim ang ⟨את⟩ mga Ludim, at ang ⟨את⟩ mga Anamim, at ang ⟨את⟩ mga Lehabim, at ang ⟨את⟩ mga Naphtuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "At si Mitzrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "mga Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "mga Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "mga Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Naphtuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "mga Naphtuchim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:21.087286602Z",
+  "model": "glm-5.3"
+}

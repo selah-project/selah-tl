@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Huwag kang magningas-ngas sa mga gumagawa ng masama, huwag kang mainggitin sa mga masasama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "magningas-ngas"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "sa mga gumagawa ng masama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "mainggitin"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "sa mga masasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:18.519636405Z",
+  "model": "glm-5.3"
+}

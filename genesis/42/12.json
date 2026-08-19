@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi niya sa kanila: Hindi, kundi ang kahinaan ng lupain ang naparito kayong makita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahinaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "naparito kayo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "makita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:16.860832869Z",
+  "model": "glm-5.3"
+}

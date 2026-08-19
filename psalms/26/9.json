@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Huwag mong ipisan ⟨עם⟩ mga makasalanan ang aking kaluluwa, ni ⟨עם⟩ mga taong maramdaman sa dugo ang aking buhay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "mong ipisan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨עם⟩"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mga makasalanan",
+      "marks": "mga makasalanan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni ⟨עם⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga taong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "maramdaman sa dugo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:53.768981944Z",
+  "model": "glm-5.3"
+}

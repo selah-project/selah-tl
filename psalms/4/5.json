@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Manginig kayo at huwag magkasala; magsalita kayo sa inyong puso sa inyong higaan, at tumahimik. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "manginig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "magkasala"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "magsalita kayo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa inyong puso"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "inyong higaan"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "at tumahimik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:38.414473029Z",
+  "model": "glm-5.3"
+}

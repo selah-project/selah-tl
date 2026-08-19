@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Mula sa tirahan ng kaniyang upuan ay nagmasid siya sa lahat ng naninirahan sa ⟨the⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Mula sa tirahan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ng kaniyang pagkaupo"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nagmasid siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lapat ng"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.926375529Z",
+  "model": "glm-5.3"
+}

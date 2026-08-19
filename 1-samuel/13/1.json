@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Na sa gulang na ⟨isang⟩ taon si Sha-ul nang simulan niyang maghari, at dalawang taon siyang naghari sa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sa gulang na taon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "isang taon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha-ul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nang maghari siya"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "at dalawang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:44.222480687Z",
+  "model": "glm-5.3"
+}

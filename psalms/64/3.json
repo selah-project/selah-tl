@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Itago mo ako mula sa lihim na pagpupulong ng mga masasama, mula sa kaguluhan ng mga gumagawa ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Itago mo ako"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "mula sa lihim na pagpupulong"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "mula sa kaguluhan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ng mga gumagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.645847156Z",
+  "model": "glm-5.3"
+}

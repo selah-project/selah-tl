@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At babantayan ninyo ang ⟨את⟩ salitang ito bilang tuntunin para sa inyo at para sa inyong mga anak, hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "At babantayan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salitang ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itо"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "bilang tuntunin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "at sa iyong mga anak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:20.845089241Z",
+  "model": "glm-5.3"
+}

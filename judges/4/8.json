@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Barak sa kaniya: Kung ikaw ay sasama sa akin, ako'y sasama; ngunit kung ikaw ay hindi sasama sa akin, hindi ako sasama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ni Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "sasama ikaw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "sasama ako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "sasama ikaw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sasama ako"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:09.990710368Z",
+  "model": "glm-5.3"
+}

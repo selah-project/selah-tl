@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Huwag kang matakot, sapagkat ⟨את⟩ ako ang kasama mo; mula sa silangan dadalhin ko ang iyong binhi, at mula sa kanluran titipunin kita.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang matakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ang kasama mo",
+      "marks": "ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mula sa silangan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "dadalhin ko"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang iyong binhi"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "at mula sa kanluran"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "titipunin kita"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:40.747735863Z",
+  "model": "glm-5.3"
+}

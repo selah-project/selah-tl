@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kahubaran ng anak ng iyong anak na lalaki o ng anak ng iyong anak na babae, huwag mong ihahayag ang kanilang kahubaran, sapagkat ang iyong kahubaran ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ng iyong anak na lalaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ng iyong anak na babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ihahayag"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ang kanilang kahubaran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ang iyong kahubaran"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:19.336080498Z",
+  "model": "glm-5.3"
+}

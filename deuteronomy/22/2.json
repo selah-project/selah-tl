@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At kung malayo sa iyo ang iyong kapatid at hindi mo siya kilala, titipunin mo ⟨את⟩ ito sa loob ng iyong bahay, at ⟨is⟩ ito'y mananatili sa iyo hanggang hanapin ito ng iyong kapatid, at isasauli mo ⟨את⟩ ito sa kanya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "malayo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang iyong kapatid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "kilala mo siya"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "titipunin mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "loob"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng iyong bahay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at ⟨is⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hanapin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang iyong kapatid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang naligaw na hayop)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "isasauli mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:55.315059954Z",
+  "model": "glm-5.3"
+}

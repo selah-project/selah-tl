@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At si Avshai na anak ni Tzeruya ay humampas sa ⟨את⟩ Edom sa libis ng asin — labing walong libo.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "At si Avshai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ni Tzeruya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "humampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ng asin"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "labing walong"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "libong"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:36.266697856Z",
+  "model": "glm-5.3"
+}

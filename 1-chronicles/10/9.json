@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At hinubaran nila siya, at kinuha ang ⟨את⟩ kaniyang ulo at ang ⟨את⟩ kaniyang kasu-kasuan, at ipinadala sa lupain ng mga Peleshti sa palibot, upang magbalita sa kanilang mga idolo at sa ⟨את⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "hinubaran nila siya"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kaniyang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kaniyang kasu-kasuan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaniyang kasu-kasuan"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ipinadala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Peleshti"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "upang magbalita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga idolo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "kanilang mga idolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:39.685077030Z",
+  "model": "glm-5.3"
+}

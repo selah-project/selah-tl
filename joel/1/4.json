@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang natirang gayam ay kinain ng balang, at ang natirang balang ay kinain ng dagang-tuod, at ang natirang dagang-tuod ay kinain ng uod-na-dagâ.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ang natira"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "ng gayam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kinain ng"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "balang"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "at ang natira"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ng balang"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kinain ng"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "dagang-tuod"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "at ang natira"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ng dagang-tuod"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kinain ng"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "uod-na-dagâ"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:58.802704139Z",
+  "model": "glm-5.3"
+}

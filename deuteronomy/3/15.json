@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kay Machir ay ibinigay ko ang ⟨את⟩ Gilead.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "at kay Machir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:06.828171417Z",
+  "model": "glm-5.3"
+}

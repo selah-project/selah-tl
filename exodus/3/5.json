@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi niya: Huwag kang lumapit ⟨dito⟩; hubarin mo ang iyong mga sandalyas mula sa iyong mga paa, sapagkat ang ⟨dakong⟩ tinatayuan mo ay banal na lupa ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "kang lumapit"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "dito"
+    },
+    {
+      "surface": "של",
+      "gloss": "hubarin mo"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "ang iyong mga sandalyas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "iyong mga paa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang dakong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "tumatayong"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lupa ng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:35.096425112Z",
+  "model": "glm-5.3"
+}

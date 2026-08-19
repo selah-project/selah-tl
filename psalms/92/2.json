@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Mabuti ang magpasalamat kay Yahweh, at umawit sa papuri sa iyong pangalan, o Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ang magpasalamat"
+    },
+    {
+      "surface": "ליוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "at umawit sa papuri"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "o Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:45.221793050Z",
+  "model": "glm-5.3"
+}

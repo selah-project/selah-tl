@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Nakita ko ang ⟨את⟩ buong mga nabubuhay na lumalakad sa ilalim ng araw, kasama ng bata, ang pangalawa, na tatayong kahalili niya",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong mga nabubuhay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "mga nabubuhay"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "na lumalakad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ng bata"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tatayong"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "kahalili niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:36.622054107Z",
+  "model": "glm-5.3"
+}

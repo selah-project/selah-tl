@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ito ang mga sali-sali ni Yitshak, anak ni Avraham: si Avraham ay nagkaanak ⟨את⟩ kay Yitshak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga sali-sali"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitshak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kay Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:29.941726755Z",
+  "model": "glm-5.3"
+}

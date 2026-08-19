@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Elohim ng mga hukbo, magbalik ka nga; silipin mula sa langit at makita, at dalawin ang baging na ito,",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "silipin"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at makita"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "at dalawin"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ang baging"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:09.216188084Z",
+  "model": "glm-5.3"
+}

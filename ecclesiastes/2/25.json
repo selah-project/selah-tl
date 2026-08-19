@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapagkat sino ang kakain, at sino ang magmamadali sa mga panlabas, bukod sa akin?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "magmamadali"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "sa mga panlabas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bukod sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:56.114934731Z",
+  "model": "glm-5.3"
+}

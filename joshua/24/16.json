@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sumagot ang bayan at nagsabi: Kalayo-layoian sa amin ang pagtalikod kay ⟨את⟩ Yahweh upang paglingkuran ang mga elohim na iba;",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "kalayo-layoian"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ang pagtalikod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang paglingkuran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:40.716017504Z",
+  "model": "glm-5.3"
+}

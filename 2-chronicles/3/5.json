@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang ⟨את⟩ malaking bahay ay binatakhan niya ng kahoy na cypress, at binalutan niya ito ng mabuting ginto, at kanyang iniahon sa ibabaw nito ang mga palmeto at mga tanikala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "malaking bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "binatakhan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cypress"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "at binalutan niya ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at kanyang iniahon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "mga palmeto"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "at mga tanikala"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:14.654717475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sapagkat lumampas sa ulo ko ang aking mga kasamaan; na parang mabigat na pasan, labis nang mabigat higit sa akin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ang aking mga kasamaan"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lumampas"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sa ulo ko"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "na parang pasan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "labis nang mabigat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "higit sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:31.845274441Z",
+  "model": "glm-5.3"
+}

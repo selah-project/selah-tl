@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nauhaw doon ang bayan dahil sa tubig, at naghinagpis ang bayan laban kay Moshe at nagsabi: Bakit ito, inakyat mo kami mula sa Mitzrayim upang patayin ang ⟨את⟩ akin at ⟨את⟩ mga anak ko at ⟨את⟩ mga alagaan ko sa uhaw?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "at nauhaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "למים",
+      "gloss": "dahil sa tubig"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "at naghinagpis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "inakyat mo kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "upang patayin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ang akin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga alagaan ko"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mga alagaan ko"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "sa uhaw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:30.675265023Z",
+  "model": "glm-5.3"
+}

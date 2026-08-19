@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ilalagay nila ang ⟨את⟩ aking pangalan sa ibabaw ng mga anak ni Yisrael, at ako ang magpapala sa kanila.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "at ilalagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking pangalan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aking pangalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "ang magpapala sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:30.649696287Z",
+  "model": "glm-5.3"
+}

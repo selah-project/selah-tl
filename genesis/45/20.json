@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At huwag mahinawan ang inyong mata sa inyong mga kagamitan, sapagkat ang kagalingan ng buong lupain ng Mitsrayim ay sa inyo ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "at inyong mata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "mahinawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "inyong mga kagamitan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kagalingan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:41.616163826Z",
+  "model": "glm-5.3"
+}

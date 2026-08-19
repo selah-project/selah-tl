@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sapagkat tumubos si Yahweh ng ⟨את⟩ si Yaakov, at inigtad Siya siya mula sa kamay ng lalong malakas kaysa kanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "tumubos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "at inigtad Siya siya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ng lalong malakas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:27:55.221156740Z",
+  "model": "glm-5.3"
+}

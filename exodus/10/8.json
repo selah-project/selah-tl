@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At pinabalik si Moshe at si Aharon kay Paroh, at sinabi niya sa kanila: Pumunta kayo, maglingkod kayo kay Yahweh na Elohim ninyo. Sino at sino ang mga papunta?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "at pinabalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "niya sa kanila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pumunta kayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maglingkod kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na Elohim ninyo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ang mga papunta"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:47.633693489Z",
+  "model": "glm-5.3"
+}

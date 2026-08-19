@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Sapagkat ikaw ang Elohim na aking kalakasan; bakit mo ako itinatwa? Bakit lumalakad akong nalulumbay sa pang-aapi ng kaaway?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "na aking kalakasan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "mo ako itinatwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "״דר",
+      "gloss": "nalulumbay"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "lumalakad ako"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa pang-aapi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ng kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:23.667079285Z",
+  "model": "glm-5.3"
+}

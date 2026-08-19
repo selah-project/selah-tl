@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Sinamot mo ang buo mong poot; buminlik ka sa matinding init ng iyong galit.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "sinamot mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buo"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "mong poot"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "buminlik ka"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "sa matinding init"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ng iyong galit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:13.354401902Z",
+  "model": "glm-5.3"
+}

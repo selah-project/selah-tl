@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Yahweh Elohim ng mga hukbo, pakinggan Mo ang aking panalangin; magpasintig ng pandinig, O Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pakinggan Mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "magpasintig ng pandinig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:19.317165860Z",
+  "model": "glm-5.3"
+}

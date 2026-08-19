@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "anak ni Zerachjah, anak ni Uzzi, anak ni Bukki",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ni Zerachjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ni Uzzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ni Bukki"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:25.895794629Z",
+  "model": "glm-5.3"
+}

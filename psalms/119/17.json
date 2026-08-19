@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Gumawâ ka sa iyong lingkod, upang akó'y mabuhay at ingatan ko ang iyong salita.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Gumawâ ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong lingkod"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "upang akó'y mabuhay"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "at ingatan ko"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang iyong salita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:21.280350575Z",
+  "model": "glm-5.3"
+}

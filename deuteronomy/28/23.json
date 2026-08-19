@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At ang mga langit mo na ⟨na⟩ nasa ibabaw ng ulo mo ay ⟨maging⟩ tanso, at ang lupa na nasa ilalim mo ay bakal.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mga langit mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ulo mo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "at ang lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nasa ilalim mo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bakal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:01.034734536Z",
+  "model": "glm-5.3"
+}

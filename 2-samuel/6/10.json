@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At hindi niloob ni David na ilipat sa kaniya ang ⟨את⟩ kaban ni Yahweh papunta sa lungsod ni David; kaya iniukol ni David ito sa bahay ni Oved-Edom ang Gatita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "niloob"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ilipat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "iniukol niya ito"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ang Gatita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:47.476894266Z",
+  "model": "glm-5.3"
+}

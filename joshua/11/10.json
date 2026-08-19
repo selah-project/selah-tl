@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Nagbalik si Yehoshua sa ⟨ang⟩ oras na iyon, at dinakip ang ⟨את⟩ Chatsor, at ang ⟨את⟩ hari nito ay sinaktan ng tabak, sapagkat si Chatsor noon pa man ay ⟨siya⟩ ulong ng lahat ng mga kahariang ito.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa oras"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "at dinakip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "hari nito"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "hari nito"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "noon pa man"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "mga kahariang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:38.928654764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang inyong pagkabaligtad! ⟨Ba⟩ parang luad ba itinuturing ang naghubog? Sapagkat sasabihin ba ng nilikha sa kanyang gumawa, Hindi niya ako ginawa? at sasabihin ba ng hinubog sa kanyang naghuhubog, Walang siyang unawa?",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "ang inyong pagkabaligtad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "parang luad"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "ang naghubog"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "itinuturing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ang nilikha"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "sa kanyang gumawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "niya ako ginawa"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "at ang hinubog"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "sa kanyang naghuhubog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "siyang unawa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:57.303513257Z",
+  "model": "glm-5.3"
+}

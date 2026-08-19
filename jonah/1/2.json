@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Tumindig ka, pumunta ka sa Ninive, sa ⟨ang⟩ malaking lunsod, at mangaral ka laban dito, sapagkat umahon ang kanilang kasamaan sa harapan ko.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tumindig ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ lunsod"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "at mangaral ka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban dito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ang kanilang kasamaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:57.768828231Z",
+  "model": "glm-5.3"
+}

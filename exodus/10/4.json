@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat kung ikaw ay magtatangging ipadala ang ⟨את⟩ aking bayan, narito, maghahatid ako bukas ng balang sa iyong hangganan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "magtatanggi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "na ipadada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang aking bayan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "maghahatid ako"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bukas"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ng balang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sa iyong hangganan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:43.613031592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Huwag kayong makinig sa kanila; maglingon kayo sa ⟨את⟩ hari ng Bavel at mabuhay; bakit magiging guho ang lunsod na ito?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "makinig kayo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maglingon kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari ng Bavel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Bavel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "at mabuhay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lunsod"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "guho"
+    }
+  ],
+  "timestamp": "2026-08-19T17:28:01.019722928Z",
+  "model": "glm-5.3"
+}

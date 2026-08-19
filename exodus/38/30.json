@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ginawa niya rito ang ⟨את⟩ mga pundasyon ng pasukan ng tolda ng kapisanan, at ang ⟨את⟩ altar ng tanso, at ang ⟨את⟩ rehas na tanso na para rito, at ang ⟨את⟩ lahat ng kasangkapan ng altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa niya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pundasyon ng pasukan ng tolda ng kapisanan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ng pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "altar ng tanso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ng tanso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "rehas na tanso na para rito"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rehas"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "na tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng kasangkapan ng altar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kasangkapan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:08.311630651Z",
+  "model": "glm-5.3"
+}

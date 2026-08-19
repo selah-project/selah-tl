@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa Gat huwag ninyong ipahayag, huwag umiyak; sa Beit-le-Afrá — alabok — nagpagulong ako ⟨sa alabok⟩.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ninyong ipahayag"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "umiyak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afrá"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "nagpagulong ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:42.124475884Z",
+  "model": "glm-5.3"
+}

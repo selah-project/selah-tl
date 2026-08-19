@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At umagos ang tubig sa paligid ng altar, at ang ⟨את⟩ kanal ay napuno ng tubig.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "at umagos"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ng altar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanal"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ang kanal"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:37:47.283310185Z",
+  "model": "glm-5.3"
+}

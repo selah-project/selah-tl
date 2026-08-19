@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Atitinag ni Shaul ⟨את⟩ sibat laban sa kanya upang siya'y tamaan, at nalaman ni Yehonatan na kumpleto na ⟨ang pasya⟩ mula sa kanyang ama na patayin si ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "atitinag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sibat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "upang siya'y tamaan"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "at nalaman"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kumpleto na"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ang pasya⟩"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "patayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:46.632042824Z",
+  "model": "glm-5.3"
+}

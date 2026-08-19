@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi niya sa kanila: Taga-Eber ako; at ang ⟨את⟩ Yahweh, na Elohim ng ⟨the⟩ mga langit, ay iginagalang ko, na gumawa ng ⟨את⟩ dagat at ng ⟨את⟩ tuyong lupa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Taga-Eber"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "iginagalang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuyong lupa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tuyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:01.048141752Z",
+  "model": "glm-5.3"
+}

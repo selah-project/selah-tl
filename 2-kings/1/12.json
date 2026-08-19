@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sumagot si Elíyahu at nagsalita sa kanila: Kung taong-ng-Elohim ako, bababa ang apoy mula sa mga langit at lulunukin ⟨את⟩ ikaw at ⟨את⟩ ang iyong limampu; at bumaba ang apoy ng-Elohim mula sa mga langit at nilunok ⟨את⟩ siya at ⟨את⟩ ang kaniyang limampu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "At sumagot"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "si Elíyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "איש",
+      "gloss": "taong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "-ng-Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bababa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang apoy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "at lulunukin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang iyong limampu"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "ang iyong limampu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang apoy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng-Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "at nilunok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kaniyang limampu"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "ang kaniyang limampu"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:30.863065270Z",
+  "model": "glm-5.3"
+}

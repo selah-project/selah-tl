@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Sapagkat hindi kaaway ang nanuya sa akin — kaya titiisin ko; hindi ito ng nagkapoot sa akin ang nagmalaki laban sa akin — kaya magtatago ako mula sa kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "nanuya sa akin"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "titiisin ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "nagkapoot sa akin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nagmalaki"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "magtatago ako"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:21.019635382Z",
+  "model": "glm-5.3"
+}

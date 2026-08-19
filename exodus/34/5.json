@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At bumaba si Yahweh sa ulap, at tumayo sa katabi niya doon, at tumawag sa pangalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "sa ulap"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa katabi niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:13.222837142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At magagalak ang aking kaluluwa kay Yahweh, magagalak sa kanyang kaligtasan.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "At ang aking kaluluwa"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "sa kanyang kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:10.601302437Z",
+  "model": "glm-5.3"
+}

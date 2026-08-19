@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Ang alaala ng iyong sagana na kabutihan ay bubulwak, at ang iyong katuwiran ay kanilang aawitin.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ang alaala"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ng sagana"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "na kabutihan mo"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ay bubulwak"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "at ang iyong katuwiran"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ay kanilang aawitin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.598468890Z",
+  "model": "glm-5.3"
+}

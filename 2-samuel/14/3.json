@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At papasok ka sa hari at magsasalita ka sa kaniya ayon sa salitang ito. At inilagay ni Yoav ang ⟨את⟩ mga salita sa kaniyang bibig.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "at papasok ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "at magsasalita ka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "sa kaniyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:46.461775357Z",
+  "model": "glm-5.3"
+}

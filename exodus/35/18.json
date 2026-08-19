@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "ang ⟨את⟩ mga tulos ng Toldot, at ang ⟨את⟩ mga tulos ng hukay, at ang ⟨את⟩ mga lubid ng mga iyon,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tulos ng Toldot"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mga tulos"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng Toldot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga tuluso ng hukay"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mga tuluso"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng hukay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga lubid ng mga iyon"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "mga lubid ng mga iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:40.423182489Z",
+  "model": "glm-5.3"
+}

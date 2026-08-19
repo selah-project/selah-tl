@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sa amin ang kapahamakan! Sino ang magliligtas sa atin sa kamay ng ⟨mga⟩ Elohim na dakilang ⟨mga⟩ ito? Ito nga ang ⟨mga⟩ Elohim na tumama sa ⟨את⟩ Mitzrayim ng bawat salot sa ilang.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "sa amin ang kapahamakan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "magliligtas sa atin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "tumama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ng bawat"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "salot"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:12.593845188Z",
+  "model": "glm-5.3"
+}

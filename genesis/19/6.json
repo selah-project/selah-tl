@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At lumabas si Lot sa kanila sa ⟨may⟩ pintuan, at isinarado niya ang pinto sa likod niya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "sa ⟨may⟩ pintuan"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "at ang pinto"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "isinarado"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa likod niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:39.655908308Z",
+  "model": "glm-5.3"
+}

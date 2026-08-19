@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Umungal ang iyong mga kalaban sa gitna ng iyong kapisanan; nagtatak sila ng ⟨את⟩ kanilang mga senyales bilang mga senyales.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Umungal"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ang iyong mga kalaban"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ng iyong kapisanan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nagtatak sila"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ng kanilang mga senyales"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "⟨את⟩ bilang mga senyales"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:06.594978004Z",
+  "model": "glm-5.3"
+}

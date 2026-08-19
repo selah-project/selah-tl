@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang mga nagpapaligaw ng tao sa salita, at sa nagpapatunog sa pintuan ay naglalagay ng bitag, at iniwas sa kahalayan ang matuwid.",
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "ang mga nagpapaligaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa salita"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "at sa nagpapatunong"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa pintuan"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "naglalagay ng bitag"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "at iniwas"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "sa kahalayan (walang laman)"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:19.160920616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang kayamanan mula sa kawalan ay magbabawas, ngunit ang nagtitipon nang dahan-dahan ay magdaragdag.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "mula sa kawalan"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "magbabawas"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ngunit ang nagtitipon"
+    },
+    {
+      "surface": "על",
+      "gloss": "nang dahan-dahan ⟨sa⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "magdaragdag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:02.325959053Z",
+  "model": "glm-5.3"
+}

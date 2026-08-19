@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At naghimagsik ang buong kongregasyon ng mga anak ni Yisra'el laban kay Moshe at laban kay Aharon sa ilang.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "At naghimagsik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at laban kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:56.531869362Z",
+  "model": "glm-5.3"
+}

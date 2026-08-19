@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Ginawa niya ang ⟨את⟩ ephod — ginto, asul, ube, scarlet, at pinong hinabing lino.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "at ube"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "at uod ng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at pinong lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "hinabing binalutan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:36.096372573Z",
+  "model": "glm-5.3"
+}

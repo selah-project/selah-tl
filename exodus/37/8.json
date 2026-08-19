@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Isang kerubin sa dulo sa ganito ⟨ang panig⟩, at isang kerubin sa dulo sa roon ⟨ang panig⟩; mula sa kaporan ginawa niya ang ⟨את⟩ mga kerubin sa dalawang dulo nito.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "isang kerubin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa dulo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa ganito"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "at isang kerubin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa dulo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa roon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kerubin"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "mga kerubin"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa dalawang"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "dulo nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:29.933617486Z",
+  "model": "glm-5.3"
+}

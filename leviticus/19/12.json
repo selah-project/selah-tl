@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At huwag kayong magsusumpa sa aking pangalan sa kasinungalingan, at dinudungisan mo ang ⟨את⟩ pangalan ng iyong Elohim; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kayong magsusumpa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa aking pangalan"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "sa kasinungalingan"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "at dinudungisan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ng iyong Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:28.359948117Z",
+  "model": "glm-5.3"
+}

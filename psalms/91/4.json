@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Ng kanyang balahibo'y bubuklol sa iyo, at sa ilalim ng kanyang mga pakpak ay manganganlong ka; kalasag at tanggulan ang kanyang katapatan.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ng kanyang balahibo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bubuklol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "at sa ilalim"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ng kanyang mga pakpak"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "manganganlong ka"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "at tanggulan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ang kanyang katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:59.657659624Z",
+  "model": "glm-5.3"
+}

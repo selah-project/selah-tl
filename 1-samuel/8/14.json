@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang ⟨את⟩ inyong mga bukid, at ang ⟨את⟩ inyong mga ubasan, at ang inyong mga puno ng olibo — ang mga mabubuti — ay kukuhanin niya, at ibibigay sa kanyang mga alipin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga bukid"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "inyong mga bukid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga ubasan"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "inyong mga ubasan"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "at inyong mga puno ng olibo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ang mga mabubuti"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuhanin niya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at ibibigay"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "sa kanyang mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:26.867352038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Maghiganti ng higanti para sa mga anak ni Yisrael mula ⟨את⟩ mga Midyanita; pagkatapos, ikaw ay matitipon sa iyong bayan.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "maghiganti"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "higanti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Midyanita"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "mga Midyanita"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "matitipon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "iyong bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:16:59.912513523Z",
+  "model": "glm-5.3"
+}

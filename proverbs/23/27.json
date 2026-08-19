@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sapagkat ang babaing nagpapatotoo ay ⟨is⟩ malalim na hukay, at ang babaing dayuhan ay ⟨is⟩ makitid na balon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "hukay"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "malalim"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "babaing nagpapatotoo\/patutot"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "at balon"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "makitid"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "babaing dayuhan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:35.786161339Z",
+  "model": "glm-5.3"
+}

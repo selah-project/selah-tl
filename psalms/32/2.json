@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "O kaligayahan ng taong hindi ibinibilang sa kanya ni Yahweh ang anomaliya, at walang dayà sa kanyang espiritu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "O kaligayahan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ibinibilang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עון",
+      "gloss": "anomaliya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "sa kanyang espiritu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "dayà"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.994324751Z",
+  "model": "glm-5.3"
+}

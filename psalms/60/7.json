@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Upang maligtas ang mga iyong minamahal; iligtas sa iyong kanang kamay, at sagutin kami.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "maligtas"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ang mga iyong minamahal"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "iligtas"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanang kamay"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "at sagutin kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:39.791400988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Upang gawin ang paghihiganti sa mga bansa, at mga parusa sa mga pamayanan;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ang paghihiganti"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mga parusa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mga pamayanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.177826483Z",
+  "model": "glm-5.3"
+}

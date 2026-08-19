@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At dinadala ninyo ang ⟨את⟩ Sikut na hari ninyo, at ang ⟨את⟩ Kiyun na mga larawan ninyo, ang bituin ng mga diyos ninyo, na ginawa ninyo para sa inyo.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "at dinadala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut na hari ninyo"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "hari ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyun na mga larawan ninyo"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "mga larawan ninyo"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "bituin"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ng mga diyos ninyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ginawa ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:01:31.452037054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "At ito'y higit na magugustuhan ni Yahweh kaysa sa torong may sungay at may mgasplitadong pata.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "at magugustuhan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kaysa sa toro"
+    },
+    {
+      "surface": "פר",
+      "gloss": "batang toro"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "may sungay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "may biyak na pata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:51.213287590Z",
+  "model": "glm-5.3"
+}

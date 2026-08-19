@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At magpapadala ako sa iyong unahan ng ⟨את⟩ isang mensahero, at palalayasin ko ⟨את⟩ ang Kenanita, ang Emori, ang Chitti, at ang Perizzi, ang Chivvi, at ang Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "at magpapadala ako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong unahan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "at palalayasin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenanita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "at ang Chitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "at ang Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Chivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at ang Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:48.131189492Z",
+  "model": "glm-5.3"
+}

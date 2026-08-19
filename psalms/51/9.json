@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Linisin mo ako mula sa kasalanan ng hyssop, at malilinis ako; huguran mo ako, at higit sa niyebe ako magiging puti.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "linisin mo ako mula sa kasalanan"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ng hyssop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "at malilinis ako"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "huguran mo ako"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kaysa niyebe"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "magiging puti ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:26.281637855Z",
+  "model": "glm-5.3"
+}

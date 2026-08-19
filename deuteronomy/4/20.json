@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ngunit ⟨את⟩ inyo'y kinuha ni Yahweh at inilabas ⟨את⟩ kayo mula sa hurno ng bakal, mula sa Mitsrayim, upang maging sa Kanya na isang bayan ng mana, gaya ng araw na ito",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ngunit ⟨את⟩ inyo",
+      "marks": "kinuha ni Yahweh sa inyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "at inilabas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "inilabas kayo"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "mula sa hurno"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ng bakal"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "upang maging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa Kanya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "na isang bayan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ng mana"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:58.333798733Z",
+  "model": "glm-5.3"
+}

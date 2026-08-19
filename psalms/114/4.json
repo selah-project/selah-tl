@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 114,
+  "translation": "Sumayaw ang mga bundok na parang mga tupang lalaki, ang mga burol na parang mga kordero.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "sumayaw"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "na parang mga tupang lalaki"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ang mga burol"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "na parang mga anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng kawan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:05.953868173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang batang Shemuël ay naglilingkod ⟨את⟩ kay Yahweh sa harap ni Eli, at ang salita ni Yahweh ay bihira noon sa mga araw na iyon — walang pangitain na lumalabas.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "At ang batang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "naglilingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "at ang salita ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "bihira"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "pangitain"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "lumalabas"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:35.137456971Z",
+  "model": "glm-5.3"
+}

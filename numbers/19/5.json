@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At susunugin niya ang ⟨את⟩ baka sa harap ng kanyang mga mata: ⟨את⟩ balat nito at ⟨את⟩ laman nito at ⟨את⟩ dugo nito, kasama ng dumi nito, susunugin.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "at susunugin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baka"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "sa harap ng kanyang mga mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balat nito"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "balat nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "laman nito"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "laman nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "dugo nito"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dugo nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "dumi nito"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:12.475270717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At itinaas ni David at ng bayang ⟨את⟩ kasama niya ang ⟨את⟩ kanilang tinig, at umiyak sila, hanggang sa walang nasa kanila ng lakas na umiyak.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "at itinaas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "at ng bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang tinig"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ang kanilang tinig"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "at umiyak sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nasa kanila"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ng lakas"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "na umiyak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:01.223095897Z",
+  "model": "glm-5.3"
+}

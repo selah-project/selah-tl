@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At pinalakas niya ang ⟨את⟩ mga muog, at naglagay siya sa mga ito ng mga pinuno at mga bodega ng pagkain, langis, at alak.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at pinalakas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga muog"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ang mga muog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at naglagay siya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "at mga bodega"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ng pagkain"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "at langis"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "at alak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:48.083352549Z",
+  "model": "glm-5.3"
+}

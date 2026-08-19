@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sapagkat hinati ni Achaz ang ⟨את⟩ bahay ni Yahweh at ang ⟨את⟩ bahay ng hari at ng mga panginoon, at ibinigay sa hari ng Ashur, ngunit hindi ⟨ito⟩ naging tulong sa kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "hinati"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bahay ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "at ng mga panginoon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "naging tulong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:43.616370842Z",
+  "model": "glm-5.3"
+}

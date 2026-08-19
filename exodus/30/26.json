@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At pahiduin mo ito sa ⟨את⟩ tolda ng kapisanan, at sa ⟨את⟩ kaban ng patotoo,",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "at pahiduin mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda ng kapisanan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng patotoo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng patotoo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:40.713899128Z",
+  "model": "glm-5.3"
+}

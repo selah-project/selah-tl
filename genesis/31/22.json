@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At naipahayag kay Lavan sa ikatlong araw na tumakas si Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "naipahayag"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kay Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatlong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "tumakas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:07.176044340Z",
+  "model": "glm-5.3"
+}

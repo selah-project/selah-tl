@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Lupang hinahanap ng Yahweh na Elohim mo ang ⟨את⟩ kanyang patuloy na pag-iingat; ang mga mata ni Yahweh na Elohim mo ay palagi sa kanya, mula sa simula ng taon hanggang sa wakas ng taon.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hinahanap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang patuloy na pag-iingat (ang lupa)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "patuloy na"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "mula sa simula"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ng taon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "wakas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ng taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:36.014233805Z",
+  "model": "glm-5.3"
+}

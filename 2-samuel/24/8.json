@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nilakbay nila ang buong lupain, at dumating sa dulo ng siyam na buwan at dalawampung araw, sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "nilakbay nila"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa dulo ng"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "siyam na"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "buwan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "at dalawampung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:18.505648444Z",
+  "model": "glm-5.3"
+}

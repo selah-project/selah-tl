@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At natira sa mga anak ni Yisrael na hindi pa nahahati ang ⟨את⟩ kanilang pamana ang pitong tribu.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "at natira"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "nahahati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pamana"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "kanilang pamana"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "tribu"
+    }
+  ],
+  "timestamp": "2026-08-19T15:43:40.551252051Z",
+  "model": "glm-5.3"
+}

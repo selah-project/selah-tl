@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Ang ating buhay ay umasa kay Yahweh; siya ang ating tulong at ang ating kalasag.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ang ating buhay"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ay umasa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ang ating tulong"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "at ang ating kalasag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:30.309250052Z",
+  "model": "glm-5.3"
+}

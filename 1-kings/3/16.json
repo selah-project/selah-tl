@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Nang magkagayon, dalawang babaing babaing nakikipag-akitan ang pumunta sa hari at tumayo sa harap niya.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "pumunta"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babae"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "mga babaing nakikipag-akitan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:28.269887298Z",
+  "model": "glm-5.3"
+}

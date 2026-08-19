@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ⟨siya⟩ sumagot: Sa bukas. At sinabi ⟨niya⟩: Ayon sa iyong salita — upang maalaman mo na walang ⟨katulad⟩ kay Yahweh, ⟨sa⟩ ating Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sumagot"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Sa bukas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Ayon sa iyong salita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "maalaman mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "katulad kay Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:38.497940240Z",
+  "model": "glm-5.3"
+}

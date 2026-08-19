@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Nangyari ang bayan ng lupa ay nanghina ng mga kamay ng bayan ng Yehudah, at pumapasagasa ⟨את⟩ kanila sa pagtatayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mga kamay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "at pumapasagasa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "sa pagtatayo (לבנות)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:12:57.477562417Z",
+  "model": "glm-5.3"
+}

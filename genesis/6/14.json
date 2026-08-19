@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Gumawa ka para sa iyong sarili ng isang bangkang gawa sa kahoy na gofer; mga silid ang gagawin mo sa ⟨את⟩ bangka, at papahiran mo ito ⟨את⟩ mula sa loob at mula sa laban ng piket.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gumawa ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bangka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ng kahoy"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga silid"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bangka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ang bangka"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "at papahiran mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa loob"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "at mula sa labas"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ng piket"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:39.316948374Z",
+  "model": "glm-5.3"
+}

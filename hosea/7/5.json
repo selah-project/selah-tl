@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sa araw ng ating hari, nagkasakit ang mga pangulo sa init ng alak; umaabot ang kanyang kamay sa ⟨את⟩ mga nanunuya.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ng ating hari"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nagkasakit"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga pangulo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa init"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ng alak"
+    },
+    {
+      "surface": "משך",
+      "gloss": "umaabot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga nanunuya"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "sa mga nanunuya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:49.372672902Z",
+  "model": "glm-5.3"
+}

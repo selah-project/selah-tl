@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Umahon kayo sa akin at tulungan ninyo ako, at talunin natin ang ⟨את⟩ Giv'on, sapagkat nakipagpayapa ito kay ⟨את⟩ Yehoshua at sa ⟨את⟩ mga anak ni Israel.'",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "umahon kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "at tulungan ninyo ako"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "at talunin natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ang Giv'on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "nakipagpayapa ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "kay Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:31.886868915Z",
+  "model": "glm-5.3"
+}

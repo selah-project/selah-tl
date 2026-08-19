@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At inalis ng hari ang ⟨את⟩ kanyang singsing sa kanyang kamay, at ibinigay ito kay Haman na anak ni Hamedata ang Agageo, kaaway ng mga Yehudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "at inalis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang singsing"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ang kanyang singsing-selyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ito kay Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ang Agageo"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ng mga Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:43.464556289Z",
+  "model": "glm-5.3"
+}

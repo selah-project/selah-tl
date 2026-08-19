@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Si Yahweh ang huhukom sa ⟨mga⟩ mga bansa: hatulan mo ako, O Yahweh, ayon sa aking katuwiran at ayon sa aking kawagasang nasa akin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "huhukom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hatulan mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ayon sa aking katuwiran"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "at ayon sa aking kawagasan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nasa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:23.034044246Z",
+  "model": "glm-5.3"
+}

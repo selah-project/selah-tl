@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi niya sa kanila: mag-uwi pa ng tatlong araw, at magbalik kayo sa akin. At umalis ang bayan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "at magbalik kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:43.180768232Z",
+  "model": "glm-5.3"
+}

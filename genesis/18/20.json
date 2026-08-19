@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sinabi ni Yahweh: Ang hiyaw ng Sodoma at Amora ay napakalaki, at ang kanilang kasalanan ay napakabigat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "hiyaw ng"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "at Amora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "napakalaki"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "at kanilang kasalanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "napakabigat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:40.878137216Z",
+  "model": "glm-5.3"
+}

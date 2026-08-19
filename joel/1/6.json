@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat ang isang bansa umakyat sa aking lupain, malakas at walang bilang; ang ngipin nito ay ngipin ng leon, at ang pangil ng loba ay sa kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isang bansa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "aking lupain"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "malakas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ang ngipin nito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ngipin ng"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "at ang pangil"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ng loba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ay sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:58.442814343Z",
+  "model": "glm-5.3"
+}

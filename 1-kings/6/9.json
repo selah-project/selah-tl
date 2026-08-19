@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At itinayo niya ang ⟨את⟩ bahay at tinapos ito; at binalutan niya ang ⟨את⟩ bahay ng mga balangkas at mga hanay na sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "at tinapos ito"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "at binalutan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mga balangkas"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "at mga hanay"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "ng sedro"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:15.911794585Z",
+  "model": "glm-5.3"
+}

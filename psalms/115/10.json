@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "O bahay ni Aharon, magtiwala kayo kay Yahweh; kanilang tulong at kanilang kalasag ay siya.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "magtiwala kayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "kanilang tulong"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "at kanilang kalasag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.306601533Z",
+  "model": "glm-5.3"
+}

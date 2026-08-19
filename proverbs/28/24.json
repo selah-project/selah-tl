@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang nanakaw sa kanyang ama at ina, at nagsasabing walang paglabag, ay kasa-kasama ng taong sumisira.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "nanakaw"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at ina"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsasabi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "paglabag"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kasa-kasama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "sumisira"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:47.895257949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at ⟨ang⟩ ⟨את⟩ baboy; sapagkat may hiwa ito ng paa ngunit hindi ngala-ngala — marumi ito sa inyo; ng kanilang laman ay huwag ninyong kakainin, at ng kanilang bangkay ay huwag ninyong dididinggin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baboy"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ang baboy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "may hiwa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ng paa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ngala-ngala"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi (ritwal)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ng kanilang laman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "at ng kanilang bangkay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "didinginggin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:43.626118024Z",
+  "model": "glm-5.3"
+}

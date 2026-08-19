@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At siya ay pumasok kay Naomi na hipag — sa kanyang biyenan, at sinabi, Sino ka, anak kong babae? At isinalaysay niya sa kanya ang ⟨את⟩ lahat ng ginawa sa kanya ng lalaki.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "At siya ay pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "biyenan niya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak kong babae"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "At isinalaysay niya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ng lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:54.235114551Z",
+  "model": "glm-5.3"
+}

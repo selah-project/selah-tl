@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Kung babalik ka, O Yisrael, anila Yahweh, sa akin babalik ka; at kung aalisin mo ang iyong mga kasuklam-suklam mula sa aking harapan, hindi ka matitinag;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "anila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik ka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "aalisin mo"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "ang iyong mga kasuklam-suklam"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa aking harapan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "ka matitinag"
+    }
+  ],
+  "timestamp": "2026-08-19T17:16:38.122788730Z",
+  "model": "glm-5.3"
+}

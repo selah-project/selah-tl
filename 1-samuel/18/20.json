@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At umibig si Mikal na anak ni Shaul kay ⟨את⟩ David, at isinalaysay nila kay Shaul, at tumuwid ang bagay sa kanyang mga mata.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "At umibig"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "si Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "na anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "at isinalaysay nila"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "at tumuwid"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:51.409017218Z",
+  "model": "glm-5.3"
+}

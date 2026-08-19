@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Hindi ko lilapastanganin ang aking tipan, at ang lumalabas sa aking mga labi ay hindi ko babaguhin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "ko lilapastanganin"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang aking tipan"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "at ang lumalabas"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa aking mga labi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ko babaguhin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:53.758997895Z",
+  "model": "glm-5.3"
+}

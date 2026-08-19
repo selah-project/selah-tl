@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang ⟨mga tao⟩ ng Beth-Shemesh ay nag-aani ng ani ng trigo sa libis, at nag-angat sila ng ⟨את⟩ kanilang mga mata at nakita nila ang ⟨את⟩ kaban, at nagaluwang sila sa pagkakita.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "At ang Beth-Shemesh"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Beth-Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "nag-aani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at nag-angat sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "kanilang mga mata"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "at nagaluwang sila"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagkakataong makita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:56.564389250Z",
+  "model": "glm-5.3"
+}

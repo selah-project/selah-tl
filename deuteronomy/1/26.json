@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At hindi kayo nanaog na pumanaog — hindi kayo napayag na umahon, kundi naghimagsik kayo laban sa ⟨את⟩ bibig ni Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kayo napayag"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "na umahon"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "at naghimagsik kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibig ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang bibig ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:34.202861030Z",
+  "model": "glm-5.3"
+}

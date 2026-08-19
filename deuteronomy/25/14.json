@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Huwag magkakaroon ka sa iyong bahay ng eipá at eipá, malaki at maliit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eipá"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "at eipá"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "at maliit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:34.010684874Z",
+  "model": "glm-5.3"
+}

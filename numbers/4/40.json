@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang kanilang bilang, ayon sa kanilang mga angkan, sa bahay ng kanilang mga ama, ay dalawang libo at anim na raan at tatlumpung.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang kanilang bilang"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay ng"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "kanilang mga ama"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dalawang libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpung"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:24.668395159Z",
+  "model": "glm-5.3"
+}

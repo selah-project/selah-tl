@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At huwag ninyong lulapastanganin ang ⟨את⟩ aking banal na pangalan, at ako ay papagingbanalin sa gitna ng mga anak ni Yisrael: ako si Yahweh, nagpapabanal sa inyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ninyong lulapastanganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking banal na pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "aking banal"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "at ako ay papagingbanalin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nagpapabanal sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:28.506811596Z",
+  "model": "glm-5.3"
+}

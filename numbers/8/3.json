@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa ito ni Aharon; sa harap mismo ng menorah, pinainit niya ang mga ilawan nito, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "harap mismo ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pinainit"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ang mga ilawan nito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:37.455300248Z",
+  "model": "glm-5.3"
+}

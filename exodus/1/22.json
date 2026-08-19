@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iniutos ni Paroh sa buong bayan niya, na sinasabi: Bawat anak na lalaking ipinanganak — sa ilog inyong itatapon siya, ngunit bawat anak na babae ay inyong bubuhayin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "At iniutos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bayannya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Bawat"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "sa ilog"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "inyong itatapon siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ngunit bawat"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "bubuhayin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:30.286751224Z",
+  "model": "glm-5.3"
+}

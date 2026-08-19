@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At uupo ang bawat tao sa ilalim ng kanyang ubas at sa ilalim ng kanyang igos, at walang mananakot; sapagkat ang bibig ni Yahweh ng mga hukbo ang nagsalita.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "At uupo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bawat tao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ng kanyang ubas(naan)"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "at sa ilalim"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "ng kanyang punong igos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "mananakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo (Tsevaot)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:30.948886211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At si Lot din, na lumalakad kasama ⟨את⟩ ni Avram, ay may mga tupa, mga baka, at mga tolda.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at din"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay may"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "mga tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:11.498326705Z",
+  "model": "glm-5.3"
+}

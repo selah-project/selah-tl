@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At pati sa daan, kapag lumalakad ang mangmang, kulang ang kanyang puso, at ipinakikilala niya sa lahat na siya ay mangmang.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "kapag ang mangmang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsasabi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mangmang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.798579638Z",
+  "model": "glm-5.3"
+}

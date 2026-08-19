@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At ibinigay Ko kay Yitshak ang ⟨את⟩ Yaakov at ⟨את⟩ si Esav; at ibinigay Ko kay Esav ang ⟨את⟩ bundok ng Seir na pag-aariin ⟨את⟩ niya; ngunit si Yaakov at ang kanyang mga anak ay bumaba sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "At ibinigay Ko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "at ibinigay Ko"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundok ng Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ang bundok"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ng Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "na pag-aariin"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "ang bundok ng Seir"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ngunit si Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang kanyang mga anak"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ay bumaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:34.960478959Z",
+  "model": "glm-5.3"
+}

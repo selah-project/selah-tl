@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Manginingning ang iyong mukha sa iyong lingkod, at turuan mo akong ⟨את⟩ ng iyong mga batas.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "האר",
+      "gloss": "manginingning"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sa iyong lingkod"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "at turuan mo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng iyong mga batas"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang iyong mga batas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:02.460568220Z",
+  "model": "glm-5.3"
+}

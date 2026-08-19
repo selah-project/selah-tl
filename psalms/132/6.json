@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Narito, narinig namin ito sa Efrata, natagpuan namin ito sa mga parang ng yaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "narinig namin ito"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "sa Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "natagpuan namin ito"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "sa mga parang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ng yaar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:25.826846417Z",
+  "model": "glm-5.3"
+}

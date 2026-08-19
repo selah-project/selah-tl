@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At inilagay ni Avraham ang ⟨את⟩ pitong batang-babaeng tupa ng kawan na hiwalay.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong batang-babaeng tupa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "batang-babaeng tupa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng kawan"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "na hiwalay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:30.743512337Z",
+  "model": "glm-5.3"
+}

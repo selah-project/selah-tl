@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ko sa iyo: Ipadala mo ang ⟨את⟩ aking anak upang maglingkod siya sa akin — tumanggi kang ipaalis siya; narito, ako ay papatay ng ⟨את⟩ iyong anak, ng iyong panganay.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipadala mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "at maglilingkod siya sa akin"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "at tumanggi ka"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "na ipadala siya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "papatay ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "iyong anak"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "iyong panganay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:00.219273528Z",
+  "model": "glm-5.3"
+}

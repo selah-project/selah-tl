@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kumuha si Moshe ng ⟨את⟩ langis ng pagpapahid, at pinahidan niya ang ⟨את⟩ tolda at ⟨את⟩ ang lahat ng nasa loob nito, at itinakda niya ang ⟨את⟩ mga ito bilang banal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha si"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langis ng pagpapahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "at pinahidan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng nasa loob nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "at itinakda niya bilang banal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:19.599658050Z",
+  "model": "glm-5.3"
+}

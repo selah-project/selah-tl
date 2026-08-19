@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nabuhay si Peleg na tatlumpung taon, at ipinanganak niya si ⟨את⟩ Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "at nabuhay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "si Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "si Reu"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:00.273520157Z",
+  "model": "glm-5.3"
+}

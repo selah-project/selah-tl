@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ang Humahabol ng mga dugo ay naalaala ⟨את⟩ kanila; hindi niya nakalimutan ang hiyaw ng mga api.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "humahabol"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mga dugo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalaala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nakalimutan"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "hiyaw"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mga api"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:57.542252403Z",
+  "model": "glm-5.3"
+}

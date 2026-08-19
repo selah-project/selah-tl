@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At inilapit niya ⟨את⟩ handog ng bayan, at kinuha niya ⟨את⟩ ⟨ang⟩ lalaking kambing na handog para sa kasalanan, na ukol sa bayan, at ikinatay niya ito at ginawa niya itong handog para sa kasalanan, gaya ng una.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog ng bayan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "handog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaking kambing"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "lalaking kambing"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "handog para sa kasalanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ukol sa bayan"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "at ikinatay niya ito"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "at ginawa niya itong handog para sa kasalanan"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "gaya ng una"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:53.829098275Z",
+  "model": "glm-5.3"
+}

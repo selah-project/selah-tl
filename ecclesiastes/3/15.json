@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang nangyari na ay matagal nang ⟨narito⟩, at ang mangyayari pa ay matagal nang nangyari; at hinahanap ng Elohim ang ⟨את⟩ hinahabol.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "matagal nang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨narito⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at ang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "matagal nang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "at ang Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "hinahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinahabol"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "hinahabol"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:24.315305601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Ang Elohim ng kanyang awa ang sasalubong sa akin nang maaga; ipakikita ng Elohim sa akin ang ⟨את⟩ aking mga kalaban.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyang awa"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "sasalubong sa akin nang maaga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ipakikita sa akin"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "sa aking mga kalaban"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:47.121356694Z",
+  "model": "glm-5.3"
+}

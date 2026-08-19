@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Pahingain ⟨ang inyong sarili⟩ at maunawaan na ako ang Elohim; ako ay itinataas sa mga bansa, ako ay itinataas sa lupa.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Pahingain"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "at maunawaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ako ay itinataas"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ako ay itinataas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:17.403438338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Mabuhay ang aking nefesh, at magpuri ⟨ito⟩ sa iyo, at ang iyong mga hatol ay umtulung sa akin.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "at magpuri sa iyo"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "at ang iyong mga hatol"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "umtulung sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:37.544092477Z",
+  "model": "glm-5.3"
+}

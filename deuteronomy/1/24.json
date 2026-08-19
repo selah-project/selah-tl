@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At tumalikod sila at umakyat sa kaburulan, at dumating sila hanggang sa libis ng Eshkol, at inespiya nila ⟨את⟩ ito.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "At tumalikod sila"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "sa kaburulan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "libis"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "at inespiya nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:01.025857134Z",
+  "model": "glm-5.3"
+}

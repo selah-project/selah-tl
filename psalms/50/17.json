@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At ikaw, kinamuhian mo ang turo, at hinagis mo ang aking mga salita sa likod mo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "kinamuhian mo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ang turo"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "at hinagis mo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa likod mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:47.177227744Z",
+  "model": "glm-5.3"
+}

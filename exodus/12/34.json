@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At dinala ng bayan ang ⟨את⟩ kanyang masa bago pa ito umalsa, ang kanilang mga sisidlang pagsasangkap na binalot sa kanilang mga damit sa ibabaw ng kanilang mga balikat.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "At dinala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang masa"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "kanyang masa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ito umalsa"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ang kanilang mga sisidlang pagsasangkap"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "na binalot"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "sa kanilang mga damit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "kanilang mga balikat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:12.345489860Z",
+  "model": "glm-5.3"
+}

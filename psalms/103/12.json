@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Kasing layo ng silangan sa kanluran, gayong inilayo niya sa atin ang ⟨את⟩ ⟨mga⟩ paglaban namin;",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "kasing layo ng"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "silangan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "sa kanluran"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "inilayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga paglaban namin"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mga paglaban namin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.557870837Z",
+  "model": "glm-5.3"
+}

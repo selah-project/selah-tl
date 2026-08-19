@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sumpa ang humihiga kasama ng asawa ng kanyang ama, sapagkat kanyang hinubaran ang kandungan ng kanyang ama; at sasabihin ng buong bayan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ang humihiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "kanyang hinubaran"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ang kandungan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:03.771523907Z",
+  "model": "glm-5.3"
+}

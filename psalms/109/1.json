@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sa Pangulo sa pangunguna. Tula ni David. Elohim ng aking papuri, huwag kang manahimik.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo sa pangunguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Tula"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "aking papuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "manahimik"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.602321478Z",
+  "model": "glm-5.3"
+}

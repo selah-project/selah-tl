@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Ang El na ⟨para⟩ sa atin ay El ng mga pagliligtas, at kay Yahweh, ⟨si⟩ Adonai, ⟨ang⟩ mga labasan mula sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "ng mga pagliligtas"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "at kay Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "mga labasan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:36.315605500Z",
+  "model": "glm-5.3"
+}

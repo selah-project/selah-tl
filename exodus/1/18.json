@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At tumawag ang hari ng Mitzrayim sa mga hilot, at sinabi niya sa kanila: Bakit ninyo ginawa ang bagay na ito, at pinabuhay ninyo ang ⟨את⟩ mga bata?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "sa mga hilot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "ginawa ninyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "at pinabuhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:57.985722862Z",
+  "model": "glm-5.3"
+}

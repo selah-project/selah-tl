@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mga anak ni Yafet: Gomer, at Magog, at Madai, at Yavan, at Tuval, at Meshech, at Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak ni"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "at Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "at Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "at Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "at Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "at Meshech"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "at Tiras"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:40.400680282Z",
+  "model": "glm-5.3"
+}

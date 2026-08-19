@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Bumangon nang maaga si Hizkiyahu na hari, at pinulupot niya ang ⟨את⟩ mga pangulo ng lungsod, at umakyat sa bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bumangon nang maaga"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinulupot\/tingsa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pangulo ng lungsod"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:03.765662719Z",
+  "model": "glm-5.3"
+}

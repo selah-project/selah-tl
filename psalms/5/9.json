@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Yahweh, patnubayan mo ako sa iyong katuwiran dahil sa aking mga kaaway; iwasto mo ang iyong landas sa harap ko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "patnubayan mo ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa iyong katuwiran"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "iwasto mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ko"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang iyong landas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:13.489121577Z",
+  "model": "glm-5.3"
+}

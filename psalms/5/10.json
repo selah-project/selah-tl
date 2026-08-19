@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sapagkat walang katatagan sa kanilang bibig; ang kanilang kaloob-loob ⟨ay⟩ pagkawasak, libingan na nakabukas ang kanilang lalamunan; kanilang pinapakinis ng kanilang dila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "sa kanilang bibig"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "katatagan"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ang kanilang kaloob-loob"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "pagkawasak"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "libingan"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "nakabukas"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "kanilang lalamunan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "kanilang dila"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "pinapakinis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:13.489351305Z",
+  "model": "glm-5.3"
+}

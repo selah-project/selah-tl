@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "At siya'y itaas nila sa kapisanan ng bayan, at sa pulong ng mga matatanda ay purihin nila siya.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "at siya'y itaas nila"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan ng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "at sa pulong (upuan) ng"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "purihin nila siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:59.516558994Z",
+  "model": "glm-5.3"
+}

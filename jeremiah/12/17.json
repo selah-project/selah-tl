@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ngunit kung hindi sila makinig, babunutin ko ang ⟨את⟩ bansang iyan — bubunutin at lilipulin, tungkolin ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "silá makinig"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "babunutin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bansang iyan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang bansa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyan"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "bubunutin"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "at lilipulin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tungkolin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:19:20.795133446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Dulo ng pananalita: ang lahat ay narinig na — si Elohim ay katakutan, at ang ⟨את⟩ kanyang mga utos ay ingatan, sapagkat ito ang kabuuan ng tao.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng pananalita"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ay narinig na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ay katakutan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanyang mga utos"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kanyang mga utos"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ay ingatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang kabuuan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:29.819686460Z",
+  "model": "glm-5.3"
+}

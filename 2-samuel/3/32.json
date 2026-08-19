@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At inilibing nila ang ⟨את⟩ Avner sa Chevron; at itinaas ng hari ang ⟨את⟩ kanyang tinig at umiyak sa libingan ni Avner, at umiyak ang buong bayan.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "At inilibing nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "si Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Chevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "at itinaas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang tinig"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ang kanyang tinig"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "libingan"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ni Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:47.854402805Z",
+  "model": "glm-5.3"
+}

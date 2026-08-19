@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ilagay mo, Yahweh, ang takot sa kanila; malalaman ng mga bansa na ⟨mga⟩ mamamatay-tao lamang sila. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Ilagay mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ang takot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "malalaman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mga mamamatay-tao (mortal na tao)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:23.574014044Z",
+  "model": "glm-5.3"
+}

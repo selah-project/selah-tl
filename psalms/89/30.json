@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At itatatag ko magpakailanman ang kaniyang binhi, at ang kaniyang trono na parang mga araw ng ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "at itatatag ko"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "kaniyang binhi"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "at kaniyang trono"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "parang mga araw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:59.187083548Z",
+  "model": "glm-5.3"
+}

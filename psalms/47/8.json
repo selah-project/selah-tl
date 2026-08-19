@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Sapagkat hari ng buong lupa si Elohim; magsiawit kayo na may unawa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magsiawit kayo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "na may unawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:14.319225747Z",
+  "model": "glm-5.3"
+}

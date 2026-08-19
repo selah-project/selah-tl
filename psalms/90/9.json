@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Sapagkat ang lahat ng mga araw nati'y lumipas sa iyong poot; natapos namin ang mga taon namin na parang isang buntong-hininga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mga araw natin"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "sa iyong poot"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "natapos namin"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "mga taon namin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "isang buntong-hininga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:25.089310803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Natakpan ng lilim nito ang mga bundok, at ang mga sangang-dahon nito ay mga sedro ng El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "natakpan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "lilim nito"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "mga sangang-dahon nito"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:40.839195808Z",
+  "model": "glm-5.3"
+}

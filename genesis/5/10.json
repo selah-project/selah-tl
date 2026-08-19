@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At namuhay si Enosh, pagkatapos ng pagkaanak niya sa ⟨את⟩ Kenan, na limangpu't-limang taon at walong daang taon, at nagkaanak siya ng mga anak na lalaki at babae.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "namuhay"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "si Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pagkaanak niya sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pu't-limang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "at walong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagkaanak siya ng"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak na lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "at babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:55.141335545Z",
+  "model": "glm-5.3"
+}

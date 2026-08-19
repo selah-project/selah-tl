@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 131,
+  "translation": "Umasa ka, Yisrael, kay Yahweh, mula ngayon at magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Umasa ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mula ngayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:37.467449990Z",
+  "model": "glm-5.3"
+}

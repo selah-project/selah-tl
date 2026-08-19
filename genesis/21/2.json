@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At naglihi at nanganak si Sarah kay Avraham ng ⟨את⟩ isang anak na lalaki, sa katandaan niya, sa takdang panahon na sinabi ng ⟨את⟩ Elohim sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "At naglihi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "sa katandaan niya"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sa takdang panahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:09.355133419Z",
+  "model": "glm-5.3"
+}

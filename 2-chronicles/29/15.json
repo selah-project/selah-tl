@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Nagtipon sila ng ⟨את⟩ kanilang mga kapatid, nagpagana sa sarili, at pumasok ayon sa utos ng hari, sa mga salita ni Yahweh, upang linisin ang bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "nagtipon sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kapatid"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "kanilang mga kapatid"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "nagpagana sa sarili"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "ayon sa utos ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sa mga salita ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "upang linisin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:02.868921868Z",
+  "model": "glm-5.3"
+}

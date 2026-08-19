@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At papalibutin ka ng kapisanan ng mga bansa, at sa ibabaw nito sa kaitaasan, magbalik ka.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "at kapisanan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "papalibitin ka"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "at sa ibabaw nito"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kaitaasan"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "magbalik ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:47.654776146Z",
+  "model": "glm-5.3"
+}

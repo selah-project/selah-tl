@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At naging gabi, at naging umaga — pangatlong araw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "pangatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:44.566189413Z",
+  "model": "glm-5.3"
+}

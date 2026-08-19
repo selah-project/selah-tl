@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Shallum ay nagkaanak ng ⟨את⟩ Yekamyah, at si Yekamyah ay nagkaanak ng ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "At si Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "at si Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:47.254928018Z",
+  "model": "glm-5.3"
+}

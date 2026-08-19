@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Narinig ni Yahweh ang aking pakiusap; ang aking panalangin ay tatanggapin ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "narinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ang aking pakiusap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tatanggapin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:04.655887179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi niya: Katawagin ang kanyang pangalan na Lo-Ammi, sapagkat kayo ay hindi bayan Ko, at Ako ay hindi magiging ⟨is⟩ para sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "katawagin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Lo-Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bayan Ko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "at Ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:55:43.488302130Z",
+  "model": "glm-5.3"
+}

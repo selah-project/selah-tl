@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nagtaksil sila sa Elohim ng mga ama nila, at naghiwalay sa kannilang… nag-landi sila sa mga dios ng mga bayan ng ⟨ang⟩ lupain, na winasak ng Elohim mula sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "nagtaksil sila"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "sa Elohim ng"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "mga ama nila"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "at naglandi sila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod ng \/ kay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios ng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mga bayan ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "mula sa harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:19.367087315Z",
+  "model": "glm-5.3"
+}

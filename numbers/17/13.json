@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tumayo siya sa pagitan ng ⟨את⟩ mga patay at sa pagitan ng ⟨את⟩ mga buhay, at napigil ang salot.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumayo siya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "⟨את⟩ mga patay",
+      "marks": "mga patay"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "⟨את⟩ mga buhay",
+      "marks": "mga buhay"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "at napigil"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ang salot"
+    }
+  ],
+  "timestamp": "2026-08-19T15:10:09.476832620Z",
+  "model": "glm-5.3"
+}

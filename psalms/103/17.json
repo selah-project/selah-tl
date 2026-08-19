@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "At ang kagandahang-loob ni Yahweh ay mula sa kaligayligan hanggang sa kaligayligan, sa mga natatakot sa kanya, at ang katuwiranan niya ay sa mga anak ng mga anak.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "At ang kagandahang-loob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mula sa kaligayligan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kaligayligan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga natatakot sa kanya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "at ang katuwiranan niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ng mga anak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:19.798737519Z",
+  "model": "glm-5.3"
+}

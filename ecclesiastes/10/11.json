@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kung kumagat ang ahas nang walang bulong, walang pakinabang para sa may-ari ng dila.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "kumagat"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ang ahas"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "nang walang"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "bulong enkanto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "para sa may-ari"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ng dila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:21.161730969Z",
+  "model": "glm-5.3"
+}

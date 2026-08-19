@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sa pook na pinagkatayan nila ng ⟨את⟩ ha-ola, doon katayin ang ⟨את⟩ ha-asham; at ang ⟨את⟩ dugo nito ay wiwisikan sa palibot ng altar.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Sa pook"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "pinagkatayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ha-ola (handog na sunog)"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "katayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ha-asham (handog ng sala)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dugo nito"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ay wiwisikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:30.888508222Z",
+  "model": "glm-5.3"
+}

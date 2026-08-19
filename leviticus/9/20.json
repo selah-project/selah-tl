@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At inilagay nila ang ⟨את⟩ mga taba sa ⟨ang⟩ mga dibdib, at pinagpusok niya ang mga taba sa ⟨ang⟩ altar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga taba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mga taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mga dibdib"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "at pinagpusok niya"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mga taba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa ⟨ang⟩ altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:02.878801740Z",
+  "model": "glm-5.3"
+}

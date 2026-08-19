@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sapagkat pitong-pito ang paghihiganti kay Kayin, ngunit kay Lemekh pitumpu't pito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pitong-pito"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "paghihiganti"
+    },
+    {
+      "surface": "קין",
+      "gloss": "kay Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ngunit kay Lemekh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpu"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "at pito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:00.549007991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At pawawangisan ng kohen ang ⟨את⟩ bahaging-alaala nito — mula sa dinurog na buto nito at mula sa langis nito — kasama ang buong insenso nito: handog na apoy para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "at pawawangisan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahaging-alaala nito"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "bahaging-alaala nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mula sa dinurog na buto nito"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "at mula sa langis nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "insenso nito"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na apoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:00.292801786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At pagkatapos nito, binasa ang ⟨את⟩ lahat ng mga salita ng Torah, ang pagpapala at ang sumpa, ayon sa lahat ng nakasulat sa aklat ng Torah.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "At pagkatapos ng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga salita ng Torah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ng Torah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang pagpapala"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "at ang sumpa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat ng"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa aklat ng"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:39:53.483975466Z",
+  "model": "glm-5.3"
+}

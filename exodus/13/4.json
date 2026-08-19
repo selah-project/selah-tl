@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Sa araw na ito kayo ay lumalabas, sa buwan ng Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Sa araw na ito"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ay lumalabas"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ng Abib"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:22.039321535Z",
+  "model": "glm-5.3"
+}

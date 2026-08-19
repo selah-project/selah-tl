@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Kunin mo mula ⟨את⟩ kanila, at maging mga ito'y upang maglingkod sa ⟨את⟩ paglilingkod sa tolda ng kapisanan; at ibibigay mo ang ⟨את⟩ mga ito sa mga Levita, bawat lalake ayon sa kanyang paglilingkod.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kunin mo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ mula sa kanila",
+      "marks": "mula sa kanila"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "at maging mga ito"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang maglingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paglilingkod"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "paglilingkod"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "at ibibigay mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ang ⟨את⟩ mga ito",
+      "marks": "mga ito (sa mga Levita)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalake"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "kanyang paglilingkod"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:56.203148116Z",
+  "model": "glm-5.3"
+}

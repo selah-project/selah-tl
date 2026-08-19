@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Mga langit, umawit kayo, at ikaw, lupa, magalak; mga bundok, sumabog kayo ng pag-awit: sapagkat nagliwanag sa kalungkutan si Yahweh para sa kaniyang bayan, at sa kaniyang mga api ay maawa siya.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "umawit kayo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "at magalak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "sumabog kayo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ng pag-awit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nagliwanag sa kalungkutan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "at kaniyang mga api"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "maawa siya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:55.578018029Z",
+  "model": "glm-5.3"
+}

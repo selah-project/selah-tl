@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sino ang marunong, at mauunawaan niya ang mga ito? Sino ang may pag-uunawa, at makikilala niya ang mga ito? Sapagkat tuwid ang mga daan ni Yahweh, at ang mga matuwid ay lalakad sa mga iyon, ngunit ang mga suwail ay matitigil sa mga iyon.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ang marunong"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at mauunawaan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ang may pag-uunawa"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "at makikilala ang mga ito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tuwid"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga daan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "at ang mga matuwid"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "lalakad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa mga iyon"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "ngunit ang mga suwail"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matitigil"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa mga iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:52.169789809Z",
+  "model": "glm-5.3"
+}

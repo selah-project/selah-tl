@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Ikaw — nakikilala mo ang aking pagkaupo at ang aking pagtindig, binabatid mo ang aking iniisip mula sa malayo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakikilala mo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ang aking pagkaupo"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "at ang aking pagtindig"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "binabatid mo"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ang aking iniisip"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "mula sa malayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:07.578998221Z",
+  "model": "glm-5.3"
+}

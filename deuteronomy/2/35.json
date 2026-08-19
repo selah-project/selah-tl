@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Lamang ang mga hayop ay dinambong namin para sa ⟨ating⟩ sarili, at ang samsam ng mga lungsod na binihag namin.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang mga hayop"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "dinambong namin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "at ang samsam"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ng mga lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "binihag namin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:54.963128359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nangyari pagkatapos nito, hinampas ng puso ni David si ⟨את⟩ kanya, dahil pinutol niya ang ⟨את⟩ laylay ng balabal ni Shaúl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nito"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hinampas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si David (ang hinampasan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "pinutol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laylay"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "laylay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:35.703531141Z",
+  "model": "glm-5.3"
+}

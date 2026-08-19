@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sa Assyria — tamok ng aking poot, at panuntok ⟨ito⟩ sa kanilang kamay, ang aking galit!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyria"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tamok"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ng aking poot"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "at panuntok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa kanilang kamay"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ang aking galit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:56.100624860Z",
+  "model": "glm-5.3"
+}

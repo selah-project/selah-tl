@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kung ikubli ng bayan ng lupain ang kanilang mga mata ⟨את⟩ mula sa taong iyon, sa kanyang pagbibigay ng kanyang binhi kay Molech na hindi nila siya papatayin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "talagang ikubli"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "magkukubli sila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "kanilang mga mata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "sa kanyang pagbibigay"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ng kanyang binhi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kay Molech"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "upang hindi"
+    },
+    {
+      "surface": "המית",
+      "gloss": "patayin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "siya ⟨את⟩",
+      "marks": "siya (ang tao)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:50.275713371Z",
+  "model": "glm-5.3"
+}

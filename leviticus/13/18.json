@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At kung may laman na may sa balat nito ay Sugat \/ bukol, at ito'y gumaling,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "At kung may laman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "may"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "sa balat nito"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bukol \/ sugat na nanunuyo"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "at ito'y gumaling"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:05.673360795Z",
+  "model": "glm-5.3"
+}

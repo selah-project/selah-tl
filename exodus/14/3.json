@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sasabihin ni Paraoh tungkol sa mga anak ng Israel: Nabalisa sila sa lupain, isinara sa kanila ang ilang.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tungkol sa mga anak ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "nabalisa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "isinara"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ang ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:38.558680904Z",
+  "model": "glm-5.3"
+}

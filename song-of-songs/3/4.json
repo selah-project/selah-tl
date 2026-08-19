@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Bihira pa lamang nang makalampas ako sa kanila, nang matagpuan ko ang ⟨את⟩ minamahal ng aking kaluluwa; hinawakan ko siya at hindi ko siya binitawan, hanggang sa ipinasok ko siya sa bahay ng aking ina, at sa silid ng nagbuntis sa akin.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "bihira pa lamang"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "nang makalampas ako"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "natagpuan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minamahal ng aking kaluluwa"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "minamahal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking kaluluwa"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "hinawakan ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "ko siya binitawan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ipinasok ko siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ng aking ina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "silid"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "ng nagbuntis sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:04.268399040Z",
+  "model": "glm-5.3"
+}

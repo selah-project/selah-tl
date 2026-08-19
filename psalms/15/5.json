@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang kanyang pilak ay hindi ibinibigay sa tubò, at suhol laban sa inosente ay hindi kinukuha; ang gumagawa ng mga bagay na ito ay hindi magugulong magpakailanman.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "ang kanyang pilak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "sa tubò"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "at suhol"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosente"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinukuha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga bagay na ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "magugulong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:41.179347153Z",
+  "model": "glm-5.3"
+}

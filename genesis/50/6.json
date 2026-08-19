@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At sinabi ni Paraoh: Umakyat ka at ilibing mo ang ⟨את⟩ iyong ama, kung paanong pinananumpa niya sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umakyat ka"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "at ilibing mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong ama"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "iyong ama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "pinananumpa niya sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:27.605940402Z",
+  "model": "glm-5.3"
+}

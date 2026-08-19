@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kumuha siya ng ⟨את⟩ buong taba na nasa ⟨את⟩ bituka, at ⟨את⟩ usbong ng atay, at ⟨את⟩ dalawang bato, at ⟨את⟩ kanilang taba; at pinasingawan ni Moshe ang mga ito sa altar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "usbong ng atay"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "usbong"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ng atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "dalawang bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang taba"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "kanilang taba"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "at pinasingawan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:57.418941347Z",
+  "model": "glm-5.3"
+}

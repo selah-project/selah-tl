@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kaya't dahil sa inyo, hinadlangan ng ⟨mga⟩ langit ang hamog, at hinadlangan ng lupa ang kanyang ani.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "hinadlangan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "ang hamog"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "at ang lupa"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "hinadlangan"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ang kanyang ani"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:21.522817050Z",
+  "model": "glm-5.3"
+}

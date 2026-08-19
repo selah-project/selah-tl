@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Huminto kayo at mangahas; mang Bulag kayo at mabulag; lango kayo, ngunit hindi sa alak; matumba kayo, ngunit hindi sa maiinom na inumin.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Huminto kayo at mangahas"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "at mangahas kayo"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "mang-Bulag kayo (manghimala\/magbulag-bulag)"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "at mabulag"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "lango kayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "sa alak"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "matumba kayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sa maiinom na inumin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:35.709310757Z",
+  "model": "glm-5.3"
+}

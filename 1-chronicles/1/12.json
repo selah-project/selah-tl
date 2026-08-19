@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang ⟨את⟩ mga Pathrusim, at ang ⟨את⟩ mga Casluchim — mula roon lumabas ang mga Peleshet — at ang ⟨את⟩ mga Kaphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "mga Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "mga Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Peleshet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga Kaphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "mga Kaphtorim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:21.087419103Z",
+  "model": "glm-5.3"
+}

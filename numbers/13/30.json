@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At pinatahimik ni Kalev ang ⟨את⟩ bayan kay Moshe, at nagsabi: Aakyatin natin ito at pag-aariin natin ⟨את⟩ niya, sapagkat kaya nating magapi ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "at pinatahimik"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "si Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umaakyat"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "aakyatin natin"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "at pag-aariin natin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niya (ang lupa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "nating magapi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:11.792247497Z",
+  "model": "glm-5.3"
+}

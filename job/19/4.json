@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At kung totoo ring nagkamali ako, sa ⟨את⟩ akin nananahan ang aking pagkakamali.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "at kung totoo ring"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "totoo"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "nagkamali ako"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akin",
+      "marks": "sa akin"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nananahan"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "ang aking pagkakamali"
+    }
+  ],
+  "timestamp": "2026-08-19T18:49:48.603238682Z",
+  "model": "glm-5.3"
+}

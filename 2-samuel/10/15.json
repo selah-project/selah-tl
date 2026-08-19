@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Nakita ng Aram na napatigo sila sa harap ng Yisra'el, at nagtipon silang magkakasama.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "napatigo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "at nagtipon"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nang magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:36.358765487Z",
+  "model": "glm-5.3"
+}

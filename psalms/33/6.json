@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Sa salita ni Yahweh ginawa ⟨ang⟩ mga langit, at sa hininga ng kanyang bibig ang lahat ng hukbo nila.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "sa salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "at sa hininga"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ng kanyang bibig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ng hukbo nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:45.604791450Z",
+  "model": "glm-5.3"
+}

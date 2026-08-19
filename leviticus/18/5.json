@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ingatan ninyo ang ⟨את⟩ aking mga tuntunin at ang ⟨את⟩ aking mga hatol, na gagawin ng ⟨את⟩ sila ang tao at mabubuhay sa pamamagitan nila; ako ay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "at ingatan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga tuntunin"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "aking mga tuntunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking mga hatol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "aking mga hatol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "at mabubuhay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:52.584432102Z",
+  "model": "glm-5.3"
+}

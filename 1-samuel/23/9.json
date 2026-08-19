@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At nalaman ni David na si Saul ay nagtataboy nang palihim ng kasamaan laban sa kanya, at sinabi niya kay Evyatar na kohen: Ilapit mo dito ang ephod.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "at nalaman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Saul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "nagtataboy nang palihim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "ilapit mo dito"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ang ephod"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:31.720084722Z",
+  "model": "glm-5.3"
+}

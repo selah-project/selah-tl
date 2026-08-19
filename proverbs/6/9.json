@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Hanggang kailan, o tamad, ang iyong paghiga? Hanggang kailan kang babangon mula sa iyong pagtulog?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hanggang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "o tamad"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "maghiga ka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "babangon ka"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "sa iyong pagtulog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:39.960754037Z",
+  "model": "glm-5.3"
+}

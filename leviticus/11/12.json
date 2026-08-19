@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang lahat na walang palikpik at kaliskis sa mga tubig — karumal-dumal ito sa inyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "palikpik"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "at kaliskis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:32.724233917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At gumawa siya sa ⟨ang⟩ bahay ng kabanalan ng mga kabanalan ng dalawang kerubin, gawa ng mga inukit, at binalutan nila ang ⟨את⟩ mga iyon ng ginto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa siya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ng kabanalan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ng mga kabanalan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ng mga kerubin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "ng mga inukit"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "at binalutan nila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga kerubin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:29.588535649Z",
+  "model": "glm-5.3"
+}

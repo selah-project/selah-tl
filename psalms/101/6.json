@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 101,
+  "translation": "Ang aking mga mata ay sa mga tapat sa lupain, upang tumira silang kasama ko; ang lumalakad sa daang walang dungis, siya ang maglilingkod sa akin.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mga mata"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sa mga tapat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "upang tumira"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kasama ko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ang lumalakad"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang dungis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ang maglilingkod sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:12.341711119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sa kanilang kasamaan pinasisaya nila ang hari, at sa kanilang mga kasinungalingan ang mga panginoon.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "sa kanilang kasamaan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "pinasisaya nila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "at sa kanilang mga kasinungalingan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:34.594516455Z",
+  "model": "glm-5.3"
+}

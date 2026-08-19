@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sapagkat nakita ni Yahweh ang ⟨את⟩ kahirapan ng Israel — napakalait — at walang natitirang bihag at walang natitirang pinalaya, at walang tagatulong para sa Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahirapan ng Israel"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kahirapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "napakalait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "at walang natitirang"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "bihag"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "at walang natitirang"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "pinalaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tagatulong"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:47:03.495945092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Si Yahweh ang aking lakas at aking kalasag; sa kanya nagtiwala ang aking puso, at ako'y tinulungan; kaya't nagagalak nang lubos ang aking puso, at sa aking awit ay pasasalamatan ko siya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "at aking kalasag"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagtiwala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "at ako'y tinulungan"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "kaya't nagagalak nang lubos"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "at sa aking awit"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "pasasalamatan ko siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.687146523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Sapagkat babalik sa katuwiran ang hatol, at matapos iyon ⟨ay sasama⟩ ang lahat ng matuwid sa puso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hatol"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "at matapos niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ng matutuwid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:55.837606925Z",
+  "model": "glm-5.3"
+}

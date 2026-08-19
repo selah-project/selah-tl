@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Siya ang nagtayo ng ⟨את⟩ mataas na tarangkahan ng bahay ni Yahweh, at sa pader ng Ophel nagtayo siya nang labis.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataas na tarangkahan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "at sa pader"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ng Ophel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nang labis"
+    }
+  ],
+  "timestamp": "2026-08-19T19:57:10.232490832Z",
+  "model": "glm-5.3"
+}

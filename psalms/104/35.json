@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Mawala na ang mga makasalanan mula sa ⟨ang⟩ lupa, at ng mga masama ay wala nang ⟨mga⟩ iyon. Ipagdiwang mo, O aking kaluluwa, si ⟨את⟩ Yahweh. Magnilay-nilay sa kanya, O mga banal. Luwalhati sa Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "mawala na \/ magwakas"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ang mga makasalanan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "at ang mga masama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na sila"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ipagdiwang mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "O aking kaluluwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "magnilay-nilay sa kanya, O mga banal"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Luwalhati sa Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:05.971180011Z",
+  "model": "glm-5.3"
+}

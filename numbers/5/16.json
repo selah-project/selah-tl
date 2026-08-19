@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ilalapit ng saserdote ⟨את⟩ siya, at ipatatayo siya sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "at ilalapit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang babae)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "at ipatatayo siya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:32.406634299Z",
+  "model": "glm-5.3"
+}

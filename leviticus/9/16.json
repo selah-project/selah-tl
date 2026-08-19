@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At inilapit niya ⟨את⟩ handog na susunugin, at ginawa niya ito ayon sa itinakdang kaugalian.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na susunugin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "at ginawa niya ito"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa itinakdang kaugalian"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:53.829218129Z",
+  "model": "glm-5.3"
+}

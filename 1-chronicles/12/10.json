@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Si Ezer ang puno, si Ovadyah ang pangalawa, si Eliav ang pangatlo.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang puno"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ang pangatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:39.735010542Z",
+  "model": "glm-5.3"
+}

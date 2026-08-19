@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At tumayo ang mga kawal, bawat isa at ang kaniyang mga sandata sa kaniyang kamay, mula sa kanang balikat ng bahay hanggang sa kaliwang balikat ng bahay, sa tabi ng dambana at ng bahay, sa paligid ng hari.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ang mga kawal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "at ang kaniyang mga sandata"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kaniyang kamay"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "mula sa balikat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "balikat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "kaliwa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "at sa bahay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:01.750413775Z",
+  "model": "glm-5.3"
+}

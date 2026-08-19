@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Sapagkat nagpayuhan sila ng ⟨isang⟩ puso nang magkakaisa; laban sa iyo ay magtatag ⟨ng⟩ tipan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagpayuhan sila"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ng puso"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakaisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ay magtatag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.844904793Z",
+  "model": "glm-5.3"
+}

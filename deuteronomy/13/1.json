@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "⟨את⟩ buong salita na aking iniuutos ⟨את⟩ sa inyo, ayon ang ⟨את⟩ inyong iingatan, upang gawin; huwag kayong magdaragdag dito at huwag bawasan mula rito.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iniuutos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inyong iingatan"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "inyong iingatan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "magdaragdag"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "bawasan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:41.729314675Z",
+  "model": "glm-5.3"
+}

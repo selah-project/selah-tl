@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At dininig ng hari ng Ashur ang kaniyang kahilingan, at umahon ang hari ng Ashur patungo sa Damasek, at dinakip niya ito at ipinatapon ⟨ang⟩ mga taga roon sa Kir, at si Retsin ay pinatay niya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "atinigin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "umaahon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "dinakip ito"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ipinatapon"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pinatay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:24.401689509Z",
+  "model": "glm-5.3"
+}

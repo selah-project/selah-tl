@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Mga ibon ng ⟨mga⟩ langit, at mga isda ng dagat, ang lumilipas sa mga landas ng mga dagat.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "mga ibon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "at mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ng dagat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ang lumilipas"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "sa mga landas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:26.492701080Z",
+  "model": "glm-5.3"
+}

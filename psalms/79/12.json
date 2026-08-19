@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "At iganti mo sa aming mga kapitbahay nang makapito ang kanilang kahihiyan sa kanilang sariling kandungan — ang kapurihang kanilang Winasak sa iyo, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "at iganti mo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa aming mga kapitbahay"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "nang makapito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "kanilang kandungan"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ang kanilang kahihiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "kanilang winasak sa iyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:42.826984215Z",
+  "model": "glm-5.3"
+}

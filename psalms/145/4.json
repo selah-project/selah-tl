@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Salin-salin ng lahi, sasambitin ng mga tao ang ⟨את⟩ iyong mga gawa, at ang iyong mga gawa-kagitingan ay ipapahayag nila.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "lahi\/salin ng lahi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa susunod na lahi"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "sasambitin"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iyong mga gawa"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "at iyong mga gawa-kagitingan"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ipapahayag nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:31.356564949Z",
+  "model": "glm-5.3"
+}

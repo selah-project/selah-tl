@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 138,
+  "translation": "Kay David. Papurihan kita nang buong puso ko; sa harap ng ⟨אלהים⟩ na mga Elohim, sasaliwan kita.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Papurihan kita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "puso ko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "sasaliwan kita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:11.272995710Z",
+  "model": "glm-5.3"
+}

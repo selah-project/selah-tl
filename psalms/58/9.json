@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "Tulad ng suso na natutunaw habang ⟨siya⟩ lumalakad, tulad ng ipinanganak na patay ng ⟨isang⟩ babae, na hindi nakakita sa araw — ay hindi nila makikita ang araw.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "tulad ng"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "suso"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "natutunaw"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ipinanganak na patay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "babae"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi (kailanman)"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:20.829712247Z",
+  "model": "glm-5.3"
+}

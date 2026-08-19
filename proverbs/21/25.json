@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang pita ng tamad ay papatayin siya, sapagkat tumanggi ang kaniyang mga kamay na gumawa.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Ang pita"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ng tamad"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "ay papatayin siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "tumanggi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ang kaniyang mga kamay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gumawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:20.927809463Z",
+  "model": "glm-5.3"
+}

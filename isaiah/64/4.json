@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Sumalubong ka ⟨את⟩ sa nagagalak at gumagawa ng katuwiran; sa iyong mga landas akoaalala ka nila. Ngunit ikaw, nagalit ka at nagkasala tayo; sa mga ito ⟨ay⟩ magpakailanman, at maliligtas tayo.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "sumalubong ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nagagalak"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nagagalak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumagawa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "sa iyong mga landas"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "naaalala ka nila"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "nagalit ka"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "at nagkasala tayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "at maliligtas tayo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.656703521Z",
+  "model": "glm-5.3"
+}

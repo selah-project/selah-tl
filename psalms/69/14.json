@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Ngunit ako — ang aking panalangin ay sa iyo, Yahweh, sa panahon ng ⟨kaluguran⟩, Elohim; sa kasaganaan ng iyong kagandahang-loob, sagutin mo ako sa katotohanan ng iyong kaligtasan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "aking panalangin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kaluguran\/pagtanggap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ng iyong kagandahang-loob"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa katotohanan"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ng iyong kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:01.557949632Z",
+  "model": "glm-5.3"
+}

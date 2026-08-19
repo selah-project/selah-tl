@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ang mga uwak ay nagdadala sa kaniya ng tinapay at karne sa umaga, at tinapay at karne sa gabi; at mula sa batis siya umiinom.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "at ang mga uwak"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "nagdadala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "at karne"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "at tinapay"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "at karne"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "umiinom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:41.263294084Z",
+  "model": "glm-5.3"
+}

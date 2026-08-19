@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nagalit si Yahweh kay Shelomo, dahil napayo ang kaniyang puso palayo kay Yahweh, Elohim ng Israel, na nagpakita sa kaniya nang dalawang ulit.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "nagalit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "kay Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "napayo"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ang kaniyang puso"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "palayo kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "na nagpakita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "nang dalawang ulit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:38.801869386Z",
+  "model": "glm-5.3"
+}

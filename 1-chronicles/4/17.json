@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang mga anak ni Ezrah: Yeter, at Mered, at Efer, at Yalon; at ⟨siya⟩ ay nagdalang-taο ⟨את⟩ Miryam at ⟨את⟩ Shamay at ⟨את⟩ Yishbach, ama ng Esh'temoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "at Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "at Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "at Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "at nagdalang-tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ng"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esh'temoa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:46.719170176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At naging ama si Attai ⟨את⟩ ni Natan, at si Natan naging ama ⟨את⟩ ni Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "at si Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at si Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "si Zabad"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:34.265690285Z",
+  "model": "glm-5.3"
+}

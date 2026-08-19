@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Pinagpala ka sa iyong pagpasok, at pinagpala ka sa iyong paglabas.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka (ikaw)"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "sa iyong pagpasok"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "at [ikaw ay] pinagpala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka (ikaw)"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "sa iyong paglabas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:03.913481039Z",
+  "model": "glm-5.3"
+}

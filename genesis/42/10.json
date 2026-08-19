@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi nila sa kaniya: Hindi, poon namin, kundi ang mga alipin mo ay naparito upang bumili ng pagkain.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "poon namin"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ang mga alipin mo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "naparito"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "upang bumili"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ng pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:16.860523002Z",
+  "model": "glm-5.3"
+}

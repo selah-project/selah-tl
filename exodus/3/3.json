@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Moshe: Liliko ako ⟨nga⟩ at titingnan ko ang ⟨את⟩ malaking pangyayaring ito — bakit hindi nasusunog ang sachâ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Liliko ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "at titingnan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaking pangyayaring ito"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ang pangyayari"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "nasusunog"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ang sachâ"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:36.379198463Z",
+  "model": "glm-5.3"
+}

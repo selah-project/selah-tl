@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Nagtipon ang mga Pelishteo ng ⟨את⟩ lahat ng kanilang mga kampo sa Apek, at ang Israel ay nagkampo sa bukal na nasa Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahi ng kanilang mga kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ng kanilang mga kampo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sa Apek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "at ang Israel"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa bukal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "nasa Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:12.136388921Z",
+  "model": "glm-5.3"
+}

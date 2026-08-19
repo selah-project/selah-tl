@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tumalikod siya mula sa kanya palapit sa isa pang tao, at nagsalita siya ayon sa salitang ito; at sumagot sa kanya ang bayan ng salita, ayon sa unang salita.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "at tumalikod"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "mula sa kanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "palapit sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "isa pang tao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itong"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "at sumagot sa kanya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng salita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ang una"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:30.617633519Z",
+  "model": "glm-5.3"
+}

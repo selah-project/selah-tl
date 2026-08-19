@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ang ⟨את⟩ kanilang mga kawan at ang ⟨את⟩ kanilang mga baka at ang ⟨את⟩ kanilang mga asno, at ang ⟨את⟩ lahat ng nasa lungsod at ang ⟨את⟩ lahat ng nasa bukid, ay kinuha nila.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kawan"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kanilang mga kawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga baka"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "kanilang mga baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga asno"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kanilang mga asno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng nasa lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nasa lungsod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng nasa bukid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nasa bukid"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ay kinuha nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:17.970639397Z",
+  "model": "glm-5.3"
+}

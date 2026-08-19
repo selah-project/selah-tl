@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Pakinggan mo, Yahweh, ang aking panalangin, at intindihin mo ang tinig ng aking mga pamamanalangin.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "at intindinin mo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tinig ng"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "aking mga pamamanalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:31.951164324Z",
+  "model": "glm-5.3"
+}

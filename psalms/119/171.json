@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Bubulwak ang aking mga labi ng papuri, sapagkat itinuturo mo sa akin ang iyong mga batas.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "bubulwak"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang aking mga labi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ng papuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "itinuturo mo sa akin"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang iyong mga batas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:33.492064816Z",
+  "model": "glm-5.3"
+}

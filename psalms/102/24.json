@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Pinaulan niya ang aking lakas sa daan, pinaikli ang aking mga araw.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "pinaulan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "pinaikli"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang aking mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:54.259790118Z",
+  "model": "glm-5.3"
+}

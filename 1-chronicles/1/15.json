@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "at ⟨את⟩ mga Hibeo, at ⟨את⟩ mga Arkeo, at ⟨את⟩ mga Sineo,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Hibeo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "mga Hibeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Arkeo"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "mga Arkeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Sineo"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "mga Sineo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:02.962549163Z",
+  "model": "glm-5.3"
+}

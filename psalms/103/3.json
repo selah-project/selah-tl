@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Na nagpapatawad ng lahat ng iyong kasalanan, nagpapagaling ng lahat ng iyong karamdaman.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Na nagpapatawad"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "iyong kasalanan"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "nagpapagaling"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "iyong karamdaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:57.419325532Z",
+  "model": "glm-5.3"
+}

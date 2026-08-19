@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi niya: Narito, narinig kong may butil-grano sa Mitzrayim; bumaba kayo roon at bumili kayo para sa atin mula roon, upang mabuhay tayo at hindi mamatay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "narinig ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "butil-grano"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "bumaba kayo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "at bumili kayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "at mabuhay tayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:21.021930925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Mabigat ang bato at pasanin ang buhangin, ngunit ang poot ng hangal ay mabigat kaysa sa dalawang mga iyan.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Mabigat"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "at pasanin"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ang buhangin"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ngunit ang poot"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ng hangal"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kaysa sa dalawang mga iyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:07.150927268Z",
+  "model": "glm-5.3"
+}

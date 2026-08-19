@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang pangamba sa tao ay naglalagay ng bitag, ngunit ang nagtitiwala kay Yahweh ay itinataas sa kaligtasan.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "pangamba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "naglalagay"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ng bitag"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ngunit ang nagtitiwala"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "ay itinataas sa kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:50.538068581Z",
+  "model": "glm-5.3"
+}

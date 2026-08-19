@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi sa bayan: Magdaraan kayo at iikot ninyo ang ⟨את⟩ lungsod, at ang mga armado ay dadaan sa harapan ng kaban ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "magdaraan kayo"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "at iikot ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "at ang mga armado"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "dadaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:34.493985373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at iniutos ni Moshe sa ⟨את⟩ mga Levita, mga tagapagdala ng kaban ng tipanan ni Yahweh, na nagsasaying:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga tagapagdala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ng tipanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:08.650357147Z",
+  "model": "glm-5.3"
+}

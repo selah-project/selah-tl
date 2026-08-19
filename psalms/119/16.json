@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sa iyong mga tuntunin ako magagalak, hindi ko malilimutan ang iyong salita.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "sa iyong mga tuntunin"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ako magagalak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ko malilimutan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang iyong salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:18.819673843Z",
+  "model": "glm-5.3"
+}

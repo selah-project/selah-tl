@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At dadalhin mo sa iyong ama, at kakain siya, upang ikanyang pagpalain bago siya mamatay.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "At dadalhin mo"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "sa iyong ama"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at kakain siya"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "upang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ka niyang pagpalain"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "bago"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "siya mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:25.675047023Z",
+  "model": "glm-5.3"
+}

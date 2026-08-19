@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Mabuti ba na siya ay magsisiyasat sa ⟨את⟩ inyo, o kung tulad ng paghamak sa taong-mortal, siya ba ay inohamak ninyo?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Mabuti ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "magsisiyasat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "tulad ng paghamak"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "sa taong-mortal"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "inohamak ninyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:47.523787028Z",
+  "model": "glm-5.3"
+}

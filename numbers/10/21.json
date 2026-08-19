@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At naglakad ang mga Kohatita, mga tagapagdala ng santuwaryo; at itinayo ng iba ang ⟨את⟩ tolda hanggang sa kanilang pagdating.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "naglakad"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ang mga Kohatita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga tagapagdala"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ng santuwaryo"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "at itinayo ng iba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kanilang pagdating"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:01.250275535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Yahweh ng mga hukbo, Elohim ng Yisrael, na nakaupo ⟨sa⟩ mga kerubim, ikaw ⟨ang⟩ Elohim, nag-iisa ka lamang, sa lahat ng mga kaharian ng lupa; ikaw ang gumawa ng ⟨את⟩ mga langit at ng ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "na nakaupo"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "⟨sa⟩ mga kerubim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nag-iisa ka lamang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga kaharian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang gumawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:04.289302195Z",
+  "model": "glm-5.3"
+}

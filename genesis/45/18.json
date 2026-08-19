@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At kunin ninyo ang ⟨את⟩ inyong ama at ang ⟨את⟩ inyong mga sambahayan, at pumasok kayo sa akin, at ibibigay ko sa inyo ang ⟨את⟩ kagalingan ng lupain ng Mitsrayim, at kakain kayo ng ⟨את⟩ taba ng lupain.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "at kunin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong ama"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "inyong ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "inyong mga sambahayan"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "inyong mga sambahayan"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "at pumasok kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "at ibibigay ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kagalingan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kagalingan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "at kakain kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:41.615844240Z",
+  "model": "glm-5.3"
+}

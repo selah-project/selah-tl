@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Si Keluv, ang kapatid ni Shujah, ay naging ama ni ⟨את⟩ Mejir; siya ang ama ni Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Si Keluv"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ang kapatid ni"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shujah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mejir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mejir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ni"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:49.596685388Z",
+  "model": "glm-5.3"
+}

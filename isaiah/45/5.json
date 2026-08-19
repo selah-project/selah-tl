@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Ako si Yahweh, at walang ⟨iba⟩; bukod sa akin ay walang Elohim; bigkisan kita, at hindi mo ako nakilala —",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨iba⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "bukod sa akin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "bigkisan kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "mo ako nakilala"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:38.132112679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "\"Ilagay ang ⟨את⟩ ulo ng mga anak ni Kehat mula sa gitna ng mga anak ni Levi, ayon sa kanilang mga angkan, ayon sa mga bahay ng kanilang mga ama:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ilagay\/Itaas ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo ng mga anak ni Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mula sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayon sa mga bahay ng"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "kanilang mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:57.183521848Z",
+  "model": "glm-5.3"
+}

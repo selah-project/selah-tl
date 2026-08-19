@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang mga anak ni Vliya'al ay nagsabi, Ano, ito ba ay magliligtas sa atin? At hinamak nila siya, at hindi nagdala sa kaniya ng alay; at siya ay naging parang isang tahimik.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak ni"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Vliya'al"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "magliligtas sa atin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "at hinamak siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "alay\/regalo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "parang isang tahimik"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:59.758682920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Tumindig ka, buhatin mo ang ⟨את⟩ batang lalaki, at kapitanin mo ang ⟨את⟩ iyong kamay sa kaniya, sapagkat bilang isang dakilang bansa ay itatakda ko siya.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "buhatin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "at kapitanin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kamay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bansang"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "itatakda ko siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:01.013288272Z",
+  "model": "glm-5.3"
+}

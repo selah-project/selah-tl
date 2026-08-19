@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Gayundin,.sunungin Mo sila ng Iyong buhawi, at guluhin Mo sila ng Iyong bagyo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "sunungin Mo sila"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ng Iyong buhawi"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "at ng Iyong bagyo"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "guluhin Mo sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:08.882701876Z",
+  "model": "glm-5.3"
+}

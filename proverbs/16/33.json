@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Sa kandungan hinahagis ang ⟨את⟩ palaso, ngunit mula kay Yahweh ang buo nitong hatol.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "sa kandungan"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "hinahagis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palaso (ang palaso ng kapalaran)"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ang palaso"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ngunit mula kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buo"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "nitong hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:36.068177483Z",
+  "model": "glm-5.3"
+}

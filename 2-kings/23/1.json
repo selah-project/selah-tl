@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At nagpadala ang hari, at nagtipon sa kaniya ang lahat ng mga matanda ng Yehudah at ng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "at nagtipon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:37.576342700Z",
+  "model": "glm-5.3"
+}

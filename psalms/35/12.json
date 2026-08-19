@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Nagbabayad sa akin ng kasamaan kapalit ng kabutihan, pagkalumbay para sa aking kaluluwa.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Nagbabayad sa akin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ng kabutihan"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "pagkalumbay \/ pagkawala"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "para sa aking kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:10.601791100Z",
+  "model": "glm-5.3"
+}

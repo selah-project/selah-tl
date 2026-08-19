@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Hindi kukunin ng ⟨isang⟩ lalaki ang ⟨את⟩ asawa ng kaniyang ama, at hindi niya ibubunyag ang laylay ng kaniyang ama.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukunin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ng kaniyang ama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ibubunyag"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "laylay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:08.528715667Z",
+  "model": "glm-5.3"
+}

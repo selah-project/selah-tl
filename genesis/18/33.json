@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At Yahweh ay umalis, pagkatapos matapos ⟨siya⟩ sa pagsalita kay Avraham; at si Avraham ay nagbalik sa kaniyang lugar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "at si Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sa kaniyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:21.696406802Z",
+  "model": "glm-5.3"
+}

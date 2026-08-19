@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Parang tubig ako na ibinuhos, at nahiwalay ang lahat ng aking mga buto; ang aking puso ay naging parang kandila — natunaw sa gitna ng aking tiyan.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "parang tubig"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ibinuhos ako"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "at nahiwalay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "aking mga buto"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "parang kandila (kandilang balutin)"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "aking tiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:39.878381150Z",
+  "model": "glm-5.3"
+}

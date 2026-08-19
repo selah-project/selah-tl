@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ⟨את⟩ lahat ng mga lungsod ng mga hari na ito, at ang ⟨את⟩ lahat ng kanilang mga hari, dinakip ni Yehoshua, at hinampas sila sa gilid ng tabak, inilaan niya sila sa pagkasira, ayon sa iniutos ni Moshe, alila ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng mga lungsod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng kanilang mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "kanilang mga hari"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "dinakip"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "at hinampas sila"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa gilid"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "inilaan sa pagkasira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "inilaan sa pagkasira ang mga ito"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:38.928968028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At lahat ng lalaki ng Israel, nang makita nila ang ⟨את⟩ lalaki, ay tumakas mula sa harap niya at labis na natakot.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At lahat ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "nang makita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ay tumakas"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mula sa harap niya"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "at natakot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis na"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:00.562814587Z",
+  "model": "glm-5.3"
+}

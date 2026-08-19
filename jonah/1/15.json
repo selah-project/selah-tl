@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At dinampot nila si ⟨את⟩ Yonah at itinapon siya sa dagat, at tumigil ang dagat sa pang-aalipusta nito.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "At dinampot nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "at itinapon siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumigil"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "sa pang-aalipusta nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:02.421711069Z",
+  "model": "glm-5.3"
+}

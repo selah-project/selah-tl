@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At tumigas ang puso ni Paroh, at hindi siya nakinig sa kanila, kung paanong sinalita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at tumigas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:06.499800046Z",
+  "model": "glm-5.3"
+}

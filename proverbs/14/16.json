@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang marunong ay nangangamba at lumilihis sa kasamaan, ngunit ang hangal ay nagpapakalabis at ⟨ay⟩ may kumpiyansa.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ang marunong"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ay nangangamba"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "at lumilihis"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ngunit ang hangal"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "ay nagpapakalabis"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "at may kumpiyansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:08.989959161Z",
+  "model": "glm-5.3"
+}

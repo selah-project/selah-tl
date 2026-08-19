@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Katotohanan, Yahweh, winasak ng mga hari ng Ashur ang ⟨את⟩ mga bansa at ang ⟨את⟩ kanilang lupain.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "katotohanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bansa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang lupain"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kanilang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:31.960212792Z",
+  "model": "glm-5.3"
+}

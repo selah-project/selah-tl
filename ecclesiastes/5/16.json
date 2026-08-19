@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Gayundin, lahat ng kanyang mga araw ay kakain siya sa kadiliman, at maraming pagkaabal, at ang kanyang karamdaman at poot.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kanyang mga araw"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain siya"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "at pagkaabal"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "at ang kanyang karamdaman"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "at poot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:50.248267819Z",
+  "model": "glm-5.3"
+}

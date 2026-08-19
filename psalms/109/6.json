@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Italaga mo sa kaniya ang isang masama, at tumayo ang isang satanas sa kanan niya.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "italaga mo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isang masama"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "at isang satanas"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tumayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kanan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:50.806816928Z",
+  "model": "glm-5.3"
+}

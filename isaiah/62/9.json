@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Sapagkat ang mga nagtipon nito ay kakain nito at magpupuri ⟨את⟩ Yahweh, at ang mga nagkalat nito ay iinom nito sa mga looban ng aking kabanalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ang mga nagtipon nito"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "kakain nito"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "at magpupuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "at ang mga nagkalat nito"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "iinom nito"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga looban"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ng aking kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:09.645163017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sa pamamagitan ng isang propeta nagpaahon si Yahweh ng ⟨את⟩ Yisrael mula sa Mitzrayim, at sa pamamagitan ng isang propeta ⟨siya⟩ ay nagingatan.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "at sa pamamagitan ng isang propeta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nagpaahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "at sa pamamagitan ng isang propeta"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "nagingatan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:25.677139942Z",
+  "model": "glm-5.3"
+}

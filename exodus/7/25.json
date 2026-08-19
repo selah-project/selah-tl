@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At napuno ang pitong araw matapos hampasin ni Yahweh ang ⟨את⟩ Ilog.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "hampisin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ilog"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ilog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:04.429312207Z",
+  "model": "glm-5.3"
+}

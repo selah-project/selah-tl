@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At naging lahat ng mga araw ni Enosh ay limang taon at siyam na daang taon, at siya ay namatay.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw ni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "at siyam na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "siya ay namatay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:55.141697186Z",
+  "model": "glm-5.3"
+}

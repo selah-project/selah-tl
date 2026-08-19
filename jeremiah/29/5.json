@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Magtayo kayo ng mga bahay at manirahan; magtanim ng mga halamanan at kainin ang ⟨את⟩ bunga nito.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "magtayo kayo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "at manirahan"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "magtanim"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mga halamanan"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "at kainin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunga nito"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "bunga nito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:27:26.038298304Z",
+  "model": "glm-5.3"
+}

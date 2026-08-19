@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Pinapatay nila ang balo at dayuhan, at mga ulila ay pinapaslang.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "at dayuhan"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "pinapatay nila"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "at mga ulila"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "pinapaslang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.020966878Z",
+  "model": "glm-5.3"
+}

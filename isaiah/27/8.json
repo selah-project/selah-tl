@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sa sukatan, sa pagpapalayas sa kanya, nakipagbaka ka sa kanya; kanyang inalis sa pamamagitan ng kanyang mabangis na hangin, sa araw ng hangin-silangan.",
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "sa sukatan"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "sa pagpapalayas sa kanya"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "nakipagbaka ka sa kanya"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "kanyang inalis"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "sa pamamagitan ng kanyang hangin"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mabangis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ng hangin-silangan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:23.811900151Z",
+  "model": "glm-5.3"
+}

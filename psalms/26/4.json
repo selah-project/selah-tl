@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Hindi ako umupo kasama ng mga taong walang saysay, ni pumasok man kasama ng mga mapagpaimbabaw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "umupo ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mga taong"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "walang saysay"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni kasama man ng"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "mga mapagpaimbabaw (nagtatago ng totoo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "pumasok ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:10.785021356Z",
+  "model": "glm-5.3"
+}

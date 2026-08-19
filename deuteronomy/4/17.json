@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "ang anyo ng bawat hayop na ⟨na⟩ nasa lupain, ang anyo ng bawat ibong may pakpak na lumilipad sa mga langit",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "anyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nasa lupain"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "anyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "may pakpak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "lumilipad"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:58.333183395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Ipadala mo ang iyong liwanag at ang iyong katotohanan; sila ang gagabay sa akin, ihahatid nila ako sa iyong banal na bundok, at sa iyong mga tahanan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ipadala mo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ang iyong liwanag"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "at ang iyong katotohanan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ang gagabay sa akin"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ihahatid nila ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iyong banal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "iyong mga tahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:23.667261250Z",
+  "model": "glm-5.3"
+}

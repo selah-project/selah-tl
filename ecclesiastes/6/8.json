@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat ano ang dagdag sa marunong kaysa sa hangal? Ano sa maralita, na nakakaalam lumakad sa harapan ng mga buhay?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ang dagdag"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "sa marunong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa sa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa maralita"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "na nakakaalam"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "mga buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:16.415444747Z",
+  "model": "glm-5.3"
+}

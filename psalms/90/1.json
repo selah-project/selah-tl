@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Panalangin ni Moshe, lalaki ng Elohim: Adonai, tirahan Ka — naging Tira Ka natin sa salinlahi at salinlahi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tirahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "היית",
+      "gloss": "naging Tira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "natin"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "sa salinlahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at salinlahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:18.862970669Z",
+  "model": "glm-5.3"
+}

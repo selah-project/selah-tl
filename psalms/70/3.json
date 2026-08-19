@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "Manghina sila at mapahiya, na naghahanap sa aking ⟨את⟩ kaluluwa; umatras sila paurong at mahiya, na masasaya sa aking kasamaan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "manghina sila"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "at mapahiya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "na naghahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking kaluluwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "umatras sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "at mahiya"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "na masasaya"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sa aking kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:25.168448374Z",
+  "model": "glm-5.3"
+}

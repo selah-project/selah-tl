@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi niya: Sino ⟨ang⟩ ⟨את⟩ ikaw? At sinabi niya: Ako si Ruth, ang iyong alipin, at iyong inilatag ang iyong pakpak sa iyong alipin, sapagkat ikaw ay goel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רות",
+      "gloss": "si Ruth"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang iyong alipin"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "at iyong inilatag"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "ang iyong pakpak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iyong alipin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:35.350541409Z",
+  "model": "glm-5.3"
+}

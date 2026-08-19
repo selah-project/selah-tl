@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At pinupon ni David ang ⟨את⟩ buong bayan, at yumaong patungo sa Rabbah, at lumaban doon, at binago ito.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinupon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at yumaong patungo"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "sa Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "at lumaban"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "at binago ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:38.282337787Z",
+  "model": "glm-5.3"
+}

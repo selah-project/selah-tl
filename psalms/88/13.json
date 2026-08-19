@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Magiging kilala ba sa kadiliman ang ⟨iyong⟩ mga kababalaghan, at ang iyong katuwiran sa lupain ng kalimutan?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "magiging kilala ba"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ang ⟨iyong⟩ mga kababalaghan"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "at ang iyong katuwiran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "ng kalimutan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:47.830876201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nanganak siya ng lalaki, at tinawag niya ang ⟨את⟩ pangalan nito na Gershom, sapagkat sinabi niya: dayuhan akong namalagi sa lupang banyaga.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak siya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ng lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi niya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "akong namalagi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupang"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "banyaga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.152804240Z",
+  "model": "glm-5.3"
+}

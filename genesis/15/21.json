@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "at ang ⟨את⟩ Amorreo, at ang ⟨את⟩ Cananeo, at ang ⟨את⟩ Girgaseo, at ang ⟨את⟩ Jebuseo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amorreo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorreo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Cananeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgaseo"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaseo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jebuseo"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebuseo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:20.405580482Z",
+  "model": "glm-5.3"
+}

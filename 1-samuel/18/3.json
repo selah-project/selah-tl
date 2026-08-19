@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nagtipan sina Yehonatan at David, sapagkat minahal niya ⟨siya⟩ na parang sarili niyang kaluluwa.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "At nagtipan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ng tipan"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sapagkat sa pagmamahal niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si David)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "na parang sarili niyang kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:32.125155435Z",
+  "model": "glm-5.3"
+}

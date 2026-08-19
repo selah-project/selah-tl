@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Si Moshe na alila ko ay patay na; at ngayon tumindig ka, tumawid ka sa ⟨את⟩ Jordan na ito, ikaw at ang buong bayang ito, patungo sa lupain na ibinibigay ko sa kanila, sa mga anak ni Yisrael",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "na alila ko"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ay patay na"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tumawid ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan na ito"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:25.815319493Z",
+  "model": "glm-5.3"
+}

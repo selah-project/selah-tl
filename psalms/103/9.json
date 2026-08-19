@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Hindi magpakailanman nakikipag-away, at hindi magpakailanman nag-iingat ng galit;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "nakikipag-away"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "nag-iingat ng galit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.557372082Z",
+  "model": "glm-5.3"
+}

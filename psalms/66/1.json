@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Sa Pangulo ng mga Mang-aawit. Isang Awit, isang Mizmor. Sumigaw kayo sa Elohim, ang buong lupa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo ng mga Mang-aawit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Isang Awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "isang Mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Sumigaw kayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:08.184645525Z",
+  "model": "glm-5.3"
+}

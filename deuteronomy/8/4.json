@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang iyong damit ay hindi lumuma mula sa iyo, at ang iyong paa ay hindi namamaga — nitong apatnapung taon.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Ang iyong damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "lumuma"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mula sa iyo"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "at ang iyong paa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "namamaga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nitong"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apatnapu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:52.665075689Z",
+  "model": "glm-5.3"
+}

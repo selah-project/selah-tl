@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Nagpapatahimik ng ungol ng mga dagat, ng ungol ng mga alon nito, at ng pagkakagulo ng mga bansa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "nagpapatahimik"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ng ungol"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga dagat"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ng ungol"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ng mga alon nito"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "at ng pagkakagulo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ng mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:34.574435294Z",
+  "model": "glm-5.3"
+}

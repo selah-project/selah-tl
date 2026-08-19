@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Huwag kang mabilis magalit sa ⟨iyong⟩ ruach, sapagkat ang galig ay nagpapahinga sa dibdib ng mga hangal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "mabilis magalit"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "sa iyong ruach"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "magalit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "galit"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "sa dibdib"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ng mga hangal"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nagpapahinga"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:00.593434965Z",
+  "model": "glm-5.3"
+}

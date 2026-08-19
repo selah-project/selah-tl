@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Mga alipin ay naghari sa atin; walang tumutubos mula sa kanilang kamay.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "tumutubos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mula sa kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:59.187867780Z",
+  "model": "glm-5.3"
+}

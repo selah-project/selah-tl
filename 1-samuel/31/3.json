@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At tumibay ang pakikipagdigma laban kay Shaul, at nakita siya ng mga mamamanana — mga lalaking may busog — at siya'y labis na nanghina dahil sa mga mamamanana.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "at tumibay"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang pakikipagdigma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "at nakita siya"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ng mga mamamanana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga lalaking"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "may busog"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "at nanghina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "dahil sa mga mamamanana"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:07.587860472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 5:2",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Nang magkagayon, pinagtipon ni Shelomoh ang ⟨את⟩ mga matanda ng Yisrael at ⟨את⟩ ang lahat ng mga pinuno ng mga tribo, ang mga pangulo ng mga pamilya, sa mga anak ng Yisrael, sa Yerushalayim, upang itaas ang ⟨את⟩ kaban ng tipan ni Yahweh mula sa lungsod ni David — ito ay Tsiyon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "יקהיל",
+      "gloss": "pinagtipon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga matanda ng Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang lahat ng mga pinuno ng mga tribo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "ng mga tribo"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ng mga pamilya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "upang itaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng tipan ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ng tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mula sa lungsod"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ay Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:00.634911268Z",
+  "model": "glm-5.3"
+}

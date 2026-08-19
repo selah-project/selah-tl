@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "Naging mga banyaga ang mga masasama mula sa bahay-bata; lumiligaw sila mula sa sinapupunan, mga nagsasalita ng kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Naging mga banyaga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga masasama"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mula sa bahay-bata"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "lumiligaw sila"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mula sa sinapupunan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga nagsasalita"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ng kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:42.032471383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang mga anak ng Keni, na biyenan ni Moshe, ay umahon mula sa lungsod ng mga palma kasama ⟨את⟩ mga anak ni Yehuda patungo sa ilang ng Yehuda na nasa Timog ng Arad; at sila'y humayo at tumira kasama ⟨את⟩ ng bayan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "biyenan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mula sa lungsod"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ng mga palma"
+    },
+    {
+      "surface": "את",
+      "gloss": "kasama ⟨את⟩",
+      "marks": "mga anak ni Yehuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na nasa"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Timog"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "humayo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "kasama ⟨את⟩",
+      "marks": "ng bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:15.192672546Z",
+  "model": "glm-5.3"
+}

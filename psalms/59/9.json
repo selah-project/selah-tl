@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Ngunit ikaw, oh Yahweh, tatawa sa kanila;uyuyam mo ang lahat ng mga bansa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "tatawa ka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "uyuyam ka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:26.892951132Z",
+  "model": "glm-5.3"
+}

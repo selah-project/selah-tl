@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At sa umaga, makikita ninyo ang ⟨את⟩ kaluwalhatian ni Yahweh, sa pandinig niya sa ⟨את⟩ mga paratang ninyo laban kay Yahweh; at kami ba ay ano, na nagrereklamo kayo laban sa amin?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "at sa umaga"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "makikita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwalhatian ni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "sa pandinig niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga paratang ninyo"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "mga paratang ninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וונחנו",
+      "gloss": "at kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "nagrereklamo kayo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "laban sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:22.436102986Z",
+  "model": "glm-5.3"
+}

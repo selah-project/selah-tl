@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kaya umalis siya sa ibang daan, at hindi na bumalik sa daang dinanan niya papunta sa Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kaya umalis siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ibang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dinanan niya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:31.426189191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ito ang palad mo, ang bahaging tinimbang para sa iyo mula ⟨את⟩ sa akin, ana ni Yahweh, sapagkat nakalimutan mo ⟨את⟩ ako at nagtiwala ka sa kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ang palad mo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahaging tinimbang"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ mula sa akin",
+      "marks": "mula sa akin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "nakalimutan mo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "at nagtiwala ka"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "sa kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:19:47.148172529Z",
+  "model": "glm-5.3"
+}

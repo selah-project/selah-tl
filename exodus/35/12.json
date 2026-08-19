@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨ang⟩ Aron at ⟨את⟩ mga patpat nito, ⟨את⟩ ⟨ang⟩ kaporet, at ⟨את⟩ cortina ng lambong;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨ang⟩ Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga patpat nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mga patpat nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "⟨ang⟩ kaporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "cortina"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "cortina"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ng lambong"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:49.935280796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi ni Yahweh: Sino ang mang-aakit sa ⟨את⟩ Ahav upang siya'y umahon at mahulog sa Ramot ng Gilad? At sinabi ito nang ganito, at sinabi niyaon nang ganoon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "mang-aakit \/ maglilinlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at siya'y umahon"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "at mahulog"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "sa Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ng Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nang ganito"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "at siyaon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nang ganoon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:10.978443223Z",
+  "model": "glm-5.3"
+}

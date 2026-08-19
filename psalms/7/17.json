@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Babalik ang kanyang kahihiyan sa kanyang ulo, at sa kanyang tuktok ang kanyang karahasan ay bababa.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ang kanyang paghihirap"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa kanyang ulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "kanyang tuktok"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ang kanyang karahasan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bababa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:07.265787280Z",
+  "model": "glm-5.3"
+}

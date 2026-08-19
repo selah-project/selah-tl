@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Bukod dito, ito'y ginawa nila sa akin: hinamak nila ang ⟨את⟩ aking santuwaryo sa araw na yaon, at ang ⟨את⟩ aking mga shabbat nilapastangan.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "bukod dito"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hinamak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "aking santuwaryo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "aking santuwaryo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "aking mga shabbat"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "aking mga shabbat"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "nilapastangan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:46:34.107349919Z",
+  "model": "glm-5.3"
+}

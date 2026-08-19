@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Mapahiya sila at ⟨umatras⟩ — lahat ng mga nananampalasan kay Tzion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mapahiya sila"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "at umatras"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mga nananampalasan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.006805031Z",
+  "model": "glm-5.3"
+}

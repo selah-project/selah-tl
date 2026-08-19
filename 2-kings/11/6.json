@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ikatlong bahagi sa tarangkahan ng Sur, at ang ikatlong bahagi sa tarangkahan sa likod ng mga takbo, at magbabantay kayo ng ⟨את⟩ pagbabantay ng bahay bilang hadlang.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "at ang ikatlong bahagi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa tarangkahan"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ng Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "at ang ikatlong bahagi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa tarangkahan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa likod ng"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "mga takbo"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "at magbabantay kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbabantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbabantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "bilang hadlang"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:18.942434658Z",
+  "model": "glm-5.3"
+}

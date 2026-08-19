@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "At natakot ang lahat ng tao, at ipinahayag ang gawa ni Elohim, at ang kanyang gawa ay ⟨na⟩unawaan nila nang may karunungan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "at natakot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "at ipinahayag"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ang gawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "at ang kanyang gawa"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "rinaunawaan nang may karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:25.266730126Z",
+  "model": "glm-5.3"
+}

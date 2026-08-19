@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Mga tolda ng Edom at ng mga Ismaelita, Moab at ang mga Hagareno;",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "mga tolda"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ng Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "at ng mga Ismaelita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "at ang mga Hagareno"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.845046219Z",
+  "model": "glm-5.3"
+}

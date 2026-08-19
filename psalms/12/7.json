@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Mga salita ni Yahweh ay ⟨mga⟩ salitang dalisay; pilak na tinunaw sa apuyan ⟨ng⟩ lupa, nilinis na makapito.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "tinunaw"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "sa apuyan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "nilinis"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "na makapito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:35.636379907Z",
+  "model": "glm-5.3"
+}

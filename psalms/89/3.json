@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sapagkat aking sinabi: 'Magpakailanman itinatayo ang kagandahang-loob; sa ⟨mga⟩ langit iyong itinatag ang iyong katapatan.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "itinatayo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "iyong itinatag"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang iyong katapatan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:43.995363329Z",
+  "model": "glm-5.3"
+}

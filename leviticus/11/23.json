@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang bawat nagsisilang na lumilipad na may apat na mga paa — karumal-dumal ⟨siya⟩ sa inyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang bawat"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nagsisilang na gumagalaw"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "lumilipad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "may"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "mga paa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:14.587906556Z",
+  "model": "glm-5.3"
+}

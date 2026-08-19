@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Ng may makapangyarihang kamay at ng unat na braso, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ng may kamay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "at ng braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "unat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.644127054Z",
+  "model": "glm-5.3"
+}

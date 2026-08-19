@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At itinayo niya ang ⟨את⟩ panloob na looban: tatlong hanay ng inasintang bato at isang hanay ng mga tablang sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panloob na looban"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "looban"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "panloob na"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "hanay"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "inasintang bato"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "at isang hanay"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:28.653740599Z",
+  "model": "glm-5.3"
+}

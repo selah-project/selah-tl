@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Silá'y maging parang damong ⟨sa⟩ mga bubong ng bahay, na bago pa mahugot ay nalanta na.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "silá'y maging"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "parang damo"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "mga bubong"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "na bago pa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "mahugot"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "nalanta"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.007058907Z",
+  "model": "glm-5.3"
+}

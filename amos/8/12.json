@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At mangangalaala sila mula sa dagat hanggang sa dagat, at mula sa hilaga hanggang sa silangan; magpapatung-patong sila upang hanapin ang ⟨את⟩ salita ni Yahweh, ngunit hindi ito matatagpuan.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "at mangangalaala sila"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mula sa dagat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "at mula sa hilaga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "silangan"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "magpapatung-patong sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "upang hanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salita ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ito matatagpuan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:27.195951035Z",
+  "model": "glm-5.3"
+}

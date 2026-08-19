@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Nagawa ko para sa akin ang mga hardin at mga paraiso, at nagtanim ako sa mga ito ng ⟨את⟩ mga puno, bunga ng lahat ng uri.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Nagawa ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mga hardin"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "at mga paraiso"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "at nagtanim ako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "⟨את⟩ mga puno",
+      "marks": "mga puno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ng bunga"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:16.738906520Z",
+  "model": "glm-5.3"
+}

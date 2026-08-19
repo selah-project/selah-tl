@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Huwag ninyong itaas sa kaitaasan ang inyong mga sungay; huwag magsalita nang may matigas na leeg.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ninyong itaas"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kaitaasan"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ang inyong mga sungay"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "may leeg"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "matigas\/nanghihamak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:24.330110964Z",
+  "model": "glm-5.3"
+}

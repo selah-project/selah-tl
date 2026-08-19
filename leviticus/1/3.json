@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kung ang kanyang handog ay pinagsusunugin na handog mula sa bakahan, lalaking walang kapintasan, kanyang iaalok ⟨את⟩ niya ito; sa pintuan ng toldang pagkikitahan iaalok niya ⟨את⟩ ito, upang maging katanggap-tanggap para sa kanya sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pinagsusunugin na handog"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang kanyang handog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bakahan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang kapintasan"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "kanyang iaalok niya ito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pagkikitahan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "iaalok niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang handog)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "upang maging katanggap-tanggap para sa kanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:01.838720757Z",
+  "model": "glm-5.3"
+}

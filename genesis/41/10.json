@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Si Paroh ay nagalit sa kaniyang mga alipin, at ibinigay niya ⟨את⟩ akin sa pag-iingat ng bahay ng puno ng mga tagapatay — ⟨את⟩ akin at ⟨את⟩ puno ng mga tagapag-alsa.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "si Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "nagalit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay niya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa pag-iingat"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pag-iingat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ng mga tagapatay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "akin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "puno ng mga tagapag-alsa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ng mga tagapag-alsa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:00.327849297Z",
+  "model": "glm-5.3"
+}

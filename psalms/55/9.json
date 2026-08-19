@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Magmamadali akong tumakas sa ⟨the⟩ kanlungan, mula sa pabugsong hangin at bagyo.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "magmamadali akong"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "pagtakas \/ kanlungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "mula sa hangin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "pabugsong"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "sa bagyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:08.611818519Z",
+  "model": "glm-5.3"
+}

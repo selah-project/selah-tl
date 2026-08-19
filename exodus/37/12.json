@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At gumawa siya para rito ng gilid na isang dangkal sa paligid, at gumawa ng gintong korona para sa gilid nito, sa paligid.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At gumawa siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "isang dangkal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa siya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "para sa gilid nito"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:22.102825811Z",
+  "model": "glm-5.3"
+}

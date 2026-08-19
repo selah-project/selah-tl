@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sumagot ang pari ⟨את⟩ kay David at nagsabi: Walang karaniwang tinapay sa ilalim ng aking kamay, kundi banal na tinapay ang mayroon; kung nag-ingat ang mga batang lalaki lámang sa babae.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "חל",
+      "gloss": "karaniwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng aking kamay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "nag-ingat"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ang mga batang lalaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lámang"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "sa babae"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:47.962452887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Hanggang sa tumingin Yahweh mula sa ⟨mga⟩ langit at makita.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "tumingin (yumukaw)"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at makita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:26.183777877Z",
+  "model": "glm-5.3"
+}

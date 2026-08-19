@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Dahil sa pandarambong ng mga dukha, at sa pag-ungol ng mga lubos na maralita, ngayon babangon ako, sabi ni Yahweh; ilalagay ko sa kaligtasan siyang humihingal ⟨para dito⟩.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "dahil sa pandarambong"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ng mga dukha"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "at sa pag-ungol"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ng mga lubos na maralita"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "babangon ako"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ilalagay ko"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "sa kaligtasan"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "humihingal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para dito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:35.636245655Z",
+  "model": "glm-5.3"
+}

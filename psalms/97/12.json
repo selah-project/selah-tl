@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Magsaya kayo, mga matuwid, kay Yahweh, at magpasalamat kayo sa alaala ng kanyang kabanalan.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "magsaya kayo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "at magpasalamat kayo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sa alaala"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ng kanyang kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:47.889279667Z",
+  "model": "glm-5.3"
+}

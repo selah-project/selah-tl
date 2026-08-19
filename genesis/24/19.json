@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Natapos niyang painumin siya, at nagsabi: Aakin din para sa iyong mga kamelyo, hanggang matapos silang uminom.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "Natapos niya"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "na painumin siya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "para sa iyong mga kamelyo"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "aakin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "matapos sila"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "uminom"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:31.850962535Z",
+  "model": "glm-5.3"
+}

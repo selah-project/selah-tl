@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Ganito ang sinabi ni Yahweh: Nasaan itong sulat ng pagdiborsiyo ng inyong ina, na pinawi ko? O sino sa mga nagpautang sa akin ang ipinagbili ko sa kanya ng ⟨את⟩ inyo? Narito, sa inyong mga kasamaan kayo ipinagbili, at sa inyong mga pagsuway pinawi ang inyong ina.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Nasaan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sulat"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "ng pagdiborsiyo"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "ng inyong ina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "pinawi ko siya"
+    },
+    {
+      "surface": "או",
+      "gloss": "O"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "sa mga nagpautang sa akin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ipinagbili ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "sa inyong mga kasamaan"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kayo ipinagbili"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "at sa inyong mga pagsuway"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "pinawi"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "ang inyong ina"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:24.872760219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Kapag paputulin ni Yahweh na iyong Elohim ang ⟨את⟩ mga bansa na ibinibigay sa iyo ni Yahweh na iyong Elohim, at kanilang ariin mo ang ⟨את⟩ kanilang lupain at manahan ka sa kanilang mga lungsod at sa kanilang mga bahay —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "paputulin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bansa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang lupain"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "kanilang lupain"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "at kanilang ariin mo"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "at manahan ka"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "sa kanilang mga lungsod"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "at sa kanilang mga bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:12.979455299Z",
+  "model": "glm-5.3"
+}

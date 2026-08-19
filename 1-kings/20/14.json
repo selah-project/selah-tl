@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 20:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni Ahab: Sa pamamagitan ng sinu-sino? At kaniyang sinabi: Ganito ang sabi ni Yahweh: Sa pamamagitan ng mga binata ng mga pangulo ng mga lalawigan. At kaniyang sinabi: Sino ang mangunguna ng pakikipaglaban? At kaniyang sinabi: Ikaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "במי",
+      "gloss": "Sa pamamagitan ng sinu-sino"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בנערי",
+      "gloss": "sa pamamagitan ng mga binata"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ng mga pangulo"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ng mga lalawigan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "ang mangunguna"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ng pakikipaglaban"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:34.094423791Z",
+  "model": "glm-5.3"
+}

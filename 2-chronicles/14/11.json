@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Hinampas ni Yahweh ang ⟨את⟩ mga Kusita sa harap ni Asa at sa harap ng Juda, at tumakas ang mga Kusita.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "hinampas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Kusita"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ang mga Kusita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ang mga Kusita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:50.204556236Z",
+  "model": "glm-5.3"
+}

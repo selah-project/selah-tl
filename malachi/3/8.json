@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Magdaraya ba ang tao sa Elohim? Sapagkat kayo ay nangdaraya sa ⟨את⟩ Akin. Datapu't inyong sinabi: Sa ano namin kayo dinaya? Sa ikasampung bahagi at sa handog na itinaas.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Magdaraya ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ay nangdaraya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Akin"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "at inyong sinabi"
+    },
+    {
+      "surface": "במה",
+      "gloss": "sa ano"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "namin kayo dinaya"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "sa ikasampung bahagi"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "at sa handog na itinaas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:30.056250289Z",
+  "model": "glm-5.3"
+}

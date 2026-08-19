@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Huwag magkaroon ng umaabot ng kawanggawa sa kaniya, at huwag magkaroon ng nagkakawanggawa sa kaniyang mga ulila.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "magkaroon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ng umaabot\/humahila ng"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kawanggawa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "magkaroon"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ng nagkakawanggawa"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "sa kaniyang mga ulila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:51.820506150Z",
+  "model": "glm-5.3"
+}

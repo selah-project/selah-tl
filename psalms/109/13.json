@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sumain ang wakas niyaong lalaki upang lipulin; sa susunod na salinlahi, burahin ang kanilang pangalan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sumain"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ang wakas niyaong lalaki"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "upang lipulin"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa salinlahi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "susunod na"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "mabura"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ang kanilang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:19.974355664Z",
+  "model": "glm-5.3"
+}

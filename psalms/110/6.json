@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Hahatol siya sa ⟨mga⟩ bansa, magpupuno ng mga bangkay, dudurugin ang ulo sa lupaing malawak.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hahatol siya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "magpupuno"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mga bangkay"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "dudurugin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupaing"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "malawak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:08.134769240Z",
+  "model": "glm-5.3"
+}

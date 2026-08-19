@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang pithaya ng mga matuwid ay walang iba kundi kabutihan; ngunit ang pag-asa ng mga masasama ay poot.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Ang pithaya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "אך",
+      "gloss": "walang iba kundi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabutihan"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ang pag-asa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "poot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:28.244787947Z",
+  "model": "glm-5.3"
+}

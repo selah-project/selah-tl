@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang ⟨את⟩ taba at ang ⟨את⟩ mga bato at ang ⟨את⟩ lobo ng atay, mula sa handog para sa kasalanan, pinasinaya niya sa altar, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang taba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bato"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lobo ng atay"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang lobo ng atay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "handog para sa kasalanan"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "pinasinaya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:54.818377210Z",
+  "model": "glm-5.3"
+}

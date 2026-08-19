@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Papuri sa Yahweh mula sa Tsiyon, na tumatahan sa Yerushalayim — magpuri kayo sa Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Papuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "mula sa Tsiyon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "na tumatahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "magpuri kayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "sa Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:46.856961485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "At sa iyong hesed, lipulin mo ang aking mga kaaway, at paglahuin mo ang lahat ng umaapi sa aking nefesh, sapagkat ako ang iyong alipin.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "at sa iyong hesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "lipulin mo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "at paglahuin mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "umaapi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa aking nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:26.013342880Z",
+  "model": "glm-5.3"
+}

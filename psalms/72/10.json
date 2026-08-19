@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Mga hari ng Tarshish at ng mga isla ay magbabalik ng handog; mga hari ng Sheba at ng Seba ay maghahandog ng kaloob.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "at ng mga isla"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "handog"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "magbabalik"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "at ng Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kaloob"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "maghahandog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:39.924350871Z",
+  "model": "glm-5.3"
+}

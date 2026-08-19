@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sapagkat kasinungalingan ang kanilang isinasantigoso sa inyo, upang ilayo ⟨kayo⟩ malayo sa inyong lupa; at itatapon Ko ⟨את⟩ kayo, at lilipas kayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "silá"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "isinasantigoso nila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ilayo nang malayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "inyong lupa"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "at itatapon Ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "at lilipas kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:40.664605377Z",
+  "model": "glm-5.3"
+}

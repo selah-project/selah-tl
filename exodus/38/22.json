@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At si Betzalel na anak ni Uri na anak ni Hur, sa tribo ni Yehuda, gumawa ng ⟨את⟩ lahat ng iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "At si Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ni Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ni Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:30.472369407Z",
+  "model": "glm-5.3"
+}

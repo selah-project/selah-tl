@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "At nangyari pagkatapos ng mga bagay na ito, may sinabi kay Yosef: Narito, ang iyong ama ay may sakit; at kumuha siya ng ⟨את⟩ kanyang dalawang anak na kasama niya, si ⟨את⟩ Menashsheh at si ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "may sinabi"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kay Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang iyong ama"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ay may sakit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha siya ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang dalawang anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:45.915548414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "at ang ⟨את⟩ dambana ng handog na susunugin na kalakip ng ⟨את⟩ lahat ng kasangkapan nito, at ang ⟨את⟩ batya at ang ⟨את⟩ tayuan nito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dambana ng handog na susunugin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kasangkapan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ng kasangkapan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tayuan nito"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tayuan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:40.714196266Z",
+  "model": "glm-5.3"
+}

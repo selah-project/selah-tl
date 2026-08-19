@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "At siya ay magtutubos sa ⟨את⟩ Yisrael mula sa lahat ng kanyang mga kasalanan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "magtutubos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "kanyang mga kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.716247797Z",
+  "model": "glm-5.3"
+}

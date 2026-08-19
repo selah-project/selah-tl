@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At inilagay nila ang ⟨את⟩ kaniyang kagamitan sa bahay ni Ashtarot, at ang ⟨את⟩ kaniyang bangkay ay ipinako sa pader ng Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kagamitan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaniyang kagamitan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ni Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bangkay"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "kaniyang bangkay"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ipinako"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sa pader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng Beit-Shan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "(Beit-Shan)"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:41.614921266Z",
+  "model": "glm-5.3"
+}

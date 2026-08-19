@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Minamahal mo ang bawat salitang lumalamon, O dila ng panlilinlang!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "minamahal mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "salitang"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "lumalamon"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "O dila"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ng panlilinlang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:18.235282022Z",
+  "model": "glm-5.3"
+}

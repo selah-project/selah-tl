@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Purihin si Adonai; araw-araw ay Kaniyang dinadala ang atin ⟨负重⟩ — ang El na ating kaligtasan. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Purihin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ay Kaniyang dinadala ang pasan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa atin"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "na ating kaligtasan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:09.224317546Z",
+  "model": "glm-5.3"
+}

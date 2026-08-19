@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At ito ang mga pangalan nila: para sa tribo ni Reuven, Shammua na anak ni Zakkur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ang mga pangalan nila"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "para sa tribo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "na anak"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ni Zakkur"
+    }
+  ],
+  "timestamp": "2026-08-19T15:07:55.453565405Z",
+  "model": "glm-5.3"
+}

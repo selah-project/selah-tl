@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Naglagay sila sa gitna nila ng mga salita ng ⟨kaniyang⟩ mga tanda, at ng mga kababalaghan sa lupain ng Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa gitna nila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ng kaniyang mga tanda"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "at ng mga kababalaghan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ng Cham"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:46.823155677Z",
+  "model": "glm-5.3"
+}

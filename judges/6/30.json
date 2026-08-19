@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nagsabi ang mga lalaki ng ⟨את⟩ lungsod kay Yoash: Ilabas mo ang ⟨את⟩ anak mo, at mamamatay siya, sapagkat binagsak niya ang ⟨את⟩ dambana ng Baal, at sapagkat giniling niya ang Asherang nasa ibabaw nito.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki ng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Ilabas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak mo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at mamamatay siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "binagsak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambana ng Baal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ng Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at sapagkat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "giniling niya"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ang Asherah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nasa ibabaw nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:36.681498631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "at huwag ninyong bigyan siya ng katahimikan hanggang sa itatag ⟨niya⟩, at hanggang sa gagawin niya ang ⟨את⟩ Yerushalayim na papuri sa lupa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninyong bigyan"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ng katahimikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "itatag"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "gagawin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "na papuri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:27.265981217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Igalang mo ang ⟨את⟩ iyong ama at ang ⟨את⟩ iyong ina, upang humaba ang iyong mga araw sa ibabaw ng lupain na ibinibigay sa iyo ni Yahweh na Elohim mo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Igalang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "iyong ama"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "iyong ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "iyong ina"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "iyong ina"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "humaba"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ang iyong mga araw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na Elohim mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:28.349519932Z",
+  "model": "glm-5.3"
+}

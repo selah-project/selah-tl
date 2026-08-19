@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang lahat ng binilang ay anim na raang libo at tatlong libo at limang raan at limampung (600,000 + 3,000 + 500 + 50 = 603,550).",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "At naging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "binilang"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampung"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:37.325419512Z",
+  "model": "glm-5.3"
+}

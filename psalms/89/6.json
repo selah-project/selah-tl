@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At magpapatulong ang mga langit sa iyong mga kababalaghan, Yahweh, gayundin ang iyong pagtatapat sa kapisanan ng mga banal.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "at magpapatulong"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sa iyong mga kababalaghan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang iyong pagtatapat"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga banal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:01.150269885Z",
+  "model": "glm-5.3"
+}

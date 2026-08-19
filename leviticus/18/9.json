@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kahubaran ng iyong kapatid na babae, anak ng iyong ama o anak ng iyong ina, ipinanganak sa bahay o ipinanganak sa labas, huwag mong ihahayag ang kanilang kahubaran.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "iyong kapatid na babae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ng iyong ina"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ihahayag"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ang kanilang kahubaran"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:19.335833184Z",
+  "model": "glm-5.3"
+}

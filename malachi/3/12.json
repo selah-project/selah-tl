@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ituturing kayong pinagpala ng ⟨את⟩ lahat ng bansa, sapagkat kayo ay lupaing kaluguran, sabi ni Yahweh ng mga hukbo.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "at ituturing na pinagpala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "(minamarkahan: kayo — ituturing na pinagpala)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kayo ay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupaing"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kaluguran"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:21.699902437Z",
+  "model": "glm-5.3"
+}

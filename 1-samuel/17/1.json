@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nagtipon ang mga Pelishtey ng ⟨את⟩ kanilang mga kampo para sa digmaan, at nagtipon sa Sokoh na nasa Yehudah, at nagkampo sa pagitan ng Sokoh at sa pagitan ng Azekah, sa Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishtey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kanilang mga kampo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para sa digmaan"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "nasa Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "sa Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:58.759819232Z",
+  "model": "glm-5.3"
+}

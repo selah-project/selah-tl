@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Mga puring papuri sa El ang nasa kanilang lalamunan, at tabak na may dalawang talim sa kanilang kamay.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "mga puring papuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nasa kanilang lalamunan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "at tabak"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "na may dalawang talim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.177662689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang pumatay ng ⟨את⟩ tao, na mamatay ay tiyak na papatayin.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ang pumatay ng ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na mamatay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak na"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:36.552336780Z",
+  "model": "glm-5.3"
+}

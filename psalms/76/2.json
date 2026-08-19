@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Nakikilala sa Yehuda si Elohim; sa Yisrael, dakila ang kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "nakikilala"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:17.626707470Z",
+  "model": "glm-5.3"
+}

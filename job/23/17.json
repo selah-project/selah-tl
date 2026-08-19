@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sapagkat hindi ako winasak sa harap ng kadiliman, at sa harap ko ay tinakpan ng ⟨kanya⟩ ang malalim na kadiliman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "winasak ako"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "at sa harap ko"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "tinakpan ng"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "malalim na kadiliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:51:02.140862119Z",
+  "model": "glm-5.3"
+}

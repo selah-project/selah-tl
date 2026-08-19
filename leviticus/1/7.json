@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At maglalagay ng apoy sa ⟨ang⟩ altar ang mga anak ni Aharon na ⟨ang⟩ saserdote, at magsasaayos ng mga kahoy sa ⟨ang⟩ apoy.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "at maglalagay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "at magsasaayos"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:45.721855090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Siya na nagtatakip sa mga langit ng mga ulap, Siya na naghahanda para sa lupa ng ulan, Siya na nagpapasibol sa mga bundok ng damo.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Siya na nagtatakip"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ng mga ulap"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Siya na naghahanda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "para sa lupa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ng ulan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "Siya na nagpapasibol"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bundok"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ng damo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.937820487Z",
+  "model": "glm-5.3"
+}

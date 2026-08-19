@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Bin-Deker, sa Makatz, at sa Shaalvim, at sa Beth-Shemesh, at sa Elon-Beth-Chanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "sa Makatz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "at sa Shaalvim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at sa Beth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "at sa Elon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:22.266662863Z",
+  "model": "glm-5.3"
+}

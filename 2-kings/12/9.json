@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sumang-ayon ang mga saserdote sa hindi kumuha ng salapi mula ⟨את⟩ bayan, at sa hindi palakasin ang ⟨את⟩ bintík ng bahay.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "at sumang-ayon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sa hindi"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kumuha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "at sa hindi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "palakasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintík"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "bintík"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:37.782410732Z",
+  "model": "glm-5.3"
+}

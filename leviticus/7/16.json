@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At kung panata o kusang-loob na handog ang kanyang hain, sa araw ng kanyang pagdulog ng ⟨את⟩ kanyang hain, kakainin; at sa kinabukasan, at ang natira rito, kakainin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "panata"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kusang-loob na handog"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hain"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ng kanyang handog"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ng kanyang pagdulog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang hain"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "kanyang hain"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "at sa kinabukasan"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "at ang natira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:20.445909393Z",
+  "model": "glm-5.3"
+}

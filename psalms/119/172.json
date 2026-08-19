@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Aawit ang aking dila ng iyong salita, sapagkat ang lahat ng iyong mga utos ay katuwiran.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "aawit"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang aking dila"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ng iyong salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ng iyong mga utos"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ay katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:33.492210120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Sapagkat hindi mula sa silangan, ni mula sa kanluran, at hindi mula sa ilang ng mga bundok ⟨ang pagtataas⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "mula sa silangan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ni mula sa kanluran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mula sa ilang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ng mga bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:24.330240197Z",
+  "model": "glm-5.3"
+}

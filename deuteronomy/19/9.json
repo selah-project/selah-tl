@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 19:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Kapag ingatan mo ang ⟨את⟩ buong utos na ito upang gawin ito, na iniutos ko sa iyo ngayong araw, na ibigin mo si Yahweh na iyong Elohim, at lumakad sa kanyang mga daan buong araw, ay magdaragdag ka pa sa iyo ng tatlong lungsod bukod sa tatlong ito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ingatan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong utos na ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "utos"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לעשתה",
+      "gloss": "upang gawin ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "iniutos ko sa iyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "na ibigin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh na iyong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa kanyang mga daan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ויספת",
+      "gloss": "ay magdaragdag ka pa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "על",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "השלש",
+      "gloss": "sa tatlong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:27.666614926Z",
+  "model": "glm-5.3"
+}

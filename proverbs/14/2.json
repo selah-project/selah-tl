@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang lumalakad sa kaniyang katuwiran ay natatakot kay Yahweh, ngunit ang baluktot sa kaniyang mga lakad ay nagpapabaya sa kaniya.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ang lumalakad"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "sa kaniyang katuwiran"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ay natatakot kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "ngunit ang baluktot"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sa kaniyang mga lakad"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "ay humahamak sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:09.634463264Z",
+  "model": "glm-5.3"
+}

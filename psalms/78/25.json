@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Tinikman ng bawat lalaki ang tinapay ng mga makapangyarihan; ipinadala Niya sa kanila ang pagkaing-biyaya hanggang sa mabusog.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ng mga makapangyarihan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "pagkaing-dala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipinadala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hanggang mabusog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:35.879268783Z",
+  "model": "glm-5.3"
+}

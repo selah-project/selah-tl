@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 125,
+  "translation": "Sapagkat hindi magpapahinga ang setro ng masama sa pamana ng mga matuwid, upang hindi maipadala ng mga matuwid ang kanilang mga kamay sa kasamaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "magpapahinga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "setro(pamalo)"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "pamana(bahagi ng palad)"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "maipadala"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang kanilang mga kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:01.419620377Z",
+  "model": "glm-5.3"
+}

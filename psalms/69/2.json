@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Iligtas mo ako, O Elohim, sapagkat ang mga tubig ay dumating hanggang sa ⟨aking⟩ buhay.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Iligtas mo ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:43.210522318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang humahawak ng busog ay hindi tatayo, at ang mabilis sa kaniyang mga paa ay hindi makakatakas, at ang sumasakay sa kabayo ay hindi ililigtas ang kaniyang ⟨buhay-nefesh⟩.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "At ang humahawak"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ng busog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "at ang mabilis"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa kaniyang mga paa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makakatakas"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "at ang sumasakay"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "sa kabayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ililigtas"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kaniyang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:36.030453435Z",
+  "model": "glm-5.3"
+}

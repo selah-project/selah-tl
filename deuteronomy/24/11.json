@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sa labas ka tatayo, at ang lalaking pinagpautangan mo ay ilalabas niya sa iyo ang ⟨את⟩ sangla papalabas.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Sa labas"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ka tatayo"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "pinagpautangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ilalabas niya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangla"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ang sangla"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "papalabas"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:22.459726909Z",
+  "model": "glm-5.3"
+}

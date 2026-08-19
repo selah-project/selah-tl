@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang kanilang bunga mula sa lupa ay lilipulin mo, at ang kanilang binhi mula sa mga anak ng tao.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ang kanilang bunga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "lilipulin mo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "at ang kanilang binhi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mula sa mga anak ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:30.681654008Z",
+  "model": "glm-5.3"
+}

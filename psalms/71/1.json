@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Sa iyo, Yahweh, nakapanangan ako; huwag akong mapahiya kailanman.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nakapanangan ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "akong mapahiya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:20.588488417Z",
+  "model": "glm-5.3"
+}

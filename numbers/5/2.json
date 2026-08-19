@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Utusan mo ang ⟨את⟩ mga anak ni Yisrael at papaalisin nila mula sa kampo ang bawat ketongin, at bawat may agos, at bawat marumi dahil sa ⟨isang⟩ patay.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "utusan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "at papaalisin nila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ketongin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "זב",
+      "gloss": "may agos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dahil sa patay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:52.766203590Z",
+  "model": "glm-5.3"
+}

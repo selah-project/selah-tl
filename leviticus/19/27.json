@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag ninyong puputulin ang gilid ng inyong ulo, at huwag mong sasiraín ang ⟨את⟩ gilid ng iyong balbas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ninyong puputulin\/gagawing-bilog"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gilid\/sulok"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "inyong ulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "sasiraín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gilid ng balbas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "iyong balbas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:30.900077771Z",
+  "model": "glm-5.3"
+}

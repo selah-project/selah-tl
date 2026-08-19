@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa taon ng kamatayan ng haring Uzziyahu, nakita ko ang ⟨את⟩ Adonai na nakaupo sa isang trono, mataas at itinaas, at ang kanyang palda ay napuno sa ⟨את⟩ templo.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa taon ng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng haring"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziyahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nakaupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "רם",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "at itinaas"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "ang kanyang palda"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:53.282456427Z",
+  "model": "glm-5.3"
+}

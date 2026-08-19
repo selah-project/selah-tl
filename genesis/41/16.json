@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At sumagot si Yosef ⟨את⟩ kay Paroh, na nagsasabing: Hindi sa akin; si Elohim ang sasagot ⟨את⟩ kapayapaan ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "hindi sa akin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapayapaan ni Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:39.774153244Z",
+  "model": "glm-5.3"
+}

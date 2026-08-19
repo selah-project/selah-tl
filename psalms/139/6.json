@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Nakahihigit ang kaalamang iyon sa akin; naitaas ito, hindi ko kayang abutin ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "nakahihigit kataka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ang kaalaman"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "naitaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ko kayang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "abutin ⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:14.002495456Z",
+  "model": "glm-5.3"
+}

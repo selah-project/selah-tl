@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At pinabigat ni Paroh ang ⟨את⟩ kanyang puso, maging sa pagkakataong ito, at hindi niya pinabayaan ang ⟨את⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "at pinabigat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang puso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maging"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "sa pagkakataon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pinabayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:23.888718329Z",
+  "model": "glm-5.3"
+}

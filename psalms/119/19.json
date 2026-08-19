@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Dayuhan ako sa ⟨ang⟩ lupa; huwag mong itago sa akin ang ⟨את⟩ iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa ⟨ang⟩ lupa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "mong itago"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ang ⟨את⟩ iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:24.475676886Z",
+  "model": "glm-5.3"
+}

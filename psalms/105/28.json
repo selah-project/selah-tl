@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Nagpadala siya ng kadiliman at dumilim, at hindi sila sumuway sa ⟨את⟩ kaniyang salita.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala siya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ng kadiliman"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "at dumilim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "sumuway sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang salita"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "kaniyang salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:46.823294999Z",
+  "model": "glm-5.3"
+}

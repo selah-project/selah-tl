@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sa mga Yehudi ay nagkaroon ⟨ng⟩ liwanag, at kasiyahan, at kagalakan, at karangalan.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Sa mga Yehudi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay nagkaroon"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "at kasiyahan"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "at kagalakan"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "at karangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:31.630648621Z",
+  "model": "glm-5.3"
+}

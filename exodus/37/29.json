@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ginawa niya ang ⟨את⟩ langis ng pagpapahid-banál na banál, at ang ⟨את⟩ insenso ng mga pabango na dalisay, gawa ng tagapaghalo ng pabango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langis ng pagpapahid-banál"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid-banál"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banál"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "insenso ng mga pabango"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ng mga pabango"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ng tagapaghalo ng pabango"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:20.417185235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sa araw na ito, si Yahweh na iyong Elohom\/ na iyong Elohim ay nag-uutos sa iyo na gawin ang ⟨את⟩ mga tuntuning ito at ang ⟨את⟩ mga hatol; at iingatan mo at gagawin mo ang mga ito nang buong puso mo at nang buong kaluluwa mo.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nag-uutos sa iyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga tuntuning ito"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mga tuntunin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga hatol"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mga hatol"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "at iingatan mo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ang ⟨את⟩ mga ito",
+      "marks": "nang buong puso at buong kaluluwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "puso mo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at nang buong"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "kaluluwa mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:19.235709465Z",
+  "model": "glm-5.3"
+}

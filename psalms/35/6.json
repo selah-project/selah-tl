@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Maging madilim ⟨ang⟩ kanilang lakad at madulas, at ang anghel ni Yahweh ay umaabang ⟨sa kanila⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maging"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "kanilang lakad"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "madilim"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "at madulas"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "at ang anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "umaabang sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.128161930Z",
+  "model": "glm-5.3"
+}

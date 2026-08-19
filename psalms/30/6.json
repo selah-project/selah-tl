@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sapagkat sandali lamang ang Kanyang galit, buhay ⟨naman⟩ sa Kanyang mabuting kalooban; sa pagdating ng gabi ay maglalagi ang pag-iyak, ngunit sa umaga ay ⟨mayroong⟩ pag-awit ng kagalakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sandali lamang"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ang Kanyang galit"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "sa Kanyang mabuting kalooban"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagdating ng gabi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "maglalagi"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ang pag-iyak"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ngunit sa umaga"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "pag-awit ng kagalakan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:06.670135904Z",
+  "model": "glm-5.3"
+}

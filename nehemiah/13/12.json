@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At ang buong Yehudah ay naghatile ng ikasampung bahagi ng butil, ng bagong alak, at ng langis papunta sa mga bodega.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At ang buong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "naghatile"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ng ikasampung bahagi"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ng butil"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "at ng bagong alak"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "at ng langis"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "papunta sa mga bodega"
+    }
+  ],
+  "timestamp": "2026-08-19T19:18:51.753641471Z",
+  "model": "glm-5.3"
+}

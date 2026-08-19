@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At yumukó ⟨ang⟩ mga langit at bumaba, at makapal na kadiliman ay nasa ilalim ng kaniyang mga paa.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "at yumukó"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "at makapal na kadiliman"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nasa ilalim"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ng kaniyang mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:39.232160356Z",
+  "model": "glm-5.3"
+}

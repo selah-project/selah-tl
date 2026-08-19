@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Magbalik ka, o aking kaluluwa, sa iyong pahingahan, sapagkat si Yahweh ay nagmamabuti sa iyo.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Magbalik ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o aking kaluluwa"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "sa iyong pahingahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nagmamabuti"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.525331165Z",
+  "model": "glm-5.3"
+}

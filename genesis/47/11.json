@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At pinatira ni Yosef ang ⟨את⟩ kanyang ama at ang ⟨את⟩ kanyang mga kapatid, at binigyan niya sila ng ari-arian sa lupain ng Mitsrayim, sa pinakamabuti sa lupain, sa lupain ng Raamses, kung paanong iniutos ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "at pinatira"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang kanyang mga kapatid"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at binigyan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ng ari-arian"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "sa pinakamabuti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "ng Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:16.810630273Z",
+  "model": "glm-5.3"
+}

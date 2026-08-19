@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ipinaalam ni Avyatar kay David na pinatay ni Shaul ang ⟨את⟩ mga pari ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at ipinaalam"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Avyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pari ni Yahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:56.948986496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Dahil sa na nakinig si Avraham sa tinig ko, at nag-ingat sa ingatan ko, sa mga utos ko, mga tuntunin ko, at mga kautusan ko.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Dahil sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sa tinig ko"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "at nag-ingat"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "sa ingatan ko"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sa mga utos ko"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mga tuntunin ko"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "at mga kautusan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:26.280284418Z",
+  "model": "glm-5.3"
+}

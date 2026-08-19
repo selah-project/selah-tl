@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At hinampas ni Yahweh si Paroh at ⟨את⟩ bahay niya ng mga hampas na dakila, at ⟨את⟩ kanyang sambahayan, dahil sa panauhon ni Sarai, asawa ni Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "at hinampas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "mga hampas"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "bahay niya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bahay niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "panauhon"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:19.628485045Z",
+  "model": "glm-5.3"
+}

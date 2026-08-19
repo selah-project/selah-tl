@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Pumarating si Shemayah na propeta kay Rehavam at sa mga pinuno ng Yehuda na nagtipon sa Yerushalayim dahil kay Shishak, at sinabi niya sa kanila: Ganito ang sinabi ni Yahweh — ninyo iniwan ⟨את⟩ ako, at ako naman ay iniwan ko ⟨את⟩ kayo sa kamay ni Shishak.",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "at si Shemayah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumarating"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "at sa mga pinuno ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "iniwan ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "at ako naman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "iniwan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay ni"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:09.103686403Z",
+  "model": "glm-5.3"
+}

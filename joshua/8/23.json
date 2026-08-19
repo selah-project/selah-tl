@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang ⟨את⟩ hari ng Ai ay dinakip nilang buhay, at iniharap nila ⟨את⟩ siya kay Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hari ng Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ng Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "dinakip nila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "at iniharap nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "ang hari ng Ai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-19T15:39:42.070448118Z",
+  "model": "glm-5.3"
+}

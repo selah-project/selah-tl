@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat pinabaliw ng pang-aapi ang marunong, at sinisira ng suhol ang ⟨את⟩ puso ng mapagkaloob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "pang-aapi"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "pinabaliw"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "at sinisira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "suhol"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:09.290671299Z",
+  "model": "glm-5.3"
+}

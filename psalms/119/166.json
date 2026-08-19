@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Naghintay ako sa iyong kaligtasan, Yahweh, at ang iyong mga utos ay aking ginawa.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "naghintay"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sa iyong kaligtasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "at ang iyong mga utos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aking ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:29.552573892Z",
+  "model": "glm-5.3"
+}

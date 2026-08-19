@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang ⟨the⟩ isa ay isang matarik na dalisdis nasa hilaga, sa harap ng Mikmash, at ang ⟨the⟩ isa nasa timog, sa harap ng Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ang dalisdis"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "matarik na dalisdis"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "nasa hilaga"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "at ang isa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "nasa timog"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:05.976727447Z",
+  "model": "glm-5.3"
+}

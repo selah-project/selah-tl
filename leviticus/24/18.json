@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At ang pumapatay ng kaluluwa ng hayop ay magbabayad para dito: kaluluwa para sa kaluluwa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "At ang pumapatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ng hayop"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "magbabayad para dito"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:08.753188220Z",
+  "model": "glm-5.3"
+}

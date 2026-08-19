@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang mga kumakain ng masasarap ay nanghina sa mga lansangan; ang mga pinalaki sa pulang ulat ay niyakap ang mga tambakan ng dumi.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "ang mga kumakain"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "ng masasarap"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "sa mga lansangan"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "ang mga pinalaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "pulang ulat"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "niyakap"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "mga tambakan ng dumi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:28.176766491Z",
+  "model": "glm-5.3"
+}

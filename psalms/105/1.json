@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Magpasalamat kayo kay Yahweh, tumawag kayo sa kanyang pangalan, ipaalam ninyo sa mga bansa ang kanyang mga gawa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "tumawag kayo"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sa kanyang pangalan"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ipaalam ninyo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang kanyang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.851391600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At itinapon ni Shaul ang ⟨את⟩ sibat, sapagkat kanyang sinabi, Sasaktan ko si David hanggang sa dingding; at lumiko si David mula sa kanyang harapan nang dalawang beses.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "At itinapon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sibat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang sibat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kanyang sinabi"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "sasaktan ko"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "hanggang sa dingding"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "at lumiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mula sa kanyang harapan"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "nang dalawang beses"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:06.681310845Z",
+  "model": "glm-5.3"
+}

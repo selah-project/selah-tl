@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nasa kabilangan ng Elohim ang ⟨את⟩ batang lalaki, at siya'y lumaki, at tumira sa ilang, at naging lumalaking mamamana siya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "at siya'y lumaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at tumira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lumalaking"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "mamamana"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:01.013629702Z",
+  "model": "glm-5.3"
+}

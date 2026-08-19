@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ito ang mga pangalan ng mga lalaking tatayo ⟨את⟩ kasama ninyo: kay Reuven, Elitsur na anak ni Shedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kasama ninyo",
+      "marks": "kasama ninyo (inyo)"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kay Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:03.071319515Z",
+  "model": "glm-5.3"
+}

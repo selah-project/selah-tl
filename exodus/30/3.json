@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At babalutan mo ⟨את⟩ niya ng dalisay na ginto — ⟨את⟩ itaas niya at ⟨את⟩ mga pader niya sa paligid at ⟨את⟩ mga sungay niya; at gagawa ka para sa kanya ng koronang ginto sa paligid.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "At babalutan mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "niya (ang dambana)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itaas niya"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "itaas niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pader niya"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "mga pader niya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga sungay niya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mga sungay niya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:03.507339938Z",
+  "model": "glm-5.3"
+}

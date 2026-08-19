@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Bawat higaan na hihigan ng ⟨את⟩ may agos ay marumi, at bawat kagamitan na kanyang kauupuan ay marumi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hihigan ng"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "may agos"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ay marumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "kagamitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kauupuan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ay marumi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:17.414103260Z",
+  "model": "glm-5.3"
+}

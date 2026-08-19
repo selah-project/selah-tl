@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At bumangon ang isang bagong hari sa Mitzrayim, na hindi nakakilala ⟨את⟩ kay Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at bumangon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:52.966364859Z",
+  "model": "glm-5.3"
+}

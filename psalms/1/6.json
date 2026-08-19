@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat nakakakilala si Yahweh sa lakad ng mga matutwid, ngunit ang lakad ng mga masasama ay mapapahamak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa lakad"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matutwid"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ngunit ang lakad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ay mapapahamak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:44.762486303Z",
+  "model": "glm-5.3"
+}

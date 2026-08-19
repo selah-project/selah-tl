@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At titipunin ko kayo, at hihipan ko sa inyo ng apoy ng aking poot, at matutunaw kayo sa gitna ⟨nito⟩.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "at titipunin ko kayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "silo ng Jerusalem"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "at hihipan ko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ng aking poot"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "at matutunaw kayo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa gitna nito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:47.572536664Z",
+  "model": "glm-5.3"
+}

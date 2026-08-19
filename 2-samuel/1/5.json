@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni David sa batang nagsasalita sa kaniya: Paano mo nalaman na patay na si Shaul at si Yonatan na anak niya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "nagsasalita\/nag-uulat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "paano"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mo nalaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "at si Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:55.828255728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At tumawag si Paraoh kina Moshe at Aharon, at nagsabi: Manalangin kayo kay Yahweh, at kaniyang alisin ang mga palaka mula sa akin at mula sa aking bayan, at papayagan kong lumayas ang ⟨את⟩ bayan upang maghain kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tumawag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paraoh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "at kay Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Manalangin kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "at kaniyang alisin"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga palaka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mula sa akin"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "at mula sa aking bayan"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "at papayagan kong lumayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "upang maghain"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:15.033479030Z",
+  "model": "glm-5.3"
+}

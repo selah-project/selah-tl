@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Sapagkat hindi kapayapaan ang kanilang pinagsasalita, kundi laban sa mga payapa ng lupain mga salitang pandaraya ay kanilang iniisip.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ang kanilang pinagsasalita"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kundi laban sa"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "mga payapa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salitang"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "pandaraya"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ay kanilang iniisip"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:51.938482951Z",
+  "model": "glm-5.3"
+}

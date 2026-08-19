@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Bahagi na katulad ng bahagi ay kakainin nila, bukod sa kaniyang mga nabili ayon sa mga sangbahayan ng mga ama.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Bahagi"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "na katulad ng bahagi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ay kakainin nila"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "kaniyang mga nabibili"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:52.510340675Z",
+  "model": "glm-5.3"
+}

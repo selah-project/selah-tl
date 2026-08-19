@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At tumawag si Barak sa ⟨את⟩ Zebulun at sa ⟨את⟩ Naftali sa Kedesh, at umakyat sa kanyang mga paa ang sampung libong lalaki, at umakyat kasama niya si Devora.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "si Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "sa Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa kanyang mga paa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "libong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "si Devora"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:53.561398493Z",
+  "model": "glm-5.3"
+}

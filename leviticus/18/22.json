@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ⟨את⟩ sa lalaki ay huwag kang hihiga na parang paghiga sa babae — karumal-dumal ito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ⟨את⟩",
+      "marks": "sa lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kang hihiga"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "parang paghiga (kama) sa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "karumal-dumal (kasuklam-suklam)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:06.853041919Z",
+  "model": "glm-5.3"
+}

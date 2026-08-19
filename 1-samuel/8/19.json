@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ngunit tumanggi ang bayan na makinig sa tinig ni Shemuel, at sinabi nila: Hindi! Kundi magiging hari sa amin!",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "ngunit tumanggi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "na makinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.932374796Z",
+  "model": "glm-5.3"
+}

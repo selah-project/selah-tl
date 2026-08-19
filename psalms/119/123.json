@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nanghina ang aking mga mata sa paghihintay ng iyong kaligtasan at ng salita ng iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nanghina\/naupos"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "iyong kaligtasan"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "at salita ng"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:18.688637193Z",
+  "model": "glm-5.3"
+}

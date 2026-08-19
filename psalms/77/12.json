@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Aking aalalahanin ang ⟨את⟩ mga gawa ni Yah; sapagkat aalaala ko mula sa unang panahon ang ⟨את⟩ iyong mga kahimalasan.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aking aalalahanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga gawa ni Yah"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mga gawa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aalaala ko"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "mula sa unang panahon"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ang iyong mga kahimalasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:50.129703839Z",
+  "model": "glm-5.3"
+}

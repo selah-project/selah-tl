@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang ⟨את⟩ Dagat ay inilagay niya mula sa kanang balikat, sa silangan, sa tapat ng timog.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang Dagat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "mula sa balikat"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa silangan"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "sa tapat"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "timog"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:45.447782139Z",
+  "model": "glm-5.3"
+}

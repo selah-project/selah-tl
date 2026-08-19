@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At naging ganito: dinadala ng tagapagbantay ang ⟨את⟩ kanilang masarap na pagkain at ang alak ng kanilang inumin, at nagbibigay sa kanila ng mga gulay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At naging ganito"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "ng tagapagbantay"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dinadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang masarap na pagkain"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "kanilang masarap na pagkain"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "at alak"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ng kanilang inumin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at nagbibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "mga gulay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:34.243909363Z",
+  "model": "glm-5.3"
+}

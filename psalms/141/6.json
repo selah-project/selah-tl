@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 141,
+  "translation": "Ibinagsak sa gilid ng matigas na bato ang kanilang mga hukom, at naririnig nila ang aking mga salita, sapagkat kalulugod ⟨ang mga ito⟩.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ibinagsak"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sa gilid"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ng matigas na bato"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ang kanilang mga hukom"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "at naririnig nila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "kalulugod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:50.799203073Z",
+  "model": "glm-5.3"
+}

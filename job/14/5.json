@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Kung nakatakda na ang kaniyang mga araw, ang bilang ng kaniyang mga buwan ay ⟨את⟩ sa iyo; nagtakda ka ng kaniyang takdang-hanggana at hindi siya lalampas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "nakatakda na"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang kaniyang mga araw"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ang bilang"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ng kaniyang mga buwan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyo",
+      "marks": "sa iyo"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "kaniyang takdang-hanggana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagtakda ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "lalampas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:46.318836180Z",
+  "model": "glm-5.3"
+}

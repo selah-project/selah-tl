@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At dinala nila kay Moshe ang ⟨את⟩ tabernakulo, ang ⟨את⟩ tolda at ⟨את⟩ lahat ng kagamitan nito, ang mga kawit nito, ang mga tabla nito, ang mga barahan nito, ang mga halige nito, at ang mga pundasyon nito.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "at dinala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakulo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang tabernakulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kagamitan nito"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ang mga kawit nito"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ang mga tabla nito"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ang mga barahan nito"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "at ang mga halige nito"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "at ang mga pundasyon nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:33.511957926Z",
+  "model": "glm-5.3"
+}

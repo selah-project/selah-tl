@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Lahat ng mga lungsong ito ay naka-uring matibay, may mataas na pader, mga pinto at bareta — bukod sa mga bayan ng mga walang-pader, na napakarami.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "naka-uring matibay"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "pader"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mga pinto"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "at bareta"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ng mga walang-pader"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "napakarami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:27.892720599Z",
+  "model": "glm-5.3"
+}

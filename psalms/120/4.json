@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Mga palaso ng makapangyarihang mandirigma, matutulis, kasama ⟨ang⟩ mga uling ng retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "mga palaso"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ng makapangyarihang mandirigma"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "matutulis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "mga uling ng"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:12.261464494Z",
+  "model": "glm-5.3"
+}

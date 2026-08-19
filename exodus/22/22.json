@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung tunay na aapihin ninyo sila — ⟨את⟩ — sapagkat kung iiyak silang tunay sa akin, tiyak na diririnig ko ang kanilang pag-iyak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "tunay na aapihin"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "aapihin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang balo at ulila)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "tunay na iiyak"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "iiyak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tiyak na diririnig"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "diririnig"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ang kanilang pag-iyak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:27.685071178Z",
+  "model": "glm-5.3"
+}

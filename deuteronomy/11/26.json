@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Magsitingin kayo: ako, akong naglalagay sa harapan ninyo ngayong araw, ang pagpapala at ang sumpa.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "magsitingin kayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naglalagay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa harapan ninyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "pagpapala"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "at sumpa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:33.424106105Z",
+  "model": "glm-5.3"
+}

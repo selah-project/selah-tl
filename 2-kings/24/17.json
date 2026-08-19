@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At pinaghari ng hari ng Babilonia si ⟨את⟩ Matanyah na kapatid ng kanyang ama sa kanyang lugar, at pinalitan niya ang ⟨את⟩ kanyang pangalan ng Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "pinaghari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Babilonia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Matanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "kapatid ng kanyang ama"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang lugar"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "at pinalitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:23.238252343Z",
+  "model": "glm-5.3"
+}

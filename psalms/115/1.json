@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Hindi sa amin, Yahweh, hindi sa amin, kundi sa iyong pangalan ibigay ang kaluwalhatian, dahil sa iyong kagandahang-loob, dahil sa iyong katotohanan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundisan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kaluwalhatian"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iyong katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:30.241381723Z",
+  "model": "glm-5.3"
+}

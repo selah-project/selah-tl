@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Iligtas mo ako mula sa aking mga kaaway, Yahweh; sa iyo ako nagkubli.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "mga kaaway ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "ako nagkubli"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:26.012801393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Sa pamamagitan ng mga iyon ay pinapaingat din ang iyong lingkod; sa pag-iingat ng mga iyon ay may malaking gantimpala.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong lingkod"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "pinapaingat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan ng mga iyon"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "sa pag-iingat ng mga iyon"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "gantimpala"
+    },
+    {
+      "surface": "רב",
+      "gloss": "malaking"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:57.802505565Z",
+  "model": "glm-5.3"
+}

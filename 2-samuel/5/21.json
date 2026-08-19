@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At iniwan nila doon ang ⟨את⟩ mga imahen nila, at kinuha sila ni David at ng kaniyang mga lalaki.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "at iniwan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga imahen nila"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mga imahen nila"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "at kinuha sila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ng kaniyang mga lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:04.746476716Z",
+  "model": "glm-5.3"
+}

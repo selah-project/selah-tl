@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "May trumpeta at tinig ng shofar, magsigawan kayo sa harap ng Hari, si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "May trumpeta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "at tinig"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ng shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "magsigawan kayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:38.390564147Z",
+  "model": "glm-5.3"
+}

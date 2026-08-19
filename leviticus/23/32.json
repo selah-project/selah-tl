@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Shabbat na pananahimik ⟨ang⟩ sa inyo, at pagpapahirap ninyo sa ⟨את⟩ inyong mga kaluluwa; sa ikasiyam ng buwan sa takipsilim, mula takipsilim hanggang takipsilim magpapahinga kayo sa inyong shabbat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pananahimik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "at pagpapahirap ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga kaluluwa"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyong mga kaluluwa"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "sa ikasiyam"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa takipsilim"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "mula takipsilim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "takipsilim"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "magpapahinga kayo"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "sa inyong shabbat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:59.301127528Z",
+  "model": "glm-5.3"
+}

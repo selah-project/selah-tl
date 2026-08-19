@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At inihagis nila ang ⟨את⟩ mga diyos nila sa apoy, sapagkat hindi mga diyos sila, kundi gawa ng mga kamay ng tao, kahoy at bato; kaya pinuksa nila ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ויאבדום",
+      "gloss": "kaya pinuksa nila ang mga ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga diyos nila"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "mga diyos nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng mga kamay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:31.960424907Z",
+  "model": "glm-5.3"
+}

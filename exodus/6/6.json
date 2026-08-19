@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Kaya't sabihin mo sa mga anak ni Yisrael: Ako si Yahweh, at ilalabas ko ⟨את⟩ inyo mula sa ilalim ng mga pasanin ng Mitsrayim, at ililigtas ko ⟨את⟩ inyo sa kanilang pagkaalipin, at tubusin ko ⟨את⟩ inyo ng unat na bisig at ng mga dakilang hatol.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "at ilalabas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (mula sa pasanin)"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mula sa ilalim"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "ng mga pasanin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "at ililigtas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (sa pagkaalipin)"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "sa kanilang pagkaalipin"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "at tubusin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (ng unat na bisig)"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ng bisig"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "na unat"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "at ng mga hatol"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "na dakila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:57.468329410Z",
+  "model": "glm-5.3"
+}

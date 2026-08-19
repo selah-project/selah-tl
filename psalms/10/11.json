@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sinabi niya sa kanyang puso: Nakalimutan ni El; kanyang itinatago ⟨ang⟩ kanyang mukha; hindi kailanman tumitingin.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kanyang puso"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nakalimutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kanyang itinatago"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kanyang mukha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tumitingin"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:14.315896294Z",
+  "model": "glm-5.3"
+}

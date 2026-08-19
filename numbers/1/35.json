@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang mga binilang sa kanila, sa tribo ni Menashe, ay dalawang at tatlumpung libo at dalawang daan.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ang mga binilang sa kanila"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "at dalawang daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:17.738533431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At isinulat ni Moshe ang ⟨את⟩ torah na ito, at ibinigay niya ito sa mga kohen, mga anak ni Levi, na nagbubuhat ng ⟨את⟩ kaban ng tipan ni Yahweh, at sa lahat ng matatanda ng Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "atin isinulat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torah na ito"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "at ibinigay niya ito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga kohen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "na nagbubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ng tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ng mga matatanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:51.447727973Z",
+  "model": "glm-5.3"
+}

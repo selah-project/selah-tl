@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At naghintay pa siya ng pitong araw na iba, at muli niyang sinugo ⟨את⟩ ⟨ang⟩ kalapati mula sa ⟨ang⟩ arka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "at naghintay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ng pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "at muli"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "niyang sinugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ kalapati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "⟨ang⟩ kalapati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟨ang⟩ arka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:55.601012277Z",
+  "model": "glm-5.3"
+}

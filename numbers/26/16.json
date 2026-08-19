@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kay Azni, ang angkan ng mga Azni; kay Eri, ang angkan ng mga Eri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "kay Azni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ng mga Azni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "kay Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "ng mga Eri"
+    }
+  ],
+  "timestamp": "2026-08-19T15:14:52.353010329Z",
+  "model": "glm-5.3"
+}

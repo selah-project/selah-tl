@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Nagsasalita laban sa akin ang mga nakauupo sa pintuan, at ako ang ⟨⟨awitin⟩⟩ ng mga umiinom ng alak.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "nagsasalita (ng masama)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga nakauupo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintuan"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "at mga tugtugin\/awitin"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "mga umiinom"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ng alak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:01.557755964Z",
+  "model": "glm-5.3"
+}

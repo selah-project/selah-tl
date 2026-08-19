@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Ang katotohanan ay sumisibol mula sa lupa, at ang katuwiran ay sumisilip mula sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupa"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "sumisibol"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "at katuwiran"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa mga langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "sumisilip"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.192396573Z",
+  "model": "glm-5.3"
+}

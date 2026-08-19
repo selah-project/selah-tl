@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Iyong basbasin, O aking kaluluwa, si ⟨את⟩ Yahweh; Yahweh, aking Elohim, ikaw ay napakadakila; hinubaran ng karangalan at kaluwalhatian ⟨ikaw⟩.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Iyong basbasin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ikaw ay napakadakila"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "hinubaran mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:04.728863475Z",
+  "model": "glm-5.3"
+}

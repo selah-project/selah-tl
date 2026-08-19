@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At ang puso ng mga padalus-dalos ay makauunawa sa kaalaman, at ang dila ng mga hapo sa pagsasalita ay magiging handang magsalita nang malinaw.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "At ang puso"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ng mga padalus-dalos"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ay makauunawa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa kaalaman"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "at ang dila"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "ng mga hapo sa pagsasalita"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ay magiging handang mabilis"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "nang malinaw"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:42.069790399Z",
+  "model": "glm-5.3"
+}

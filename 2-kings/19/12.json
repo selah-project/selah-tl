@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Nagligtas ba ang ⟨את⟩ mga diyos ng mga bansang ito na winasak ng aking mga magulang — ⟨את⟩ Gozan, at ⟨את⟩ Charan, at Retsef, at mga anak ng Eden na nasa Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Nagligtas ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga diyos ng mga bansang ito"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ng aking mga magulang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "at Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ng Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "nasa Telassar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:02.215615515Z",
+  "model": "glm-5.3"
+}

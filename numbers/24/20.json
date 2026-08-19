@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nakita niya ang ⟨את⟩ Amalek, at kanyang binigkas ang kanyang talinghaga, at sinabi: Pinuno ng mga bansa si Amalek, ngunit ang kanyang wakas ay pangingibang-walang-tapon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ang Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "binigkas"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ang kanyang talinghaga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pinuno (una)"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ngunit ang kanyang wakas"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pagkawasak"
+    }
+  ],
+  "timestamp": "2026-08-19T15:14:29.004868335Z",
+  "model": "glm-5.3"
+}

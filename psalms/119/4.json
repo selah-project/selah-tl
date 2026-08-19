@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ikaw ang nag-utos ng ⟨את⟩ iyong mga patakaran upang ingatan nang buong sikap.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "nag-utos"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "iyong mga patakaran"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "upang ingatan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang buong sikap"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:25.856369017Z",
+  "model": "glm-5.3"
+}

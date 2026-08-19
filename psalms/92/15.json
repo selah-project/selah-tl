@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Magbubunga pa sila sa katandaan, malaman at luntiang-luntian ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "magbubunga"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "sa katandaan"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "malaman\/mataba"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "at luntiang-luntian"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨sila ay⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.244395557Z",
+  "model": "glm-5.3"
+}

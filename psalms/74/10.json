@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Hanggang kailan, O Elohim, uyamolin ng kaaway ang ⟨banal⟩? Kalaitin ba ng mang-aaway ang iyong pangalan magpakailanman?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "uyamolin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kaaway (na nanliligalig)"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "kalaitin"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mang-aaway"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iyong pangalan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:23.501217314Z",
+  "model": "glm-5.3"
+}

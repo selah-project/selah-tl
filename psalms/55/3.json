@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Isagap mo ako at sagutin mo ako; naliligaw-ligaw ako sa aking pagbubulong, at umaangal ako.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Isagap mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "at sagutin mo ako"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "naliligaw-ligaw ako"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sa aking pagbubulong"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "at umaangal ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:41.622719442Z",
+  "model": "glm-5.3"
+}

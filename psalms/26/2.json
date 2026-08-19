@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Subukin mo ako, Yahweh, at painakin mo ako; tukuyin mo ang aking mga bato-bato at ang aking puso.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "subukin mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "at painakin mo ako"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "tukuyin (na parang ginto sa apoy)"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "aking mga bato-bato"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "at aking puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:10.784775807Z",
+  "model": "glm-5.3"
+}

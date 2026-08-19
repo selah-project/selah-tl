@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ang mga mata ni Yahweh ⟨ay⟩ sa mga matuwid, at ang kaniyang mga tainga ⟨ay⟩ sa kanilang paghihimagsik — sa kanilang daing.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "at ang kaniyang mga tainga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kanilang daing"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:05.664060438Z",
+  "model": "glm-5.3"
+}

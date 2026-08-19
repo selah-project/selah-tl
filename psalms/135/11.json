@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "kay Sichon na hari ng mga Emori, at kay Og na hari ng Bashan, at sa lahat ng mga kaharian ng Kenaan;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kay Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng mga Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "at kay Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ng Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at sa lahat ng"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga kaharian"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.126741510Z",
+  "model": "glm-5.3"
+}

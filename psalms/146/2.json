@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Magpuri ako kay Yahweh habang buhay ako; aawit ako sa Elohim ko habang ako'y ⟨nasa⟩ pag-iral.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Magpuri ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "habang buhay ako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aawit ako"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim ko"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "habang ako'y nasa pag-iral"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.610629152Z",
+  "model": "glm-5.3"
+}

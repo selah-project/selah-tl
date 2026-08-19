@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "At lumigaw-ligaw na tuloy ang kaniyang mga anak, at mamalimos, at manghingi ng tinapay mula sa mga guho ng kanilang mga tahanan.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "at lumigaw"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "magpapaligaw-ligaw na tuloy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang kaniyang mga anak"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "at mamalimos"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "at manghingi\/maghahanap"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "mula sa mga guho ng kanilang (mga tahanan)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:51.820209570Z",
+  "model": "glm-5.3"
+}

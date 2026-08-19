@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Kilala ko ang lahat ng ibon ng mga bundok, at ang mga gumagalaw na hayop ng bukid ay nasa akin.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "kilala-ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ng-mga-bundok"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "at-mga-gumagalaw-na-hayop"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ng-bukid"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nasa-akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.010671718Z",
+  "model": "glm-5.3"
+}

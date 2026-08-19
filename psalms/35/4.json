@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Mahiya at mapahiya ang mga naghahangad sa aking buhay; umatras sila at madismaya ang mga nagbubuni ng kasamaan laban sa akin.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mahiya"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "at mapahiya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mga naghahangad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking buhay"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "umatras sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "at madismaya"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "mga nagbubuni"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ng kasamaan laban sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:48.385406410Z",
+  "model": "glm-5.3"
+}

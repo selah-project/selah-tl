@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Pinanumpa Ko ⟨את⟩ kayo, mga anak na babae ng Yerushalayim, sa mga usa at sa mga usang-babae ng bukid: huwag ninyong gisingin o pagisingin ang ⟨את⟩ pag-ibig hanggang sa maibigan niya.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Pinanumpa Ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "mga anak na babae ng Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "sa mga usa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "sa mga usang-babae"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "gisingin ninyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "pagisingin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pag-ibig"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ang pag-ibig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "maibigan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:11.025274002Z",
+  "model": "glm-5.3"
+}

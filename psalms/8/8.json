@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Mga tupa at mga baka, silang lahat, at pati mga hayop ng parang.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "at mga baka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang lahat"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mga hayop"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ng parang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:33.342971481Z",
+  "model": "glm-5.3"
+}

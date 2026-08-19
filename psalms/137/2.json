@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Sa mga willow sa gitna nito isinabit natin ang aming mga alpa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mga willow"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa gitna nito"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "isinabit natin"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "aming mga alpa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:29.902818859Z",
+  "model": "glm-5.3"
+}

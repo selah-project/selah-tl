@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At pati ang mga saserdote na lumalapit kay Yahweh ay magpabanal din, baka kumagat sa kanila si Yahweh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "na lumalapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "magpabanal din"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "kumagat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:02.967138488Z",
+  "model": "glm-5.3"
+}

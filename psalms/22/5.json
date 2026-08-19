@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa iyo nagtiwala ang aming mga ama; nagtiwala sila, at pinakawalan mo sila.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagtiwala"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ang aming mga ama"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagtiwala sila"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "at pinakawalan mo sila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:36.370881008Z",
+  "model": "glm-5.3"
+}

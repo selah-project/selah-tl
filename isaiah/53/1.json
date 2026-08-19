@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Sino ang sumampalataya sa ating narinig? At ang bisig ni Yahweh — kanino ito nagsiwalat?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "sumampalataya"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "sa ating narinig"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "at ang bisig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kanino"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "nagsiwalat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:39.262248979Z",
+  "model": "glm-5.3"
+}

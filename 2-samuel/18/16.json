@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At umugong si Yoav sa shofar, at bumalik ang bayan mula sa paghabol kay Israel, sapagkat hinadlangan ni Yoav ang ⟨את⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "at umugong siya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "mula sa paghabol"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hinadlangan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:08.042867064Z",
+  "model": "glm-5.3"
+}

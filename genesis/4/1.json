@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nakilala ng tao si Chavvah na asawa niya; at nagbuntis siya at nagsilang kay Kayin, at nagsabi: Nakamit ko ang isang lalaki sa ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "At ang tao"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "si Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na asawa niya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "at nagbuntis siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nagsilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "kay Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nakamit ko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang isang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "sa ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:42.267378223Z",
+  "model": "glm-5.3"
+}

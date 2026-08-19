@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At pahid-muhan-nyahan mo sila ⟨את⟩ kung paanong pina-hid-muhan-mo ang ⟨את⟩ kanilang ama, at maglilingkod sila bilang saserdote sa akin; at magiging taglay nila ang kanilang pagpapahid-muhan para sa pagkasaserdote magpakailanman, sa kanilang mga lahi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "at pahid-muhan-nyahan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "papagpapahid sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paano"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pina-hid-muhan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang ama"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "kanilang ama"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "at maglilingkod bilang saserdote"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "להית",
+      "gloss": "magiging-tunay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kanilang pagpapahid-munan"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "para sa pagkasaserdote"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa kanilang mga lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:43.410801188Z",
+  "model": "glm-5.3"
+}

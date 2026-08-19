@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At lumakas ang loob ni Paroh, at hindi niya pinawalan ang ⟨את⟩ mga anak ni Yisrael, gaya ng sinalita ni Yahweh sa pamamagitan ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at lumakas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso \/ loob"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pinawalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan \/ sa kamay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:24.951002373Z",
+  "model": "glm-5.3"
+}

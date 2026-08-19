@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At kinuha ko ang ⟨את⟩ aklat ng pagbili, ang ⟨את⟩ naka-tatak na kopya — ⟨ang⟩ nasasa-batas at ⟨ang⟩ mga kaugalian — at ang ⟨את⟩ nakabukas na kopya.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "at kinuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aklat ng pagbili"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "aklat"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ng pagbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naka-tatak na kopya"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "ang naka-tatak"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ang nasasa-batas"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "at ang mga kaugalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nakabukas na kopya"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ang nakabukas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:49:11.645708654Z",
+  "model": "glm-5.3"
+}

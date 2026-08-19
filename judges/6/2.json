@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At lumakas ang kamay ng Midyan laban kay Yisrael; mula sa harap ng Midyan nagawa para sa kanila ng mga anak ni Yisrael ang ⟨את⟩ mga minahan sa mga bundok, at ang ⟨את⟩ mga yungib, at ang ⟨את⟩ mga muog.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "at lumakas"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamay"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ng Midyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harap ng"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga minahan sa mga bundok"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "mga minahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na nasa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bundok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga yungib"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "mga yungib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga muog"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "mga muog"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:01.840567914Z",
+  "model": "glm-5.3"
+}

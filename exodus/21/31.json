@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "O lalaking anak ang hornasin, o babaeng anak ang hornasin, ayon ⟨sa⟩ hatol na ito ay gagawin ⟨sa kanya⟩.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "hornasin"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "hornasin"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa hatol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:05.309677535Z",
+  "model": "glm-5.3"
+}

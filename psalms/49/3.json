@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Pati mga anak ng tao, pati mga anak ng lalaki, magkakasama, ang mayaman at ang dukha.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng lalaki"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ang mayaman"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at ang dukha"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:34.267888177Z",
+  "model": "glm-5.3"
+}

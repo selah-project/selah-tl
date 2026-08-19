@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ibinigay siya ni Yahweh na Elohim natin sa harap natin, at tinalo natin siya ⟨את⟩, at ang ⟨את⟩ kaniyang mga anak, at ang ⟨את⟩ kaniyang buong bayan.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "at ibinigay siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim natin"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sa harap natin"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "at tinalo natin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang mga anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:47.305490753Z",
+  "model": "glm-5.3"
+}

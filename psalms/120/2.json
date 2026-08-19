@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Yahweh, iligtas mo ang aking nefesh mula sa mga labing pinamumunuan ng kasinungalingan, mula sa dila na puno ng dayà.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "mula sa mga labi ng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "mula sa dila ng"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "dayà"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:13.939175865Z",
+  "model": "glm-5.3"
+}

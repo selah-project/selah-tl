@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At naabot niya sila, at kinausap niya sila ng ⟨את⟩ mga salitang ito.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "at naabot niya sila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at kinausap"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salitang ito"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:04.068249757Z",
+  "model": "glm-5.3"
+}

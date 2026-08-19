@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ang ⟨את⟩ taba ng handog para sa kasalayan ay kanyang paiitugin sa ⟨the⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa kasalayan"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "paiitugin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:43.640158445Z",
+  "model": "glm-5.3"
+}

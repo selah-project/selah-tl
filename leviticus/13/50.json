@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At titingnan ng saserdote ⟨את⟩ ang lasa, at isasara niya ⟨את⟩ ang lasa nang pitong araw.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at titingnan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lasa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang lasa"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "at isasara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lasa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang lasa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nang pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:50:54.093803456Z",
+  "model": "glm-5.3"
+}

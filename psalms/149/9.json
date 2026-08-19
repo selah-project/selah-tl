@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Upang gawin sa kanila ang hatol na nakasulat; ito ay karangalan para sa lahat ng kanyang mga tapat. Luwalhatihin ninyo si Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa lahat"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ng kanyang mga tapat"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "luwalhatihin ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:19.642125618Z",
+  "model": "glm-5.3"
+}

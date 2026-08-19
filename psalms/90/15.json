@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Ipasaya mo kami ayon sa mga araw ng pagdadalamhati mo sa amin, mga taon ng aming pagkakita sa kasamaan.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Ipasaya mo kami"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "ayon sa mga araw"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ng pagdadalamhati mo sa amin"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "mga taon"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "aming pagkakita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sa kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:13.088973301Z",
+  "model": "glm-5.3"
+}

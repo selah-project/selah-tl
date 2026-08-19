@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kahit ipakitaan ng biyaya ang masama, hindi niya natututuhan ang katuwiran; sa lupang matinik ay gumagawa siya ng kabuktutan, at hindi niya nakikita ang kadakilaan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ipakitaan ng biyaya \/ kahit maawan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "למד",
+      "gloss": "natututuhan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa ng"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "matinik \/ tuwid"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "gumagawa ng kabuktutan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nakikita niya"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kadakilaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:29.868161146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At kumuha ang mga Palestino ng ⟨את⟩ kaban ng Elohim, at ipinasok nila ⟨את⟩ ito sa bahay ni Dagon, at inilagay nila ⟨את⟩ ito sa tabi ni Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "At kumuha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Palestino ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "at ipinasok nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kaban), patungo sa bahay ni Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kaban), sa tabi ni Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sa tabi"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:39.309085620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sa inyong pag-aani ng ⟨את⟩ ani ng inyong lupain, huwag mong tatapusin ⟨ang⟩ gilid ng iyong bukid sa iyong pag-aani, at ⟨ang⟩ nalalabi ng iyong ani ay huwag mong pipulot — sa dukha at sa dayuhan iiwan mo ang mga ito; ako si Yahweh, ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "at sa inyong pag-aani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani ng inyong lupain"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ng inyong lupain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tatapusin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ng iyong bukid"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "sa iyong pag-aani"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "at nalalabi"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ng iyong ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pipulot"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa dukha"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "at sa dayuhan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "iiwan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga ito",
+      "marks": "ang mga ito (gilid at nalalabi)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:01.260840061Z",
+  "model": "glm-5.3"
+}

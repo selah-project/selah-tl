@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At hindi ka mag-aasawa sa kanila: ang iyong anak na babae ay hindi mo ibibigay sa anak na lalaki niya, at ang anak na babae niya ay hindi mo kukunin para sa iyong anak na lalaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "mag-aasawa ka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ang iyong anak na babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo ibibigay"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "sa anak na lalaki niya"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "at ang anak na babae niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mo kukunin"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "para sa iyong anak na lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:52.203260775Z",
+  "model": "glm-5.3"
+}

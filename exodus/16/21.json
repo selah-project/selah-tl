@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At pinulot nila ito ⟨את⟩ kada umaga, kada umaga, bawat tao ayon sa kanyang kinakain; at nang uminit ang araw, natunaw ito.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "at pinulot nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang man)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ayon sa bilang"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ng kanyang pagkain"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "at nang uminit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "at natunaw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:09.033394328Z",
+  "model": "glm-5.3"
+}

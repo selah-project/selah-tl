@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At namatay ang hari, at dinala sa Shomeron, at inilibing ⟨si⟩ ⟨את⟩ ang hari sa Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "At namatay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:54.369223064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang daan ng ⟨na⟩ katapatan ang pinili ko; ang iyong mga hatol ay inilatag ko ⟨sa harap ko⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ng katapatan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ang pinili ko"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang iyong mga hatol"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ay inilatag ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:38.942352191Z",
+  "model": "glm-5.3"
+}

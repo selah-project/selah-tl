@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nangyari, sa pag-ikot ng mga araw, naglihi si Hannah at nanganak ng anak na lalaki, at tinawag niya ang ⟨את⟩ kaniyang pangalan na Shemuel, sapagkat mula kay Yahweh ay hiningi ko siya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "sa pag-ikot"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ng mga araw"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "naglihi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "si Hannah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kaniyang pangalan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "mula kay Yahweh"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "hiningi ko siya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:30.874548292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Sapagkat ang mga gumagawa ng kasamaan ay puputulin, ngunit ang mga naghihintay kay Yahweh — sila ang magmamana ng lupa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga gumagawa ng kasamaan"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "puputulin"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ngunit ang mga naghihintay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magmamana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:20.461242380Z",
+  "model": "glm-5.3"
+}

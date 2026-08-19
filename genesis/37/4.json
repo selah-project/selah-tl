@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At nakita ng kaniyang mga kapatid na ⟨את⟩ siya minahal ng kanilang ama higit sa lahat ng kaniyang mga kapatid, at kinapootan nila ⟨את⟩ siya, at hindi nila kayang magsalita sa kaniya nang mapayapa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kaniyang mga kapatid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Yosef)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "minahal"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ang kanilang ama"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kaniyang mga kapatid"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "at kinapootan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Yosef)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila kayang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "magsalita sa kaniya"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "nang mapayapa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:07.806904603Z",
+  "model": "glm-5.3"
+}

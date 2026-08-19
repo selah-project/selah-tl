@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At pinatira niya sila sa harap ng hari ng Moab, at tumahan sila kasama niya sa lahat ng mga araw ng pagiging ni David sa kuta.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "at pinatira niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa harap ng hari ng Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at tumahan sila"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ng pagiging"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa kuta"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:52.744414174Z",
+  "model": "glm-5.3"
+}

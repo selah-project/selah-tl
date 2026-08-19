@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At winasak ni Zimri ang ⟨את⟩ buong bahay ni Baasha, ayon sa salita ni Yahweh na kanyang sinalita laban kay Baasha sa pamamagitan ni Yehu ang propeta.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "At winasak"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ni Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bahay ni Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:04.785212330Z",
+  "model": "glm-5.3"
+}

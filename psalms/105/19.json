@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Hanggang sa dumating ang panahon ng kanyang salita; ang sinabi ni Yahweh ay nagtunaw sa kanya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang kanyang salita"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ang sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "nagtunaw sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:50.827425368Z",
+  "model": "glm-5.3"
+}

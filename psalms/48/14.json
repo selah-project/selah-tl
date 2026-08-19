@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Itakda ninyo ang inyong puso sa ⟨mga⟩ pader niya, pagmasdan ninyo ang mga kuta niya, upang maisalaysay ninyo sa susunod na salinlahi.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "Itakda ninyo"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ang inyong puso"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "sa mga pader niya"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "pagmasdan ninyo"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ang mga kuta niya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "maibalita ninyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa salinlahi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "na susunod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:26.889863877Z",
+  "model": "glm-5.3"
+}

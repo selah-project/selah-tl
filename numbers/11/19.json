@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Hindi isang araw lamang kayo kakain, at hindi dalawang araw, at hindi limang araw, at hindi sampung araw, at hindi dalawampung araw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "kakain kayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dalawang araw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:05.917817660Z",
+  "model": "glm-5.3"
+}

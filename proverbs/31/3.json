@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Huwag mong ibigay sa mga babae ang iyong lakas, ni ang iyong mga lakad sa paglipol sa mga hari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mong ibigay"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "sa mga babae"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ang iyong lakas"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "at ang iyong mga lakad"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "sa paglipol"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "sa mga hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:18.024518336Z",
+  "model": "glm-5.3"
+}

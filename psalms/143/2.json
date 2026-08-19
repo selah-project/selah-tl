@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "At huwag kang papasok sa paghuhukom ⟨kay⟩ iyong alipin, sapagkat walang matutuwid sa iyong harapan na sinumang buhay.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "At huwag"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kang papasok"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghuhukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong alipin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong alipin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "matutuwid"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sinumang"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:40.607155554Z",
+  "model": "glm-5.3"
+}

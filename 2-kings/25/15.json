@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ang ⟨את⟩ mga pang-ulingan, at ang ⟨את⟩ mga mangkok na inkarso — ginto na ginto, at pilak na pilak — kinuha ang puno ng mga berdugo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga pang-ulingan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "mga pang-ulingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga mangkok"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mga mangkok na inkarso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na ginto"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na pilak"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "puno"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ng mga berdugo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:51.462673839Z",
+  "model": "glm-5.3"
+}

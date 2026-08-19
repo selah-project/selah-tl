@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pawisin ng pari ⟨ang mga ito⟩ sa ⟨ang⟩ altar — pagkaing handog na sinusunog para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "at pawisin niya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na sinusunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:14.591724765Z",
+  "model": "glm-5.3"
+}

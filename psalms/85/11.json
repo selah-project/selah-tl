@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Ang kagandahang-loob at ang katotohanan ay nagtagpo; ang katuwiran at ang kapayapaan ay naghalikan.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "at katotohanan"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "nagtagpo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "at kapayapaan"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "naghalikan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.192282059Z",
+  "model": "glm-5.3"
+}

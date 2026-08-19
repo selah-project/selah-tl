@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Halika, paiinumin natin ng alak si ⟨את⟩ aming ama, at mahihiga tayo kasama niya, upang manatiling buhay ang binhi mula sa aming ama.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "halika"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "paiinumin natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming ama"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "aming ama"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ng alak"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "at mahihiga tayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "upang manatiling buhay"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "mula sa aming ama"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:05.941353100Z",
+  "model": "glm-5.3"
+}

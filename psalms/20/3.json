@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Magpadala siya ng iyong tulong mula sa ⟨קֹדֶשׁ⟩ santuwaryo, at mula sa Tsiyon ay suportahan ka niya.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "magpadala siya"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ng iyong tulong"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "mula sa santuwaryo"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "at mula sa Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "suportahan ka niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:09.905843921Z",
+  "model": "glm-5.3"
+}

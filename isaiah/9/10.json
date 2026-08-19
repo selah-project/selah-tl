@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At pinaltas ni Yahweh ang ⟨את⟩ mga kaaway ni Retsin laban sa kanya, at ang ⟨את⟩ mga kalaban niya ay kaniyang binihag.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "at pinaltas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaaway ni Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga kalaban niya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mga kalaban niya"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "kaniyang binihag"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:15.192784146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At siya ay nagsabi, Ibinigay ang ⟨את⟩ Abishag na Shunamita kay Adoniyahu, na kapatid mo, na asawa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ang Shunamita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kay Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kapatid mo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:09.862671654Z",
+  "model": "glm-5.3"
+}

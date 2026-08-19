@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Na nagpapatalas ng kanilang dila na parang tabak, at nagtutudla ng kanilang pana — mapait na salita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Na"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "nagpapatalas"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "parang tabak"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang kanilang dila"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nagtutudla ng"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ang kanilang pana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mapait"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.645955277Z",
+  "model": "glm-5.3"
+}

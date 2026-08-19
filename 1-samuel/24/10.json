@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sinabi ni David kay Sha'ul: Bakit nakikinig ka sa ⟨את⟩ mga salita ng mga tao, na nagsasabi: Narito, si David ⟨ay⟩ naghahanap ng iyong kasamaan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Sha'ul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "nakikinig ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng mga tao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ng iyong kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:40.256381110Z",
+  "model": "glm-5.3"
+}

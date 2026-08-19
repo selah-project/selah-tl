@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Sabihin ninyo sa mga bansa: \"Naghari si Yahweh!\" Oo, matatag ang ⟨tundo⟩, hindi ito magagalaw; hahatol Siya sa mga bansa nang tuwid.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sabihin ninyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "matatag"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang tundo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magagalaw"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hahatol Siya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "nang tuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:35.332861933Z",
+  "model": "glm-5.3"
+}

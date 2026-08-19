@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sinabi ko: El ko, huwag Akong itaas sa kalagitnaan ng aking mga araw; sa lahi ng mga lahi ⟨ang⟩ mga taon Mo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "akong itaas"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa kalagitnaan ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "aking mga araw"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ng mga lahi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "mga taon Mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:30.763056372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nagdadalang-tao ang ⟨ang⟩ babae, at nagsugo at ipinahayag kay David, at nagsabi: Nagdadalang-tao ako.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "at nagdadalang-tao"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨ang⟩ babae"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "at nagsugo"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "at ipinahayag"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "nagdadalang-tao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:36.457110102Z",
+  "model": "glm-5.3"
+}

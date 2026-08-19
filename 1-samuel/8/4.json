@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Kaya nagtipon ang lahat ng mga matatanda ng Yisrael, at pumaroon kay Shemuël sa Ramata.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at pumaroon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Ramata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.449352207Z",
+  "model": "glm-5.3"
+}

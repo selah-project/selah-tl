@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At pinasok ng lalaki ang ⟨את⟩ mga lalaki sa bahay ni Yosef, at nagbigay siya ng tubig, at naghugas sila ng kanilang mga paa, at nagbigay siya ng patibay para sa kanilang mga asno.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pinasok"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lalaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at nagbigay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "at naghugas"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kanilang mga paa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at nagbigay"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "patibay"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "para sa kanilang mga asno"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:35.278980439Z",
+  "model": "glm-5.3"
+}

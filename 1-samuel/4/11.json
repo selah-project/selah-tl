@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang kaban ng Elohim ay nakuha, at ang dalawang anak ni Eli ay namatay — si Chophni at si Pinchas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "At ang kaban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "ay nakuha"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "at ang dalawang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ay namatay"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "si Chophni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "at si Pinchas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:46.348670291Z",
+  "model": "glm-5.3"
+}

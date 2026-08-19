@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Sapagkat hindi mo pababayaan ang aking nefesh sa Sheol, ni hindi mo hahayaang makita ng iyong banal ang ⟨פ✔פ✔⟩ lubak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mo pababayaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni hindi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo hahayaang"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ang iyong banal"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "makita"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ang lubak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:10.260049293Z",
+  "model": "glm-5.3"
+}

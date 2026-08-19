@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Ninunungan mo ang taon ng iyong kagalingan, at ang iyong mga landas ay may tumutulong taba.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ninunungan mo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ang taon"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ng iyong kagalingan"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "at ang iyong mga landas"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ay may tumutulong"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "taba (kasaganaan)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:14.967092529Z",
+  "model": "glm-5.3"
+}

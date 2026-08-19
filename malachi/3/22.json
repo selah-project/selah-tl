@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Alalahanin ninyo ang kautusan ni Moshe, aking alipin, na iniutos ko ⟨את⟩ sa kanya sa Choreb, ukol sa buong Israel na mga tuntunin at mga hatol.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Alalahanin ninyo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang kautusan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking alipin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "iniutos ko"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Choreb"
+    },
+    {
+      "surface": "על",
+      "gloss": "ukol sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "mga tuntunin"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "at mga hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:25.557631852Z",
+  "model": "glm-5.3"
+}

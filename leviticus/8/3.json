@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "at ⟨את⟩ buong kapisanan ay tipunin mo sa pasukan ng Tolda ng Tipanan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong kapisanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "tipunin mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:41.304914435Z",
+  "model": "glm-5.3"
+}

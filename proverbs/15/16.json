@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Mas mabuti ang kaunti na may takot kay Yahweh kaysa malaking kayamanan na may kaguluhan dito.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunti"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "na may takot kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "kaysa kayamanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "at kaguluhan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:34.676553689Z",
+  "model": "glm-5.3"
+}

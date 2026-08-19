@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ipinadala nila ang ⟨את⟩ damit-na-maraming-kulay, at dinala sa kanilang ama, at nagsabi: Ito ang aming natagpuan; kilalanin mo nga kung ⟨ang⟩ damit ng iyong anak ⟨ito⟩ ba o hindi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "At ipinadala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damit-na-maraming-kulay"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ang damit"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "na-maraming-kulay"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "kanilang ama"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "aming natagpuan"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "kilalanin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang damit"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ng iyong anak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:59.040232042Z",
+  "model": "glm-5.3"
+}

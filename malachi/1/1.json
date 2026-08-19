@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Pasang ←- burden: Pasan ng salita ni Yahweh sa Israel, sa pamamagitan ni Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pasan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:32.073278091Z",
+  "model": "glm-5.3"
+}

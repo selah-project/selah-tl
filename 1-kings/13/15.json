@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At sinabi niya rito: Pumarito ka ⟨את⟩ kasama ako papunta sa bahay, at kumain ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pumarito ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kasama ako"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "papunta sa bahay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at kumain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:57.674625339Z",
+  "model": "glm-5.3"
+}

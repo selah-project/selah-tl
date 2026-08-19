@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Hindi na siya babalik pa sa kaniyang bahay, at hindi na siya kilalanin pa ng kaniyang dako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa kaniyang bahay"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "siya kilalanin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ng kaniyang dako"
+    }
+  ],
+  "timestamp": "2026-08-19T19:53:13.771190280Z",
+  "model": "glm-5.3"
+}

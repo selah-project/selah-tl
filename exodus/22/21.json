@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ang bawat babaing balo at ulila ay huwag ninyong pangingmaling aapihin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "babaing balo"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "at ulila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ninyong aapihin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:27.684794997Z",
+  "model": "glm-5.3"
+}

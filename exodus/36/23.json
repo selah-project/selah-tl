@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ginawa niya ang ⟨את⟩ mga board para sa mishkan: dalawampung board sa bahaging timog, patungong timog.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga board"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "⟨the⟩ mga board"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "board"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa bahaging"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timog"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "patungong timog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:36.187682975Z",
+  "model": "glm-5.3"
+}

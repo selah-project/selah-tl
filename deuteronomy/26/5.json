@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sasagutin mo at sasabihin mo sa harap ni Yahweh na iyong Elohim: 'Isang Arameong palaboy ang aking ama, at bumaba siya sa Mitsrayim, at nanirahan doon na may kaunting bilang, at naging doon na isang bansang dakila, makapangyarihan at marami.'",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "at sasagutin mo"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "at sasabihin mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "Arameo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "palaboy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang aking ama"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba siya"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "at nanirahan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "na may bilang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na isang bansa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at marami"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:22.994360917Z",
+  "model": "glm-5.3"
+}

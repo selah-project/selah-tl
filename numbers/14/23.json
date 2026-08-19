@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "kung makikita nila ⟨את⟩ lupaing ipinangako ko sa kanilang mga ama — ngunit lahat ng humamak sa akin ay hindi ito makikita.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ipinangako ko"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "sa kanilang mga ama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ngunit lahat ng"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "humamak sa akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "makikita ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:36.246524305Z",
+  "model": "glm-5.3"
+}

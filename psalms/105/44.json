@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At ibinigay niya sa kanila ang mga lupain ng mga bansa, at ang pinagpaguran ng mga lahi ay kanilang minana.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "mga lupain"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "at ang pinagpaguran"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ng mga lahi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ay kanilang minana"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:49.269275384Z",
+  "model": "glm-5.3"
+}

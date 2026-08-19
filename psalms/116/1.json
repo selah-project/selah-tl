@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Iniibig ko, sapagkat dinidinig ni Yahweh ang ⟨את⟩ tinig ko, ang ⟨את⟩ pamamanhikan ko.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Iniibig ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "dinidinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig ko"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tinig ko"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pamamanhikan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:59.690774827Z",
+  "model": "glm-5.3"
+}

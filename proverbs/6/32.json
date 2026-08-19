@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ang sumasapak sa babae ay kulang sa puso; sirang-sira ang kanyang ⟨nefesh⟩ ang gumagawa niyon.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "ang sumasapak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa babae"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "sirang-sira"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang ⟨nefesh⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "gumagawa niyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:00.410703353Z",
+  "model": "glm-5.3"
+}

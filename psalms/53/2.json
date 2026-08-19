@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Nagsabi ang hangal sa kanyang puso, \"Walang Elohim.\" Nasisira sila at gumagawa ng kasamaang karumal-dumal; walang gumagawa ng mabuti.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang hangal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kanyang puso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "nanasisira"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "at gumagawa ng karumal-dumal"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:50.531999556Z",
+  "model": "glm-5.3"
+}

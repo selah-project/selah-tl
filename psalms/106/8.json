@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Ngunit iniligtas niya sila alang-alang sa kanyang pangalan, upang ipakilala ang ⟨את⟩ kanyang kapangyarihan.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ngunit iniligtas niya sila"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang-alang sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "upang ipakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kapangyarihan"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "kanyang kapangyarihan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:40.890226861Z",
+  "model": "glm-5.3"
+}

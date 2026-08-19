@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang ⟨את⟩ kanilang mga anak ay itinatag sa kanilang lugar; ⟨את⟩ sila ay tinuli ni Yehoshua, sapagkat hindi-tuli sila nangyari, sapagkat hindi sila natuli sa ⟨את⟩ daan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kanilang mga anak"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "itinatag"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "sa kanilang lugar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "tinuli ni Yehoshua"
+    },
+    {
+      "surface": "מל",
+      "gloss": "tinuli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "hindi-tuli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila nangyari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "natuli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "tinuli sa daan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:16.954458994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At si Avraham ay isang daang taong gulang nang ipanganak sa kaniya si ⟨את⟩ Yitshak na kaniyang anak.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "At si Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taong gulang"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "nang ipanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:28.386550429Z",
+  "model": "glm-5.3"
+}

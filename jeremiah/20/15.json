@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Sumpa ang lalaking nagbalita kay ⟨את⟩ aking ama, na nagsasabing: Ipinanganak sa iyo ang anak na lalaki — pinasaya niya siya nang labis!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nagbalita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking ama"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "aking ama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Ipinanganak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "na lalaki"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "pinasaya"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "siya nang labis"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:03.014262204Z",
+  "model": "glm-5.3"
+}

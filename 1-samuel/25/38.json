@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nangyari makalipas ang sampung araw, sinalo ni Yahweh si ⟨את⟩ Nabal, at siya'y namatay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "makalipas ang sampung"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "sinalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:22.075224697Z",
+  "model": "glm-5.3"
+}

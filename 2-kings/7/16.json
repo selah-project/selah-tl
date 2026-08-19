@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At lumabas ang bayan at dinambong ang ⟨את⟩ kampo ng Aram, at naging isang sea ng pinong harina sa isang sikel, at dalawang sea ng sebada sa isang sikel, ayon sa salita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "at dinambong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampo ng Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "isang sea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinong harina"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa isang sikel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "at dalawang sea"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sebada"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa isang sikel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:51.357283065Z",
+  "model": "glm-5.3"
+}

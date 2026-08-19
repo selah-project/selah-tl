@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Tingnan mo, inilagay ni Yahweh na iyong Elohim ang ⟨את⟩ lupain sa iyong harapan; umahon ka, ariin mo ito, kung paanong sinalita ni Yahweh na Elohim ng iyong mga ama sa iyo; huwag kang matakot at huwag kang mawalan ng lakas ng loob.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tingnan mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umahon ka"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ariin mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "iyong mga ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang matakot"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kang mawalan ng lakas ng loob"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:01.025192930Z",
+  "model": "glm-5.3"
+}

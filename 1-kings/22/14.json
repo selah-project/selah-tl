@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi ni Mikhayhu: Buhay si Yahweh — kung ano ang sasabihin sa akin ni Yahweh, ⟨את⟩ iyon ang aking sasabihin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ni Mikhayhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyon (ang sasabihin ni Yahweh)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyon",
+      "marks": "ang aking sasabihin"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ang aking sasabihin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:33.810896070Z",
+  "model": "glm-5.3"
+}

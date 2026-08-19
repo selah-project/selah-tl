@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Gaya ng hayop na bumababa sa libis, ang Ruach ni Yahweh ang nagpahinga sa kanila; gayon din, pinatnubayan mo ang iyong bayan upang gumawa ng marilag na pangalan para sa iyo.",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "gaya ng hayop"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "nagpahinga sa kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "pinatnubayan mo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang iyong bayan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gumawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "marilag"
+    }
+  ],
+  "timestamp": "2026-08-19T17:12:55.107687147Z",
+  "model": "glm-5.3"
+}

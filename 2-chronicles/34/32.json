@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At pinaakyat niya na tumayo ang ⟨את⟩ lahat ng natagpuan sa Yerushalayim at Binjamin; at ginawa ng mga naninirahan sa Yerushalayim ayon sa tipan ng Elohim, ng Elohim ng kanilang mga ama.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at pinaakyat na tumayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng natagpuan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ng natagpuan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "at Binjamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "ayon sa tipan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "kanilang mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:02.653823737Z",
+  "model": "glm-5.3"
+}

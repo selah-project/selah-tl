@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Ganito ang sinabi ni Yahweh: Kung makakapagpawalang-bisa kayo sa ⟨את⟩ aking tipan sa araw at sa ⟨את⟩ aking tipan sa gabi, upang hindi na maging araw at gabi sa takdang panahon nila —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "makakapagpawalang-bisa kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tipan sa araw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking tipan sa gabi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "aking tipan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "upang hindi na"
+    },
+    {
+      "surface": "היות",
+      "gloss": "maging"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at gabi"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "sa takdang panahon nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:30:06.014429320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Sa Pangulo ng mga mang-aawit. Isang mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo ng mga mang-aawit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.645536480Z",
+  "model": "glm-5.3"
+}

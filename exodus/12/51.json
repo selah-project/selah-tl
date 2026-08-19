@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Nangyari sa mismong araw na iyon, inilabas ni Yahweh ang ⟨את⟩ mga anak ni Yisrael mula sa lupain ng Mitzrayim ayon sa kanilang mga hukbo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "sa mismong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "inilabas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "kanilang mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:58.256153633Z",
+  "model": "glm-5.3"
+}

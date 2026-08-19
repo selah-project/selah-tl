@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Anong pakinabang sa aking dugo, sa aking paglubog sa ⟨the⟩ hukay? Magpupuri ba sa iyo ang alabok? Magbabalita ba ito ng iyong katotohanan?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "sa aking dugo"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "sa aking paglubog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hukay"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "magpupuri ba sa iyo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "magbabalita ba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ng iyong katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:22.516333467Z",
+  "model": "glm-5.3"
+}

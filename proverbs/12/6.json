@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang mga salita ng mga masama ay pagtatanim ng dug ⟨al⟩ pag-abang; ngunit ang bibig ng mga matapat ay magliligtas sa kanila.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pagtatanim \/ pag-abang"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ngunit ang bibig"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ng mga matapat"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "magliligtas sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:49.309769227Z",
+  "model": "glm-5.3"
+}

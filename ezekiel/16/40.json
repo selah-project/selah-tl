@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At mag-aakyat sila laban sa iyo ng isang kapisanan, at babatuhan ka nila ng ⟨את⟩ mga bato, at sasaksakin ka nila ng kanilang mga tabak.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "at mag-aakyat sila"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "at babatuhan ka nila"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ikaó",
+      "marks": "ng mga bato"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "at sasaksakin ka nila"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ng kanilang mga tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:43:52.401978987Z",
+  "model": "glm-5.3"
+}

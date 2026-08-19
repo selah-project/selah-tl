@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Makikita ito ng mga matuwid, at mangangamba, at tatawa sa kanya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "at makikita"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "at mangangamba"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "tatawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:18.235614621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Sa ganito papasok si Aharon sa ⟨ang⟩ banal na dako: ng isang baka na anak ng kawan bilang handog para sa kasalanan, at ng isang tupa bilang handog na susunugin.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "sa ganito"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨ang⟩ banal na dako"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng kawan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bilang handog para sa kasalanan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "at ng tupa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bilang handog na susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:35.873374248Z",
+  "model": "glm-5.3"
+}

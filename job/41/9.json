@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Ang bawat isa ay nakadikit ⟨sa⟩ kapwa niya; sila'y nagsasama-sama at hindi magkakahiwalay.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "sa kapwa niya"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "nakadikit"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "nagsasama-sama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "magkakahiwalay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:55:53.785164695Z",
+  "model": "glm-5.3"
+}

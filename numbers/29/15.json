@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At isang ikasampung bahagi sa bawat isang tupa, para sa labing-apat na tupa.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "at isang ikasampung bahagi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "isang ikasampung bahagi"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "sa tupa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "para sa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "labing-"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "apat na mga tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:16:46.521375006Z",
+  "model": "glm-5.3"
+}

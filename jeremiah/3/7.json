@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ko: Pagkatapos niyang gawin ang ⟨את⟩ lahat ng mga ito, babalik siya sa akin; ngunit hindi siya bumalik. At nakita ito ng mapanlinlang niyang kapatid na si Yehudah.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "niyang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "bumalik siya"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "ang mapanlinlang"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "niyang kapatid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T17:15:23.552806761Z",
+  "model": "glm-5.3"
+}

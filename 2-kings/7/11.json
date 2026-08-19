@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At tumawag ang mga tagapagbantay ng pinto, at ipinahayag sa loob ng bahay ng hari.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tumawag"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ang mga tagapagbantay ng pinto"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "at ipinahayag nila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sa loob"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:11.196051170Z",
+  "model": "glm-5.3"
+}

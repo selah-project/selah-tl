@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At gagawin mo ang isang dambana para sa pagsusunog ng insenso; nganga-kahoy sa shittim gagawin mo ⟨את⟩ niya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "para sa pagsusunog"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ng insenso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "niya (ang dambana)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:03.506934178Z",
+  "model": "glm-5.3"
+}

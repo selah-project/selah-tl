@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi namin sa kaniya: Tapat na mga tao kami; hindi kami naging mga espiya.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "at sinabi namin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "tapat na mga tao"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:07.969569494Z",
+  "model": "glm-5.3"
+}

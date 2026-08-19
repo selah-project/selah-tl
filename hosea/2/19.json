@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At aalisin Ko ang ⟨את⟩ mga pangalan ng mga Baalim mula sa kaniyang bibig, at hindi na mababanggit pa sa kanilang mga pangalan.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "at aalisin Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pangalan ng mga Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ng mga Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "mula sa kaniyang bibig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "mababanggit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "sa kanilang mga pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:31.778315304Z",
+  "model": "glm-5.3"
+}

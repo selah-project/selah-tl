@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nagpatungo si Moshe at si Aharon, at tinipon nila ang ⟨את⟩ lahat ng mga matatanda ng mga anak ni Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagpatungo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "atin sila tinipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga matatanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:29.553495350Z",
+  "model": "glm-5.3"
+}

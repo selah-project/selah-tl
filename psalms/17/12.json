@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang kanyang pagkakahawig ⟨ay⟩ gaya ng leon na naghahangad lumamon, at gaya ng batang leon na nakaupo sa mga taguan.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ang kanyang pagkakahawig"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "gaya ng leon"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "lumamon"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "at gaya ng batang leon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "na nakaupo"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga taguan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:27.033217236Z",
+  "model": "glm-5.3"
+}

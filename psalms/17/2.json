@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Mula sa harapan mo lalabas ang aking hatol; ang iyong mga mata ay makakakita ng katuwiran.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "mula sa harapan mo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang aking hatol"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ang iyong mga mata"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "makakakita"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ng katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:36.702067086Z",
+  "model": "glm-5.3"
+}

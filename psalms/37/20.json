@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Sapagkat papahamakin ang mga masasama, at ang mga kaaway ni Yahweh — parang matabang mga tupang handog, maglalaho; gaya ng usok, maglalaho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga masasama"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "papahamakin"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "at ang mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "parang taba\/mataba"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ng mga tupang handog"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "maglalaho"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "gaya ng usok"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "maglalaho"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:40.731257199Z",
+  "model": "glm-5.3"
+}

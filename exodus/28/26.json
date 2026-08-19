@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At gagawa ka ng dalawang singsing na ginto, at ilalagay mo ⟨את⟩ mga iyon sa dalawang dulo ng choshen, sa gilid nito na nasa gawi ng ephod, papaloob.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawa ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (ang mga singsing)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dulo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ng choshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "gilid nito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gawi ng"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "papaloob"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:05.281636004Z",
+  "model": "glm-5.3"
+}

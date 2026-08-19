@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At iniutos ni Yehoshua sa ⟨את⟩ mga saserdote, na sinasabi: Umahon kayo mula sa Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umahon kayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:52.908630879Z",
+  "model": "glm-5.3"
+}

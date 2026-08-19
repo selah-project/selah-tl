@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Yahweh, itatatag mo ang kapayapaan para sa amin; sapagkat maging ang lahat ng ating mga gawa ay iyong ginawa para sa amin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "itatatag mo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan \/ shalom"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maging \/ pati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "mga gawa namin"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:29.868432860Z",
+  "model": "glm-5.3"
+}

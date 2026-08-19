@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ikint↊ mo ang pandinig sa tinig ng Sigaw ko, aking hari at aking Elohim, sapagkat sa iyo ako nananalangin.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ikint↊ mo ang pandinig"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tinig ng"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "sigaw ko"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "aking hari"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at aking Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ako nananalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:05.544070250Z",
+  "model": "glm-5.3"
+}

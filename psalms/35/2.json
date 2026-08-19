@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Hawakan mo ang kalasag at ang maliit na panangga, at tumindig ka sa pagtulong sa akin.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Hawakan mo"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "at maliit na panangga"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "at tumindig ka"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "sa pagtulong sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:48.385163606Z",
+  "model": "glm-5.3"
+}

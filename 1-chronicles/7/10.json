@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang mga anak ni Yediael: Bilhan; at ang mga anak ni Bilhan: Yeush, at Binyamin, at Ehud, at Kenaana, at Zeitan, at Tarshish, at Ahishahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "ni Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ni Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "at Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "at Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "at Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "at Zeitan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "at Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "at Ahishahar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:55.297148036Z",
+  "model": "glm-5.3"
+}

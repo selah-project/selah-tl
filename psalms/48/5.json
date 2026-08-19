@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Sapagkat narito, ang mga hari ay nagtipon, lumipas silang magkakasama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:02.617764510Z",
+  "model": "glm-5.3"
+}

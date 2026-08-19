@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Uposa lamang — ⟨ang⟩ ⟨את⟩ dugo nito ay hindi mo kakainin; sa ibabaw ng lupa ibubuhos mo ⟨siya⟩, gaya ng tubig.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo nito"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dugo nito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mo kakainin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ibubuhos mo ⟨siya⟩"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "gaya ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:02.641070570Z",
+  "model": "glm-5.3"
+}

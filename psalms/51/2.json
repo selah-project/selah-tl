@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Nang dumating sa kaniya si Natan ang propeta, pagkatapos niyang pumasok kay Bat-Sheba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nang dumating"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:10.701791291Z",
+  "model": "glm-5.3"
+}

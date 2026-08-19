@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kukuhain ng kohen ang ⟨את⟩ isang tupa, at ihahandog niya ⟨את⟩ ito bilang handog para sa pagkakasala, at ang ⟨את⟩ log ng langis, at iuulong niya ⟨את⟩ mga iyon bilang pag-uulong sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukuhain ng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang tupa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "at ihahandog niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang tupa)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "bilang handog para sa pagkakasala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "log ng langis"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "at iuulong niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (tupa at langis)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "bilang pag-uulong"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:32.986503445Z",
+  "model": "glm-5.3"
+}

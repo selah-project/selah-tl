@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Ngunit ako, sa iyo ako nanalig, Yahweh; aking sinabi: Elohim ko ikaw.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nanalig ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.255319068Z",
+  "model": "glm-5.3"
+}

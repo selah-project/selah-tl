@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagpatungo si Elkanah sa Rama, sa kanyang bahay; ngunit ang batang lalaki ay nangangalugurong ⟨את⟩ si Yahweh sa harapan ni Eli ang pari.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "At nagpatungo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkanah"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "sa Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "patungo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa kanyang bahay"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "ngunit ang batang lalaki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nangangaluguro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa harapan ni Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:06.861729600Z",
+  "model": "glm-5.3"
+}

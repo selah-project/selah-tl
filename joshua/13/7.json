@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At ngayo'y hatiin mo ang ⟨את⟩ lupaing ito bilang pamana sa siyam na tribo at sa kalahati ng tribo ni Menashe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayo'y"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "hatiin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupaing ito"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupaing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "bilang pamana"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "sa siyam na"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at sa kalahati ng"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:42.419646057Z",
+  "model": "glm-5.3"
+}

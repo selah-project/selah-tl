@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Kayong nangangatakot kay Yahweh, magtiwala kayo kay Yahweh; kanilang tulong at kanilang kalasag ay siya.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "kayong nangangatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "magtiwala kayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "kanilang tulong"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "at kanilang kalasag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.306834569Z",
+  "model": "glm-5.3"
+}

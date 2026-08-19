@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At iginalo niya ang ⟨את⟩ kanyang handog na sunugin at ang ⟨את⟩ kanyang handog na harain, at ibinuhos ang ⟨את⟩ kanyang inuming handog, at iniwisik ang ⟨את⟩ dugo ng ⟨the⟩ mga handog na kapayapaan na sa kaniya sa ibabaw ng altar.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "at iginalo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang handog na sunugin"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kanyang handog na sunugin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanyang handog na harain"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "kanyang handog na harain"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "at ibinuhos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "kanyang inuming handog"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "kanyang inuming handog"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "at iniwisik niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ng mga handog na kapayapaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:08.732636045Z",
+  "model": "glm-5.3"
+}

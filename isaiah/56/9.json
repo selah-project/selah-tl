@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Mga hayop ng ⟨the⟩ bukid, lahat, umáti kayo upang kumain, lahat ng hayop sa ⟨the⟩ gubat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mga hayop"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "umáti kayo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "upang kumain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ng hayop"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:31.376711306Z",
+  "model": "glm-5.3"
+}

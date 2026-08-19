@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang nag-iingat ng utos ay nag-iingat ng kanyang buhay; ngunit ang tumutuya sa kanyang mga lakad ay mamamatay.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ang nag-iingat"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ng utos"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ay nag-iingat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ng kanyang buhay"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ang tumutuya"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sa kanyang mga lakad"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ay mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:43.415684679Z",
+  "model": "glm-5.3"
+}

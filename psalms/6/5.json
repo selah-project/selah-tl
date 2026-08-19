@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Magbalik, O Yahweh, iligtas mo ang aking ⟨את⟩ kaluluwa; iligtas mo ako alang-alang sa iyong kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Magbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking ⟨את⟩ kaluluwa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang-alang sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:48.438886517Z",
+  "model": "glm-5.3"
+}

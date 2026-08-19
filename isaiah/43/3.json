@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Sapagkat ako ay si Yahweh, ang iyong Elohim, ang Banal ng Yisrael, ang iyong Tagapagligtas; ibinigay ko ang Misrayim bilang pantubos mo, ang Kush at ang Seva bilang kapalit mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Banal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "ang iyong Tagapagligtas"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "bilang pantubos mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Misrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ang Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "at ang Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "bilang kapalit mo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:07.267160665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Magbubuhat ang ⟨mga⟩ bundok ng shalom para sa bayan, at ang mga burol nang may katuwiran.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "magbubuhat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "para sa bayan"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "at ang mga burol"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "nang may katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:17.085325893Z",
+  "model": "glm-5.3"
+}

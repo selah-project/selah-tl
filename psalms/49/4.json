@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Ang aking bibig ay magsasalita ng karunungan, at ang pagninilay ng aking puso ay ng-unawa.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ang aking bibig"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ay magsasalita"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "at ang pagninilay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ng aking puso"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ay ng-unawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:34.268044381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Sa buong lupa lumalabas ang kanilang panukat, at sa mga dulo ng sanlibutan ang kanilang mga salita; para sa araw ay naglagay ⟨siya⟩ ng tolda sa mga ito.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "קום",
+      "gloss": "panukat nila"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "at sa dulo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sanlibutan"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mga salita nila"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "para sa araw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:16.116247483Z",
+  "model": "glm-5.3"
+}

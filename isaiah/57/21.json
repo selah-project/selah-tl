@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Walang shalom, sabi ng aking Elohim, sa mga walang katuwiran.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng aking Elohim"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "sa mga walang katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:57.601658765Z",
+  "model": "glm-5.3"
+}

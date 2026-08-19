@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sa mga Rubenita at sa mga Gadi ay ibinigay ko mula sa Gilead hanggang sa batis ng Arnon, gitna ng batis at ⟨ang⟩ hangganan, at hanggang sa Yabbok na batis, ang hangganan ng mga anak ni Amon.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "at sa mga Rubenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "at sa mga Gadi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gitna"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ng batis"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "at hangganan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabbok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hangganan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:06.828308416Z",
+  "model": "glm-5.3"
+}

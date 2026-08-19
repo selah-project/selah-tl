@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sumalakay ang Sheva at dinakip sila, at ang ⟨את⟩ mga alila ay sinaktan ng talim ng tabak; at nakaligtas lamang ako, akong mag-isa, upang ipaalam sa iyo.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "at sumalakay"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "dinakip sila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga alila"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ang mga alila"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ng talim"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "at nakaligtas ako"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "akong mag-isa"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "upaang ipaalam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:55.946494481Z",
+  "model": "glm-5.3"
+}

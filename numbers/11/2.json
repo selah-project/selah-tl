@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sumigaw ang bayan kay Moshe, at nanalangin si Moshe kay Yahweh, at humupa ang apoy.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "at sumigaw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "at nanalangin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "at humupa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ang apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:52.502897524Z",
+  "model": "glm-5.3"
+}

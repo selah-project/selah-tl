@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 112,
+  "translation": "Mabuti ang taong nagpapakabuti at nagpapahiram; kanyang pinapanatili ang kanyang mga usapin sa hatol.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagpapakabuti"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "at nagpapahiram"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "kanyang pinapanatili"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ang kanyang mga usapin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:57.505157891Z",
+  "model": "glm-5.3"
+}

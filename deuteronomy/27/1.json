@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At iniutos ni Moshe at ng mga matanda ng Yisrael sa ⟨את⟩ bayan, na nagsasabi: Ingatan ninyo ang ⟨את⟩ buong utos na iniuutos ko ⟨את⟩ sa inyo ngayong araw.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "at ng mga matanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Ingatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buong utos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "utos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iniuutos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:06.433637593Z",
+  "model": "glm-5.3"
+}

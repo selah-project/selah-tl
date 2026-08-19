@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Hindi ka makakaya maghain ng ⟨את⟩ Pesach sa alinman sa mga pintuan-bayan mo, na pinipili ni Yahweh na Elohim mo na ibigay sa iyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "maghain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa alinman"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "mga pintuan-bayan mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:17.407489711Z",
+  "model": "glm-5.3"
+}

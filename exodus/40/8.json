@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At itatakda mo ang ⟨את⟩ looban sa palibot, at ilalagay mo ang ⟨את⟩ kurtina ng tarangkahan ng looban.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "at itatakda mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "looban"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "looban"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurtina ng tarangkahan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng looban"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:02.011299954Z",
+  "model": "glm-5.3"
+}

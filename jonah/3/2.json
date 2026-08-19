@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Tumindig ka, pumaroon ka sa Nineve, ⟨ang⟩ malaking lungsod, at ipahayag mo sa kaniya ang ⟨את⟩ pagpapahayag na ako ang nagsasalita sa iyo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pumaroon ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ lungsod"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "at ipahayag mo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagpapahayag"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "pagpapahayag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsasalita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:02.337569996Z",
+  "model": "glm-5.3"
+}

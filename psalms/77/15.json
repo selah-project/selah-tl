@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Ikaw ang ⟨na⟩ El na gumagawa ng ⟨את⟩ mga kamangha-mangha; ipinakilala mo sa mga bansa ang iyong kalakasan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa ng"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mga kamangha-mangha"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ipinakilala mo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "iyong kalakasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:45.146225869Z",
+  "model": "glm-5.3"
+}

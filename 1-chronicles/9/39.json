@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 9:39",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At si Ner ay naging ama ni ⟨את⟩ Kish; at si Kish ay naging ama ni ⟨את⟩ Shaul; at si Shaul ay naging ama ni ⟨את⟩ Yehonatan, at ⟨את⟩ ni Malki-Shua, at ⟨את⟩ ni Avinadav, at ⟨את⟩ ni Eshbaal.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "at si Ner"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Kish"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "si Kish"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "at si Kish"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "at si Shaul"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩ ni",
+      "marks": "si Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩ ni",
+      "marks": "si Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "si Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩ ni",
+      "marks": "si Eshbaal"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "si Eshbaal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:19.608277530Z",
+  "model": "glm-5.3"
+}

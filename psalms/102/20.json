@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sapagkat sumilip ⟨siya⟩ mula sa kaitaasan ng ⟨kanyang⟩ banal na dako; si Yahweh, mula sa langit papunta sa lupa ay tumingin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "sumilip"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "mula sa kaitaasan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ng banal na dako niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "tumingin nang mataman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:33.291577339Z",
+  "model": "glm-5.3"
+}

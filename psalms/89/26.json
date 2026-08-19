@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At ilalagay ko sa dagat ang kanyang kamay, at sa mga ilog ang kanyang kanang kamay.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "at ilalagay ko"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "at sa mga ilog"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ang kanyang kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:45.207546791Z",
+  "model": "glm-5.3"
+}

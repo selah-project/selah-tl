@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "⟨את⟩ ang bawat uwak ayon sa kanyang uri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bawat uwak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uwak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ayon sa kanyang uri"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:40.576679469Z",
+  "model": "glm-5.3"
+}

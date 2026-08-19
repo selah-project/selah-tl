@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nangyari, samantalang nakasakay siya sa asno at bumababa sa tagong bahagi ng bundok, at narito, si David at ang kanyang mga lalaki ay bumababa para salubungin siya — at sila'y nagkatuwiran ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "nakasakay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "asno"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "at bumababa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong bahagi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ng bundok"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ang kanyang mga lalaki"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "para salubungin siya"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "at nagkatuwaran siya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (si David at ang kanyang mga lalaki)"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:08.050302950Z",
+  "model": "glm-5.3"
+}

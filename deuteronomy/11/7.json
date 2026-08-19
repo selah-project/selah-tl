@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sapagkat ang inyong mga mata ang nakakita sa ⟨את⟩ buong gawa ni Yahweh na dakila na kaniyang ginawa:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ang inyong mga mata"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang nakakita sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong gawa ni Yahweh na dakila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "na dakila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kaniyang ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:42.526896911Z",
+  "model": "glm-5.3"
+}

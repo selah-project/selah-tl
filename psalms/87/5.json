@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 87,
+  "translation": "At tungkol sa Tsiyon ay sasabihin: Tao at tao ang ipinanganak sa kanya; at si Elyon rin ⟨ang⟩ magtatatag nito.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "At tungkol sa Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at tao"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya rin"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "magtatatag nito"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:31.326775542Z",
+  "model": "glm-5.3"
+}

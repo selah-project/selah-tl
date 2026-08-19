@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Ihiling ninyo ang kapayapaan ng Yerushalayim; magsilaging tumahimik ang mga nagmamahal sa iyo.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "ihiling ninyo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יישליו",
+      "gloss": "magsilaging tumahimik"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ang mga nagmamahal sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:39.536355935Z",
+  "model": "glm-5.3"
+}

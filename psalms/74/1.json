@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Payo ni Asaf. Bakit, Elohim, itinatwa mo sa magpakailanman, humihitit ang iyong poot sa kawan ng iyong pastulan?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Payo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "itinatwa mo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa magpakailanman"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "humihitit"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ang iyong poot"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "sa kawan"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ng iyong pastulan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:06.594328095Z",
+  "model": "glm-5.3"
+}

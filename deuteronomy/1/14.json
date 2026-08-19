@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sumagot kayo sa ⟨את⟩ akin, at nagsabi kayo: Mabuti ang bagay na iyong sinalita na gawin.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "at sumagot kayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "akin"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "at nagsabi kayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "iyong sinalita"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.028819214Z",
+  "model": "glm-5.3"
+}

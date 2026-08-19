@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "langis para sa ilawan, pabango para sa langis ng pagpapahid, at para sa insenso ng mga pabango",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "para sa ilawan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "pabango"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "para sa langis ng"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pagpapahid"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "at para sa insenso ng"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mga pabango"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:15.812188108Z",
+  "model": "glm-5.3"
+}

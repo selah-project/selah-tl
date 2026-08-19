@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Kay David. Sa Iyo, Yahweh, tumatawag ako; O bato kong ⟨⟨katihan⟩⟩, huwag kang manahimik sa akin, baka ikaw ay lumipat sa akin at maging katulad ako ng mga bumababa sa hukay.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa Iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tumatawag ako"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "bato ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "manahimik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "lumipat ka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "at maging katulad ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga bumababa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sa hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:16.838107473Z",
+  "model": "glm-5.3"
+}

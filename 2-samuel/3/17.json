@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At may salita si Avner sa mga matatanda ng Yisra'el, na nagsasabi: Kahapon at kamakailan lamang, naghahanap kayo ⟨את⟩ kay David na maging hari sa inyo.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "At may salita"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "si Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahapon"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "kahapon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "at"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "kamakailan lamang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo ay"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na maging hari"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:06.481234816Z",
+  "model": "glm-5.3"
+}

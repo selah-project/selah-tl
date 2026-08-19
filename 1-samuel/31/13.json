@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At kinuha nila ang ⟨את⟩ mga buto nila, at inilibing sila sa ilalim ng haeshel sa Yavesh, at nag-ayuno ng pitong araw.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "at kinuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga buto nila"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mga buto nila"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "at inilibing sila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "haeshel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "at nag-ayuno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ng pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:21.543247872Z",
+  "model": "glm-5.3"
+}

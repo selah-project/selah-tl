@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sapagkat may katapusan ⟨nga⟩, at ang iyong pag-asa ay hindi mapupugot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "at ang iyong pag-asa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "mapupugot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:36.975285172Z",
+  "model": "glm-5.3"
+}

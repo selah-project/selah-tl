@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung hindi niya tubusin ang ⟨את⟩ bukid, o kung nabili na ang ⟨את⟩ bukid sa ibang tao, hindi na ito matutubos muli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "niya tubusin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukid"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "nabili na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukid"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi na"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "matutubos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:21.631612772Z",
+  "model": "glm-5.3"
+}

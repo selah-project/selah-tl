@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At nangyari, nang marinig nila ang ⟨את⟩ Torah, inihiwalay nila ang buong halo na taga-Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "nang marinig nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "inihiwalay nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "halo"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "taga-Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:18:52.791770022Z",
+  "model": "glm-5.3"
+}

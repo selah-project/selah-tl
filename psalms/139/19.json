@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Kung papatayin mo, O Elohim, ang masama, at ang mga taong may dugo, lumayo kayo sa akin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "papatayin mo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "at ang mga taong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "may dugo"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "lumayo kayo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:29.980848584Z",
+  "model": "glm-5.3"
+}

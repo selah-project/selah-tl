@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ito ang mga pangalan ng mga lalaking magpapamana sa inyo ng ⟨את⟩ lupain: si Elazar na kohen, at si Yehoshua na anak ni Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ito ang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "magpapamana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupain"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "si Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "at si Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ni Nun"
+    }
+  ],
+  "timestamp": "2026-08-19T15:19:18.503047562Z",
+  "model": "glm-5.3"
+}

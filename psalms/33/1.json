@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Magsi-awit ng tuwa sa Yahweh, kayong mga matuwid; ukol sa mga tuwid ay kaaya-aya ang papuri.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "magsi-awit ng tuwa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ukol sa mga tuwid"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kaaya-aya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.172683371Z",
+  "model": "glm-5.3"
+}

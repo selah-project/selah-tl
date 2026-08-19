@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kinuha ni Shemuel ang ⟨את⟩ bote ng langis at ibinuhos sa kanyang ulo, at hinagkan siya, at sinabi: Hindi ba dahil pinahiran ka ni Yahweh bilang pinuno sa kanyang mana?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bote ng langis"
+    },
+    {
+      "surface": "פך",
+      "gloss": "bote"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ibinuhos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kanyang ulo"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "hinagkan siya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "pinahiran ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kanyang mana"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "bilang pinuno"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:16.351694244Z",
+  "model": "glm-5.3"
+}

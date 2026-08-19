@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng mga alipin ng hari na nasa tarangkahan ng hari kay Mordecai: Bakit ikaw ang lumalabag sa ⟨את⟩ utos ng hari?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ng mga alipin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nasa tarangkahan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordecai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "lumalabag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utos ng hari"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "utos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:09.768255286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At hindi na niya kayang itago pa siya, kaya't kumuha siya para sa kanya ng isang kahon ng papirus, at pinahid niya ito ngikit at ng pitch; at inilagay niya roon ang ⟨את⟩ bata, at inilagay niya ito sa mga tambo sa gilid ng ilog.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kayang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "itago pa siya"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "kaya't kumuha siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "ng papirus"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "at pinahid niya ito"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ngikit"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "at ng pitch"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "at inilagay niya ito"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "sa mga tambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ng ilog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:03.992868551Z",
+  "model": "glm-5.3"
+}

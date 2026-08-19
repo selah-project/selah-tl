@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Hindi ba't kung magiging mabuti ka, may pagtataas ⟨ba⟩? At kung hindi ka magiging mabuti, sa may pintuan nakadapa ang kasalanan, at sa iyo ang pagnanais nito — ngunit ikaw ang mamamahala dito.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba't"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "magiging mabuti ka"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pagtataas ⟨ba⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "magiging mabuti ka"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa may pintuan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ang kasalanan"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "nakadapa"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "at sa iyo"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ang pagnanais nito"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "ang mamamahala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:40.719341223Z",
+  "model": "glm-5.3"
+}

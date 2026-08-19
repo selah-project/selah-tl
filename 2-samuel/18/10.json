@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nakakita ang isang lalaki, at ipinahayag kay Yoav, at nagsabi: Narito, nakita ko ang ⟨את⟩ si Avshalom na nakabitin sa puno-ng-ela.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakakita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "at ipinahayag"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kay Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "nakabitin"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "sa puno-ng-ela"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:05.042881919Z",
+  "model": "glm-5.3"
+}

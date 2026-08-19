@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang hari na si David ay tumanda, lumipas sa mga araw, at tinakpan siya ng mga damit, ngunit hindi siya uminit.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "At ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tumanda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "at tinakpan siya"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ng mga damit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "uminit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:43.781367784Z",
+  "model": "glm-5.3"
+}

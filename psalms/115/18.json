@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Ngunit kami ay magpupuri kay Yah mula ngayon at magpakailanman — Hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngunit kami"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "magpupuri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mula ngayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu — purihin ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:50.687520700Z",
+  "model": "glm-5.3"
+}

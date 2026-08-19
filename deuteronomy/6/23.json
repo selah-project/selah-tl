@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ⟨את⟩ tayo ay kanyang inilabas mula roon, upang ⟨את⟩ tayo'y pasukin niya, upang ibigay sa atin ang ⟨את⟩ lupang ipinangako niya sa ating mga ama.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ at tayo",
+      "marks": "tayo (inilabas)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nilabas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "pasukin niya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tayo",
+      "marks": "tayo (pasukin)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ibigay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ipinangako"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "sa ating mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:32.170430973Z",
+  "model": "glm-5.3"
+}

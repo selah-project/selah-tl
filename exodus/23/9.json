@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ang dayuhan ay huwag mong pipyain, sapagkat alam ninyo ang ⟨את⟩ kalagayan ng dayuhan, dahil dayuhan kayo naging sa lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "At ang dayuhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "mong pipyain"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sapagkat kayo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "alam ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalagayan ng dayuhan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalagayan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ng dayuhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo naging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.374985214Z",
+  "model": "glm-5.3"
+}

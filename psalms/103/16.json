@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Sapagkat dumadaan ang hangin sa kaniya at wala na siya, at hindi na siya makikilala ng kaniyang lugar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "lumilipas\/dumadaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "at wala na siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "siya makikilala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ng kaniyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:03.726212452Z",
+  "model": "glm-5.3"
+}

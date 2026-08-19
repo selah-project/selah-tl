@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Iibigin ninyo ang ⟨את⟩ dayuhan, sapagkat mga dayuhan kayo sa lupain ng Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "iibigin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dayuhan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ang dayuhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:31.474700931Z",
+  "model": "glm-5.3"
+}

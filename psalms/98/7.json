@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Kumukog ang dagat at ang kamanlapatan nito; ang sanglibutan at ang mga naninirahan dito ⟨sa loob nito⟩.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Kumukog"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "at ang kamanlapatan nito"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang sanglibutan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "at ang mga naninirahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito ⟨sa loob nito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:38.390686576Z",
+  "model": "glm-5.3"
+}

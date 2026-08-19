@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At inilagay niyaon sa kanya ang ⟨את⟩ choshen, at inilagay sa ⟨את⟩ choshen ang ⟨את⟩ Urim at ang ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨ang⟩ choshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨ang⟩ choshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "⟨ang⟩ Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "⟨ang⟩ Tumim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:27.430396247Z",
+  "model": "glm-5.3"
+}

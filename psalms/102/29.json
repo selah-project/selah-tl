@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Ang mga anak ng iyong mga lingkod ay mananahan, at ang kanilang binhi ay sa harap mo ⟨ay⟩ matitindig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ng iyong mga lingkod"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "mananahan"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "at ang kanilang binhi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "matitindig"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:39.957603763Z",
+  "model": "glm-5.3"
+}

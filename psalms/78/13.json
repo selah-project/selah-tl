@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Binatak niya ang dagat at pinaraan sila; at pinatayo niya ang mga tubig na parang bunton.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "binatak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "at pinaraan sila"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "at pininatayo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "parang"
+    },
+    {
+      "surface": "נד",
+      "gloss": "bunton"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:29.001980371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Magpasalamat kay Yahweh, sapagkat mabuti ⟨siya⟩, sapagkat hanggang magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Magpasalamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.069150458Z",
+  "model": "glm-5.3"
+}

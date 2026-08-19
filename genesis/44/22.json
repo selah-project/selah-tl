@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At sinabi namin sa aming panginoon, Hindi makakayanang iwan ng batang lalaki ⟨את⟩ ang kanyang ama; at kung iwan niya ⟨את⟩ ang kanyang ama, mamamatay siya.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "at sinabi namin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aming panginoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makakayanan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "batang lalaki"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "iwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "at kung iwan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mamamatay siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:38.740969433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Ano ang isasauli ko kay Yahweh, tungkol sa lahat ng kanyang mga kabutihang ipinagkaloob sa akin?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ang isasauli ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "mga kabutihang ipinagkaloob niya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:21.660318876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ng hari kay Amasa: Padamhin mo para sa akin ang ⟨את⟩ mga lalaki ng Yehuda sa loob ng tatlong araw, at ikaw ay tumayo rito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "padamhin mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lalaki ng Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "פה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tumayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:51.917517393Z",
+  "model": "glm-5.3"
+}

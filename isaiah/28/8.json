@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sapagkat napuno ang lahat ng mga hapag ng suka at ng dumi, na walang malinis na lugar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mga hapag"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ng suka"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "at ng dumi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "na walang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:58.815215981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa ni Moshe ayon sa iniutos ni Yahweh ⟨את⟩ sa kanya; at nagtipon ang kapisanan sa pasukan ng Tolda ng Tipanan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "ang iniutos kay Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "at nagtipon"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ang kapisanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Tipanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:41.305046553Z",
+  "model": "glm-5.3"
+}

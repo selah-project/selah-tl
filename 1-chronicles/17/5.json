@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sapagkat hindi ako tumahan sa ⟨the⟩ bahay mula sa araw na iniahon ko ang ⟨את⟩ Yisra'el hanggang sa araw na ito, at ako'y naging mula sa tolda patungo sa tolda at mula sa tirahan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "tumahan ako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "iniahon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "at ako'y naging"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "mula sa tolda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "at mula sa tirahan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:02.769045485Z",
+  "model": "glm-5.3"
+}

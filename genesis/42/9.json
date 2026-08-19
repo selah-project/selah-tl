@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At naalala ni Yosef ang ⟨את⟩ mga panaginip na pinanaginipan niya tungkol sa kanila, at sinabi niya sa kanila: Mga espiya kayo; naparito kayo upang makita ang ⟨את⟩ kahinaan ng lupain.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "at naalala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga panaginip"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "mga panaginip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "pinanaginipan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tungkol sa kanila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahinaan ng lupain"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahinaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "naparito kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:16.860054083Z",
+  "model": "glm-5.3"
+}

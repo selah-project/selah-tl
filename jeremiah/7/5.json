@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat kung tunay na inyong ginaganda ang ⟨את⟩ inyong mga lakad at ang ⟨את⟩ inyong mga gawa, kung inyong tunay na isagawa ang hatol sa pagitan ng tao at ng kanyang kapwa;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "tunay na gandahin"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "inyo nang gina-gaganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyo ng mga lakad"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "inyong mga lakad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "inyong mga gawa"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "inyong mga gawa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tunay na gawin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inyo nang isasagawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanyang kapwa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:17:19.663987368Z",
+  "model": "glm-5.3"
+}

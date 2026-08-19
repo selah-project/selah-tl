@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "At pinakain niya siya ng taba ng trigo, at mula sa bato ng pulot-pukyutan ay bubusuin kita.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "at pinakain niya siya"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ng taba"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ng trigo"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "at mula sa bato"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ng pulot-pukyutan"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ay bubusuin kita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:42.040312340Z",
+  "model": "glm-5.3"
+}

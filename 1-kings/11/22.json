@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ni Paroh sa kanya: Ngunit ano ang kulang mo sa akin, at narito, naghahanap kang pumunta sa iyong lupain? At sumagot siya: Wala; ngunit kailangang ipadala mo ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "at narito ikaw"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pumunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "iyong lupain"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sumagot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kailangang ipadala"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:39.106637165Z",
+  "model": "glm-5.3"
+}

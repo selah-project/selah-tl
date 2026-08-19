@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Bago pa madilim ang araw at ang liwanag at ang buwan at ang mga bituin, at ang mga ulap ay bumalik pagkatapos ng ulan,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Bago pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "madilim"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "at ang liwanag"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "at ang buwan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "at ang mga bituin"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ang mga ulap"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ulan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:10.332224497Z",
+  "model": "glm-5.3"
+}

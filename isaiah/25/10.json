@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat magpapahinga ang kamay ni Yahweh sa bundok na ito, at duyugin ang Moab sa ilalim niya, kagaya ng pagduyog sa dayami sa tambak ng dumi sa Madmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "magpapahinga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "at iduduyog"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa ilalim niya"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "kagaya ng pagduyog"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "sa dayami"
+    },
+    {
+      "surface": "במי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmenah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:58.097541373Z",
+  "model": "glm-5.3"
+}

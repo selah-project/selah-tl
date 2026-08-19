@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Siguraduhin mong isasapu-sapo ang ⟨את⟩ anumang ani ng iyong binhi na lumalabas sa bukid, taon-taon.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "isasapu-sapo"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "siguraduhin mong isasapu-sapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anumang ani ng iyong binhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ani"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ng iyong binhi"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "na lumalabas"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:29.670191657Z",
+  "model": "glm-5.3"
+}

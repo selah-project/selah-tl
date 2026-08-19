@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ngayon, narito, ang hiyak ng mga anak ni Yisrael ay dumarating sa akin, at nakita ko rin ang ⟨את⟩ pang-aapi na ang Mitzrayim ay pumipighati sa kanila ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "hiyak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "darating"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at nakita ko rin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "(nakita)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pang-aapi"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "pang-aapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "pumipighati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:46.631285628Z",
+  "model": "glm-5.3"
+}

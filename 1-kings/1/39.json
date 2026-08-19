@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 1:39",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At kumuha si Tsadok ⟨na⟩ pari ng ⟨את⟩ sungay ng langis mula sa tolda, at pinahiran niya ang ⟨את⟩ Shelomoh, at umihip sila sa shofar, at sinabi ng buong bayan: Mabuhay ang hari na si Shelomoh!",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "si Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨na⟩ pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungay ng langis"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sungay"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "at pinahiran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "at umihip"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "na si Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:17.040987943Z",
+  "model": "glm-5.3"
+}

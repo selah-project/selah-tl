@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 1:6",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit ang aking mga salita at ang aking mga batas na iniutos ko sa ⟨את⟩ aking mga lingkod na mga propeta — hindi ba humabol iyon sa inyong mga amain? At sila'y nagsipagbalik-loob at nagsabi: Kung paanong nilayon ni Yahweh ng mga hukbo na gawin sa atin ayon sa ating mga lakad at ayon sa ating mga gawa, gayon nga niya itong ginawa ⟨sa⟩ ⟨את⟩ atin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "at ang aking mga batas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "iniutos ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga lingkod na mga propeta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking mga lingkod"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ang mga propeta"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "השיגו",
+      "gloss": "humabol iyon"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "sa inyong mga amain"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "at sila'y nagsipagbalik-loob"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "nilayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "כדרכינו",
+      "gloss": "ayon sa ating mga lakad"
+    },
+    {
+      "surface": "וכמעללינו",
+      "gloss": "at ayon sa ating mga gawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "niya itong ginawa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ atin",
+      "marks": "atin (sa atin)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:46.440537890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Abay sa mga nag-uutos ng mga utos ng kasamaan, at sa mga sumusulat ng kagipitan, nag-susulat ⟨sila⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "abay"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "sa mga nag-uutos"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mga utos"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "at sa mga sumusulat"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ng kagipitan"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nag-susulat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:52.264067361Z",
+  "model": "glm-5.3"
+}

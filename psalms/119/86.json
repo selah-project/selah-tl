@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang lahat ng iyong mga utos ay ⟨ay⟩ tapat; may kasinungalingan nila akong hinahabol — tulungan mo ako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iyong mga utos"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tapat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "may kasinungalingan"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "nila akong hinahabol"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "tulungan mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:14.078542454Z",
+  "model": "glm-5.3"
+}

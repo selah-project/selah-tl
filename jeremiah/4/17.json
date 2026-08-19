@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Tulad ng mga bantay sa bukirin, naging ⟨they⟩ laban sa kaniya sa palibot; sapagkat ⟨את⟩-ako niya hinimulatkang — nagmatigas siya laban sa akin, saysay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "tulad ng mga bantay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa bukirin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban sa kaniya"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "laban sa akin"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "nagmatigas"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "saysay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:16:21.922915762Z",
+  "model": "glm-5.3"
+}

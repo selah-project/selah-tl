@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Ang pagbiling bukid at ang yungib na nasa loob nito — mula ⟨את⟩ sa mga anak ni Het.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "pagbili\/pag-aaring binili"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "at ang yungib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "sa mga anak ni Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Het"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:23.664909531Z",
+  "model": "glm-5.3"
+}

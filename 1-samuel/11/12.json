@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ng bayan kay Shemu'el: Sino ang nagsabi, haharihin ba ni Sha'ul sa amin? Ibigay ninyo ang mga lalaki at papatayin natin sila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ang nagsabi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha'ul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "haharihin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ibigay ninyo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "at papatayin natin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:42.138638565Z",
+  "model": "glm-5.3"
+}

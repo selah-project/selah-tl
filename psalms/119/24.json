@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sapagkat ang iyong mga patotoo ay aking kasiyahan, mga tao ng aking payo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sapagkat nga"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang iyong mga patotoo"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "aking kasiyahan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ng aking payo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:31.413160785Z",
+  "model": "glm-5.3"
+}

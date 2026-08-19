@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ipaglilingkod ninyo ang ⟨את⟩ Yahweh na may takot, at magalak na may pangangatog.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ipaglilingkod ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "na may takot"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "at magalak"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "na may pangangatog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:14.328574237Z",
+  "model": "glm-5.3"
+}

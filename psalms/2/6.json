@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ngunit ako, aking itinayo ang aking hari sa Tsiyon, aking banal na bundok.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngunit ako"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "aking itinayo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang aking hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "aking banal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:09.097197310Z",
+  "model": "glm-5.3"
+}

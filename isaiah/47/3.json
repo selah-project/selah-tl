@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Ihahayag ang iyong kahubaran, oo, makikita ang iyong kahihiyan; paghihiganti Ako, at hindi Ako magpapakita ng awa ⟨sa⟩ tao.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ihahayag"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ang iyong kahubaran"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ang iyong kahihiyan"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "paghihiganti"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Ako (kukunin)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "magpapakita ng awa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨sa⟩ tao"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:38.612064901Z",
+  "model": "glm-5.3"
+}

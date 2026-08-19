@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 150,
+  "translation": "Ipadangal sa Kanya sa tof at sa sayaw; ipadangal sa Kanya sa mga instrumentong may kuwerdas at sa ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "sa tof (tambol)"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "at sa sayaw"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "sa mga instrumentong may kuwerdas"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "at sa ugav (plauta)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:50.215388900Z",
+  "model": "glm-5.3"
+}

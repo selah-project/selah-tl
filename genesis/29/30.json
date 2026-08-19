@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At pumasok din siya kay Rachel, at minahal din niya ⟨את⟩ si Rachel higit kaysa Lea, at naglingkod siya kasama niya pa ng pitong taong iba pa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "at minahal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "higit kaysa Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ng pitong"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taong"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "iba pa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:30.384374334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Pakinggan ko kung ano ang sasabihin ng El na si Yahweh, sapagkat magsasalita siya ng kapayapaan sa kanyang bayan at sa kanyang mga tapat, at huwag na silang bumalik sa kahangalan.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "pakinggan ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsasalita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kanyang mga tapat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bumalik sila"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "sa kahangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.192013315Z",
+  "model": "glm-5.3"
+}

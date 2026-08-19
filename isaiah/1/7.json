@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang inyong lupa ay pagkawasak, ang inyong mga lungsod ay sinusunog ng apoy; ang inyong lupain, sa harap mismo ninyo, mga dayuhan ang kumakain ⟨את⟩ nito, at ⟨ito ay⟩ pagkawasak, parang pagpapaikot ng mga dayuhan.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ang inyong lupa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pagkawasak"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ang inyong mga lungsod"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "sinusunog"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ang inyong lupain"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "sa harap mismo ninyo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang inyong lupain)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "at pagkawasak"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "parang pagpapaikot"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ng mga dayuhan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:52.306979768Z",
+  "model": "glm-5.3"
+}

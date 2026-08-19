@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sana nga matatag ang aking mga daan sa pag-iingat ng iyong mga batas.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "sana nga"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "matatag"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "aking mga daan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pag-iingat ng"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iyong mga batas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:26.631606894Z",
+  "model": "glm-5.3"
+}

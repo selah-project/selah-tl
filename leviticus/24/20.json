@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Bali kapalit ng bali, mata kapalit ng mata, ngipin kapalit ng ngipin; kung paanong nagbigay siya ng pinsala sa tao, ganoon din ibibigay sa kanya.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Bali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit ng"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit ng"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kapalit ng"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagbigay siya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "pinsala"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon din"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:08.753493026Z",
+  "model": "glm-5.3"
+}

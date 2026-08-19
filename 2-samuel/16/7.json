@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ganito ang sabi ni Shimi habang siya ay sumusumpa: Lumabas ka, lumabas ka, ikaw na lalaki ng mga dugo at lalaki ng Beliyaal!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "at ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "habang sumusumpa siya"
+    },
+    {
+      "surface": "צא",
+      "gloss": "lumabas ka"
+    },
+    {
+      "surface": "צא",
+      "gloss": "lumabas ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ng mga dugo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at lalaki"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "ng Beliyaal"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:05.361201319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Awit ni David, sa pag-alaala.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "sa pag-alaala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:28.815145448Z",
+  "model": "glm-5.3"
+}

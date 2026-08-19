@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At idadaan ko sa kanya ⟨את⟩ mga araw ng mga Baal, na kanila nagsusunog siya ng insenso, at nagsuot siya ng kanyang singsing sa ilong at ng kanyang mga alahas, at lumakad siya sa likod ng kanyang mga kalaguyo, at ⟨את⟩ akin ay nakalimutan niya — oracle ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "at idadaan ko (parusa)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga araw ng mga Baal"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ng mga Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "nagsusunog siya ng insenso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "at nagsuot siya"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "ng kanyang singsing sa ilong"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "at ng kanyang mga alahas"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "at lumakad siya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod ng"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "kanyang mga kalaguyo"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "at ⟨את⟩",
+      "marks": "akin (si Yahweh)"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "ay nakalimutan niya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:31.840014171Z",
+  "model": "glm-5.3"
+}

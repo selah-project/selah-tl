@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag kayong lilingon sa mga tumatawag sa mga patay at sa mga manghuhula; huwag hanapin ang mga ito upang madumhan sa pamamagitan nila; ako si Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "lilingon kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "mga tumatawag sa mga patay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mga manghuhula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "hanapin ninyo"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "upang madumhan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:37.131850791Z",
+  "model": "glm-5.3"
+}

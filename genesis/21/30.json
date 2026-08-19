@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At kaniyang sinabi: Sapagkat ang ⟨את⟩ pitong batang tupa ay kukunin mo mula sa aking kamay, upang maging patotoo ito ⟨sa akin⟩ na ako ang humukay ng ⟨את⟩ balong ito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitong batang tupa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "batang tupa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kukunin mo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mula sa aking kamay"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sa akin⟩"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ako ang humukay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balong ito"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "balong"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:28.801769219Z",
+  "model": "glm-5.3"
+}

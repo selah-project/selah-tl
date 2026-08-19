@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At gagawin mo ang mga kasuutang banal para kay Aharon na iyong kapatid, para sa karangalan at para sa kagandahan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga kasuutan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kay Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "na iyong kapatid"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "para sa karangalan"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "at para sa kagandahan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:36.682859496Z",
+  "model": "glm-5.3"
+}

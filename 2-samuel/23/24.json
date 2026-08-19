@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Si Asahel na kapatid ni Yoab ay kabilang sa tatlumpu; si Elchanan na anak ni Dodo, mula sa Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "kabilang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si Asahel"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "sa tatlumpu"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "si Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ni Dodo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T16:22:56.933773617Z",
+  "model": "glm-5.3"
+}

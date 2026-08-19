@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Ayon sa iniutos ni Yahweh kay ⟨את⟩ Moshe, gayon ang ginawa ng mga anak na babae ni Tselofchad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ni Tselofchad"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:09.475299595Z",
+  "model": "glm-5.3"
+}

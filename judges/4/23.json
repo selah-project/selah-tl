@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nilupig ng Elohim sa araw na iyan ang ⟨את⟩ Yabin na hari ng Kenaan sa harap ng mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "nilupig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:09.672124490Z",
+  "model": "glm-5.3"
+}

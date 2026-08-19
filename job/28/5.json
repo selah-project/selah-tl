@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang lupa — mula rito lumalabas ang tinapay, at sa ilalim nito ⟨ay⟩ nababaligtad na parang apoy.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "at sa ilalim nito"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nababaligtad"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "parang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T18:51:35.429778364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At dumating ang lahat ng marurunong na gumagawa ng ⟨את⟩ buong gawain sa banal, bawat lalaki mula sa kanyang gawaing ginagawa nila.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "At dumating"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ng marurunong"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "na gumagawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong gawain sa banal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa banal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "mula sa kanyang gawain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ginagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:44.264659598Z",
+  "model": "glm-5.3"
+}

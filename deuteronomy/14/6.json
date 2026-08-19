@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At bawat hayop na may hiwa sa paa, hiwa na nahati sa dalawang bahagi, at nagbubuka ng ⟨את⟩ pagkain sa ngala-ngala, sa mga hayop — ⟨ito⟩ ay maaari ninyong kainin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "may hiwa sa paa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "paa (may hiwa)"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "at nahati"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "hiwa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "mga paa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nagbubuka"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ngala-ngala (pagkain)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa mga hayop"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang hayop)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:43.625753279Z",
+  "model": "glm-5.3"
+}

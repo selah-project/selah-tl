@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang saksi ng tapat ay hindi magsisinungaling, ngunit humihinga ng mga kasinungalingan ang saksi ng kabulaanan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ng tapat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "magsisinungaling"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ngunit humihinga ng"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "mga kasinungalingan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kabulaanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:13.691721742Z",
+  "model": "glm-5.3"
+}

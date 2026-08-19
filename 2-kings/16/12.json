@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At dumating ang hari mula sa Damasek, at nakita ng hari ang ⟨את⟩ dambana, at lumapit ang hari sa dambana, at naghain siya sa ibabaw nito.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "mula sa Damasek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dambana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang dambana"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "at lumapit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at naghain"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:24.402472872Z",
+  "model": "glm-5.3"
+}

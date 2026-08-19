@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sinabi ko sa kanila: Kung mabuti sa inyong mga mata, ibigay ang aking bayad; at kung hindi, huminto kayo. At tinitimbang nila ang ⟨את⟩ aking bayad — tatlumpung (30) pilak.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "sa inyong mga mata"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ibigay"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "ang aking bayad"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "huminto kayo"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "at tinitimbang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayad"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "ang aking bayad"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung (30)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:33.916767935Z",
+  "model": "glm-5.3"
+}

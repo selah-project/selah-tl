@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At magiging banal kayo sa inyong sarili, at magiging banal kayo, sapagkat ako si Yahweh, ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "at magpapabanal kayo sa inyong sarili"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:52.296261080Z",
+  "model": "glm-5.3"
+}

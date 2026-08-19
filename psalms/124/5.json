@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "Nang panahong iyon, sumapit sa ating buhay ⟨ang⟩ tubig na mga palalo;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "nang panahong iyon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sumapit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ating buhay"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨ang⟩ tubig"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "na mga palalo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.950099398Z",
+  "model": "glm-5.3"
+}

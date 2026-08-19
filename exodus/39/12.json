@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ang ikatlong hanay — leshem, shevo, at achlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "At ang hanay"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "leshem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "at achlamah"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:20.043839416Z",
+  "model": "glm-5.3"
+}

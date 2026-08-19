@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Huwag mong hayaang daluyin ako ng daloy ng tubig, at huwag hayaang lunukin ako ng kalaliman, at huwag hayaang isara ng balon ang kaniyang bibig sa ibabaw ko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "daluyin mo ako"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "daloy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "lunukin mo ako"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "kalaliman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "isara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw ko"
+    },
+    {
+      "surface": "באר",
+      "gloss": "balon"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ang kaniyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:01.558204750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Bahay ni Yaakov, lumapit kayo, at tayo'y lumakad sa liwanag ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Bahay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lumapit kayo"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "at tayo'y lumakad"
+    },
+    {
+      "surface": "באור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:09.579445597Z",
+  "model": "glm-5.3"
+}

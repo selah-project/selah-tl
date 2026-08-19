@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ibigay ninyo kay Yahweh ang kaluwalhatiang ukol sa kanyang pangalan; yumukod kayo kay Yahweh sa karangalan ng kabanalan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ibigay ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa kanyang pangalan"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "yumukod kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sa karangalan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ng kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:25.473002559Z",
+  "model": "glm-5.3"
+}

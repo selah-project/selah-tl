@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawin mo rito ang isang gilid na isang dangkal ang lapad, sa paligid; at gagawin mo ang isang koronang ginto sa gilid nito, sa paligid.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "isang dangkal ang lapad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "sa gilid nito"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.904207625Z",
+  "model": "glm-5.3"
+}

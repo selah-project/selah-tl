@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 58:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "Ba gayon ba ang gawing pag-aayuno na aking pinili: araw ng pagpapahirap ng tao sa kanyang ⟨nenefesh⟩? Ba ang yukin ang ulo na parang tambo, at ikalat ang sako at abo? Ilang ito ba ang tatawaging pag-aayuno, at araw na kanais-nais kay Yahweh?",
+  "tokens": [
+    {
+      "surface": "הכזה",
+      "gloss": "ba gayon ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pag-aayuno"
+    },
+    {
+      "surface": "אבחרהו",
+      "gloss": "aking pinili"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "pagpapahirap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kanyang nenefesh"
+    },
+    {
+      "surface": "הלכף",
+      "gloss": "ang yukin"
+    },
+    {
+      "surface": "כאגמן",
+      "gloss": "parang tambo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "at sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "at abo"
+    },
+    {
+      "surface": "יציע",
+      "gloss": "ikalat"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ito ba"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tatawaging"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pag-aayuno"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "at araw"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kanais-nais"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:45.550734177Z",
+  "model": "glm-5.3"
+}

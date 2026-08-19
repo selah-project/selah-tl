@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim ng mga hukbo, sino ang tulad mo? Matibay na si Yah, at ang iyong katapatan ay nakapalibot sa iyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga hukbo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang tulad mo"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "at ang iyong katapatan"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "nakapalibot sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:44.215808246Z",
+  "model": "glm-5.3"
+}

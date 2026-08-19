@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ibabalik mo ⟨את⟩ ito sa kahon nito; sa lugar kung saan ka nilikha, sa lupang pinagmulan mo, hahatulan kita ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Ibabalik mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "kahon nito"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "ka nilikha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "pinagmulan mo"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "hahatulan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kita",
+      "marks": "ikaw (ang hahatulan)"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:41.872985741Z",
+  "model": "glm-5.3"
+}

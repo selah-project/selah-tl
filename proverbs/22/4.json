@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Bunga ng pagpapakumbaba at ng pagkatakot kay Yahweh: yaman at karangalan at buhay.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "pagpapakumbaba"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pagkatakot kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "yaman"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "at buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:07.659068686Z",
+  "model": "glm-5.3"
+}

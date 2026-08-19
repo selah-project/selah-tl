@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at ikaw, tumindig ka, umuwi ka sa iyong bahay; sa pagpasok ng iyong mga paa sa lunsod, mamamatay ang bata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pumaroon ka"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "sa pagpasok"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ng iyong mga paa"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "sa lunsod"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at mamamatay"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:17.536996861Z",
+  "model": "glm-5.3"
+}

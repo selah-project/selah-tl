@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At si Shuppam at si Huppam, mga anak ni Ir; si Hushim, mga anak ni Aher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "At si Shuppam"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "at si Huppam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ni Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "si Hushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ni Aher"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:55.297416864Z",
+  "model": "glm-5.3"
+}

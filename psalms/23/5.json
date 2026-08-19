@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Naghahanda ka ng ⟨את⟩ mesa sa harap ko, sa tapat ng aking mga kaaway; pinahiran mo ng langis ang aking ulo; ang aking kopita ay lubusang puno.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "naghahanda ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ko"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa tapat ng"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "pinahiran mo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang aking ulo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ang aking kopita"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "lubusang puno"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:52.277023570Z",
+  "model": "glm-5.3"
+}

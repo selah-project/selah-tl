@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngunit kung sa bukid matagpuan ng lalaki ang ⟨את⟩ dalagang ikinasal sa ikakasal pa lamang, at hinawakan ng lalaki siya at nakipagtalik sa kanya, ay mamamatay ang lalaking nakipagtalik sa kanya — siya lamang ⟨na mag-isa⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "matagpuan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalagang ikakasal pa lamang"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang dalaga"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "ikinakasal sa ikakasal pa lamang"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "at hinawakan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "at nakipagtalik"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ay mamamatay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nakipagtalik"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "siya lamang mag-isa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:27.782428073Z",
+  "model": "glm-5.3"
+}

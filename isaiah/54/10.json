@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat lilipat ang mga bundok at makikiling ang mga burol, ngunit ang aking kagandahang-loob ay hindi lilipas ⟨מאתך⟩ mula sa iyo, at ang tipan ng aking kapayapaan ay hindi makikiling, sabi ng nagmamahal sa iyo, si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "lilipat"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "at ang mga burol"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "makikiling"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "at ang aking kagandahang-loob"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ mula sa iyo",
+      "marks": "mula sa iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "lilipas"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "at ang tipan"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ng aking kapayapaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "makikiling"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "ng nagmamahal sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:41.977365409Z",
+  "model": "glm-5.3"
+}

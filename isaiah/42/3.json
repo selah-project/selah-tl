@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ang tamad na tambo ay hindi kaniyang babaliin, at ang kupas na llanila ay hindi kaniyang papatayin; ayon sa katotohanan kaniyang ilalabas ang hatol.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "tambo"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "binali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "kaniyang babaliin"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "at ang llanila"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "kupas na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "kaniyang papatayin"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "ayon sa katotohanan"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kaniyang ilalabas"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:57.123373542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ako, si Nevukhadnetzar, ay nasa kapayapaan sa aking bahay at namumukadkad sa aking palasyo.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "si Nevukhadnetzar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "nasa kapayapaan"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ay (nasa)"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "sa aking bahay"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "at namumukadkad"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "sa aking palasyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:07:26.826545387Z",
+  "model": "glm-5.3"
+}

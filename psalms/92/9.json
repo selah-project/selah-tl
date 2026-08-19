@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Ngunit ikaw, Yahweh, ay ⟨sa⟩ kaitaasan magpakailanman.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kaitaasan"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:38.165065722Z",
+  "model": "glm-5.3"
+}

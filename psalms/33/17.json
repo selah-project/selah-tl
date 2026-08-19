@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Bulaan ang kabayo para sa kaligtasan, at sa kasaganaan ng lakas nito ay hindi makakatakas ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "bulaan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang kabayo"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "para sa kaligtasan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "at sa kasaganaan"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ng lakas nito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makakatakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:30.308780266Z",
+  "model": "glm-5.3"
+}

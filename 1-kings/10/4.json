@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At nakita ng reyna ng Sheba ang ⟨את⟩ buong karunungan ni Shelomoh, at ang bahay na kaniyang itinayo.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "At nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ng reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ng Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong karunungan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kaniyang itinayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:34.354968163Z",
+  "model": "glm-5.3"
+}

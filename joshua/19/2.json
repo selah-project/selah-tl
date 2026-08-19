@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At naging kanila sa kanilang mana: ang Be'er Sheva, at Sheva, at Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "sa kanilang mana"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ang Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "at Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "at Moladah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:43:15.068839961Z",
+  "model": "glm-5.3"
+}

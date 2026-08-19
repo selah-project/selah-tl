@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At ibibigay namin ⟨את⟩ aming mga anak na babae sa inyo, at ⟨את⟩ inyong mga anak na babae ay aming kukunin sa amin, at tatahan kami ⟨את⟩ kasama ninyo, at magiging ⟨kami⟩ na isang bayan.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "at ibibigay namin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming mga anak na babae"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "aming mga anak na babae"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "inyong mga anak na babae"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "inyong mga anak na babae"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "kukunin namin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "tatahan kami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kasama ninyo"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "isang bayan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:57.463802002Z",
+  "model": "glm-5.3"
+}

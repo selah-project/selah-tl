@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At sinaktan niya ang ⟨את⟩ kanilang ubas at ang ⟨את⟩ kanilang mga igos, at winasak ang ⟨את⟩ mga puno ng kanilang hangganan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "kanilang ubas"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "at kanilang mga igos"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "at winasak"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga puno"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ng kanilang hangganan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:57.807666698Z",
+  "model": "glm-5.3"
+}

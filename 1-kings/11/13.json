@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Gayon man, ang ⟨את⟩ buong kaharian ay hindi babaliin — isang tribo ang ibibigay ko sa iyong anak, alang-alang kay David na aking lingkod, at alang-alang sa Yerushalayim na aking pinili.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gayon man \/ lamang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong kaharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kaharian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "babaliin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "sa iyong anak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang-alang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking lingkod"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "at alang-alang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "aking pinili"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:07.697980188Z",
+  "model": "glm-5.3"
+}

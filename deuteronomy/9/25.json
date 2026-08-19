@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ako'y nagpatirapa sa harapan ni Yahweh nang ⟨את⟩ apat na araw at ⟨את⟩ apat na gabi na aking pagkapirapirapa, sapagkat sinabi ni Yahweh na lilipulin ⟨את⟩ ninyo.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "at ako'y nagpatirapa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apat na araw"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat na pu't"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "apat na gabi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apat na pu't"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "aking pagkapirapirapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "na lilipulin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:02.366415460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "at ang punong itinanim ng iyong kanang kamay, at ang anak na iyong pinatibay para sa iyong sarili.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "at ang puno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "itinanim"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ng iyong kanang kamay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "mo pinatibay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:09.216313359Z",
+  "model": "glm-5.3"
+}

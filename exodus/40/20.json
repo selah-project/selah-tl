@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At kumuha siya at inilagay ang ⟨את⟩ Patotoo sa ⟨את⟩ kaban, at inilagay ang ⟨את⟩ mga pingga sa kaban, at inilagay ang ⟨את⟩ takip ng pagtubos sa ibabaw ng kaban, mula sa itaas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "At kumuha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Patotoo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang Patotoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pingga"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga pingga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang takip ng pagtubos"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang takip ng pagtubos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "mula sa itaas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:21.621020908Z",
+  "model": "glm-5.3"
+}

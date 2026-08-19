@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Makinig kayo sa ⟨את⟩ salita na sinalita ni Yahweh sa inyo, o bahay ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ang⟩ salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:52.262178578Z",
+  "model": "glm-5.3"
+}

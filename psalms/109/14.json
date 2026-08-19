@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Maaalala ang kasamaan ng kaniyang mga ama sa harap ni Yahweh, at ang kasalanan ng kaniyang ina ay huwag burahin.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "maaalala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ng kaniyang mga ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "at ang kasalanan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ng kaniyang ina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "burahin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:19.974581645Z",
+  "model": "glm-5.3"
+}

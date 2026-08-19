@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Mga araw sa ibabaw ng mga araw ng hari ay dadagdagan mo; ang kanyang mga taon ay gaya ng lahi at lahi.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw ng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "dadagdagan mo"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ang kanyang mga taon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "דר",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:56.720835795Z",
+  "model": "glm-5.3"
+}

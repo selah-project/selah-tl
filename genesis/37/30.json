@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At bumalik siya sa kanyang mga kapatid at nagsabi: Wala na ang batang lalaki, at ako — saan ako paroroon?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "At bumalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "paroroon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:59.039915863Z",
+  "model": "glm-5.3"
+}

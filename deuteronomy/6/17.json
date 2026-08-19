@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ingatan ninyong mabuti ang ⟨את⟩ mga utos ni Yahweh na inyong Elohim, at ang kaniyang mga patotoo at ang kaniyang mga batas na iniutos niya sa inyo.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ingatan nang mabuti"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ingatan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga utos"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "at ang kaniyang mga patotoo"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "at ang kaniyang mga batas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "iniutos niya sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:18.330420712Z",
+  "model": "glm-5.3"
+}

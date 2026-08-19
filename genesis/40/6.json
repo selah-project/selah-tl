@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At pumasok sa kanila si Yosef sa umaga, at nakita niya sila ⟨את⟩ at narito, sila'y mabalasik ang mukha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "mabalasik ang mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:31.277755524Z",
+  "model": "glm-5.3"
+}

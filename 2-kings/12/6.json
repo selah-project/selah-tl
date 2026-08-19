@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Kunin ng mga saserdote ⟨ang⟩ pilak para sa kanilang mga sarili, bawat tao mula ⟨את⟩ kanyang kakilala; at ⟨sila⟩ palalakasin nila ang ⟨את⟩ sira ng bahay, sa lahat ng matagpuang sira doon.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "kunin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanilang mga sarili"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mula ⟨את⟩ kanyang kakilala"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "kanyang kakilala"
+    },
+    {
+      "surface": "והם",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "palalakasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sira ng bahay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "sira"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:32.407005186Z",
+  "model": "glm-5.3"
+}

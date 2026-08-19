@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "Bumalik sila sa dahilan ng kanilang kahihiyan, na mga nagsasabi, Heah, heah.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bumalik sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa dahilan ng"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sa yapod ng"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "kanilang kahihiyan"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "na mga nagsasabi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:25.168561615Z",
+  "model": "glm-5.3"
+}

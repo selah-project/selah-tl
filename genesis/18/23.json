@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At lumapit si Avraham at nagsabi: Maglilipol ka ba talaga ng matuwid na ⟨kasama⟩ balakyot?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "at lumapit si"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ba talaga"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "maglilipol ka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨kasama⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "balakyot"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:52.852993485Z",
+  "model": "glm-5.3"
+}

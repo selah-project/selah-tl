@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sinabi niya sa Yehudah na hanapin ang ⟨את⟩ Yahweh, Elohim ng kanilang mga ninuno, at gawin ang Torah at ang utos.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "na hanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "kanilang mga ninuno"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "at gawin"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "at ang utos"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:06.448547730Z",
+  "model": "glm-5.3"
+}

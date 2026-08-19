@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang mga anak ni Yehudah: Perets, Chetsron, at Karmi, at Chur, at Shobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "at Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "at Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "at Shobal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:42.422186876Z",
+  "model": "glm-5.3"
+}

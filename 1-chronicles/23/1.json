@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At si David ay tumanda at nabusog sa mga araw, at pinaghari niya si ⟨את⟩ Shelomoh na kaniyang anak sa ibabaw ng Israel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "At si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tumanda"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "at nabusog"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at pinaghari niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:55:38.066532043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Ang kanyang binhi ay mananatili magpakailanman, at ang kanyang trono ay parang araw sa harapan ko.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "ang kanyang binhi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mananatili"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "at ang kanyang trono"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "parang araw"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "sa harapan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:46.332217315Z",
+  "model": "glm-5.3"
+}

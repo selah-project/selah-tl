@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 87,
+  "translation": "At ang mga mang-aawit ay gaya ng mga sumasayaw: Lahat ng aking bukal ay nasa iyo.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "At ang mga mang-aawit"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "gaya ng mga sumasayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ng aking bukal"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ay nasa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:31.327158069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Mga kaharian ng lupa, umawit kayo sa Elohim, magmuni-muni kayo kay Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mga kaharian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "umawit kayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magmuni-muni kayo (may tugtog)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kay Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.591310426Z",
+  "model": "glm-5.3"
+}

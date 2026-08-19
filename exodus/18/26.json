@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At hinatulan nila ang ⟨את⟩ bayan sa bawat panahon; ang ⟨את⟩ mahirap na usap ay dala-dala nila kay Moshe, ngunit bawat maliit na usap ay hinatulan nila mismo.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "at hinatulan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mahirap na usap"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang usap"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mahirap"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "dala-dala nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ngunit bawat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "usap"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "hinatulan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mismo sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:37.688995198Z",
+  "model": "glm-5.3"
+}

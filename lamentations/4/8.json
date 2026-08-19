@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Numaitim ang kanilang anyo kaysa sa uling; hindi nakikilala sa mga lansangan; dumikit ang kanilang balat sa mga buto nila, natuyo, naging parang kahoy.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "numaitim"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "kaysa sa itim"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "ang kanilang anyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "nakikilala"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "sa mga lansangan"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "dumikit"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ang kanilang balat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "mga buto nila"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "natuyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "parang kahoy"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:28.177256019Z",
+  "model": "glm-5.3"
+}

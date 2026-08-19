@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "At ang matutuwid ay magsasaya, magagalak sa harap ng Elohim, at sasayaw nang may kagalakan.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "at ang matutuwid"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magsasaya"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "at sasayaw"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "nang may kagalakan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:34.979952936Z",
+  "model": "glm-5.3"
+}

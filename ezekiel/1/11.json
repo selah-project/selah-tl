@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang kanilang mga mukha at ang kanilang mga pakpak ay hiwalay mula sa itaas; sa bawat isa ay dalawang nagkadugtong, at dalawang tumatakip sa ⟨את⟩ kanilang mga katawan.",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "At ang kanilang mga mukha"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "at ang kanilang mga pakpak"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "hiwalay"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "mula sa itaas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa bawat isa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "nagkadugtong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "at dalawang"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "tumatakip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga katawan"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "kanilang mga katawan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:38:09.136447118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Pagkatapos ng mga bagay na ito, nang humupa ang galit ng haring Achashverosh, naalala niya ang ⟨את⟩ Vashti at ⟨את⟩ ang ginawa niya at ⟨את⟩ ang nahatul laban sa kanya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ng mga bagay"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "nang humupa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "galit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "at Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang ginawa niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang nahatul laban sa kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "nahatul"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:01.755502641Z",
+  "model": "glm-5.3"
+}

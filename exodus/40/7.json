@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ilalagay mo ang ⟨את⟩ lababo sa pagitan ng Tolda ng Pagkikita at ng altar, at maglalagay ka roon ng tubig.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lababo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "lababo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Pagkikita"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at maglalagay ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:02.011171042Z",
+  "model": "glm-5.3"
+}

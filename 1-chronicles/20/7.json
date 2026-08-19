@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At hinamak niya ⟨את⟩ Israel, at pinatay siya ni Yehonatan na anak ni Shimea, kapatid ni David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "At hinamak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "at pinatay siya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ni Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:55.675214406Z",
+  "model": "glm-5.3"
+}

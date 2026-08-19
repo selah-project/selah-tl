@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At tumindig si Yoav at pumunta sa Geshur, at dinala niya ang ⟨את⟩ si Avshalom sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at tumindig"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at pumunta"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "sa Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:31.495942814Z",
+  "model": "glm-5.3"
+}

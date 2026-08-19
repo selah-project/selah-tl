@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Anim sa mga pangalan nila sa ⟨ang⟩ isang bato, at ang ⟨את⟩ mga pangalan ng ⟨ang⟩ anim na natitira sa ⟨ang⟩ ikalawang bato, ayon sa kanilang mga pagkapanganak.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "anim"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "sa mga pangalan nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga pangalan ng anim na natitira"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "anim na"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "natitira"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "ayon sa kanilang mga pagkapanganak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:40.004648081Z",
+  "model": "glm-5.3"
+}

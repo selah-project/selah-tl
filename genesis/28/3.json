@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At pagbasbasan ka ni El Shaddai, at pasaganain ka, at paramihin ka, at maging ka ⟨⟨sa⟩⟩ kapisanan ng mga bansa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "at si El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magpapas-basbas sa iyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "at pasaganain ka"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "at paramihin ka"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "at magiging ka"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "sa kapisanan ng"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:55.366544852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At maging si Yahweh bilang hukom, at humatol sa pagitan ko at ng iyo, at tumingin at ipaglaban ang ⟨את⟩ aking kaso, at ipagtanggol ako mula sa iyong kamay.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "bilang hukom"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "at humatol"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa pagitan ko"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "at ng iyo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at tumingin"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "at ipaglaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking kaso"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "aking kaso"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "at ipagtanggol ako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mula sa iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:54.843822088Z",
+  "model": "glm-5.3"
+}

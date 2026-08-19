@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang lahat ay lumihis, magkakasamang nangabulok; walang gumagawa ng mabuti, wala, maging isa man.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "סר",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nangabulok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maging"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa man"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.322340594Z",
+  "model": "glm-5.3"
+}

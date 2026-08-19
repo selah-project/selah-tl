@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Magpasalamat kay Yahweh, sapagkat siya'y mabuti, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.679653915Z",
+  "model": "glm-5.3"
+}

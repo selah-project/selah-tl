@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At katayin mo ang ⟨את⟩ toro sa harap ni Yahweh, sa pasukan ng Tolda ng Pagkikita.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "at katayin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Pagkikita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:19.718756285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At si Yehoshua ay maaga nang bumangon sa umaga, at dinamba ng mga koheno ang ⟨את⟩ arko ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "at maaga nang bumangon"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at dinamba ng"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga koheno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arko ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:28.354680800Z",
+  "model": "glm-5.3"
+}

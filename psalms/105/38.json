@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Nagaluwang ang Misrayim sa pag-alis nila, sapagkat bumagsak ang takot sa kanila sa ibabaw nila.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Nagaluwang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Misrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "sa pag-alis nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "bumagsak"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ang takot sa kanila"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.043170408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At pati ang dugo ng inosente na kaniyang ibinuhos — pinuno niya ang ⟨את⟩ Yerushalayim ng dugo ng inosente; at hindi nalulugod si Yahweh na magpatawad.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ng inosente"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "kaniyang ibinuhos"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "pinuno niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ng inosente"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nalulugod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "na magpatawad"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:57.645598738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Habang ang hari ⟨ay⟩ nasa kanyang hapag, ang aking nard ay naglalabas ng amoy nito.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "habang"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "nasa kanyang hapag"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "ang aking nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naglalabas"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ang amoy nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:12.286025016Z",
+  "model": "glm-5.3"
+}

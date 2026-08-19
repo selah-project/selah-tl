@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Si Eshton ay naging ama ni ⟨את⟩ Beit-Rafa, ni ⟨את⟩ Paseaj, at ni ⟨את⟩ tejina na ama ng lungsod ng Nachash; mga lalaki ng Reka ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Si Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseaj"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tejina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "tejina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama ng"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod ng"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaki ng"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:49.596826745Z",
+  "model": "glm-5.3"
+}

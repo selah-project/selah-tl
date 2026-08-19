@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Tinapay ay hindi kayo kumain, at alak at inuming nakalalasing ay hindi kayo uminom, upang inyong malaman na ako si Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kayo kumain"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "at alak"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "at inuming nakalalasing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "kayo uminom"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "inyong malaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:23.561905038Z",
+  "model": "glm-5.3"
+}

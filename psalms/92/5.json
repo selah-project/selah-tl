@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Dahil pinasaya mo ako, Yahweh, sa iyong gawa; sa mga gawa ng iyong mga kamay mag-aawit ako nang malakas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "pinasaya mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "sa iyong gawa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sa mga gawa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ng iyong mga kamay"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mag-aawit ako nang malakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.971038679Z",
+  "model": "glm-5.3"
+}

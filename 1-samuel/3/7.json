@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At si Shemuel ay hindi pa nakakakilala kay ⟨את⟩ Yahweh, at hindi pa nabubunyag sa kaniya ang salita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "At si Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hindi pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "at hindi pa"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "nabubunyag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:22.714571319Z",
+  "model": "glm-5.3"
+}

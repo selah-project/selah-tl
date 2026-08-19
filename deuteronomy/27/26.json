@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sumpa ang hindi magtatatag ng ⟨את⟩ mga salita ng torah na ito upang gawin ⟨את⟩ sila; at sasabihin ng buong bayan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "magtatatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ng torah na ito"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ng torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at sasabihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:53.633349866Z",
+  "model": "glm-5.3"
+}

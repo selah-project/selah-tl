@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nangyari sa kanya ang gayon, at hinapay siya ng ⟨את⟩ bayan sa pintuan, at siya'y namatay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "at hinapay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa pintuan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at siya'y namatay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:44.462160234Z",
+  "model": "glm-5.3"
+}

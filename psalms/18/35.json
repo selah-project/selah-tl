@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sinasanay niya ang aking mga kamay sa pakikipaglaban, at ang aking mga bisig ay lumulundo ng busog na tanso.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "sinasanay niya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang aking mga kamay"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa pakikipaglaban"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "at lumulundo ng"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "ang aking mga bisig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:51.311345180Z",
+  "model": "glm-5.3"
+}

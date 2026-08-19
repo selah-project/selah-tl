@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ginawa niya ang ⟨את⟩ mga tabla para sa Mishkan, gawa sa kahoy ng acacia, nakatayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ng acacia (shitim)"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nakatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:00.358687927Z",
+  "model": "glm-5.3"
+}

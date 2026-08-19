@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Magsalita ka sa mga anak ni Yisrael, at kukuha sila ng alay ⟨para⟩ sa akin: mula sa ⟨את⟩ bawat lalaking kusang magbibigay ang kanyang puso, ay kukunin ninyo ⟨ang aking⟩ alay.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Magsalita ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at kukuha sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ng alay"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mula sa",
+      "marks": "bawat lalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "kusang magbibigay"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kukunin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking alay"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "aking alay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:18.850302293Z",
+  "model": "glm-5.3"
+}

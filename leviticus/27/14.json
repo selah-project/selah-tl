@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung maglaan ang isang tao ng ⟨את⟩ kaniyang bahay bilang banal kay Yahweh, pagtatalagahan ng kohen ito, kung mabuti o kung masama; kung paano pagtatalagahan ng kohen ⟨את⟩ ito, gayon ito ⟨ay⟩ tatayo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "at kung ang isang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "maglaan bilang banal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kung kaniyang bahay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kung kaniyang bahay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bilang banal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "pagtatalagahan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kung"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paano"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "pagtatalagahan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ng kohen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:49.844634868Z",
+  "model": "glm-5.3"
+}

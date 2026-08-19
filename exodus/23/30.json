@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Unti-unti Kong silang papalayasin sa harapan mo, hanggang sa ikaw ay mamunga at mamanahin mo ang ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "unti"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "unti"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "Ko silang papalayasin"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa harapan mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ikaw ay mamunga"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "at mamanahin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:55.993857638Z",
+  "model": "glm-5.3"
+}

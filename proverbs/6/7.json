@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Na walang pangulo, tagapamahala, ni pinuno man;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "tagapamahala"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ni pinuno man"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:45.045617588Z",
+  "model": "glm-5.3"
+}

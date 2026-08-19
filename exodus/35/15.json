@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "at ang ⟨את⟩ dambana ng insenso, at ang ⟨את⟩ mga pingga nito, at ang ⟨את⟩ langis ng pagpapahid, at ang ⟨את⟩ insenso ng mga pabango, at ang ⟨את⟩ tabing ng pasukan sa pasukan ng Toldot-Mishkan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "dambana ng insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana ng"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga pingga nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mga pingga nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "langis ng pagpapahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis ng"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pagpapahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "insenso ng mga pabango"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso ng"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mga pabango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tabing ng pasukan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabing ng"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pasukan ng"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:37.810171016Z",
+  "model": "glm-5.3"
+}

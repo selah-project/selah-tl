@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "At mula noong unang panahon ay hindi narinig ⟨nila⟩, hindi nakinig ang tainga; ang mata ay hindi nakakita ng Elohim na bukod sa iyo, na gumagawa para sa naghihintay sa kanya.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "at mula noong unang panahon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "narinig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nakinig (ang tainga)"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "bukod sa iyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "para sa naghihintay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.656530011Z",
+  "model": "glm-5.3"
+}

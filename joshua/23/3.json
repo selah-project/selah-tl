@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At kayo ay nakakita sa ⟨את⟩ lahat ng ginawa ni Yahweh na inyong Elohim sa lahat ng mga bansang ito sa harap ninyo, sapagkat si Yahweh na inyong Elohim — siya ang nakikipaglaban para sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "At kayo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapat ng ginawa (כל אשר עשה)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lapat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sa harap ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ang nakikipaglaban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:32.458109080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Sapagkat ang galit ng tao ay magpupuri sa iyo; ang natitirang galit ay bibigkisan mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "galit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "magpupuri sa iyo"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ang natitira"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ng galit"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "bibigkisan mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:36.140756358Z",
+  "model": "glm-5.3"
+}

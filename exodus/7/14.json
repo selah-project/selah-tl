@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Yahweh kay Moshe: Mabigat ang puso ni Paroh, tumatanggi siyang palabasin ang bayan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "tumatanggi"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "palabasin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:06.500046589Z",
+  "model": "glm-5.3"
+}

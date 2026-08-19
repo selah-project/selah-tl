@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sa ikaanim na araw, ang pinuno para sa mga anak ni Gad: si Elyasaf na anak ni Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ikaanim"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak ni"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:44.099427468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "Ang aking kaluluwa ⟨ay⟩ para kay Adonai, higit sa mga nagbabantay sa umaga — mga nagbabantay sa umaga.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "para kay Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "higit sa mga nagbabantay"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "mga nagbabantay"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sa umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.715982189Z",
+  "model": "glm-5.3"
+}

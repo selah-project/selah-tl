@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Bahay ng mga Levi, patolo sinain si Yahweh; mga natatakot kay Yahweh, patolo sinain si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ng mga Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "patolo sinain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mga natatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "patolo sinain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:26.539352760Z",
+  "model": "glm-5.3"
+}

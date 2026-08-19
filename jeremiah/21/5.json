@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ako rin ay makikipaglaban sa inyo, ⟨את⟩ — sa kamay na unat, at sa braso na malakas, at sa galit, at sa poot, at sa matinding poot na dakila.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "at makikipaglaban ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako rin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "na unat"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "at sa braso"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "na malakas"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "at sa galit"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "at sa poot"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "at sa poot na matindi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "na dakila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:23.309784148Z",
+  "model": "glm-5.3"
+}

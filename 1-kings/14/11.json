@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "ang mamatay kay Yaravam sa lunsod ay kakainin ng mga aso, at ang mamatay sa parang ay kakainin ng mga ibon ng langit; sapagkat si Yahweh ang nagsalita.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ang mamatay"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kay Yaravam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lunsod"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ng mga aso"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "at ang mamatay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ng mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang nagsalita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:17.536846356Z",
+  "model": "glm-5.3"
+}

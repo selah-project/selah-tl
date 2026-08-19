@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag mong pagsamantalain ang ⟨את⟩ iyong kapwa, at huwag magnakaw; huwag mong ipatatagal sa iyo ⟨את⟩ ang sahod ng dayuhan na nagtatrabaho, hanggang umaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "pagsamantalain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kapwa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "magnakaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ipatatagal"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "sahod"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "dayuhan na nagtatrabaho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:39.235120799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Sino ang sumukat sa ⟨את⟩ ruach ni Yahweh, at sino pang tao ang ⟨na⟩ nagturo sa kanya ng kanyang payo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "sumukat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at tao"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "kanyang payo"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nagturo sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:17.797399333Z",
+  "model": "glm-5.3"
+}

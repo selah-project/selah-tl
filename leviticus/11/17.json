@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at ang ⟨את⟩ maliit na kuwago, at ang ⟨את⟩ ibong-shalakh, at ang ⟨את⟩ malaking kuwago",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "maliit na kuwago"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "maliit na kuwago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "ibong-shalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ibong-shalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "malaking kuwago"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "malaking kuwago"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:54.879973264Z",
+  "model": "glm-5.3"
+}

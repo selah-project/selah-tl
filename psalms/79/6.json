@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Ibuhos mo ang iyong nag-aapoy na poot sa ⟨את⟩ mga bansa na hindi ka nakilala, at sa mga kaharian na sa iyong pangalan hindi tumawag.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ibuhos mo"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ang iyong nag-aapoy na poot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ka nakilala"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga kaharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "tumawag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.883731667Z",
+  "model": "glm-5.3"
+}

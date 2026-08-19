@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Ang aking daan at ang aking paghiga, wininnow mo; sa lahat ng aking mga lakad, ikaw ay nakaaalam.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ang aking daan"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "at ang aking paghiga"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "wininnow mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "aking mga lakad"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ikaw ay nakaaalam"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:07.579148845Z",
+  "model": "glm-5.3"
+}

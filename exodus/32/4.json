@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At kumuha siya mula sa kanilang kamay, at hinulma niya ⟨את⟩ ⟨ito⟩ ng ⟨pamukit⟩, at ginawa niya itong guyang hinang bula: at nagsabi sila: Ang mga ito, O Yisrael, ang iyong mga elohim na nag-akyat sa iyo mula sa lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "mula sa kanilang kamay"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "at hinulma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ito⟩",
+      "marks": "ng ⟨pamukit⟩"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ng pamukit"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "at ginawa ito"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "guyang"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "hinang bula"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong mga elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "nag-akyat sa iyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:26.660206568Z",
+  "model": "glm-5.3"
+}

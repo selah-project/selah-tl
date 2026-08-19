@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Mga elohim na hinaluan ay hindi gagawin mo para sa iyo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "hinaluan (inihulmang metal)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:32.654142495Z",
+  "model": "glm-5.3"
+}

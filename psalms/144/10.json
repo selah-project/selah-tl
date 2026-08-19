@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "⟨Siya⟩ na nagbibigay ng kaligtasan sa mga hari, na nagliligtas kay ⟨את⟩ David na lingkod niya mula sa tabak ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ang nagbibigay"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ang nagliligtas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "lingkod niya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mula sa tabak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:12.755917963Z",
+  "model": "glm-5.3"
+}

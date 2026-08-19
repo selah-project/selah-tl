@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang pangalan ng isa ay Pishon; siya ang umiikot sa ⟨את⟩ buong lupain ng Havilah, kung saan doon may ginto.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "ang umiikot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong lupain ng Havilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "ng Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:50.246529721Z",
+  "model": "glm-5.3"
+}

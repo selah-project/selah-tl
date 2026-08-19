@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Papuri sa Yahweh magpakailanman. Amin, at amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Papuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "at amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:24.877144846Z",
+  "model": "glm-5.3"
+}

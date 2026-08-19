@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Ang aking lakas at awit ay si Yah; at siya'y naging kaligtasan ko.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "at awit"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at siya'y naging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:56.378301876Z",
+  "model": "glm-5.3"
+}

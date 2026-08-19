@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Ipinakita mo sa ⟨ang⟩ iyong bayan ang matitigas na bagay; pinainom mo kami ng alak na pangangatog.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "ipinakita mo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "matitigas na bagay"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "pinainom mo kami"
+    },
+    {
+      "surface": "יין",
+      "gloss": "alak"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "pangangatog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:39.790992220Z",
+  "model": "glm-5.3"
+}

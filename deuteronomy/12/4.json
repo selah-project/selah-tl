@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Huwag kayong gumawa ng gayon kay Yahweh, sa inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kayong gumawa ng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:51.790038231Z",
+  "model": "glm-5.3"
+}

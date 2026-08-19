@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Huwag mong isasauli ang isang alipin sa kanyang panginoon, na nakatakas papunta sa iyo mula sa kanyang panginoon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "mong isasauli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ang isang alipin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "kanyang panginoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "nakatakas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "papunta sa iyo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "kanyang panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:34.666484598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagsabi sa kanya ang lahat ng mga matanda at ang buong bayan: Huwag kang makinig, at huwag na pahintulot.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kang makinig"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "na pahintulot"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:19.386185416Z",
+  "model": "glm-5.3"
+}

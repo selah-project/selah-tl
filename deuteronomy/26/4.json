@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At kukunin ng pari ang basket mula sa iyong kamay at ibababa niya ito sa harap ng altar ni Yahweh na iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukunin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng pari"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "ang basket"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mula sa iyong kamay"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "at ibababa niya ito"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "mong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:47.035903689Z",
+  "model": "glm-5.3"
+}

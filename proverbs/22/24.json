@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Huwag makipagkaibigan ⟨את⟩ sa may galit na tao, at ⟨את⟩ sa lalaking mapusok ay huwag kang sasama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "makipagkaibigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa may galit na tao"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit na tao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa lalaking"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mapusok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay huwag"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kang sasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:46.188606490Z",
+  "model": "glm-5.3"
+}

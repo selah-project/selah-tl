@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At gagawin ng saserdote ang ⟨את⟩ mga ito — ang isa bilang handog para sa kasalanan at ang isa bilang handog na susunugin — at magpapatalbay ang saserdote para sa kanya sa harapan ni Yahweh dahil sa kanyang daloy.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "At gagawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito (ang dalawang ibon)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bilang handog para sa kasalanan"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "at ang isa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bilang handog na susunugin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "at magpapatalbay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "dahil sa kanyang daloy"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:52.744486198Z",
+  "model": "glm-5.3"
+}

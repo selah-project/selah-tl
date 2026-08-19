@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At nagmadali sila, at pinaltas ng bawat isa ⟨את⟩ sako niya sa lupa, at binuksan ng bawat isa ang sako niya.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "at nagmadali sila"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "at pinaltas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sako niya"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sako niya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "at binuksan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sako niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:42.215203179Z",
+  "model": "glm-5.3"
+}

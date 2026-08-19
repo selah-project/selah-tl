@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At nangyari, nang makita nila ⟨את⟩ siya, kumuha sila ng tatlumpung mga kasama, at sila'y naging ⟨את⟩ kasama niya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "nang makita nila"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩siya",
+      "marks": "siya (si Shimshon)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "kumuha sila"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga kasama"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at sila'y naging"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩kasama niya",
+      "marks": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:54:09.731644076Z",
+  "model": "glm-5.3"
+}

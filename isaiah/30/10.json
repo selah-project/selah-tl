@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Na nagsasabi sa mga tagatanaw: Huwag kayong kumita, at sa mga tagamasid: Huwag kayong mangita sa amin ng mga tuwid na bagay, magsalita kayo sa amin ng mga malambot na bagay, mangita kayo ng mga ilusyon:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "sa mga tagatanaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kayong kumita"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "at sa mga tagamasid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "kayong mangita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "mga tuwid na bagay"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "magsalita kayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "mga malambot na bagay"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "mangita kayo"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "mga ilusyon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:35.968013658Z",
+  "model": "glm-5.3"
+}

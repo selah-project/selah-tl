@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Gumagawa ng katarungan sa mga inaapi, nagbibigay ng pagkain sa mga gutom; si Yahweh, nagpapalaya sa mga bilanggo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gumagawa ng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "sa mga inaapi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagbibigay ng"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "sa mga gutom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "nagpapalaya sa"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "mga bilanggo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:20.218507746Z",
+  "model": "glm-5.3"
+}

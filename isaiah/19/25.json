@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Na-basbasán ni Yahweh ng mga hukbo, na sinasabi: Pinagpala ang aking bayang Mitzrayim, at ang gawa ng aking mga kamay ay Ashur, at ang aking pamana ay Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "binasbasán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang aking bayan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "at ang gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng aking mga kamay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "at ang aking pamana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:46.109095008Z",
+  "model": "glm-5.3"
+}

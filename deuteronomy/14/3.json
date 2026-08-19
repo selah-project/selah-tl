@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Huwag mong kakainin ang anumang kasuklam-suklam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kasuklam-suklam"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:01.849784068Z",
+  "model": "glm-5.3"
+}

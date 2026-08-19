@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "ay puputulin mo ang ⟨את⟩ kanyang palad; huwag mag-aawa ang iyong mata.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "puputulin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang palad"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "kanyang palad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mag-aawa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang iyong mata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:38.504391968Z",
+  "model": "glm-5.3"
+}

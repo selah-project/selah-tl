@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Nagkapisan kay hari Shelomoh ang lahat ng mga lalaki ng Yisra'el, sa buwan ng ha-Etaním, sa pagdiriwang — ⟨ito⟩ ang ikapitong buwan.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "nagkapisan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga lalaki ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "sa buwan ng"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "ha-Etaním"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "sa pagdiriwang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang buwan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapitong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:18.545364688Z",
+  "model": "glm-5.3"
+}

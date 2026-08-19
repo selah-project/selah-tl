@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "at bibigyang-buhay ninyo ang ⟨את⟩ amang ko at ang ⟨את⟩ inang ko at ang ⟨את⟩ mga kapatid kong lalaki at ang ⟨את⟩ mga kapatid kong babae at ang ⟨את⟩ lahat ng sa kanila, at inililigtas ninyo ang ⟨את⟩ mga buhay namin sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "at bibigyang-buhay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amang ko"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amang ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "inang ko"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "inang ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kapatid kong lalaki"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mga kapatid kong lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kapatid kong babae"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mga kapatid kong babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "at inililigtas ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga buhay namin"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "mga buhay namin"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "sa kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:37:23.181386485Z",
+  "model": "glm-5.3"
+}

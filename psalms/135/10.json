@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Siya na humampas sa maraming bansa, at pumatay ng mga makapangyarihang hari;",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "humampas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "at pumatay"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "makapangyarihan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.126581227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At naghagis si Yahweh ng malakas na hangin sa dagat, at naganap ang malaking bagyo sa dagat, at ang barko ay ⟨nasa⟩ panganib na wasakin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "naghagis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "malakas na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naganap"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ang bagyo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "at ang barko"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "⟨nasa⟩ panganib"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "na wasakin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:57.769171706Z",
+  "model": "glm-5.3"
+}

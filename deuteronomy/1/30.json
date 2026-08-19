@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Si Yahweh na Elohim ninyo, ⟨na⟩ lumalakad sa harap ninyo, siya ang lalaban para sa inyo, ayon sa lahat ng ginawa niya ⟨את⟩ sa inyo sa Mitzrayim sa harap ng inyong mga mata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na Elohim ninyo"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨na⟩ lumalakakad — lumalakad"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa harap ninyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ang lalaban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sa harap ng inyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:39.679056263Z",
+  "model": "glm-5.3"
+}

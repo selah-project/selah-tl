@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang ⟨את⟩ inyong mga aliping lalaki, at ang ⟨את⟩ inyong mga aliping babae, at ang ⟨את⟩ inyong mga batang lalaki — ang mga mabubuti — at ang ⟨את⟩ inyong mga asno ay kukuhanin niya, at gagawin para sa kanyang gawain.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga aliping lalaki"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "inyong mga aliping lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga aliping babae"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "inyong mga aliping babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga batang lalaki"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "inyong mga batang lalaki"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ang mga mabubuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga asno"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "inyong mga asno"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuhanin niya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gagawin"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "para sa kanyang gawain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:26.867669257Z",
+  "model": "glm-5.3"
+}

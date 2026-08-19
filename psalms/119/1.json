@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "O ang kaligayahan ng mga taong sakdal sa kanilang lakad, na lumalakad sa torah ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "O ang kaligayahan ng"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "mga taong sakdal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa kanilang lakad"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "na lumalakad"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa torah ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:25.855887928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Magpasalamat kayo sa El ng ⟨mga⟩ langit, sapagkat hanggang sa walang hanggan ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "magpasalamat kayo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng ⟨mga⟩ langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang sa walang hanggan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:51.071775448Z",
+  "model": "glm-5.3"
+}

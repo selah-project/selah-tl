@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Ipinahayag ko ang katuwiran sa malaking kapisanan; narito, hindi ko hinarang ang aking mga labi; ikaw, Yahweh, ay nakakatalastas.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ipinahayag ko"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "malaking"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "aking mga labi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "hinarang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakakatalastas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:10.631194564Z",
+  "model": "glm-5.3"
+}

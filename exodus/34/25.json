@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Huwag mong iihain na may kasamang lebadura ang ⟨את⟩ dugo ng aking hain; at huwag ipapatulog hanggang umaga ang hain ng pista ng ⟨את⟩ Pesach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "mag-ihaín"
+    },
+    {
+      "surface": "על",
+      "gloss": "na may kasamang"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "lebadura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ng aking hain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ipapatulog"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hanggang umaga"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ang hain"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ng pista"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ng Pesach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:16.254962357Z",
+  "model": "glm-5.3"
+}

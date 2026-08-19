@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Datapuwa't ikaw, Yahweh, ⟨ay⟩ kalasag ko palibot ko, aking kaluwalhatian, at nagtataas ng aking ulo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Datapuwa't ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "palibot ko \/ para sa akin"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "aking kaluwalhatian"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "at nagtataas ng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "aking ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:54.520633738Z",
+  "model": "glm-5.3"
+}

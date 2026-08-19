@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Si Elohim ⟨ay⟩ nasa gitna niya; hindi ito magagalaw — tutulungan siya ni Elohim sa pagsapit ng umaga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nasa gitna niya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "magagalaw"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "tutulungan siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "sa pagsapit"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:07.538477959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sinabi ni David kay Avishai: Huwag mong siruin siya, sapagkat sino ang nagpadala ng kaniyang kamay sa Mashíaj ni Yahweh at ⟨na⟩ magiging inosente?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "mong siruin siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kaniyang kamay"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "sa Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "at magiging inosente"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:57.503233735Z",
+  "model": "glm-5.3"
+}

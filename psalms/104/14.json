@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Pinatutubo ang damo para sa hayop, at ang mga gulma para sa paglilingkod ng tao, upang maglabas ng tinapay mula sa lupa;",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "pinatutubo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "damo"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "para sa hayop"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "at mga gulma"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "para sa paglilingkod"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "upang maglabas"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:15.543009843Z",
+  "model": "glm-5.3"
+}

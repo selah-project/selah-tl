@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Yehoshafat, Nasa kaniya ⟨את⟩ ang salita ng Yahweh. Kaya bumaba sa kaniya ang hari ng Israel, at si Yehoshafat, at ang hari ng Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ni Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "May\/Nasa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ang salita ng Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ng Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Kaya bumaba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "at si Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ng Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:14.351879038Z",
+  "model": "glm-5.3"
+}

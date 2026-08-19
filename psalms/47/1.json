@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Sa pangunguna, para sa mga anak ni Korach, isang awit na may himig.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "awit na may himig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:56.877763478Z",
+  "model": "glm-5.3"
+}

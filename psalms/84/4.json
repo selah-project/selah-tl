@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Nakasumpat na ang ibon ng bahay, at ang martines ng pugad para sa kanyang sarili, kung saan inilagay niya ang kanyang mga inakay — ⟨את⟩ mga dambana Mo, Yahweh ng mga hukbo, hari Ko at Elohim Ko.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nakasumpat ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "at ang martines"
+    },
+    {
+      "surface": "קן",
+      "gloss": "pugad"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para sa kanyang sarili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "inilagay niya"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ang kanyang mga inakay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dambana Mo"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mga dambana Mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hari Ko"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at Elohim Ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:18.246023285Z",
+  "model": "glm-5.3"
+}

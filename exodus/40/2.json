@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Sa unang araw ng unang buwan, sa ika-isang araw ng buwan, itatatag mo ang ⟨את⟩ tabernakulo ng tolda ng kapisanan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ng unang"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa ika-isang"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "itatatag mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakulo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:34.840964820Z",
+  "model": "glm-5.3"
+}

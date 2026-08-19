@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Bantayan mo ang iyong dila sa kasamaan, at ang iyong mga labi sa pagsasalita ng daya.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bantayan mo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ang iyong dila"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "at ang iyong mga labi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa pagsasalita"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ng daya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:05.663798688Z",
+  "model": "glm-5.3"
+}

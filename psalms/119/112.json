@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Iniinog ko ang aking puso upang gawin ang iyong mga batas magpakailanman, hanggang sa wakas.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "iniinog ko \/ itinalikod ko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang iyong mga batas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hanggang sa wakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:12.691547292Z",
+  "model": "glm-5.3"
+}

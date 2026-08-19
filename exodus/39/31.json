@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At inilagay nila sa ibabaw nito ang tali na asul, upang ilagay sa ⟨את⟩ turbante sa itaas, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "пתיל",
+      "gloss": "tali"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ilagay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbante"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:05.878747987Z",
+  "model": "glm-5.3"
+}

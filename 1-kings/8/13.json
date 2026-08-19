@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sa pagtatayo, nagtayo ako ng bahay na tahanan para sa iyo, matibay na tirahan para sa iyong paninirahan magpakailanman.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "sa pagtatayo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nagtayo ako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "matibay na tirahan"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "para sa iyong paninirahan"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:52.603802059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sa paglaban ng lupa, marami ang mga pinuno nito, ngunit sa taong nakauunawa at nakakakilala, sa gayon ⟨ang kaayusan⟩ ay mamamatagal.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "sa paglaban"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ang mga pinuno nito"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "ngunit sa taong"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa gayon"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ay mamamatagal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:37.011712748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At si Kenaan ay naging ama ng ⟨את⟩ Tsidon na kanyang panganay, at ng ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "at si Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "kanyang panganay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:44.858255001Z",
+  "model": "glm-5.3"
+}

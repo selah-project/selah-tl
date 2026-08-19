@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At lumapad ang kanilang bibig laban sa akin, nagsabi sila, Heah, heah, nakita ng aming mata.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "at lumapad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang kanilang bibig"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ng aming mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:05.133974313Z",
+  "model": "glm-5.3"
+}

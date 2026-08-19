@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Sapagkat malaki ang iyong kagandahang-loob sa akin, at iniligtas mo ang aking buhay mula sa Sheol, sa kailaliman nito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong kagandahang-loob"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "at iniligtas mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "mula sa Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "sa kailaliman nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:26.208034606Z",
+  "model": "glm-5.3"
+}

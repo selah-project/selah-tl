@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Buksan ninyo ang mga tarangkahan, at pumasok ang bansang matuwid, na nag-iingat ng katapatan.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Buksan ninyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ang mga tarangkahan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ang bansa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nag-iingat"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ng katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:25.964057437Z",
+  "model": "glm-5.3"
+}

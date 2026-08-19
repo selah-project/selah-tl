@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Marami ang nagsasabi sa aking kaluluwa: Walang kaligtasan para sa kanya sa Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Marami"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa aking kaluluwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Walang"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "kaligtasan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:54.520505077Z",
+  "model": "glm-5.3"
+}

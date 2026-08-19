@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Tumama ako sa ⟨את⟩ inyo sa tagatuyong hangin at sa amag at sa gradong-yelo, sa ⟨את⟩ lahat ng gawa ng inyong mga kamay, at walang ⟨את⟩ inyo na bumalik sa akin, paanyaya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Tumama ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "sa tagatuyong hangin"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "at sa amag"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "at sa gradong-yelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng gawa ng inyong mga kamay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ng inyong mga kamay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inoyo na bumalik sa akin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "paanyaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:25.311277365Z",
+  "model": "glm-5.3"
+}

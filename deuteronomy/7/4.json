@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat ihihiwalay niya ang ⟨את⟩ iyong anak na lalaki mula sa pagsunod sa akin, at mangangasiwa sila ng ibang elohim; at mag-aalab ang poot ni Yahweh laban sa inyo at pupuksain ka niya nang bigla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ihihiwalay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong anak na lalaki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "iyong anak na lalaki"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mula sa pagsunod sa"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "at mangangasiwa sila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iba"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "at mag-aalab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "poot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "laban sa inyo"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "at pupuksain ka niya"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nang bigla"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:52.203396982Z",
+  "model": "glm-5.3"
+}

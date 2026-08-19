@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At ikaw ay nagpahayag ngayong araw ng ⟨את⟩ ginawa mo ⟨את⟩ sa akin na kabutihan, ⟨את⟩ na isinara ni Yahweh ako sa iyong kamay at hindi mo ako pinatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "nagpahayag ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginawa mo sa akin na kabutihan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa akin"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kabutihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isinara ni Yahweh ako sa iyong kamay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "isinara ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "mo pinatay ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:06.600144053Z",
+  "model": "glm-5.3"
+}

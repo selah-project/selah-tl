@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Makinig ka, Yisra'el: ikaw ay tumatawid ngayong araw sa ⟨את⟩ Yarden, upang pumasok at mang-agaw ng mga bansang dakila at makapangyarihan kaysa iyo, mga lunsod na dakila at binubuta hanggang sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Makinig ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tumatawid"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "upang pumasok"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "at mang-agaw"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "at makapangyarihan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaysa iyo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lunsod"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "at binubuta"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanggang sa langit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:12.662382939Z",
+  "model": "glm-5.3"
+}

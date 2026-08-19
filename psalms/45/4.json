@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Magbigkis ka ng iyong tabak sa iyong hita, O makapangyarihan, ang iyong karangalan at ang iyong kagandahan.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "magbigkis ka"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ng iyong tabak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "iyong hita"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "O makapangyarihan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ang iyong karangalan"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "at ang iyong kagandahan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.666227759Z",
+  "model": "glm-5.3"
+}

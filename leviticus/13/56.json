@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At kung titingnan ng kohen, at narito, lumabo ang nega pagkatapos hugasan ⟨את⟩ ito, at babaksakin niya ⟨את⟩ ito mula sa damit, o mula sa balat, o mula sa sheti, o mula sa erev.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "titingnan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "lumabo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang nega"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "hugasan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang nega)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "at babaksakin niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang bahaging may nega)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "damit"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "העור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "sheti"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "erev"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:14.783840572Z",
+  "model": "glm-5.3"
+}

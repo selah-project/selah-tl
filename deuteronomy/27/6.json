@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Mga buong bato ang itatayo mo ⟨את⟩ sa altar ni Yahweh, sa Elohim mo, at mag-aalayan ka roon ng mga handog na susunugin para kay Yahweh, sa Elohim mo.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "buong"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ang itatayo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sa Elohim mo"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "at mag-aalayan ka \/ magpapataas ka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "roon \/ sa ibabaw nito"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mga handog na susunugin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sa Elohim mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:40.480581908Z",
+  "model": "glm-5.3"
+}

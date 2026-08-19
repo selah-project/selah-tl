@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Ako'y sasagot sa iyo ng mga salita, at ⟨את⟩ iyong mga kaibigan na kapiling mo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "sasagot sa iyo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga kaibigan"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "iyong mga kaibigan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kapiling mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:53:37.116547657Z",
+  "model": "glm-5.3"
+}

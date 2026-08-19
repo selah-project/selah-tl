@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Siya ang tumagal sa ⟨את⟩ Edom sa libis ng asin — sampung libo — at sinakop ang ⟨את⟩ Sela sa pakikipagdigma, at tinawag ang ⟨את⟩ pangalan nito na Yokteel, hanggang sa araw na ito.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "tumagal sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ng asin"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "at sinakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ang Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa pakikipagdigma"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:52.402506597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Panginginig ang dumakip sa kanila roon, mga kirot, gaya ng babaing nanganganak.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "panginginig"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "dumakip sa kanila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mga kirot"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "gaya ng babaing nanganganak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:02.618135735Z",
+  "model": "glm-5.3"
+}

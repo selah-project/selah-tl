@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At pinagaling nila nang pakiramdaman lamang ang ⟨את⟩ kapinsulan ng anak na babae ng aking bayan, na nagsasabi: 'Kapayapaan, kapayapaan!' — ngunit walang kapayapaan.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "at pinagaling nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapinsulan ng anak na babae ng aking bayan"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kapinsulan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "nang"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pakiramdaman lamang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Kapayapaan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:45.841220222Z",
+  "model": "glm-5.3"
+}

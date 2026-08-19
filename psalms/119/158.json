@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nakita ko ang mga taksil at namighati ako; na ang iyong salita ay hindi nila sinusunod.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ang mga taksil"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "at namighati ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang iyong salita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila sinusunod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:38.780111081Z",
+  "model": "glm-5.3"
+}

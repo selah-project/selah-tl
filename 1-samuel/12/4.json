@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinabi nila: Hindi mo kami pinaniwalaan nang di-tapat, at hindi mo kami dinurog, at hindi ka kumuha ng anuman mula sa kamay ng sinuman.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "mo kami pinaniwalaan nang di-tapat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "mo kami dinurog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka kumuha"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng sinuman"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ng anuman"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:15.844867124Z",
+  "model": "glm-5.3"
+}

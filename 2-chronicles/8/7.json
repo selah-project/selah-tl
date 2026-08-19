@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang buong bayan na naiwan mula sa mga Chiti, at mga Emori, at mga Perizi, at mga Chivi, at mga Yevusi, na hindi mula sa Yisrael ⟨sila⟩ —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "na naiwan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "mga Chiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "at mga Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "at mga Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "at mga Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at mga Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mula sa Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨sila⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:07.946222306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang pangalan ng kapatid niya ay Yubal; siya ang naging ama ng lahat na tumutugtog ng kinor at ng ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ng kapatid niya"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "na tumutugtog"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor (arpa)"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "at ugav (plauta)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:00.548110125Z",
+  "model": "glm-5.3"
+}

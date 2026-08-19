@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi ng tiyuhin ni Sha'ul, Sabihin mo nga sa akin ang sinabi sa inyo ni Shemuel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ng tiyuhin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Sha'ul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Sabihin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:38.143722719Z",
+  "model": "glm-5.3"
+}

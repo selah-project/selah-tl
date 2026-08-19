@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At kakainin ninyo ito ⟨את⟩ sa banal na dakong-dako, sapagkat bahagi ninyong itinakda at batas ng inyong mga anak ⟨ito⟩ mula sa mga handog-na-apoy ni Yahweh, sapagkat gayon ako iniutosan.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "at kakainin ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang handog)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dakong-dako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "bahaging itinakda mo"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "at batas"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ng iyong mga anak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mula sa mga handog-na-apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "iniutosan ako"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:25.204431993Z",
+  "model": "glm-5.3"
+}

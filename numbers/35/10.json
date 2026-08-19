@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Magsalita ka sa mga anak ng Yisrael at sabihin mo sa kanila: Nang kayo ay tumawid sa ⟨את⟩ Yarden papunta sa lupain ng Kenaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ay tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "papunta sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:19:30.027327950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Siya ang nagtayo ng ⟨את⟩ Eylat at ibinlikas ito sa Yehudah, matapos mahimlay ang hari na kasama ng kanyang mga ama.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "at ibinlikas ito"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "mahimlay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:31.969492302Z",
+  "model": "glm-5.3"
+}

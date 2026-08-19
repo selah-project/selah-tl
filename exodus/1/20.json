@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nagpatuloy nang mabuti si Elohim sa mga hilot, at dumami ang bayan at lumakas nang labis na labis.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "at nagpatuloy nang mabuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "sa mga hilot"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "at dumami"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "at lumakas sila"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis na labis"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:57.986083418Z",
+  "model": "glm-5.3"
+}

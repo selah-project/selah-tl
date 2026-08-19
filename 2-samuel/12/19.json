@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Nakita ni David na ang kanyang mga alipin ay bumubulong, at naunawaan ni David na patay na ang bata; at sinabi ni David sa kanyang mga alipin: Patay na ba ang bata? At sinabi nila: Patay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang kanyang mga alipin"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "ay bumubulong"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at naunawaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga alipin"
+    },
+    {
+      "surface": "המת",
+      "gloss": "patay na ba"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:13.669888704Z",
+  "model": "glm-5.3"
+}

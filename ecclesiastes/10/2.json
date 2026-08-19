@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang puso ng marunong ay nasa kanan niya, at ang puso ng mangmang ay nasa kaliwa niya.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ng marunong"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "sa kanan niya"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "at ang puso"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ng mangmang"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "sa kaliwa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.798466707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At dinala nila ang ⟨את⟩ kaban ni Yahweh at inilagay ito sa ⟨את⟩ kinaroroonan nito, sa gitna ng toldang inunat ni David para dito; at naghandog si David ng mga holocausto sa harapan ni Yahweh at mga handog-na-kapayapaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dinala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "kinaroroonan nito"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "sa kinaroroonan nito"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "inunat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para dito"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at nagpasampa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mga holocausto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "at mga handog-na-kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:04.103787639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Inilabas niya sila mula sa kadiliman at anino ng kamatayan, at ang kanilang mga tanikala ay pinagpunit niya.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "inilabas sila"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "mula sa kadiliman"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "at anino ng kamatayan"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "at ang kanilang mga tanikala"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "pinagpunit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.744163936Z",
+  "model": "glm-5.3"
+}

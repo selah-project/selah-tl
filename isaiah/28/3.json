@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sa mga paa ay matutuntungan ⟨ang⟩ korona ng kayabangan ng mga lasing ng Efrayim.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "Sa mga paa"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "matutuntungan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ng kayabangan"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "ng mga lasing"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ng Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:50.170869726Z",
+  "model": "glm-5.3"
+}

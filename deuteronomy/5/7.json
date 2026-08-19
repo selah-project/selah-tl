@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Huwag magkakaroon ka ng mga elohim na iba sa harap ko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap ko"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:30.836467729Z",
+  "model": "glm-5.3"
+}

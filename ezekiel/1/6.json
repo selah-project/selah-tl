@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At apat na mga mukha ang ⟨isa⟩, at apat na mga pakpak ang ⟨bawat isa⟩ sa kanila.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "at apat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mga mukha"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "at apat"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mga pakpak"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:37:51.748911828Z",
+  "model": "glm-5.3"
+}

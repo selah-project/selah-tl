@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At nagsalita si Moshe sa mga tainga ng buong kapisanan ng Israel ng ⟨את⟩ mga salita ng awiting ito, hanggang sa matapos.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ng awit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ng awit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ng ito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "matapos"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:01.426576731Z",
+  "model": "glm-5.3"
+}

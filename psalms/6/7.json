@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Napagod ako sa aking ⟨pahinga⟩ paghingbinghing; buong gabi ay pinaglalangoy-luha ko ang aking higaan; sa aking mga luha ay binabaha ko ang aking kama.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Napagod ako"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "sa aking ⟨pahinga⟩ paghingbinghing"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "pinaglalangoy-luha ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ang aking higaan"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "sa aking mga luha"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ang aking kama"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "binabaha ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:48.439339248Z",
+  "model": "glm-5.3"
+}

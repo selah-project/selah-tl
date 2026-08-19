@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 138,
+  "translation": "Si Yahweh ang magtatapos para sa akin; Yahweh, ang iyong kagandahang-loob ay magpakailanman — ang mga gawa ng iyong mga kamay, huwag mong pabayaan!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "ang magtatapos"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong kagandahang-loob"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ay magpakailanman"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga gawa ng"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ng iyong mga kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "mong pabayaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:10.214201833Z",
+  "model": "glm-5.3"
+}

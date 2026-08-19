@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ipakipaglaban ang iyong alitan sa ⟨את⟩ iyong kapwa, at ang lihim ng iba ay huwag isisiwalat",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ang iyong alitan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ipakipaglaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kapwa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "at ang lihim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ng iba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "isisiwalat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:10.118100919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kasalanan ng mga batang lalaki ay naging napakalaking ⟨את⟩ harap ni Yahweh, sapagkat hinamak ng mga tao ang ⟨את⟩ handog na alay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kasalanan"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ng mga batang lalaki"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "napakalaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napakalaking"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harap ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hinamak"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na alay ni Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "handog na alay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:23.103000710Z",
+  "model": "glm-5.3"
+}

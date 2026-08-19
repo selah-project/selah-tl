@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ngayon naman, ibubunyay ko ang ⟨את⟩ kahihiyan niya sa harap ng mga mata ng mga kasintahan niya, at walang lalaking magliligtas sa kanya mula sa aking kamay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngayon naman"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ibubunyay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahihiyan niya"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "kahihiyan niya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa harap ng mga mata"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "mga kasintahan niya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at lalaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "magliligtas sa kanya"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mula sa aking kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:15.619905167Z",
+  "model": "glm-5.3"
+}

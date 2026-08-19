@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Magpasalamat kay Yahweh, sapagkat siya ay mabuti, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.301763203Z",
+  "model": "glm-5.3"
+}

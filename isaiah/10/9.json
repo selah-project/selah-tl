@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi ba kaya ng Karkemish ⟨ang⟩ Kalno? Kung hindi kaya ng Arpad ⟨ang⟩ Hamat? Kung hindi kaya ng Damasek ⟨ang⟩ Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "kaya ng Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "⟨ang⟩ Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "kaya ng Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "⟨ang⟩ Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "kaya ng Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨ang⟩ Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:12.890288577Z",
+  "model": "glm-5.3"
+}

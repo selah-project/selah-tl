@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Nagbubunton ng masamang plano ang masama laban sa matuwid, at nangangatog ang kanyang mga ngipin laban sa kanya.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "nagbubunton ng masamang plano"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "laban sa matuwid"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "at nangangatog"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ang kanyang mga ngipin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:20.461776923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At minahal ng Israel si ⟨את⟩ Yosef higit sa lahat ng kaniyang mga anak, sapagkat anak ng kaniyang katandaan siya sa kaniya; at gumawa siya para sa kaniya ng isang damit na may mga habi.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "at ng Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "minahal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kaniyang mga anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ng katandaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kaniya"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ng damit"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "na may mga habi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:07.806752054Z",
+  "model": "glm-5.3"
+}

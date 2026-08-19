@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ginawa ng mga anak ng pagkabihag ang ⟨את⟩ Paskuwa sa ikalabing-apat na araw ng unang buwan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ng pagkabihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskuwa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Paskuwa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ikalabing-apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "na unang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:39.640579232Z",
+  "model": "glm-5.3"
+}

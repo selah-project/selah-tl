@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At bumangon siya noong gabi na iyon, at kinuha ang ⟨את⟩ kanyang dalawang asawa, at ang ⟨את⟩ kanyang dalawang aliping babae, at ang ⟨את⟩ kanyang labing-isang anak, at ipinagdaraan sa tawiran ng Yabbok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at bumangon"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang dalawang asawa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "kanyang asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang dalawang aliping babae"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "kanyang aliping babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang labing-isang anak"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "at ipinagdaraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawiran ng Yabbok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tawiran"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabbok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:33.626382073Z",
+  "model": "glm-5.3"
+}

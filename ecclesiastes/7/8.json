@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Mabuti ang wakas ng isang bagay kaysa sa simula nito; mabuti ang mahaba ang pasiya ng loob kaysa sa mataas ang loob.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "wakas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kaysa sa simula nito"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahaba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "pasiya ng loob"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kaysa sa mataas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "loob"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:09.290782827Z",
+  "model": "glm-5.3"
+}

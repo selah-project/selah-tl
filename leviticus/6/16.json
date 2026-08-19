@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang bawat handog ng saserdote ay ⟨⟨magiging⟩⟩ lubos na sunugin; hindi kakainin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At ang bawat"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "handog"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "lubos na"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:45.127134100Z",
+  "model": "glm-5.3"
+}

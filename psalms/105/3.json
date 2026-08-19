@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Magmalaki kayo sa pangalan ng kanyang kabanalan, magalak ⟨ang⟩ puso ng mga naghahanap kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Magmalaki kayo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ng kanyang kabanalan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨ang⟩ puso"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ng mga naghahanap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.851843132Z",
+  "model": "glm-5.3"
+}

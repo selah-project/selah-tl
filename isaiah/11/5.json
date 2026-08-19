@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At magiging pamputong sa kanyang baywang ang katarungan, at panananalig ang pamputong sa kanyang balakang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "pamputong"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "kanyang baywang"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "at ang panananalig"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "pamputong"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "kanyang balakang"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:00.367008171Z",
+  "model": "glm-5.3"
+}

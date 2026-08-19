@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Yahweh, ⟨ang⟩ Elohim ng mga ama ninyo, ay magdagdag sa inyo nang gaya ninyo na isang libong ulit, at pagpalain ⟨את⟩ inyo kung paanong nagsalita Siya sa inyo!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "mga ama ninyo"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "magdagdag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "gaya ninyo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "isang libo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "na ulit"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at pagpalain"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita Siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.963389933Z",
+  "model": "glm-5.3"
+}

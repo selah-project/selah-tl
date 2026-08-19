@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Gayon ma'y si Elohim ang tutubos sa aking kaluluwa mula sa kamay ng Sheol, sapagkat tatanggapin Niya ako. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gayon ma'y (tiyak)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "tutubos sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ng Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "tatanggapin Niya ako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:49.627889551Z",
+  "model": "glm-5.3"
+}

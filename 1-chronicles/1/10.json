@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ipinanganak ni Kush si ⟨את⟩ Nimrod; siya ang nagsimulang maging makapangyarihan sa lupa.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "At si Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nagsimulang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "maging"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:21.087109996Z",
+  "model": "glm-5.3"
+}

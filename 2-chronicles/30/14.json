@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Tumayo sila at nagalis ang ⟨את⟩ mga dambana na nasa Yerushalayim, at ⟨את⟩ lahat ng mga dambana ng insenso ay inalis, at itinapon sa sangang-daan ng Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "tumayo sila"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "at nagalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dambana"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ang mga dambana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nasa Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga dambana ng insenso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "ng mga dambana ng insenso"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ay inalis"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "at itinapon"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "sa sangang-daan"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "ng Kidron"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:37.695266116Z",
+  "model": "glm-5.3"
+}

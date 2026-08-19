@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At babalatan ang ⟨את⟩ handog na susunugin, at hihiwain ⟨siya⟩ ayon sa ⟨kaniyang⟩ mga piraso.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "at babalatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na susunugin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "at hihiwain"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ siya",
+      "marks": "mga piraso"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ayon sa kaniyang mga piraso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:45.721668767Z",
+  "model": "glm-5.3"
+}

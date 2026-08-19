@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Gumawa si Betsalel ng ⟨את⟩ arca mula sa kahoy ng akasya: dalawang siko at kalahati ang haba nito, isang siko at kalahati ang lapad nito, at isang siko at kalahati ang taas nito;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gumawa si"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨ang⟩ arca"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dalawang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang lapad nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:26.428421408Z",
+  "model": "glm-5.3"
+}

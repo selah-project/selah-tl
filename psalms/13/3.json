@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Hanggang kailan maglalagay ako ng mga payo sa aking kaluluwa, kalungkutan sa aking puso araw-araw? Hanggang kailan itataas ng aking kaaway ang sarili sa ibabaw ko?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hanggang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "maglalagay ako"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mga payo"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sa aking kaluluwa"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kalungkutan"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "sa aking puso"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "araw-araw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hanggang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "itataas ang sarili"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aking kaaway"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:59.447523967Z",
+  "model": "glm-5.3"
+}

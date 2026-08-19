@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Oh Elohim, awit na bago ako aawit sa iyo, sa nebel na sampung-bagting ako sasalansalin sa iyo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bago"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ako aawit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sampung-bagting"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "sasalansalin ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:12.755651703Z",
+  "model": "glm-5.3"
+}

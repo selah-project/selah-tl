@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 122,
+  "translation": "Dahil sa aking mga kapatid at aking mga kaibigan, magsasalita ako ngayon ng kapayapaan sa iyo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "aking mga kapatid"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "at aking mga kaibigan"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "magsasalita ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:39.536561867Z",
+  "model": "glm-5.3"
+}

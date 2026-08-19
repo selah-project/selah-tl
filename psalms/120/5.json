@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Aba sa akin, sapagkat nanirahan akong parang dayuhan sa Meshek, tumahan ako kasama ng mga tolda ng Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "nanirahan akong parang dayuhan"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sa Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "tumahan ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mga tolda"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ng Kedar"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:33.612214943Z",
+  "model": "glm-5.3"
+}

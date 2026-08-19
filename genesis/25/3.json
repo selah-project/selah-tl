@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At naging anak ni Yakshan si ⟨את⟩ Sheva at si ⟨את⟩ Dedan; at ang mga anak ni Dedan ay naging Ashurim, at Letushim, at Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yakshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naging anak ni \/ naging ama ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak ni"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:10.191668146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Pagkatapos, babalik ang mga anak ni Yisrael, at hahanapin nila si ⟨את⟩ Yahweh na Elohim nila, at si ⟨את⟩ David na hari nila; at pupunta silang may takot kay Yahweh at sa kagandahang-loob niya, sa huling mga araw.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Pagkatapos"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "at hahanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh na Elohim nila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "David na hari nila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "hari nila"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "at pupunta silang may takot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kagandahang-loob niya"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa huling"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:08.902971958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Hindi ba ang kanyang kadakilaan ay manganganib sa ⟨את⟩ inyo, at ang kanyang sindak ay babagsak sa inyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "kadakilaan niya"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "manganganib"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "at sindak niya"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "babagsak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:47.524186361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At napuno para sa kaniya ang apatnapung araw — sapagkat gayon napupuno ang mga araw ng mga binabalutan ng kabanlawan — at umiyak ang ⟨את⟩ kaniya ang Mitzrayim pitumpung araw.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kaniya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "apatnapu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "napupuno"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga araw"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "ng mga binabalutan ng kabanlawan"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim (Ehipto)"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:51.700544861Z",
+  "model": "glm-5.3"
+}

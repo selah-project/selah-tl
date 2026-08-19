@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 123,
+  "translation": "Labis ang busog na tinanggap ng aming kaluluwa sa paguya ng mga komportable, sa pang-aba ng mga mayabang.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Labis"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ang busog"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na tinanggap ng"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "aming kaluluwa"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "sa paguya"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ng mga komportable"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "sa pang-aba"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ng mga mayabang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:31.931629078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sino ang umaahon sa bundok ni Yahweh, at sino ang tatayo sa banal na lugar niya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "umaahon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "at tatayo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "banal niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.626076722Z",
+  "model": "glm-5.3"
+}

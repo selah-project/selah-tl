@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Mahiya at mapahamak ang mga akusador ng aking ⟨nefesh⟩; mabalutan ng kahihiyan at karima-rimarim ang mga naghahanap ng aking kasamaan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mahiya"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mapahamak"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "mga akusador"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking ⟨nefesh⟩"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "mabalutan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "at karima-rimarim"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mga naghahanap"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ng aking kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.495197093Z",
+  "model": "glm-5.3"
+}

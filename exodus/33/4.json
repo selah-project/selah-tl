@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At narinig ng bayan ⟨את⟩ ang masamang balitang ito, at nagluho sila, at walang naglagay na parang tao ng kaniyang gayak sa kaniya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang masamang balita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "at nagluho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "parang tao"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ang kaniyang gayak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:48.131498714Z",
+  "model": "glm-5.3"
+}

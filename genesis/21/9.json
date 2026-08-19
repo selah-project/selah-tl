@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nakita ni Sarah ang ⟨את⟩ anak ni Hagar na Egipcio, na ipinanganak niya kay Avraham, na nagtatawa nang tuyatuya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "na Egipcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ipinanganak niya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "nagtatawa nang tuyatuya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:38.266176572Z",
+  "model": "glm-5.3"
+}

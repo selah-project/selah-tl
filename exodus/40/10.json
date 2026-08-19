@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At papahidan mo ang ⟨את⟩ dambana ng handog na susunugin at ang ⟨את⟩ lahat ng kasangkapan nito, at itatakdang-banaltad mo ang ⟨את⟩ dambana, at magiging banal ng mga banal ang dambana.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "at papahidan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ng kasangkapan nito"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "at itatakdang-banaltad mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang dambana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang dambana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:59.667524951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At si Yahweh ay nagpaulan sa Sedom at sa Amorah ng asupre at apoy, mula kay ⟨את⟩ Yahweh, mula sa mga langit.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "nagpaulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "asupre"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "at apoy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula kay ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:41.069210925Z",
+  "model": "glm-5.3"
+}

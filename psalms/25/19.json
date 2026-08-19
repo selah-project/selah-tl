@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Tingnan mo ang aking mga kaaway, sapagkat marami sila, at ng pagkapoot sa karahasan ay napopoot sila sa akin.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang aking mga kaaway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "marami sila"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "at ng pagkapoot"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sa karahasan"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ay napopoot sila sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:26.381762990Z",
+  "model": "glm-5.3"
+}

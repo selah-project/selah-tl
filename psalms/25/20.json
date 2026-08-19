@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ingatan mo ang aking buhay at iligtas mo ako; huwag akong mapahiya, sapagkat sa iyo ako nanahan.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Ingatan mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "at iligtas mo ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "akong mapahiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nanahan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:26.381914115Z",
+  "model": "glm-5.3"
+}

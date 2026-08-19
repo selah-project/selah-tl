@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nangyari sa kinaumagahan, sa pag-ahon ng alay, at narito, dumarating ang tubig mula sa daan ng Edom, at napuno ang lupa ng ⟨את⟩ tubig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kinaumagahan"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "sa pag-ahon"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ng alay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "באים",
+      "gloss": "darating"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "mula sa daan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:31.709030841Z",
+  "model": "glm-5.3"
+}

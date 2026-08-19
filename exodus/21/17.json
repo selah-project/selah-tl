@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang sumusumpa sa kaniyang ama at sa kaniyang ina, tiyak na papatayin sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "at ang sumusumpa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa kaniyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at sa kaniyang ina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak na papatayin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sa kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:55.929337980Z",
+  "model": "glm-5.3"
+}

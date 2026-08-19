@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang humuhukay ng hukay ay mahuhulog doon, at ang sumisira ng bakod — ahas ang kakagat sa kanya.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ang humuhukay"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ng hukay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "doon"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "mahuhulog"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "at ang sumisira"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ng bakod"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "kakagat"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ahas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:34.559359148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Bakit kinudkud ang iyong mga makapangyarihan? Hindi sila nakatayo, sapagkat si Yahweh ang tumulak sa kanila.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "kinudkud"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "ang iyong mga makapangyarihan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "ang tumulak sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:33:25.806780123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Hinampas nila ang ⟨את⟩ buong ⟨את⟩ kaluluwang nandoon sa loob nito sa gilid ng tabak, inilaan sa pagkasira; hindi natira ang anumang hininga, at ang ⟨את⟩ Chatsor ay sinunog sa apoy.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "hinampas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong kaluluwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "kaluluwang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nandoon sa loob nito"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa gilid\/ng bibig"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "inilaan sa pagkasira (ipinagbawal)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "natira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "hininga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:38.928829306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At umaahon singaw mula sa lupa, at binabasa nito ⟨את⟩ buong ibabaw ng lupa.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "at singaw"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "umaahon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "at dinilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong ibabaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ibabaw\/mukha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:29.305519022Z",
+  "model": "glm-5.3"
+}

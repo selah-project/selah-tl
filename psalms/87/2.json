@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 87,
+  "translation": "Iniibig ni Yahweh ang mga tarangkahan ng Tsiyon, higit sa lahat ng tahanan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "iniibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ang mga tarangkahan ng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat ng"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:37.187346970Z",
+  "model": "glm-5.3"
+}

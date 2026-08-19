@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Hindi ganoon ang mga masama, kundi parang ipa na itinatapon ng hangin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga masama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hindi (kundi)"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "parang ipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "itinatapon"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:10.549660936Z",
+  "model": "glm-5.3"
+}

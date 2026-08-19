@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Iyuko mo ang aking puso sa iyong mga patotoo, at huwag sa kasakiman.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "iyuko mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "iyong mga patotoo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kasakiman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:32.368012386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ngunit ang panganay na ipinanganak kay Yahweh sa hayop, hindi ito itatalaga ng sinuman ⟨את⟩ niya; kung baka o tupa, kay Yahweh iyon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "ipinanganak bilang panganay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa hayop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "itatalaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sinuman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya \/ ito (ang panganay)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:17.914985706Z",
+  "model": "glm-5.3"
+}

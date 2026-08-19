@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang iyong alipin ⟨ako⟩; pagbigyan-mo-ako ng unawa, at malalaman ko ang iyong mga patotoo.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong alipin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "pagbigyan-mo-ako ng unawa"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "at malalaman ko"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang iyong mga patotoo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:18.367730232Z",
+  "model": "glm-5.3"
+}

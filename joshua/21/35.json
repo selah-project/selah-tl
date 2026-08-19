@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna at ang ⟨את⟩ kaniyang bakuran, ⟨את⟩ Nahalal at ang ⟨את⟩ kaniyang bakuran — apat na mga lungsod.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bakuran"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kaniyang bakuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang bakuran"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "kaniyang bakuran"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:37.425313366Z",
+  "model": "glm-5.3"
+}

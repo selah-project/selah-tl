@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang nagbabantay sa hanging ⟨hindi makakahasik⟩, at ang tumitingin sa mga ulap ay hindi aani.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ang nagbabantay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hanging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "makakahasik"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at ang tumitingin"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "sa mga ulap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "aani"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:17.426620465Z",
+  "model": "glm-5.3"
+}

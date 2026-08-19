@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit ⟨את⟩ si Natan ang propeta, at si Benayahu, at ⟨את⟩ ang mga makapangyarihang lalaki, at ⟨את⟩ si Shelomoh na kaniyang kapatid, ay hindi niya tinawag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Natan ang propeta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "at si Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga makapangyarihang lalaki"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ang mga makapangyarihang lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kaniyang kapatid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tinawag"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:00.484674280Z",
+  "model": "glm-5.3"
+}

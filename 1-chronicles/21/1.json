@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At tumayo si satanas laban sa Yisrael, at hinikayat niya si ⟨את⟩ David na bilangin ang ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satanas"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "at hinikayat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "na bilangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:30.434133951Z",
+  "model": "glm-5.3"
+}

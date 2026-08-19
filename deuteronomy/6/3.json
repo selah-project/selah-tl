@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At dinggin mo, O Yisrael, at ingatan mong gawin, upang mabuti sa iyo at upang kayo'y dumami nang lubos, kung paanong sinalita ni Yahweh na Elohim ng iyong mga ama sa iyo — lupain na umaagos ng gatas at pulot-pukyutan.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "At dinggin mo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "at ingatan mo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at upang"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "kayo'y dumami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ng iyong mga ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "umaagos"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ng gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "at pulot-pukyutan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:39.230208050Z",
+  "model": "glm-5.3"
+}

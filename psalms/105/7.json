@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "⟨Siya⟩ ay si Yahweh na Elohim natin; sa buong lupa ay ⟨naroroon⟩ ang kanyang mga hatol.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim natin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mga hatol niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.321222994Z",
+  "model": "glm-5.3"
+}

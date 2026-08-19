@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Kaya't narito, babakuran ko ang ⟨את⟩ iyong lakad ng mga tinik, at itatayo ko ang ⟨את⟩ bakod sa kanya, at ang kanyang mga daan ay hindi matatagpuan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito ako"
+    },
+    {
+      "surface": "שך",
+      "gloss": "babakuran ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong lakad"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "iyong lakad"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ng mga tinik"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "at itatayo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakod"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "bakod"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "at ang kanyang mga daan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "matatagpuan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:15.482138383Z",
+  "model": "glm-5.3"
+}

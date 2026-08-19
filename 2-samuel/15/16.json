@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At lumabas ang hari at ang buong kaniyang sambahayan sa kaniyang mga paa, at iniwan ng hari ang ⟨את⟩ sampung babae — mga pingkian — upang bantayan ang bahay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang sambahayan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa kaniyang mga paa"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "at iniwan ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sampung babae"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "babae"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "mga pingkian"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "upang bantayan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:22.107469700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At pagsasapat-sapatin ko ang Mitzrayim laban sa Mitzrayim, at magsisilaban ang bawat isa laban sa kaniyang kapatid, at bawat isa laban sa kaniyang kapwa; lungsod laban sa lungsod, kaharian laban sa kaharian.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "At pagsasapat-sapatin ko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "laban sa Mitzrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "at magsisilaban"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang bawat isa"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "laban sa kaniyang kapatid"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at bawat isa"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "laban sa kaniyang kapwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "laban sa lungsod"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kaharian"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "laban sa kaharian"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:38.177568245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At iniulat sa kanila ni Mikhayahu ang ⟨את⟩ lahat ng mga salita na narinig niya nang magbasa si Barukh sa aklat sa mga tainga ng bayan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at iniulat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "ni Mikhayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narinig"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "nang magbasa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "si Barukh"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa aklat"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:30:39.691394026Z",
+  "model": "glm-5.3"
+}

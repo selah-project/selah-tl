@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Kapag sila natumba, ang isa ay magtatayo sa ⟨את⟩ kasama niya; ngunit sa isa na natumba nang walang ikalawa upang itayo siya — aba!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "sila natumba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "magtatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasama niya"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ngunit sa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "na natumba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikalawa"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "upang itayo siya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:05.069088087Z",
+  "model": "glm-5.3"
+}

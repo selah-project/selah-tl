@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang mga timbangan ng pandaraya ay kasuklam-suklam kay Yahweh, ngunit ang bato ng tapat na bigat ay kalugud-lugod sa kanya.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "mga timbangan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ng pandaraya"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ngunit ang bato"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ng tapat na bigat"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kalugud-lugod sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:26.650158154Z",
+  "model": "glm-5.3"
+}

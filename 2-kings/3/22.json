@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nagising sila ng maaga sa umaga, at sumikat ang araw sa ibabaw ng tubig, at nakita ng Moab mula sa tapat ⟨את⟩ ang tubig na namumula parang dugo.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "at nagising sila ng maaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "at ang araw"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "sumikat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mula sa tapat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "na namumula"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "parang dugo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:06.044225125Z",
+  "model": "glm-5.3"
+}

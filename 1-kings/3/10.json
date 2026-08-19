@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At naging mabuti ang ⟨ang⟩ bagay sa mga mata ni Adonai, sapagkat hiniling ni Shelomoh ang ⟨את⟩ bagay na ito.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "at naging mabuti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata ng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "hiniling"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:30.458940139Z",
+  "model": "glm-5.3"
+}

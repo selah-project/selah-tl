@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Maglilingkod sa kanya ang ⟨את⟩ lahi; ikukuwento kay Adonai sa ⟨את⟩ susunod na salinlahi.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "maglilingkod sa kanya"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ikukuwento"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kay Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa susunod na salinlahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:34.796188400Z",
+  "model": "glm-5.3"
+}

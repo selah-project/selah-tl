@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang nagtitiwala sa kaniyang sariling puso ay ⟨is⟩ mangmang, ngunit ang lumalakad sa karunungan ay maliligtas.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "nagtitiwala"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kaniyang puso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mangmang"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "ngunit lumalakad"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa karunungan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "maliligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:29.212736186Z",
+  "model": "glm-5.3"
+}

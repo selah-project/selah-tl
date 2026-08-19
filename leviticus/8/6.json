@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At inilapit ni Moshe si ⟨את⟩ Aharon at si ⟨את⟩ mga anak nito, at hinugasan sila ng tubig.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak nito"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak nito"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "at hinugasan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ silá"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:27.429848367Z",
+  "model": "glm-5.3"
+}

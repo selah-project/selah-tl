@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ngunit hindi sila nakinig sa akin, at hindi nila itinuko ang ⟨את⟩ kanilang tainga, at kanilang pinatigas ang ⟨את⟩ kanilang batok; lumala sila kaysa sa kanilang mga magulang.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakinig sila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "itinuko nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang tainga"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kanilang tainga"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "pinatigas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang batok"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kanilang batok"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "lumala sila"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "kaysa sa kanilang mga magulang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:01.469458663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tumawag si Paraoh kay Moshe at nagsabi: Humayo kayo, maglingon kayo kay ⟨את⟩ Yahweh; lamang ang inyong mga kawan at inyong mga baka ay maiwan, pati ang inyong mga anak ay sasama sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paraoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "humayo kayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maglingon kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ang inyong mga kawan"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "at inyong mga baka"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ay maiwan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ang inyong mga anak"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sasama"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:33.808420197Z",
+  "model": "glm-5.3"
+}

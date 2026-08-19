@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Ang ⟨את⟩ buwan at ang mga bituin para pamunuan ang gabi, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buwan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "buwan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "at mga bituin"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "para pamunuan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.643748704Z",
+  "model": "glm-5.3"
+}

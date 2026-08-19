@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ngunit akoy puno ng lakas, ⟨את⟩ sa Espiritu ni Yahweh, at ng hatol at ng kadakilaan, upang ipahayag kay Yaakov ang kanyang paghihimagsik at kay Yisrael ang kanyang kasalanan.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "puno ako"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ng lakas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Espiritu ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at ng hatol"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "at ng kadakilaan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "upang ipahayag"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ang kanyang paghihimagsik"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "at kay Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ang kanyang kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:17.275356475Z",
+  "model": "glm-5.3"
+}

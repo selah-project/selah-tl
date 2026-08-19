@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Nagpadala si David ng mga espiya, at nalaman niyang si Shaul ay dumatal nang tiyak.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Nagpadala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ng mga espiya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "at nalaman niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumatal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nang"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tiyak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:57.158029374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At papahidan mo ang ⟨את⟩ batya at ang ⟨את⟩ tungtungan nito, at itatakdang-banaltad mo ⟨את⟩ niya.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "at papahidan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tungtungan nito"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tungtungan nito"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "at itatakdang-banaltad mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "niya (ang batya)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:59.667684533Z",
+  "model": "glm-5.3"
+}

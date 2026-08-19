@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Lahat ng mga bagay ay nakakapagod; hindi kayang sabihin ng tao; hindi nabubusog ang mata sa pagtingin, at hindi napupunan ang tainga sa pagdinig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "nakakapagod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kayang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "magsabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nabubusog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtingin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "napupunan"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ang tainga"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "sa pagdinig"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:14.823970313Z",
+  "model": "glm-5.3"
+}

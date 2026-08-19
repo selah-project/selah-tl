@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sumpa ang nanunuya sa kanyang ama at sa kanyang ina; at magsasabi ang buong bayan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Sumpa"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ang nanunuya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa kanyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at sa kanyang ina"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at magsasabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:52.340925253Z",
+  "model": "glm-5.3"
+}

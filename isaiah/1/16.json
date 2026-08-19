@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Maghugas kayo, maglinis kayo, magtanggal kayo ng kasamaan ng inyong mga gawa mula sa harapan ng aking mga mata; huminto kayo sa paggawa ng masama.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "maghugas kayo"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "maglinis kayo"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "magtanggal kayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ng inyong mga gawa"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mula sa harapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ng aking mga mata"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "huminto kayo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa paggawa ng masama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:31.178492980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Huwag kang matakot kapag yumaman ang isang tao, kapag dumami ang kaluwalhatian ng kaniyang bahay;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "yumaman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dumami"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ng kaniyang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:18.397840982Z",
+  "model": "glm-5.3"
+}

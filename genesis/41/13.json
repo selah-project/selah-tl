@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At nangyari, ayon sa kanyang pagpapaliwanag sa amin, kaya rin ang nangyari: ako ⟨את⟩ ibinalik niya sa aking katungkulan, at siya ⟨את⟩ ay binitay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "pagpapaliwanag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya rin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ang nangyari"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ibinalik niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כני",
+      "gloss": "aking katungkulan"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "at siya ⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "binitay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:40.114216953Z",
+  "model": "glm-5.3"
+}

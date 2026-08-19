@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Huwag mong dadamhin ang ⟨את⟩ pangalan ni Yahweh na iyong Elohim nang walang kabuluhan; sapagkat hindi papatawarin ni Yahweh ⟨את⟩ siyang magdadala ng ⟨את⟩ kanyang pangalan nang walang kabuluhan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dadamhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nang walang kabuluhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "papatawarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyang magdadala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siyang"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nang walang kabuluhan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:37.989330579Z",
+  "model": "glm-5.3"
+}

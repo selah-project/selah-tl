@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Hindi papatayin ang mga ama dahil sa mga anak, at ang mga anak ay hindi papatayin dahil sa mga ama; bawat tao sa kaniyang sariling kasalanan papatayin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ang mga ama"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "mga ama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "sa kaniyang sariling kasalanan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:39.922148562Z",
+  "model": "glm-5.3"
+}

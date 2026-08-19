@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sasapuhin siya ng kanyang ama at ng kanyang ina, at ilalabas si ⟨את⟩-kanya sa mga matatanda ng kanyang lungsod at sa tarangkahan ng kanyang lugar;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "at sasapuhin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kanyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at ng kanyang ina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "at ilalabas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (anak)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ng kanyang lungsod"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ng kanyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:41.662099741Z",
+  "model": "glm-5.3"
+}

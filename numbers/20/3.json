@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagtalo ang bayan kay Moshe, at nagsabi sila: Sana ay namatay sana kami nang mamatay ang ating mga kapatid sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "at nagtalo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "sana"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "namatay kami"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "nang mamatay"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ang ating mga kapatid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:05.996139923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 141,
+  "translation": "Mizmor ni David. Yahweh, tumawag ako sa iyo, madalihan mo ako, i-ining-ining mo ang pakinig sa aking tinig sa aking pagtawag sa iyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tumawag ako sa iyo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "madalihan mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipaking mo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang aking tinig"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa aking pagtawag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:51.780367237Z",
+  "model": "glm-5.3"
+}

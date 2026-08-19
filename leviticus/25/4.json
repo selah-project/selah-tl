@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ngunit sa ikapitong taon ay magiging Shabbat na shabbaton ang lupain — isang Shabbat kay Yahweh; ang iyong bukid ay hindi hasikan, at ang iyong ubasan ay hindi puputulan.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ngunit sa taon"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "⟨ang⟩ ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "na shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "isang Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ang iyong bukid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "hasikan"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "at ang iyong ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "puputulan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:25.624774652Z",
+  "model": "glm-5.3"
+}

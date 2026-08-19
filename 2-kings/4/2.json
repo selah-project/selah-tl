@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi ni Elisha sa kanya: Ano ang gagawin ko para sa iyo? Sabihin mo sa akin, ano ang mayroon sa bahay? At sinabi niya: Wala sa bahay ng iyong aliping babae anuman, kundi ⟨⟨isang⟩⟩ banga ng langis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ang gagawin ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Sabihin mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ang mayroon"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ng iyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "At sinabi niya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "ng iyong aliping babae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anuman"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maliban"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "banga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ng langis"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:48.820309936Z",
+  "model": "glm-5.3"
+}

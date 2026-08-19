@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At nagpadala si Moshe ng mga tiktik sa ⟨את⟩ Yaezer, at nalupig nila ang ⟨את⟩ mga anak na bayan nito, at pinamahalaan nila ang ⟨את⟩ mga Emori na nandoon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At nagpadala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ng mga tiktik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "at nalupig nila"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ang mga anak na bayan nito"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "at pinamahalaan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang mga Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nandoon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:22.340121669Z",
+  "model": "glm-5.3"
+}

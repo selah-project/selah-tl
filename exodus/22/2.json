@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung sumikat ang araw sa kanya, may mga dugo para sa kanya; ganap na babayaran niya; kung wala siyang ⟨anuman⟩, ipagbibili siya dahil sa kanyang pagnanakaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "sumikat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mga dugo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ganap"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran niya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ipagbibili siya"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "dahil sa kanyang pagnanakaw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:57.788143022Z",
+  "model": "glm-5.3"
+}

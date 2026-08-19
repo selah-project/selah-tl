@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 82,
+  "translation": "Tumindig ka, O Elohim, hatulan mo ang lupa, sapagkat ikaw ang mamanahin sa lahat ng mga bansa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tumindig ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "hatulan mo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "mamanahin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.720060901Z",
+  "model": "glm-5.3"
+}

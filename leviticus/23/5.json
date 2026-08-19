@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa unang buwan, sa ika-labing-apat ng buwan, sa pagitan ng mga takipsilim, ⟨ay⟩ Pesach para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa unang buwan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ika-labing-apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-apat"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ng mga takipsilim"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:44.948200642Z",
+  "model": "glm-5.3"
+}

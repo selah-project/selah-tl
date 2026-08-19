@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At hinulma niya ang apat na singsing sa apat na sulok, sa bandilang tanso — mga bahay para sa mga patpat.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "hinulma niya"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mga singsing"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "mga sulok"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "sa banda (ng hurno)"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "para sa mga patpat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:18.792404159Z",
+  "model": "glm-5.3"
+}

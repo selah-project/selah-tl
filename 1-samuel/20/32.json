@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sumagot si Yehonatan kay ⟨את⟩ Sha'ul na kanyang ama at sinabi niya rito: Bakit siya papatayin? Ano ang kanyang ginawa?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kanyang ama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "siya papatayin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang kanyang ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:08.220548486Z",
+  "model": "glm-5.3"
+}

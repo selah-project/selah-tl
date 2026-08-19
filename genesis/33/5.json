@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At tumanaw siya ng ⟨את⟩ kanyang mga mata, at nakita niya ang ⟨את⟩ mga babae at ang ⟨את⟩ mga bata, at sinabi, Sino ang mga ito na ⟨kasama⟩ mo? At sinabi niya, Ang mga bata na pinagkalooban ng awa ni Elohim ang ⟨את⟩ iyong lingkod.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "tumanaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kanyang mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga babae"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mga babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mga bata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "pinagkalooban ng awa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong lingkod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong lingkod"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:03.694014369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Aking kaluluwa ay ibinabalik niya; kanyang pinapatnubayan ako sa mga landas ng katuwiran, alang-alang sa kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ibinabalik niya"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "kanyang pinapatnubayan ako"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "sa mga landas"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang-alang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:55.638167180Z",
+  "model": "glm-5.3"
+}

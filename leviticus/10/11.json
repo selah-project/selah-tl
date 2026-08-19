@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "at upang magturo ⟨את⟩ sa mga anak ni Yisrael ⟨את⟩ sa lahat ng mga tuntunin na sinalita ni Yahweh sa kanila sa pamamagitan ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "at upang magturo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa lahat ng mga tuntunin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mga tuntunin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:59.374580018Z",
+  "model": "glm-5.3"
+}

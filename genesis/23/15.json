@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Panginoon ko, makinig ka sa akin: lupang ⟨na⟩ apat na raang sikel ng pilak — sa akin at sa iyo, ano ba iyon? At ang ⟨את⟩ iyong patay, ilibing mo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Panginoon ko"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "makinig ka sa akin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "raan"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "at sa iyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "iyong patay"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "iyong patay"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ilibing mo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:20.207952047Z",
+  "model": "glm-5.3"
+}

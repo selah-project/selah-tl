@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 99,
+  "translation": "At ang kalakasan ng hari — katarungan ang kanyang minamahal; ikaw ang nagtatakda ng katuwiran; katarungan at katuwirang-tao ay sa Yaakov ikaw ang gumawa ⟨niyon⟩.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "at kalakasan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "minamahal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "nagtatakda"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "at katuwirang-tao"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gumawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:48.170924901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Matatagpuan ng iyong kamay ang lahat ng iyong mga kaaway; ang iyong kanang kamay ay matatagpuan ang mga nagpapakasama sa iyo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "matatagpuan ng"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iyong mga kaaway"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanang kamay"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "mga nagpapakasama sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:30.681308655Z",
+  "model": "glm-5.3"
+}

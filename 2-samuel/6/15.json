@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At dinadala ni David at ng buong bahay ni Israel ang ⟨את⟩ kaban ni Yahweh sa sigaw at sa tunog ng shofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ng buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "dinadala (inaakyat)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sa sigaw"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "at sa tunog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ng shofar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:14.670300610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Lumihis ka sa kasamaan at gumawa ng mabuti; hanapin mo ang kapayapaan at unahin (sundin) ito.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "lumihis ka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ng mabuti"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hanapin mo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ang kapayapaan"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "at ito'y unahin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:05.663922179Z",
+  "model": "glm-5.3"
+}

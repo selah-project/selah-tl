@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at ang qa'at, at ⟨את⟩ ang rachama, at ⟨את⟩ ang shalach",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "at ang qa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang rachama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ang rachama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang shalach"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ang shalach"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:47.824148562Z",
+  "model": "glm-5.3"
+}

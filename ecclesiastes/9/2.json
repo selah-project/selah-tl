@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang lahat ay gaya ng sa lahat: iisang kapalaran sa matuwid at sa masama, sa mabuti at sa malinis at sa marumi, sa naghahandog at sa hindi naghahandog; gaya ng mabuti, kaya gaya ng makasalanan; ang nanunumpa, gaya ng nanginginig sa panunumpa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "kapalaran"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iisang"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa matuwid"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "at sa masama"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sa mabuti"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "at sa malinis"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "at sa marumi"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "at sa naghahandog"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "naghahandog"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "gaya ng mabuti"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "gaya ng makasalanan"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ang nanunumpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "sa panunumpa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nanginginig"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:42.423382908Z",
+  "model": "glm-5.3"
+}

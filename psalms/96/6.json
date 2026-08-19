@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Kadakilaan at karangalan ang nasa harapan niya; kalakasan at kagandahan ang nasa kanyang santuaryo.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kadakilaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kalakasan"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "at kagandahan"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "sa kanyang santuaryo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:26.717266056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Mag-aupo siya magpakailanman sa harap ni Elohim; kagandahang-loob at katapatan ay itatalaga upang siya'y ingatan.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "mag-aupo siya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "at katapatan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "itatalaga"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "upang siya'y ingatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:56.720990277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Iingatan ka ni Yahweh mula sa lahat ng kasamaan; iingatan niya ang ⟨את⟩ iyong buhay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "iingatan ka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "iingatan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong buhay"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "iyong buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:57.680440690Z",
+  "model": "glm-5.3"
+}

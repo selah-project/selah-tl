@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ibibigay Ko ang ⟨את⟩ bahay ni Achab na gaya ng bahay ni Yarovam na anak ni Nevat, at gaya ng bahay ni Baasha na anak ni Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Achab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Achab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "gaya ng bahay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "at gaya ng bahay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Achiya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:54.104927679Z",
+  "model": "glm-5.3"
+}

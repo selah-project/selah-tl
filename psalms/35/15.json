@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At sa aking pagkatisod sila'y nagaluwag, at nagtipon sila; nagtipon laban sa akin ang mga naninira, at hindi ko nalaman; pumutik sila at hindi tumigil.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "sa aking pagkatisod"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "nagaluwag"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "at nagtipon"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagtipon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "mga naninira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko nalaman"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "pumutik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "tumigil"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.891637549Z",
+  "model": "glm-5.3"
+}

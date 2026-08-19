@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Kaya't muling makikipagtalo ako sa inyo, neum ni Yahweh, at sa ⟨את⟩ mga anak ng inyong mga anak ay makikipagtalo ako.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "makikipagtalo ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak ng inyong mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ng inyong mga anak"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "makikipagtalo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T17:14:23.239942594Z",
+  "model": "glm-5.3"
+}

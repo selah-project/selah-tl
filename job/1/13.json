@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nangyari ang araw, ang kanyang mga anak na lalaki at ang kanyang mga anak na babae ay kumakain at umiinom ng alak sa bahay ng kanilang kapatid na panganay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ang kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "ang kanyang mga anak na babae"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "at umiinom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "alak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ng kanilang kapatid"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "panganay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:55.946140666Z",
+  "model": "glm-5.3"
+}

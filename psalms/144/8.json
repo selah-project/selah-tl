@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Na ang kanilang bibig ay nagsasalita ng walang laman, at ang kanilang kanang kamay ay kanang kamay ng pandaraya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "kanilang bibig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ay nagsasalita"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ng walang laman"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "at ang kanilang kanang kamay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ay kanang kamay"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:06.237828992Z",
+  "model": "glm-5.3"
+}

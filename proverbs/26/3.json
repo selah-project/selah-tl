@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Pamalo sa kabayo, panggapas sa buriko, at tungkod sa likod ng mga hangal.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "pamalo"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "sa kabayo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "panggapas"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "sa buriko"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "at tungkod"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ng mga hangal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:35.757062885Z",
+  "model": "glm-5.3"
+}

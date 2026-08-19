@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At kukuhanin ng kuheng pinagharian ng dugo ng baka, at magdadala ⟨את⟩ nito sa tolda ng kapisanan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukuhanin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kuheng"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pinagharian"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "at magdadala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nito",
+      "marks": "nito (ang dugo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:53.666523223Z",
+  "model": "glm-5.3"
+}

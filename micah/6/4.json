@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat inahon kita mula sa lupain ng Mitzrayim, at mula sa bahay ng mga alipin tinubos kita; at isinugo ko sa harap mo ⟨ang⟩ si Moshe, si Aharon, at si Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "inahon kita"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "at mula sa bahay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ng mga alipin"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "tinubos kita"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "at isinugo ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "at si Miryam"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:48.718558870Z",
+  "model": "glm-5.3"
+}

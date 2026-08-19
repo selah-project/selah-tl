@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Natahimik ako, walang imik; hindi ako nagsalita, kahit mabuti man; at ang aking sakit ay nagalit sa loob ko.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "natahimik ako"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "walang imik"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "hindi ako nagsalita"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kahit mabuti man"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "at ang aking sakit"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "nagalit sa loob ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:23.721689606Z",
+  "model": "glm-5.3"
+}

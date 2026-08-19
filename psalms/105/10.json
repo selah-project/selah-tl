@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "at kanyang itinayo ⟨ito⟩ kay Yaakov bilang batas, kay Yisrael bilang tipang walang hanggan,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "at kanyang itinayo ito"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "bilang batas"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kay Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bilang tipan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:48.229039096Z",
+  "model": "glm-5.3"
+}

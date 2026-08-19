@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ginawa nila ang mga kampana ng dalisay na ginto, at inilagay nila ang ⟨את⟩ mga kampana sa gitna ng mga granada sa paligid ng laylay ng damit, sa palibot, sa gitna ng mga granada.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "mga kampana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kampana"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "ang mga kampana"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "mga granada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "laylay"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ng damit"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "mga granada"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:32.415545916Z",
+  "model": "glm-5.3"
+}

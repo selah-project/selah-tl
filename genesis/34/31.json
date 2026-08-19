@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At nagsabi sila: Gagawin ba ⟨sa⟩ ⟨את⟩ aming kapatid na babae na parang patutot?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi sila"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "na parang patutot"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Gagawin ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming kapatid na babae"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "aming kapatid na babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:31.780577512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang ⟨את⟩ lahat ng ginawa ay maganda panahon nito; pati ang ⟨את⟩ kawalang-hanggan ay inilagay sa kanilang puso, nang sa ganang walang makasusumpong ang tao ng ⟨את⟩ gawa na ginawa ng Elohim mula simula hanggang wakas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "panahon nito"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawalang-hanggan"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ang kawalang-hanggan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa kanilang puso"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nang sa ganang walang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makasusumpong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "mula simula"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "wakas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:47.082489930Z",
+  "model": "glm-5.3"
+}

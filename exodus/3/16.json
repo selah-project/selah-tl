@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Pumunta ka at tipunin mo ang ⟨את⟩ mga matatanda ng Yisrael, at sabihin mo sa kanila: Nagpakita si Yahweh, ang Elohim ng mga magulang ninyo — Elohim ni Avraham, ni Yitshak, at ni Yaakov — sa akin, na nagsasabi: Dinalaw Ko nang talaga ang ⟨את⟩ inyo at ⟨את⟩ ang ginawa sa inyo sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "at tipunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga matatanda ng Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matatanda ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "at sabihin mo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ng"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "mga magulang ninyo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "at ni Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "dalaw"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "dinalaw Ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang ginawa sa inyo"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ang ginawa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:19.457224205Z",
+  "model": "glm-5.3"
+}

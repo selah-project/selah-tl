@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Hanggang sa pagpasok ko sa mga santuwaryo ng El, binigyang-liwanag ko ang ⟨אחריתם⟩ wakas nila.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "pagpasok ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mga santuwaryo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "binigyang-liwanag ko"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ang wakas nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:51.015104514Z",
+  "model": "glm-5.3"
+}

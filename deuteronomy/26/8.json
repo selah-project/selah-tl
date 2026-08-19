@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At inilabas tayo ni Yahweh mula sa Mitsrayim sa pamamagitan ng matibay na kamay at ng unat na braso at ng dakilang pangangamba, at ng mga tanda at ng mga kababalaghan.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "at inilabas tayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa pamamagitan ng kamay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "at sa braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "unat"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "at sa pangangamba"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "at ng mga tanda"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "at ng mga kababalaghan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:22.994998527Z",
+  "model": "glm-5.3"
+}

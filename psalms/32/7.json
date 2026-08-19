@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Ikaw ang ⟨aking⟩ taguan para sa akin; mula sa kagipitan iyong babantayan ako; mga awit ng pagliligtas ang iyong papalibutin sa akin. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "taguan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mula sa kagipitan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "iyong babantayan ako"
+    },
+    {
+      "surface": "רני",
+      "gloss": "mga awit"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ng pagliligtas"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "iyong papalibutin sa akin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:42.584047122Z",
+  "model": "glm-5.3"
+}

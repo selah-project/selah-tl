@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tinakpan nito ang ⟨את⟩ mata ng buong lupain, at nadilim ang lupain, at kinain nito ang ⟨את⟩ lahat ng damo ng lupain at ang ⟨את⟩ lahat ng bunga ng puno na naiwan ng granizo; at walang natirang anumang berde sa puno at sa damo ng bukid sa buong lupain ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "At tinakpan nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "at nadilim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "at kinain nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng damo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "damo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng",
+      "marks": "lahat ng bunga ng puno"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ng puno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "naiwan"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "ng granizo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "natirang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "berde"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "sa puno"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "at sa damo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:47.562766321Z",
+  "model": "glm-5.3"
+}

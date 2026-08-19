@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At iingatan mo ang ⟨את⟩ utos at ang ⟨את⟩ mga tuntunin at ang ⟨את⟩ mga hatol na iniutos ko sa iyo ngayong araw, upang gawin ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "at iingatan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang utos"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ang utos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "ang mga tuntunin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ang mga tuntunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "ang mga hatol"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ang mga hatol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "iniutos ko sa iyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "upang gawin ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:47.934949725Z",
+  "model": "glm-5.3"
+}

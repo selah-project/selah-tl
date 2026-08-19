@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At si Rivka ay nakikinig sa pagsasalita ni Yitshak kay Esav na anak niya; at yumaon si Esav sa parang upang manghuli ng lupaing-laro, ⟨upang⟩ dalhin.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "At si Rivka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakikinig"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa pagsasalita"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "upang manghuli"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ng lupaing-laro"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "upang dalhin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:17.220702905Z",
+  "model": "glm-5.3"
+}

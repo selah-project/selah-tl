@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At nagsabi sila kay Moshe: Ikaw ang magsalita sa amin at kami'y makinig; at huwag nang magsalita sa amin ang Elohim, baka mamatay kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At nagsabi sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "at kami'y makinig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag nang"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mamatay kami"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:34.042262787Z",
+  "model": "glm-5.3"
+}

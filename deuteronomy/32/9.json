@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Sapagkat ang bahagi ni Yahweh ay ang kaniyang bayan; si Yaakov ang lubid ng kaniyang mana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahagi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang kaniyang bayan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "lubid (pagsukat)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ng kaniyang mana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:42.428252916Z",
+  "model": "glm-5.3"
+}

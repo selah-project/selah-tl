@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At kung talagang ma-nakaw ay ma-nakaw mula sa kaniya, magbabayad siya sa may-ari nito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ma-nakaw"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ay ma-nakaw"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "mula sa kaniya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magbabayad siya"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sa may-ari nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:20.319814488Z",
+  "model": "glm-5.3"
+}

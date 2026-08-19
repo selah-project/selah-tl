@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ituturo ko sa inyo, sa ⟨את⟩ inyo, sa pamamagitan ng kamay ni El; ang nasa kay Shaddai ay hindi ko ikukubli.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "ituturo ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo (kayo)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang nasa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ikukubli ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:51:58.096203598Z",
+  "model": "glm-5.3"
+}

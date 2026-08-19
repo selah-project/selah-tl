@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At ilalagay mo ang mga ⟨את⟩ iyon na dalawang hanay, anim kada hanay, sa malinis na mesa sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ang ⟨את⟩ mga iyon",
+      "marks": "dalawang hanay"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "hanay"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "kada hanay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "malinis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:24.331452678Z",
+  "model": "glm-5.3"
+}

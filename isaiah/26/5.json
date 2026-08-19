@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sapagkat pinababa ni Yahweh ⟨si⟩ mga naninirahan sa kaitaasan, ⟨ang⟩ lunsod na mataas ay kanyang pinababa, pinababa niya ito hanggang sa lupa, dinantá niya ito hanggang sa alabok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השח",
+      "gloss": "pinababa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kaitaasan"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "lunsod"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "kanyang pinababa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "pinababa niya ito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "dinantá niya ito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:53.037764081Z",
+  "model": "glm-5.3"
+}

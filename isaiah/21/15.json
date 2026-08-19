@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Sapagkat sa harap ng mga tabak ay tumakas sila, sa harap ng tabak na hubarin sa kaluban, at sa harap ng busog na nakaunat, at sa harap ng bigat ng digmaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga tabak"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ay tumakas sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "na hubarin sa kaluban"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "na nakaunat"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bigat"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ng digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:37.104749451Z",
+  "model": "glm-5.3"
+}

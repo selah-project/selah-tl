@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sapagkat nasa Tzoan ang kaniyang mga pinuno,at ang kaniyang mga sugo ay dumaan sa Khanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "sa Tzoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ang kaniyang mga pinuno"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "at ang kaniyang mga sugo"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "sa Khanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "dumaan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:34.213904272Z",
+  "model": "glm-5.3"
+}

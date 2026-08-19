@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Hindi ninyo iniwan ang ⟨את⟩ inyong mga kapatid sa loob ng maraming araw, hanggang sa araw na ito, at inyong binantayan ang ⟨את⟩ pagtatanggol ng utos ni Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "ninyo iniwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga kapatid"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ang inyong mga kapatid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sa loob nitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maraming araw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "at inyong binantayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagtatanggol"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ang pagtatanggol"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ng utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:27.166511988Z",
+  "model": "glm-5.3"
+}

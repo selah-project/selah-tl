@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At ang kanilang ulo ay hindi gugulungin nila, at ang mahabang buhok ay hindi papayagan nilang lumaki; pinaputol na pinuputol nila ang ⟨את⟩ kanilang mga ulo.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "at ang kanilang ulo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "gugulungin nila"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "at ang mahabang buhok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "papayagan nilang lumaki"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "pinaputol"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "pinuputol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga ulo"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kanilang mga ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:55:00.403190576Z",
+  "model": "glm-5.3"
+}

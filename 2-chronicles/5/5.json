@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At iniahon ang ⟨את⟩ kaban at ang ⟨את⟩ tolda ng tipunan, at ang ⟨את⟩ lahat ng kasangkapan ng kabanalang nasa tolda; iniahon ng mga pari na mga Levita ⟨את⟩ ang mga iyon.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "at iniahon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tolda ng tipunan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipunan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng kasangkapan ng kabanalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kasangkapan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ng kabanalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nasa tolda"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "iniahon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga iyon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga pari"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "na mga Levita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:26.681806053Z",
+  "model": "glm-5.3"
+}

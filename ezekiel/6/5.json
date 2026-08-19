@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At inilalagay ko ang ⟨את⟩ mga bangkay ng mga anak ni Yisrael sa harap ng kanilang mga gilulim, at kalalatagan ko ang ⟨את⟩ inyong mga buto sa paligid ng inyong mga dambana.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "at inilalagay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bangkay"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mga bangkay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "kanilang mga gilulim"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "at kalalatagan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga buto"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "inyong mga buto"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sa paligid ng"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "inyong mga dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:41.991219557Z",
+  "model": "glm-5.3"
+}

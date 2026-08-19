@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang ⟨את⟩ kanyang asham ay dadalhin niya kay Yahweh: isang tandang tupa na walang kapintasan mula sa kawan, ayon sa iyong pagtatakda-halaga, bilang handog na pamparasahan, sa ⟨the⟩ saserdote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang asham"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "kanyang asham"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "dadalhin niya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "tandang tupa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang kapintasan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ayon sa iyong pagtatakda-halaga"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "bilang handog na pamparasahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:29.975386498Z",
+  "model": "glm-5.3"
+}

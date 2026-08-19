@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Hindi ganoon ang aking lingkod na si Moshe; sa buong aking bahay siya'y tapat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang aking lingkod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "aking bahay"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tapat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:07:24.390603757Z",
+  "model": "glm-5.3"
+}

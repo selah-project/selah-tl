@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang lupa ay ⟨na⟩ walang anyo at walang laman, at kadiliman ay sumasa ibabaw ng ⟨mga⟩ dagat-na-kailaliman, at ang Espiritu ni Elohim ay lumilipad-{lumilipad} sa ibabaw ng tubig.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "At ang lupa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "walang anyo"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "at walang laman"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "at kadiliman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ibabaw\/awan"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dagat-na-kailaliman"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "at ang Espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lumilipad-{lumilipad}"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ibabaw\/awan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:15.500777762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang Aram mula sa silangan at ang mga Filisteo mula sa likuran, at nilamon nila ang ⟨את⟩ Israel na buong bibig; sa lahat ng ito ay hindi umikli ang kanyang poot, at ang kanyang kamay ay nakatuwid pa rin.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "mula sa silangan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "at ang mga Filisteo"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "mula sa likuran"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "at nilamon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ng buong"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "umikli"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang kanyang poot"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "at pa rin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nakatuwid pa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:15.192974832Z",
+  "model": "glm-5.3"
+}

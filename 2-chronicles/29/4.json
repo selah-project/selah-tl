@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At pumasok ⟨את⟩ ang mga parì at ⟨את⟩ ang mga Levita, ⟨את⟩ at tinipon niya sila sa malapad na lugar sa silangan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "At pumasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga parì"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga parì"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "⟨את⟩ at tinipon niya sila"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "sa malapad na lugar"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "sa silangan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:58.546598475Z",
+  "model": "glm-5.3"
+}

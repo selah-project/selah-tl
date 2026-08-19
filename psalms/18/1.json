@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sa Tagapanguna, sa alipin ni Yahweh, kang David, na nagsalita kay Yahweh ⟨את⟩ mga salita ng awiting ito, sa araw na iniligtas siya ni Yahweh mula sa palad ng lahat ng kanyang mga kaaway at mula sa kamay ni Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa Tagapanguna"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa alipin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ng awit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ng ito"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "iniligtas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mula sa palad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ng kanyang mga kaaway"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "at mula sa kamay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:25.938474989Z",
+  "model": "glm-5.3"
+}

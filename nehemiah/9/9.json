@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Nakita mo ang ⟨את⟩ kahirapan ng ating mga magulang sa Mitzrayim, at ang ⟨את⟩ kanilang paghiyaw ay narinig mo sa tabing-dagat ng Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahirapan ng ating mga magulang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kahirapan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ng ating mga magulang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang paghiyaw"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "kanilang paghiyaw"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "narinig mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tabi ng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ng Suf"
+    }
+  ],
+  "timestamp": "2026-08-19T19:17:39.163109444Z",
+  "model": "glm-5.3"
+}

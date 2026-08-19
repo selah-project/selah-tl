@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang gawa ng matuwid ay para sa buhay; ang ani ng masama ay para sa pagkakasala.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "para sa buhay"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "para sa pagkakasala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:16.801638320Z",
+  "model": "glm-5.3"
+}

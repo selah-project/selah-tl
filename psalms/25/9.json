@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Papatnubayin ni Yahweh ⟨ang⟩ mga mapagpakumbaba sa katarungan, at ituturo niya sa mga mapagpakumbaba ang kanyang daan.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "papatnubayin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mga mapagpakumbaba"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa katarungan"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "at ituturo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sa mga mapagpakumbaba"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ang kanyang daan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:42.178940428Z",
+  "model": "glm-5.3"
+}

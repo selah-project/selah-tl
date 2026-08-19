@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Naalala namin ang ⟨את⟩ isda na kinakain namin sa Mitzrayim nang walang bayad, ang ⟨את⟩ mga pipino, at ang ⟨את⟩ mga pakwan, at ang ⟨את⟩ mga sibuyas na leek, at ang ⟨את⟩ mga sibuyas, at ang ⟨את⟩ mga bawang.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "naalala namin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isda"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "isda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kinakain namin"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang bayad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pipino"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "mga pipino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga pakwan"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "mga pakwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga sibuyas na leek"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "mga sibuyas na leek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga sibuyas"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "mga sibuyas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bawang"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "mga bawang"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:50.920417356Z",
+  "model": "glm-5.3"
+}

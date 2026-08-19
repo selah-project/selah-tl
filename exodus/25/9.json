@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ayon sa lahat ng ipapakita Ko ⟨את⟩ sa iyo — sa ⟨את⟩ huwaran ng Tahanan at sa ⟨את⟩ huwaran ng lahat ng mga kasangkapan nito — gayon din ninyo gagawin.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ipapakita"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sa iyo",
+      "marks": "⟨את⟩+mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huwaran ng Tahanan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "huwaran"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng Tahanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "huwaran ng lahat ng mga kasangkapan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "huwaran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kasangkapan nito"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "at gayon din"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.974597502Z",
+  "model": "glm-5.3"
+}

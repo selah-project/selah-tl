@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Gaano kamahal-mahal ang mga tahanan Mo, Yahweh ng mga hukbo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "kamahal-mahal"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ang mga tahanan Mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:18.245746404Z",
+  "model": "glm-5.3"
+}

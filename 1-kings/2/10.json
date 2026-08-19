@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At natulog si David na kasama ⟨ang⟩ kanyang mga ama, at inilibing siya sa ⟨siyudad⟩ ni David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "At natulog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na kasama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing siya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:37.787237142Z",
+  "model": "glm-5.3"
+}

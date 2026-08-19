@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sasapit sa iyo ang ruach ni Yahweh, at manganghula ka kasama nila, at magiging ibang tao ka.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "sasapit nang matinding"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "manganghula ka"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kasama nila"
+    },
+    {
+      "surface": "ונהpפכת",
+      "gloss": "magiging iba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na tao"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:38.816105691Z",
+  "model": "glm-5.3"
+}

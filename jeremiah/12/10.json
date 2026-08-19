@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Maraming pastor ang sumira sa aking ubasan, tinapak nila ang ⟨את⟩ aking bahagi, ibinigay nila ang ⟨את⟩ bahaging pinalalaban ko sa ilang na wasak.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "mga pastor"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "sumira"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "sa aking ubasan"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "tinapak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bahagi"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "aking bahagi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahaging pinalalaban ko"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "bahagi"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "pinalalaban ko"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "na wasak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:20:10.945955609Z",
+  "model": "glm-5.3"
+}

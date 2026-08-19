@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sinisante ako ng aking pangingibabaw, sapagkat nakalimutan ng aking mga kaaway ang iyong mga salita.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "sinisante ako"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "aking pangingibabaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "nakalimutan ng"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga salita"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "aking mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:01.141331873Z",
+  "model": "glm-5.3"
+}

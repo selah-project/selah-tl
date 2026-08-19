@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Si David ay nagsasayaw nang buong lakas sa harapan ni Yahweh, at si David ay nakasuot ng epod na lino.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "मכרכר",
+      "gloss": "nagsasayaw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lakas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nakasuot (nakaigit)"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "epod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "na lino"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:14.670136519Z",
+  "model": "glm-5.3"
+}

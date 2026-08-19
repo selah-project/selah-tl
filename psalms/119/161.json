@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Mga pangulo ang humabol sa akin nang walang dahilan, ngunit sa ⟨mga⟩ salita mo natatakot ang aking puso.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "humabol sa akin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang dahilan"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ngunit sa mga salita mo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "natatakot"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:28.662981600Z",
+  "model": "glm-5.3"
+}

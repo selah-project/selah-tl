@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Paano ko sasumpaan ang hindi sinumpa ng El? At paano ko murahin ang hindi minura ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ko sasumpaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "sinumpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "at paano"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ko murahin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "minura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:30.407009138Z",
+  "model": "glm-5.3"
+}

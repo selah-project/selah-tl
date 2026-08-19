@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Walang kahawig mo sa mga elohim, Adonai, at walang katulad ng mga gawa mo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kahawig mo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa mga elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "katulad ng mga gawa mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:31.951395075Z",
+  "model": "glm-5.3"
+}

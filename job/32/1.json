@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At tumigil ang tatlong ⟨the⟩ lalaking ito sa pagsagot kay ⟨את⟩ Iyov, sapagkat siya ay matuwid sa kanyang sariling mga mata.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "At tumigil"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "sa pagsagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang sariling mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:53:21.464669895Z",
+  "model": "glm-5.3"
+}

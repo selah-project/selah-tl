@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang bawat lumalapit, na lumalapit sa tirahan ni Yahweh, ay mamamatay; kung ⟨sakali⟩ kaya kami nga ay lubos nang mamatay?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lumalapit"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na lumalapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tirahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ay mamamatay"
+    },
+    {
+      "surface": "האם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "kami nga ay lubos"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "nang mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:10:51.448816576Z",
+  "model": "glm-5.3"
+}

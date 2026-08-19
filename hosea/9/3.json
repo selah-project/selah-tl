@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Hindi sila tatahan sa lupain ni Yahweh, at babalik ang Efraim sa Mitzrayim, at sa Ashur malinis na pagkain ⟨hindi⟩ — hindi-tao ang kanilang makakain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "at babalik"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "at sa Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "karumal-dumi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kanilang makakain"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:53.028518216Z",
+  "model": "glm-5.3"
+}

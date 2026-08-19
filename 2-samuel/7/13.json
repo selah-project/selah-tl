@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Siya ang magtatayo ng bahay para sa aking pangalan, at aking tatagin ang ⟨את⟩ trono ng kaniyang kaharian hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magtatayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "para sa aking pangalan"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "at aking tatagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trono ng kaniyang kaharian"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ng kaniyang kaharian"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:01.733117821Z",
+  "model": "glm-5.3"
+}

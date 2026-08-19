@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni Yehonatan kay David: Ano ang sabihin ng iyong buhay, at gagawin ko ito sa iyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ang sabihin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ng iyong buhay"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "at gagawin ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:34.627931654Z",
+  "model": "glm-5.3"
+}

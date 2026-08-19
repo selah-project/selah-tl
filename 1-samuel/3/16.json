@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At tumawag si Eli kay ⟨את⟩ Shemuël at nagsabi: Shemuël, anak ko. At siya'y nagsabi: Narito ako.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "si Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Narito ako"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:07.654374796Z",
+  "model": "glm-5.3"
+}

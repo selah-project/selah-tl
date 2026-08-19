@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "ang ⟨את⟩ altar ng handog na sunog, at ang ⟨את⟩ rehas na tanso na kanya, ⟨את⟩ mga halang nito, at ang ⟨את⟩ lahat ng mga kagamitan nito, ⟨את⟩ batya at ang ⟨את⟩ tungtungan nito",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar ng handog na sunog"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na sunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "rehas na tanso"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rehas"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "na tanso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga halang nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mga halang nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batya"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tungtungan nito"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tungtungan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T20:05:34.645986568Z",
+  "model": "glm-5.3"
+}

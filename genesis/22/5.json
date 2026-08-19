@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi ni Avraham sa kanyang mga batang kawal: Magpaiwan kayo rito kasama ⟨ang⟩ asno, at ako at ang batang lalaki ay tutungo hanggang doon, at tatalikod ⟨sa pagsamba⟩, at babalik kami sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "kanyang mga batang kawal"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "magpaiwan kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "[reflexive: kayo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨ang⟩ asno"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "at ang batang lalaki"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "tutungo kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "כה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "at tatalikod ⟨sa pagsamba⟩"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "at babalik kami"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:44.849405241Z",
+  "model": "glm-5.3"
+}

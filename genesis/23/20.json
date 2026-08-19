@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ang bukid at ang kuweba na nasa loob nito ay naitatag para kay Avraham bilang-ari ng libingan, mula sa ⟨את⟩ mga anak ni Heth.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at naitatag"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "at ang kuweba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "para kay Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "bilang-ari"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ng libingan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula sa ⟨את⟩",
+      "marks": "mga anak ni Heth"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:40.644458791Z",
+  "model": "glm-5.3"
+}

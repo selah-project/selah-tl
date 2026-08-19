@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nagsalita ang Elohim kay Noe at sa kaniyang mga anak na ⟨את⟩ kasama niya, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At nagsalita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:07.026992140Z",
+  "model": "glm-5.3"
+}

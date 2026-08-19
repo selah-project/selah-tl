@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Pakawalan mo nang pakawalan ang ⟨את⟩ ina, ngunit ang ⟨את⟩ mga anak ay kukunin mo para sa iyong sarili, upang mabuti ang mangyari sa iyo at mahaba ang iyong mga araw.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "pakawalan"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "mong pakawalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ina"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ang ina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga anak"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ay kukunin mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "mabuti ang mangyari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "at mahaba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang iyong mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:58.817102874Z",
+  "model": "glm-5.3"
+}

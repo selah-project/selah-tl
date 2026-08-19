@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngunit ikaw ay banal, na nakaupo ⟨sa⟩ mga papuri ng Israel.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nakaupo"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "mga papuri ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:11.710253467Z",
+  "model": "glm-5.3"
+}

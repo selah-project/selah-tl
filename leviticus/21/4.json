@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Huwag magpapangit ng kaluluwa — bilang asawang lalaki — sa gitna ng kanyang bayan, upang hindi maging banal na hindi-kaangkupan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magpapangit ng kaluluwa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bilang asawang lalaki"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "sa gitna ng kanyang bayan"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "upang maging banal na hindi-kaangkupan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:03.535439170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Dahil sa bagay na hindi nila sinalubong ⟨את⟩ kayo ng tinapay at ng tubig sa daan, sa inyong paglabas mula sa Mitzrayim, at dahil sa nagbayad sila laban sa iyo ⟨את⟩ kay Bilam na anak ni Beor, mula sa Pethor ng Aram-Naharaim, upang sumpain ka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "sinalubong"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (na hindi sinalubong)"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "at ng tubig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "sa inyong paglabas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "nagbayad"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "si Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ni Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "mula sa Pethor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "ng dalawang ilog"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "upang sumpain ka"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:13.270985841Z",
+  "model": "glm-5.3"
+}

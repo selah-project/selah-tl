@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "ang nagpapakain sa iyo ng man sa ilang, na hindi nakilala ng iyong mga ama, upang dalhin ka sa kababaan, at upang subukan ka, upang gawin kang mabuti sa iyong huling dako,",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "ang nagpapakain sa iyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ng man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ng iyong mga ama"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "dalhin ka sa kababaan"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "at upang"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "subukan ka"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "gawin kang mabuti"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "sa iyong huling dako"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:29.195378015Z",
+  "model": "glm-5.3"
+}

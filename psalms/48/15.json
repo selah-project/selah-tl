@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Sapagkat ito ay ⟨si⟩ Elohim, ang Elohim natin, magpasawalang-hanggan at magpakailanman; siya ang magpapatnubay sa atin ⟨hanggang⟩ sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang Elohim natin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpasawalang-hanggan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at magpakailanman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ang magpapatnubay sa atin"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:26.889983611Z",
+  "model": "glm-5.3"
+}

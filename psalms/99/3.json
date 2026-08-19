@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 99,
+  "translation": "Purihin nila ang iyong pangalan — dakila at kakila-kilabot; banal ⟨siya⟩!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "purihin nila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "at kakila-kilabot"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:48.170773214Z",
+  "model": "glm-5.3"
+}

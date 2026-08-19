@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Magtitingin ka: tumawag ako sa pangalan — kay Betzalel, anak ni Uri, anak ni Chur, sa lipi ni Yehudah —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "magtitingin ka"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tumawag ako"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ni Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ni Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa lipi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:25.350454067Z",
+  "model": "glm-5.3"
+}

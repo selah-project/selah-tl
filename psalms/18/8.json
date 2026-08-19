@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nayanig at naluha ang lupa, at ang mga tungtungan ng mga bundok ay nangatindig, at nangayanig, sapagkat nag-alab ang galit niya.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "at nayanig"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "at naluha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "at ang mga tungtungan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ng mga bundok"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "nangatindig"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "at nangayanig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nag-alab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ang galit niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:16.390105898Z",
+  "model": "glm-5.3"
+}

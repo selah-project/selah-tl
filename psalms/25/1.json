@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Kay David. Sa iyo, Yahweh, itinataas ko ang aking kaluluwa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kay David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "itinataas ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:58.180525657Z",
+  "model": "glm-5.3"
+}

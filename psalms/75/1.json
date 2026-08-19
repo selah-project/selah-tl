@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Sa pangunguna; Huwag Ipahamak; isang mizmór ni Asaf, isang awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ipahamak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:37.559190226Z",
+  "model": "glm-5.3"
+}

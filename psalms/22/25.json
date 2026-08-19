@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sapagkat hindi niya hinamak at hindi niang kinasuklaman ang paghihirap ng api, at hindi niya itinago ang kaniyang mukha sa kaniya; ngunit nang kaniyang sumigaw papunta sa kaniya, siya⟨ay⟩ nakarinig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hinamak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kinasuklaman"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ang paghihirap"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ng api"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "itinago"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kaniyang mukha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ngunit nang kaniyang sumigaw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "papunta sa kaniya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakarinig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:40.596446058Z",
+  "model": "glm-5.3"
+}

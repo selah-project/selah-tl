@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Tingnan mo ang aking kahirapan at ang aking pagpapagod, at dalhin ⟨ang⟩ ay buong aking mga kasalanan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang aking kahirapan"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "at ang aking pagpapagod"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "at dalhin ⟨ang⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "aking mga kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:26.381600042Z",
+  "model": "glm-5.3"
+}

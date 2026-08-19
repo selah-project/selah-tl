@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At dinala nilang bihag ang ⟨את⟩ mga babae na nasa loob nito, mula sa maliit hanggang sa malaki; walang pinatay na ⟨את⟩ tao, kundi dinadala nila at naglakad sila sa kanilang lakad.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "at dinala nilang bihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga babae"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "mula sa maliit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "pinatay nila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sinumang tao"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "at dinadala nila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at naglakad sila"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sa kanilang lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:01.222760601Z",
+  "model": "glm-5.3"
+}

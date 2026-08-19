@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sa kanilang pagtayo, sila'y tumayo; at sa kanilang pag-angat, umaangat sila ⟨את⟩ ⟨kasama nila⟩; sapagkat ang ruach ng buhay na nilalang ay nasa kanila.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "sa kanilang pagtayo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tumayo sila"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "at sa kanilang pag-angat"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "umaangat sila"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ng buhay na nilalang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nasa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:40:54.754042208Z",
+  "model": "glm-5.3"
+}

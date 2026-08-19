@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Alam mo si ⟨את⟩ Avner na anak ni Ner, na upang linlangin ka siya dumating, at upang malaman ang ⟨את⟩ iyong paglabas at ang ⟨את⟩ iyong pagpasok, at upang malaman ang ⟨את⟩ lahat ng ginagawa mo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "alam mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "upang linlangin ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "at upang malaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong paglabas"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "iyong paglabas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "iyong pagpasok"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "at upang malaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:23.560324760Z",
+  "model": "glm-5.3"
+}

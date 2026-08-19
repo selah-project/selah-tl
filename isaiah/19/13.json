@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Naging mangmang ang mga panginoon ng Tsoan, naligaw ang mga panginoon ng Nof; pinaligaw nila ang ⟨את⟩ Ehipto, na ⟨ang⟩ haligi ng mga sangang-bansa nito.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "naging mangmang"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga panginoon"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "naligaw"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga panginoon"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "pinaligaw nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ehipto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ehipto"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "mga sangang-bansa nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:11.221531528Z",
+  "model": "glm-5.3"
+}

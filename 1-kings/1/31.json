@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At yumukod si Bat-Sheva na nakadapo ang mukha sa lupa, at nagpatirapa sa hari, at nagsabi: Mabuhay ang aking panginoon, si David na hari, magpakailanman.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "at yumukod"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ang mukha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "at nagpatirapa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang aking panginoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "na hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:54.059270461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Sa unang araw ay ⟨is⟩ banal na pagtitipon; ang anomang gawa ng paglilingkod ay hindi ninyo gagawin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa araw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "una"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "pagtitipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ng paglilingkod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gagawin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:15:59.391926706Z",
+  "model": "glm-5.3"
+}

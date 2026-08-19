@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang salita na nangyari kay Yirmeyahu mula ⟨kay⟩ Yahweh, na nagsasabing:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "mula kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    }
+  ],
+  "timestamp": "2026-08-19T17:23:40.767908792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At tumindig siya sa gitna ng gabi at kinuha ang ⟨את⟩ anak ko mula sa aking tabi, samantalang natutulog ang iyong alipin, at inihipa niya siya sa kanyang dibdib, at ang ⟨את⟩ anak niyang patay ay inihipa niya sa aking dibdib.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "at tumindig siya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ng gabi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang anak ko"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "mula sa aking tabi"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "at ang iyong alipin"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ay natutulog"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "at inihipa niya siya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sa kanyang dibdib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak niyang patay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang anak niya"
+    },
+    {
+      "surface": "המת",
+      "gloss": "na patay"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ay inihipa niya"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sa aking dibdib"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:21.316863818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Iunat mo ang iyong ⟨mga⟩ kamay mula sa kaitaasan; lumigtas ka sa akin at iligtas mo ako mula sa maraming tubig, mula sa kamay ng ⟨mga⟩ anak ng ibang lahi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "iunat mo \/ ipadala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "iyong mga kamay"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "mula sa kaitaasan"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "lumigtas ka sa akin"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "at iligtas mo ako"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "mula sa tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ng ibang lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:06.237685141Z",
+  "model": "glm-5.3"
+}

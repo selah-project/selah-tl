@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "At mangangamba ang mga bansa sa ⟨את⟩ pangalan ni Yahweh, at lahat ng mga hari ng lupa sa ⟨את⟩ kaluwalhatian mo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "at mangangamba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at lahat ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwalhatian mo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kaluwalhatian mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:34.873371021Z",
+  "model": "glm-5.3"
+}

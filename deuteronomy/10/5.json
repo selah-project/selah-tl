@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ako'y lumiko at bumaba mula sa bundok, at inilagay ko ang ⟨את⟩ mga tala sa kaban na ginawa ko, at naroon sila hanggang ngayon, kung paanong iniutos sa akin ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "at ako'y lumiko"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "at inilagay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tala"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mga tala"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa kaban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "iniutos sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:02.817283352Z",
+  "model": "glm-5.3"
+}

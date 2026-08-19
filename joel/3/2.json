@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pati sa mga alipin na lalaki at sa mga alipin na babae, sa mga araw na yaon ay ibubuhos ko ang ⟨את⟩ aking ruach.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at pati"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "mga alipin na lalaki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "mga alipin na babae"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ibubuhos ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking ruach"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "aking ruach"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:35.461069144Z",
+  "model": "glm-5.3"
+}

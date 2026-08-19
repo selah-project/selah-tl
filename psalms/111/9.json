@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Pagtubos ay ipinadala niya sa kanyang bayan; iniutos niya magpakailanman ang kanyang tipan; banal at kakila-kilabot ang kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pagtubos"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipinadala"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa kanyang bayan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ang kanyang tipan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "at kakila-kilabot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:17.412309437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sinabi ng Filisteo kay David: Halika sa akin, at ibibigay ko ang ⟨את⟩ laman mo sa mga ibon ng langit at sa mga hayop ng bukid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ng Filisteo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "halika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "at ibibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laman mo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "laman mo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sa mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "at sa mga hayop"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:14.493523139Z",
+  "model": "glm-5.3"
+}

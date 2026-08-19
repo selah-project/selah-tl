@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa tenga ng hangal ay huwag kang magsalita, sapagkat paglalaitin niya ang dunong ng iyong mga salita.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "sa tenga ng"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "paglalaitin"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "ang dunong"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "ng iyong mga salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:41.008032578Z",
+  "model": "glm-5.3"
+}

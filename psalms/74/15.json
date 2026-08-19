@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Ikaw ang bumuka ng bukal at ng batis; ikaw ang nagpatuyo ng mga ilog na walang hanggang.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "bumuka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ng bukal"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "at ng batis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "nagpatuyo"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ng mga ilog"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "na walang hanggang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:14.758570997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At iniutos ng puno ng mga tagapagpatay kay ⟨את⟩ Yosef na ⟨את⟩ maging kasama nila, at pinaglingkuran niya sila ⟨את⟩; at nagtagal sila ng mga araw sa pag-iingat.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "At iniutos"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ng puno"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ng mga tagapagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kasama nila"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "at pinaglingkuran niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pag-iingat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:12.631078520Z",
+  "model": "glm-5.3"
+}

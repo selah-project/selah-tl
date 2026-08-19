@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nag-Abang sa akin ang mga masasama upang lipulin ako; ngunit ang iyong mga patotoo ay pinagnilayan-nilayan ko.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "nag-abang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga masasama"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "upang lipulin ako"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang iyong mga patotoo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "pinagnilayan-nilayan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:02.451447331Z",
+  "model": "glm-5.3"
+}

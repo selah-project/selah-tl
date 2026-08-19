@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "at ang ⟨את⟩ Negev, at ang ⟨את⟩ kapatagan — ang libis ng Yericho, lungsod ng mga puno ng datiles — hanggang Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kapatagan"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kapatagan"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "libis"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ng Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ng mga puno ng datiles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:13.960648586Z",
+  "model": "glm-5.3"
+}

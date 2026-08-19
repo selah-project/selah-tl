@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At ngayon, narito, nalalaman ko na maghari kang tunay na maghahari, at magtatag sa iyong kamay ang kaharian ng Israel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nalalaman ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maghari"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "tunay na maghahari"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "at magtatag"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ang kaharian"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:29.713823227Z",
+  "model": "glm-5.3"
+}

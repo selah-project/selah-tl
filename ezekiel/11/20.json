@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Upang sa aking mga batas sila lumakad, at ang ⟨את⟩ aking mga hatol ingatan nila at gawin ang ⟨את⟩ mga ito; at magiging bayan nila ako ng ⟨isang⟩ bayan sa akin, at ako'y magiging Elohim sa kanila.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "sa aking mga batas"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aking mga hatol"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "aking mga hatol"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "gawin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ang mga ito",
+      "marks": "mga batas at hatol"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bayaning"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:40:39.638131331Z",
+  "model": "glm-5.3"
+}

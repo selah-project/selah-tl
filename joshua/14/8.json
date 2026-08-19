@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ngunit ang aking mga kapatid na umakyat kasama ko ay pinalaya nila ang ⟨את⟩ puso ng bayan; datapwat ako ay buong-buo sumunod kay Yahweh na aking Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "at ang aking mga kapatid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kasama ko"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "pinalaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "datapwat ako"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "buong-buo sumunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "na aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:42:26.459540390Z",
+  "model": "glm-5.3"
+}

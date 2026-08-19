@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Inaabot niya ang kaniyang kamay sa mga lupain, at ang lupang Ehipto ay hindi magiging takas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "inaabot niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kaniyang kamay"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga lupain"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at ang lupang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ehipto (Mitsrayim)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "na takas \/ kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:05.385950859Z",
+  "model": "glm-5.3"
+}

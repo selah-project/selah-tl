@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "Awit ng mga hagdan. Mula sa mga kalaliman, tumawag ako sa iyo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga hagdan"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Mula sa mga kalaliman"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tumawag ako sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.265516105Z",
+  "model": "glm-5.3"
+}

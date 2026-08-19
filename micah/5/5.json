@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sisirain nila ng tabak ang ⟨את⟩ lupa ng Ashur at ang ⟨את⟩ lupa ng Nimrod sa mga pasukan nito; at kaniyang ililigtas ⟨tayo⟩ mula sa Ashur, kapag dumating siya sa ating lupain at kapag lumakad siya sa ating hangganan.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "sisirain nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa ng Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupa ng Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "sa mga pasukan nito"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "at kaniyang ililigtas"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "mula sa Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dumating siya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa ating lupain"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at kapag"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "lumakad siya"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "sa ating hangganan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:35.300454089Z",
+  "model": "glm-5.3"
+}

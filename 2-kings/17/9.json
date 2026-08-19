@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 17:9",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nagtago nang lihim ang mga anak ni Yisrael ng mga bagay na hindi matuwid laban kay Yahweh na Elohim nila, at nagtayo sila para sa kanilang sarili ng mga mataas na lugar sa lahat ng kanilang mga lungsod, mula sa torre ng mga bantay hanggang sa lungsod na may muog.",
+  "tokens": [
+    {
+      "surface": "ויחפאו",
+      "gloss": "nagtago nang lihim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nila"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "at nagtayo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanilang sarili"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mga mataas na lugar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kanilang mga lungsod"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "mula sa torre"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ng mga bantay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "na may muog"
+    }
+  ],
+  "timestamp": "2026-08-19T16:47:34.846464041Z",
+  "model": "glm-5.3"
+}

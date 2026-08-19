@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ipakikilala mo sa akin ang daan ng buhay; kasiyahan ng mga katuwaan ay ⟨sa⟩ iyong ⟨את⟩ presence, kagalakan sa iyong kanan magpakailanman.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "ipakikilala mo sa akin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kasiyahan"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ng mga katuwaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong presence (פניך)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong presence"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "kagalakan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sa iyong kanan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:10.260186811Z",
+  "model": "glm-5.3"
+}

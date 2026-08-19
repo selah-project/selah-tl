@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At nakita ng kanyang panginoon na kasama niya si Yahweh ⟨את⟩, at ang lahat ng ginagawa niya ay pinapatagumpay ni Yahweh sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ng kanyang panginoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginagawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "pinapatagumpay"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:32.665096795Z",
+  "model": "glm-5.3"
+}

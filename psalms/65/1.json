@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Sa Pangulo ng tugtugin, mizmor ni David, awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo ng tugtugin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.984848658Z",
+  "model": "glm-5.3"
+}

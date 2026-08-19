@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 141,
+  "translation": "Sapagkat sa iyo, Yahweh, Adonai, nakatuon ang aking mga mata; sa iyo ako sumilungan; huwag ipaaninaw ang aking ⟨kaluluwa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anging aking mga mata"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako sumilungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ipaaninaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "angling aking kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:50.799476537Z",
+  "model": "glm-5.3"
+}

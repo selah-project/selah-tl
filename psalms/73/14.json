@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "At ako'y naparusahan buong araw, at ang aking tugon sa pagsaway ay sa bawat umaga.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "at ako'y"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "naparusahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ang aking pagsaway"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "sa bawat umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:49.481984168Z",
+  "model": "glm-5.3"
+}

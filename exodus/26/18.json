@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At gagawin mo ang ⟨את⟩ mga keresh para sa Mishkan: dalawampung keresh sa gilid ng timog, patungong timog.",
+  "tokens": [
+    {
+      "surface": "ו עשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga keresh"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ang mga keresh"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "para sa Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "keresh"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "timog"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "patungong timog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:55.844826413Z",
+  "model": "glm-5.3"
+}

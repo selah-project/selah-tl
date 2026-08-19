@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Ang nagbibigay ng niyebe na parang balahibo, ay binubulalakay ang hamog na parang abo.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ang nagbibigay"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ng niyebe"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "na parang balahibo"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "hamog"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "na parang abo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "binubulalakay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:45.532169642Z",
+  "model": "glm-5.3"
+}

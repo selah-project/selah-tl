@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi magpapakinabang ang mga kayamanan ng kasamaan, ngunit ang katuwiran ay magliligtas mula sa kamatayan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "magpapakinabang"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "mga kayamanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ngunit ang katuwiran"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "magliligtas"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mula sa kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:03.433879356Z",
+  "model": "glm-5.3"
+}

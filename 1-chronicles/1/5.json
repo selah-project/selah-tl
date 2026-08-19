@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang mga anak ni Yefet: Gomer, at Magog, at Madai, at Yavan, at Tuval, at Meshekh, at Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ni Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "at Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "at Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "at Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "at Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "at Meshekh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "at Tiras"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:15.276098974Z",
+  "model": "glm-5.3"
+}

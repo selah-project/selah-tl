@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sapagkat kahit ang usa sa parang ay nanganak at iniwan ⟨yaon⟩, sapagkat walang damo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "at iniwan ⟨yaon⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "damo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:19:58.958012212Z",
+  "model": "glm-5.3"
+}

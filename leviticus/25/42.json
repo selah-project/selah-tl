@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat mga alipin ko sila, na inilabas ko silang ⟨את⟩ mula sa lupain ng Mitzrayim; hindi sila ipagbibili sa paraan ng pagbebenta ng alipin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin ko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "inilabas ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (mula sa lupain ng Mitzrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ipagbibili"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "sa paraan ng pagbebenta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ng alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:14.856205545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ang mukha ni Yahweh ay laban sa mga gumagawa ng kasamaan, upang puksain mula sa lupa ang kanilang alaala.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ang mukha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "sa mga gumagawa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "upang puksain"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang kanilang alaala"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:54.308716561Z",
+  "model": "glm-5.3"
+}

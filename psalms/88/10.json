@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Nanghina ang aking mata dahil sa aking kagipitan; tumawag ako sa iyo, Yahweh, araw-araw; inunat ko sa iyo ang aking mga palad.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mata"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aking kagipitan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tumawag ako sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "araw-araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "inunat ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang aking mga palad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:12.324066745Z",
+  "model": "glm-5.3"
+}

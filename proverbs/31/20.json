@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Iniunat niya ang kanyang palad sa dukha, at iniabot ang kanyang mga kamay sa-palaos.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "ang kanyang palad"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "iniunat niya"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa dukha"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "at ang kanyang mga kamay"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "iniabot"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "sa-palaos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:16.292464990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang masama ay kumikita ng kabulastugang gawa; ngunit ang nagtatanim ng katuwiran ay may tapat na gantimpala.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Ang masama"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kumikita ng \/ gumagawa ng"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kabulastugan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ngunit ang nagtatanim"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "gantimpala"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tapat \/ totoo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:30.755300532Z",
+  "model": "glm-5.3"
+}

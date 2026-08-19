@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 100,
+  "translation": "Pumasok kayo sa kanyang mga pintuan nang may pasasalamat, at sa kanyang mga looban nang may papuri; ipagpasalamat ninyo sa kanya, pagpalain ninyo ang kanyang pangalan.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Pumasok kayo"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "sa kanyang mga pintuan"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nang may pasasalamat"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "sa kanyang mga looban"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "nang may papuri"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ipagpasalamat ninyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagpalain ninyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.930900961Z",
+  "model": "glm-5.3"
+}

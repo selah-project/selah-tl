@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ito ang mga lahi ni Yishmael, anak ni Avraham, na ipinanganak ni Hagar ang Egipcia, aliping-babae ni Sarah, kay Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "mga lahi"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ang Egipcia"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "aliping-babae ni"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:20.940861739Z",
+  "model": "glm-5.3"
+}

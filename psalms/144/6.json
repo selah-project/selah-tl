@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Kumislap ka ng kidlat at magkalat sila; panaulin mo ang iyong ⟨mga⟩ palaso at guluhin sila.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "kumislap ka ng kidlat"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "kidlat"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "at magkalat sila"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "panaulin mo"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "iyong mga palaso"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "at guluhin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:06.237496142Z",
+  "model": "glm-5.3"
+}

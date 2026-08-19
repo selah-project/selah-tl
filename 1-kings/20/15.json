@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kaniyang biniyaan ang ⟨את⟩ mga binata ng mga pangulo ng mga lalawigan, at sila'y naging dalawandaan at dalawampu't tatlo; at pagkatapos nila, biniyaan niya ang ⟨את⟩ buong bayan, ang lahat ng mga anak ni Israel, pitong libo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "At biniyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga binata ng mga pangulo ng mga lalawigan"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mga binata"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ng mga pangulo"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ng mga lalawigan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging sila"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dalawandaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at dalawampu't tatlo"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "at pagkatapos nila"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "biniyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:34.094570518Z",
+  "model": "glm-5.3"
+}

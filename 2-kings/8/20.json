@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sa mga araw niya, naghimagsik ang Edom mula sa ilalim ng kamay ng Juda, at naghalal sila ng hari para sa kanilang sarili.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "sa mga araw niya"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "naghimagsik"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mula sa ilalim"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ng kamay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Juda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "at naghalal sila ng hari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "para sa kanilang sarili"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:26.983447853Z",
+  "model": "glm-5.3"
+}

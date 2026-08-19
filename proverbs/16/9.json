@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ang puso ng tao ang nagpaplano ng kaniyang lakad, ngunit si Yahweh ang nagtatatag ng kaniyang hakbang.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nagpaplano"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kaniyang lakad"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ngunit si Yahweh"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "nagtatatag"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "kaniyang hakbang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:04.779408049Z",
+  "model": "glm-5.3"
+}

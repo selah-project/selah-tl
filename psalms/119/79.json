@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Bumalik sa akin ang mga nagkakailan sa iyo, at makakaalam sila ng iyong mga patotoo.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "mga nagkakailan sa iyo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "at makakaalam"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "iyong mga patotoo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:09.364335688Z",
+  "model": "glm-5.3"
+}

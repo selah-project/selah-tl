@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "O Elohim, sa iyong pangalan iligtas mo ako, at sa iyong kalakasan hatulan mo ako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "at sa iyong kalakasan"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "hatulan mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:08.663901769Z",
+  "model": "glm-5.3"
+}

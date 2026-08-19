@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Yahweh kay Gid'on: Sa pamamagitan ng tatlong daang lalaking lumalapas ay ililigtas kita ⟨את⟩ ninyo, at ibibigay ko ang ⟨את⟩ Midyan sa iyong kamay; at ang buong bayan ay mangungulili — bawat lalaki ay paroroon sa kanyang lugar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "sa pamamagitan ng tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaking"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "lumalapas"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ililigtas kita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyo",
+      "marks": "kayo (na liligtas)"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "paroroon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sa kanyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:50.359963465Z",
+  "model": "glm-5.3"
+}

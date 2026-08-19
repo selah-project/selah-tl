@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Papalainin ko ang ⟨את⟩ Yahweh sa bawat oras; tuloy-tuloy na nasa aking bibig ang papuri sa kanya.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Papalainin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "or"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tuloy-tuloy"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang papuri sa kanya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.320339119Z",
+  "model": "glm-5.3"
+}

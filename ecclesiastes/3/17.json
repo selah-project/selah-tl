@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Aking sinabi sa aking puso: ang ⟨את⟩ matuwid at ang ⟨את⟩ masama ay hahatulan ng Elohim, sapagkat may takda para sa bawat nais at sa bawat gawa doon.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa aking puso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matuwid"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "ang masama"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hahatulan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "may takda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa bawat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nais"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:39.295503272Z",
+  "model": "glm-5.3"
+}

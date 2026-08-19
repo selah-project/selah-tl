@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At naging kasama ni Yahweh si ⟨את⟩ Yosef, at siya'y naging taong nagtatagumpay; at siya'y nasa bahay ng kanyang panginoon na Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "taong"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "nagtatagumpay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at siya'y naging"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ng kanyang panginoon"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "na Mitsri"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:32.664950328Z",
+  "model": "glm-5.3"
+}

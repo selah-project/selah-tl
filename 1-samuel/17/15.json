@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At si David ay pumupunta at bumabalik mula kay Shaoul, upang pastulan ang ⟨את⟩ kawan ng kaniyang ama sa Beyt Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "At si David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pumupunta"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "at bumabalik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "upang pastulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:33.904833389Z",
+  "model": "glm-5.3"
+}

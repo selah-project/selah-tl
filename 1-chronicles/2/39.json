@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Azaryah ay nagkaanak ng ⟨את⟩ Heletz, at si Heletz ay nagkaanak ng ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "at si Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heletz"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Heletz"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "at si Heletz"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:31.652834110Z",
+  "model": "glm-5.3"
+}

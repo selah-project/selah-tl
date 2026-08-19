@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Tumuyo ang aking lakas na parang pinggang binao, at ang aking dila ay dumikit sa aking mga panga; at sa alabok ng kamatayan mo ako inilagay.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "tumuyo"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "parang binao (pinggang lupain)"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "aking lakas"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "at ang aking dila"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "dumikit"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "sa aking mga panga"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "at sa alabok"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "mo ako inilagay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:39.878528127Z",
+  "model": "glm-5.3"
+}

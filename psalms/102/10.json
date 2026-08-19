@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sapagkat abo na parang tinapay ang aking kinain, at ang aking inumin ay hinalo ko sa pagluha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "na parang tinapay"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "aking kinain"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "at ang aking inumin"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sa pagluha"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "hinalo ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:29.555391631Z",
+  "model": "glm-5.3"
+}

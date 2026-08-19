@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang mga ito ang marumi sa inyo sa lahat ng mga gumagapang; ang bawat humahawak sa kanila sa kanilang kamatayan ay madudumi hanggang sa pagtakipsilim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "ang mga marumi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "mga gumagapang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "humahawak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "sa kanilang kamatayan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ay madudumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pagtakipsilim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:12.157420524Z",
+  "model": "glm-5.3"
+}

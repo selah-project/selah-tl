@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Yahweh, huwag mong akoy sawayin sa iyong galit, ni akoy turuan sa iyong poot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "sa iyong galit"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "mong akoy sawayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni huwag"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "sa iyong poot"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "akoy turuan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:25.676345216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Mura at ahalot, kasya — ang lahat ng iyong mga damit, mula sa mga palasyo ng garing, ang mga instrumentong may kwerdas ang nagpasaya sa iyo.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mura (myrrh)"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "at ahalot (aloes)"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasya (cassia)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "iyong mga damit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mga palasyo ng"
+    },
+    {
+      "surface": "שן",
+      "gloss": "garing"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mga instrumentong may kwerdas"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "nagpasaya sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:22.577973313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At hindi na malalata ang mga mata ng mga nakakakita, at ang mga tainga ng mga nakakarinig ay makinig nang buong-pansin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "At hindi"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "na malalata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ng mga nakakakita"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "at ang mga tainga"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ng mga nakakarinig"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ay makinig nang buong-pansin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:42.069638691Z",
+  "model": "glm-5.3"
+}

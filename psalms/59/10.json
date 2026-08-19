@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Ang ⟨kanyang⟩ lakas, sa iyo aking babantayan; sapagkat si Elohim ay aking matibay na moog.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "kanyang lakas"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "babantayan ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "aking matibay na moog"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:26.893149890Z",
+  "model": "glm-5.3"
+}

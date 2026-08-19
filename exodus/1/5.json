@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang lahat ng ⟨את⟩ kaluluwang lumabas sa hitang ni Yaakov ay pitong kaluluwa; at si Yosef ay nasa Mitzrayim na.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hitang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pito"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "at si Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay nasa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:52.965036256Z",
+  "model": "glm-5.3"
+}

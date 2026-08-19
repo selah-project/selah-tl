@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Lalabas ang kanyang hininga, babalik siya sa kanyang lupa; sa araw na yaon, maglalaho ang kanyang mga pagaakala.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Lalabas"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang kanyang hininga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "babalik siya"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "sa kanyang lupa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "maglalaho"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ang kanyang mga pagaakala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.610896093Z",
+  "model": "glm-5.3"
+}

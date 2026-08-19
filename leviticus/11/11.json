@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At karumal-dumal sila magiging sa inyo; mula sa laman nila ay huwag ninyong kakanin, at ⟨את⟩ bangkay nila ay kasusuklaman ninyo.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "at karumal-dumal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "mula sa laman nila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyong kakanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bangkay nila"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkay nila"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kasusuklaman ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:32.724117770Z",
+  "model": "glm-5.3"
+}

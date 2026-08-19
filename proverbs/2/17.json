@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Na nagpabaya sa kapatid ng kanyang pagkabata, at ang ⟨את⟩ tipan ng kanyang Elohim ay kinalimutan.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "nagpabaya"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "kanyang pagkabata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tipan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "kanyang Elohim"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "kinalimutan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:03.160206120Z",
+  "model": "glm-5.3"
+}

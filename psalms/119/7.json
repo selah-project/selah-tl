@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Magpapasalamat ako nang may tapat na puso sa pagkatuto ko ng mga hatol ng iyong katuwiran.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magpapasalamat ako sa iyo"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "nang may katapatan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "sa pagkatuto ko ng"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga hatol"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "iyong katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:26.632024660Z",
+  "model": "glm-5.3"
+}

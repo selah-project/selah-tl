@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sapagkat nakalimutan mo ang Elohim ng iyong kaligtasan, at ang Bato ng iyong muog ay hindi mo naalala; kaya't magtatanim ka ng mga tanim na kaaya-aya, at binhi ng dayuhan ⟨ito⟩ ay iyongahasabutas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "nakalimutan mo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ng iyong kaligtasan"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "at Bato"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "ng iyong muog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "naalala mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't dahil dito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "magtatanim ka"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "mga tanim"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "na kaaya-aya"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "at binhi\/puning kaway"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ng dayuhan"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "iyong ahasabutas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:47.191192994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang ⟨את⟩ mga sumasamba sa mga bubongan sa hukbo ng ⟨the⟩ mga langit, at ang ⟨את⟩ mga sumasamba, ang mga nanunumpa kay Yahweh at nanunumpa sa kanilang hari (Malcam).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga sumasamba"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "mga sumasamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "mga bubongan"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sa hukbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga sumasamba"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "mga sumasamba"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "mga nanunumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "at mga nanunumpa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "sa kanilang hari (Malcam)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:06:05.692180739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Kayo'y magpunta kayo, kumuha kayo para sa inyo ng dayami mula saan mang makakita kayo, sapagkat walang mababawas sa inyong paggawa, kahit isang bagay.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "magpunta kayo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "kumuha kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ng dayami"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "mula saan mang"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "nakakita kayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "mababawas"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "sa inyong paggawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kahit isang bagay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:41.234202198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ibinigay nila kay Kalev ang ⟨את⟩ Chevron, kung paanong sinalita ni Moshe, at iwinasak niya mula roon ang ⟨את⟩ tatlong anak ni Anaq.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kay Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "iwinasak niya \/ minana ang paglilinis"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tatlong anak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaq"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:08.823568538Z",
+  "model": "glm-5.3"
+}

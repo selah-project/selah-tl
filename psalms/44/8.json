@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Sapagkat iniligtas mo kami sa ating mga kaaway, at ikinahiya mo ang mga napopoot sa amin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "iniligtas mo kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "sa ating mga kaaway"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "at ang mga napopoot sa amin"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "ikinahiya mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:12.145884642Z",
+  "model": "glm-5.3"
+}

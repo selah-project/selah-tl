@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Tumayo ang mga hari ng lupa, at ang mga pinuno ay nagtipon nang magkakasama laban kay Yahweh at laban sa kaniyang Mashíaj —",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "tumayo (nagmatigas)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "at mga pinuno"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "nagtipon nang magkakasama"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at laban sa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "kaniyang Mashíaj"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:57.744573362Z",
+  "model": "glm-5.3"
+}

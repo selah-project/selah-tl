@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At babalutan mo ito ⟨את⟩ ng dalisay na ginto, at gagawa ka para dito ng korona ng ginto sa palibot.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "at babalutan mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang mesa)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para dito"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:30.477067610Z",
+  "model": "glm-5.3"
+}

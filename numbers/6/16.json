@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ilalapit ng saserdote ⟨ang mga ito⟩ sa harapan ni Yahweh, at gagawin niya ang ⟨את⟩ kanyang handog para sa kasalanan at ang ⟨את⟩ kanyang handog na susunugin.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "At ilalapit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וועשה",
+      "gloss": "at gagawin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang handog para sa kasalanan"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kanyang handog para sa kasalanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at",
+      "marks": "kanyang handog na susunugin"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kanyang handog na susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:58.682171786Z",
+  "model": "glm-5.3"
+}

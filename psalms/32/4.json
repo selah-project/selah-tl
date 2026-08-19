@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Pang-araw-araw at gabi'y mabigat sa akin ang iyong kamay; nagiba ang aking lakas na parang tuyo ng tag-araw. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pang-araw-araw at gabi'y mabigat sa akin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "araw-araw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at gabi"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "mabigat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nagiba"
+    },
+    {
+      "surface": "לשדi",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "sa tuyo"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ng tag-araw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.994637050Z",
+  "model": "glm-5.3"
+}

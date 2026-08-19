@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sa laman ng tao ay hindi ibubuhos ito, at ayon sa bahagi nito ay huwag kayong gagawa ng katulad nito; banal ito, banal ito magiging sa inyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "ibubuhos"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "at ayon sa bahagi nito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kayong gagawa"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ng katulad nito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:42.088271431Z",
+  "model": "glm-5.3"
+}

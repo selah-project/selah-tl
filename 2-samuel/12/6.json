@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ang ⟨את⟩ tupa ay babayaran niya nang apat na beses, sapagkat ginawa niya ang ⟨את⟩ bagay na ito at dahil hindi siya nagmahinahon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tupa"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "babayaran"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "apat na beses"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at dahil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nagmahinahon \/ nagawaawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:12.429327409Z",
+  "model": "glm-5.3"
+}

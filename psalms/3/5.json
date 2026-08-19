@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang aking tinig — kay Yahweh sumisigaw ako, at pinasagot niya ako mula sa kanyang banal na bundok. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ang aking tinig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sumisigaw ako"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "at pinasagot niya ako"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mula sa bundok"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kanyang banal"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:01.800016430Z",
+  "model": "glm-5.3"
+}

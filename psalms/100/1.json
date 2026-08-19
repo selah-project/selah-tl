@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 100,
+  "translation": "Awit ng pasasalamat. Sumigaw kayo kay Yahweh, ang lupaing iyo'y lahat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ng pasasalamat"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Sumigaw kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.930415553Z",
+  "model": "glm-5.3"
+}

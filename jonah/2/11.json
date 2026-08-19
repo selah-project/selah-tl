@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi ni Yahweh sa isda, at dinuraan nito si ⟨את⟩ Yonah papunta sa tuyong lupa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "sa isda"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "at dinuraan nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tuyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:44.679307878Z",
+  "model": "glm-5.3"
+}

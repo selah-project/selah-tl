@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Yahweh kay Gid'on: Masyado pa ring marami ang bayan; ihihihinin mo sila sa ⟨את⟩ tubig, at aaking subukin sila para sa iyo roon. At mangyayari: kung kanino sabihin ko sa iyo, 'Ito'y sasama sa iyo' — ⟨siya⟩ ay sasama sa iyo; at kung sinuman sabihan kitang, 'Ito'y hindi sasama sa iyo' — ⟨siya⟩ ay hindi sasama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "marami"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "ihihihinin mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "silang (ipapahinog sa tubig)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ואצרפנו",
+      "gloss": "at aaking subukin (rarandhin)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung kanino"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sasama"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama mo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sasama"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kasama mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at kung sinuman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihan kita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "—"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sasama"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kasama mo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sasama"
+    }
+  ],
+  "timestamp": "2026-08-19T20:06:16.481397927Z",
+  "model": "glm-5.3"
+}

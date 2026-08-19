@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nang makita niyang matibay ang kanyang loob na sumama ⟨את⟩ sa kanya, tumigil siyang magsalita sa kanya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nang makita (niya)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "matibay ang loob"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "na sumama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanya"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "tumigil (siya)"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:28.313514855Z",
+  "model": "glm-5.3"
+}

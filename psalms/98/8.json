@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Humampas ng palad ang mga ilog, magkasabay ang mga bundok na magsiyaon.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga ilog"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "Humampas"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ng palad"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkasabay"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "na magsiyaon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:38.390786732Z",
+  "model": "glm-5.3"
+}

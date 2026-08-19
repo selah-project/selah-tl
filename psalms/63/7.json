@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Kapag naalala kita sa aking higaan, sa mga bantay ng gabi, pag-iisipan kong lubos ikaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "naalala kita"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "aking higaan"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "sa mga bantay ng gabi"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "pag-iisipan kong lubos"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:25.455831672Z",
+  "model": "glm-5.3"
+}

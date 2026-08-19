@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Si Menashsheh ⟨laban sa⟩ ⟨את⟩ Efrayim, at si Efrayim ⟨laban sa⟩ ⟨את⟩ Menashsheh; magkakasama sila ⟨laban⟩ kay Yehudah. Sa lahat ng ito, hindi tumigil ang kanyang poot, at nakabuka pa rin ang kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "at si Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨laban⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kay Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ng ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tumigil"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang kanyang poot"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "at pa rin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nakabuka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:43.212519894Z",
+  "model": "glm-5.3"
+}

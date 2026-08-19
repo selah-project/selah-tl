@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sumagot ang hari at nagsabi: Ibigay ninyo sa kanya ang ⟨את⟩ sanggol na buhay, at huwag ninyong patayin siya — siya ang kanyang ina.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ibigay ninyo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanggol na buhay"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ang sanggol"
+    },
+    {
+      "surface": "החי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "at ang pagpatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ninyong patayin siya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang kanyang ina"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:04.630121909Z",
+  "model": "glm-5.3"
+}

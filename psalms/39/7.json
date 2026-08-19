@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Tunay na sa anino-larawan lamang naglalakad ang tao; tunay na nasa alingahing-lamang sila; nagpipisan siya ng yaman at hindi niya nalalaman kung sino ang mangangalap nito.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa anino-larawan"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "naglalakad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sa alingahing-lamang"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "sila'y nasa kaguluhan"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "nagpipisan siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "niya nalalaman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kung sino"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ang mangangalap nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:34.157669806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Yahweh kay Moshe: Isang pangulo sa isang araw, isang pangulo sa isang araw, sila ay maghahandog ng ⟨את⟩ kanilang handog para sa paglalagong handog ng dambana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "isang pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa isang araw"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "isang pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa isang araw"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "maghahandog sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang handog"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "kanilang handog"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "para sa paglalagong handog"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:18.490620095Z",
+  "model": "glm-5.3"
+}

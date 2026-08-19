@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At tumakbo siya kay Eli, at nagsabi: Heto ako, sapagkat tumawag ka sa akin. At kaniyang sinabi: Hindi ako tumawag; umurong ka, humiga ka. At siya'y yumaon at humiga.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "At tumakbo siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Heto ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tumawag ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At kaniyang sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ako tumawag"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "umurong ka"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "humiga ka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "At siya'y yumaon"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "at humiga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:22.714208009Z",
+  "model": "glm-5.3"
+}

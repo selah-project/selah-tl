@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang mga anak ni Gomer: Ashkenaz, at Riffat, at Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak ni"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "at Riffat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "at Togarma"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:40.400855486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At namuhay si Kenan na pitumpung taon, at nagkaanak siya ng ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "namuhay"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "si Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagkaanak siya ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:55.141976755Z",
+  "model": "glm-5.3"
+}

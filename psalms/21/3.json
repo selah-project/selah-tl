@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang pithaya ng kanyang puso ay ibinigay mo sa kanya, at ang hiling ng kanyang mga labi ay hindi mo pinigilan. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Ang pithaya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ng kanyang puso"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ay ibinigay mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "at ang hiling"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ng kanyang mga labi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "mo pinigilan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:33.289854465Z",
+  "model": "glm-5.3"
+}

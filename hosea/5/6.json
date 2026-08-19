@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sa kanilang mga kawan at sa kanilang mga baka magsisiparoon sila upang hanapin si ⟨את⟩ Yahweh, ngunit hindi nila matatagpuan ⟨Siya⟩; umurong na Siya mula sa kanila.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "sa kanilang mga kawan"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "at sa kanilang mga baka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magsisiparoon sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "upang hanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "umurong na"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mula sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:53.300103855Z",
+  "model": "glm-5.3"
+}

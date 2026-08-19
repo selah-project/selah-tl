@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ⟨את⟩ arnebet, sapagkat nagpapataas siya ng gira, ngunit hindi naghahati ng may split na paa — karumal-dumal siya sa inyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang arnebet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "arnebet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nagpapataas"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ngunit paa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "naghahati"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:02.776156348Z",
+  "model": "glm-5.3"
+}

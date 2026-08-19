@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Gagawin ni Yahweh sa kanila gaya ng ginawa niya kay Sichon at kay Og, mga hari ng Emori, at sa kanilang lupa — ⟨את⟩ sila na kanyang pinanggalawan.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kay Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "at kay Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng Emori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "at sa kanilang lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "pinanggalawan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:23.163899198Z",
+  "model": "glm-5.3"
+}

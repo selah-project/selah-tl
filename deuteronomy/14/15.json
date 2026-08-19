@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at ang ⟨את⟩ anak ng ostrich, at ang ⟨את⟩ tachmas, at ang ⟨את⟩ shachaf, at ang ⟨את⟩ lawin ayon sa kanyang uri",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak ng ostrich"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ng ostrich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lawin"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "lawin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ayon sa kanyang uri"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:45.238458494Z",
+  "model": "glm-5.3"
+}

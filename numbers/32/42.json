@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Sumunod si Novach, at sinakop niya ang ⟨את⟩ Kenat at ang ⟨את⟩ mga anak na bayan nito, at tinawag niya ito na Novach, ayon sa kaniyang pangalan.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "si Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "at sinakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak na bayan nito"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "mga anak na bayan nito"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ayon sa kaniyang pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:16.030881523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At itinaas ni Aharon ang ⟨את⟩ kaniyang mga kamay sa bayan, at pinagpalá niya sila, at bumaba siya pagkatapos gawin ang handog para sa kasalanan at ang handog na susunugin at ang mga handog na kapayapaan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "at itinaas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "kaniyang mga kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kaniyang kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa (tungo sa)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "at pinagpalá sila"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "pagkatapos gawin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ang handog para sa kasalanan"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "at ang handog na susunugin"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "at ang mga handog na kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:13.284704836Z",
+  "model": "glm-5.3"
+}

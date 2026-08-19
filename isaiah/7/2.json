@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At naibalita sa bahay ni David, na sinasabi: Sumandal na ang Aram kay Efrayim. At nayanig ang kaniyang puso at ang puso ng kaniyang bayan, gaya ng panginginig ng mga puno ng gubat dahil sa hangin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at naibalita"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "sumandal na"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "at nayanig"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ang kaniyang puso"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "at ang puso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ng kaniyang bayan"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "gaya ng panginginig"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ng mga puno"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ng gubat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:40.737387087Z",
+  "model": "glm-5.3"
+}

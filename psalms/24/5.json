@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Magtatanggap siya ng pagpapala mula kay Yahweh at ng katuwiran mula sa Elohim ng kanyang kaligtasan.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "magtatanggap"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "pagpapala"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "at ng katuwiran"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "mula sa Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ng kanyang kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.506406776Z",
+  "model": "glm-5.3"
+}

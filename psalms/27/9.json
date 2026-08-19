@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Huwag mong itago ang iyong mukha mula sa akin; huwag mong iilig ang iyong alipin sa galit — ikaw ang naging tulong ko. Huwag mo akong itapon, at huwag mo akong pabayaan, Elohim ng kaligtasan ko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "mo itago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mula sa akin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תט",
+      "gloss": "mo iilig"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa galit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong alipin"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "tulong ko"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ikaw ⟨ay⟩ naging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "mo akong itapon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mo akong pabayaan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kaligtasan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:47.617378066Z",
+  "model": "glm-5.3"
+}

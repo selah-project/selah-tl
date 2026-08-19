@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Tatawag siya sa ⟨mga⟩ langit mula sa itaas, at sa lupa, upang hatulan ang kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "tatawag siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa itaas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "upang hatulan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T20:07:22.880399861Z",
+  "model": "glm-5.3"
+}

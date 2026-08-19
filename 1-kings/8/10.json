@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari, sa paglabas ng mga pari mula sa santuario, na ang alapaap ay nagpuno ⟨את⟩ sa bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "sa paglabas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ng mga pari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santuario"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "na ang alapaap"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:08.999778541Z",
+  "model": "glm-5.3"
+}

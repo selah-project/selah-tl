@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Maraming ulit silang iniligtas niya, ngunit sila ay nanghimagsik sa kanilang payo, at nagiba sila dahil sa kanilang kasamaan.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "maraming ulit"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "marami"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "sila niyang iniligtas"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "nanghimagsik"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "sa kanilang payo"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "at nagiba sila"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dahil sa kanilang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.206679821Z",
+  "model": "glm-5.3"
+}

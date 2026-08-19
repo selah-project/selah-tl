@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kinamumuhian ko ang kapisanan ng mga gumagawa ng kasamaan, at kasama ng mga masasama hindi ako uupo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "kinamumuhian ko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ng mga gumagawa ng kasamaan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama ng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ako uupo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.914440047Z",
+  "model": "glm-5.3"
+}

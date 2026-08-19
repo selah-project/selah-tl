@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang baluktot ay hindi makayang tuwirin, at ang kulang ay hindi makayang bilangin.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "baluktot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makayang"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "tuwirin"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "at kulang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makayang"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "bilangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:09.846185880Z",
+  "model": "glm-5.3"
+}

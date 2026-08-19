@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Ang tao ay nasa karangalan, ngunit hindi nakauunawa — kawangis siya ng mga hayop, naparam sila.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sa karangalan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "kawangis"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ng mga hayop"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "naparam sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:43.611984210Z",
+  "model": "glm-5.3"
+}

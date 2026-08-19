@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sinabi ng hari: Ang nagsasalita sa iyo, dalhin mo siya sa akin, at hindi na siya magdaragdag pang hipuin ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ang nagsasalita"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "at dalhin mo siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "magdaragdag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pang"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "hipuin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:17:27.352970427Z",
+  "model": "glm-5.3"
+}

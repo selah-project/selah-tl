@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At maghahandog ka ng mga sakripisyo ng kapayapaan, at kakain ka roon, at magagalak ka sa harap ni Yahweh, sa Elohim mo.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "at maghahandog ka ng sakripisyo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "mga sakripisyo ng kapayapaan"
+    },
+    {
+      "surface": "ו אכלת",
+      "gloss": "at kakain ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "at magagalak ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:40.480758163Z",
+  "model": "glm-5.3"
+}

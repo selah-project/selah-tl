@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Inilagay mo ako sa pinakamababang hukay, sa mga kadiliman, sa mga kalaliman.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "inilagay mo ako"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sa hukay"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "sa pinakamababang"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sa mga kadiliman"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "sa mga kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:06.893098057Z",
+  "model": "glm-5.3"
+}

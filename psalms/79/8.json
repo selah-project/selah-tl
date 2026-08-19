@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Huwag mong alalahanin laban sa amin ang ⟨mga⟩ kasalanan ng mga unang panahon; madaliin mong unanin kami ng iyong mga awa, sapagkat lubos kaming nabaon sa kahinaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "mong alalahanin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "laban sa amin"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ang mga kasalanan"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ng mga unang panahon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "madaliin"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "unanin kami"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ng iyong mga awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "nabaon kaming"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.884030540Z",
+  "model": "glm-5.3"
+}

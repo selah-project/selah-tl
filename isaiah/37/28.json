@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ang iyong paguupo, at ang iyong paglabas, at ang iyong pagpasok, ay nalalaman ko, at ⟨את⟩ ang iyong pag-aalboroto laban sa akin.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "at ang iyong paguupo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "at ang iyong paglabas"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "at ang iyong pagpasok"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nalalaman ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong pag-aalboroto"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ang iyong pag-aalboroto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "laban sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:31.387905886Z",
+  "model": "glm-5.3"
+}

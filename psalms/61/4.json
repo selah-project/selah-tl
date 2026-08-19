@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Sapagkat ikaw ay naging kanlungan para sa akin, torre ng lakas, mula sa harap ng kaaway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ikaw ay naging"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kanlungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torre"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ng lakas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harap ng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:43.437522610Z",
+  "model": "glm-5.3"
+}

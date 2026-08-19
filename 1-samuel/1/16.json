@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Huwag mong ituring ang ⟨את⟩ iyong aliping babae na parang anak ng kasamaan, sapagkat mula sa kasaganaan ng aking hinaing at ng aking pait nagsalita ako hanggang ngayon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mong ituring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong aliping babae"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iyong aliping babae"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "na parang sa harapan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "mula sa kasaganaan"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ng aking hinaing"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "at ng aking pait"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsalita ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngayon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:04.841146068Z",
+  "model": "glm-5.3"
+}

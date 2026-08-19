@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Ngunit dinurog mo kami sa dako ng mga chacal, at tinakpan mo kami ng anino ng kamatayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "dinurog mo kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dako"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ng mga chacal"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "at tinakpan mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ng anino ng kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:57.346955960Z",
+  "model": "glm-5.3"
+}

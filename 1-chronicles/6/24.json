@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "at ang kaniyang kapatid na si Asaf, na nakatayo sa kaniyang kanan — si Asaf na anak ni Berekhyahu, anak ni Shimea",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "at ang kaniyang kapatid"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "si Asaf"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ang nakatayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kaniyang kanan"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "si Asaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "ni Berekhyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ni Shimea"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:20.794306696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At sa ikalawang balikat, labinlimang siko na mga tabing; tatlo ang kanilang mga haligi at tatlo ang kanilang mga pinggan.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "at sa balikat"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "labing-"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mga tabing"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ang kanilang mga haligi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at ang kanilang mga pinggan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:18.661382430Z",
+  "model": "glm-5.3"
+}

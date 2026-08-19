@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sumagot siya at nagsabi: Hindi ba ⟨את⟩ ang inilalagay ni Yahweh sa aking bibig, iyon ang aking babantayan na salitain?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inilalagay ni Yahweh sa aking bibig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "inilalagay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa aking bibig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking babantayan"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ang aking babantayan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na salitain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:13:30.978270123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At nangyari sa ikalawang araw ng pagpatay ⟨את⟩ kay Gedalyahu, at walang taong nakakaalam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ng pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "at walang tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    }
+  ],
+  "timestamp": "2026-08-19T17:32:54.701403136Z",
+  "model": "glm-5.3"
+}

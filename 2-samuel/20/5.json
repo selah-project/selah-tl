@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Umaga si Amasa upang tipunin ang ⟨את⟩ Yehuda, ngunit nagtagal siya lampas sa takdang panahon na itinakda sa kanya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "si Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "upang tipunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ngunit nagtagal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lampas sa"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "takdang panahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "itinakda sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:21:37.133879581Z",
+  "model": "glm-5.3"
+}

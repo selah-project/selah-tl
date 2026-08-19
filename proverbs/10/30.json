@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang matuwid ay magpakailanman na hindi matitibag, ngunit ang masasama ay hindi tatahan sa lupa",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi (lalo)"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "matitibag"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ngunit ang masasama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:18.336301662Z",
+  "model": "glm-5.3"
+}

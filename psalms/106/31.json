@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At ito'y ibinilang sa kanya bilang katuwiran, sa lahat ng lahi hanggang sa walang hanggan.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "at ibinilang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "bilang katuwiran"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at lahi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:08.940574856Z",
+  "model": "glm-5.3"
+}

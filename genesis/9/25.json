@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi niya: Sumpa si Kenaan; alipin ng mga alipin siya ⟨ay⟩ magiging para sa kanyang mga kapatid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "si Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alipin"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ng mga alipin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "para sa kanyang mga kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:26.017987146Z",
+  "model": "glm-5.3"
+}

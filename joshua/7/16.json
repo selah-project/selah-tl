@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At maaga pa lamang sa umaga, bumangon si Yehoshua at ipinakilala ang ⟨את⟩ Israel ayon sa kanilang mga tribo; at nahuli ang tribo ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "at maaga pa lamang sa umaga, bumangon"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "at ipinakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ayon sa kanilang mga tribo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "at nahuli"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T15:39:06.144413344Z",
+  "model": "glm-5.3"
+}

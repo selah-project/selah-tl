@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Sapagkat ikaw, Yahweh, ay ⟨⟨Pinakamataas⟩⟩ sa lupa sa itaas ng lahat; ikaw ay napakataas na nag-angat sa lahat ng elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨Pinakamataas⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa itaas ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napakataas"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "nag-angat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa itaas ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:47.888787415Z",
+  "model": "glm-5.3"
+}

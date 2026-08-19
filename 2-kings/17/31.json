@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ang mga Avvita ay gumawa ng Nivchaz at ⟨את⟩ Tartak, at ang mga Sepharvita ay sinusunog ⟨את⟩ kanilang mga anak sa apoy para kay Adrammelech at kay Anammelech, mga diyos ng Sepharvayim.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "at ang mga Avvita"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nivchaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "at ang mga Sepharvita"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "nasusunog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kanilang mga anak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "para kay Adrammelech"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "at kay Anammelech"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ng Sepharvayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:28.112610122Z",
+  "model": "glm-5.3"
+}

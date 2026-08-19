@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At nanaginip siya pa ng panaginip na iba, at isinalaysay niya ito ⟨את⟩ sa kanyang mga kapatid, at kanyang sinabi: Narito, nanaginip ako ng panaginip pa, at narito, ang araw at ang buwan at labing-isang bituin ay nagpapatirapa sa akin.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "at nanaginip siya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "panaginip"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iba"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "at isinalaysay niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (sa kanyang mga kapatid)"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa kanyang mga kapatid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at kanyang sinabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nanaginip ako"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "panaginip"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "at ang buwan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "at labing-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "isang"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bituin"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "nagpapatirapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:23.370384355Z",
+  "model": "glm-5.3"
+}

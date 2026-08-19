@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sa bawat tore na mataas, at sa bawat pader na muog,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tore"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "pader"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "na muog"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:48.769806717Z",
+  "model": "glm-5.3"
+}

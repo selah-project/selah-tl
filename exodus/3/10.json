@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ngayon, lumapit ka, at ipapadala kita kay Paroh, upang ilabas mo ang ⟨את⟩ aking bayan, ang mga anak ni Yisrael, mula sa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "lumapit ka"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ipapadala kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "upang ilabas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking bayan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:46.631507453Z",
+  "model": "glm-5.3"
+}

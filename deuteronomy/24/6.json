@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Hindi dadanin sa sangla ang gilingan at ang pandukot, sapagkat ⟨ang⟩ buhay ang kinakandenahan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "dadanin sa sangla"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "gilingan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "at ang pandukot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ang"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kinakandenahan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:20.672552555Z",
+  "model": "glm-5.3"
+}

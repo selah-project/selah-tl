@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Si Moshe ay anak na walumpung taon, at si Aharon ay anak na tatlumpung at walumpung taon, nang magsalita sila kay Paroh.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Si Moshe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "walumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "at walumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "nang magsalita sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:45.633319301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "O Elohim, nang ikaw ay lumabas sa harapan ng iyong bayan, nang ikaw ay maglakad sa ilang — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nang ikaw ay lumabas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "nang ikaw ay maglakad"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.442681954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Mula sa langit, pinarinig mo ang ⟨את⟩ hatol; natakot ang lupa at natahimik.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Mula sa langit"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "pinarinig mo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "natakot"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "at natahimik"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:45.266346133Z",
+  "model": "glm-5.3"
+}

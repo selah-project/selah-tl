@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Hinanap ko si Yahweh ⟨את⟩, at sinagot niya ako, at mula sa lahat ng aking mga pangamba, hinango niya ako.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "hinanap ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "at sinagot niya ako"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "at mula sa lahat ng"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "aking mga pangamba"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hinango niya ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.575875324Z",
+  "model": "glm-5.3"
+}

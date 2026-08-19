@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Magpuri kayo, mga bayan, sa ating Elohim, at iparinig ang tinig ng kaniyang papuri.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Magpuri kayo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa ating Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "at iparinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ng kaniyang papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.332554500Z",
+  "model": "glm-5.3"
+}

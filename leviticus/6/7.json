@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ito ang kautusan ng ⟨ang⟩ handog na harina: ihahandog ng mga anak ni Aharon ⟨את⟩ nito sa harapan ni Yahweh, sa harap ng ⟨ang⟩ dambana.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang kautusan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ng ⟨ang⟩ handog na harina"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ihahandog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nito — ang handog na harina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng ⟨ang⟩ dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:00.758717052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Narinarig ni David, at nagpadala siya ⟨את⟩ kay Yoav at ⟨את⟩ buong hukbo ng mga makapangyarihan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "narinaring"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buong hukbo ng mga makapangyarihan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ng mga makapangyarihan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:31.470034703Z",
+  "model": "glm-5.3"
+}

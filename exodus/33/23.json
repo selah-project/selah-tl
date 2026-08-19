@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "at Aking itataas ang ⟨את⟩ Aking palad, at makikita mo ang ⟨את⟩ Aking likuran; ngunit ang Aking mukha ay hindi makikita.\"",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "at Aking itataas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aking palad"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "Aking palad"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "at makikita mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aking likuran"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Aking likuran"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ang Aking mukha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makikita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:37.275656422Z",
+  "model": "glm-5.3"
+}

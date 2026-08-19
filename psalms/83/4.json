@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Laban sa iyong bayan ay nagbubunbun sila ng lihim na balak, at nagpapasyahan laban sa iyong mga itinatago.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Laban sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "nagbubunbun sila"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "lihim na balak"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "at nagpapasyahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "iyong mga itinatago"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.423137605Z",
+  "model": "glm-5.3"
+}

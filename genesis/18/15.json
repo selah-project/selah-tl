@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nagpapahamak si Sarah sa pagsasabi: Hindi ako tumawa, sapagkat natatakot siya. At sinabi: Hindi, bagkus tumawa ka nga.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "At nagpapahamak"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ako tumawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "natatakot siya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bagkus"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "tumawa ka nga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:04.296691943Z",
+  "model": "glm-5.3"
+}

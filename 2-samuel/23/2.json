@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ang Ruach ni Yahweh ay nagsalita sa akin, at ang kaniyang salita ay nasa aking dila.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ang Ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "at ang kaniyang salita"
+    },
+    {
+      "surface": "על",
+      "gloss": "ay nasa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "aking dila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:04.648897491Z",
+  "model": "glm-5.3"
+}

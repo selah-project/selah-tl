@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 125,
+  "translation": "Magpagaling ka ng mabuti, oo Yahweh, sa mga mabubuti, at sa mga matutuwid sa kanilang mga puso.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Magpagaling ka ng mabuti(gumawa ka ng mabuti)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "sa mga mabubuti"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "at sa mga matutuwid"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "sa kanilang mga puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:01.419739500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang ⟨את⟩ isang kordero ay ihandog mo sa umaga, at ang ⟨את⟩ ikalawang kordero ay ihandog mo sa pagitan ng mga takipsilim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang kordero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang kordero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ihandog mo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikalawang kordero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang kordero"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ihandog mo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga takipsilim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:26.601942006Z",
+  "model": "glm-5.3"
+}

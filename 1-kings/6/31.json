@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ⟨את⟩ pasukan sa Debir ay ginawang mga pinto ng kahoy ng olibo; ang posteng-itaas at mga poste, ikalimang bahagi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pasukan sa Debir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "sa Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa ng"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mga pinto"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olibo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang posteng-itaas"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga poste"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "ikalimang bahagi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:51.262943408Z",
+  "model": "glm-5.3"
+}

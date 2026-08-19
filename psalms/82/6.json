@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 82,
+  "translation": "Ako, aking sinabi: kayo'y ⟨mga⟩ elohim, at mga anak ng Elyon, kayong lahat.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ng Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kayong lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.719793679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At tumahimik ang bayan at hindi siya sinagot ng ⟨את⟩ salita, sapagkat utos ⟨is⟩ ng hari, na sinasabi: Huwag ninyo siyang sasagutin.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "at tumahimik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "sinagot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng salita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "utos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "siyang sasagutin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:53.301407800Z",
+  "model": "glm-5.3"
+}

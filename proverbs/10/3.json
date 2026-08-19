@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi papayaghinumin ni Yahweh ang נפש ng matuwid, ngunit ang pagnanasa ng masasama ay itatapon niya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "papayaghinumin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפש"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ngunit ang pagnanasa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "itatapon niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:03.434039541Z",
+  "model": "glm-5.3"
+}

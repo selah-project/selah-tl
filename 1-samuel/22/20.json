@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nakaligtas ang isang anak na lalaki ni Ahimelek na anak ni Achitub, at ang kaniyang pangalan ay si Evyatar, at siya ay tumakas pagkatapos ni David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "at nakaligtas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ni Ahimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "ni Achitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "at ang kaniyang pangalan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ay si Evyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:41.499505297Z",
+  "model": "glm-5.3"
+}

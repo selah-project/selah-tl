@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ang Elohim ng aking bato — sa kanya ako magkakanlungan; aking kalasag, at sungay ng aking kaligtasan, aking mataas na kuta at aking kanlungan, aking Tagapagligtas — mula sa karahasan, inililigtas mo ako.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "bato ko"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "magkakanlungan ako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kalasag ko"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "at sungay"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kaligtasan ko"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mataas na kuta ko"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "at kanlungan ko"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "Tagapagligtas ko"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "mula sa karahasan"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "inililigtas mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:25.901344388Z",
+  "model": "glm-5.3"
+}

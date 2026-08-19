@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ang dukha ay huwag mong paparangalan sa kanyang away.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "at ang dukha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "paparangalan"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "sa kanyang away"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:49.738556364Z",
+  "model": "glm-5.3"
+}

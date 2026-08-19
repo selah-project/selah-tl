@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At hindi siya pinanghinayangan ng kaniyang ama sa lahat ng kaniyang mga araw, na nagsasabi, Bakit ginawa mo ito? At siya rin ay napakagandang anyo, at siya ang ⟨את⟩ isinilang ng ina niya pagkatapos ni Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "At hindi"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "pinanghinayanan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "sa lahat ng kaniyang mga araw"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "At gayundin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "napakaganda"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "anyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang isinilang)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "isinilang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:53.862540918Z",
+  "model": "glm-5.3"
+}

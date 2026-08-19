@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Ang tinig ng iyong kulog ay nasa alimpulopoy; sinindi ng mga kidlat ang sanlibutan; nayanig at natalog ang lupa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ng iyong kulog"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa alimpulopoy"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "sinindi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ang mga kidlat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang sanlibutan"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nayanig"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "at natalog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:59.210304316Z",
+  "model": "glm-5.3"
+}

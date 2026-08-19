@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang mga anak ni Yisrael ay nanirahan sa gitna ng ⟨ang⟩ Kanaaneo, ang Heteo, at ang Amoreo, at ang Perizeo, at ang Hibeo, at ang Jebuseo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At ang mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nanirahan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaaneo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Heteo"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "at ang Amoreo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "at ang Perizeo"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "at ang Hibeo"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at ang Jebuseo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:36.511300394Z",
+  "model": "glm-5.3"
+}

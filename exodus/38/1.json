@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ginawa niya ang ⟨את⟩ dambana ng handog na susunugin, mula sa kahoy ng akasya: limang siko ang haba nito, at limang siko ang lapad nito — parisukat — at tatlong siko ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambana ng handog na susunugin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang lapad nito"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "parisukat"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:03.420213202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Itinakda mo kaming ⟨is⟩ kahihiyan sa aming mga kapitbahay, pang-uyam at tuyaw sa mga nakapaligid sa amin.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "itinakda mo kami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa aming mga kapitbahay"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "pang-uyam"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "at tuyaw"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "sa mga nakapaligid sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:52.411915713Z",
+  "model": "glm-5.3"
+}

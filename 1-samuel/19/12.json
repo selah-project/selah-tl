@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At pinaibaba ni Mikal si ⟨את⟩ David sa pamamagitan ng bintana, at siya'y umalis, at tumakas, at nakaligtas.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "at pinaibaba"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "si Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "sa pamamagitan ng"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ang bintana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "at nakaligtas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:01.977577009Z",
+  "model": "glm-5.3"
+}

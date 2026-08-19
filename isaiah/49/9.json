@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "na nagsasabi sa mga bilanggo: Lumabas kayo; sa mga nasa kadiliman: Magpakita kayo. Sa mga daan sila mangangaylay, at sa lahat ng matataas na kalupaan ang kanilang pastulan.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "sa mga bilanggo"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Lumabas kayo"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa mga nasa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Magpakita kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "mga daan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "sila mangangaylay"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at sa lahat ng"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mga matataas na kalupaan"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ang kanilang pastulan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:47.720708020Z",
+  "model": "glm-5.3"
+}

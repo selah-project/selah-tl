@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sa ⟨mga nasa⟩ Chormah, at sa ⟨mga nasa⟩ Cor-Ashan, at sa ⟨mga nasa⟩ Athach,",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "at sa mga nasa"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "sa Chormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "at sa mga nasa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sa Cor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "at sa mga nasa"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "sa Athach"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:42.933574185Z",
+  "model": "glm-5.3"
+}

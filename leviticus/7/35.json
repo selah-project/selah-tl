@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ito ⟨ang⟩ pagpapahid-ng-langis kay Aharon at ⟨ang⟩ pagpapahid-ng-langis sa kaniyang mga anak, mula sa mga handog na apoy ni Yahweh, sa araw ng kaniyang paglapit ⟨sa kanila⟩ upang maging kohen para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pagpapahid-ng-langis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "at pagpapahid-ng-langis"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa kaniyang mga anak"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mula sa mga handog na apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ng kaniyang paglapit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "upang maging kohen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "upang maging kohen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:56.158136479Z",
+  "model": "glm-5.3"
+}

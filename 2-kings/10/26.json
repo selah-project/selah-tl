@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At inilabas nila ang ⟨את⟩ mga haliging-tanda ng bahay ni Baal, at sinunog nila ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "at inilabas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haliging-tanda ng bahay ni Baal"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "mga haliging-tanda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "at sinunog nila ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:50.884596197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At sinabi niya sa kaniyang mga anak: Sakyanin ⟨ang⟩ asno para sa akin. At sinakyanan nila para sa kanya ⟨ang⟩ asno, at sumakay siya dito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sakyanin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ang asno"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "at sinakyanan nila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ang asno"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "at sumakay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:31:57.674203964Z",
+  "model": "glm-5.3"
+}

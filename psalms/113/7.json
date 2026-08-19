@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 113,
+  "translation": "Nagpapabangon ng dukha mula sa alabok, mula sa mga tambakan ng basura, itinataas ang pulubi.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Nagpapabangon"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ng dukha mula sa alabok"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "mula sa mga tambakan ng basura"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itinataas"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ang pulubi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:00.778218915Z",
+  "model": "glm-5.3"
+}

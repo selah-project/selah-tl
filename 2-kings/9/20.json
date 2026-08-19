@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ibinulatong ng bantay, na nagsasabing, Dumating siya hanggang sa kanila at hindi na bumalik; at ang pagmamaneho ⟨ay⟩ tulad ng pagmamaneho ni Yehu na anak ni Nimshi, sapagkat nang magaliw siya ang kanyang pinapatakbo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "At ibinulatong"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "ng bantay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Dumating siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "At ang pagmamaneho"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "tulad ng pagmamaneho"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "na anak"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ni Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "nang magaliw"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ang kanyang pinapatakbo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:13.147841795Z",
+  "model": "glm-5.3"
+}

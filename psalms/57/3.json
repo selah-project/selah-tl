@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Tatawagin ko si Elohim Elyon, sa El na nagtatapos (ng lahat) alang-alang sa akin.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Tatawagin ko"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nagtatatapos"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "alang-alang sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:48.347165495Z",
+  "model": "glm-5.3"
+}

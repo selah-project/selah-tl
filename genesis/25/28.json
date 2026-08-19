@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At minahal ni Yitshak si ⟨את⟩ Esav, sapagkat may huli-hayop sa bibig niya; at si Rivkah ay umiibig kay ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "at minahal"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "huli-hayop"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa bibig niya"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "at si Rivkah"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "umiibig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:45.687645647Z",
+  "model": "glm-5.3"
+}

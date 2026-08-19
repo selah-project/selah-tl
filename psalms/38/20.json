@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ang aking mga kaaway ay buhay at malakas, at dumami ang mga umiibig sa paghatol sa akin nang walang katotohanan.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "At ang aking mga kaaway"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "malakas"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at dumami"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ang mga nakapoot sa akin"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nang walang katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:29.739652795Z",
+  "model": "glm-5.3"
+}

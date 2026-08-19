@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ang iyong ubasan ay huwag mong bubungkalin nang lubos, at ang mga natirang bunga ng iyong ubasan ay huwag mong pipitasin; sa maralita at sa dayuhan ay iiwan mo ang mga ito ⟨אתם⟩; ako si Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "at ang iyong ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "bubungkalin nang lubos"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "at ang mga natirang bunga"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ng iyong ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pipitasin"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa maralita"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "at sa dayuhan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "iiwan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ang mga ito (mga nalalabi) — nagtuturo sa mga ibinabawal na anihin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:28.359675965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nawasak ang ⟨ang⟩ kayamanang iyon sa masamang kapighatian, at nagkaanak siya ng anak, at walang ⟨ano man⟩ sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "at nawasak"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ang kayamanan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "sa kapighatian"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masamang"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "at nagkaanak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ano man"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:50.247718614Z",
+  "model": "glm-5.3"
+}

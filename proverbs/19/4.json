@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ang kayamanan ay nagdaragdag ng maraming kaibigan, ngunit ang dukha ay inihihiwalay sa kanyang kaibigan.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ang kayamanan"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "nagdaragdag ng"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kaibigan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ngunit ang dukha"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "sa kanyang kaibigan"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "inihihiwalay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:23.844809124Z",
+  "model": "glm-5.3"
+}

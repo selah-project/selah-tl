@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Bakit pula ⟨ang⟩ iyong pananamit, at ang iyong mga damit na parang nagpapisa sa ⟨את⟩ pigsa ng alak?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ang iyong pananamit"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "at ang iyong mga damit"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "na parang nagpapisa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa pigsa ng alak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:12:50.203751180Z",
+  "model": "glm-5.3"
+}

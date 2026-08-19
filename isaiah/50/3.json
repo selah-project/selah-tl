@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Binibihisan ko ang mga langit ng kadiliman, at sakong ginagawa kong pantakip sa kanila.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Binibihisan ko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ng kadiliman"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "at sako"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ginagawa kong"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "pantakip nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:24.873354234Z",
+  "model": "glm-5.3"
+}

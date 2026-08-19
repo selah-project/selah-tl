@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 128,
+  "translation": "Tingnan mo, sapagkat kung gayon pagpapalain ang lalaking nag-aalangod kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kung gayon"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pagpapalain"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nag-aalangod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:34.487625677Z",
+  "model": "glm-5.3"
+}

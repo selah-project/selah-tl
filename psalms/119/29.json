@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang daan ng kasinungalingan ay ihiwalay mo sa akin, at sa iyong torà ay maawa ka sa akin.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ay ihiwalay mo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "at sa iyong torà"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ay maawa ka sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:38.942180886Z",
+  "model": "glm-5.3"
+}

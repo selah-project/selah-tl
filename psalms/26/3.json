@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sapagkat nasa harap ng aking mga mata ang iyong kagandahang-loob, at ako'y lumakad-lakad sa iyong katotohanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kagandahang-loob"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "nasa harap ng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "at lumakad-lakad ako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa iyong katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:10.784915851Z",
+  "model": "glm-5.3"
+}

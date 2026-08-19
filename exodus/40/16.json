@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ginawa ni Moshe ang lahat ng mga bagay na iniutos ni Yahweh ⟨את⟩ sa kanya; gayon niya ginawa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "iniutos sa kanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:43.410947854Z",
+  "model": "glm-5.3"
+}

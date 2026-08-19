@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "at ang kaniyang hukbo, at ang mga bilang sa kanila ⟨ay⟩ lima't apatnapung libo at anim na raan at limampu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "at ang kaniyang hukbo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "at ang mga bilang sa kanila"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "at apatnapu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at anim"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampu"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:30.071445212Z",
+  "model": "glm-5.3"
+}

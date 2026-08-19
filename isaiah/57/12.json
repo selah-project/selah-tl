@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Ako ay magpapahayag ng iyong katuwiran, at ⟨את⟩ ng iyong mga gawa, at hindi ka nila makikinabang.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ay magpapahayag"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ng iyong katuwiran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ng iyong mga gawa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ng iyong mga gawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ka nila makikinabang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:18.530920002Z",
+  "model": "glm-5.3"
+}

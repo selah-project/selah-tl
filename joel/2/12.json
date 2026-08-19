@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ngayon nga din — hayag ni Yahweh — magbalik-loob kayo sa akin nang buong puso ninyo, at nag-aayuno, at umaiiyak, at nagdadalamhati.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at gayon din"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "hayag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "magbalik-loob kayo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "puso ninyo"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "at sa pag-aayuno"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "at sa pag-iyak"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "at sa pagdadalamhati"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:26.572396127Z",
+  "model": "glm-5.3"
+}

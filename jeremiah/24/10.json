@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At papadala Ko laban sa kanila ang ⟨את⟩ tabak, ang ⟨את⟩ taggutom, at ang ⟨את⟩ salot, hanggang sa kanilang malipol mula sa lupang ibinigay Ko sa kanila at sa kanilang mga magulang.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "at papadala Ko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabak"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang tabak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taggutom"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ang taggutom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "salot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kanilang malipol"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay Ko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "at sa kanilang mga magulang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:53.814200938Z",
+  "model": "glm-5.3"
+}

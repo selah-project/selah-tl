@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Kinuha ng babae at inilatag ang ⟨את⟩ takip sa ibabaw ng bibig ng balon, at kumalat diyan ang pinagdurog na butil, at hindi nakilala ang bagay.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ng babae"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "at inilatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang takip"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ang takip"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bibig ng"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ang balon"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "at kumalat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "diyan"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "ang pinagdurog na butil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang bagay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:04.665006003Z",
+  "model": "glm-5.3"
+}

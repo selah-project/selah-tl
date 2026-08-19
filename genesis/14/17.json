@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At lumabas ang hari ng Sedom upang salubungin siya, pagkatapos ng kanyang pagbabalik mula sa pagpatay kay ⟨את⟩ Kedorlaomer at ⟨את⟩ sa mga hari na ⟨את⟩ kasama niya, sa lambak ng Shaveh — ito ay ang lambak ng hari.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ng Sedom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "upang salubungin siya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kanyang pagbabalik"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "mula sa pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga hari"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lambak"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "ng Shaveh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lambak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:27.166208098Z",
+  "model": "glm-5.3"
+}

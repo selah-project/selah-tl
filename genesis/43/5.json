@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Ngunit kung hindi mo isasama siya, hindi kami bababa; sapagkat sinabi ng lalaki sa amin: Hindi ninyo makikita ang aking mukha kung wala ang inyong kapatid ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "hindi mo"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "isasama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "kami bababa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ninyo makikita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kung wala"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong kapatid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:47.715569695Z",
+  "model": "glm-5.3"
+}

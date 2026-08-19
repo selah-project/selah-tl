@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang anak na babae ng isang saserdote, kung siya ay magpakahirang sa pamamagikin, ang ⟨את⟩ kanyang ama ay niya pinamumudmód — sa apuy siya sisunugin.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "at ang anak na babae"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "magpakahirang"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "sa pamamagikin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ama"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "pinamumudmód niya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apuy"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sisunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:16.545550809Z",
+  "model": "glm-5.3"
+}

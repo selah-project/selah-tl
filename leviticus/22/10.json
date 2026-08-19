@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At walang sinumang dayo na kumakain ng banal na bagay; ang naninirahan sa bahay ng saserdote at ang upahan ay hindi kakain ng banal na bagay.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal na bagay"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "naninirahan (dayo)"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "at upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal na bagay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:21.515766092Z",
+  "model": "glm-5.3"
+}

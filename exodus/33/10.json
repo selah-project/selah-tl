@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At nakita ng buong bayan ang ⟨את⟩ haliging ulap na nakatayo sa pintuan ng tolda, at tumindig ang buong bayan at yumukod, bawat lalaki sa pintuan ng kaniyang tolda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haliging ulap"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ng ulap"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pintuan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "at tumindig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "at yumukod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pintuan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ng kaniyang tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:37.463325693Z",
+  "model": "glm-5.3"
+}

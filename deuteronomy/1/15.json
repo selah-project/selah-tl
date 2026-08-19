@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At kinuha ko ang ⟨את⟩ mga ulo ng inyong mga tribo, mga lalaking marurunong at kilala, at inihalal ko sila bilang mga ulo sa ibabaw ninyo — mga pangulo ng libo, mga pangulo ng daan, mga pangulo ng limampu, mga pangulo ng sampu, at mga opisyal para sa inyong mga tribo.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "at kinuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ulo ng inyong mga tribo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "ng inyong mga tribo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mga marurunong"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "at mga kilala"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "at inihalal ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "bilang mga ulo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa ibabaw ninyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo ng"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "at mga pangulo ng"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "at mga pangulo ng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "at mga pangulo ng"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "at mga opisyal"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "para sa inyong mga tribo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.029035138Z",
+  "model": "glm-5.3"
+}

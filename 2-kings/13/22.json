@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At si Chaza-el na hari ng Aram ay nanindak sa ⟨את⟩ Israel sa lahat ng mga araw ni Yehoachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "at si Chaza-el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nanindak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoachaz"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:33.255772999Z",
+  "model": "glm-5.3"
+}

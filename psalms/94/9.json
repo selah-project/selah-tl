@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Ang nagtanim ng tainga, hindi ba siya nakaririnig? O ang humubog ng mata, hindi ba siya nakakakita?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ang nagtanim"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tainga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nakaririnig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "humubog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "nakakakita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:10.073202502Z",
+  "model": "glm-5.3"
+}

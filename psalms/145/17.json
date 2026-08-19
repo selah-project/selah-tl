@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Matuwid si Yahweh sa lahat ng ⟨kanyang⟩ mga daan, at maawain sa lahat ng ⟨kanyang⟩ mga gawa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "mga daan niya"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "at maawain"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mga gawa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:33.776753047Z",
+  "model": "glm-5.3"
+}

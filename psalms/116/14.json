@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Ang aking mga nazar ay babayaran ko kay Yahweh, sa harap nga ng buong kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "aking mga nazar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "babayaran ko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:57.250070387Z",
+  "model": "glm-5.3"
+}

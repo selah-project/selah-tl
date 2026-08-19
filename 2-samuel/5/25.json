@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ginawa ni David ang gayon, kung paanong iniutos sa kanya ni Yahweh, at sinaktan niya ang ⟨את⟩ mga Filisteo mula sa Geva hanggang sa iyong pagdating sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "iniutos sa kanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Filisteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Filisteo"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "mula sa Geva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "iyong pagdating"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:07.291980372Z",
+  "model": "glm-5.3"
+}

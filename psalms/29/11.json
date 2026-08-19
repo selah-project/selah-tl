@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Si Yahweh ay magbibigay ng lakas sa Kanyang bayan; si Yahweh ay magpapalain ang ⟨את⟩ Kanyang bayan ng kapayapaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lakas"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa Kanyang bayan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magpapalain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Kanyang bayan"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ng kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:00.949853740Z",
+  "model": "glm-5.3"
+}

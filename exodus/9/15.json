@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ngayon, ipinadala ko na ang ⟨את⟩ aking kamay at sasaktan kita ⟨את⟩ ⟨אותך⟩ at ang ⟨את⟩ iyong bayan ng salot, at matutupok ka mula sa lupa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ipinadala ko na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking kamay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aking kamay"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "at sasaktan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "ka (ikaw)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ng salot"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "at matutupok ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:02.705200579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang mga labi ng matuwid ay nagpapakain sa marami, ngunit ang mga hangal sa kakulangan ng puso ay mamamatay.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "mga labi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "nagpapakain"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sa marami"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "ngunit ang mga hangal"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "sa kakulangan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ng puso"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:06.371628144Z",
+  "model": "glm-5.3"
+}

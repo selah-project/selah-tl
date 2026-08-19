@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ginawa niya ang ⟨את⟩ portiko ng mga haligi: limampung siko ang haba nito at tatlumpung siko ang luwang nito; at ⟨is⟩ may portiko sa harapan nila, at mga haligi at makapal na balangkas sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "portiko"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "portiko"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ng mga haligi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampung"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpung"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang luwang nito"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "at portiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "harapan nila"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "at mga haligi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "at makapal na balangkas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:24.590699478Z",
+  "model": "glm-5.3"
+}

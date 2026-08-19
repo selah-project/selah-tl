@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sinaktan niya ang ⟨את⟩ Moab, at naging mga alipin ang mga Moabita kay David, tagapagdala ng minchah na handog.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Sinaktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang mga Moabita"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "tagapagdala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah na handog"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:50.130023388Z",
+  "model": "glm-5.3"
+}

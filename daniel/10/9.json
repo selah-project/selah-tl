@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At narinig ko ang ⟨את⟩ tinig ng kaniyang mga salita; at nang marinig ko ang ⟨את⟩ tinig ng kaniyang mga salita, ako ay naging tulog na malalim sa aking mukha, at ang aking mukha ⟨ay⟩ nasa lupa.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "at narinig ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ng kaniyang mga salita"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "at nang marinig ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ng kaniyang mga salita"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tulog na malalim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aking mukha"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at ang aking mukha"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nasa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:10:12.744144528Z",
+  "model": "glm-5.3"
+}

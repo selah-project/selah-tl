@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At nagselos sila kay Moshe sa kampo, at kay Aharon, banal ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "nagselos"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:16.381475591Z",
+  "model": "glm-5.3"
+}

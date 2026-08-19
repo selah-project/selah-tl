@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Sa aking likod nag-araro ang mga mag-aararo, pinalawig nila ang kanilang mga guhit ng araro.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "aking likod"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "nag-araro"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ang mga mag-aararo"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "pinalawig nila"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ang kanilang mga guhit ng araro"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.583919941Z",
+  "model": "glm-5.3"
+}

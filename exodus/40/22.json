@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At inilagay niya ang ⟨את⟩ mesa sa tolda ng kapisanan, sa gilid ng ⟨the⟩ tabernakulo sa dakong hilaga, sa labas ng ⟨the⟩ tabing.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "inilagay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sa dakong hilaga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ng tabing"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:39.129256319Z",
+  "model": "glm-5.3"
+}

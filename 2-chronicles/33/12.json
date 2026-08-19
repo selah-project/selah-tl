@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At nang maipit siya, nagpakaawa siya sa harap ⟨את⟩ ni Yahweh na kanyang Elohim, at nagpakababa nang lubos sa harap ng Elohim ng kanyang mga ama.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "at nang maipit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nagpakaawa siya sa harap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukha\/harap ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang mukha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "na kanyang Elohim"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "at nagpakababa nang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:03.790344417Z",
+  "model": "glm-5.3"
+}

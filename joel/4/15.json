@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang araw at ang buwan ay dumilim, at ang mga bituin ay nagbawi ng kanilang ningning.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "at ang buwan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "ay dumilim"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "at ang mga bituin"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ay nagbawi"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ng kanilang ningning"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:53.544426748Z",
+  "model": "glm-5.3"
+}

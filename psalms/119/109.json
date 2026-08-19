@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang aking נפש ay nasa aking palad na parati, ngunit ang iyong torah ay hindi ko nakalimutan.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "sa aking palad"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "parati"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ngunit ang iyong torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nakalimutan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:12.691081793Z",
+  "model": "glm-5.3"
+}

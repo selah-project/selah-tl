@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 141,
+  "translation": "Huwag mong pabalingin ang aking puso sa masamang bagay, sa paggawa ng mga gawa sa kasamaan na kasama ⟨את⟩ mga taong gumagawa ng kasamaan; at huwag na huwag ako kakain ng kanilang mga kasiyahan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תט",
+      "gloss": "pabalingin mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa bagay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "sa paggawa"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "mga gawa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga taong gumagawa ng kasamaan"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "at huwag na huwag"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ako kakain"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ng kanilang mga kasiyahan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:51.780999362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": " sapagkat humapdi ang aking puso, at ang aking mga bato ay tinusok",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "humapdi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "at ang aking mga bato"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "tinusok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:53.527807653Z",
+  "model": "glm-5.3"
+}

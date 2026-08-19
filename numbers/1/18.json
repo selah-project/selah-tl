@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At pinagsama nila ang ⟨את⟩ buong kongregasyon sa unang araw ng ikalawang buwan, at nagpapahayag sila ng kanilang lahi ayon sa kanilang mga angkan, sa bahay ng kanilang mga ama, sa bilang ng mga pangalan, mula sa edad na dalawampung taon pataas, ayon sa kanilang mga ulo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "buong kongregasyon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "pinagsama"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa unang araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "nagpapahayag ng lahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "kanilang mga angkan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa bilang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ng mga pangalan"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mula sa edad na"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "pataas"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ayon sa kanilang mga ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:59.468541676Z",
+  "model": "glm-5.3"
+}

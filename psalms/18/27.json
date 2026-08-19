@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sa ⟨ang⟩ malilinis, magpapakalinis ka; at sa ⟨ang⟩ baluktutin, magpapakabaluktot ka.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "malilinis"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "magpapakalinis ka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "baluktutin"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "magpapakabaluktot ka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:45.681096932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari sa katapusan ng dalawampung taon, nang itinayo ni Shelomoh ang ⟨את⟩ bahay ni Yahweh at ang ⟨את⟩ kaniyang sariling bahay,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ng dalawampung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kaniyang sariling bahay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang sariling bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:35.899238566Z",
+  "model": "glm-5.3"
+}

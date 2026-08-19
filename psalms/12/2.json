@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Iligtas mo, Yahweh, sapagkat napawi na ⟨ang⟩ banal, sapagkat naglaho na ang mga tapat sa mga anak ⟨ng⟩ tao.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Iligtas mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "napawi na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "⟨ang⟩ banal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "naglaho na"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ang mga tapat"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨ng⟩ tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:16.738510963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At nagsabi ang mga lalaki ni David sa kaniya: Narito, kami rito sa Yehudah ay nangangamba; at magkano pa kung pupunta kami sa Keilah, sa mga hanay ng mga Pelishtey?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaki ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "nangangamba"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "at magkano pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "pupunta kami"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mga hanay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Pelishtey"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:30.485552976Z",
+  "model": "glm-5.3"
+}

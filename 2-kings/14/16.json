@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At natulog si Yehoash kasama ng kanyang mga ninuno, at inilibing siya sa Shomron kasama ng mga hari ng Israel, at humari si Yarovam na kanyang anak sa kanyang kahalili.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "at natulog siya"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ninuno"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing siya"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at humari"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "si Yarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kanyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang kahalili"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:32.480073804Z",
+  "model": "glm-5.3"
+}

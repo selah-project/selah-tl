@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Dakila si Adonai naming Panginoon, at napakalakas sa lakas; sa Kanyang unawa ay walang bilang.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dakila"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "si Adonai naming Panginoon"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at napakalakas"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa lakas"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "sa Kanyang unawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.937262126Z",
+  "model": "glm-5.3"
+}

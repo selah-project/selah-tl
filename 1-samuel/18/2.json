@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kinuha siya ni Shaul sa araw na yaon, at hindi niya hinayaang magbalik sa bahay ng kaniyang ama.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "At kinuha siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "niya hinayaan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "na magbalik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:32.125015090Z",
+  "model": "glm-5.3"
+}

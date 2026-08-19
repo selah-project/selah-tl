@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Manatili silang ⟨⟨nakikita⟩⟩ sa harap ni Yahweh nang walang hanggan, upang lipulin niya ang kanilang alaala mula sa lupa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "manatili sila"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang walang hanggan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "at lipulin niya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang kanilang alaala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:19.974815152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At dadalhin ng saserdote ⟨ito⟩ sa altar, at pipigtisin ang ⟨את⟩ ulo nito, at susunugin sa altar; at aalisin ang dugo nito sa dingding ng altar.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "At dadalhin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "at pipigtisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo nito"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang ulo nito"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "at susunugin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa altar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "at aalisin"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang dugo nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dingding"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:20.661726107Z",
+  "model": "glm-5.3"
+}

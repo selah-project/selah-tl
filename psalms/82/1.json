@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 82,
+  "translation": "Mizmór ni Asaf. Nagtatayuan si Elohim sa kapisanan ni El; sa gitna ng mga elohim naghahatol ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmór"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nagtatayuan"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa kapisanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng mga elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "naghahatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:00.161921377Z",
+  "model": "glm-5.3"
+}

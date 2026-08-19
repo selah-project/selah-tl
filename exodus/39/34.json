@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ⟨את⟩ pantakip na gawa sa mga balat ng mga tupang pinula, at ⟨את⟩ pantakip na gawa sa mga balat ng tachash, at ⟨את⟩ kurtinang panghadlang ng tabing.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pantakip na balat ng mga tupang pinula"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pantakip"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "balat ng"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ang mga tupa"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "pinula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pantakip na balat ng tachash"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pantakip"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "balat ng"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kurtinang panghadlang ng tabing"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kurtinang panghadlang"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ng tabing"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:33.512191311Z",
+  "model": "glm-5.3"
+}

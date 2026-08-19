@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At hindi inilipat ni David ang ⟨את⟩ kaban sa kaniya, sa lungsod ni David, kundi iniiligay ito sa bahay ni Obed-Edom na Giteo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "inilipat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "⟨ang⟩ kaban"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "kundi iniiligay ito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "⟨ang⟩ Giteo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:15.829869024Z",
+  "model": "glm-5.3"
+}

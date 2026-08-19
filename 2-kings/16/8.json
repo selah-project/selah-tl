@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Kinuha ni Achaz ang ⟨את⟩ pilak at ang ⟨את⟩ ginto na natagpuan sa bahay ni Yahweh at sa mga imbakan ng bahay ng hari, at ipinadala bilang suhol sa hari ng Ashur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Kinuha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "na natagpuan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "at sa mga imbakan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at ipinadala"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bilang suhol"
+    }
+  ],
+  "timestamp": "2026-08-19T16:47:44.839501571Z",
+  "model": "glm-5.3"
+}

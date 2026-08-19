@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Tunay na laban sa akin siya nagbalik; kanyang ibinabalik-balik ang kanyang kamay buong araw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tunay na"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ibinabalik-balik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:08.860164548Z",
+  "model": "glm-5.3"
+}

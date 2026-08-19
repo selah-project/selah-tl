@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "papadala ang mga matanda ng kanyang lungsod at kunin siya ⟨את⟩ mula roon, at ibibigay nila siya ⟨את⟩ sa kamay ng goel ng dugo, at siya'y mamamatay.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "papadala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga matanda ng"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kanyang lungsod"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "at kunin siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya mula roon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "at ibibigay nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya sa kamay ng goel ng dugo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay ng"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at siya'y mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:27.667292895Z",
+  "model": "glm-5.3"
+}

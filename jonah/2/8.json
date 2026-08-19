@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Nang mupi ang aking buhay sa loob ko, naalala ko ⟨את⟩ si Yahweh; at dumating sa iyo ang aking dalangin, sa ⟨ang⟩ templo ng iyong kabanalan.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "nang mupi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "naalala ko"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking dalangin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ng iyong kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:53.610912739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Ako'y nagsabi: Yahweh, maawa ka sa akin; pagmulain mo ang aking kaluluwa, sapagkat nagkasala ako sa ⟨iyong⟩ harapan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsabi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "pagmulain mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagkasala ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa ⟨iyong⟩ harapan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:47.761213197Z",
+  "model": "glm-5.3"
+}

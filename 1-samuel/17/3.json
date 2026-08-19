@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang mga Pelishtey ay nakatayo sa bundok sa ganoong side, at si Yisra'el ay nakatayo sa bundok sa kabila, at ang libis ay nasa pagitan nila.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ang mga Pelishtey"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa ganoong side"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "si Yisra'el"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa kabila"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "ang libis"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "sa pagitan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:58.760147934Z",
+  "model": "glm-5.3"
+}

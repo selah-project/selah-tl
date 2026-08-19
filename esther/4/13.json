@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipinabalik ni Mordecai ang sagot kay Ester: Huwag mong isipin sa iyong sarili na makakatakas ka sa bahay ng hari, higit sa lahat ng mga Yahudi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at ipinabalik ang sagot"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordecai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "upang isauli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "isipin"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "sa iyong sarili"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "makatakas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat ng"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "mga Yahudi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:38.464666057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Naalaala ko ang mga araw ng unang panahon; binubulong-kaparaanan ko ang lahat ng gawa mo; sa gawa ng iyong mga kamay ako ay naglilimi.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "naalaala ko"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ng unang panahon"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "binubulong-kaparaanan ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "gawa mo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sa gawa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ng iyong mga kamay"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "naglilimi ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:33.620264597Z",
+  "model": "glm-5.3"
+}

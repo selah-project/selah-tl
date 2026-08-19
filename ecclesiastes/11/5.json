@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Kung paanong hindi mo alam ang daan ng hangin, o ang mga buto sa tiyan ng babaeng nagbubuntis, gayundin hindi mo malalaman ang ⟨את⟩ gawa ng Elohim na gumagawa ng ⟨את⟩ lahat.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "hindi mo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "alam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ng hangin"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "o ang mga buto"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ng babaeng nagbubuntis"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "mo malalaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ng lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:34.567207756Z",
+  "model": "glm-5.3"
+}

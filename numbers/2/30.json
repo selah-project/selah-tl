@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "at ang hukbo niya, at ang mga bilangin nila: tatlo at limampung libo at apat na raan.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "at ang hukbo niya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "at ang mga bilangin nila"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "at limampung"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "at apat na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "raan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:29.603947290Z",
+  "model": "glm-5.3"
+}

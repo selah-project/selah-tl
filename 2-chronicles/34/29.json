@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At nagpadala ang hari, at pinagsama-sama niya ang ⟨את⟩ lahat ng mga matanda ng Yehudah at Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinagsama-sama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga matanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:02.653067956Z",
+  "model": "glm-5.3"
+}

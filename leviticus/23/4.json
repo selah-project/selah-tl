@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ang mga ito ang mga itinalagang panahon ni Yahweh, mga banal na pagtitipon, na tatawagin ninyo ang ⟨את⟩ mga ito sa kanilang itinalagang panahon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mga itinalagang panahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mga banal na pagtitipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "tatawagin ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga itinalagang panahon"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "sa kanilang itinalagang panahon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:44.904406553Z",
+  "model": "glm-5.3"
+}

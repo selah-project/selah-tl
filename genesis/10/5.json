@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mula sa mga ito, humiwalay ang ⟨mga⟩ pulo ng ⟨mga⟩ bansa sa kanilang mga lupain, bawat isa ayon sa kanyang wika, ayon sa kanilang mga angkan, sa kanilang mga bansa.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Mula sa mga ito"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "humiwalay"
+    },
+    {
+      "surface": "איי",
+      "gloss": "pulo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa kanilang mga lupain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ayon sa kanyang wika"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "sa kanilang mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:37.238997648Z",
+  "model": "glm-5.3"
+}

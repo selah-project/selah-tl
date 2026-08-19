@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Bumangon nang maaga si David — siya at ang kanyang mga lalaki — upang umalis sa umaga at magbalik sa lupain ng mga Filisteo; at ang mga Filisteo ay umahon sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bumangon nang maaga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ang kanyang mga lalaki"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "upang umalis"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "upang magbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Filisteo"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "at ang mga Filisteo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "umahon"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:23.740360134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At naalaala nila na si Elohim ang ⟨ang⟩ kanilang bato, at si El Elyon ang kanilang Manunubos.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "at naalaala nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "⟨ang⟩ kanilang bato"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at si El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ang kanilang Manunubos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:35.617322978Z",
+  "model": "glm-5.3"
+}

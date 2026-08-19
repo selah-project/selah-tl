@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Sapagkat ang aking mga araw ay natapos na gaya ng usok, at ang aking mga buto ay nasunog na gaya ng uling-nasusunog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "natapos na"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "gaya ng usok"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang aking mga araw"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "at ang aking mga buto"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "קד",
+      "gloss": "uling-nasusunog"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "nasunog na"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:19.574391847Z",
+  "model": "glm-5.3"
+}

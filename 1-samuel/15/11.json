@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Nagsisi ako na hinari ko si ⟨את⟩ Shaul na maging hari, sapagkat bumalik siya mula sa likuran ko at ang ⟨את⟩ aking mga salita ay hindi niya itinindig. At sumama ang loob ni Shemuel, at sumigaw siya kay Yahweh buong magdamag.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "nagsisi ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "hinari ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na maging hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mula sa likuran ko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "aking mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "aking mga salita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "itinindig"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "at sumama ang loob"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "kay Shemuel"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "at sumigaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "magdamag"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:32.521631566Z",
+  "model": "glm-5.3"
+}

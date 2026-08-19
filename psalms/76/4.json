@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Doon niya sinira ang mga nagniningas na palaso ng busog — kalasag, at tabak, at digmaan. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sinira"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mga nagniningas na palaso"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ng busog"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "at tabak"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "at digmaan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:17.626964943Z",
+  "model": "glm-5.3"
+}

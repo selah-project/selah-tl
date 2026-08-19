@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At sa mga lungsod ng Menashe, at ng Ephrayim, at ng Shim'on, hanggang sa Naftali, sa kanilang mga guho sa lahat ng dako sa paligid.",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "At sa mga lungsod"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ng Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "at ng Ephrayim"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "at ng Shim'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kanilang mga guho"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "kanilang mga bahay"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T19:37:05.910362059Z",
+  "model": "glm-5.3"
+}

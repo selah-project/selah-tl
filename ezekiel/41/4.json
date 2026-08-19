@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "At sinukat niya ang ⟨את⟩ haba nito — dalawampung siko — at ang lapad, dalawampung siko, sa harap ng templo; at sinabi niya sa akin: Ito ay banal ng mga banal.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "at sinukat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang haba nito"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "na siko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at ang lapad"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "na siko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ng mga banal"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:48.402572329Z",
+  "model": "glm-5.3"
+}

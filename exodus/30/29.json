@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At dadakilain mo sila ⟨את⟩, at magiging banal na banal sila; lahat ng dumidingil sa kanila ay madadakila.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "at dadakilain mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga bagay na ito)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "na banal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ng dumidingil"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ay madadakila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:42.087615014Z",
+  "model": "glm-5.3"
+}

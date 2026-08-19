@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At aking sinabi sa anghel na nagsasalita sa akin: Ano ang mga ito? At sinabi niya sa akin: Ang mga ito ay ⟨is⟩ ang mga sungay na nagkalat ⟨את⟩ Yehudah, ⟨את⟩ Yisrael, at Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at aking sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na nagsasalita"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ang mga ito"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ang mga sungay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "nagkalat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:31.176518354Z",
+  "model": "glm-5.3"
+}

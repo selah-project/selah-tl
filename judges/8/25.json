@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi nila: Ibibigay namin, ibibigay nga. At kumalat sila ng ⟨את⟩ balahibo, at doon naghagis ang bawat lalaki ng hikaw ng kanyang samsam.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibibigay nga"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "at kumalat sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balahabo"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "ang balahabo"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "at naghagis sila"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "hikaw"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "ng kanyang samsam"
+    }
+  ],
+  "timestamp": "2026-08-19T15:50:32.397291980Z",
+  "model": "glm-5.3"
+}

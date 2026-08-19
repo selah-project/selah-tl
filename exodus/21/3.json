@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Kung mag-isa siyang pumasok, mag-isa siyang lalabas; kung may asawa siya, ang kaniyang asawa ay lalabas kasama niya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mag-isa siya"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mag-isa siya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "may asawa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang kaniyang asawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:55.763308586Z",
+  "model": "glm-5.3"
+}

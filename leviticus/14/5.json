@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At utosuhin ng kohen, at katayin ang ⟨את⟩ ibong isa, sa sisidlan ng putik, sa ibabaw ng tubig na buhay.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "at utosuhin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "at katayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibong isa"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sisidlan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ng putik"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:15.965815012Z",
+  "model": "glm-5.3"
+}

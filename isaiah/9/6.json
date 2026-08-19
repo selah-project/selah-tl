@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 9:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sa pagpapalaki ng pamahalaan at sa kapayapaan walang katapusan, sa trono ni David at sa kaniyang kaharian, upang itatag ⟨את⟩ ito at upang suportahan ito sa katarungan at sa katuwiran, mula ngayon at magpakailanman; ang selos ni Yahweh Tzevaot ang gagawa nito.",
+  "tokens": [
+    {
+      "surface": "לםרבה",
+      "gloss": "sa pagpapalaki"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "ng pamahalaan"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "at sa kapayapaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "kaniyang kaharian"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "upang itatag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kaniyang kaharian)"
+    },
+    {
+      "surface": "ולסעדה",
+      "gloss": "at upang suportahan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa katarungan"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "at sa katuwiran"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mula ngayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang selos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:58.996778503Z",
+  "model": "glm-5.3"
+}

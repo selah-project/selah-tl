@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinabi niya kay Avraham: Palayasin mo ang aliping babaeng ito at ⟨את⟩ kaniyang anak, sapagkat hindi mamamana ang anak ng aliping babaeng ito na kasama ng aking anak, na kasama ni Yitshak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "palayasin mo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ang aliping babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ang ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang anak"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kaniyang anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mamamana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ng aliping babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ang ito"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na kasama ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na kasama ni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:38.266547399Z",
+  "model": "glm-5.3"
+}

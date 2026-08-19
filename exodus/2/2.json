@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagdadalantao ang babae, at nanganak ng isang anak na lalaki; at nakita niya na siya ay mabuti, kaya't itinago niya siya nang tatlong buwan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "at nagdadalantao"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang bata)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "kaya't itinago niya siya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "buwan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:03.992675432Z",
+  "model": "glm-5.3"
+}

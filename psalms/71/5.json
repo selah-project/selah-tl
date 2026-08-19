@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Sapagkat ikaw ang aking pag-asa, Adonai Yahweh, ang aking pagtitiwala mula sa aking kabataan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "aking pag-asa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "aking pagtitiwala"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "mula sa aking kabataan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.143209396Z",
+  "model": "glm-5.3"
+}

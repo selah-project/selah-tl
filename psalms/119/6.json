@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Kung gayon hindi ako mamumula sa pagtingin ko sa lahat ng iyong mga utos.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kung gayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mamumula (mamahiya)"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "sa pagtingin ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iyong mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:26.631869056Z",
+  "model": "glm-5.3"
+}

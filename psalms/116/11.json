@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Ako'y nagsabi sa aking pagmamadali: ang bawat tao ay sinungaling.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "sa aking pagmamadali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ay sinungaling"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:21.660108946Z",
+  "model": "glm-5.3"
+}

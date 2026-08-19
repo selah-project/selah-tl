@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Ngunit ako nga, aking sinabi sa aking pagmamadali, Napaghiwalay na ako mula sa harap ng iyong mga mata; gayon man, dininig Mo ang tinig ng aking mga pamamanalangin, sa aking pagsigaw sa iyong kakailanganin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngunit ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "sa aking pagmamadali"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "Napaghiwalay na ako"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mula sa harap"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ng iyong mga mata"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "gayon man"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dininig Mo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ng aking mga pamamanalangin"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "sa aking pagsigaw"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:48.573276348Z",
+  "model": "glm-5.3"
+}

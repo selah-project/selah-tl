@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit ang kaban ng Elohim ay pinaitaas ni David mula sa Kiryat-Ye'arim — inihanda ito ni David, sapagkat nagtayo siya ng tolda para rito sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ay pinaitaas"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "mula sa Kiryat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Ye'arim"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "inihanda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ito"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nagtayo \/ naglatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:27:14.085551711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Huwag ninyong igagas ang inyong puso gaya ng sa Meriva, gaya ng araw ng Massa sa ilang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ninyong igagas"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ang inyong puso"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "gaya ng sa Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "gaya ng araw"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ng Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:02.275022870Z",
+  "model": "glm-5.3"
+}

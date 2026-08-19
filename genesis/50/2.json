@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At iniutos ni Yosef sa ⟨את⟩ kaniyang mga alipin, sa ⟨את⟩ mga manggagamot, na balutin ng kabanlawan ang ⟨את⟩ kaniyang ama; at binalutan ng kabanlawan ng mga manggagamot ang ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga manggagamot"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mga manggagamot"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "na balutin ng kabanlawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang ama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kaniyang ama"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "at binalutan ng kabanlawan"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mga manggagamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:51.700349678Z",
+  "model": "glm-5.3"
+}

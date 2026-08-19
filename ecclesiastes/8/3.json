@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Huwag kang magmadali sa pag-alis sa kanyang harapan; umalis ka; huwag kang tatayo sa masamang bagay, sapagkat ang lahat ng nais niya ay gagawin niya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "magmadali"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa kanyang harapan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "umalis ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa bagay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "nais niya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:00.065624245Z",
+  "model": "glm-5.3"
+}

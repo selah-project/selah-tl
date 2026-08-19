@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Tumingin ka sa gawa ni Elohim, sapagkat sino ang makakayang tumuwid ng ⟨את⟩ kanyang binaluktot?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tumingin ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "sa gawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ang makakayang"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "tumuwid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang binaluktot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kanyang"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "binaluktot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.636113091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nagtanong siya para sa kanya kay Yahweh, at pagkaing ilog ang ibinigay sa kanya, at ⟨את⟩ tabak ni Golyat ang Pelisita ay ibinigay sa kanya.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nagtanong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "pagkaing ilog"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tabak ni Golyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ni Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Pelisita"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:08.321859639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagka't ang araw man ay hindi nito nakita, at hindi nito nakilala — higit na kapahingahan ⟨ang ganito⟩ kaysa ⟨sa gayon⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "man"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapahingahan"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ang ganito"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kaysa sa gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:22.217447393Z",
+  "model": "glm-5.3"
+}

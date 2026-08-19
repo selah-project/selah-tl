@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At binasbasan ni Eli ang ⟨את⟩ Elkanah at ⟨את⟩ ang kaniyang asawa, at nagsabi: Itatakda ni Yahweh sa iyo ang binhi mula sa babaeng ito, bilang kahalili ng hininging ipinakiusap kay Yahweh. At sila'y umuwi sa kanilang lugar.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "At binasbasan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ang Elkanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kaniyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang kaniyang asawa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "Itatakda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babaeng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bilang kahalili"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "ng hiningi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ipinakiusap"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "At sila'y umuwi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sa kanilang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:23.103619579Z",
+  "model": "glm-5.3"
+}

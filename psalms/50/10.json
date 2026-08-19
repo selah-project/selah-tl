@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Sapagkat sa akin ang lahat ng hayop ng gubat, ⟨at⟩ ang mga hayop sa libu-libong bundok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa-akin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "hayop-ng"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mga-hayop"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sa-mga-bundok-ng"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.010502428Z",
+  "model": "glm-5.3"
+}

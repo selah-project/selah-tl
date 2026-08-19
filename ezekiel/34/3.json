@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ang ⟨את⟩ taba ay kinakain ninyo, at ang ⟨את⟩ balahibo ay isinusuot ninyo, ang ⟨the⟩ ginatabaan ay iniihay ninyo, ngunit ang kawan ay hindi ninyo pinapastol.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kinakain ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "balahibo"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "balahibo"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "isinusuot ninyo"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ang ginatabaan"
+    },
+    {
+      "surface": "תזבחu",
+      "gloss": "iniihay ninyo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pinapastol ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:49:56.069101957Z",
+  "model": "glm-5.3"
+}

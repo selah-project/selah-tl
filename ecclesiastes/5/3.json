@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Kapag nagtatalaga ka ng panata kay Elohim, huwag mong patagalin ang pagtupad nito, sapagkat walang kasiyahan sa mga hangal; ⟨את⟩ ang iyong tinatalaga ay tuparin mo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nagtatalaga ka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "panata"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "patagalin"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ang pagtupad nito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kasiyahan"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "sa mga hangal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong tinatalaga (אשר תדר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "iyong tinatalaga"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tuparin mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:56.593273452Z",
+  "model": "glm-5.3"
+}

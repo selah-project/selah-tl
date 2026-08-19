@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At pagkatapos, lumabas ang kaniyang kapatid na ⟨may⟩ pulang sinulid sa kaniyang kamay; at tinawag ang kaniyang pangalan na Zerach.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "At pagkatapos"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang kaniyang kapatid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na ⟨may⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kaniyang kamay"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨ang pulang sinulid⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kaniyang pangalan"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:54.908679253Z",
+  "model": "glm-5.3"
+}

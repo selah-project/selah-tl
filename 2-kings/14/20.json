@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At dinala nila ⟨את⟩ siya sa mga kabayo, at inilibing siya sa Yerushalayim kasama ng kanyang mga ama, sa lungsod ni David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "at dinala nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang dinala)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing siya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "kanyang mga ama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:39.742600113Z",
+  "model": "glm-5.3"
+}

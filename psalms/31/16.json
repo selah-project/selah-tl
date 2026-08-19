@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Sa iyong kamay ang aking mga panahon; iligtas mo ako mula sa kamay ng aking mga kaaway at sa mga nag-uusig sa akin.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "ang aking mga panahon"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ng aking mga kaaway"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "at sa mga nag-uusig sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.255424143Z",
+  "model": "glm-5.3"
+}

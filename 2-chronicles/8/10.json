@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ito ang mga pinuno ng natzibim na kay Haring Shelomoh — dalawanda't lima — na namamahala sa bayan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pinuno"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "ng mga natzib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kay"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "at dalawandaan"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "na namamahala"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:41.085552429Z",
+  "model": "glm-5.3"
+}

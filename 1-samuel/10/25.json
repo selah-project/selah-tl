@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At si Shemuël ay nagsalita sa bayan ng ⟨את⟩ batas ng paghahari, at isinulat sa aklat, at inilagay sa harapan ni Yahweh; at pinaalis ni Shemuël ang ⟨את⟩ buong bayan, bawat isa sa kaniyang bahay.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batas ng paghahari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "batas"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ng paghahari"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "at isinulat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa aklat"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at pinaalis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa kaniyang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:59.758263991Z",
+  "model": "glm-5.3"
+}

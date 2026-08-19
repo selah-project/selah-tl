@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nagbunot ang buong bayan ng ⟨את⟩ mga hikaw ng ginto na nasa kanilang mga tainga, at dinala kay Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "at nagbunot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hikaw ng ginto"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "mga hikaw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "sa kanilang mga tainga"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "at nagdala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:26.659946301Z",
+  "model": "glm-5.3"
+}

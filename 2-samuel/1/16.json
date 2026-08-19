@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni David sa kanya: Nasa iyong ulo ang iyong dugo, sapagkat ang iyong sariling bibig ang sumaksi laban sa iyo, na nagsasabi: Ako ang pumatay ng ⟨את⟩ Mashíaj ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ang iyong dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "iyong ulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang iyong bibig"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "sumaksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ang pumatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíaj ni Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:37.664749185Z",
+  "model": "glm-5.3"
+}

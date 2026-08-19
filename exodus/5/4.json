@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sinabi sa kanila ng hari ng Ehipto: Bakit ninyo, Moshe at Aharon, pinakawalan ang ⟨את⟩ bayan sa mga gawa nito? Pumunta na kayo sa inyong mga pasanin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ehipto"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "pinakawalan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "sa mga gawa nito"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pumunta na kayo"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "sa inyong mga pasanin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:53.831832094Z",
+  "model": "glm-5.3"
+}

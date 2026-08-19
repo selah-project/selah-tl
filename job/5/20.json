@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sa taggutom, tatubusin ka niya mula sa kamatayan, at sa digmaan mula sa mga kamay ng tabak.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "sa taggutom"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "tatubusin ka niya"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mula sa kamatayan"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "at sa digmaan"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mula sa mga kamay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ng tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:47:01.001010845Z",
+  "model": "glm-5.3"
+}

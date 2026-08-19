@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At kaniyang inialis doon ang ⟨את⟩ mga buto ni Sha'ul at ang ⟨את⟩ mga buto ni Yehonatan na kaniyang anak; at tinipon nila ang ⟨את⟩ mga buto ng mga ibinitin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "at kaniyang inialis"
+    },
+    {
+      "surface": "משם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga buto ni Sha'ul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga buto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga buto ni Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga buto"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "at tinipon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga buto ng mga ibinitin"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga buto"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "ng mga ibinitin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:07.013003426Z",
+  "model": "glm-5.3"
+}

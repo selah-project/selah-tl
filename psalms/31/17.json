@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Yahweh, pagningasin ang iyong mukha sa iyong lingkod; iligtas mo ako sa iyong kabutihan.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "pagningasin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong lingkod"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sa iyong kabutihan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:43.771834305Z",
+  "model": "glm-5.3"
+}

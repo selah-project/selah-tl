@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At bumaba si Yahweh upang makita ang ⟨את⟩ lungsod at ang ⟨את⟩ tore na itinayo ng mga anak ng tao.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang tore"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ang tore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:32.190338942Z",
+  "model": "glm-5.3"
+}

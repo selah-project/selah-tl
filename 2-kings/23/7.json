@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At winasak niya ang ⟨את⟩ mga bahay ng mga qadeshim na nasa bahay ni Yahweh, kung saan nagsusulid doon ang mga babae ng mga tolda para kay Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "winasak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bahay ng mga qadeshim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ng mga qadeshim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babae"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "nagsusulid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga tolda"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "para kay Asherah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:19.353199239Z",
+  "model": "glm-5.3"
+}

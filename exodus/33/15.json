@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At kaniyang sinabi sa kaniya: Kung ang iyong mga pananalat ay hindi lalakad, huwag mo kaming ipaahon mula dito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mga pananalat"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ay lalakad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "mo kaming ipaahon"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mula dito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:18.775160885Z",
+  "model": "glm-5.3"
+}

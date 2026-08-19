@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At hinilig niya ang ⟨את⟩ puso ng bawat lalaki ng Yehuda na parang isang lalaki, at nagsugo sila sa hari: Magbalik ikaw at ang lahat ng iyong mga alipin.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "at hinilig niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ng bawat lalaki ng Yehuda"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "na parang isang lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "at nagsugo sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iyong mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:58.888122115Z",
+  "model": "glm-5.3"
+}

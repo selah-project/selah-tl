@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Hindi humihiwalay ang haligi ng ulap sa araw, ni ang haligi ng apoy sa gabi, sa harap ng bayan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "humihiwalay"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ang haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ng ulap"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ni ang haligi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayar"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:50.635522130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Maraming araw na nagdigma si Yehoshua laban sa ⟨את⟩ lahat ng mga hari na ito.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagdigma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "digmaan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:53.598464492Z",
+  "model": "glm-5.3"
+}

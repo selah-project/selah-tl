@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 25:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ang pangalan ng lalaki ay Nabal, at ang pangalan ng kaniyang asawa ay Avigayil; at ang babae ay mabuti ang ulo at maganda ang anyo, ngunit ang lalaki ay matigas at masama sa mga gawa; at siya ay kalebita.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ng lalaki"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ng kaniyang asawa"
+    },
+    {
+      "surface": "אבגיל",
+      "gloss": "Avigayil"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "at ang babae"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "at maganda"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ang anyo"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "matigas"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "at masama"
+    },
+    {
+      "surface": "מעללים",
+      "gloss": "sa mga gawa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "כלבו",
+      "gloss": "kalebita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:55.678861539Z",
+  "model": "glm-5.3"
+}

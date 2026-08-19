@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 93,
+  "translation": "Nakatayo na ang trono mo mula noon, mula sa walang hanggan ikaw.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "nakatayo\/natatag"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ang trono mo"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "mula noon"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "mula sa walang hanggan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:32.689984980Z",
+  "model": "glm-5.3"
+}

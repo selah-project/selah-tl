@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang inyong kawan ay kukuhanan niya ng ikasampu, at kayo'y magiging mga alipin niya.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "ang inyong kawan"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "kukuhanan niya ng ikasampu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "at kayo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.932012849Z",
+  "model": "glm-5.3"
+}

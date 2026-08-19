@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At dinala nila ang ⟨את⟩ kaban ni Elohim at inilagay ⟨את⟩ ito sa gitna ng toldang itinayo ni David; at naghandog sila ng mga handog na susunugin at mga handog na kapayapaan sa harapan ni Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "dinala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang kaban)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para dito"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "naghandog sila"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mga handog na susunugin"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "mga handog na kapayapaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:14.658123032Z",
+  "model": "glm-5.3"
+}

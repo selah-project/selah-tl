@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Minahal mo ang katuwiràn at kinamuhian mo ang kasamaan; kaya pinahiran ka ng Elohim, ng iyong Elohim, ng langis ng kagalakan higit sa iyong mga kapanalig.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "minahal mo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang katuwiràn"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "at kinamuhian mo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "pinahiran ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ng kagalakan"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "higit sa iyong mga kapanalig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:56.172793693Z",
+  "model": "glm-5.3"
+}

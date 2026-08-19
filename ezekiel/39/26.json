@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 39:26",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At dadalhin nila ang ⟨את⟩ kanilang kahihiyan at ang ⟨את⟩ lahat ng kanilang pagtataksil na tinalaksil nila laban sa akin, kapag tumitira sila sa kanilang lupa nang tiwasay at walang nanggugulantang.",
+  "tokens": [
+    {
+      "surface": "ונשו",
+      "gloss": "dadalhin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kahihiyan"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "kanilang kahihiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kanilang pagtataksil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מעלם",
+      "gloss": "kanilang pagtataksil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "tinalaksil nila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "בשבתם",
+      "gloss": "kapag tumitira sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "kanilang lupa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nang tiwasay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "nanggugulantang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:52:43.712603320Z",
+  "model": "glm-5.3"
+}

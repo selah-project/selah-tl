@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ito ang mga pinagmulan nina Aharon at Moshe, sa araw na nagsalita si Yahweh kay ⟨את⟩ Moshe sa bundok ng Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga pinagmulan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "at Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ng Sinai"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:06.906560889Z",
+  "model": "glm-5.3"
+}

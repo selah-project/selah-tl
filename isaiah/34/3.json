@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At ang kanilang mga patay ay itatapon, at ang amoy ng kanilang mga bangkay ay aahon, at matutunaw ang mga bundok dahil sa kanilang dugo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "At ang kanilang mga patay"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ay itatapon"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "at ang kanilang mga bangkay"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ay aahon"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ang amoy (ng bangkay)"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "at matutunaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "dahil sa kanilang dugo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:55.351326776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At inilagay ko roon ang ⟨את⟩ kaban, na doon ang tipan ni Yahweh, na kanyang tinipan sa mga anak ng Israel.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "at inilagay ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaban"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang kaban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tinipan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:42.566406444Z",
+  "model": "glm-5.3"
+}

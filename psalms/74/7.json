@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 74,
+  "translation": "Nagsugo sila ng apoy sa iyong santuwaryo; sa lupa hinamak nila ang tahanan ng iyong Pangalan.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "nagsugo sila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "sa iyong santuwaryo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "hinamak nila"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ng iyong Pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:59.265178134Z",
+  "model": "glm-5.3"
+}

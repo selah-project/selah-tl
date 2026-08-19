@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ang ⟨את⟩ mga pader ng Yerushalayim sa palibot ay giniba ng buong hukbo ng mga Kasdi na nasa kay rab-tabbachim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga pader ng Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "giniba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ng mga Kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na nasa kay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabbachim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:41.503114438Z",
+  "model": "glm-5.3"
+}

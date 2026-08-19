@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 100,
+  "translation": "Alamin ninyo na si Yahweh ⟨ay⟩ Elohim; siya ang gumawa sa atin at hindi tayo ⟨ang gumawa sa ating sarili⟩; ⟨ang⟩ kanyang bayan at kawan ng kanyang pastulan.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Alamin ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ay⟩ siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ang gumawa sa atin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "tayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨ang⟩ kanyang bayan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "at kawan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ng kanyang pastulan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.930770156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Nang maglaban siya laban sa ⟨את⟩ Aram-Naharaim at sa ⟨את⟩ Aram-Tsoba, at bumalik si Yoav at sinaktan ang ⟨את⟩ Edom sa libis ng asin — labindalawang libo",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Nang maglaban siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at sinaktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ng asin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-nawal"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:26.680429158Z",
+  "model": "glm-5.3"
+}

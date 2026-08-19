@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ipahayag mong mga salarin, O Elohim; mahulog sila dahil sa kanilang mga payo; itaboy sila sa kasaganaan ng kanilang mga paghihimagsik, sapagkat naghimagsik sila laban sa iyo.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Ipahayag mong mga salarin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mahulog sila"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "dahil sa kanilang mga payo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "ng kanilang mga paghihimagsik"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "itaboy sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "naghimagsik sila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "laban sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:13.489513130Z",
+  "model": "glm-5.3"
+}

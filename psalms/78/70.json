@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At pumili siya kay David na kaniyang alipin, at kinuha ⟨niya⟩ siya mula sa mga kulungan ng mga tupa.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "At pumili"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kaniyang alipin"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "at kinuha siya"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "mula sa mga kulungan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng mga tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:21.689299871Z",
+  "model": "glm-5.3"
+}

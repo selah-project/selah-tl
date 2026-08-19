@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang mga lungsod na ibinigay ni Huram kay Shelomoh, itinayo ni Shelomoh ang ⟨את⟩ mga ito, at pinatira doon ang ⟨את⟩ mga anak ni Yisra'el.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Ang mga lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ni Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ang ⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "at pinatira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:35.899471633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nang sumapit ang araw, naghandog si Elkanah, at nagbigay kay Peninah na kanyang asawa, at sa lahat ng kanyang mga anak na lalaki at babae, ng mga bahagi ng handog.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "naghandog"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "at nagbigay"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "kay Peninah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na kanyang asawa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at sa lahat ng"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "at mga anak na babae"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "mga bahagi ng handog"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:36.515099590Z",
+  "model": "glm-5.3"
+}

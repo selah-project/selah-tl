@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai namin, anong kamahalan-hari ng pangalan Mo sa buong lupa, na inilagay Mo ang karangalan Mo sa itaas ng ⟨mga⟩ langit!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai namin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kamahalan-hari"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pangalan Mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "inilagay Mo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "karangalan Mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa itaas ng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.760035288Z",
+  "model": "glm-5.3"
+}

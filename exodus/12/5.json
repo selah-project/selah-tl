@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang inyong kawan ay dapat sakdal, lalaki, anak ng isang taon; mula sa mga tupa o mula sa mga kambing kukunin ninyo ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "kawan (tupa o kambing)"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sakdal"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ng isang taon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ay dapat maging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o mula sa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mga kambing"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kukunin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:01.771477950Z",
+  "model": "glm-5.3"
+}

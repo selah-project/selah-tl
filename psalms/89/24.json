@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At pupukpokin ko ang kanyang mga kaaway sa harap niya, at ang kanyang mga nagngangalit ay sasapakulin ko.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "at pupukpokin ko"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa harap niya"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "kanyang mga kaaway"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "kanyang mga nagngangalit"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "sasapakulin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:56.053644926Z",
+  "model": "glm-5.3"
+}

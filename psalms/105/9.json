@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "na kanyang kinapian ⟨את⟩ Avraham, at ang kanyang panunumpa kay Yitshak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kinapian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "at ang kanyang panunumpa"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kay Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:48.228840378Z",
+  "model": "glm-5.3"
+}

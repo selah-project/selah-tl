@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Magsaya ang Israel sa kanyang Mayo; mga anak ng Tsiyon, magalakan sa kanilang Hari.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Magsaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "sa kanyang Mayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "magalakan"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "sa kanilang Hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.965055354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Si Yahweh ang tagapagbantay mo, si Yahweh ang anino mo sa iyong kanang kamay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ang tagapagbantay mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ang anino mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "iyong kanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:57.680162687Z",
+  "model": "glm-5.3"
+}

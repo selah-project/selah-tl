@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nakita ni Paraoh na may kalunghati na, at pinabigat niya ⟨את⟩ kanyang puso, at hindi nakinig ⟨siya⟩ sa kanila, kung paanong sinalita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "may \/ nangyari"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "kalunghati (pahinga)"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "at pinabigat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang puso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:57.793478502Z",
+  "model": "glm-5.3"
+}

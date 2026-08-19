@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Tumindig ang mga matatanda ng kanyang bahay tungo sa kanya upang buhatin siya mula sa lupa, ngunit ayaw niya, at hindi siya kumain ⟨את⟩ nila ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga matatanda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ng kanyang bahay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tungo sa kanya"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "upang buhatin siya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ayaw siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang kanyang mga kasama sa pagkain)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:13.669429115Z",
+  "model": "glm-5.3"
+}

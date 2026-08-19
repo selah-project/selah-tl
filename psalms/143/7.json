@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Madaliang sagutin mo ako, Yahweh; nalalagas na ang aking espiritu; huwag mong itago ang iyong mukha sa akin, baka ako'y maging katulad ng mga bumababa sa hukay.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "madaliang"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "nalalagas na"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang aking espiritu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "mo itago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "baka ako'y maging katulad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng mga"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sa hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:33.620622827Z",
+  "model": "glm-5.3"
+}

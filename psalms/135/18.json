@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Tulad nila magiging mga gumawa sa kanila — bawat sumasampalataya sa kanila.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "tulad nila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ang mga gumawa sa kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sumasampalataya\/nagtitiwala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:26.539094055Z",
+  "model": "glm-5.3"
+}

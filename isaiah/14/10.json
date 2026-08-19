@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sasagot silang lahat at magsasabi sa iyo: Ikaw man ay naging mahina na katulad namin! Sa amin ay nagging katulad ka!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "sila naming lahat"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at magsasabi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "man \/ kahit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "naging mahina"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "katulad namin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "naging katulad ka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:21.757444566Z",
+  "model": "glm-5.3"
+}

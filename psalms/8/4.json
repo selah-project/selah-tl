@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Pagka nakikita Ko ang ⟨mga⟩ langit Mo, ang mga gawa ng ⟨mga⟩ daliri Mo, ang buwan at ang mga bituin na Itinatag Mo —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pagka"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nakikita Ko"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mga langit Mo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mga gawa ng"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "mga daliri Mo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "buwan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "at ang mga bituin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Itinatag Mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.760328919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Huwag mong ihahain ⟨ang⟩ dugo ng aking hain na kasama ang lebadura, at huwag magpapalagi ang taba ng aking pista hanggang umaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ihahain (maghahain)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na kasama (sa ibabaw ng)"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "lebadura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "aking hain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "magpapalagi (magdadalawang gabi)"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "aking pista"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:02.228864538Z",
+  "model": "glm-5.3"
+}

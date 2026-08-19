@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi ba kung paanong ginawa ko kay Shomeron at sa mga diyos-diyosan nito, gayon din gagawin ko sa Yerushalayim at sa mga nililok nito?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kay Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "at sa mga diyos-diyosan nito"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gagawin ko"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "at sa mga nililok nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:56:12.890742461Z",
+  "model": "glm-5.3"
+}

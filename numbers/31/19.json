@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 31:19",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At kayo'y magkampo sa labas ng kampo nang pitong araw; bawat pumatay ng ⟨isang⟩ kaluluwa at bawat dumampô sa ⟨isang⟩ napatay — magpapadalisay kayo sa ikatlong araw at sa ikapitong araw, kayo at ⟨mga⟩ bihag ninyo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "at kayo"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "magkampo kayo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ng kampo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nang pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pumatay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ng ⟨isang⟩ kaluluwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dumampô"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "sa ⟨isang⟩ napatay"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "magpapadalisay kayo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ng ikatlo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ng ikapito"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ושביכם",
+      "gloss": "at ⟨mga⟩ bihag ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:33.829307197Z",
+  "model": "glm-5.3"
+}

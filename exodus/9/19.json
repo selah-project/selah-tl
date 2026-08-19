@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ngayon, magpadala ka at iligtas ⟨את⟩ iyong mga hayop at ⟨את⟩ lahat ng nasa iyo sa bukid — bawat tao at hayop na matatagpuan sa bukid at hindi masisilungan sa bahay, babagsak sa kanila ang granizo at mamamatay sila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "magpadala ka"
+    },
+    {
+      "surface": "העז",
+      "gloss": "at iligtas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga hayop"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "iyong mga hayop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nasa iyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "at hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "matatagpuan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "masisilungan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "babagsak"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "ang granizo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "at mamamatay sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:47.018045522Z",
+  "model": "glm-5.3"
+}

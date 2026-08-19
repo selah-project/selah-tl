@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Karangalan ng tao ang tumigil sa away, ngunit bawat hungkag ay naninindi ⟨ng away⟩.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang tumigil"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "sa away"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ngunit bawat"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hungkag"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ay naninindi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:40.012968228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At iniligtas ni David ang ⟨את⟩ lahat ng kinuha ng Amalek, at ang ⟨את⟩ dalawang asawa niya ay iniligtas ni David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "at iniligtas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng kinuha ng Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ang Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "dalawang asawa niya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "asawa niya"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "iniligtas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:37.225033183Z",
+  "model": "glm-5.3"
+}

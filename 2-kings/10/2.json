@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ngayon, sa pagdating ng sulat na ito sa inyo, at nasa inyo ang ⟨את⟩ mga anak ng inyong panginoon, at nasa inyo ang ⟨את⟩ mga karo at ang mga kabayo, at ang napapader na lungsod at ang mga sandata —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "At ngayon"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sa pagdating"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ng sulat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ng inyong panginoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ng inyong panginoon"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mga karo at mga kabayo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ang mga karo"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "at ang mga kabayo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "at ang lungsod"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "napapader"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "at ang mga sandata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:06.734766071Z",
+  "model": "glm-5.3"
+}

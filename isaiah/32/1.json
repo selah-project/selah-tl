@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Narito, sa katuwiran maghari ang hari, at ang mga pangulo sa hatol maghahari-harian.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "sa katuwiran"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "maghari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "at ang mga pangulo"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sa hatol"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "maghahari-harian"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:42.069219317Z",
+  "model": "glm-5.3"
+}

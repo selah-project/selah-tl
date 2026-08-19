@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Sino ang nakakakilala sa kalakasan ng iyong galit? At ayon sa pandangal sa iyo, ang iyong poot.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kalakasan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ng iyong galit"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "at ayon sa pandangal sa iyo"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ang iyong poot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:25.089697709Z",
+  "model": "glm-5.3"
+}

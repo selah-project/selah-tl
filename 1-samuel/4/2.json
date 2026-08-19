@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 4:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At naghanay ang mga Peleshti na salubungin ang Yisrael, at kumalat ang pakikipaglaban, at natalo ang Yisrael sa harap ng mga Peleshti, at napatay nila sa hanay sa parang na parang apat na libong lalaki.",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "at naghanay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Peleshti"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na salubungin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ותטש",
+      "gloss": "at kumalat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang pakikipaglaban"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "at natalo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "at napatay nila"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "sa hanay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa parang"
+    },
+    {
+      "surface": "כארבעת",
+      "gloss": "na parang apat"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "na libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:13.235742600Z",
+  "model": "glm-5.3"
+}

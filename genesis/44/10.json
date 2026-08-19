@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At sinabi niya: Gayon din ngayon, ayon sa mga salita ninyo — kung kaninong ⟨את⟩ makikita, siya'y magiging alipin ko, ngunit kayo'y magiging malinis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "ayon sa mga salita ninyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itong⟩ ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung kanino"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alipin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ngunit kayo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "malinis (walang sala)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:42.215047805Z",
+  "model": "glm-5.3"
+}

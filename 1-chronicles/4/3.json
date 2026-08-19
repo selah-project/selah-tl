@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ito ang mga anak ng ama ng Eytam: Yizreel, at Yishma, at Yidbash; at ang pangalan ng kanilang kapatid na babae ay Hatselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eytam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "at Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "at Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "kanilang kapatid na babae"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatselelponi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:42.422550159Z",
+  "model": "glm-5.3"
+}

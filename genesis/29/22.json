@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At pinulupot ni Laban ang ⟨את⟩ lahat ng mga lalaki ng lugar, at gumawa siya ng handaan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "at pinulupot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga lalaki ng lugar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ng lugar"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "handaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:29.073245975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ipinanganak niya kay Chodesh, asawa niya, si ⟨את⟩ Yovav at si ⟨את⟩ Tsivya at si ⟨את⟩ Mesha at si ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak niya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:50.797345392Z",
+  "model": "glm-5.3"
+}

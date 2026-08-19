@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 9:12",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang hari na si Shelomoh ay nagbigay sa reyna ng Sheba ng ⟨את⟩ lahat ng nais niya na hiningi niya, bukod sa dinatala niya sa hari; at bumalik siya at umalis patungo sa kanyang lupain, siya at mga alila niya.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "na si Shelomoh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagbigay"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "sa reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ng Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng nais niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "ng nais niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "hiningi niya"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "bukod sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "dinatala niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותהפך",
+      "gloss": "at bumalik siya"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "לארצה",
+      "gloss": "patungo sa kanyang lupain"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "at mga alila niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:57.242904810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At hahabulin ninyo ⟨את⟩ inyong mga kaaway, at mangabubu sila sa harap ninyo sa espada.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "at hahabulin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyo mga kaaway"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "at mangabubu sila"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa harap ninyo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:57.464446784Z",
+  "model": "glm-5.3"
+}

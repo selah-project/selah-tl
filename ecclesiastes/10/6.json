@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "⟨Inilagay⟩ ang hangal sa matataas na katayuan, at ang mga mayayaman sa mababang lugar ⟨umuuupo⟩.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨inilagay⟩"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ang hangal"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sa matataas na katayuan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "at ang mga mayayaman"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "sa mababang lugar"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "⟨umuuupo⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:34.559128837Z",
+  "model": "glm-5.3"
+}

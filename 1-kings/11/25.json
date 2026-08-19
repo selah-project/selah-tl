@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At siya'y naging santawan ng Israel sa lahat ng araw ni Shelomoh, bukod sa ⟨את⟩ kasamaang ginawa ni Hadad; at namuyag siya sa Israel, at naghari sa Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "santawan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ bukod sa",
+      "marks": "kasamaang ginawa ni Hadad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ni Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "at namuyag"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:42.113026257Z",
+  "model": "glm-5.3"
+}

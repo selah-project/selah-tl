@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Narito, ang Elohim ang tumutulong sa akin; si Adonai ay kasama ng mga sumasandal sa aking buhay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tumutulong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ng mga sumasandal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:27.068436648Z",
+  "model": "glm-5.3"
+}

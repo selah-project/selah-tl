@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Awit ni David: Yahweh, sino ang magpapaaral sa iyong tolda? Sino ang mananahan sa iyong banal na bundok?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "magpapaaral"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa iyong tolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "mananahan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iyong banal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:41.555913471Z",
+  "model": "glm-5.3"
+}

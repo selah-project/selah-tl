@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Sinabi ng bantay: Dumarating ang umaga, at gayundin ang gabi. Kung nais ninyong magtanong, magtanong; magbalik-loob, lumapit.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sinabi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ng bantay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Dumarating"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ang umaga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at gayundin"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ang gabi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "nais ninyong magtanong"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "magtanong"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "magbalik(-loob)"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "lumapit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:53.504608700Z",
+  "model": "glm-5.3"
+}

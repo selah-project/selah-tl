@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Hahatol siya sa ⟨iyong⟩ bayan nang may katuwiran, at sa ⟨iyong⟩ mga maralita nang may hatol.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hahatol siya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyong bayan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nang may katuwiran"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "at sa iyong mga maralita"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nang may hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:17.085194526Z",
+  "model": "glm-5.3"
+}

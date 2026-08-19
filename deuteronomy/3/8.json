@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kinuha natin noon ang ⟨את⟩ lupain mula sa kamay ng dalawang hari ng mga Amori, na nasa kabilang ibayo ng Yarden — mula sa batis ng Arnon hanggang sa bundok ng Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "at kinuha natin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "noong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "panahong iyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ng dalawang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng mga Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nasa kabilang ibayo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ng Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "mula sa batis"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ng Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ng Chermon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:27.893419772Z",
+  "model": "glm-5.3"
+}

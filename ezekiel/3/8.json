@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Tingnan mo, ginawa kong matitigas ang ⟨את⟩ iyong mga mukha laban sa kanilang mga mukha, at ang ⟨את⟩ iyong noo na matigas laban sa kanilang noo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tingnan mo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga mukha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "iyong mga mukha"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "matitigas"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kanilang mga mukha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "iyong noo"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "iyong noo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "matigas"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "kanilang noo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:18.822581715Z",
+  "model": "glm-5.3"
+}

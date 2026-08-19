@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Kaya't parangalan ka ng ⟨isang⟩ matibay na bayan, lungsod ng mga bansang malupit ay mangangamba sa iyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kaya't (alinsunod sa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "parangalan ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matibay"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "malulupit"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "mangangamba sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:52.305579598Z",
+  "model": "glm-5.3"
+}

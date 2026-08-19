@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At pinagkalooban niya sila ng ⟨את⟩ habag sa harap ng lahat ng bumihag sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at binigyan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ng habag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "bumihag sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:42.204426767Z",
+  "model": "glm-5.3"
+}

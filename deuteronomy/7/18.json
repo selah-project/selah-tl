@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Huwag kang mangamba sa kanila; alalahanin mo nang buong puso ang ⟨את⟩ ginawa ni Yahweh na iyong Elohim kay Paraon at sa buong Mitzrayim,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang mangamba"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin (imperatibo)"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "mo nang buong puso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kay Paraon"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at sa buong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:27.594705576Z",
+  "model": "glm-5.3"
+}

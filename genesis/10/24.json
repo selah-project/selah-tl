@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At si Arpakhshad ay naging ama ni ⟨את⟩ Shelakh, at si Shelakh ay naging ama ni ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "at si Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naging ama \/ naggawad ng anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "at si Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:44.008975433Z",
+  "model": "glm-5.3"
+}

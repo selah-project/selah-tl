@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 19:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sinabi ng mga pangulo ng mga anak ni Amon kay Hanun: Sa mga mata mo ba'y dinadakila ni David ang ⟨את⟩ iyong ama, kaya't nagsugo siya sa iyo ng mga tagapag-aliw? Hindi ba sa dahilang upang saliksikin, lipulin, at tiktikan ang lupain dumating ang kaniyang mga alipin sa iyo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ng mga pangulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "kay Hanun"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "dinadakila ba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong ama"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "iyong ama"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa mga mata mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "ng mga tagapag-aliw"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sa dahil upang"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "saliksikin"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "lipulin"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "at tiktikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang kaniyang mga alipin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:58.240736905Z",
+  "model": "glm-5.3"
+}

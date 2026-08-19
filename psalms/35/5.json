@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Maging sila na parang ipa sa harap ng hangin, at ang anghel ni Yahweh ay nangungusog ⟨sa kanila⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maging sila"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "parang ipa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "at ang anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "nangungusog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.127966549Z",
+  "model": "glm-5.3"
+}

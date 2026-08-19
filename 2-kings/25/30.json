@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ang kaniyang rasyon — rasyon na patuloy — ay ibinigay sa kaniya mula ⟨את⟩ hari, isang bahagi sa bawat araw, buong mga araw ng kaniyang buhay.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "at ang kaniyang rasyon"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "rasyon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "patuloy"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ay ibinigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "isang bahagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa bawat araw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ng kaniyang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:11.680614370Z",
+  "model": "glm-5.3"
+}

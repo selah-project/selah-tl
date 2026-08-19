@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Siya na tumitingin sa lupa, at ito ay nanginginig; humahawak siya sa mga bundok, at ito ay nauusok.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ang tumitingin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "at ito ay nanginginig"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "humahawak siya"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bundok"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "at ito ay nauusok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:19.094983649Z",
+  "model": "glm-5.3"
+}

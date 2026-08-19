@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Mabuti ang punô ng isang palad na kapanatagan kaysa punô ng dalawang kamao na pagpapagalan at panganinig ng hangin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "punô"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapanatagan"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "kaysa punô"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "dalawang kamao"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pagpapagalan"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "at panganinig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:49.247503351Z",
+  "model": "glm-5.3"
+}

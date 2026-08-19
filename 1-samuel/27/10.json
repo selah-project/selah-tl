@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At nagsabi si Akish, 'Hindi ba kayo nagsalakay ngayong araw?' At nagsabi si David, 'Laban sa timog ng Yehuda, at sa timog ng mga Yerachmeeli, at sa timog ng mga Keni.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "si Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hindi"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kayo nagsalakay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timog"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timog"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "mga Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timog"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "mga Keni"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:45.483342654Z",
+  "model": "glm-5.3"
+}

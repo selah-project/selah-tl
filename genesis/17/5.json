@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At hindi na tatawagin pang ⟨את⟩ pangalan mo na Avram, kundi ang pangalan mo ay magiging Avraham, sapagkat ama ng karamihan ng mga bansa Ako sa paggawa sa iyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tatawagin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan mo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pangalan mo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pangalan mo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ng karamihan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ako sa paggawa sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:18.419422282Z",
+  "model": "glm-5.3"
+}

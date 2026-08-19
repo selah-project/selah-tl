@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ito ang ⟨את⟩ tandang paraan sa iyo mula kay Yahweh, na gagawin ni Yahweh ang ⟨את⟩ bagay na ito na kanyang sinalita:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "paraan sa iyo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ang tanda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kanyang sinalita"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:20.864820519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At kinaadhika niya ang ⟨את⟩ Israel, at tinudla siya ni Yehonatan na anak ni Shim'i, kapatid ni David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "at kinaadhika niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "at tinudla siya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:42.618149402Z",
+  "model": "glm-5.3"
+}

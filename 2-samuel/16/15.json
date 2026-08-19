@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At si Avshalom at ang buong bayan, ang mga lalaki ng Yisrael, ay pumasok sa Yerushalayim, at si Achiytofel ⟨את⟩ kasama niya.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "at si Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ay pumasok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "at si Achiytofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "si Achiytofel na kasama ni Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:25.220372870Z",
+  "model": "glm-5.3"
+}

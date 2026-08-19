@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nasumpungan roon ang isang dukhang marunong, at iniligtas niya ang ⟨את⟩ lungsod sa kanyang karunungan; ngunit walang taong naalala ang ⟨את⟩ dukhang lalaking iyon.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "at nasumpungan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "roon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "at iniligtas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "sa kanyang karunungan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ngunit walang tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dukhang lalaking iyon"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "na dukha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:02.758111634Z",
+  "model": "glm-5.3"
+}

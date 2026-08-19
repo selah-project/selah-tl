@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "O anak na babae ng Babilonya, inaasikasong wasakin — pinapala ⟨ang⟩ magbabayad sa iyo ng ⟨את⟩ iyong gantimpala, na iyong ginawa sa amin.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Babilonya"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "inasikasong wasakin"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pinapala ⟨ang⟩"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "magbabayad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong gantimpala"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "iyong gantimpala"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "na iyong ginawa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:37.017966988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Sa Panguluhan ng mga mang-aawit, kay Yedutun; mizo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa Panguluhan ng mga mang-aawit"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kay Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:23.721296640Z",
+  "model": "glm-5.3"
+}

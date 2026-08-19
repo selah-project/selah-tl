@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Pumatay ng ⟨את⟩ kanilang mga ubas sa pamamagitan ng yelo, at ang kanilang mga sikomoro sa pamamagitan ng nagyeyelong granizo.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "pumatay"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "sa yelo\/granizo"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "kanilang mga ubasan"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "at kanilang mga sikomoro"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "sa nagyeyelong granizo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:15.048816748Z",
+  "model": "glm-5.3"
+}

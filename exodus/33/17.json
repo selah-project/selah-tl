@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At sinabi ni Yahweh kay Moshe: Gagawin ko rin ang ⟨את⟩ bagay na ito na iyong sinabi, sapagkat nakasumpa ka ng biyaya sa aking mga mata, at kilala kita sa pangalan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "iyong sinabi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gagawin ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nakasumpa ka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa aking mga mata"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "at kilala kita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:49.347553797Z",
+  "model": "glm-5.3"
+}

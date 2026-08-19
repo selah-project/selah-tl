@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Mula ⟨את⟩ sa mga panganay ng mga anak ni Yisrael, kinuha niya ang ⟨את⟩ pilak: lima at animnapu at tatlo sa daan-daang, at isang libo, ayon sa siklo ng banal na dako.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sa mga panganay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "at animnapu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa daan-daang"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "at isang libo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ayon sa siklo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ng banal na dako"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:00.286652786Z",
+  "model": "glm-5.3"
+}

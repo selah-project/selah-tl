@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At tinawag ng bahay-⟨ng⟩ Israel ang ⟨את⟩ pangalan nito na man; at ito ay parang binhi ng kulantro, puti; at ang lasa nito ay parang mamon na may pulot-pukyutan.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "At tinawag"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "parang binhi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ng kulantro"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "puti"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "at ang lasa nito"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "parang mamon"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "na may pulot-pukyutan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:28.120582297Z",
+  "model": "glm-5.3"
+}

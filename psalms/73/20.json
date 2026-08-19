@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Parang panaginip sa paggising — kaya't mo, Adonai, sa pagmulat mo, kahalayan ng kanilang anyo ay iyong itinatwa.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "parang panaginip"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "sa paggising"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa pagmulat mo"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ang kanilang anyo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ay iyong itinatwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:51.015619951Z",
+  "model": "glm-5.3"
+}

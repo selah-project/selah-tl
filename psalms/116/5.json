@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Mapagbiyaya si Yahweh at matuwid, at ang ating Elohim ay maawain.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Mapagbiyaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "at matuwid"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "at ang ating Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "maawain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.524900534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Lahat ng nakakakita sa akin ay nagtatawanan sa akin; bumubuka ng ⟨the⟩ labi, umaalog ng ulo, nagsasabi,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ng nakakakita sa akin"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "nagtatawanan sa akin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "bumubuka"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ng labi"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "umaalog"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ng ulo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:50.278860947Z",
+  "model": "glm-5.3"
+}

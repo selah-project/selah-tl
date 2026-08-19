@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Pinagpala ang iyong mga lalaki, pinagpala ang iyong mga lingkod na ⟨ito⟩, na nakatayo sa iyong harapan nang palagi, na nakikinig sa ⟨את⟩ iyong karunungan",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ang iyong mga lalaki"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang iyong mga lingkod"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na ⟨ito⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na nakatayo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang palagi"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "na nakikinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong karunungan"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "iyong karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:06.863919799Z",
+  "model": "glm-5.3"
+}

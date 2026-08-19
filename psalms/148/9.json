@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "ang mga bundok at ang lahat ng mga burol, mga punong may bunga at ang lahat ng mga sedro:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mga burol"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga puno"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "may bunga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mga sedro"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:38.010021854Z",
+  "model": "glm-5.3"
+}

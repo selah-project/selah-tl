@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At mangyayari sa araw na yaon, na babaliin ko ang ⟨את⟩ busog ng Yisrael sa libis ng Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "babaliin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "busog"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ng Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:35.169365709Z",
+  "model": "glm-5.3"
+}

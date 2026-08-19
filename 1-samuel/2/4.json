@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang mga busog ng makapangyarihang lalaki ay napinsala, at ang mga natitisod ay nagbigkis ng lakas.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "ang mga busog"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ng makapangyarihang lalaki"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ay napinsala"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "at ang mga natitisod"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "nagbigkis"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ng lakas"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:00.557459453Z",
+  "model": "glm-5.3"
+}

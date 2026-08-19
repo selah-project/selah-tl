@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Hinahabol ko ang ⟨את⟩ aking mga kaaway at naabot ko sila, at hindi ako babalik hanggang sa mangubos sila.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "hinahabol ko"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "at naabot ko sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "babalik (ako)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "mangubos sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:56.952905716Z",
+  "model": "glm-5.3"
+}

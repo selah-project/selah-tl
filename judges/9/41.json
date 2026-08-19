@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At tumahan si Avimelech sa Arumah; at pinalayas ni Zevul si Gaal at ⟨את⟩ mga kapatid nito, na hindi tumahan sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tumahan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelech"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "sa Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "pinalayas"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ni Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "si Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga kapatid nito"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga kapatid nito"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "na hindi tumahan"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "sa Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-19T15:51:16.408170172Z",
+  "model": "glm-5.3"
+}

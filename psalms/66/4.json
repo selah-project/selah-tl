@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Ang buong lupa ay yuyukod sa iyo at magsisi-awit sa iyo; aawitin nila ang iyong pangalan. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ay yuyukod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "at magsisi-awit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "aawitin nila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:08.185077609Z",
+  "model": "glm-5.3"
+}

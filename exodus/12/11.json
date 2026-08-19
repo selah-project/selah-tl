@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ganito ninyo kakainin ⟨את⟩ ito: nakasandelahan ang mga baywang ninyo, ang mga sandalyas ninyo sa mga paa ninyo, at ang tungkod ninyo sa kamay ninyo; at kakainin ninyo ⟨את⟩ ito sa pagmamadali — Pesach ito para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "at ganito"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kordero)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ang mga baywang ninyo"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "nakasandelahan"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ang mga sandalyas ninyo"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "sa mga paa ninyo"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "at ang tungkod ninyo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa kamay ninyo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "at kakainin ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kordero)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "sa pagmamadali"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:07.266815941Z",
+  "model": "glm-5.3"
+}

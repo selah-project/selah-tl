@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At sinabi ni Paraoh sa kanyang mga kapatid: Ano ang inyong hanapbuhay? At nagsabi sila kay Paraoh: Mga pastol ng mga kawan ang iyong mga alipin — pati kami, pati ang aming mga ama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "ang inyong mga gawain"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mga pastol ng"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga kawan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang iyong mga alipin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ang aming mga ama"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:14.647416198Z",
+  "model": "glm-5.3"
+}

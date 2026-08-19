@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ang sinturon ng kaniyang ephod na nasa ⟨ayon⟩ rito, mula rito ⟨ito⟩ ang ginawa — ginto, asul-ubi, ube, at pula ng tola-at, at linong baligtad na sinulid — kung paanong iniutos ni Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "At ang sinturon"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "ng kaniyang ephod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ayon⟩ na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nasa rito"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ayon sa ginawa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul-ubi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "at ube"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "at ng uod"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pula ng tola-at"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "baligtad na sinulid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:40.147102497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At inihanda nila ang ⟨את⟩ alay hanggang sa pagdating ni Yosef sa tanghaling-tapat, sapagkat narinig nila na doon sila kakain ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "at inihanda nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang alay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pagdating"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "sa tanghaling-tapat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "narinig nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "silang kakain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:43.961958713Z",
+  "model": "glm-5.3"
+}

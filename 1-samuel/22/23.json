@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Manirahan ⟨את⟩ ka kasama ko, huwag kang matakot, sapagkat ang naghahangad sa aking buhay ay hahangarin ⟨את⟩ ang iyong buhay, sapagkat ikaw ay pinag-iingatan sa akin.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "manirahan ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kasama ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang matakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking buhay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking buhay"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "hahangarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong buhay"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ang iyong buhay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pinag-iingatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:56.949466966Z",
+  "model": "glm-5.3"
+}

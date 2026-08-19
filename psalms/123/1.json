@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 123,
+  "translation": "Awit ng mga pag-ahon. Sa iyo itinaas ko ang ⟨את⟩ aking mga mata, ikaw na nakaupo sa ⟨the⟩ mga langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga pag-ahon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sa iyo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "itinaas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ikaw na nakaupo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:31.931131756Z",
+  "model": "glm-5.3"
+}

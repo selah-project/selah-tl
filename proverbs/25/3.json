@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sa taas ⟨ang⟩ mga langit at sa lalim ⟨ang⟩ lupa, at ng puso ng mga hari ay walang kasukatan.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "sa taas"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at lupa"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "sa lalim"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "at puso"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay walang"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kasukatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:15.337670811Z",
+  "model": "glm-5.3"
+}

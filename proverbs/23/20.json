@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Huwag kang makisama sa mga tagainom ng alak, sa mga matatakaw sa laman, ⟨sa kanila⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "makisama"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "sa mga tagainom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ng alak"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "sa mga matatakaw"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sa laman"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨sa kanila⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:36.975543960Z",
+  "model": "glm-5.3"
+}

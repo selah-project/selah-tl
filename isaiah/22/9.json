@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ⟨ang⟩ mga sira ng lungsod ni David ay nakita ninyo, sapagkat marami na sila, at pinulot ninyo ang ⟨את⟩ tubig ng ◄ilalim na ►imbakan na nasa ibaba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ⟨ang⟩",
+      "marks": "mga sira ng lungsod ni David"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "mga sira"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakita ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "marami na"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "at pinulot ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubig ng ilalim na imbakan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ng imbakan"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "na nasa ibaba"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:45.915900038Z",
+  "model": "glm-5.3"
+}

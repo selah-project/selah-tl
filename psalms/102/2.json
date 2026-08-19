@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "O Yahweh, pakinggan mo ang aking panalangin, at ang aking daing ay umdating sa iyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "at ang aking daing"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "umdating"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:19.574121539Z",
+  "model": "glm-5.3"
+}

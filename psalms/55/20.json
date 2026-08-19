@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Dininig ng El at sasagot sa kanila, at siyang nananatili mula sa una — Selah — mga walang pinagbabagong-buhay, at hindi natatakot sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Dininig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "at sasagot sa kanila"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at siyang nananatili"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mula sa una"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "pinagbabagong-buhay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natatakot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:47.007441678Z",
+  "model": "glm-5.3"
+}

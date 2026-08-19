@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sa ikalawang buwan, sa ikapito at dalawampu't isang araw ng buwan, tumigil na tuyo ang lupa.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "At sa buwan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sa ikapito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "at dalawampu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tumigil na tuyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:59.447809551Z",
+  "model": "glm-5.3"
+}

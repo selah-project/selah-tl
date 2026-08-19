@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Anak ko, kung tatanggapin mo ang aking mga salita, at ang aking mga utos ay itatago ⟨את⟩ mo na kalapit sa iyo;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tatanggapin mo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "at ang aking mga utos"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "itatago mo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na kalapit sa iyo",
+      "marks": "mo (na kalapit sa iyo)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:21.830776794Z",
+  "model": "glm-5.3"
+}

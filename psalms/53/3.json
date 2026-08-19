@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Mula sa mga langit tumingin-aba si Elohim sa mga anak ng tao, upang makita kung may may-isip, na humahanap sa ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mula sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "tumingin-aba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kung may"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "may-isip"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "humahanap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:50.532181120Z",
+  "model": "glm-5.3"
+}

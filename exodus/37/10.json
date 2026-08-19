@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ginawa niya ang ⟨את⟩ mesa mula sa kahoy ng akasya: dalawang siko ang haba nito, at isang siko ang luwang nito, at isang siko at kalahati ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dalawang siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang luwang nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:22.102532219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At umakyat siya, at inihiga niya ⟨siya⟩ sa higaan ng lalaking ng Elohim, at isinara ⟨niya⟩ sa kanya ⟨ang pinto⟩, at lumabas.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "at umakyat"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "at inihiga niya siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "higaan ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaking ng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "at isinara"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "at lumabas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:37.952922387Z",
+  "model": "glm-5.3"
+}

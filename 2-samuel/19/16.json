@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At nagbalik ang hari at dumating hanggang sa Yarden, at si Yehuda ay pumaroon sa Gilgal upang pumunta salubungin ang hari, upang ipaglipat ang ⟨את⟩ hari sa ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at nagbalik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at si Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumaroon"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "upang pumunta"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "salubungin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "upang ipaglipat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ang Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:58.888308882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At pinasasayaw niya ang mga ito na parang guya; ang Levanon at ang Shiryon na parang anak ng mga ligaw na baka.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "at pinasasayaw niya ang mga ito"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "guya"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ang Levanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "at ang Shiryon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ng mga ligaw na baka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:04.580903524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Awi-awit ni David: Yahweh ang aking pastol, hindi ako mangangulangin.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "awi-awit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "aking pastol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ako mangangulangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:55.637872386Z",
+  "model": "glm-5.3"
+}

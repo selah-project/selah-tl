@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang tagapahayag ay sumigaw nang malakas: sa inyo ay ipinag-uutos, O mga bansa, mga mamamayan, at mga wika.",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "At ang tagapahayag"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sumigaw"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "nang malakas"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ipinag-uutos"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "O mga mamamayan"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "at mga wika"
+    }
+  ],
+  "timestamp": "2026-08-19T19:07:29.839762744Z",
+  "model": "glm-5.3"
+}

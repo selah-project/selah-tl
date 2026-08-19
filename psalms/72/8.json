@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "At mamamahala siya mula sa dagat hanggang sa dagat, at mula sa ilog hanggang sa mga wakas ng lupa.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "at mamamahala siya (bababa na mamuno)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mula sa dagat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "at mula sa ilog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga wakas ng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.165040930Z",
+  "model": "glm-5.3"
+}

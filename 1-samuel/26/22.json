@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sumagot si David at nagsabi: Narito ang sibat ng hari, at lumipat ang isa sa mga batang lalaki at kunin ito.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang sibat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "at lumipat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "sa mga batang lalaki"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "at kunin ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:35.759656181Z",
+  "model": "glm-5.3"
+}

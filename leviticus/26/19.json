@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At babaliin Ko ang ⟨את⟩ kapalaluan ng inyong lakas, at ibibigay Ko ang ⟨את⟩ inyong mga langit na parang bakal, at ang ⟨את⟩ inyong lupang parang tanso.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "at babaliin Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapalaluan ng inyong lakas"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kapalaluan"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ng inyong lakas"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga langit"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "inyong mga langit"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "na parang bakal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong lupa"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "inyong lupa"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "parang tanso"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:06.866457416Z",
+  "model": "glm-5.3"
+}

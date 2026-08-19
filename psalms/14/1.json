@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Sa pangunguna ng koro. Ni David. Sinabi ng nabal sa kanyang puso: \"Walang Elohim.\" Nasisira sila, gumawa ng kasuklam-suklam na gawa; walang gumagawa ng mabuti.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna ng koro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang nabal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kanyang puso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "nasisira sila"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "gumawa ng kasuklam-suklam"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.321964922Z",
+  "model": "glm-5.3"
+}

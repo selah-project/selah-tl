@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ⟨ang⟩ pangalawa ay gagawin niyang handog na susunugin, ayon sa itinakdang batas; at magpapatalbis ang saserdote para sa kanya dahil sa kaniyang pagkakasala na kaniyang nagawa, at mapapatawad siya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at",
+      "marks": "ang pangalawa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin niya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa itinakdang batas"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "at magpapatalbis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "dahil sa kaniyang pagkakasala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kaniyang nagawa"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "at mapapatawad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:05.247078775Z",
+  "model": "glm-5.3"
+}

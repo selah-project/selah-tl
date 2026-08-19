@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Pinagharihan mo siya ng ⟨את⟩ mga gawa ng iyong mga kamay; ang lahat ay inilagay mo sa ilalim ng kanyang mga paa.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "pinagharihan mo siya"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ng"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mga gawa ng iyong mga kamay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "inilagay mo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kanyang mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:33.342863020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At mga haligi nito ay dalawampu, at mga basemento nila ay dalawampu, tanso; mga kawit ng mga haligi at mga banda nila ay pilak.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "at mga haligi nito"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at mga basemento nila"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "ושוי",
+      "gloss": "at mga kawit ng"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "at mga banda nila"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:11.607771263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 125,
+  "translation": "Datapuwa't kayang mga lumiligaw sa kanilang makulay na mga lakad, papatunguhin sila ni Yahweh kasama ng ⟨את⟩ mga gawa ng kalaban — kapayapaan sa Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "datapuwa't kayang mga lumiligaw"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "sa kanilang makulay na mga lakad"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "patunguhin sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga gumagawa ng kasamaan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga gumagawa"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:38.158038926Z",
+  "model": "glm-5.3"
+}

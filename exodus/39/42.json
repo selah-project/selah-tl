@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Ayon sa lahat na iniutos ni Yahweh kay ⟨את⟩ Moshe, gayon ginawa ng mga anak ni Yisrael ⟨את⟩ ang buong gawain.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buong gawain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "gawain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:07.860175145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Pinapalad ang lalaki na tiniyak mo, O Yah, at mula sa iyong kautusan ay itinuturo mo siya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pinapalad"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "tiniyak mo siya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "at mula sa iyong kautusan"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "itinuturo mo siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:10.073623484Z",
+  "model": "glm-5.3"
+}

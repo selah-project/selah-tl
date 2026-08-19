@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Kung kaninong ⟨את⟩ sa mga alipin ninyo ito makikita, siya ay mamamatay, at maging kami ay magiging-⟨is⟩ mga alipin ng amo ninyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kung kanino"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (sa kanya)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "sa mga alipin ninyo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at mamamatay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ng amo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "na mga alipin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:42.214751805Z",
+  "model": "glm-5.3"
+}

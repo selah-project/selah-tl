@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ito ang paglilingkod ng mga anak ni Kehat sa Tolda ng Tipunan: ⟨ang⟩ kabanalan ng mga kabanalan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ang paglilingkod ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa Tolda ng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tipunan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan ng"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mga kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:57.183827215Z",
+  "model": "glm-5.3"
+}

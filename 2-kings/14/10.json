@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Talo na: nanlagasa ka sa ⟨את⟩ Edom at itinaas ka ng iyong puso — magmalaki ka at umupo sa iyong bahay; at bakit hahamon ka sa kasamaan upang ikaw at si Yehuda na kasama mo ay mahulog?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Talo na"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "nanlagasa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "at itinaas ka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ng iyong puso"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "magmalaki ka"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "at umupo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "hahamon ka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ay mahulog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at si Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kasama mo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:25.894556274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang tuko at ang butiking-bayawak at ang butiki at ang agamid at ang bulusok.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "At ang tuko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "at ang butiking-bayawak"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "at ang butiki"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "at ang agamid"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "at ang bulusok"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:15.581842271Z",
+  "model": "glm-5.3"
+}

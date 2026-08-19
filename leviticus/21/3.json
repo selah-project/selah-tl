@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sa kanyang kapatid na babae, dalaga, na malapit sa kanya, na hindi pa naging ⟨kabiyak⟩ ng lalaki — para sa kanya ay maaari siyang magpangit ng kaluluwa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "At sa kanyang kapatid na babae"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "na malapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨kabiyak⟩ ng lalaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magpapangit ng kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:03.535328553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Sapagkat sina Atalya, ang masamang babae, sumira ng ⟨את⟩ bahay ng Elohim, at maging ang lahat ng banal na bagay ng bahay ni Yahweh ay ginawa nila para sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "sina Atalya"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "ang masamang babae"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "sumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ng banal na bagay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "para sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:33:43.898174759Z",
+  "model": "glm-5.3"
+}

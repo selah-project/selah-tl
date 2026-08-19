@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Maganda ⟨ka⟩, aking kasintahan, gaya ng Tirtzah; kaaya-aya gaya ng Yerushalayim; kakilakilabot gaya ng mga hukbong may watawat.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ka⟩",
+      "marks": "aking kasintahan"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "aking kasintahan"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "gaya ng Tirtzah"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kaaya-aya"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "gaya ng Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kakilakilabot"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "gaya ng mga hukbong may watawat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:37.330530910Z",
+  "model": "glm-5.3"
+}

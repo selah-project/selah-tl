@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sa araw ng inyong pagwawagayway ng ⟨את⟩ omer, maghahain kayo ng tanging kordero, walang kapintasan, anak ng isang taong gulang, bilang haola, kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "at gagawin ninyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ng inyong pagwawagayway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "tanging kordero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang kapintasan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ng isang taong gulang"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bilang haola"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:46.723841189Z",
+  "model": "glm-5.3"
+}

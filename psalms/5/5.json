@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sapagkat hindi El na kumukusa sa kasamaan ikaw; hindi tatahan sa iyong piling ang kasamaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kumukusa sa \/ nalulugod sa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "tatahan sa iyong piling"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:08.224047285Z",
+  "model": "glm-5.3"
+}

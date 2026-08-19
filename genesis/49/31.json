@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Doon inilibing ⟨את⟩ si Avraham at ⟨את⟩ si Sarah na asawa niya; doon inilibing ⟨את⟩ si Yitshak at ⟨את⟩ si Rivka na asawa niya; at doon ko inilibing ⟨את⟩ si Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na asawa niya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "si Rivka"
+    },
+    {
+      "surface": "אשתwo",
+      "gloss": "na asawa niya"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "at doon"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ko inilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:23.664761611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At nakita ni Yosef ang ⟨את⟩ kanyang mga kapatid at nakilala niya sila, ngunit nagkunwaring hindi niya kilala sa kanila, at nagsalita sa kanila nang matigas, at sinabi sa kanila: Saan kayo nagmula? At sinabi nila: Mula sa lupain ng Kenaan, upang bumili ng pagkain.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "at nakilala niya sila"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "nagkunwaring hindi kilala"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanila"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "nang matigas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "saan"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kayo nagmula"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "upang bumili"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ng pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:22:58.797804374Z",
+  "model": "glm-5.3"
+}

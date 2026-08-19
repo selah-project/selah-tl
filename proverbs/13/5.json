@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Pinopootan ng matapat ang pananalitang kasinungalingan, ngunit ang masama ay nang-aamoy bulok at nagdudulot ng kahihiyan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pananalita"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "pinopootan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matapat"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ngunit ang masama"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "nang-aamoy bulok"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "at nagdudulot ng kahihiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:09.767151416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Kulang ba ako sa mga baliw, na dinalhan ninyo ng ⟨את⟩ ito upang magkunwaring baliw sa harapan ko? Papasain ba ito sa aking bahay?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kulang ba"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "sa mga baliw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ninyo dinalhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "upang magkunwaring baliw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa harapan ko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ba ito"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Papasain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "aking bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:21.095511478Z",
+  "model": "glm-5.3"
+}

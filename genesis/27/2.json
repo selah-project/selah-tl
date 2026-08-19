@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At sinabi niya: \"Narito, tumanda na ako; hindi ko alam ang araw ng aking kamatayan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "tumanda na ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko alam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ng aking kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:20.871734144Z",
+  "model": "glm-5.3"
+}

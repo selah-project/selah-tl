@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Upang makita ang kabutihan ng iyong mga hirang, upang magalak sa kagalakan ng iyong bansa, upang magmalaki kasama ng iyong pamana.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ang kabutihan ng"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "iyong mga hirang"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "upang magalak"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sa kagalakan ng"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "iyong bansa"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "upang magmalaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "iyong pamana"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:40.889801721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At sinabi ng anghel ni Yahweh sa kaniya: Pangkaragdagan na magdami A ng ⟨את⟩ iyong binhi, at hindi ito mabibilang dahil sa kasaganaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "pangkaragdagan na"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "magdami A"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong binhi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iyong binhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mabibilang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dahil sa kasaganaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:09.543185132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Huwag kayong magpapagsiklab ng apoy sa alinman sa inyong mga tahanan sa araw ng Shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "kayong magpapagsiklab"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa alinman"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "sa inyong mga tahanan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:16.584486198Z",
+  "model": "glm-5.3"
+}

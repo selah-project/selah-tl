@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Simula ng karunungan ay ang takot kay Yahweh; mabuting unawa ⟨ay⟩ sa lahat ng gumagawa ng mga iyon; ang kanyang papuri ay nananatili magpakailanman.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "simula"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ang takot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "unawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "gumagawa ng mga iyon"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang kanyang papuri"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nananatili\/nakatayo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:17.412605205Z",
+  "model": "glm-5.3"
+}

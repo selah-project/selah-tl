@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At ang Ehipto ay kalabuan at walang laman — tutulong sila nang walang saysay; kaya tinawag ko ito: Rahab na umaupo na lamang.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "At ang Ehipto"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kalabuan"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "at walang laman"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "tutulong sila"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tinawag ko"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "silá"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "umaupo na lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:16.483116158Z",
+  "model": "glm-5.3"
+}

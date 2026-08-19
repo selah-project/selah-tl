@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ⟨את⟩ apat na kariton at ang ⟨את⟩ walong baka ay ibinigay niya sa mga anak ni Merari, ayon sa kanilang paglilingkod, sa ilalim ng kamay ni Itamar na anak ni Aharon na paring.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ang ⟨את⟩",
+      "marks": "apat na kariton"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "wolong baka"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "wolong"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "kanilang paglilingkod"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa ilalim ng kamay ni"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "paring"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:56.203914556Z",
+  "model": "glm-5.3"
+}

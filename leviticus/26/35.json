@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Sa lahat ng mga araw ng pagkawasak nito magpapahinga ito sa ⟨את⟩ hindi nito naipahinga sa inyong mga Sabbath, noong naninirahan kayo sa ibabaw nito.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ng pagkawasak nito"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magpapahinga ito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hindi nito naipahinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa (na)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "nito naipahinga"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "sa inyong mga Sabbath"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "noong naninirahan kayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:44.408346594Z",
+  "model": "glm-5.3"
+}

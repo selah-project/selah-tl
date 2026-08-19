@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Nalalanta ang damo, nalalagas ang bulaklak, sapagkat ang hininga ni Yahweh ay umihip dito; tunay nga, damo ang bayan.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "nalalanta"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ang damo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nalalagas"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ang bulaklak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hininga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "umihip"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "tunay nga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "damo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ang⟩ bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:40.463759039Z",
+  "model": "glm-5.3"
+}

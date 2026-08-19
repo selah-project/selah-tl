@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Sapagkat kanyang mga anghel ay utusan niya tungkol sa iyo, upang ingatan ka sa lahat ng iyong mga lakad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "kanyang mga anghel"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "utusan niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tungkol sa iyo"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "upang ingatan ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iyong mga lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:45.323565234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At tatakhan ng saserdote ⟨את⟩ ito — kung mabuti o kung masama; ayon sa iyong pagtataya, ikaw na saserdote, ganoon ang magiging halaga.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "at tatakhan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang hayop)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kung"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "o kung"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "ayon sa iyong pagtataya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikaw na saserdote"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ganoon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:34.741449534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Hindi dahil sa iyong mga hain ako magpapatama sa iyo, at ang iyong mga handog na susunugin ay walang-tigil sa harap ko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "iyong mga hain"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ako magpapatama sa iyo"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "at iyong mga handog na susunugin"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sa harap ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "walang-tigil"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:13.468597476Z",
+  "model": "glm-5.3"
+}

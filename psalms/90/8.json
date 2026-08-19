@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Inilatag Mo ang aming mga kasalanan sa harapan Mo, ang aming mga lihim sa liwanag ng iyong mukha.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Inilatag Mo"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ang aming mga kasalanan"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "sa harapan Mo"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ang aming mga lihim"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ng iyong mukha"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:13.715214011Z",
+  "model": "glm-5.3"
+}

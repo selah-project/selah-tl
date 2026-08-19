@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang maingat na tao ay nagtatakip ng kaalaman, ngunit ang puso ng mga hangal ay nananawagan ng kahangalan.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "maingat"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nagtatakip"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalaman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ngunit puso"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mga hangal"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nananawagan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kahangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:31.256931059Z",
+  "model": "glm-5.3"
+}

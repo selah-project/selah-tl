@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Dumarating sa kanya ang pagkawasak na hindi niya nalalaman, at ang lambat na kanyang itinago ay siyang sasakmal sa kanya; sa pagkawasak siya ay mahuhulog dito.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "sumasapit sa kanya"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ang pagkawasak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nalalaman niya"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "at ang kanyang lambat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "itinago"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "sasakmal sa kanya"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "sa pagkawasak"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "mahuhulog siya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.128478708Z",
+  "model": "glm-5.3"
+}

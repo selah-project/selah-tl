@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kaniyang pinalayas ang ⟨את⟩ kalapati mula ⟨את⟩ kaniya, upang makita kung nagaan na ang mga tubig mula sa ibabaw ng mutedng lupa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At kaniyang pinalayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalapati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ang kalapati"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "mula ⟨את⟩ kaniya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "kung nagaan na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng mutedng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:18.695614904Z",
+  "model": "glm-5.3"
+}

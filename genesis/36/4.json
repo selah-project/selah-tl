@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ipinanganak ni Adah kay Esav si ⟨את⟩ Elifaz; at ipinanganak ni Bosmath si ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "At ipinanganak"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ni Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "si Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "at si Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "si Reuel"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:43.206507154Z",
+  "model": "glm-5.3"
+}

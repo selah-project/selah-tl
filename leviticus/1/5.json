@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iihain ang ⟨את⟩ anak ng baka sa harap ni Yahweh, at dadalhin ng mga anak ni Aharon na ⟨ang⟩ mga saserdote ang ⟨את⟩ dugo, at wiwisikan ang ⟨את⟩ dugo sa ⟨ang⟩ altar sa paligid — na nasa pasukan ng Tolda ng Tipanan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "at iihain (katayin)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ng baka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "at dadalhin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "at wiwisikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Tipunan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:45.721372378Z",
+  "model": "glm-5.3"
+}

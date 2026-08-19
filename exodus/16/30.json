@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At nagpahinga ang bayan sa ikapitong araw.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "At nagpahinga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ng ikapito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:28.120403587Z",
+  "model": "glm-5.3"
+}

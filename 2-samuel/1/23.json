@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 1:23",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Si Shaúl at si Yehonatan, minamahal at kaaya-aya sa kanilang buhay, at sa kanilang kamatayan ay hindi naghiwalay; mas mabilis sila kaysa mga agila, lumakas sila kaysa mga leon.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "si Shaúl"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "at si Yehonatan"
+    },
+    {
+      "surface": "הנאהבים",
+      "gloss": "minamahal"
+    },
+    {
+      "surface": "והנעימם",
+      "gloss": "at kaaya-aya"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "sa kanilang buhay"
+    },
+    {
+      "surface": "ובמותם",
+      "gloss": "at sa kanilang kamatayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "naghiwalay"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "kaysa mga agila"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mas mabilis sila"
+    },
+    {
+      "surface": "מאריות",
+      "gloss": "kaysa mga leon"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "lumakas sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:24.239127225Z",
+  "model": "glm-5.3"
+}

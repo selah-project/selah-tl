@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Ang iyong katuwiran ay ⟨na⟩ parang mga bundok ng El; ang iyong mga hatol ay malalim na kalaliman; tao at hayop ay inililigtas mo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "iyong katuwiran"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "parang mga bundok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "iyong mga hatol"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kalaliman"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "malalim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "at hayop"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "inililigtas mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:04.657756319Z",
+  "model": "glm-5.3"
+}

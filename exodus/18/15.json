@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sinabi ni Moshe sa kaniyang biyenan: Sapagkat pumupunta sa akin ang bayan upang magtanong sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "sa kaniyang biyenan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pumupunta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "upang magtanong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:56.113504057Z",
+  "model": "glm-5.3"
+}

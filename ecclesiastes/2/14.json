@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang mata ng pantas ay nasa kanyang ulo, ngunit ang hangal ay lumalakad sa kadiliman; at nakilala ko, ako rin, na isang pangyayari, iisa, ang sasapit sa ⟨את⟩ lahat ng mga ito.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "ang pantas"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang mata niya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa kanyang ulo"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "ngunit ang hangal"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "at nakilala ko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "na isang pangyayari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iisa"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "sasapit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga ito"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "lahat ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:52.492181762Z",
+  "model": "glm-5.3"
+}

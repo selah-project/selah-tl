@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Nakilala si Yahweh, hatol ⟨siya⟩ gumawa; sa gawa ng kaniyang mga palad naloko ang masama. Higayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "sa gawa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ng kaniyang mga palad"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "naloko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:36.539062195Z",
+  "model": "glm-5.3"
+}

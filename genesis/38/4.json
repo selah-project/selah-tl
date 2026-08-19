@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At nagdadalantao siyang muli at nanganak ng lalaki, at tinawag niya ⟨את⟩ kanyang pangalan na Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagdadalantao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lalaki (anak)"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:02.256955439Z",
+  "model": "glm-5.3"
+}

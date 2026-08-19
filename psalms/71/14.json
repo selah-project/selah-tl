@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Ngunit ako ay laging maghihintay ⟨ng pag-asa⟩, at magdaragdag pa sa lahat ng papuri sa iyo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "maghihintay ⟨ng pag-asa⟩"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "at magdaragdag"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ng papuri sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.495445829Z",
+  "model": "glm-5.3"
+}

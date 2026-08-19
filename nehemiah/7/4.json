@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang lungsod ay ⟨was⟩ malapad ng mga kamay at malaki, ngunit ang bayan ay kaunti sa loob nito, at walang mga bahay na natayô.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "At ang lungsod"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "malapad"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ng mga kamay"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "at malaki"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ngunit ang bayan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunti"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa loob nito"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "na natayô"
+    }
+  ],
+  "timestamp": "2026-08-19T19:16:36.612660950Z",
+  "model": "glm-5.3"
+}

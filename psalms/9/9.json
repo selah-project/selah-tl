@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At siya'y maghahatol sa sanglibutan sa katuwiran, maghahatol sa mga bansa sa katuwidang tuwid.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "At siya"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "maghahatol"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa sanglibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa katuwiran"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "maghahatol"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa katuwidang tuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:30.750902700Z",
+  "model": "glm-5.3"
+}

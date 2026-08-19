@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Hindi ako matatakot sa sampung libong taong-bayan na sa paligid ko ay nagsitindig laban sa akin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako matatakot"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "sa sampung libo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taong-bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nagsitindig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:01.800356011Z",
+  "model": "glm-5.3"
+}

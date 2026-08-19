@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Si Yoel ang pangulo, at si Shafam ang pangalawa, at si Yaanai at si Shafat sa Bashan.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "at si Shafam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "at si Yaanai"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "at si Shafat"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:10.718647447Z",
+  "model": "glm-5.3"
+}

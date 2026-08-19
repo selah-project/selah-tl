@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Ang Torà ng kanyang Elohim ay nasa kanyang puso; hindi matititis ang kanyang mga hakbang.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torà ng"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "kanyang Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa kanyang puso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "matititis"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "kanyang mga hakbang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:45.563813536Z",
+  "model": "glm-5.3"
+}

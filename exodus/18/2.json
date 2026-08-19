@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kinuha ni Yitro, ang biyenan ni Moshe, si ⟨את⟩ Tzipora, ang asawa ni Moshe, matapos ang kanyang pagsasauli.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "si Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ang biyenan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "si Tzipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ang asawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ang kanyang pagsasauli"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:49.293453869Z",
+  "model": "glm-5.3"
+}

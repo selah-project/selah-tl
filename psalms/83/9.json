@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Si Ashur din ay nakisama sa kanila; sila'y naging bisig para sa mga anak ni Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "si Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "nakisama"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila'y naging"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bisig"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:11.255488242Z",
+  "model": "glm-5.3"
+}

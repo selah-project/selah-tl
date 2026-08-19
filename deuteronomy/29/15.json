@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Sapagkat nakikilala ninyo ⟨ang⟩ ⟨את⟩ ng aming paninirahan sa lupain ng Mitzrayim, at ⟨את⟩ ng aming pagdaan sa gitna ng mga bansang dinaanan ninyo;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nakikilala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming paninirahan sa Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang (na)"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "aming paninirahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "aming pagdaan sa gitna ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang (na)"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "aming pagdaan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "dinaanan ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:36.811203005Z",
+  "model": "glm-5.3"
+}

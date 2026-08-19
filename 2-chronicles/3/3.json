@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang mga ito ang pundasyong itinatag ni Shelomoh sa pagtatayo ng ⟨את⟩ bahay ng Elohim: ang haba ay animnapung siko ayon sa unang sukat, at ang lapad ay dalawampung siko.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ang mga ito"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "itinatag na pundasyon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ng Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "ang haba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ayon sa sukat"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "unang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "na siko"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "animnapu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at ang lapad"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:37.417719181Z",
+  "model": "glm-5.3"
+}

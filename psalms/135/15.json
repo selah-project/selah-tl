@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Ang mga dios-diosan ng mga bansa ay ⟨ay⟩ pilak at ginto, gawa ng mga kamay ng tao.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ang mga dios-diosan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "at ginto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng mga kamay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:47.416373402Z",
+  "model": "glm-5.3"
+}

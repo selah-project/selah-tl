@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "ang mga hayop na gubat at ang lahat ng mga hayop, mga gumagapang na bagay at mga ibong may pakpak:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ang mga hayop na gubat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mga hayop"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mga gumagapang na bagay"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "at mga ibon"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "may pakpak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:38.010219314Z",
+  "model": "glm-5.3"
+}

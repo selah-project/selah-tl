@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "At nangagatuwa sila sapagkat humupa ⟨ang alon⟩, at pinatnubayan niya sila tungo sa daungan na kanilang ninanasa.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "at nangagatuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "humupa"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "at pinatnubayan (pinangunahan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "daungan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "kanilang ninanasa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:59.516286462Z",
+  "model": "glm-5.3"
+}

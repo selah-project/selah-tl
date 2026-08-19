@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Naging mga ulila tayo, walang ama; ang ating mga ina ay parang mga balo.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "mga ulila"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ating mga ina"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "parang mga balo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:40.852729909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Hindi ba tumatawag ang karunungan, at ang unawa ay nagbibigay ng kanyang tinig?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tumatawag"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "at ang unawa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ng kanyang tinig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:38.121073264Z",
+  "model": "glm-5.3"
+}

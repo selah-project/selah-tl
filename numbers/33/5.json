@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Naglakad ang mga anak ni Yisrael mula sa Raamses, at nagkampo sa Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "naglakad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "mula sa Raamses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "at nagkampo"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "sa Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:42.784319440Z",
+  "model": "glm-5.3"
+}

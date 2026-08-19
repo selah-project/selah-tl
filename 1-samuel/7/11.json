@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At lumabas ang mga lalaki ng Israel mula sa Mitspa, at hinabol nila ang ⟨את⟩ mga Peleshti, at sinaktan nila sila hanggang sa ibaba ng Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "at hinabol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Peleshti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "at sinaktan nila sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ibaba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ng Beit"
+    },
+    {
+      "surface": "כר",
+      "gloss": "-Kar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:24.046006523Z",
+  "model": "glm-5.3"
+}

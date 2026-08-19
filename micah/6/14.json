@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ikaw ay kakain ngunit hindi mabubusog, at ang iyong kagutuman ay nasa loob mo; magdadala ka ngunit hindi maliligtas, at ang ililigtas mo ay ibibigay ko sa espada.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabubusog"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "ang iyong kagutuman"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sa loob mo"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "maliligtas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at ang"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "ililigtas mo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:05:01.260874974Z",
+  "model": "glm-5.3"
+}

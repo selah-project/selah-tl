@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sino ang ⟨tulad ng⟩ pantas, at sino ang nakakaalam ng kahulugan ng isang bagay? Ang karunungan ng tao ay nagliliwanag sa kanyang mukha, at ang lakas ng kanyang mukha ay babaguhin.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "tulad ng pantas"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "kahulugan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "nagliliwanag"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kanyang mukha"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "at lakas"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kanyang mukha"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "babaguhin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:00.065263619Z",
+  "model": "glm-5.3"
+}

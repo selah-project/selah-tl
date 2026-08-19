@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Nagluluksa at nalalanta ang lupa, natutuya at nalalanta ang sanlibutan; nalanta ang mga matataas na ⟨mga⟩ tao ng lupa.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "nagluluksa"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "at nalalanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "natutuya"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "at nalalanta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang sanlibutan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nalanta"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mga matataas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:40.966359964Z",
+  "model": "glm-5.3"
+}

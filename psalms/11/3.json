@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sapagkat ang mga patibay ay gibain — ang matuwid, ano ang gagawin?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ang mga patibay"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ay gibain"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ang gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:03.379082712Z",
+  "model": "glm-5.3"
+}

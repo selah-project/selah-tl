@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Mula ⟨kay⟩ ⟨את⟩ Yahweh nangyari ito; ito ay kahanga-hanga sa ating mga mata.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨kay⟩ ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "kahanga-hanga"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "sa ating mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:54.050487815Z",
+  "model": "glm-5.3"
+}

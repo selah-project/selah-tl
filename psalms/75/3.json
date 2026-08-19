@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Pagka ako'y humihip ng takdang panahon, ako mismo ang huhukom nang matuwid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pagka"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ako'y humihip"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takdang panahon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "nang matuwid"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "huhukom"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:37.559599616Z",
+  "model": "glm-5.3"
+}

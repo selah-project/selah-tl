@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Sapagkat ang kanilang yaman ay sagana higit sa kanilang makatirang magkasama, at ang lupain ng kanilang pamamalagi ay hindi nakayang dalhin sila dahil sa dami ng kanilang mga hayop.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ang kanilang yaman"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sagana higit"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "sa kanilang makatirang"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkasama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "nakayang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ng kanilang pamamalagi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "dalhin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa dami ng"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "kanilang mga hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:47.103481567Z",
+  "model": "glm-5.3"
+}

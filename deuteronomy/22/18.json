@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At kukuhanin ng mga matanda ng ⟨ang⟩ lungsod na iyon ⟨את⟩ ng lalaki, at parurusahan nila ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "At kukuhanin nila"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ng mga matanda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ng lalaki"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "at parurusahan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:26.657440618Z",
+  "model": "glm-5.3"
+}

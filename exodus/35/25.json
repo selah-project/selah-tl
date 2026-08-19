@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At bawat babaing matalino ang puso ay naghabi ng kamay nila, at nagsidala sila ng hinabing sinulid: ⟨את⟩ asul na (tekhelet), at ⟨את⟩ ube (argaman), ⟨את⟩ pula ng tola-at na shin, at ⟨את⟩ putong linso.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at bawat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babaing"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "matalino"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ng kamay nila"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "naghabi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "at nagsidala sila"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ng hinabing sinulid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asul na tekhelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "asul na (tekhelet)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ube\/argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ube (argaman)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pula ng tola-at na shin"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ng tola-at"
+    },
+    {
+      "surface": "השני",
+      "gloss": "na shin (pula)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "putong linso"
+    },
+    {
+      "surface": "השש",
+      "gloss": "putong linso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.171705607Z",
+  "model": "glm-5.3"
+}

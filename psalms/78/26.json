@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Kanyang pinaglakbay sa ⟨mga⟩ langit ang hanging-silangan, at pinatnubayan Niya sa Kanyang kalakasan ang hanging-timog.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "pinaglakbay"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "hanging-silangan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "at pinatnubayan"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "sa Kanyang kalakasan"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "hanging-timog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:35.879463483Z",
+  "model": "glm-5.3"
+}

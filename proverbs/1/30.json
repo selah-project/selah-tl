@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Hindi nila tinanggap ang ⟨mungkahing⟩ ko, hinamak nila ang bawat saway ko",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "tinanggap nila"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "ang mungkahi ko"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hinamak nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "saway ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:13.621725027Z",
+  "model": "glm-5.3"
+}

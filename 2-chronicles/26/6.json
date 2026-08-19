@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At lumabas siya at nakipaglaban sa mga Peleshti, at sinira ang ⟨את⟩ pader ng Gat at ang ⟨את⟩ pader ng Yavneh at ang ⟨את⟩ pader ng Ashdod, at nagtayo siya ng mga lungsod sa Ashdod at sa mga Peleshti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "At lumabas"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "at nakipaglaban"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Peleshti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "at sinira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pader ng Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pader ng"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "pader ng Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pader ng"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "pader ng Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pader ng"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "at nagtayo siya ng"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "at sa mga Peleshti"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:07.629761900Z",
+  "model": "glm-5.3"
+}

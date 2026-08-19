@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Sapagkat walang tanikala sa kanilang kamatayan, at ⟨ang⟩ kanilang katawan ⟨ay⟩ malusog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "tanikala"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "sa kanilang kamatayan"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "at malusog"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ang kanilang katawan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:42.196152769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "sapagkat ibinibigay ito sa mga gumagawa ng gawain, at pinapalakas nila ⟨dito⟩ ang ⟨את⟩ bahay ni Yahweh",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga gumagawa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ng gawain"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ibinibigay nila ito"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "at pinapalakas nila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dito⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:13.058579401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At hinatulan niya ang ⟨את⟩ Israel dalawampu't tatlong taon; at namatay siya at inilibing sa Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "at hinatulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu't"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "sa Shamir"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:03.420762879Z",
+  "model": "glm-5.3"
+}

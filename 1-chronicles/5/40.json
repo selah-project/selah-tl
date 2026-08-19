@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nagkaanak si Azaryah ng ⟨את⟩ Serayah, at nagkaanak si Serayah ng ⟨את⟩ Yahotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "at si Azaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ng Serayah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "at si Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "ng Yahotsadak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:25.898183515Z",
+  "model": "glm-5.3"
+}

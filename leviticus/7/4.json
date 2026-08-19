@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ⟨את⟩ dalawang bato at ang ⟨את⟩ taba na nasa mga iyon, na nasa ⟨את⟩ baywang, at ang ⟨את⟩ yotéret sa atay — kasama ng mga bato aalisin ito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ang ⟨את⟩",
+      "marks": "dalawang bato"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "nasa mga iyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "baywang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "yotéret"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yotéret (lamang-loob sa atay)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "aalisin ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:30.888918312Z",
+  "model": "glm-5.3"
+}

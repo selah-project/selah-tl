@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Ang Moab ay palayok ng aking paghuhugas; sa Edom itatatapon ko ang aking sandalyas; dahil sa akin, O Pleshet, magbunyi ka!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "palayok"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ng aking paghuhugas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "itatapon ko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ang aking sandalyas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dahil sa akin"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "O Pleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "magbunyi ka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:34.589194209Z",
+  "model": "glm-5.3"
+}

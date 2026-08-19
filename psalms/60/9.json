@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Sa akin ang Gilad, at sa akin ang Menashsheh; ang Efrayim ay muog ng aking ulo; ang Yehudah ang ⟨siyang⟩ nagtatakda ng aking batas.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ang Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "at sa akin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ang Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "at ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "muog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ng aking ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ang nagtatakda ng aking batas"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:34.588992104Z",
+  "model": "glm-5.3"
+}

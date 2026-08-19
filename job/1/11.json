@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit igala ang iyong kamay ngayon, at salantuhin ang lahat ng kaniya — kung hindi mo siya sasaktan sa iyong harapan!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "igala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "at salantuhin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "sasaktan mo siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:29.299249711Z",
+  "model": "glm-5.3"
+}

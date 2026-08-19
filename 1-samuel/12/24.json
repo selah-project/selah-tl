@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Lamang mangilag kayo kay ⟨את⟩ Yahweh at paglingkuran ninyo siya nang tapat nang buong puso ninyo, sapagkat nakita na ninyo ang ⟨את⟩ kanyang ginawang kadakilaan sa inyo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mangilag kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "at paglingkuran ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "nang tapat"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "nang tapat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "puso ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita na ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ginawang kadakilaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ginawang kadakilaan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:05.235314987Z",
+  "model": "glm-5.3"
+}

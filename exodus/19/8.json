@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sumagot ang buong bayan nang magkakasama at nagsabi: Ang lahat na sinalita ni Yahweh ay gagawin namin. At ibinalik ni Moshe ang ⟨את⟩ mga salita ng bayan kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakasama"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ay gagawin namin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at ibinalik"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ng bayan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:57.018201507Z",
+  "model": "glm-5.3"
+}

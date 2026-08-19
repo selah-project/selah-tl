@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Sumigáw silá kay Yahweh sa kagipitan nila, at mula sa kanilang mga pangamba ay iniligtás silá.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "at sumigáw silá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagipitan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nila"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "mula sa kanilang mga pangamba"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "iniligtás silá"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:08.992636846Z",
+  "model": "glm-5.3"
+}

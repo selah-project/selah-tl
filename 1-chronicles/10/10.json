@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At inilagay nila ang ⟨את⟩ kaniyang kasu-kasuan sa bahay ng kanilang mga elohim, at ang ⟨את⟩ kaniyang bungo ay iniwan sa bahay ni Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kasu-kasuan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaniyang kasu-kasuan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ng kanilang mga elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kaniyang bungo"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "kaniyang bungo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "iniwan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:39.685271802Z",
+  "model": "glm-5.3"
+}

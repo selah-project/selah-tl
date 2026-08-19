@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sa bayang ito ay iyong sasabihin: Ganito ang sabi ni Yahweh: Narito, inilalagay ko sa harap ninyo ang ⟨את⟩ daan ng buhay at ang ⟨את⟩ daan ng kamatayan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ang ito"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sasabihin mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naglalagay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sa harap ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang daan ng buhay"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang daan ng kamatayan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ng kamatayan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:23.310389213Z",
+  "model": "glm-5.3"
+}

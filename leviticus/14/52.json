@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At lilinisin niya ang ⟨את⟩ bahay sa dugo ng ibon at sa buhay na tubig, at sa ibong buhay at sa kahoy ng sedar at sa ezbob at sa pula ng tolaat.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "at lilinisin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ng ibon"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "at sa tubig"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "at sa ibon"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "at sa kahoy"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "ng sedar"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "at sa ezbob"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "at sa pula"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "ng tolaat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:16.781726176Z",
+  "model": "glm-5.3"
+}

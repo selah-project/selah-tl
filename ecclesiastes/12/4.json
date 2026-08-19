@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "at masara ang mga pintuan sa kalsada, sa paghina ng tinig ng paggiling, at bumangon sa tinig ng ibon, at mabaon ang lahat ng mga anak na babae ng awit;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "at masara"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ang mga pintuan"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sa kalsada"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "sa paghina"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ng tinig"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ng paggiling"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "at bumangon"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ng ibon"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "at mabaon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae ng"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:10.332519755Z",
+  "model": "glm-5.3"
+}

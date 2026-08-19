@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ako man, hindi mamahinga ang aking mata, ni hindi ako magkaawa; ang kanilang lakad ay ibinabalik ko sa kanilang mga ulo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "At ako man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mamamahinga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "magkaawa"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ang kanilang lakad"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sa kanilang mga ulo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinabalik ko"
+    }
+  ],
+  "timestamp": "2026-08-19T17:41:05.646724791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Si Yahweh ang lakas nila, at siya ang moog ng mga kaligtasan ng kanyang pinahiran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ang lakas"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ng kanila \/ nila"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "at moog"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ng mga kaligtasan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ng kanyang pinahiran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.687287888Z",
+  "model": "glm-5.3"
+}

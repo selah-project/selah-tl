@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang mga tubig ay patuloy na humupa hanggang sa ikasampung buwan; sa ikasampung buwan, sa unang araw ng buwan, ay lumitaw ang mga taluktok ng mga bundok.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "At ang mga tubig"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "patuloy na pag-urusod"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "at pag-hupa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang buwan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ang ikasampung"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "sa ikasampung"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa unang araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ay lumitaw"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga taluktok"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ng mga bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:18.694780203Z",
+  "model": "glm-5.3"
+}

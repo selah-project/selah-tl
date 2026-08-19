@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At ang mga Mitsri ay naglilibing ng ⟨את⟩ mga sinaktan ni Yahweh sa kanila, bawat panganay; at sa kanilang mga elohim gumawa si Yahweh ng mga paghatol.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "At ang mga Mitsri"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "ay naglilibing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sinaktan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "at sa kanilang mga elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ng mga paghatol"
+    }
+  ],
+  "timestamp": "2026-08-19T15:19:34.860577517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At sa mga iyon ay muling kukuha ka, at itatapon mo ang ⟨את⟩ mga iyon sa gitna ng apoy, at susunugin mo ang ⟨את⟩ mga iyon sa apoy; mula rito ay lalabas na apoy sa buong sambahayan ng Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "At sa mga iyon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kukuha ka"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "at itatapon mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (sa gitna ng apoy)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gitna ng"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "at susunugin mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (sa apoy)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lalabas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na apoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T17:39:26.223435594Z",
+  "model": "glm-5.3"
+}

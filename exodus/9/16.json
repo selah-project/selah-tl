@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit dahil dito, pinalagi kitang tumayo, upang ipakita sa iyo ang ⟨את⟩ aking kapangyarihan, at upang ipahayag ang aking pangalan sa buong lupa.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ngunit"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dito"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "pinalagi kitang tumayo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "upang"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ipakita sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking kapangyarihan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "aking kapangyarihan"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "at upang"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ipahayag"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aking pangalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:02.705361174Z",
+  "model": "glm-5.3"
+}

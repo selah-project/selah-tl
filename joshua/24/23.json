@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Ngayon nga, itaboy ninyo ang ⟨את⟩ mga diyos ng dayuhan na nasa gitna ninyo, at iukol ninyo ang ⟨את⟩ inyong puso kay Yahweh, Elohim ng Israel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "itaboy ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga diyos ng dayuhan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga diyos ng"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sa gitna ninyo"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "at iukol ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong puso"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inyong puso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:52.247440173Z",
+  "model": "glm-5.3"
+}

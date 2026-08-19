@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At hindi na nakaya pang sumagot kay Avner ng ⟨isang⟩ salita, dahil sa takot ⟨niya⟩ ⟨את⟩ sa kanya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "At hindi"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "nakaya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pang"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "dahil sa takot niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:49.718766830Z",
+  "model": "glm-5.3"
+}

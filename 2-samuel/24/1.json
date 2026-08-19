@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At muli'y nadagdagan ang galit ni Yahweh laban sa Israel, at hinikayat niya si David laban sa kanila, na nagsasabi: Umupo ⟨siya⟩ sa kanila: Pumunta ka, bilangin mo ang ⟨את⟩ Israel at ang ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "at nadagdagan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "nasindihan laban sa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "at hinikayat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "bilangin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "ang Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:40.291095825Z",
+  "model": "glm-5.3"
+}

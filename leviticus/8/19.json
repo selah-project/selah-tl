@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At pinatay niya; at winisikan ni Moshe ⟨את⟩ ang dugo sa ibabaw ng altar sa paligid.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "at pinatay niya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "at winisikan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:09.603533708Z",
+  "model": "glm-5.3"
+}

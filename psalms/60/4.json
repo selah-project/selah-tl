@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Yumanig Ka sa lupa, binitak Mo ito; pagalingin ang mga bitak nito, sapagkat nag-aangat ito",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Yumanig Ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "binitak Mo ito"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "pagalingin"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ang mga bitak nito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nag-aangat ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:26.680679527Z",
+  "model": "glm-5.3"
+}

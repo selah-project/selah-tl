@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sumagot si Yahweh kay ⟨את⟩ Iyob mula sa bagyo, at nagsabi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "bagyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:55:30.193163947Z",
+  "model": "glm-5.3"
+}

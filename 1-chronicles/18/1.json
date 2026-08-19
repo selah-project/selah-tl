@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Nangyari ito pagkatapos noon: sinaktan ni David ang ⟨את⟩ mga Filisteo at pinahiya sila, at kinuha ang ⟨את⟩ Gat at ang mga bayan nito mula sa kamay ng mga Filisteo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nangyari ito"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "noon"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Filisteo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Filisteo"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "at pinahiya sila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "at ang mga bayan nito"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Filisteo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:50.129773528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At bantayan nila ang ⟨את⟩ kanyang pagbantay, at ang ⟨את⟩ pagbantay ng buong kongregasyon, sa harap ng tolda ng kapisanan, upang gawin ang ⟨את⟩ paglilingkod ng mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "at bantayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pagbantay"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "kanyang pagbantay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pagbantay ng buong kongregasyon"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paglilingkod ng mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "paglilingkod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng mishkan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:15.782172944Z",
+  "model": "glm-5.3"
+}

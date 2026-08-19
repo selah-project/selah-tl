@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ng ⟨את⟩ mga Pathrusim, at ng ⟨את⟩ mga Casluchim — mula sa kanila lumabas ang mga Peleshet — at ng ⟨את⟩ mga Caphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "mga Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "mga Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "mga Caphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "mga Caphtorim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:44.858058846Z",
+  "model": "glm-5.3"
+}

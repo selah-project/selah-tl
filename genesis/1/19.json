@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At naging ⟨hapon⟩ at naging ⟨umaga⟩ — ⟨araw⟩ na ikaapat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hapon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "ikaapat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:00.969828816Z",
+  "model": "glm-5.3"
+}

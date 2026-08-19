@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At iingatan mo ang ⟨את⟩ tuntuning ito sa takdang panahon nito, mula sa mga araw hanggang sa mga araw.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "At iingatan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuntuning ito"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "tuntuning"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "sa takdang panahon nito"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "mula sa mga araw"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "hanggang sa mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:16.554302070Z",
+  "model": "glm-5.3"
+}

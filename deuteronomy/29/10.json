@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "ang mga bata ninyo, ang mga asawa ninyo, at ang dayuhan mo na nasa gitna ng kampo mo — mula sa nagtotroso ng kahoy mo hanggang sa humuhugot ng tubig mo;",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "mga bata ninyo"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "mga asawa ninyo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "at dayuhan mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "kampo mo"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "mula sa nagtotroso ng"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "kahoy mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "humuhugot"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "tubig mo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:36.672100591Z",
+  "model": "glm-5.3"
+}

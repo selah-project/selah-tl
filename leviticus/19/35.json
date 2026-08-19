@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Hindi kayo gagawa ng kalaban sa hatol, sa sukat, sa timbang, at sa panukat na tulog.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kayo gagawa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kalaban"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa hatol"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "sa sukat"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "sa timbang"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "at sa panukat na tulog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:44.370173416Z",
+  "model": "glm-5.3"
+}

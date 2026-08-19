@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Lumabas ang hari ng Yisrael, at hinampas ang ⟨את⟩ mga kabayo at ang ⟨את⟩ mga karo, at naghari ng pagkapatay sa Aram — isang malaking pagkapatay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hinampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kabayo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang mga kabayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga karo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ang mga karo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "naghari ng pagkapatay"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pagkapatay"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "malaking"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:08.972613313Z",
+  "model": "glm-5.3"
+}

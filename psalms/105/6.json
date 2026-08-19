@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Kayong lahi ni Avraham na alila niya, mga anak ni Yaakov na mga hinirang niya.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "alila niya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "mga hinirang niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.321095746Z",
+  "model": "glm-5.3"
+}

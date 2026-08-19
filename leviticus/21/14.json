@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Balo, itinatapon, dinungisan, babaing nagpatutot — ⟨את⟩ mga ito ay hindi niya kukunin, kundi dalaga mula sa kanyang bayan ang kanyang kukuning babae.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "itinatapon"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "dinungisan"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "babaing nagpatutot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukunin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hindi kundi (ki im)"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "mula sa kanyang bayan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukunin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:35.846860848Z",
+  "model": "glm-5.3"
+}

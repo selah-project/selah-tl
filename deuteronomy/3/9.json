@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang mga Tsidonita ay tinatawag ang Hermon bilang Siryon, at ang mga Emoreo ay tinatawag ito bilang Shenir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "mga Tsidonita"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "tinatawag"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ang Hermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Siryon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "at ang mga Emoreo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "tinatawag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ito"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Shenir"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:45.828327734Z",
+  "model": "glm-5.3"
+}

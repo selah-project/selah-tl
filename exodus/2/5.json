@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At bumaba ang anak ni Paroh upang maligo sa ilog, at ang mga alilang babae niya ay lumalakad sa gilid ng ilog; at nakita niya ang ⟨את⟩ kahon sa gitna ng mga tambo, at ipinadala niya ang ⟨את⟩ alilang babae niya, at kinuha ⟨niya⟩ ito.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "at bumaba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "upang maligo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ilog"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "at ang mga alilang babae niya"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "lumalakad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "gilid"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ng ilog"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahon"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "ng mga tambo"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "at ipinadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alilang babae niya"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "ang alilang babae niya"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "at kinuha ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.106124112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 126,
+  "translation": "Dakilang gawa si Yahweh nang gawin ang mga bagay na ito kasama ng amin; kaya tayo'y naging mga masasaya.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Dakilang gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nang gawin ang mga bagay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kasama ng amin"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tayo'y naging"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "mga masasaya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.642036638Z",
+  "model": "glm-5.3"
+}

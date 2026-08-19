@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ⟨את⟩ mga Hori sa kanilang bundok na Seir, hanggang sa El-Paran, na nasa tabi ng ilang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "mga Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "sa kanilang bundok"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa tabi ng \/ sa ibabaw ng"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:03.270613513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At gagawa ka ng ⟨את⟩ mga patpat na kahoy ng akasya, at babalutan mo sila ng ginto.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga patpat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "at babalutan mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (mga patpat)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:03.714742131Z",
+  "model": "glm-5.3"
+}

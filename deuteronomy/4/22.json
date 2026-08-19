@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sapagkat ako ay mamamatay sa lupaing ito; hindi ako tatawid sa ⟨את⟩ Yarden, ngunit kayo ay tatawid at pag-aarihin ninyo ang ⟨את⟩ mabuting lupaing ito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mamamatay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupaing"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "hindi ako"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tatawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ngunit kayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tatawid"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "at pag-aarihin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabuting lupaing ito"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:22.042472324Z",
+  "model": "glm-5.3"
+}

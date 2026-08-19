@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Tubusin ni Yahweh ang ⟨את⟩ kaluluwa ng kanyang mga alipin, at hindi magigingtangan ang lahat ng lumalayong sa kanya.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "tubusin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga alipin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magigingtangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "lumalayong"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.134352605Z",
+  "model": "glm-5.3"
+}

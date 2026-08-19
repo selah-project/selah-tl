@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "at pagpapatahan ko kayo ⟨את⟩ sa lugar na ito, sa lupaing ibinigay ko sa inyong mga ninuno, mula sa walang hanggan hanggang sa walang hanggan.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "at pagpapatahan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (ang pinauulanan sa lugar na ito)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "sa inyong mga ninuno"
+    },
+    {
+      "surface": "למן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan (na nakaraan)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:17:19.664435096Z",
+  "model": "glm-5.3"
+}

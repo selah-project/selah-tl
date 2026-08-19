@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Wala sila sa kahirapan ng marurupok na tao, at kasama ng mga tao ay hindi sila ginagalaw.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "sa kahirapan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "marurupok na tao"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "wala sila"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ginagalaw sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:18.616960362Z",
+  "model": "glm-5.3"
+}

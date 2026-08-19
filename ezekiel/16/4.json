@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At tungkol sa iyong pagkakapanganak: sa araw ng iyong kapanganakan, hindi pinutol ang ⟨את⟩ iyong pusod, at sa tubig hindi ka hinugasan upang malambot, at hindi ka binudburan ng asin, at hindi ka binalot ng kayu.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "at tungkol sa iyong pagkakapanganak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "ng iyong kapanganakan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw (ang isinilang)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "pinutol"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ang iyong pusod"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "at sa tubig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ka hinugasan"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "upang malambot"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "at hindi ka binudburan ng asin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "ka binudburan ng asin"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "at hindi ka binabalot ng kayu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "ka binabalot ng kayu"
+    }
+  ],
+  "timestamp": "2026-08-19T17:42:18.872359218Z",
+  "model": "glm-5.3"
+}

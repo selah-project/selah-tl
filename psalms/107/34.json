@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Isang lupaing may bunga ay ⟨ginagawang⟩ asin-lupa, dahil sa kasamaan ng mga naninirahan doon.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "may bunga"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "asin-lupa"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "dahil sa kasamaan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ng mga naninirahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:52.012336534Z",
+  "model": "glm-5.3"
+}

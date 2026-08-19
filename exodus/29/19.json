@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kukunin mo ang ⟨את⟩ ikalawang tupang ⟨את⟩, at ipapatong ni Aharon at ng kanyang mga anak ang ⟨את⟩ kanilang mga kamay sa ulo ng tupang.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "at kukunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikalawang tupang"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tupang"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikalawang"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "at ipapatong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ng kanyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kanilang mga kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ng tupang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:50.927230939Z",
+  "model": "glm-5.3"
+}

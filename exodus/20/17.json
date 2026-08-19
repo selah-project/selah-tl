@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Huwag mong pagnanasaan ang bahay ng iyong kapwa; huwag mong pagnanasaan ang asawa ng iyong kapwa, ni ang kanyang aliping lalaki, ni ang kanyang aliping babae, ni ang kanyang baka, ni ang kanyang asno, ni anumang bagay na sa iyong kapwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "pagnanasaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "pagnanasaan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ni ang kanyang aliping lalaki"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ni ang kanyang aliping babae"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "ni ang kanyang baka"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "ni ang kanyang asno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni anumang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bagay na"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "sa iyong kapwa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:34.041792286Z",
+  "model": "glm-5.3"
+}

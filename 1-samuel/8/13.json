@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang ⟨את⟩ inyong mga anak na babae ay kukuhanin niya upang maging tagagawa ng pabango, at tagaluto, at tagahurno ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga anak na babae"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "inyong mga anak na babae"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kukuhanin niya"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "upang maging tagagawa ng pabango"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "at tagaluto"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "at tagahurno ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:26.867140925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At magkakaloob ako sa inyo ng awa, at aaain sa inyo ⟨את⟩, at ibabalik kayo ⟨את⟩ sa inyong lupa.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "at magkakaloob ako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ng awa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "at aaain"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "at ibabalik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "inyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:34:22.984889526Z",
+  "model": "glm-5.3"
+}

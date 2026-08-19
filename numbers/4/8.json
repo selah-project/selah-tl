@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ibubunlat nila sa ibabaw ng mga iyon ang damit na tula-ng-ngangaw na pula, at tatakpan nila ⟨את⟩ ito ng pabalat na balat ng takhash, at ilalagay ang ⟨את⟩ kaniyang mga pingga.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "at ibubunlat nila"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw ng mga iyon"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "damit"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tula-ng-ngangaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "na pula"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "at tatakpan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang hapag)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ng pabalat"
+    },
+    {
+      "surface": "עור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ng takhash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "at ilalagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pingga"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang kaniyang mga pingga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:24.102134655Z",
+  "model": "glm-5.3"
+}

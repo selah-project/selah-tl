@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 141,
+  "translation": "Mahulog sana ang mga masama sa sarili nilang mga lambat, samantalang ako'y magpapalipas ⟨nang ligtas⟩.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "mahulog sana"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "sa sarili nilang mga lambat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga masama"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sabay-sabay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "samantalang"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "magpapalipas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:20.047903036Z",
+  "model": "glm-5.3"
+}

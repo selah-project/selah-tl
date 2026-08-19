@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Alalahanin mo ang ⟨את⟩ ginawa ni Yahweh na Elohim mo kay Miriam, sa daan, sa inyong paglabas mula sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Alalahanin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kay Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "sa inyong paglabas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:30:22.459351874Z",
+  "model": "glm-5.3"
+}

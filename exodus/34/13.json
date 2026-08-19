@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Sapagkat ang ⟨את⟩ mga dambana nila ay babagsak ninyo, at ang ⟨את⟩ mga haliging-tanda nila ay dudurugin ninyo, at ang ⟨את⟩ mga Ashera niya ay puputulin ninyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dambana nila"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mga dambana nila"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "babagsak ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga haliging-tanda nila"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "mga haliging-tanda nila"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "dudurugin ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga Ashera niya"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "mga Ashera niya"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "puputulin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:43.468058352Z",
+  "model": "glm-5.3"
+}

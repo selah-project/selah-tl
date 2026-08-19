@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sinabi ng hari sa babae: Umuwi ka sa iyong bahay, at ako ang mag-uutos tungkol sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "umuuwi ka"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "mag-uutos"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tungkol sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:17:21.363811337Z",
+  "model": "glm-5.3"
+}

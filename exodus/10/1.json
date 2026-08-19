@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi ni Yahweh kay Moshe: Pumunta ka kay Paroh, sapagkat ako ang nagpabigat ng ⟨את⟩ kanyang puso at ng ⟨את⟩ puso ng kanyang mga alipin, upang ilagay ko ang mga tandang ito sa gitna niya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nagpabigat ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang puso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kanyang puso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "puso ng kanyang mga alipin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ng kanyang mga alipin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ilagay ko"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ang aking mga tanda"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa gitna niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:43.612336189Z",
+  "model": "glm-5.3"
+}

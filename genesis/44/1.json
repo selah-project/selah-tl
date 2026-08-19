@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At iniutos niya kay ⟨את⟩ niyang tagapamahala sa bahay, na nagsasabi: Punuin mo ang ⟨את⟩ mga sako ng mga lalaki ng pagkain, kaya nilang dalhin, at ilagay mo ang pilak ng bawat isa sa bibig ng kaniyang sako.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay niyang tagapamahala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niyang (na) sa bahay"
+    },
+    {
+      "surface": "על",
+      "gloss": "tagapamahala sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bahay niya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Punuin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sako"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "mga sako"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga lalaki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ng pagkain"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "nila (kaya)"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "dalhin"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "at ilagay mo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng bawat isa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa bibig ng"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kaniyang sako"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:15.776301074Z",
+  "model": "glm-5.3"
+}

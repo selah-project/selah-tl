@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Nguni't sinakop ni David ang ⟨את⟩ kuta ng Tzion — ito ang lungsod ni David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nguni't sinakop"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuta ng Tzion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tzion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:13:42.287008567Z",
+  "model": "glm-5.3"
+}

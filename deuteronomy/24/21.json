@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Kapag inani mo ang iyong ubasan, huwag kang magpulot ulit sa iyong likuran: para sa dayuhan, para sa ulila at para sa balo ito ⟨ay⟩ magiging.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "inani mo"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ang iyong ubasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "magpulot ulit"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa iyong likuran"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "para sa dayuhan"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "para sa ulila"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "at para sa balo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ito magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:55.170127931Z",
+  "model": "glm-5.3"
+}

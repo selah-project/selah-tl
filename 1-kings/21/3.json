@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinabi ni Navot kay Ahab: Kalayo-layo sa akin, mula kay Yahweh, ang ibigay ko ang ⟨את⟩ mana ng aking mga ama sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ni Navot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "kalayo-layo (huwag sanang)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "mula kay Yahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ang ibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana ng aking mga ama"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ng aking mga ama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:39:11.299671598Z",
+  "model": "glm-5.3"
+}

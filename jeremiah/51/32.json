@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "At nabihag ang mga tawiran, at ang ⟨את⟩ mga latian sinunog sa apoy, at ang mga lalaking pandigma ay natakot.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "At ang mga tawiran"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "nabihag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga latian"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "ang mga latian"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "at ang mga lalaking"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pandigma"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "natakot"
+    }
+  ],
+  "timestamp": "2026-08-19T17:37:19.982950172Z",
+  "model": "glm-5.3"
+}

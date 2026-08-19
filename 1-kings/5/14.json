@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At dumarating sila mula sa lahat ng mga bansa upang makinig sa ⟨את⟩ karunungan ni Shelomoh, mula ⟨את⟩ lahat ng hari ng lupa na nakarinig ng ⟨את⟩ kanyang karunungan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumarating sila"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "upang makinig sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karunungan ni Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "lahat ng hari ng lupa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakarinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang karunungan"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "kanyang karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:31.946536121Z",
+  "model": "glm-5.3"
+}

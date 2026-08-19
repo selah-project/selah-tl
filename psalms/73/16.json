@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "At iniisip kong maunawaan ito — paghihirap ito sa aking mga mata.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "at iniisip ko"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "na maunawaan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "paghihirap"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa aking mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:49.482395231Z",
+  "model": "glm-5.3"
+}

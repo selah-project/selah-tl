@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kaya't nanumpa ako sa bahay ni Eli: kung mapapatawad man ang kasamaan ng bahay ni Eli sa pamamagitan ng hain at ng handog, ⟨ay hindi⟩ magpakailanman.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nanumpa ako"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "mapapatawad man"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "sa pamamagitan ng hain"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "at ng handog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:07.654075091Z",
+  "model": "glm-5.3"
+}

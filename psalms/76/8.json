@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 76,
+  "translation": "Ikaw — nakapanginig ⟨ka⟩ — ikaw; at sino ang makatayong-harap sa iyong harapan mula sa iyong poot?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nakapanginig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ang makatayong-harap"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "iyong poot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:45.032191633Z",
+  "model": "glm-5.3"
+}

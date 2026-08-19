@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Kapag bibilhin mo ang isang aliping Hebreo, anim na taon siyang maglilingkod, at sa ikapito ay lalabas siya nang malaya nang walang bayad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "bilibihin mo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aliping"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebreo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na taon"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "maglilingkod"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "at sa ikapito"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lalabas siya"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "nang malaya"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang bayad"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:55.763175685Z",
+  "model": "glm-5.3"
+}

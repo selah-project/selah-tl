@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At siya'y umalis, at nakasalubong siya ng isang leon sa daan, at siya'y pinatay nito; at ang kanyang bangkay ay nabitawan sa daan, at ang asno ay nakatayo sa tabi nito, at ang leon ay nakatayo sa tabi ng bangkay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at siya'y umalis"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "at nakasalubong siya"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ng isang leon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "at pinatay siya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ang kanyang bangkay"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "nabitawan\/nakalagpak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "at ang asno"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "sa tabi nito"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "at ang leon"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nakatayo"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sa tabi ng"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "bangkay"
+    }
+  ],
+  "timestamp": "2026-08-19T20:06:46.098910141Z",
+  "model": "glm-5.3"
+}

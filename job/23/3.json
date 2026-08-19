@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sino ang magbibigay na maalaman ko at matagpuan ko siya? Mapupunta ako hanggang sa kanyang tahanan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "maalaman ko"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "at matagpuan ko siya"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mapupunta ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "kanyang tahanan \/ upuan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:50:44.712230856Z",
+  "model": "glm-5.3"
+}

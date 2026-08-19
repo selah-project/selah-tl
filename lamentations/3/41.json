@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Itaas natin ang ating puso sa ⟨mga⟩ kamay, patungo kay El sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "itaas"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ating puso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mga kamay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo kay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:59.834025865Z",
+  "model": "glm-5.3"
+}

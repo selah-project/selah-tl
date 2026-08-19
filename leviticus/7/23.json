@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Magsalita ka sa mga anak ni Yisrael, na sabihin: ang taba ng baka, ng tupa, at ng kambing — huwag ninyong kakainin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Magsalita ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sabihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "at tupa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "at kambing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyong kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:10.737112466Z",
+  "model": "glm-5.3"
+}

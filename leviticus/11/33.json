@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At bawat kasangkapang putol sa lupa na kung saan mahuhulog ang isa sa mga iyon sa loob nito, ang lahat na nasa loob nito ay marumi, at ⟨את⟩ nito babalihin ninyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "At bawat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kasangkapan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "putol sa lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kung saan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "mahuhulog"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mula sa mga iyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "loob nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ay marumi"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "at ⟨את⟩ nito",
+      "marks": "nito (ang sisidlan)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "babalihin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:34.068849896Z",
+  "model": "glm-5.3"
+}

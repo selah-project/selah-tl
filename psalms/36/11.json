@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Iunat mo ang iyong kahabagan sa mga nakakakilala sa iyo, at ang iyong katuwiran sa mga matitibay ng puso.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "iunat mo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "iyong kahabagan"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "sa mga nakakakilala sa iyo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "at ang iyong katuwiran"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sa mga matuwid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ng puso"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:15.004119915Z",
+  "model": "glm-5.3"
+}

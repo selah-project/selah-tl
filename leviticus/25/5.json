@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ang ⟨את⟩ saling-sariling ani mo ay hindi mo aanihin, at ang ⟨את⟩ ubas ng iyong hindi pinungulan na puno ay hindi mo pipitasin; taon ng pagpapahingahang-Shabbat ⟨ito⟩ para sa lupa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saling-sariling ani"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "saling-sariling ani"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ani mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "aanihin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ubas"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ubas"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "hindi pinungulan (nazireo) mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "pipitasin"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taon ng"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pagpapahingahang-Shabbat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "para sa lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:54.110444500Z",
+  "model": "glm-5.3"
+}

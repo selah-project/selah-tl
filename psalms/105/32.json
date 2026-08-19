@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Binigyan niya ang ⟨the⟩ kanilang mga ulan ng yelo, apoy na may ningas sa kanilang lupa.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "binigyan"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "kanilang mga ulan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ng yelo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "na may ningas"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa kanilang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:45.703107628Z",
+  "model": "glm-5.3"
+}

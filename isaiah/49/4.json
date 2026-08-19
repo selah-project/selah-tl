@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "At ako'y nagsabi: Sa walang-laban ako napagod, sa karalitaan at kabulaanan nagamit ko ang aking lakas; ngunit tiyak na ang aking hatol ay kay Yahweh, at ang aking gawa ay ⟨את⟩ aking Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "At ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sa walang-laban"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ako napagod"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "sa karalitaan"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "at kabulaanan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang aking lakas"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nagamit ko"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ngunit tiyak na"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang aking hatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "at ang aking gawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:09:04.235488044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nangyari, dahil sa kalapastanganan ng kanyang pakikiapid, nadungisan ang ⟨את⟩ lupa at nagpalandi sa ⟨את⟩ bato at sa ⟨את⟩ kahoy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "dahil sa kalapastanganan ng"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "kanyang pakikiapid"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "at nadungisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "at nagpalandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kahoy"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ang kahoy"
+    }
+  ],
+  "timestamp": "2026-08-19T17:15:14.514371174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "At sinabi ko: Kung sakali’y didiliman ako ng kadiliman — ngunit ang gabi ay magiging liwanag sa paligid ko.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "At sinabi ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kung sakali’y"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kadiliman"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "didiliman ako"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ngunit ang gabi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "sa paligid ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:12.806687657Z",
+  "model": "glm-5.3"
+}

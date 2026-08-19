@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At gagawin mo ang mga sungay nito sa apat na sulok nito; mula rito ⟨mismo⟩ magiging ang mga sungay nito; at bubtakin mo ito ⟨את⟩ ng tanso.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ang mga sungay nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "sulok nito"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ang mga sungay nito"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "at bubtakin mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang altar)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:13.942918438Z",
+  "model": "glm-5.3"
+}

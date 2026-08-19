@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi ni Yahweh kay HaSatan: Narito, siya ay nasa iyong kamay; ngunit ang ⟨את⟩ kanyang buhay ay ingatan mo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "nasa iyong kamay"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang buhay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kanyang buhay"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ingatan mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:35.490829423Z",
+  "model": "glm-5.3"
+}

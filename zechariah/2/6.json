@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi ko, Saan ka pupunta? At sinabi niya sa akin, Susukatin ⟨ang⟩ Yerushalayim, upang makita kung gaano kalapad ito at kung gaano kahaba ito.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "saan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pupunta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "למד",
+      "gloss": "susukatin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kung gaano"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "kalapad"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "at kung gaano"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "kahaba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:08:23.854696369Z",
+  "model": "glm-5.3"
+}

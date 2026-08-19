@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sa tabak mangungulat kayo; sa hangganan ng Yisrael Ako maghahatol sa ⟨את⟩ inyo, at makikilala ninyo na Ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "sa tabak"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mangungulat kayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hangganan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Ako maghahatol"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "kayo (hinahatulan)"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "at makikilala ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:41:04.636526432Z",
+  "model": "glm-5.3"
+}

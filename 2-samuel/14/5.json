@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sinabi ng hari sa kaniya: Ano ang sa iyo? At kaniyang sinabi: Katotoo'y biyudang babae ako, at namatay ang aking asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "katotoo'y"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "biyuda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "aking asawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:17:21.363174422Z",
+  "model": "glm-5.3"
+}

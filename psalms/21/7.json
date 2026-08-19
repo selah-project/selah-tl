@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Sapagkat ginawa mo siyang mga pagpapala magpakailanman; pinasisiya mo siya ng kagalakan sa ⟨את⟩ iyong mga pagmumukha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ginawa mo siya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mga pagpapala"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "pinasisiya mo siya"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ng kagalakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga pagmumukha"
+    },
+    {
+      "surface": "פניק",
+      "gloss": "iyong mga pagmumukha"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:17.079077975Z",
+  "model": "glm-5.3"
+}

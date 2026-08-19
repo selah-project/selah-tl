@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang ⟨את⟩ mga bumabalik sa likod ni Yahweh, ⟨na⟩ hindi naghanap ng ⟨את⟩ Yahweh at hindi Siya ninanawagan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga bumabalik"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "mga bumabalik"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sa likod ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "naghanap ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "Siya ninanawagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:06:05.692384554Z",
+  "model": "glm-5.3"
+}

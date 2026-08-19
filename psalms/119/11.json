@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Sa aking puso itinago ko ang iyong salita, upang hindi ako magkasala laban sa iyo.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "sa aking puso"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "itinago ko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang iyong salita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ako magkasala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "laban sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:18.230512486Z",
+  "model": "glm-5.3"
+}

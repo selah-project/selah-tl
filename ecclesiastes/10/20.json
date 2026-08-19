@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kahit sa iyong kaisipan, huwag mong sumpain ang hari, at sa mga silid ng iyong higaan, huwag mong sumpain ang mayaman; sapagkat ang ibon ng langit ang magdadala ng ⟨את⟩ tinig, at ang may-ari ng mga pakpak ay magbabalita ng ⟨את⟩ usap.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "sa iyong kaisipan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "sumpain"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "at sa mga silid"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ng iyong higaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "sumpain"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mayaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "at ang may-ari"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "ng mga pakpak"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magbabalita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usap"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:19.278449499Z",
+  "model": "glm-5.3"
+}

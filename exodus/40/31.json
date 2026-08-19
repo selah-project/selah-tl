@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At humugas mula rito si Moshe at si Aharon at ang kaniyang mga anak — ang ⟨את⟩ kanilang mga kamay at ang ⟨את⟩ kanilang mga paa.",
+  "tokens": [
+    {
+      "surface": "ו רחצו",
+      "gloss": "at humugas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang kaniyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang kanilang mga kamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang mga paa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ang kanilang mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:08.500101381Z",
+  "model": "glm-5.3"
+}

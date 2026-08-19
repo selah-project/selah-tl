@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ang dila ng mga marurunong ay gumagawa ng mabuti sa kaalaman, ngunit ang bibig ng mga hangal ay bumubulusok ng kamangmangan.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mga marurunong"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "gumagawa ng mabuti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalaman"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ngunit bibig"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mga hangal"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "bumubulusok"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kamangmangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:27.393022978Z",
+  "model": "glm-5.3"
+}

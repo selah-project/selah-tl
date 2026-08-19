@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang tinig ni Yahweh ⟨ay⟩ nasa ibabaw ng mga tubig; si El ng kaluwalhatian ay nagpaulan ng kulog; si Yahweh ⟨ay⟩ nasa ibabaw ng maraming tubig.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ng mga tubig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ng kaluwalhatian"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nagpaulan ng kulog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:25.473145498Z",
+  "model": "glm-5.3"
+}

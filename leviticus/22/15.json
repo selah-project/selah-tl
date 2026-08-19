@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At hindi nila dadungisan ang ⟨את⟩ mga banal na bagay ng mga anak ni Yisrael, ⟨את⟩ yaong itinataas nila kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "At hindi"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "nila dadungisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga banal na bagay"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ang mga banal na bagay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaong itinataas nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaong"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "itinataas nila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:38.497933742Z",
+  "model": "glm-5.3"
+}

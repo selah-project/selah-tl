@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ihanda mo para sa iyo ang ⟨את⟩ daan, at hatiin mo sa tatlo ang ⟨את⟩ hangganan ng iyong lupain na papamana-in sa iyo ni Yahweh na iyong Elohim, at maging itong takbuhan doon ng bawat mamamatay-tao.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "ihanda mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "at hatiin mo sa tatlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangganan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hangganan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ng iyong lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "papamana-in sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "takbuhan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mamamatay-tao"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:12.980033162Z",
+  "model": "glm-5.3"
+}

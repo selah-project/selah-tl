@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nagsabi ako: Adonai Yahweh, tumigil ka ⟨na⟩; paano babangon si Yaakov? sapagkat maliit siya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "tumigil ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "paano"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "babangon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "maliit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:03.226599637Z",
+  "model": "glm-5.3"
+}

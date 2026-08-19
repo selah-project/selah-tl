@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Kaya bumaba ang sampung kapatid ni Yosef upang bumili ng grano mula sa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "at bumaba sila"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ang mga kapatid"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "upang bumili"
+    },
+    {
+      "surface": "בר",
+      "gloss": "grano"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:21.022070468Z",
+  "model": "glm-5.3"
+}

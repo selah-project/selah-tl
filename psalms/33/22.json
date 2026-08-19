@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Sumaiyo, Yahweh, ang iyong chesed sa amin, kung paanong tayo umasa ⟨ayon⟩ sa iyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maging"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang iyong chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "umin tig tayo umasa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:22.204435288Z",
+  "model": "glm-5.3"
+}

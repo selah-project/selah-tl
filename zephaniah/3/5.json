@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Matuwid si Yahweh sa gitna niya; hindi gagawa ng kahima-himala; umaga-umaga, ibinibigay niya ang kanyang hatol sa liwanag; hindi nawawala, ngunit hindi nakakakilala ang balakyot sa kahihiyan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa gitna niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ng kahima-himala"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ang kanyang hatol"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ibinibigay niya"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "nawawala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "עול",
+      "gloss": "balakyot"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kahihiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:06:57.816906280Z",
+  "model": "glm-5.3"
+}

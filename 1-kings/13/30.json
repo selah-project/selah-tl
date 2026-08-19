@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At inilatag ⟨niya⟩ ang ⟨את⟩ kaniyang bangkay sa kaniyang libingan, at naghinagis sila sa kaniya: Aba, kapatid ko!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "at inilatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang bangkay"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "kaniyang bangkay"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "sa kaniyang libingan"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "at naghinagis sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid ko"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:08.081001189Z",
+  "model": "glm-5.3"
+}

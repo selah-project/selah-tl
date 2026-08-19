@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Si Yahweh ang nag-iingat sa ⟨את⟩ mga dayuhan; ang ulila at ang balo ay kanyang itinatayo, ngunit ang landas ng mga masasama ay kanyang iniuudling.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ang nag-iingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dayuhan"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ang ulila"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "at ang balo"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ay kanyang itinatayo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ngunit ang landas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ay kanyang iniuudling"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:02.883111641Z",
+  "model": "glm-5.3"
+}

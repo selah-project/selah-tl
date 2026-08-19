@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Maawain at mapagbigay si Yahweh, mahinahon sa galit, at sagana sa kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "maawain"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "at mapagbigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahinahon"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sa galit"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at sagana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:05.854004895Z",
+  "model": "glm-5.3"
+}

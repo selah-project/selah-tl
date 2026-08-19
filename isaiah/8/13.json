@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Si ⟨את⟩ Yahweh Tsevaot, siya ninyong itataas bilang banal; at siya ang inyong kinatatakutan, at siya ang inyong sindak.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Si Yahweh Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ninyong itataas bilang banal"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "inyong kinatatakutan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "inyong sindak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:58.887120196Z",
+  "model": "glm-5.3"
+}

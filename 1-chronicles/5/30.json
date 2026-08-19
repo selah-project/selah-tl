@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Si Elazar ay nagkaanak ⟨את⟩ Pinchas; si Pinchas ay nagkaanak ⟨את⟩ Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Si Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "si Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ay nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:28.460580181Z",
+  "model": "glm-5.3"
+}

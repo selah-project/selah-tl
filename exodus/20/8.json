@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Alalahanin mo ⟨את⟩ ang araw ng shabbat, upang ituwid itong banal.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "alalahanin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang araw ng shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "upang ituwid itong banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:22.332394769Z",
+  "model": "glm-5.3"
+}

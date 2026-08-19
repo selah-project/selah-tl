@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At itinayo ni Shelomoh ang ⟨את⟩ Gezer at ang ⟨את⟩ Beit-Choron na mababang bahagi,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "at itinayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "mababang bahagi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:11.945738659Z",
+  "model": "glm-5.3"
+}

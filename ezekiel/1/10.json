@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang anyo ng kanilang mga mukha: mukha ng tao, at mukha ng leon sa kanan sa kanilang apat, at mukha ng baka sa kaliwa sa kanilang apat, at mukha ng agila sa kanilang apat.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "At ang anyo"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ng kanilang mga mukha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at mukha"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ng leon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "sa kanilang apat"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at mukha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng baka"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sa kaliwa"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "sa kanilang apat"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "at mukha"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "ng agila"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "sa kanilang apat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:38:09.136304158Z",
+  "model": "glm-5.3"
+}

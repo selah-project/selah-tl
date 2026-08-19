@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At kakain sila ngunit hindi mabubusog; mangangalunya sila ngunit hindi lalago; sapagkat si ⟨את⟩ Yahweh iniwan nila sa pag-iingat ⟨sa kanya⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "At kakain sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mabubusog"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "mangangalunya sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "lalago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "iniwan nila"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pag-iingat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:22.623018724Z",
+  "model": "glm-5.3"
+}

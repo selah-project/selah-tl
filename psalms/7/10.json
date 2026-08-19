@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Magwakas na nga ang kasamaan ng mga masama, at itatag mo ang matuwid; at ⟨siya ay⟩ tagasuri ng mga puso at mga bato-bato — si Elohim na matuwid.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "magwakas"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "at itatag mo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "at tagasuri"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "mga puso"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "at mga bato-bato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:23.034292820Z",
+  "model": "glm-5.3"
+}

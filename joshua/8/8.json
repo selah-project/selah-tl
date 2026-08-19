@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At mangyayari, na kapag nakuha na ninyo ang ⟨את⟩ siyudad, susunugin ninyo ang ⟨את⟩ siyudad sa apoy; ayon sa salita ni Yahweh gagawin ninyo. Tingnan, iniutos ko sa ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "na kapag nakuha na ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "susunugin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang siyudad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gagawin ninyo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "iniutos ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sa ⟨את⟩ inyo",
+      "marks": "ino (kayo)"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:01.088103695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kumakain ang tapat hanggang mabusog ang kanyang kaluluwa; ngunit ang tiyan ng mga masasama ay makukulang.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "tapat"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hanggang mabusog"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang kaluluwa"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ngunit ang tiyan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ay makukulang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:33.184240402Z",
+  "model": "glm-5.3"
+}

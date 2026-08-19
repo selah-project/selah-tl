@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Kung itatago mo ang iyong mukha, mangangamba sila; kung kukunin mo ang kanilang hininga, mamamatay sila, at babalik sila sa kanilang alabok.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "itatago mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "mangangamba sila"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kung kukunin mo"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ang kanilang hininga"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "mamamatay sila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "kanilang alabok"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "babalik sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:19.094449004Z",
+  "model": "glm-5.3"
+}

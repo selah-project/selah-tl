@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 2:7",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapagkat ang mga labi ng pari ay nag-iingat ng kaalaman, at ang kautusan ay hinahanap mula sa kanyang bibig, sapagkat siya ang sugo ni Yahweh ng mga hukbo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang mga labi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ng pari"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "nag-iingat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ng kaalaman"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "at ang kautusan"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "hinahanap"
+    },
+    {
+      "surface": "מפיהו",
+      "gloss": "mula sa kanyang bibig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:52.786027486Z",
+  "model": "glm-5.3"
+}

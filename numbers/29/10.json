@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "isang sampung-bahanti sa bawat isa sa ⟨pitong⟩ mga kordero",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "isang sampung-bahanti"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "sampung-bahanti (kada isa)"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "sa kordero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "sa ⟨pitong⟩"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mga kordero"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:13.986257437Z",
+  "model": "glm-5.3"
+}

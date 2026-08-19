@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Anim na araw ⟨ang⟩ titipunin ninyo ⟨את⟩ iyan, ngunit sa ikapitong araw ay shabat — hindi magkakaroon ⟨ng anumang⟩ doon.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "titipunin ninyo ⟨את⟩ iyan"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:30.193374163Z",
+  "model": "glm-5.3"
+}

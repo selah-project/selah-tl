@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Pagka tinierraryo mo ang ⟨את⟩ lupa, hindi na muling ibibigay ang lakas nito sa iyo; palalabas-labas at tumatakas na magiging ikaw sa lupain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pagka"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tinierraryo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi na"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "muling"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ang lakas nito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נע",
+      "gloss": "palalabas-labas"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "at tumatakas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging ikaw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:03.948628158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "Nag-akala ako kay Yahweh, nag-akala ang aking kaluluwa, at sa kanyang salita ako naghintay.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "nag-akala ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "nag-akala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "at sa kanyang salita"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ako naghintay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.715792608Z",
+  "model": "glm-5.3"
+}

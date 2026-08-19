@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sa Yerushalayim nanirahan ang ilan sa mga anak ni Yehudah, at sa mga anak ni Binyamin, at sa mga anak ni Efrayim at Menasheh.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "at sa Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nanirahan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ang ilan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at sa mga anak ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at sa mga anak ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "at Menasheh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:34.327157638Z",
+  "model": "glm-5.3"
+}

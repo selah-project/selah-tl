@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Sapagkat siya ang magliligtas sa iyo mula sa bitag ng mangangaso, at mula sa nakamamatay na salot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "magliligtas sa iyo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "mula sa bitag"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ng mangangaso"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mula sa salot"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "nakamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:59.657376591Z",
+  "model": "glm-5.3"
+}

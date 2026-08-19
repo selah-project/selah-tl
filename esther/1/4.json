@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "sa kanyang pagpapakita ng ⟨את⟩ kayamanan ng kaluwalhatian ng kanyang kaharian, at ng ⟨את⟩ karangalan ng kagandahan ng kanyang kadakilaan — maraming araw, walumpu't isang daang araw.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "sa kanyang pagpapakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayamanan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ng kaluwalhatian"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ng kanyang kaharian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "karangalan"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ng kagandahan"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "ng kanyang kadakilaan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walumpu't"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:02.428947399Z",
+  "model": "glm-5.3"
+}

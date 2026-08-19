@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 127,
+  "translation": "Narito, mana mula kay Yahweh ang mga anak; gantimpala ang bunga ng sikmura.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "mula kay Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "gantimpala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ng sikmura"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:02.416237213Z",
+  "model": "glm-5.3"
+}

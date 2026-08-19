@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At mag-ingat kayong lubos sa inyong mga ⟨kaluluwa⟩, upang mahalin ang ⟨את⟩ Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "at mag-ingat kayo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "sa inyong mga kaluluwa"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "upang mahalin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh na inyong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "na inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:44.424521964Z",
+  "model": "glm-5.3"
+}

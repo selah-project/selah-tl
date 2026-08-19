@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Sumain na mananggera ang kanyang pangalan magpakailanman; sa harap ng araw ay magpapatuloy ⟨ang⟩ pangalan niya; at magpapasasa sa kanya ang lahat ng bansa, gagawin siyang pinagpala ng lahat ng bansa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sumain"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "magpapatuloy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan niya"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "at magpapasasa sila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bansa"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": " gagawin nila siyang pinagpala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:43.661456832Z",
+  "model": "glm-5.3"
+}

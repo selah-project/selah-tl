@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang kanilang taba ay nagsara ⟨sa kanilang pusong⟩; ang kanilang bibig ay nagsalita nang may kayabangan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ang kanilang taba"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "nagsara"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ang kanilang bibig"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "nang may kayabangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:27.032951458Z",
+  "model": "glm-5.3"
+}

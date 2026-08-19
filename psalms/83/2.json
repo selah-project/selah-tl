@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "O Elohim, huwag kang manahimik; huwag magdahilan at huwag mangatahimik, O El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "manahimik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "magdahilan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "mangatahimik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.422911834Z",
+  "model": "glm-5.3"
+}

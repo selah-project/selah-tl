@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Dinala mo palayo ang kasalanan ng iyong bayan; tinakpan mo ang lahat ng kanilang pagkakasala. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "dinala mo palayo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kasalanan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ng iyong bayan"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "tinakpan mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ng kanilang pagkakasala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:13.354257229Z",
+  "model": "glm-5.3"
+}

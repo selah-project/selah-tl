@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Magtindig si Elohim, mangalat ang ⟨kanyang⟩ mga kaaway, at tumakas ang mga napopoot sa kanya mula sa harapan ⟨niya⟩.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Magtindig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "mangalat"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ang kanyang mga kaaway"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ang mga napopoot sa kanya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mula sa harapan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:35.735208330Z",
+  "model": "glm-5.3"
+}

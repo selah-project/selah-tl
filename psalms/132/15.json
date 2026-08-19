@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 132,
+  "translation": "Ang kanyang panustos ay pinagpala kung pinagpala; ang kanyang mga dukha ay bubusuin ko ng tinapay.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "panustos"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "kung pinagpala"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "kanyang mga dukha"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "bubusuin ko"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:13.663471358Z",
+  "model": "glm-5.3"
+}

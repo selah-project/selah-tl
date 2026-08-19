@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At aminin nila ang ⟨את⟩ kanilang kasamaan at ang ⟨את⟩ kasamaan ng kanilang mga ninuno — sa kanilang pagtaksil na nagtaksil sila sa akin, at maging na naglakad silang kasama ko nang salungat.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "at aminin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanilang kasamaan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kanilang kasamaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kasamaan ng kanilang mga ninuno"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ninuno"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "sa kanilang pagtaksil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nagtaksil sila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "at maging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglakad sila"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kasama ko"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "nang salungat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:35.181104267Z",
+  "model": "glm-5.3"
+}

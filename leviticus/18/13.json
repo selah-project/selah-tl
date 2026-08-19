@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang kahubaran ng kapatid na babae ng iyong ina ay hindi ninyo huhubarin; sapagkat laman ng iyong ina ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kapatid na babae"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ng iyong ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ninyo huhubarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ng iyong ina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:48.006962030Z",
+  "model": "glm-5.3"
+}

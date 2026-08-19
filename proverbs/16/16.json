@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Kamitin ang karunungan — gaano kalakip na higit sa ginto! At ang kamtin ang unawa ay higit na pinipili kaysa pilak.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kamitin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang karunungan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gaano"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "higit na mabuti"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "kaysa ginto"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "at ang kamtin"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ang unawa"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "higit na pinipili"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "kaysa pilak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:57.818198928Z",
+  "model": "glm-5.3"
+}

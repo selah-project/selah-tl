@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At nagpabanal ang mga saserdote at ang mga Levita upang iakyat ang ⟨את⟩ kaban ni Yahweh, Elohim ng Israel.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "at nagpabanal"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "at ang mga Levita"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "upang iakyat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:14.938444947Z",
+  "model": "glm-5.3"
+}

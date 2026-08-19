@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kanyang inalis ang ⟨את⟩ mga altar ng mga taga-ibang bansa at ang mga mataas na lugar, at sinira niya ang ⟨את⟩ mga haliging-totem, at pinutol niya ang ⟨את⟩ mga Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "kanyang inalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga altar ng mga taga-ibang bansa"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mga altar"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ng mga taga-ibang bansa"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "at ang mga mataas na lugar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "at sinira niya ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haliging-totem"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "mga haliging-totem"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "at pinutol niya ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mga Ashera"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:06.448370352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Huwag kang maging lubhang matuwid, at huwag kang magpakarunong nang labis — bakit magpapawalang-bahala sa iyong sarili?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kang maging"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "lubhang"
+    },
+    {
+      "surface": "ויש",
+      "gloss": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "magpakarunong"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "magpapawalang-bahala sa iyong sarili"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.636784565Z",
+  "model": "glm-5.3"
+}

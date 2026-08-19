@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Hukay na hinalinhan ⟨niya⟩ at hinukay ⟨niya⟩ ito, at siya'y mahuhulog sa lungga na kanyang ginawa.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "hukay"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "hinalinhan"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "at hinukay ⟨niya⟩ ito"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "at siya'y mahuhulog"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "sa lungga"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "kanyang ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:21.644266003Z",
+  "model": "glm-5.3"
+}

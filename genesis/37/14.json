@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At sinabi niya sa kaniya: Pumaroon ka nga, at tingnan mo ang ⟨את⟩ kalagayan ng mga kapatid mo at ang ⟨את⟩ kalagayan ng kawan, at magbalik ka sa akin ng balita. At ipinadala siya mula sa lambak ng Hevron, at siya'y dumating sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pumaroon ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "at tingnan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalagayan ng mga kapatid mo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalagayan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng mga kapatid mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kalagayan ng kawan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalagayan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng kawan"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "at magbalik ka sa akin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng balita"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "At ipinadala siya"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "mula sa lambak"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ng Hevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at siya'y dumating"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "sa Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:23.869679382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nangyari, sa pasimula ng pananahan nila doon, hindi natakot ⟨kay⟩ ⟨את⟩ Yahweh; kaya nagsugo si Yahweh sa kanila ng ⟨את⟩ mga leon, at naging mga pumapatay sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "sa pasimula"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ng pananahan nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natakot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kaya nagsugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga leon"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "ng mga leon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "mga pumapatay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:26.739292721Z",
+  "model": "glm-5.3"
+}

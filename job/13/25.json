@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang dahong nalalagas ng hangin ba ay yayanigin mo, at ⟨את⟩ tuyong dayami ay hahabulin mo?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ang dahon"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "nalalagas ng hangin"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "yayanigin mo ba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuyong dayami"
+    },
+    {
+      "surface": "קש",
+      "gloss": "dayami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "tuyo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "hahabulin mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:32.133294208Z",
+  "model": "glm-5.3"
+}

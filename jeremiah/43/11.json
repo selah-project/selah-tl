@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At papasok siya at sasaktan ang ⟨את⟩ lupain ng Mitzrayim: ang nakalaan sa kamatayan, sa kamatayan; at ang nakalaan sa pagkabihag, sa pagkabihag; at ang nakalaan sa tabak, sa tabak.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "At papasok siya"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "at sasaktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupain"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "למות",
+      "gloss": "nakalaan sa kamatayan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at ang"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "nakalaan sa pagkabihag"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at ang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "nakalaan sa tabak"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:33:20.389455894Z",
+  "model": "glm-5.3"
+}

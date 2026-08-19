@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Sa dami ng iyong lakad ay napagod ka, ngunit hindi mo sinabi, ⟨na⟩ wala nang pag-asa; ang buhay ng iyong kamay ay nasumpungan mo, kaya't hindi ka nanghina.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "sa dami"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ng iyong lakad"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ay napagod ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "mo sinabi"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "wala nang pag-asa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ng iyong kamay"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ay nasumpungan mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "כן",
+      "gloss": "samakatuwid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ka nanghina"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:18.530412517Z",
+  "model": "glm-5.3"
+}

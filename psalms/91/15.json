@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Tatawag niya ako at sasagutin ko siya; kasama niya ako sa kagipitan, ililigtas ko siya at pararangalan ko siya.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "tatawag niya ako"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "at sasagutin ko siya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sa kagipitan"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ililigtas ko siya"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "at pararangalan ko siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:37.576073077Z",
+  "model": "glm-5.3"
+}

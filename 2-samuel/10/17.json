@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Nang maipabalita kay David, kinalap niya ang ⟨את⟩ buong Israel at tumawid sa ⟨את⟩ Jordan, at dumating sa Helam; at naghanay ang Aram sa pagtatagpo kay David, at nakipaglaban sila sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nang maipabalita"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kinalap niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "tumawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Jordan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "sa Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "naghanay"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtatagpo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakipaglaban"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:30.523402868Z",
+  "model": "glm-5.3"
+}

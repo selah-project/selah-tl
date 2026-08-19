@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ang ⟨את⟩ turban ng pinong lino, at ang ⟨את⟩ magagandang takip ng ulo ng pinong lino, at ang ⟨את⟩ mga salawal ng lino na pinong binaluktot na sinulid.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ng pinong lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "magagandang takip ng ulo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "magagandang takip"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ng mga takip ng ulo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ng pinong lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga salawal"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "mga salawal"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ng lino"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ng pinong lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "binaluktot na sinulid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:32.416069187Z",
+  "model": "glm-5.3"
+}

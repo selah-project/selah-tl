@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "At ang iyong katuwiran, O Elohim, ay hanggang sa kaitaasan; gumawa Ka ng malalaking bagay; O Elohim, sino ang tulad Mo?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "At ang iyong katuwiran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kaitaasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gumawa Ka"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "malalaking bagay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang tulad Mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:30.015873890Z",
+  "model": "glm-5.3"
+}

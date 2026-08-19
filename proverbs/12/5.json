@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang mga pagaakala ng mga matuwid ay katarungan; ngunit ang mga pakana ng mga masama ay pandaraya.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mga pagaakala"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mga pakana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:49.309482712Z",
+  "model": "glm-5.3"
+}

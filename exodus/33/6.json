@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Kaya naghunas ang mga anak ni Yisra'el ng ⟨את⟩ kanilang mga hiyas mula sa bundok ng Chorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "naghunas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga hiyas"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "kanilang mga hiyas"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mula sa bundok"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "ng Chorev"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:39.365509099Z",
+  "model": "glm-5.3"
+}

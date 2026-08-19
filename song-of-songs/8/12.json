@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang ubasahan ko, sa akin, ⟨is⟩ sa harap ko; ang sanlibo ay para sa iyo, Shelomoh, at ang dalawang daan ay para sa mga tagapagbantay ng ⟨את⟩ bunga nito.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "ang ubasahan ko"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ko"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ang sanlibo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "at ang dalawang daan"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "para sa mga tagapagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunga nito"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "bunga nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:50.190295946Z",
+  "model": "glm-5.3"
+}

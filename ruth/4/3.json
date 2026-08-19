@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi niya sa goel: Ang piraso ng bukid na ating kapatid, kay Elimelech, ibinebenta ni Naomi na nagbalik mula sa bukid ng Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi niya"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "sa goel"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Ang piraso"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng bukid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "ating kapatid"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "kay Elimelech"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ibinebenta"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "na nagbalik"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "mula sa bukid"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    }
+  ],
+  "timestamp": "2026-08-19T18:59:03.950384143Z",
+  "model": "glm-5.3"
+}

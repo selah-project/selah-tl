@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At itatakda mo bilang banal ang ⟨את⟩ dibdib ng handog na iwiniwagayway at ang ⟨את⟩ hita ng handog na iniaangat, na iwiniwagayway at iniaangat mula sa tupang pang-consecration, mula sa kinaangkay kay Aharon at mula sa kinaangkay sa kanyang mga anak.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "at itatakda mo bilang banal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibdib"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dibdib"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ng handog na iwiniwagayway"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "hita"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "hita"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ng handog na iniaangat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "ay iwiniwagayway"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at na"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "ay iniaangat"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "mula sa tupa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ng pang-consecration"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "mula sa kinaangkay na"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "at mula sa kinaangkay na"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "sa kanyang mga anak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:11.774098890Z",
+  "model": "glm-5.3"
+}

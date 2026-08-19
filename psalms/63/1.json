@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Payo (mizmor) ni David, sa pagkakataong nasa ilang siya ng Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "payo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "sa pagkakataong siya ay nasa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:55.891243001Z",
+  "model": "glm-5.3"
+}

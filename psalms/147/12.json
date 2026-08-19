@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Iluwalhati mo, O Yerushalayim, si Yahweh ⟨את⟩; purihin mo, O Tsiyon, ang iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "iluwalhati mo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "O Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "purihin mo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.384274734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ginawa niya ang ⟨את⟩ huli ng looban, sa gilid ng timog, sa dakong timog; ang mga kurtina ng huli ng looban ay banig na linong pinulitpoli, isang daang siko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huli ng looban"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "huli ng looban"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa gilid ng"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "timog"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sa dakong timog"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mga kurtina ng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "huli ng looban"
+    },
+    {
+      "surface": "שש",
+      "gloss": "banig na lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "pinulitpoli"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "siko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:01.808580374Z",
+  "model": "glm-5.3"
+}

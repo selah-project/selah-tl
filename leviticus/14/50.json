@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At katayin niya ang ⟨את⟩ isang ibon sa sisidlang putik, sa ibabaw ng buhay na tubig.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "at katayin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang ibon"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ang ibon"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sisidlan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "putik"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay na"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:16.781228192Z",
+  "model": "glm-5.3"
+}

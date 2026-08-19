@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ang ⟨ilang⟩ sa mga karwahe at ang ⟨ilang⟩ sa mga kabayo, ngunit tayo — sa pangalan ni Yahweh na Elohim natin, kami ay aalalahanin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang ⟨ilang⟩"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "sa mga karwahe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "at ang ⟨ilang⟩"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngunit tayo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na Elohim natin"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "kami ay aalalahanin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:11.295960154Z",
+  "model": "glm-5.3"
+}

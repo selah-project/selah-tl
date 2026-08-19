@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Kundi sa torah ni Yahweh ang kanyang kagustuhan, at sa Kanyang torah siya yumayabong maghapon at gabi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hindi (kundi)"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ang kanyang kagustuhan"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "at sa Kanyang torah"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "siya yumayabong"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maghapon"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:10.549342095Z",
+  "model": "glm-5.3"
+}

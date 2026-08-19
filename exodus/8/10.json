@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At pinagsama nila ang ⟨את⟩ mga ito nang bunton-bunton, bunton-bunton; at nangamoy masama ang lupa.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "at pinagsama nila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ito (namatay na palaka)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "nang bunton-bunton"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "bunton-bunton"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "at nangamoy masama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:57.793311515Z",
+  "model": "glm-5.3"
+}

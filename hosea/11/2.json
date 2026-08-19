@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Tinatawag sila, datapu't naglayo sila sa kanila — sa mga Baal naghahandog sila, at sa mga inanyuan nagpapainit sila ng insenso.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "tinatawag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "datapu't"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglayo sila"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "sa mga Baal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "naghahandog sila"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "at sa mga inanyuan"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "nagpapainit sila ng insenso"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:08.048479019Z",
+  "model": "glm-5.3"
+}

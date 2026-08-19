@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ginawa ni Noach ang ⟨את⟩ lahat na iniutos ⟨את⟩ sa kanya ng Elohim — gayon niya ginawa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa ni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya",
+      "marks": "iniutos ng Elohim kay Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:27.542193857Z",
+  "model": "glm-5.3"
+}

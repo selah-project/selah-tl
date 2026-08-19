@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At sinaktan niya ang bawat panganay sa kanilang lupain, ang pinaka-una ng lahat ng kanilang lakas.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "At sinaktan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa kanilang lupain"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang pinaka-una"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kanilang lakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:57.808067141Z",
+  "model": "glm-5.3"
+}

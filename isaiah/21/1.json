@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Pasan ng ilang ng dagat. Tulad ng mga buhawi sa timog na dumaraan, mula sa ilang ito'y dumarating mula sa lupang nakasisindak.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pasan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Tulad ng mga buhawi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa timog"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "na dumaraan"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "mula sa ilang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ito'y dumarating"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupang"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nakasisindak"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:13.305236819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sa iyo, sabi ng aking puso: Hanapin ninyo ang aking mukha; ⟨את⟩ ang iyong mukha, O Yahweh, hahanapin ko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ng aking puso"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hanapin ninyo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang aking mukha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyong mukha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "hahanapin ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:03.400902652Z",
+  "model": "glm-5.3"
+}

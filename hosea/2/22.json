@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ikaw ay aking ipanganakako sa akin sa katapatan; at iyong makikilala ang ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "at ikaw ay aking ipanganakako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa katapatan"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "at iyong makikilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:24.973554148Z",
+  "model": "glm-5.3"
+}

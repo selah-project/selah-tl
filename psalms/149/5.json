@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Magalak ang mga banal sa kaluwalhatian; umaawit sila nang malakas sa kanilang mga higaan.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ang mga banal"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sa kaluwalhatian"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "umaawit sila nang malakas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "kanilang mga higaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.177383188Z",
+  "model": "glm-5.3"
+}

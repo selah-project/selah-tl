@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Sa iyong katuwiran, iligtas mo ako at akuin mong makatakas; ikiling mo sa akin ang iyong pakinig, at iligtas mo ako.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa iyong katuwiran"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "at akuin mong makatakas"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ikiling mo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang iyong pakinig"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "at iligtas mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:20.588680913Z",
+  "model": "glm-5.3"
+}

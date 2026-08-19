@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa mga anak ni Naftali, ayon sa kanilang mga lahi, sa kanilang mga pamilya, sa bahay ng kanilang mga ama, sa bilang ng mga pangalan, mula sa dalawampung taon pataas, bawat lumalabas sa hukbo —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ni Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ayon sa kanilang mga lahi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sa kanilang mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa bilang"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ng mga pangalan"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "pataas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sa hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:44.172438265Z",
+  "model": "glm-5.3"
+}

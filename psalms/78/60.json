@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At pinabayaan niya ang tahanan sa Shilo, ang toldang kanyang tinitirahan sa mga tao.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "at pinabayaan niya"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ang tahanan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "sa Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kanyang tinitirahan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa mga tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:20.779259810Z",
+  "model": "glm-5.3"
+}

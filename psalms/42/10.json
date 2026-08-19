@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sasabihin ko sa El na bato ko: Bakit mo ako nakalimutan? Bakit ako lalakad na nangungulimlim sa pang-aapi ng kaaway?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "sasabihin ko"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "bato ko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "mo ako nakalimutan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nangungulimlim"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ako lalakad"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa pang-aapi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:08.813081485Z",
+  "model": "glm-5.3"
+}

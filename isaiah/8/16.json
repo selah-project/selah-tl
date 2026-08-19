@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ibalot mo ang patotoo, ikintal mo ang torah sa aking mga alagad.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ibalot mo"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "ang patotoo"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ikintal mo \/ itatak mo"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ang torah"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "sa aking mga alagad"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:58.887719939Z",
+  "model": "glm-5.3"
+}

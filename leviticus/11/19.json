@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at ang ⟨את⟩ tagak, ang ⟨את⟩ payanggit ayon sa kanyang uri, at ang ⟨את⟩ hudhud, at ang ⟨את⟩ paniki",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tagak"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "tagak"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "payanggit"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ayon sa kanyang uri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "hudhud"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "hudhud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "paniki"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "paniki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:54.880334039Z",
+  "model": "glm-5.3"
+}

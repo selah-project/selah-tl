@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Naghintay, naghintay nang buong tiyaga akó kay Yahweh, at lumapit Siya sa akin, at dininig Niyá ang aking daing.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "naghintay"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "naghintay nang buong tiyaga akó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "at lumapit Siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at dininig Niyá"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ang aking daing"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:48.686558931Z",
+  "model": "glm-5.3"
+}

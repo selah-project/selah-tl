@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Pinatatahan ng Elohim ang mga nag-iisa sa tahanan, inilalabas ang mga bihag sa kasaganaan; ngunit ang mga suwail ay mananahan sa tigang na lupa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "pinatatahan"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ang mga nag-iisa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa tahanan"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "inilalabas"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ang mga bihag"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ang mga suwail"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ay mananahan"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "sa tigang na lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:00.442565497Z",
+  "model": "glm-5.3"
+}

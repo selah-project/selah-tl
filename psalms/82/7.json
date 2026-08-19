@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 82,
+  "translation": "Gayon man, na gaya ng tao kayo'y mamamatay, at na gaya ng isa sa mga pinuno kayo'y mangabubuwal.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "gayon man"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "na gaya ng tao"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "kayo'y mamamatay"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "at na gaya ng isa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "sa mga pinuno"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kayo'y mangabubuwal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:15.719929865Z",
+  "model": "glm-5.3"
+}

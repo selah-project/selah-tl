@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ipinadala niya si ⟨את⟩ Elyakim na tagapamahala ng bahay, at si Shevna ang kalihim, at ⟨את⟩ ang mga matanda ng mga saserdote, natatakpan ng mga sako, kay Yeshayahu ang propeta, anak ni Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At ipinadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "si Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "tagapamahala ng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "at si Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang kalihim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga matanda ng mga saserdote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga matanda"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ng mga saserdote"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "natatakpan"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ng mga sako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:04.005939354Z",
+  "model": "glm-5.3"
+}

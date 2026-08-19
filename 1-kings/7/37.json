@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ganito ang pagkakagawa sa ⟨את⟩ sampung mga tungtungan: isang pagbubuhos ng tinunaw, isang sukat, isang hugis para sa lahat ng mga iyon.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sampung mga tungtungan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga tungtungan"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "pagbubuhos ng tinunaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "sukat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "hugis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "para sa lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:47.946847854Z",
+  "model": "glm-5.3"
+}

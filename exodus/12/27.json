@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At inyong sasabihin: Handog ng Pesach ito para kay Yahweh, na pumailanlang sa mga bahay ng mga anak ni Yisrael sa Ehipto nang kanyang hinampas ang ⟨את⟩ Ehipto, at ang ⟨את⟩ aming mga bahay ay kanyang iniligtas. At yumukod ang bayan at nagpatirapa sa pagsamba.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "at inyong sasabihin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "handog"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ng Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pumailanlang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Ehipto"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "nang kanyang hinampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ehipto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ehipto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "aming mga bahay"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "aming mga bahay"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "iniligtas"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "at yumukod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nagpatirapa sa pagsamba"
+    }
+  ],
+  "timestamp": "2026-08-19T19:38:58.022326370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At dumating si Yechizkiyahu at ang mga pangulo, at nakita nila ang ⟨את⟩ mga tambak, at binasban nila si ⟨את⟩ Yahweh at ⟨את⟩ Kanyang bayan na si Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Yechizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "at ang mga pangulo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tambak"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ang mga tambak"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "at binasban nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Kanyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Kanyang bayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "na si Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:21.117545205Z",
+  "model": "glm-5.3"
+}

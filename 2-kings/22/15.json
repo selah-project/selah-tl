@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi niya sa kanila: Ganito ang sabi ni Yahweh, Elohim ng Yisra'el: Sabihin ninyo sa lalaking nagsugo sa inyo sa akin:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sabihin ninyo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:42.576277688Z",
+  "model": "glm-5.3"
+}

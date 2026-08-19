@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At napuno ang kaniyang lupain ng mga diyos-diyosan; sa gawa ng kanilang mga kamay yumuyukod sila, sa ginawa ng kanilang mga daliri.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "At napuno"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ang kaniyang lupain"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ng mga diyos-diyosan"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "sa gawa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ng kanilang mga kamay"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "yumuyukod sila"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ng kanilang mga daliri"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:09.579981585Z",
+  "model": "glm-5.3"
+}

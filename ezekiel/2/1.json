@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi sa akin: Anak ng tao, tumayo ka sa iyong mga paa at magsasalita ako ⟨את⟩ sa iyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tumayo ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "iyong mga paa"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "at magsasalita ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:38:39.208248693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At binasbasan nila si ⟨את⟩ Rivka, at sinabi nila sa kanya: Ikaw na aming kapatid na babae, maging ka ina ng libong sampu-libo, at mana-in ng iyong binhi ang ⟨את⟩ pinto ng mga bumibiig sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "at binasbasan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "si Rivka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "aming kapatid na babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "היי",
+      "gloss": "maging ka"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "ng libong"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "sampu-libo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "at mana-in"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ng iyong binhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pinto ng mga bumibiig sa kanila"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ang pinto"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "ng mga bumibiig sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:58.799235059Z",
+  "model": "glm-5.3"
+}

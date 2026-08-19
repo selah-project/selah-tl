@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Mamamayan ka kasama ng ⟨araw⟩, at sa harap ng ⟨buwan⟩, sa lahat ng salinlahi.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "mamamayan ka (matakot sa iyo)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "buwan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "salinlahi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mga salinlahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:33.164450868Z",
+  "model": "glm-5.3"
+}

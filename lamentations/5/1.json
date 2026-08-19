@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Alalahanin mo, Yahweh, ang nangyari sa amin; tumingin ka at makita ang ⟨את⟩ ating kahihiyan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "tumingin ka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ating kahihiyan"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ating kahihiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:40.852333423Z",
+  "model": "glm-5.3"
+}

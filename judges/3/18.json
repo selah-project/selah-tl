@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nangyari, nang matapos niyang ilapit ang ⟨את⟩ alay, pinaalis niya ang ⟨את⟩ mga taong nagbubuhat ng alay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "ilapit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang alay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "pinaalis niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tao"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nagbubuhat"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ng alay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:29.960010450Z",
+  "model": "glm-5.3"
+}

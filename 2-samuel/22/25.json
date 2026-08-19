@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kaya't nagbalik si Yahweh sa akin ayon sa aking katuwiran, ayon sa aking kalinisan sa harap ng kaniyang mga mata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagbalik (kaya't)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ayon sa aking katuwiran"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "ayon sa aking kalinisan"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kaniyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:22:36.403303404Z",
+  "model": "glm-5.3"
+}

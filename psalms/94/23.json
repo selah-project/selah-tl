@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "At ibinabalik niya sa kanila ang ⟨את⟩ kanilang kasamaan, at sa kanilang kasamaan ay lilipulin sila; lilipulin sila ni Yahweh na ating Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at ibinabalik niya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kasamaan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kanilang kasamaan"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "at sa kanilang kasamaan"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "lilipulin sila"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "lilipulin sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:52.036840681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At ikaw, ilapit mo sa iyong sarili si ⟨את⟩ Aharon na iyong kapatid, at ⟨את⟩ ang kanyang mga anak na ⟨את⟩ kanya, mula sa gitna ng mga anak ni Yisrael, upang maglingkod siya bilang pari sa akin: si Aharon, si Nadav at Avihu, si Elazar at Itamar, mga anak ni Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ilapit mo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyong sarili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "na iyong kapatid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kanyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang kanyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kanya"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "upang maglingkod bilang pari"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "at Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "at Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:36.682605182Z",
+  "model": "glm-5.3"
+}

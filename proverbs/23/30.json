@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa mga nagtatagal sa ⟨את⟩ alak, sa mga lumalapit upang maghanap ng halo-halong alak.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "sa mga nagtatagal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "היין",
+      "gloss": "⟨את⟩ alak"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "sa mga lumalapit"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "upang maghanap ng"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "halo-halong alak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:00.802396906Z",
+  "model": "glm-5.3"
+}

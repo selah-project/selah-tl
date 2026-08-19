@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni Avimelech kay Avraham: Ano ang nakita mo, kung kaya't ginawa mo ang ⟨את⟩ bagay na ito?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ang nakita mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung kaya't"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:53.825997422Z",
+  "model": "glm-5.3"
+}

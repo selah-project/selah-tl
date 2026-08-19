@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ginawa ni Shemuël ang ⟨את⟩ sinabi ni Yahweh, at dumating siya sa Beth-lechem, at nanginig ang mga matatanda ng ⟨the⟩ lungsod sa kanyang pagdating, at sinabi niya: Kapayapaan ang pagdating ko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sinabi ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "at nanginig"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga matatanda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sa kanyang pagharap"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Kapayapaan"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ang iyong pagdating"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:34.676184321Z",
+  "model": "glm-5.3"
+}

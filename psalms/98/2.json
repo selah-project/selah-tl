@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Ipinakilala ni Yahweh ang kanyang kaligtasan; sa harap ng mga bansa ibinunyag Niya ang kanyang katuwiran.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ipinakilala Niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ang kanyang kaligtasan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa mga mata ng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨ang⟩ mga bansa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ibinunyag"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ang kanyang katuwiran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.404397421Z",
+  "model": "glm-5.3"
+}

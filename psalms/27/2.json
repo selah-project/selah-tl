@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Nang lumapit sa akin ang mga masama upang lamunin ang ⟨את⟩ aking laman — aking mga kaaway at aking mga kalaban — sila'y natitisod at bumagsak.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Nang lumapit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ang mga masama"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "upang lamunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking laman"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aking laman"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "at aking mga kalaban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "natitisod"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "at bumagsak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:09.237049539Z",
+  "model": "glm-5.3"
+}

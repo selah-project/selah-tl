@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nakasumpong sila ⟨את⟩ Adoni-Bezek sa Bezek, at lumaban sila laban sa kaniya, at pinatay nila ⟨את⟩ mga Cananeo at ⟨את⟩ mga Perizeo.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "nakasumpong sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lumaban sila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "laban sa kaniya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "pinatay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Cananeo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mga Cananeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Perizeo"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "mga Perizeo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:18.544080984Z",
+  "model": "glm-5.3"
+}

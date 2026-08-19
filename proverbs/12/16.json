@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang hangal, sa araw ding iyon ay nakikilala ang kaniyang poot, ngunit ang tumatahimik sa kahihiyan ay maingat.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ang hangal"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ay nakikilala"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ang kaniyang poot"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ngunit ang tumatahimik sa"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ay maingat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:52.233522691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Iyong iharap ang iyong mukha sa akin, at maawa ka sa akin, sapagkat nag-iisa at dukha ako.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Iyong iharap ang iyong mukha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "at maawa ka sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "nag-iisa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "at dukha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:39.413309049Z",
+  "model": "glm-5.3"
+}

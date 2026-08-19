@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Makinig kayo, mga langit, at pakinggan mo, lupa, sapagkat nagsalita si Yahweh: mga anak na pinalaki ko at pinaitaas, ngunit sila ay nagtaksil sa akin.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "at pakinggan mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "pinalaki ko"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "at pinaitaas"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "nagtaksil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:29.490479328Z",
+  "model": "glm-5.3"
+}

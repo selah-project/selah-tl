@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nangyari, habang pinangangasiwaan ni Yoav ang ⟨the⟩ lungsod, inilagay niya si ⟨את⟩ Uriya sa ⟨the⟩ lugar na alam niyang nandoon ang mga makapangyarihang lalaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "habang pinangangasiwaan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang ⟨the⟩ lungsod"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ininilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang ⟨the⟩ lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "alam niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nandoon"
+    }
+  ],
+  "timestamp": "2026-08-19T20:06:36.683835979Z",
+  "model": "glm-5.3"
+}

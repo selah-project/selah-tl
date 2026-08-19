@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At may digmaan sa pagitan ni Asa at sa pagitan ni Baasha, hari ng Israel, buong mga araw nila.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "at may digmaan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ni"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ni"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mga araw nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:57.261169423Z",
+  "model": "glm-5.3"
+}

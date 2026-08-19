@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi niya sa akin: Pumasok ka, at makikita mo ang ⟨את⟩ mga karumal-dumal na kasamaan na ginagawa nila dito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At-sinabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa-akin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Pumasok"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "at-makikita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga karumal-dumal na kasamaan"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "mga-karumal-dumal"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "na-kasamaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:40:39.254344869Z",
+  "model": "glm-5.3"
+}

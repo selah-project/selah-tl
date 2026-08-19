@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 134,
+  "translation": "Awit ng mga Pag-ahon. Tingnan ninyo, basbasán ninyo si ⟨את⟩ Yahweh, kayong lahat na mga lingkod ni Yahweh, na nakatayo sa bahay ni Yahweh sa mga gabi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ng mga Pag-ahon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tingnan ninyo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "basbasán ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga lingkod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na nakatayo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:54.278334345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Ingatan mo ⟨para sa iyo⟩ ang ⟨את⟩ ipinag-uutos ko sa iyo ngayong araw; narito ako, nagpapalalayas sa iyong harapan ng ⟨את⟩ Amorita, at ng Cananeo, at ng Hita, at ng Perizita, at ng Hivita, at ng Jebuseo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ingatan mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ipinag-uutos ko sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ipinag-uutos ko sa iyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "narito ako"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "nagpapalalayas"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sa iyong harapan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amorita at ng Cananeo at ng Hita at ng Perizita at ng Hivita at ng Jebuseo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "at Cananeo"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "at Hita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "at Perizita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "at Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at Jebuseo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:09.273972127Z",
+  "model": "glm-5.3"
+}

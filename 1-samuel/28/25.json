@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At iniharap niya sa harap ni Shaul at sa harap ng kaniyang mga alipin, at kumain sila; tumindig sila at umalis noong gabi ⟨na⟩ yaon.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "at iniharap niya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "at kumain sila"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "tumindig sila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "noong gabi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:26.759841363Z",
+  "model": "glm-5.3"
+}

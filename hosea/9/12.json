@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat kung palakiin man nila ang ⟨את⟩ kanilang mga anak, panggalutin ko sila mula sa tao; sapagkat gayon din, aba sa kanila sa aking paglayo mula sa kanila!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "palakiin man nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang kanilang mga anak"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "panggalutin ko sila"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mula sa tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "sa aking paglayo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mula sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:42.035376266Z",
+  "model": "glm-5.3"
+}

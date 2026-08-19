@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Sa kaniyang pumatay ng mga dakilang hari, sapagkat hanggang magpakailanman ang kaniyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "sa kaniyang pumatay ng"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kaniyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:58.179736720Z",
+  "model": "glm-5.3"
+}

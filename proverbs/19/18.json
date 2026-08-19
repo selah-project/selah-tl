@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Ituro mo ang iyong anak sapagkat may pag-asa, at sa kanyang kamatayan ay huwag mong ihandog ang iyong ⟨buhay⟩.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ituro mo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang iyong anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "pag-asa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "sa kanyang kamatayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ihandog"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ang iyong buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:41.477178159Z",
+  "model": "glm-5.3"
+}

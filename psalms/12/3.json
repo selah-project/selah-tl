@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Kasinsinungaling sinasalita ng bawat lalaki sa ⟨את⟩ kapwa niya; labi na makinis, may pusonghati at pusonghati, nagsasalita sila.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "kasinsinungaling"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sinasalita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng bawat lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapwa niya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa kapwa niya"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "labi na"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "makinis"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "may pusonghati"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "at pusonghati"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nagsasalita sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:16.738720321Z",
+  "model": "glm-5.3"
+}

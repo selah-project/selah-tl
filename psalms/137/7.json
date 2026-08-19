@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Alalahanin ng mga anak ni Edom, Yahweh, ⟨ang⟩ araw ng Yerushalayim — ang mga nagsasabi: Wasakan ninyo, wasakan ninyo, hanggang sa ⟨kanyang⟩ saligan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ni Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ang mga nagsasabi"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "wasakan ninyo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "wasakan ninyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "saligan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito \/ sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:37.017579471Z",
+  "model": "glm-5.3"
+}

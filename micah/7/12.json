@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sa araw na yaon, paroroon sa iyo mula sa Ashur at mga lungsod ng Matsor, at mula sa Matsor hanggang sa Ilog, at mula dagat hanggang dagat, at mula bundok hanggang bundok.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Araw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "paroroon"
+    },
+    {
+      "surface": "למני",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "at mga lungsod ng"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Ilog"
+    },
+    {
+      "surface": "וים",
+      "gloss": "at mula dagat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "hanggang dagat"
+    },
+    {
+      "surface": "והר",
+      "gloss": "at mula bundok"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hanggang bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:04:27.063701935Z",
+  "model": "glm-5.3"
+}

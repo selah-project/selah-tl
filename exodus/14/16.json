@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ikaw, itaas mo ang ⟨את⟩ iyong tungkod, at iunat mo ang ⟨את⟩ iyong kamay sa ibabaw ng dagat at hiwain mo ito, at papasok ang mga anak ng Israel sa gitna ng dagat sa tuyong lupa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "itaas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong tungkod"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "iyong tungkod"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "at iunat mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kamay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "at hiwain mo ito"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at papasok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa tuyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:24.002657949Z",
+  "model": "glm-5.3"
+}

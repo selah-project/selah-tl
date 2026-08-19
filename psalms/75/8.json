@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Sapagkat si Elohim ang ⟨ang⟩ humuhukom: ito ay kanyang ibinababa, at ito ay kanyang itinataas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "humuhukom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ibinababa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itinataas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:24.330361974Z",
+  "model": "glm-5.3"
+}

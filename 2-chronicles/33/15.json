@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At tinanggal niya ang ⟨את⟩ mga diyos ng dayuhan at ang ⟨את⟩ idolo mula sa bahay ni Yahweh, at ang lahat ng mga dambana na itinayo niya sa bundok ng bahay ni Yahweh at sa Yerushalayim, at itinapon sa labas ng lungsod.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "tinanggal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga diyos ng dayuhan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ng dayuhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idolo"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "ang idolo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mga dambana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "at sa Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "itinapon"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ng lungsod"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:41.455611590Z",
+  "model": "glm-5.3"
+}

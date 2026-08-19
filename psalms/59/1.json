@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sa puno ng mga mang-aawit; sa \"Huwag wasakin\"; ni David; michtam; nang magpadala si Shaul at bantayan nila ang ⟨את⟩ bahay upang siya'y patayin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa puno ng mga mang-aawit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa (Huwag wasakin)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "\"Huwag wasakin\""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nang magpadala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "at bantayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "upang siya'y patayin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:43.065980031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At binasa ni Tsefanyah na saserdote ang ⟨את⟩ sulat na ito sa mga tainga ni Yirmeyahu na propeta.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sulat na ito"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "na propeta"
+    }
+  ],
+  "timestamp": "2026-08-19T17:27:28.779278864Z",
+  "model": "glm-5.3"
+}

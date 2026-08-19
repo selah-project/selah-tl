@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At minana nila ang ⟨את⟩ buong hangganan ng Emoriyo, mula sa Arnon hanggang sa Yabbok, at mula sa ilang hanggang sa Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "at minana nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "buong hangganan ng Emoriyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "hangganan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ng Emoriyo"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "mula sa Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:21.972500398Z",
+  "model": "glm-5.3"
+}

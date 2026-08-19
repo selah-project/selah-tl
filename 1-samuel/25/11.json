@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At kukunin ko ba ang ⟨את⟩ aking tinapay at ang ⟨את⟩ aking tubig at ang ⟨את⟩ aking inihahawing karne na ikinatay ko para sa aking manggagatas na nagtatahi, at ibibigay ko sa mga lalaking hindi ko kilala, na saan manggagaling ⟨sila⟩?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "at kukunin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking tinapay"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "aking tinapay"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aking tubig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking inihahawing karne"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "aking inihahawing karne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ikinatay ko"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "para sa aking nagtatahi ng mga tupa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "at ibibigay ko"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "sa mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko kilala"
+    },
+    {
+      "surface": "אי",
+      "gloss": "saan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "manggagaling"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:53.489231039Z",
+  "model": "glm-5.3"
+}

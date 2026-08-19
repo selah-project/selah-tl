@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang pinto ay umiikot sa ⟨kaniyang⟩ bisagra, at ang tamad sa ⟨kaniyang⟩ higaan.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "ang pinto"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ay umiikot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "bisagra"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "at ang tamad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "kaniyang higaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:13.192938806Z",
+  "model": "glm-5.3"
+}

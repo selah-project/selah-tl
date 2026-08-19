@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At dininig ni Yahweh si Yechizkiyahu, at pinagaling ⟨ang את⟩ bayan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at dininig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "at pinagaling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:45.943787809Z",
+  "model": "glm-5.3"
+}

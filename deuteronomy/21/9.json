@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ikaw ay mag-aalis ng dugo ng inosente mula sa gitna mo, sapagkat gagawin mo ang matuwid sa mga mata ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mag-aalis"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ng inosente"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "mula sa gitna mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:37.106370575Z",
+  "model": "glm-5.3"
+}

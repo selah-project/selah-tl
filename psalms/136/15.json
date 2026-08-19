@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "At binuwal niya ang Paraoh at ang kanyang hukbo sa Dagat ng Suph, sapagkat sa magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "At binuwal niya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ang Paraoh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "at ang kanyang hukbo"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ng Suph"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.430622725Z",
+  "model": "glm-5.3"
+}

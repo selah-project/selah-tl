@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ang pumasok sa bahay sa lahat ng araw ng pagsasara nito ay magiging marumi hanggang ⟨the⟩ takipsilim.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "at ang pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ng pagsasara nito"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "ang pagsasara nito"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magiging marumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "takipsilim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:17.096722242Z",
+  "model": "glm-5.3"
+}

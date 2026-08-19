@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Isang talentong dalisay na ginto ang ginawa niya rito ⟨את⟩ ⟨sa kaniya⟩, at ⟨את⟩ ang lahat ng mga kagamitan nito.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "isang talento (timbang)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨sa kaniya⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga kagamitan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:49.604033679Z",
+  "model": "glm-5.3"
+}

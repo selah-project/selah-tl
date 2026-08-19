@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ito ang mga pangalan ng mga anak ni Yishmael, ayon sa kanilang mga pangalan, ayon sa kanilang mga lahi: panganay ni Yishmael si Nevayot, at si Kedar, at si Adbeel, at si Mivsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "ayon sa kanilang mga pangalan"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "ayon sa kanilang mga lahi"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "at si Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "at si Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "at si Mivsam"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:09.439309733Z",
+  "model": "glm-5.3"
+}

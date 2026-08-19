@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Nagpadala ang hari at pinalaya siya; ang tagapamahala ng mga bansa, at nagpalaya sa kanya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "at pinalaya siya"
+    },
+    {
+      "surface": "משל",
+      "gloss": "tagapamahala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "at nagpalaya sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:50.827561895Z",
+  "model": "glm-5.3"
+}

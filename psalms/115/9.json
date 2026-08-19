@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "O Yisrael, magtiwala ka kay Yahweh; kanilang tulong at kanilang kalasag ay siya.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "magtiwala ka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "kanilang tulong"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "at kanilang kalasag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:09.306376764Z",
+  "model": "glm-5.3"
+}

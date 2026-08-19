@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nag-angat si Bilam ng ⟨את⟩ kaniyang mga mata, at nakita niya ang ⟨את⟩ Israel na naninirahan ayon sa kaniyang mga tribo, at naging kaniya ang espiritu ng Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "at nag-angat"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kaniyang mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ayon sa kaniyang mga tribo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:13:39.189094072Z",
+  "model": "glm-5.3"
+}

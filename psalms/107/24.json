@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "silá ang nakakita sa mga gawa ni Yahweh, at sa kanyang mga kamangha-manghang gawa sa kalaliman.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "silá"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ang nakakita sa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mga gawa ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "at sa kanyang mga kamangha-manghang gawa"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "sa kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.205494510Z",
+  "model": "glm-5.3"
+}

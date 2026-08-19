@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "At sa kanya yuyurak ang lahat ng mga hari; lahat ng mga bansa ay maglilingkod sa kanya.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "at yuyurak (magpapatirapa)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "maglilingkod sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:39.924506124Z",
+  "model": "glm-5.3"
+}

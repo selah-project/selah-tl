@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa pangunguna ng tagapanguna, sa mga instrumentong may kuwerdas, sa ikawalong tono — isang mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna ng tagapanguna"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sa mga instrumentong may kuwerdas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ikawalong tono"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:25.676154205Z",
+  "model": "glm-5.3"
+}

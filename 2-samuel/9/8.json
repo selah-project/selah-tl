@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At yumukod siya at nagsabi: Ano ang iyong alila, na iyong binaling ang paningin sa patay na asong katulad ko?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "at yumukod siya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong alila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "iyong binaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang paningin sa"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "asong"
+    },
+    {
+      "surface": "המת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "katulad ko"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:29.781304415Z",
+  "model": "glm-5.3"
+}

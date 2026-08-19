@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ganito ang sinabi ni Yahweh na aking Elohim: Ipastol mo ang ⟨את⟩ kawan na itinakdang patayin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "na aking Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ipastol mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "na itinakdang patayin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:16.040442312Z",
+  "model": "glm-5.3"
+}

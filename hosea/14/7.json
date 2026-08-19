@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Magsasanga ang kaniyang mgausbong, at ang kaniyang karangalan ay magiging gaya ng puno ng olibo, at ang kaniyang amoy ay gaya ng Lebanon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "magsasanga"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "ang kaniyang mgausbong"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "gaya ng olibo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ang kaniyang karangalan"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "at ang amoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ng kaniya"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "gaya ng Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:48.620303666Z",
+  "model": "glm-5.3"
+}

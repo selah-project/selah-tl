@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Hindi nila iiwanan ang anuman dito hanggang umaga, at ⟨is⟩ hindi sila magpaputol ng buto dito; ayon sa buong batas ng Pesach gagawin nila ⟨את⟩ niyon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "iiwanan nila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ang anuman dito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "at buto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "magpapuputol sila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa buong"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "batas"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ng Pesach"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gagawin nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niyon",
+      "marks": "niyon (ang Pesach)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:03.434766245Z",
+  "model": "glm-5.3"
+}

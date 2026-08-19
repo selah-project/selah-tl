@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ang bawat botsang yumayabong sa ugong ng digmaan, at ang kasuotang binalot sa dugo, ay magiging ⟨para sa⟩ pagsusunog, naing pinganan ng apoy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "botsa"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "yumayabong"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "sa ugong"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "at kasuotan"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "binalot"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "⟨para sa⟩ pagsusunog"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "pinganan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:27.300352664Z",
+  "model": "glm-5.3"
+}

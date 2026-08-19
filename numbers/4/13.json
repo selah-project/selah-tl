@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At lilinis-in nila ang ⟨את⟩ altar, at kakalatin nila roon ang balahabo ng kulay-ardosa.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "at lilinis-in nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "at kakalatin nila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "roon \/ sa ibabaw nito"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "balahabo \/ damit"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "kulay-ardosa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:21.973295513Z",
+  "model": "glm-5.3"
+}

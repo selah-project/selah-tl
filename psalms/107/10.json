@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Mga naninirahan sa kadiliman at sa anino ng kamatayan, mga bihag ng kahirapan at ng bakal,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "at anino ng kamatayan"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "mga bihag"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kahirapan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "at bakal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:25.046372031Z",
+  "model": "glm-5.3"
+}

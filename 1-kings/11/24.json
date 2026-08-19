@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nagtipon siya ng mga lalaki sa kanya, at naging pinuno ng isang gudd noong patayin ni David sila, at pumunta sila sa Damasek at tumahan doon, at naghari sa Damasek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "At nagtipon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ng mga lalaki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ng isang gudd (pangkat ng mandirigma)"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "noong pagpatay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "silá (ang mga pinatay)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at pumunta sila"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sa Damasek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at tumahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "sa Damasek"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:39.106954536Z",
+  "model": "glm-5.3"
+}

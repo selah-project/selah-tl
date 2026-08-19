@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Sa akin umayon ang iyong poot, at sa lahat ng iyong mga alon pinahirapan mo ako. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "umayon"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ang iyong poot"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at sa lahat ng"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "iyong mga alon"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "pinahirapan mo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:06.893200127Z",
+  "model": "glm-5.3"
+}

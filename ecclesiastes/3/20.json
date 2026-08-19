@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang lahat ay pumaparoon sa isang lugar; ang lahat ay mula sa alabok, at ang lahat ay babalik sa alabok.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "pumaparoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "isang lugar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iisa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "שב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "alabok"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:39.296069300Z",
+  "model": "glm-5.3"
+}

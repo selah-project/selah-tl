@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Dahil sa mga bagay na ito, magpipigil ba nga ba, Yahweh? Magdadamdam ba at papahirapan mo kami nang labis?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga bagay na ito"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "magpipigil ka ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "magdadamdam ka"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "at pahirapan mo kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.455515301Z",
+  "model": "glm-5.3"
+}

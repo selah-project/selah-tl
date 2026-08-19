@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At nakita ni David na lumabas si Saul upang hanapin ang ⟨את⟩ kaniyang buhay; at si David ⟨ay nasa⟩ ilang ng Zif, sa Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "upang hanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang buhay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kaniyang buhay"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ng Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "sa Horesha"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:31.473837234Z",
+  "model": "glm-5.3"
+}

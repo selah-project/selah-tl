@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Yahweh sa akin: Mula sa hilaga bubuksan ang kasamaan sa lahat ng naninirahan sa ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mula sa hilaga"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "mabubuksan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:14:38.544340933Z",
+  "model": "glm-5.3"
+}

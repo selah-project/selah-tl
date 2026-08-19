@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At tinanggal ng hari ang ⟨את⟩ kanyang singsing-tatak na ipinagpalipat mula kay Haman, at ibinigay ito kay Mordekhai; at inilagay ni Ester si ⟨את⟩ Mordekhai sa ibabaw ng bahay ni Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "at tinanggal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang singsing-tatak"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ang kanyang singsing-tatak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ipinagpalipat"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "mula kay Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "at ibinigay ito"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kay Mordekhai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekhai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:32.367995995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At sinabi ni David sa kaniya: Kung magpatuloy ka ⟨את⟩ kasama ko, ikaw ay magiging sa akin na pabigat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "magpatuloy ka \/ tumawid ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kasama ko",
+      "marks": "ang pagtawid ni Hushai kasama ni David"
+    },
+    {
+      "surface": "והית",
+      "gloss": "ikaw ay magiging"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "na pabigat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:11.046819534Z",
+  "model": "glm-5.3"
+}

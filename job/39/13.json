@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 39:13",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Ang pakpak ng ostrich ay nagkikig nang may tuwa; ngunit ⟨bagaman⟩ ang palikpik nito ay ng banayad na stork at ng balahibo?",
+  "tokens": [
+    {
+      "surface": "כנף",
+      "gloss": "pakpak"
+    },
+    {
+      "surface": "רננים",
+      "gloss": "ng ostrich"
+    },
+    {
+      "surface": "נעלסה",
+      "gloss": "nagkikig nang may tuwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bagaman"
+    },
+    {
+      "surface": "אברה",
+      "gloss": "palikpik"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "stork (ibong banayad)"
+    },
+    {
+      "surface": "ונצה",
+      "gloss": "at balahibo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:55:45.103031666Z",
+  "model": "glm-5.3"
+}

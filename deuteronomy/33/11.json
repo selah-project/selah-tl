@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Pagpalain ni Yahweh ang kaniyang lakas, at kaluluguran niya ang gawa ng kaniyang mga kamay; duroggin ang mga baywang ng kaniyang mga kaaway, at ng kaniyang mga napopoot sa kaniya — hindi na babangon pa.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "pagpalain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ang kaniyang lakas"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "at ang gawa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ng kaniyang mga kamay"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "kaluluguran niya"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "duroggin"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ang mga baywang"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ng kaniyang mga bumabangon (laban)"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "at ng kaniyang mga napopoot sa kaniya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "hindi na babangon pa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:38.800757217Z",
+  "model": "glm-5.3"
+}

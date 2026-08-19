@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sapagkat ako ay handa nang tumumba, at ang aking sakit ay laging nasa harapan ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "handang tumumba"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "naitakda"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "at ang aking sakit"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "sa harapan ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "laging"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:29.739355655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang lino at ang sebada ay sinaktan, sapagkat ang sebada ay may usbong na mais, at ang lino ay may bulaklak na.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "at ang lino"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "at ang sebada"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ay sinaktan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ang sebada"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "ay may usbong na mais"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "at ang lino"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "ay may bulaklak na"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:14.188152922Z",
+  "model": "glm-5.3"
+}

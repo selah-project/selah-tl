@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Ang mga tadik ay magmamana ng ⟨את⟩ lupa at tatahan magpakailanman sa ibabaw nito.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "mga tadik"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magmamana ng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:45.563406351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sa ikasiyam na araw ng buwan, lumakas ang gutom sa lungsod, at walang tinapay para sa bayan ng lupain.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "sa ikasiyam"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "araw ng buwan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "at lumakas"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ang gutom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "لעם",
+      "gloss": "para sa bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:13.132372531Z",
+  "model": "glm-5.3"
+}

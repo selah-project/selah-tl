@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at ang ⟨את⟩ mga kasuutan ng paglilingkod, at ang ⟨את⟩ mga banal na kasuutan para kay Aharon na kohen, at ang ⟨את⟩ mga kasuutan ng kanyang mga anak, upang maglingkod bilang mga kohen,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasuutan ng paglilingkod"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga kasuutan"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ng paglilingkod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga banal na kasuutan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga kasuutan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kay Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasuutan ng kanyang mga anak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga kasuutan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kanyang mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "upang maglingkod bilang kohen"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:02.390217220Z",
+  "model": "glm-5.3"
+}

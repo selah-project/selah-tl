@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At ang ⟨את⟩ lahat ng kanilang mga lungsod sa kanilang mga tirahan, at ang ⟨את⟩ lahat ng kanilang mga kuta, sinunog sa apoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng kanilang mga lungsod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kanilang mga lungsod"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "sa kanilang mga tirahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng kanilang mga kuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kanilang mga kuta"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:17.923183057Z",
+  "model": "glm-5.3"
+}

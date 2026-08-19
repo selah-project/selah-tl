@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Maglalagay ka ng daan na pagdatingan ng tabak sa ⟨את⟩ Rabbah ng mga anak ni Ammon, at sa ⟨את⟩ Yehuda na nasa Yerushalayim, ⟨na kuta⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "maglalagay ka"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pagdatingan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah ng mga anak ni Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "kuta"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:59.313092686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Magsalita ka nga ngayon sa pandinig ng bayan: hilingin ng bawat lalaki mula sa ⟨את⟩ kapwa niya, at bawat babae mula sa ⟨את⟩ kapwa niya, mga kasangkapan ng pilak at mga kasangkapan ng ginto.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "magsalita"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa pandinig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "hilingin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula sa ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kapwa niya"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "at bawat babae"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula sa ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kapwa niya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "at mga kasangkapan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:55.295316870Z",
+  "model": "glm-5.3"
+}

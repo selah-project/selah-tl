@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ang bangkay ng hayop at ang hinila ng mabangis na hayop ay hindi niya kakainin, upang huwag marumihan siya noon; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "ang bangkay ng hayop"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "at ang hinila ng mabangis na hayop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "upang huwag marumihan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "noon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:15.640033080Z",
+  "model": "glm-5.3"
+}

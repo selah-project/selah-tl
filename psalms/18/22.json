@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sapagkat pinanatili ko ang mga daan ni Yahweh, at hindi ako gumawa ng kasamaan laban sa aking Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "pinanatili ko"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga daan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "gumawa ako ng kasamaan"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "laban sa aking Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:09.956361234Z",
+  "model": "glm-5.3"
+}

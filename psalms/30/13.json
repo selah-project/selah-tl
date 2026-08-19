@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Upang ang aking kaluwalhatian ay umawit sa iyo ng papuri at hindi tumahimik — Yahweh, Elohim ko — magpakailanman ay magpapasalamat ako sa iyo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "umawit ng papuri sa iyo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tumahimik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magpapasalamat ako sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:43.833927625Z",
+  "model": "glm-5.3"
+}

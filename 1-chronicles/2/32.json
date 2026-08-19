@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang mga anak ni Yada, kapatid ni Shamai: Yeter at Yonatan; at namatay si Yeter nang walang mga anak.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ni Yada"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ni Shamai"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "at Yonatan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "si Yeter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:25.866155054Z",
+  "model": "glm-5.3"
+}

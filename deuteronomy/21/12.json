@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "ay dadalhin mo siya sa gitna ng iyong bahay, at ipapahit niya ang ⟨את⟩ kanyang ulo, at gagawin niya ang ⟨את⟩ kanyang mga kuko",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ay dadalhin mo siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gitna"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ng iyong bahay"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "at ipapahit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ulo"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ang kanyang ulo"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "at gagawin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang mga kuko"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ang kanyang mga kuko"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:37.106904342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung lalong dukha siya kaysa sa iyong pagtatakda, paghaharapin niya ⟨את⟩ ang kanyang sarili sa harap ng saserdote, at itatakda ng saserdote ⟨את⟩ siya; ayon sa kaya ng kamay ng nagtatalaga, siya ay itatakda ng saserdote.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "At kung"
+    },
+    {
+      "surface": "מך",
+      "gloss": "lalong dukha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "kaysa sa iyong pagtatakda"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "paghaharapin niya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "at itatakda ng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang taong itinakda)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "saserdote"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "kaya ng"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "ng nagtatalaga"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "siya ay itatakda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:27.287411856Z",
+  "model": "glm-5.3"
+}

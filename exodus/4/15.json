@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sasabihin mo sa kanya, at ilalagay mo ang ⟨את⟩ mga salita sa kanyang bibig, at ako — sasaiyo ako sa iyong bibig at sa kanyang bibig, at ituturo ko sa inyo ⟨את⟩ ang ⟨את⟩ inyong gagawin.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "At sasabihin mo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga salita"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa kanyang bibig"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sasaiyo ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "iyong bibig"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama ng"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kanyang bibig"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "at ituturo ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong gagawin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyong gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:12.382010105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Yahweh, sa iyong kalakasan magagalak ang hari, at sa iyong kaligtasan nang lubos siya'y magpupuri-ngiti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "sa iyong kalakasan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "at sa iyong kaligtasan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nang lubos"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "magpupuri-ngiti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:33.289690585Z",
+  "model": "glm-5.3"
+}

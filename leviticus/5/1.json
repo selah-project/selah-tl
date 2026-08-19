@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At kung magkasala ang isang tao, at marinig niya ang tinig ng sumpa, at siya'y saksi — o nakakita, o nakaaalam — kung hindi niya ito ipahayag, dadalhin niya ang kanyang kasamaan.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "At kung ang isang tao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "magkasala"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "at marinig niya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng sumpa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ay saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakaaalam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "niya ipahayag"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dadalhin niya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ang kanyang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:34.585118105Z",
+  "model": "glm-5.3"
+}

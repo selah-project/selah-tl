@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At pinawalan ni Yehoshua ang ⟨את⟩ bayan, at yumaon ang mga anak ni Yisrael, bawat isa sa kaniyang mana, upang ariin ang ⟨את⟩ lupain.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at pinawalan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sa kaniyang mana"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "upang ariin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:15.878329130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At ang ⟨את⟩ Beit-Nimra at ang ⟨את⟩ Beit-Haran — mga nakukutaang lungsod — at mga kulungan ng mga tupa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Beit-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Beit-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod na"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nakukutaan"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "at mga kulungan ng"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga tupa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:35.257761452Z",
+  "model": "glm-5.3"
+}

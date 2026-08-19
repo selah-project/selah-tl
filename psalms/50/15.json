@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "At tumawag ka sa akin sa araw ng kagipitan; ililigtas kita, at paparangalan mo ako.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "at tumawag ka sa akin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ng kagipitan"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ililigtas kita"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "at paparangalan mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:42.156255535Z",
+  "model": "glm-5.3"
+}

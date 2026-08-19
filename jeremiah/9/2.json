@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At kanilang iniunat ang ⟨את⟩ kanilang dila, pana ng kasinungalingan; at hindi para sa katapatan sila naging malakas sa lupain; sapagkat mula sa kasamaan tungo sa kasamaan sila lumabas, at ang ⟨את⟩ akin ay hindi nila nakilala — kautusan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "at kanilang iniunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang dila"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "kanilang dila"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "pana nila"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "para sa katapatan"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "sila naging malakas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "mula sa kasamaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila lumabas"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "at ang ⟨את⟩ akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila nakilala"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kautusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:44.164444807Z",
+  "model": "glm-5.3"
+}

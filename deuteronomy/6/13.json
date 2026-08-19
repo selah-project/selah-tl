@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Si ⟨את⟩ Yahweh na iyong Elohim ay iyong kakambahan, at ⟨את⟩ kaniya ay iyong paglilingkuran, at sa kaniyang pangalan ka manunumpa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Si Yahweh na iyong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kakambahan mo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "at ⟨את⟩ kaniya"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "iyong paglilingkuran"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "at sa kaniyang pangalan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ka manunumpa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:28.952314911Z",
+  "model": "glm-5.3"
+}

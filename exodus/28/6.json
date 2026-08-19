@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At gagawin nila ang ⟨את⟩ ephod: ginto, asul at ube, uod-ng-scarlet, at binurdahang lino — gawa ng bihasang manggagawa.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "At gagawin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang ephod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "at ube"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "uod"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ng-scarlet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "at lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "binurdahan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ng bihasang manggagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:30.959215498Z",
+  "model": "glm-5.3"
+}

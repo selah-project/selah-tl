@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Ibinigay nila ang ⟨את⟩ bangkay ng iyong mga alipin bilang pagkain sa mga ibon ng langit, ang laman ng iyong mga banal sa mga hayop ng lupa.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkay ng iyong mga alipin"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "bangkay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ng iyong mga alipin"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "bilang pagkain"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sa mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ng iyong mga banal"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "sa mga hayop"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:35.098394970Z",
+  "model": "glm-5.3"
+}

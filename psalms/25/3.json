@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat ang lahat ng naghihintay sa iyo ay hindi mapapahiya; mapapahiya ang mga taksil, walang dahilan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sapagkat din (walang hinaharap)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "naghihintay sa iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapapahiya"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapapahiya"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ang mga taksil"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "walang dahilan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:58.180874547Z",
+  "model": "glm-5.3"
+}

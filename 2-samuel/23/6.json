@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ngunit ⟨ang mga anak⟩ ni Belial — tulad ng tinaboy na tinik silang lahat; sapagkat hindi sa kamay kukunin.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "ngunit ⟨ang mga anak⟩ ni Belial"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "tulad ng tinik"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "tinaboy"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "sila nga lahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "kukunin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:12.262740757Z",
+  "model": "glm-5.3"
+}

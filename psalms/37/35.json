@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Nakita ko ang masama, na mapaniil, at nagpapalawig na parang katutubong punong luntian;",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "mapaniil"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "at nagpapalawig"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "parang katutubong puno"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "luntian"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:46.408914578Z",
+  "model": "glm-5.3"
+}

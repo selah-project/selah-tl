@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Pagkain ay ibinigay niya sa mga natatakot sa kanya; kanyang aalalahanin magpakailanman ang kanyang tipan.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "sa mga natatakot sa kanya"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "aalalahanin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ang kanyang tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:32.022020221Z",
+  "model": "glm-5.3"
+}

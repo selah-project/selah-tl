@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At hinulma ni Yahweh Elohim ⟨את⟩ tao mula sa alabok ng lupa, at humihip ito sa kanyang ilong ng hininga ng buhay, at naging tao na may buhay na kaluluwa.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "at hinulma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "at humihip"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sa kanyang ilong"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hininga ng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "na may kaluluwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:29.305758192Z",
+  "model": "glm-5.3"
+}

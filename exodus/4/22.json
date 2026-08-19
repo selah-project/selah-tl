@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At iyong sasabihin kay Paroh: Ganito ang sabi ni Yahweh: Ang aking anak, aking panganay, ay ⟨ang⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "at iyong sasabihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "aking panganay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:00.219116150Z",
+  "model": "glm-5.3"
+}

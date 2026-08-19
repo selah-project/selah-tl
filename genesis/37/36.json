@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At ang mga Midyano ay nagtinda ⟨את⟩ kanya sa Mitsrayim, kay Potiphar, opisyal ni Paroh, puno ng mga tagapagluto.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "at ang mga Midyano"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "nagtinda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kanya (si Yosef)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kay Potiphar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "opisyal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ng mga tagapagluto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:28.200300193Z",
+  "model": "glm-5.3"
+}

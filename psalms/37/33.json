@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Hindi pabayaan ni Yahweh siya sa kamay niya, at hindi parurusahan ⟨siya⟩ sa kanyang paghahatol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "pabayaan siya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kamay niya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "parurusahan siya"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "sa kanyang paghahatol"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:02.567758102Z",
+  "model": "glm-5.3"
+}

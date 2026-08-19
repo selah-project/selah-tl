@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At itinayo niya ang ⟨את⟩ mga haligi sa harap ng ⟨the⟩ templo; at itinayo niya ang ⟨את⟩ haliging kanan, at tinawag niya ang ⟨את⟩ pangalan nito na Yakhin; at itinayo niya ang ⟨את⟩ haliging kaliwa, at tinawag niya ang ⟨את⟩ pangalan nito na Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mga haligi"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "sa portiko"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ng templo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haligi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haligi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "kaliwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan nito"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan nito"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:51.246795700Z",
+  "model": "glm-5.3"
+}

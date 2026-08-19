@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "at ang ⟨את⟩ lahat ng mga hari ng Tzor, at ang ⟨את⟩ lahat ng mga hari ng Tzidon, at ang ⟨את⟩ mga hari ng isla na nasa kabilang panig ng dagat",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga hari ng Tzor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga hari ng Tzidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga hari ng isla"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "האי",
+      "gloss": "ng isla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nasa kabilang panig ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:25:59.182637208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Panalangin ni David. Iyong ikiling ang iyong pakinig, Yahweh, at sagutin mo ako, sapagkat dukha at maralita ako.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "iyong ikiling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang iyong pakinig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at maralita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:44.360842078Z",
+  "model": "glm-5.3"
+}

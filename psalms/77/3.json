@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Sa araw ng aking kagipitan, si Adonai ay hinanap ko; aking kamay sa gabi ay inunat, at hindi naglaho; tumangging maaliw ang aking nefesh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ng aking kagipitan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "hinanap ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aking kamay"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "inunat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "naglaho"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "tumanggi"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "maaliw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking nefesh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:10.949712140Z",
+  "model": "glm-5.3"
+}

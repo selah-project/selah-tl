@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ang ⟨את⟩ iyong masasamang balak at ang ⟨את⟩ iyong mga karumal-dumal — ikaw ang nagdala ng mga iyon, ganito ang sabi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong masasamang balak"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "iyong masasamang balak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "iyong mga karumal-dumal"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "iyong mga karumal-dumal"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "nagdala ng mga iyon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ganito ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:43:41.909907035Z",
+  "model": "glm-5.3"
+}

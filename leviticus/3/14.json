@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At maghahandog siya mula rito ng kanyang handog, na handog na apoy kay Yahweh: ang ⟨את⟩ taba na tumatakip sa ⟨את⟩ mga bituka, at ang ⟨את⟩ buong taba na nasa ibabaw ng mga bituka.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "at maghahandog"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kanyang handog"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na apoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "tumatakip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bituka"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mga bituka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mga bituka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:43.479859689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Maganda ang dalawa kaysa sa isa, sapagkat mayroon silang mabuting gantimpala sa kanilang pagpapagod.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ang dalawa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa sa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "gantimpala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuting"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "sa kanilang pagpapagod"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:05.068849540Z",
+  "model": "glm-5.3"
+}

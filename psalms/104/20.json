@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Naglalatag ka ng kadiliman at ⟨naging⟩ gabi; doon gumagapang ang lahat ng hayop ng gubat.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "naglalatag ka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ng kadiliman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "doon (sa loob nito)"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "gumagapang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ng gubat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.949236517Z",
+  "model": "glm-5.3"
+}

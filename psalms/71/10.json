@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Sapagkat nagsalita laban sa akin ang aking mga kaaway, at ang nagbabantay sa aking buhay ay nagtipon-tipon nang magkakasama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsalita sila"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang aking mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "at ang nagbabantay sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking buhay"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagtipon-tipon sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:17.238579583Z",
+  "model": "glm-5.3"
+}

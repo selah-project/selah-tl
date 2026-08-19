@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Maghandog ka sa Elohim ng pasasalamat, at bayaran mo sa Kadiyosa ang iyong mga nazar.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "maghandog ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pasasalamat"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "at bayaran mo"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "sa Kadiyosa"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ang iyong mga nazar"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:42.156155269Z",
+  "model": "glm-5.3"
+}

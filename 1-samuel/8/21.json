@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At narinig ni Shemuël ang ⟨את⟩ lahat ng mga salita ng bayan, at isinalaysay niya ang mga iyon sa mga tainga ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "at isinalaysay niya ang mga iyon"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:00.092979347Z",
+  "model": "glm-5.3"
+}

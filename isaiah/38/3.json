@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At nagsabi: Ah, Yahweh, alalahanin mo nga ang ⟨את⟩ mga bagay na lumakad ako sa harap mo sa katotohanan at may buong pusong tapat, at ang mabuti sa iyong mga mata ay ginawa ko. At umiyak si Chizkiyahu na may malaking pag-iyak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "alalahanin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ⟨את⟩ mga bagay na lumakad ako sa harap mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "lumakad ako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa katotohanan"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "at may pusong"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "buong tapat"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "at ang mabuti"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa iyong mga mata"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "si Chizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "na pag-iyak"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malaking"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:58.931962881Z",
+  "model": "glm-5.3"
+}

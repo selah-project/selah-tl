@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang mga ito ang mga pangalan ng mga anak ni Gershon ayon sa kanilang mga angkan: Livni at Shimi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ang mga ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga pangalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "at Shimi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:04.107063320Z",
+  "model": "glm-5.3"
+}

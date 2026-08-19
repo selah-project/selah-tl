@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At aalis ang mga palaka mula sa iyo, at sa iyong mga bahay, at sa iyong mga alipin, at sa iyong bayan; sa ilog lamang ⟨sila⟩ maiiwan.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "At aalis"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga palaka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "mula sa iyo"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "at sa iyong mga bahay"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "at sa iyong mga alipin"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "at sa iyong bayan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "sa ilog"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "maiiwan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:38.498119010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At ang bawat siyahan na sakyanan na sinasakyan ng may labis ay ⟨maging⟩ marumi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang bawat"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "siyahan na sakyanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "sinasakyan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito roon"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ng may labis"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "marumi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:52.637637088Z",
+  "model": "glm-5.3"
+}

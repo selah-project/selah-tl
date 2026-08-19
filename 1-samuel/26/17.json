@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At nakilala ni Shaul ang ⟨את⟩ tinig ni David, at nagsabi: Ito ba ang iyong tinig, anak kong David? At nagsabi si David: Aking tinig, aking panginoong hari.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "ito ba ang iyong tinig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "aking tinig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panginoon ko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:10:09.185038465Z",
+  "model": "glm-5.3"
+}

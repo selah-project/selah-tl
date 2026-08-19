@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinabi ni Yahweh kay Moshe: Gumawa ka para sa iyong sarili ng saraph at ilagay mo ⟨את⟩ ito sa isang watawat; at mangyayari na ang bawat nakakagat, kapag tumanaw siya ⟨את⟩ dito, ay mabubuhay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Gumawa ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyong sarili"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ng saraph"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "at ilagay mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang saraph)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "isang watawat"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "nakakagat"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "kapag tumanaw siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dito (ang saraph)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ay mabubuhay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:26.512502914Z",
+  "model": "glm-5.3"
+}

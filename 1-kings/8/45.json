@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "at didingin mo sa ⟨mga⟩ langit ang ⟨את⟩ kanilang panalangin at ang ⟨את⟩ kanilang pamamanhikan, at gagawin mo ang kanilang kahatulan",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "at didingin mo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang panalangin"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "kanilang panalangin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang kanilang kahatulan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:59.266644188Z",
+  "model": "glm-5.3"
+}

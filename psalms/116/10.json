@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Naniwala ako, sapagkat magsasalita ako — ako, labis na naapi.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "naniwala ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "magsasalita ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "labis na naapi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labis"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:13.019060183Z",
+  "model": "glm-5.3"
+}

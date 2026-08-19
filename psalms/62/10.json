@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Mga kabulaanan lamang ang mga anak ni Adam, mga kasinungalingan ang mga anak ng lalaki; sa timbangan, kapag itinaas ⟨sila⟩ — sila'y magkakasamang mas magaan kaysa kabulaanan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mga kabulaanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mga kasinungalingan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng lalaki"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sa timbangan"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kapag itinaas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "kaysa kabulaanan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkakasama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:10.974573711Z",
+  "model": "glm-5.3"
+}

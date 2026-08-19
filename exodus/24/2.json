@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At si Moshe lamang ang lalapit kay Yahweh; ngunit sila ay hindi lalapit, at ang bayan ay hindi aakyat na kasama niya.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "at lalapit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lamang siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ngunit sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "lalapit"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "at ang bayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "aakyat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:25.686572306Z",
+  "model": "glm-5.3"
+}

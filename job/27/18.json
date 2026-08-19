@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 27:18",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Nagtatayo siya ng bahay na parang tanga ng gamugamo, at parang kubol na ginawa ng bantay.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "nagtatayo"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "parang tanga ng gamugamo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bahay niya"
+    },
+    {
+      "surface": "וככסה",
+      "surface_alt": "",
+      "gloss": "at parang kubol"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ng bantay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:52:03.640879112Z",
+  "model": "glm-5.3"
+}

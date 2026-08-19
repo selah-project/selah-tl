@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At ginawa niya ang ⟨את⟩ balat ng ephod, gawang hinabi, lahat ng teal.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balat ng ephod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "balat"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ng ephod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawang"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "hinabi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "teal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:04.704694488Z",
+  "model": "glm-5.3"
+}

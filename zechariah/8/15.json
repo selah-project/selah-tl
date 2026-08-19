@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Gayon din, Ako'y bumalik na binalak Ko sa mga araw na ito na gumawa ng kabutihan sa ⟨את⟩ Yerushalayim at sa ⟨את⟩ sambahayan ni Yehudah; huwag kayong matakot.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Gayon din"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "Ako'y bumalik"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "binalak Ko"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "na gumawa ng kabutihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "sambahayan ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kayong matakot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:11.938218450Z",
+  "model": "glm-5.3"
+}

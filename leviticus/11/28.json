@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang nagbubuhat ng ⟨את⟩ kanilang bangkay ay maglalaba ng kaniyang mga damit at marumi hanggang sa pagtakipsilim — marurumi sila sa inyo.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "at ang nagbubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang bangkay"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "kanilang bangkay"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "maglalaba"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ng kaniyang mga damit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "at marumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pagtakipsilim"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "marurumi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:29.316968985Z",
+  "model": "glm-5.3"
+}

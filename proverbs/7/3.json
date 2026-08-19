@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ital iyon sa iyong mga daliri, isulat iyon sa ⟨tapyas⟩ ng iyong puso.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ital mo iyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "iyong mga daliri"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "isulat mo iyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "⟨tapyas⟩"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ng iyong puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:29.184757518Z",
+  "model": "glm-5.3"
+}

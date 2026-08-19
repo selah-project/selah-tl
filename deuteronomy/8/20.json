@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Gaya ng mga bansa na pinapawala ni Yahweh sa inyong harapan, gayon kayo rin ay mawawala, dahil hindi kayo nakikinig sa tinig ni Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "gaya ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "pinapawala"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sa inyong harapan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kayo ay mawawala"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kayo nakikinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:13.045049010Z",
+  "model": "glm-5.3"
+}

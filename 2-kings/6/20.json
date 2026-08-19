@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nangyari, nang pagdating nila sa Shomron, na sinabi ni Elisha: Yahweh, buksan mo ang ⟨את⟩ mga mata ng mga ito at makakita sila. At binuksan ni Yahweh ang ⟨את⟩ kanilang mga mata, at nakita nila, at narito, ⟨nasa⟩ gitaw ng Shomron sila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "nang pagdating nila"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na sinabi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "buksan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mata ng mga ito"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ng mga ito"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at makakita sila"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "at binuksan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "kanilang mga mata"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita nila"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitaw ng"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:40.066445265Z",
+  "model": "glm-5.3"
+}

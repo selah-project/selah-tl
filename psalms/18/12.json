@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Naglagay siya ng kadiliman bilang kaniyang taguan, ⟨sa⟩ kaniyang paligid — kaniyang kubol; kadiliman ng mga tubig, makapal na ulap ng mga kalangitan.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "kaniyang taguan"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "kaniyang paligid"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "kaniyang kubol"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kadiliman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng mga tubig"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "makapal na ulap"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ng mga kalangitan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:39.232402268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At tatawagin mo si Yishai sa sakdal, at ako ay ipapaalam sa iyo ang ⟨את⟩ gagawin mo; at papahiran mo ng langis para sa akin ang ⟨את⟩ sasabihin ko sa iyo.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "at tatawagin mo"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "si Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "sa sakdal"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ipapaalam sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gagawin mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "at papahiran mo ng langis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sasabihin ko sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sasabihin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:34.676047804Z",
+  "model": "glm-5.3"
+}

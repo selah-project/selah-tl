@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sa taong matapat ay nagpapakita ka ng pagkamatapat; sa taong buo ay nagpapakita ka ng pagkabuo.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "taong matapat"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "nagpapakita ka ng pagkamatapat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "taong"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "buo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "nagpapakita ka ng pagkabuo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:54.931085997Z",
+  "model": "glm-5.3"
+}

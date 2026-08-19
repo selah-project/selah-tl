@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "⟨את⟩ Lahat ng ito'y aking nakita sa mga araw ng aking kahalayan: may matuwid na nawawala sa kanyang katuwiran, at may masama na nagtatagal sa kanyang kasamaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lahat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Lahat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aking nakita"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ng aking kahalayan"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nawawala"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "sa kanyang katuwiran"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "at may"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "nagtatagal"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "sa kanyang kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:31.636637487Z",
+  "model": "glm-5.3"
+}

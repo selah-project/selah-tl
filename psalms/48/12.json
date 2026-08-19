@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Magalak ang bundok ng Tsiyon, magsaya ang mga anak na babae ng Yehuda, dahil sa iyong mga hatol.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magalak"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ang bundok"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ng Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "magsaya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ang mga anak na babae"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iyong mga hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.538925708Z",
+  "model": "glm-5.3"
+}

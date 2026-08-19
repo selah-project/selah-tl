@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Datapuwa't ang ⟨את⟩ mga bukid ng bayan at ang ⟨את⟩ mga nayon nito, ibinigay nila kay Kalev na anak ni Yefune bilang kanyang pag-aari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "datapuwa't ang ⟨את⟩",
+      "marks": "mga bukid ng bayan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga nayon nito"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "mga nayon nito"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kay Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "bilang kanyang pag-aari"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:20.438062682Z",
+  "model": "glm-5.3"
+}

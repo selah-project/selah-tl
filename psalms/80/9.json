@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Isang puno ng ubas mula sa Mitsrayim ay inalis mo; pinagtabuyan mo ang mga bansa at itinanim mo ito.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "puno ng ubas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "inalis mo"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "pinagtabuyan mo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "at itinanim mo ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:40.838883779Z",
+  "model": "glm-5.3"
+}

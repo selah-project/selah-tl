@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sumigaw ang mga anak ni Yisrael kay Yahweh, na nagsasabi: Nagkasala kami sa iyo, sapagkat iniwan namin ang ⟨את⟩ aming Elohim at pinagsilbihan namin ang ⟨את⟩ mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "at sumigaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagkasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "iniwan namin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "aming Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "at pinagsilbihan namin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mga Baal"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:04.507698387Z",
+  "model": "glm-5.3"
+}

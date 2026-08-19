@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Lumakad si Moshe, at sinabi niya ang ⟨את⟩ mga salitang ito sa buong Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salitang ito"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:23.163200058Z",
+  "model": "glm-5.3"
+}

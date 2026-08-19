@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 8:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ito ang gawa ng menorah: hinang ginto, hanggang sa hita nito, hanggang sa bulaklak nito — hinang ginto ⟨ito⟩; ayon sa anyong ipinakita ni Yahweh kay ⟨את⟩ Moshe, kaya ginawa niya ang ⟨את⟩ menorah.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ang gawa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ng menorah"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "hita nito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "bulaklak nito"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ayon sa anyong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ipinakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:37.455528505Z",
+  "model": "glm-5.3"
+}

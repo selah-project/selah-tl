@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Nakita ng mga tao ang ⟨mga⟩ lakad mo, Elohim, ang mga lakad ng aking El, ng aking hari, sa ⟨kabanalan⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ang mga lakad mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mga lakad"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ng aking El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ng aking hari"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa kabanalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:13.221283654Z",
+  "model": "glm-5.3"
+}

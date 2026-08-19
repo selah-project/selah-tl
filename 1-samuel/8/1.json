@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Nangyari, nang tumanda si Shemuël, na nagtakda siya ng ⟨את⟩ kaniyang mga anak na mga hukom para sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tumanda"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nagtakda siya ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mga hukom"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.448599176Z",
+  "model": "glm-5.3"
+}

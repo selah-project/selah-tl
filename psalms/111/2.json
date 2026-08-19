@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Dakila ang mga gawa ni Yahweh, hinahanap ng lahat ng mga nagkakagusto sa mga ito.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Dakila"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "hinahanap"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "mga nagkakagusto sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:23.668185096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At ginawa ng mga anak ni Yisrael ang gayon, at nangalap ⟨ang⟩ nakarami at ⟨ang⟩ nakabawas.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "at nangalap"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "⟨ang⟩ nakarami"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "at ⟨ang⟩ nakabawas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:47.239812546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang mga anak ni Kehat: Amram, Yitshar, Chebron, at Uzziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "at Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "at Chebron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "at Uzziel"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:55.390614274Z",
+  "model": "glm-5.3"
+}

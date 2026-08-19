@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At tumawag sila sa bayan sa mga handog ng kanilang mga diyos, at kumain ang bayan at nagpatirapa sa kanilang mga diyos.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "tumawag sila (ang mga babae)"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "sa mga handog"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ng kanilang mga diyos"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nagpatirapa"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "sa kanilang mga diyos"
+    }
+  ],
+  "timestamp": "2026-08-19T15:14:47.112819007Z",
+  "model": "glm-5.3"
+}

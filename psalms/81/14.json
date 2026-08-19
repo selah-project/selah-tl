@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Sana'y nakinig sa Akin ang Aking bayan, maglakad sana ang Yisrael sa Aking mga landas!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "sana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang Aking bayan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa Akin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa Aking mga landas"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "maglakad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.579929545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Sinabi ni Adonai: Mula sa Bashan ay ⟨kay⟩ babalikin ⟨Ko⟩, babalikin ⟨Ko⟩ mula sa mga kalaliman ng dagat.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "mula sa Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "babalikin"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "babalikin"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "mula sa mga kalaliman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ng dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:37.262098513Z",
+  "model": "glm-5.3"
+}

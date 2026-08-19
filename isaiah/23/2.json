@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Tumahimik kayo, mga naninirahan sa pulo; nangatiwangwang ang tagapagkalakal ng Tsidon, ang tumatawid sa dagat, pagkapuno sa iyo.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "tumahimik kayo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sa pulo"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "tagapagkalakal"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ng Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tumatawid"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "pagkapuno sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:48.340221536Z",
+  "model": "glm-5.3"
+}

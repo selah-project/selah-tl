@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Datapuwa't ako, sinabi ko sa aking kapanatagan: «Kailanma'y hindi ako magigimbal.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Datapuwa't ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "sa aking kapanatagan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kailanma'y hindi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "magigimbal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:06.670246489Z",
+  "model": "glm-5.3"
+}

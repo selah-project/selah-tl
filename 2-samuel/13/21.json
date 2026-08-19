@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At narinaw ni Haring David ang ⟨את⟩ lahat ng mga bagay na ito, at siya'y labis na nagalit",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakarinig\/narinaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga bagay na ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "at nagalit\/nag-init"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:35.216747829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 93,
+  "translation": "Ang ⟨mga⟩ patotoo mo ay totoong nanalig-⟨na⟩-nanalig; sa bahay mo, nakaaangkop ang kabanalan, O Yahweh, sa haba ng mga araw.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "mga patotoo mo"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "nanalig na nanalig \/ napatunayan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "totoong-totoo \/ lubos"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa bahay mo"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nakaaangkop \/ naaangkop"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sa haba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:10.112530880Z",
+  "model": "glm-5.3"
+}

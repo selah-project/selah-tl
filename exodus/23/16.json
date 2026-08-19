@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ang pista ng ani, ng mga unang bunga ng iyong gawa na itinatanim mo sa bukid; at ang pista ng pagtitipon, sa paglabas ng taon, sa iyong pagtitipon ng ⟨את⟩ iyong gawa mula sa bukid.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "At ang pista"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "ng ani"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ng mga unang bunga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ng iyong gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "itinatanim mo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "At ang pista"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "ng pagtitipon"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "sa paglabas"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ng taon"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "sa iyong pagtitipon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong gawa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iyong gawa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:30.233129549Z",
+  "model": "glm-5.3"
+}

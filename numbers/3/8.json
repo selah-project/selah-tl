@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At bantayan nila ang ⟨את⟩ lahat ng mga kagamitan ng tolda ng kapisanan, at ang ⟨את⟩ pagbantay ng mga anak ni Yisrael, upang gawin ang ⟨את⟩ paglilingkod ng mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "at bantayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng kapisanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pagbantay ng mga anak ni Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paglilingkod ng mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "paglilingkod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng mishkan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:15.782314742Z",
+  "model": "glm-5.3"
+}

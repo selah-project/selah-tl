@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kawawa ka, ⟨את⟩ lupa, kapag ang hari mo ay batang lalaki, at ang mga pinuno mo ay sa umaga kumakain!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "kawawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ang hari mo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batang lalaki"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "at ang mga pinuno mo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kumakain"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:38.349250502Z",
+  "model": "glm-5.3"
+}

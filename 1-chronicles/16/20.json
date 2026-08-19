@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At namuno Silang maglakad-loob mula sa isang bansa tungo sa isang bansa, at mula sa isang kaharian tungo sa ibang bayan.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "at namuno silang maglakad-loob"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "mula sa isang bansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isang bansa"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "at mula sa isang kaharian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tungo sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isang bayan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ibang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:23.149526221Z",
+  "model": "glm-5.3"
+}

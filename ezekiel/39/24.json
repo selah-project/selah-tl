@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Ayon sa kanilang karumihan at ayon sa kanilang mga pagsuway ginawa ko ang ⟨את⟩ sa kanila, kaya nagtago ako ng aking mukha sa kanila.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ayon sa kanilang karumihan"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "at ayon sa kanilang mga pagsuway"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanila (ang ginawa ko)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "kaya nagtago ako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng aking mukha"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:53:00.504976018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sabihin ninyo: matuwid ang tao, at mabuti ang kalagayan niya, sapagkat ang bunga ng kanilang mga gawa ay kanilang kakainin.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sabihin ninyo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ang bunga"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ng kanilang mga gawa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ay kanilang kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:22.280142637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nagpatirapa si Avram sa kaniyang mukha, at kinausap ⟨את⟩ siya ng Elohim, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "nagpatirapa \/ nagdagan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kaniyang mukha"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "at kinausap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Avram (na kinakausap)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:11:36.037976004Z",
+  "model": "glm-5.3"
+}

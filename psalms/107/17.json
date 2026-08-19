@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Mga hangal, dahil sa daan ng kanilang pagsukoil at dahil sa kanilang mga kasamaan, hinahamak sila",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "mga hangal"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "dahil sa daan ng"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "kanilang pagsukoil"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "at dahil sa kanilang mga kasamaan"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "hinahamak sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:34.114162520Z",
+  "model": "glm-5.3"
+}

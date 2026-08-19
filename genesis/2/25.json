@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At silang dalawa ay pawang hubad — ⟨ang⟩ tao at ang kaniyang asawa — at hindi sila nahihiya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "silang dalawa"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "hubad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨ang⟩ tao"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "at ang kaniyang asawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "nahihiya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:35.502563755Z",
+  "model": "glm-5.3"
+}

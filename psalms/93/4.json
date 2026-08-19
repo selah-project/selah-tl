@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 93,
+  "translation": "Higit sa mga tunog ng maraming tubig, sa mga alon ng dagat na makapangyarihan — makapangyarihan sa kaitaasan si Yahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "higit sa mga tunog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "na makapangyarihan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "sa mga alon"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ng dagat"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "sa kaitaasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:32.690237624Z",
+  "model": "glm-5.3"
+}

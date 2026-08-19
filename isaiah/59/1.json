@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Tingnan ninyo, hindi naikli ang kamay ni Yahweh upang magligtas, at hindi naging mabigat ang kaniyang tainga sa pagdinig",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tingnan ninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "naikli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "upang magligtas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "naging mabigat"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kaniyang tainga"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa pagdinig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:40.355937878Z",
+  "model": "glm-5.3"
+}

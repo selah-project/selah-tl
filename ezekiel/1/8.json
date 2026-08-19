@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At mga kamay ng tao ⟨ay nasa⟩ ilalim ng mga pakpak nila, sa apat na panig nila; at ang mga mukha nila at ang mga pakpak nila — sa apat sila.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "at mga kamay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ng mga pakpak nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "apat"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "na panig nila"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "at ang mga mukha nila"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "at ang mga pakpak nila"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "sa apat sila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:37:51.749229219Z",
+  "model": "glm-5.3"
+}

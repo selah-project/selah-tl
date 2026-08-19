@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At bumangon ako sa umaga upang pasusuhin ang ⟨את⟩ aking anak, at heto, patay; at tumanaw ako rito sa umaga, at heto, hindi ⟨ito⟩ ang aking anak na ipinanganak ko.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "at bumangon ako"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "upang pasusuhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at heto"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "at tumanaw ako"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at heto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aking anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ipinanganak ko"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:27.484901171Z",
+  "model": "glm-5.3"
+}

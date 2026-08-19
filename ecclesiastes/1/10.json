@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "May bagay na sinasabing: Tingnan mo ito, bago ⟨ito⟩; nagmula na ito sa mga pangyayari noong una, na nangyari bago pa tayo.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "May"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "na sinasabing"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "nagmula na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "sa mga pangyayari noong una"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "bago pa tayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:43.206153799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Hanggang kailan, Yahweh? Magalit ka ba magpakailanman? Sasindak ba na parang apoy ang iyong pangingibabaw ng poot?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hanggang kailan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kung kailan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "magalit ka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sasindak"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "parang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ang iyong pangingibabaw ng poot"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.883408325Z",
+  "model": "glm-5.3"
+}

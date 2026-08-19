@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At pumasok siya sa Shomeron, at pinamatay niya ang ⟨את⟩ lahat ng natitira kay Ajab sa Shomeron, hanggang sa pagkapahamak niya, ayon sa salita ni Yahweh na kanyang sinabi kay Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at pinamatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng natitira kay Ajab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ng natitira"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kay Ajab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "sa pagkapahamak niya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kanyang sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:12.506568351Z",
+  "model": "glm-5.3"
+}

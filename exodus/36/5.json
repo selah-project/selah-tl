@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At nagsalita sila kay Moshe, na nagsasabi: Masyadong marami ang dala ng bayan para sa gawain ng paglilingkuran, higit sa kailangan ng gawain na iniutos ni Yahweh na gawin ⟨את⟩ ito.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsalita sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "masyadong marami"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "higit sa kailangan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ng paglilingkuran"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "sa gawain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang gawain)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:44.574350229Z",
+  "model": "glm-5.3"
+}

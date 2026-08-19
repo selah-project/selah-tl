@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ang poot ng isang hari ay ⟨mga⟩ sugo ng kamatayan, ngunit ang taong marunong ay papanatagin ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "poot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "⟨mga⟩ sugo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ngunit ang tao"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "marunong"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ay papanatagin ⟨ito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:59.622842431Z",
+  "model": "glm-5.3"
+}

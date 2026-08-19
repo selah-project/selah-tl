@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At kinuha nila siya at itinapon nila siya ⟨את⟩ sa balon; at ang balon ay walang laman — walang tubig sa loob nito.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "at kinuha nila siya"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "at itinapon nila siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (Yosef)"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "sa balon"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "at ang balon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "walang laman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa loob nito"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:18.482712805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang mga nakatira sa Giv'on, narinig nila ang ⟨את⟩ ginawa ni Yehoshua sa Yericho at sa Ay.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "at ang mga nakatira"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "sa Giv'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "narining"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa ni Yehoshua sa Yericho at sa Ay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "sa Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "at sa Ay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:07.342455541Z",
+  "model": "glm-5.3"
+}

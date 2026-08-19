@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At itatakda ko ang ⟨את⟩ iyong binhi na gaya ng alabok ng lupa — kung kaya ng isang tao na bilangin ang ⟨את⟩ alabok ng lupa, mabibilang din ang iyong binhi.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "at itatakda ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong binhi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iyong binhi"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "na gaya ng alabok ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang tao"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "bilangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alabok ng lupa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang iyong binhi"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "mabibilang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:32.034762315Z",
+  "model": "glm-5.3"
+}

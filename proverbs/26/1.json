@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Tulad ng niyebe sa tag-araw at tulad ng ulan sa ani, gayon ang karangalan ay hindi nararapat sa hangal.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "tulad ng niyebe"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa tag-araw"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "at tulad ng ulan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nararapat"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "sa hangal"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "karangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:35.756722637Z",
+  "model": "glm-5.3"
+}

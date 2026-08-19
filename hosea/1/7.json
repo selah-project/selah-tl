@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit ang ⟨את⟩ sambahayan ng Yehudah ay aaanan ko, at ililigtas ko sila sa pamamagitan ni Yahweh na kanilang Elohim, at hindi sila ililigtas sa pamamagitan ng busog, ni sa tabak, ni sa digmaan, sa mga kabayo at sa mga mangangabaw.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ang",
+      "marks": "sambahayan ng Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "aaanan ko"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "at ililigtas ko sila"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa pamamagitan ni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "na kanilang Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "sila ililigtas"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "sa busog"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "at sa tabak"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "at sa digmaan"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "at sa mga mangangabaw"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:35.169814738Z",
+  "model": "glm-5.3"
+}

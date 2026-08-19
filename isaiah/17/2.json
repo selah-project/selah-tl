@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Pababayaang mga lunsod ng Aroer; para sa mga kawan ⟨sila⟩ magiging, at huhiga ⟨sila⟩ at walang gagimbal.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "pababayaan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lunsod ng"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "para sa mga kawan"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "at huhiga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "gagimbal"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:43.058972812Z",
+  "model": "glm-5.3"
+}

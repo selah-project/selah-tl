@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Gayundin ang Yehudah ay hindi tumupad ng ⟨את⟩ mga utos ni Yahweh na kanilang Elohim, kundi lumakad sila sa mga batas ng Israel na ginawa nila.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tumupad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga utos"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga utos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "na kanilang Elohim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kundi lumakad sila"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga batas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:47:51.148747557Z",
+  "model": "glm-5.3"
+}

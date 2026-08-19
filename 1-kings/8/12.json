@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Nang magkagayon, nagsalita si Shelomoh: Sinabi ni Yahweh na tatalirihan niya ang kadiliman.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nang magkagayon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "na tatalirihan"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ang kadiliman"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:09.000041416Z",
+  "model": "glm-5.3"
+}

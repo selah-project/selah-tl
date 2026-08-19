@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang inyong mga mata, ang nakakita ng ⟨את⟩ ginawa ni Yahweh kay Baal-Peor, sapagkat bawat lalaking sumunod kay Baal-Peor, sinira ni Yahweh na inyong Elohim mula sa gitna ninyo.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "inyong mga mata"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ginawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "kay Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "sinira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "mula sa gitna ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:33.060829903Z",
+  "model": "glm-5.3"
+}

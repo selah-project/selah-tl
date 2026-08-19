@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Sapagkat sa iyo, Yahweh, ako nag-asa; ikaw ang sasagot, Adonai, Elohim ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ako nag-asa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sasagot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:28.640930272Z",
+  "model": "glm-5.3"
+}

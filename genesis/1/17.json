@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At inilagay ng Elohim ⟨את⟩ sila sa kalawakan ng ⟨mga⟩ langit, upang magliwanag sa ⟨ang⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "At inilagay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga ilaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa kalawakan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng ⟨mga⟩ langit"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "upang magliwanag"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:34.832496920Z",
+  "model": "glm-5.3"
+}

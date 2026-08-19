@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ang karahasan ng mga masama ay hahatak sa kanila, sapagkat tumanggi silang gumawa ng katarungan.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ang karahasan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "ay hahatak sa kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "tumanggi sila"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gumawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng katarungan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:18.000034137Z",
+  "model": "glm-5.3"
+}

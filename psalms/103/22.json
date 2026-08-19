@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Ibless sa inyo si Yahweh, lahat ng kanyang mga gawa, sa bawat lugar ng kanyang paghahari; ibless mo, aking kaluluwa, si ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ibless sa inyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kanyang mga gawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ng kanyang paghahari"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ibless mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:18.825232770Z",
+  "model": "glm-5.3"
+}

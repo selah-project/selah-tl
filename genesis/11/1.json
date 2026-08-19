@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At nangyari, ang buong lupa ay ⟨may⟩ isang labi at mga salitang iisang kaisahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "labi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "at mga salita"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "iisang kaisahan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:51.016854429Z",
+  "model": "glm-5.3"
+}

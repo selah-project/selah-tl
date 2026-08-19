@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At ang mga marurunong ay sisilip-parang-tanglaw gaya ng liwanag ng kalawakan, at ang nagpapaging-matutuwid sa marami ay gaya ng mga bituin, magpakailanman at walang hanggan.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "At ang mga marurunong"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "sisilip-parang-tanglaw"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "gaya ng liwanag"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ng kalawakan"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "at ang nagpapaging-matutuwid"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "sa marami"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "gaya ng mga bituin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:14.805854673Z",
+  "model": "glm-5.3"
+}

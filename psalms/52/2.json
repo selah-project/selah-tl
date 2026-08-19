@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "sa pagdating ni Doeg ang Edomita, at ibinulong ⟨kaniya⟩ kay Shaul, at sinabi sa kanya: dumating si David sa bahay ni Achimelech.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "sa pagdating"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "ni Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ang Edomita"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "at ibinulong"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kay Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ni Achimelech"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:44.490431917Z",
+  "model": "glm-5.3"
+}

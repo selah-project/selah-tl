@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ibinigay ko ang aking puso na makilala ang karunungan, at ang karunungan ng kahangalan at katangahan: nalaman kong ang kahit ito ay ⟨is⟩ paghahangad ng hangin.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "at ibinigay ko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "na makilala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang karunungan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "at ang karunungan"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ng kahangalan"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "at katangahan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nalaman ko"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "na kahit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ay ⟨ito⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "paghahangad"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:56.253256563Z",
+  "model": "glm-5.3"
+}

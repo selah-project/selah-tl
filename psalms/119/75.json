@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Nalalaman ko, O Yahweh, na matuwid ang iyong mga hatol, at tapat ka nang dukhin mo ako.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nalalaman ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iyong mga hatol"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "at sa katapatan"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "dukhin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:16.189875616Z",
+  "model": "glm-5.3"
+}

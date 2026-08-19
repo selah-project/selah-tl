@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ikaw maghahasik ngunit hindi aani; ikaw magtataklip ng olibo ngunit hindi mangangahasan ng langis; at bagong alak, ngunit hindi iinom ng alak.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "maghahasik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "aani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "magtataklip"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ng olibo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "mangangahasan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "at bagong alak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "iinom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ng alak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:05:01.261053550Z",
+  "model": "glm-5.3"
+}

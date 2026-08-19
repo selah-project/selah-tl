@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At si David at buong Israel ay nagsasaya sa harap ng Elohim nang buong lakas, at sa mga awit at sa mga kinor at sa mga nevel at sa mga top at sa mga mtziltayim at sa mga trumpeta.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "At si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "nagsasaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lakas"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "at sa mga awit"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "at sa mga kinor"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "at sa mga nevel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "at sa mga top"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "at sa mga mtziltayim"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "at sa mga trumpeta"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:38.845101319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Kumuha ang mga lalaki ng kanilang taglay na pagkain, ngunit ang ⟨את⟩ bibig ni Yahweh ay hindi nila tinanong.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Kumuha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "ng kanilang taglay na pagkain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bibig ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "tinanong nila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:40:24.316753008Z",
+  "model": "glm-5.3"
+}

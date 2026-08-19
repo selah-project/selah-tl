@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Ako nama'y bibigyan ko siya ng pangalang panganay, kataas-taasan sa mga hari ng lupa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "naman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "bibigyan ko siya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kataas-taasan"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:45.207829924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipapatong ng mga matanda ng kapisanan ang ⟨את⟩ kanilang mga kamay sa ulo ng baka sa harapan ni Yahweh, at iha-in ⟨את⟩ ang baka sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "At ipapatong ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda ng"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kamay"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kanilang mga kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo ng"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "at iha-in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:48.660252108Z",
+  "model": "glm-5.3"
+}

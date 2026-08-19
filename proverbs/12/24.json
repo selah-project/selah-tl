@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang kamay ng masisigla ay namamahala, ngunit ang katamaran ay magiging ⟨alipin na⟩ parangbayani.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "masisigla"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "namamahala"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "ngunit katamaran"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "למס",
+      "gloss": "parangbayani"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:31.257135919Z",
+  "model": "glm-5.3"
+}

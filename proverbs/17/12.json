@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Makasalubong pa ang tao sa oso na nawalan ng anak kaysa sa hangal sa kanyang kahangalan.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "makasalubong"
+    },
+    {
+      "surface": "דב",
+      "gloss": "oso"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "na nawalan ng anak"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kaysa sa — huwag"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hangal"
+    },
+    {
+      "surface": "באוולתו",
+      "gloss": "sa kanyang kahangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:49.218724797Z",
+  "model": "glm-5.3"
+}

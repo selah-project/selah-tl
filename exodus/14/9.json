@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At hinabol ng mga Mitsrita sila, at naabutan nila sila na nagkakampo sa tabing-dagat — lahat ng kabayo, karo ni Paroh, at ang kaniyang mga mamamana, at ang kaniyang hukbo — sa Pi-haChiroth, sa harapan ng Baal-Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "hinabol"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga Mitsrita"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "naabutan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga nagkakampo)"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nagkakampo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tabi ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kabayo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "at ang kaniyang mga mamamana"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "at ang kaniyang hukbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi-"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "haChiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:17.471672717Z",
+  "model": "glm-5.3"
+}

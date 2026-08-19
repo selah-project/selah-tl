@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At natibag ang bayan sa buong lupain ng Mitzrayim, upang mangalap ng dapay para sa dayami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "at natibag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "upang mangalap"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ng dapay"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "para sa dayami"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:41.234344617Z",
+  "model": "glm-5.3"
+}

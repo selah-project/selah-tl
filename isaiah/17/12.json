@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Abay, ang ingay ng maraming mga bayan, na parang ugong ng mga dagat ay nagsisiugong; at ang dagundong ng mga bansa, na parang dagundong ng mga tubig na makapangyarihan ay nagsisidagundong!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Abay"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ingay"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga bayan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "parang ugong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagsisiugong"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "at dagundong"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "parang dagundong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "na makapangyarihan"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "nagsisidagundong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:47.191479117Z",
+  "model": "glm-5.3"
+}

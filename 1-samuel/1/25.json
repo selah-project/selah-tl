@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nagkat sila ng ⟨את⟩ toro, at dinala nila ang ⟨את⟩ bata kay Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "nagkat sila ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dinala nila ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:07.522188535Z",
+  "model": "glm-5.3"
+}

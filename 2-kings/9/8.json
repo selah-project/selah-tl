@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At maglalaho ang buong bahay ni Achav, at pupuksain ko kay Achav ang ⟨nangingihi⟩ sa dingding, ang binihag at ang naiwan sa Israel.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "at maglalaho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Achav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "at pupuksain ko"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kay Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ang nangingihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ang binihag"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ang naiwan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:48.833998829Z",
+  "model": "glm-5.3"
+}

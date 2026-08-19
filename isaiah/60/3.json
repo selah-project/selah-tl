@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "At ang mga bansa ay lulakad sa iyong liwanag, at ang mga hari sa ningning ng iyong pagsikat.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "at lulakad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "sa iyong liwanag"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "at ang mga hari"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sa ningning"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ng iyong pagsikat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:58.752200015Z",
+  "model": "glm-5.3"
+}

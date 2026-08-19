@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "Datapuwa't ikaw, O Adonai, ⟨ay⟩ El na maawain at mapagbigay, mahinahon sa galit, at sagana sa kagandahang-loob at katotohanan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "datapuwa't ikaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "O Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "maawain"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "at mapagbigay"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahinahon"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sa galit"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at sagana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sa kagandahang-loob"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "at katotohanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:26.208426913Z",
+  "model": "glm-5.3"
+}

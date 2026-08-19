@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Iligtas Mo ang ⟨את⟩ Iyong bayan, at pagpalain Mo ang ⟨את⟩ Iyong pamana, at pastulan Mo sila, at buhatin Mo sila hanggang sa walang hanggan.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Iligtas Mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Iyong bayan"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "at pagpalain Mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyong pamana"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "Iyong pamana"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "at pastulan Mo sila"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "at buhatin Mo sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:40.728162066Z",
+  "model": "glm-5.3"
+}

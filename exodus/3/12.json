@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At kaniyang sinabi: Sapagkat ako ay sasaiyo, at ito ang tandang ⟨para⟩ sa iyo na ako ang nagpadala sa iyo: kapag inilabas mo ang ⟨את⟩ bayan mula sa Mitzrayim, maglilingkod kayo sa ⟨את⟩ Elohim sa bundok na ito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ako ay (sasaiyo)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sasaiyo"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ang tanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ang nagpadala sa iyo"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "kapag inilabas mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "maglilingkod kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa (ibabaw ng)"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:46.631839774Z",
+  "model": "glm-5.3"
+}

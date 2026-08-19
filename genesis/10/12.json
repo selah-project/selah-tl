@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At ang ⟨את⟩ Resen, sa pagitan ng Ninive at ng Kalach — ito ang malaking lungsod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "malaking"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:52.471124480Z",
+  "model": "glm-5.3"
+}

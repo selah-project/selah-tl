@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Mga anak ni Shem: Elam, at Ashur, at Arpakhshad, at Lud, at Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "at Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "at Arpakhshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "at Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "at Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:44.008610095Z",
+  "model": "glm-5.3"
+}

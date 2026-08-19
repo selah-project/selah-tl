@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang pangangamba sa puso ng tao ay nagpapayuko ⟨sa kanya⟩, ngunit ang mabuting salita ay nagpapasaya ⟨sa kanya⟩.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "pangangamba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "nagpapayuko sa kanya"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ngunit ang salita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "nagpapasaya sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:49.483676131Z",
+  "model": "glm-5.3"
+}

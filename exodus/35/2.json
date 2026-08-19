@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 35:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Anim na araw ay magagawa ang paggawa, ngunit sa ikapitong araw ay magiging banal sa inyo — Shabbat, paghinto ng Shabbat para kay Yahweh; sinumang gumagawa rito ng paggawa ay papatayin.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "magagawa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ang paggawa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "paghinto ng Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sinuman"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ng paggawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ay papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:16.584287922Z",
+  "model": "glm-5.3"
+}

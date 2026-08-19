@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang ⟨mga⟩ kapatid niya, ayon sa kanilang mga angkan, nang italang sila sa talaan ng kanilang mga lahi: ang pangulo sina Yeiel at Zekaryahu.",
+  "tokens": [
+    {
+      "surface": "ו אחיו",
+      "gloss": "At ang mga kapatid niya"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "nang italang sa talaan ng lahi"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "sa kanilang mga lahi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "at si Zekaryahu"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:35.242871841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At tuliin ninyo ang ⟨את⟩ balat ng inyong puso, at ang inyong batok ay huwag ninyong patigasin pa.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "At tuliin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balat ng inyong puso"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "balat"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ng inyong puso"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "at ang inyong batok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ninyong patigasin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:20.320478334Z",
+  "model": "glm-5.3"
+}

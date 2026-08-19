@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Iyuyuko ko sa talinghaga ang aking tainga; bubuksan ko sa alpa ang aking bugtong.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "iyuyuko ko"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "sa talinghaga"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ang aking tainga"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "bubuksan ko"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa alpa"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ang aking bugtong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:55.644579038Z",
+  "model": "glm-5.3"
+}

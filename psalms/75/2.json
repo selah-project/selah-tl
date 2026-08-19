@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 75,
+  "translation": "Nagpapasalamat kami sa iyo, Elohim, nagpapasalamat kami, at malapit ang iyong pangalan; isinasaad nila ang iyong mga kababalaghan.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "nagpapasalamat kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nagpapasalamat kami"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "at malapit"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "isinasaad nila"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang iyong mga kababalaghan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:37.559439533Z",
+  "model": "glm-5.3"
+}

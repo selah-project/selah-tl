@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sabihin mo sa Karunungan: Kapatid kong babae ikaw; at ⟨את⟩ sa Pag-uunawa ay tawagin mong kamag-anak.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "sa Karunungan"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kapatid kong babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw",
+      "marks": "את"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "at ⟨ang⟩ Pag-uunawa"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "sa Pag-uunawa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tawagin mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:29.184903806Z",
+  "model": "glm-5.3"
+}

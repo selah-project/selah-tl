@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 101,
+  "translation": "Hindi tatahan sa loob ng aking bahay ang gumagawa ng dayaan; ang nagsasalita ng kasinungalingan ay hindi tatagal sa harap ng aking mga mata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ng aking bahay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang gumagawa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ng dayaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang nagsasalita"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "tatagal"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ng aking mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:12.341858176Z",
+  "model": "glm-5.3"
+}

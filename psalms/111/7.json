@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Ang mga gawa ng kanyang mga kamay ay katotohanan at katarungan; maaasahan ang lahat ng kanyang mga utos.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga gawa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ng kanyang mga kamay"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "at katarungan"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "maaasahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ng kanyang mga utos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:32.022389903Z",
+  "model": "glm-5.3"
+}

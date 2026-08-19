@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Sapagkat nang walang dahil ay nagtago sila ng bitag paraña sa akin — ang kanilang lambat; nang walang dahil ay humukay sila paraña sa aking buhay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang dahil"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nagtago sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "paraña sa akin"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "bitag"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ang kanilang lambat"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang dahil"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "humukay sila"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "paraña sa aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.128314557Z",
+  "model": "glm-5.3"
+}

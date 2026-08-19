@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At kukuha ka ng pinong arina, at igagawa mo ito ng labindalawang tinapay; dalawang ikasampung bahagi bawat isa ⟨ang⟩ tinapay na iisa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "at kukuha ka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinong arina"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "at igagawa mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nito",
+      "marks": "labindalawang tinapay"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-labin"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ikasampung bahagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ay magiging"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "na iisa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:24.331236074Z",
+  "model": "glm-5.3"
+}

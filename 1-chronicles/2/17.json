@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Avigail ay nanganak ng ⟨את⟩ Amasa; at ang ama ni Amasa ay si Yeter na Ishmaelita.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "At si Avigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nanganak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "at ang ama ni"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Ishmaelita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:39.433225672Z",
+  "model": "glm-5.3"
+}

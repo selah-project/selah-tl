@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "At ibinigay ⟨את⟩ mga masasama bilang kanyang libingan, at ⟨את⟩ mayaman sa kanyang kamatayan; sapagkat walang karahasang ginawa niya, at walang daya sa kanyang bibig.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga masasama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kanyang libingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mayaman"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mayaman"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "sa kanyang kamatayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karahasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "daya"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa kanyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:53.603689027Z",
+  "model": "glm-5.3"
+}

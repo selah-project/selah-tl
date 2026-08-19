@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Pinakain mo sila ng tinapay ng luha, at pinainom mo sila ng luha nang makailan-ulit.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Pinakain mo sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ng luha"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "at pinainom mo sila"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ng luha"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "nang makailan-ulit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.143111573Z",
+  "model": "glm-5.3"
+}

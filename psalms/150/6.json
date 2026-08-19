@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 150,
+  "translation": "Bawat may-hininga ay magluhay kay Yah; iluhayin ninyo si Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "may-hininga"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "magluhay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "iluhayin ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:35.613365263Z",
+  "model": "glm-5.3"
+}

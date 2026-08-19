@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Lumapit si Shaul kay ⟨את⟩ Shemuel sa gitna ng tarangkahan, at nagsabi: Ipagbigay-alam mo nga sa akin, saan ang bahay ng tagakita?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Lumapit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "השער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ipagbigay-alam mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "saan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ng tagakita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:39.750722245Z",
+  "model": "glm-5.3"
+}

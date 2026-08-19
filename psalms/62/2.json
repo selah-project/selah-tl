@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Tanging kay Elohim lamang tahimik ang aking kaluluwa; mula sa Kanya ang aking kaligtasan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tanging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tahimik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula sa Kanya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ang aking kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:44.126322040Z",
+  "model": "glm-5.3"
+}

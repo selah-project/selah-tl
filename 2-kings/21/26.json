@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At inilibing ⟨את⟩ siya sa kanyang libingan sa hardin ni Uzza, at naghari si Yoashiyahu na anak niya sa kanyang lugar.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sa kanyang libingan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa hardin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "si Yoashiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na anak niya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:25.312765274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi niya kay Yehoshafat: Sasama ba ikaw ⟨את⟩ sa akin sa digmaan sa Ramot-Gil'ad? At sinabi ni Yehoshafat sa hari ng Yisra'el: Ako'y gaya mo, at ang aking bayan ay gaya ng iyong bayan, at ang aking mga kabayo ay gaya ng iyong mga kabayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "sasama ba ikaw"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akin",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa hari ng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "gaya ko"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "gaya mo"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "gaya ng aking bayan"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "gaya ng iyong bayan"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "gaya ng aking mga kabayo"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "gaya ng iyong mga kabayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:19.585142811Z",
+  "model": "glm-5.3"
+}

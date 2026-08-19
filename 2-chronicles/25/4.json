@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Datapuwa't ⟨את⟩ kanilang mga anak ay hindi niya pinatay, sapagkat gaya ng nakasulat sa Torà, sa aklat ni Moshe, na iniutos ni Yahweh na sinasabi: Huwag mamatay ang mga ama dahil sa mga anak, at ang mga anak ay huwag mamatay dahil sa mga ama; sapagkat bawat tao sa kaniyang sariling kasalanan mamamatay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kanilang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "המית",
+      "gloss": "pinatay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "gaya ng nakasulat"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "sa Torà"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa aklat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sinasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ang mga ama"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "mga ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "sa kaniyang sariling kasalanan"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:20.742561536Z",
+  "model": "glm-5.3"
+}

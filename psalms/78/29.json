@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Kaya kumain sila at nabusog nang labis, at ang kanilang pagnanasa ay dinala ⟨niya⟩ sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "kumain sila"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "nabusog"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "ang kanilang pagnanasa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dinala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:14.653724578Z",
+  "model": "glm-5.3"
+}

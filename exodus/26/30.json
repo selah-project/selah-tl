@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At itatayo mo ang ⟨את⟩ tabernakulo ayon sa kautusan nito, na ipinakita sa iyo sa bundok.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "at itatayo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakulo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ayon sa kautusan nito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ipinakita sa iyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:54.237455994Z",
+  "model": "glm-5.3"
+}

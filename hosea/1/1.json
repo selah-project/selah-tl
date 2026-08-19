@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 1:1",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Salita ni Yahweh na nangyari kay Hoshea na anak ni Beeri, sa mga araw ni Uziya, Yotam, Ahaz, at Yechizkiya, mga hari ng Yehuda, at sa mga araw ni Yarovam na anak ni Yoash, hari ng Israel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "ni Beeri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "ni Uziya"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Yechizkiya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "at sa mga araw"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:01.168748732Z",
+  "model": "glm-5.3"
+}

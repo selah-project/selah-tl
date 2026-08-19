@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Dinigin mo, O aking bayan, at aking sasalitain; O Yisrael, at aking patototohanan laban sa iyo: Elohim, ang iyong Elohim, ako.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "dinigin mo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "O aking bayan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "at aking sasalitain"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "at aking patototohanan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:13.468455670Z",
+  "model": "glm-5.3"
+}

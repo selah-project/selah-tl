@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Sapagkat ikaw, Elohim, ay nakarinig sa aking mga panata; binigyan mo ng pamana ang mga nagpupuri sa iyong pangalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakarinig ka"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "sa aking mga panata"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "binigyan mo"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ng pamana"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ang mga nagpupuri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa iyong pangalan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:56.720682236Z",
+  "model": "glm-5.3"
+}

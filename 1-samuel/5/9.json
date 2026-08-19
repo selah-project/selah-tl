@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nangyari, nang mailipat-lipat nila ⟨ito⟩, na ang kamay ni Yahweh ay napasa ⟨ang⟩ lungsod na may napakalaking kaguluhan, at kanyang sinaktan ⟨ang⟩ mga lalaki ng lungsod, mula sa bata hanggang sa matanda, at sumabog sa kanila ang mga tumor.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nang"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "mailipat-lipat nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang kaban)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na napasa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "napakalaking"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at kanyang sinaktan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lalaki ng lungsod"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "mula sa bata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "at sumabog"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "mga tumor"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:58.537236177Z",
+  "model": "glm-5.3"
+}

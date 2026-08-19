@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Kinuha ni Mikal ang ⟨את⟩ mga terafim at inilagay sa higaan, at ang ⟨את⟩ banig ng buhok ng mga kambing inilagay niya sa ulunan nito, at tinakpan ng damit.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "si Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "mga terafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "banig ng buhok ng mga kambing"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "banig"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ng mga kambing"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "inilagay niya"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "sa ulunan nito"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "tinakpan"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ng damit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:55.165808303Z",
+  "model": "glm-5.3"
+}

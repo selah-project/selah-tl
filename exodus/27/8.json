@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Luwang na may mga tabla ang gagawin mo ⟨את⟩-nito; kung paanong ipinakita ⟨את⟩-sa iyo sa bundok, gayon nila gagawin.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "luwang"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "na may mga tabla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ang gagawin mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nito",
+      "marks": "nito (ang altar)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ipinakita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-sa iyo",
+      "marks": "sa iyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bundok"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "nila gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:15.529719740Z",
+  "model": "glm-5.3"
+}

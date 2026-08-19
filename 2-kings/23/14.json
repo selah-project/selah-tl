@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sinira niya ⟨את⟩ mga haliging-totohanan, at pinutol niya ⟨את⟩ mga Asherah, at pinuno niya ⟨את⟩ mga dako nila ng mga buto ng tao.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "At sinira niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haliging-totohanan"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "mga haliging-totohanan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "at pinutol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mga Asherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "at pinuno niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga dako nila"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "mga dako nila"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga buto"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:23.835018813Z",
+  "model": "glm-5.3"
+}

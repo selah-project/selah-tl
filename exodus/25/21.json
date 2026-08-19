@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At ilalagay mo ang ⟨את⟩ takip ng kasilungan sa ibabaw ng ⟨the⟩ arka, mula sa itaas; at sa ⟨the⟩ arka ilalagay mo ang ⟨את⟩ patotoo na ibibigay Ko sa iyo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takip ng kasilungan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takip ng kasilungan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "mula sa itaas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patotoo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay Ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:30.476470270Z",
+  "model": "glm-5.3"
+}

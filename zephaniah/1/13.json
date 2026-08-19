@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At magiging samsám ang kanilang yaman, at ang kanilang mga bahay ay magiging guho; magtatayô sila ng mga bahay ngunit hindi sila titirá, magtatanim sila ng mga ubásan ngunit hindi sila iinom ng ⟨את⟩ kanilang alak.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At magiging"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ang kanilang yaman"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "samsám"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "at ang kanilang mga bahay"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "guho"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "magtatayô sila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ng mga bahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "titirá sila"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "magtatanim sila"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ng mga ubásan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "iinom sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang alak"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "kanilang alak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:06:05.483410286Z",
+  "model": "glm-5.3"
+}

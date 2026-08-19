@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Yahweh, ipatong mong magilas ang iyong ⟨mga⟩ langit at bumaba ka; dumampô sa ⟨mga⟩ bundok at mangusim sila.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ipatong mong magilas"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "iyong mga langit"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "at bumaba ka"
+    },
+    {
+      "surface": "גע",
+      "gloss": "dumampô"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bundok"
+    },
+    {
+      "surface": "ונעשנו",
+      "gloss": "at mangusim sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:06.237274178Z",
+  "model": "glm-5.3"
+}

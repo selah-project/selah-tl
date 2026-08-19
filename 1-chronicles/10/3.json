@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At bumigat ang pakikidigma kay Shaul, at nakilala siya ng mga mamamaril sa busog, at nasugatan siya ng mga mamamaril.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "at bumigat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang pakikidigma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "at nakilala siya"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ang mga mamamaril"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "sa busog"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "at nasugatan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ng"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "ang mga mamamaril"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:08.133002171Z",
+  "model": "glm-5.3"
+}

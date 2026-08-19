@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Kung iwanan ninyo si ⟨את⟩ Yahweh at maglingkod kayo ng mga elohim ng dayuhan, babalik ⟨siya⟩ at sasamain kayo, at lilipulin ⟨kayong את⟩ pagkatapos ng paggawa niya ng mabuti sa inyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "iwanan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "si ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "at maglingkod kayo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng mga elohim"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ng dayuhan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "at sasamain"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "at lilipulin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨kayong את⟩",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "paggawa niya ng mabuti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:47.764247469Z",
+  "model": "glm-5.3"
+}

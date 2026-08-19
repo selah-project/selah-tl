@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa iyong paglalakad, papatnubay ito sa ⟨את⟩ iyo; sa iyong paghiga, babantay ito sa iyong kalagayan; at sa iyong paggising, ito ang sasalita sa iyo.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "sa iyong paglalakad"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "papatnubay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "sa iyong paghiga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "babantay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyong kalagayan"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "at sa iyong paggising"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "sasalita sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:01.940727943Z",
+  "model": "glm-5.3"
+}

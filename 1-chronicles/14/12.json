@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At iniwan nila roon ang ⟨את⟩ kanilang mga dios, at iniutos ni David, at sinusunog sa apoy.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "at iniwan nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang mga dios"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "at sinusunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:28.224170885Z",
+  "model": "glm-5.3"
+}

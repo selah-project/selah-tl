@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At binihag niya ang ⟨את⟩ mga lungsod na may muog na sa Yehuda, at dumating hanggang sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "at binihag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lungsod na may muog"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "na may muog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:00.035200251Z",
+  "model": "glm-5.3"
+}

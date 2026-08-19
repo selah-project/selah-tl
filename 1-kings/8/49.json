@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "at dininig mo sa mga langit, tirahan ng iyong pagkaupo, ang ⟨את⟩ kanilang panalangin at ang ⟨את⟩ kanilang pamamanhikan, at ginawa mo ang kanilang hatol",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "at dininig mo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tirahan"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "ng iyong pagkaupo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang panalangin"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "kanilang panalangin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kanilang pamamanhikan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at ginawa mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang kanilang hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:21.342599097Z",
+  "model": "glm-5.3"
+}

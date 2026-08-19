@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 121,
+  "translation": "Iingatan ni Yahweh ang iyong paglalakad-labas at iyong pagbabalik-loob, mula ngayon hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "iingatan"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "iyong paglalakad-labas"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "at iyong pagbabalik-loob"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mula ngayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:57.680554232Z",
+  "model": "glm-5.3"
+}

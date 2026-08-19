@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 150,
+  "translation": "Ipadangal sa Kanya dahil sa kanyang mga gawang makapangyarihan; ipadangal sa Kanya ayon sa kasaganaan ng kanyang kadakilaan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "dahil sa kanyang mga gawang makapangyarihan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ipadangal sa Kanya"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ayon sa kasaganaan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ng kanyang kadakilaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:50.215149648Z",
+  "model": "glm-5.3"
+}

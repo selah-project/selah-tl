@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Naglinis ang mga kohen at ang mga Levita, at nilinis nila ang ⟨את⟩ bayan, at ang ⟨את⟩ mga tarangkahan, at ang ⟨את⟩ pader.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "naglinis"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga kohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "at ang mga Levita"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "at nilinis nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga tarangkahan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mga tarangkahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "pader"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "pader"
+    }
+  ],
+  "timestamp": "2026-08-19T19:18:11.490490276Z",
+  "model": "glm-5.3"
+}

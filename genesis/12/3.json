@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At pagpapalain Ko ang mga nagpapala sa iyo, at ang nanunungayaw sa iyo ay sasumpain Ko; at sa iyo ay pagpapalain ang lahat ng mga angkan ng ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "At pagpapalain Ko"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ang mga nagpapala sa iyo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "at ang nanunungayaw sa iyo"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "sasumpain Ko"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "at pagpapalain"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mga angkan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨את⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:00.514230698Z",
+  "model": "glm-5.3"
+}

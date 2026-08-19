@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Kaya't mga pastol, makinig kayo sa ⟨את⟩ salita ni Yahweh:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga pastol"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "makinig kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:50:36.342322689Z",
+  "model": "glm-5.3"
+}

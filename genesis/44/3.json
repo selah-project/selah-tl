@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Nang umaga ay sumilang, ang mga lalaki ay sinugo, sila at ⟨את⟩ kanilang mga asno.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "Nang umaga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ay sumilang"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ay sinugo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "at kanilang mga asno"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:15.776725806Z",
+  "model": "glm-5.3"
+}

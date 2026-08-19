@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Binata ako noon, at naging matanda rin, ngunit hindi ko nakita na pinabayaan ang matuwid, o ang ⟨kanyang⟩ binhi na naghahanap ng tinapay.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "binata"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "noon ako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "naging matanda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ko nakita"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "pinabayaan"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "at ang kanyang binhi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:01.445756577Z",
+  "model": "glm-5.3"
+}

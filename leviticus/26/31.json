@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At gagawin kong tigang ang ⟨את⟩ inyong mga lungsod, at padadaratingin ko ang ⟨את⟩ inyong mga santuwaryo, at hindi ko aamuyin ang amoy ng inyong maamoy na handog.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "at gagawin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga lungsod"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "inyong mga lungsod"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "tigang \/ wasak"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "at padadaratingin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga santuwaryo"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "inyong mga santuwaryo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ko aamuyin"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ang amoy ng"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "inyong maamoy na handog"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:06.299848290Z",
+  "model": "glm-5.3"
+}

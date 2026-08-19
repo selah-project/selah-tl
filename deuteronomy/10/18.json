@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Gumagawa ng katarungan para sa ulila at balo, at umiibig sa dayuhan, upang bigyan siya ng tinapay at kasuotan",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa ng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ulila"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "at balo"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "at umiibig sa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang bigyan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "at kasuotan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:49.725349355Z",
+  "model": "glm-5.3"
+}

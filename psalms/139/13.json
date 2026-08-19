@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Sapagkat ikaw ang humubog ng aking mga bato, hinabi mo ako sa tiyan ng aking ina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "humubog ka ng \/ inilikha mo"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "aking mga bato (loob)"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "hinabi mo ako"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ng aking ina"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:25.975388976Z",
+  "model": "glm-5.3"
+}

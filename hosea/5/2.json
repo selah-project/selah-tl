@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang mga suwail ay lumalim sa pagpatay; ngunit ako ay ⟨may⟩ tugon-saway sa kanilang lahat.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "at pagpatay"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "mga suwail"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "lumalim sila"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugon-saway"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "sa kanilang lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:24.952976253Z",
+  "model": "glm-5.3"
+}

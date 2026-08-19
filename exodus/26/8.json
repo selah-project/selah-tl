@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang haba ng isang kurtina ay tatlumpung siko, at ang lapad ng isang kurtina ay apat na siko — iisang sukat sa labing-isang kurtina.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ng kurtina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "⟨ang⟩ isa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at lapad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "⟨ang⟩ kurtina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "⟨ang⟩ isa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "sukat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iisang"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "sa labing-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:45.649725045Z",
+  "model": "glm-5.3"
+}

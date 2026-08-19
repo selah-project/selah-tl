@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Inihanda ang mesa, nagbantay sa bantayan, kumain, uminom; tumindig kayo, ⟨mga⟩ pinuno, pahiran ng langis ang kalasag.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "Inihanda"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "sa bantayan"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "uminom"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "tumindig kayo"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "pahiran ng langis"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang kalasag"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:32.683693965Z",
+  "model": "glm-5.3"
+}

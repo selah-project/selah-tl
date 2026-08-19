@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "ang ⟨את⟩ Kedemoth at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Mephaath at ang ⟨את⟩ mga bakuran nito — mga lungsod, apat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Mephaath"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mephaath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:27.592780743Z",
+  "model": "glm-5.3"
+}

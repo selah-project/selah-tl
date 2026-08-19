@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sa aking pagtawag, sagutin mo ako, O Elohim ng aking katuwiran; sa kagipitan pinakawalan mo ako sa luwang; maawa ka sa akin at dinggin mo ang aking panalangin.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "sa aking pagtawag"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "sagutin mo ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ng aking katuwiran"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagipitan"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "pinakawalan mo sa luwang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "at dinggin mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.354607869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ngunit kung hindi makipagkapayapaan ito sa iyo, kundi makipagdigma ito sa iyo, saka papagsalakayin mo ito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "makipagkapayapaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "kung makipagdigma"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "digma"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "saka papagsalakayin mo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:52.271347303Z",
+  "model": "glm-5.3"
+}

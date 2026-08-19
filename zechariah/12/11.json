@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sa araw na yaon, malaki ang pagluluksa sa Yerushalayim, na parang pagluluksa sa Hadad-Rimon sa libis ng Megiddo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "malaki"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "ang pagluluksa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "na parang pagluluksa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Megiddo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:09:38.236568647Z",
+  "model": "glm-5.3"
+}

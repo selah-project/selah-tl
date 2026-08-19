@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At dadaan ako sa kaniya habang siya ay pagod at mahina ang mga kamay, at papangambain ko si ⟨את⟩, at tatakas ang buong bayang ⟨את⟩ kasama niya, at sasaktin ko ang ⟨את⟩ hari na mag-isa lamang.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "at dadaan ako"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "pagod"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "at mahina"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ang mga kamay"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "at papangambain ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si David)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "at tatakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "at sasaktin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "na mag-isa lamang"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:51.233956642Z",
+  "model": "glm-5.3"
+}

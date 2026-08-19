@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Nahiya ang lahat ng mga naglilingkod sa inanyong inukit, na nagmamalaki sa mga dios-diosan; magpatirapa sa kanya, kayong lahat na elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "nahiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga naglilingkod sa"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "inanyong inukit"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "na nagmamalaki"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "sa mga dios-diosan"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "magpatirapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat — kayong lahat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:11.095287812Z",
+  "model": "glm-5.3"
+}

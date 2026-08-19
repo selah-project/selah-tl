@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kumuha pa si David ng mga asawa sa Yerushalayim, at ipinanganak pa ni David ang mga anak na lalaki at babae.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga asawa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak na lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "at mga anak na babae"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:35.277956277Z",
+  "model": "glm-5.3"
+}

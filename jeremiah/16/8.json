@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At sa bahay ng piging ay huwag kang papasok upang umupo sa ⟨את⟩ kanilang pagkain at upang uminom ng alak.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "at sa bahay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ng piging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ikaw pumasok"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "upang umupo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pagkain at inumin"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "upang kumain"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "at upang uminom"
+    }
+  ],
+  "timestamp": "2026-08-19T17:20:51.784509971Z",
+  "model": "glm-5.3"
+}

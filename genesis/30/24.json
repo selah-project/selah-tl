@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At tinawag niya ang ⟨את⟩ pangalan niyo na Yosef, na nagsasabi: Magdaragdag pa si Yahweh sa akin ng iba pang anak na lalaki.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan niyo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "pangalan niyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "magdaragdag pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "iba pang"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:18.911066793Z",
+  "model": "glm-5.3"
+}

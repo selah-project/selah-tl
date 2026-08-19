@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 138,
+  "translation": "At aawitin nila ang mga daan ni Yahweh, sapagkat dakila ang kaluwalhatian ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "at aawitin nila"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga daan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kaluwalhatian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:10.213659343Z",
+  "model": "glm-5.3"
+}

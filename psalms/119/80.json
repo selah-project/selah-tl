@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Maging ganap ang aking puso sa iyong mga batas, upang akoy hindi mapahiya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maging"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ganap"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sa iyong mga batas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "akoy mapahiya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:09.364473567Z",
+  "model": "glm-5.3"
+}

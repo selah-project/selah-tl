@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sila ang gagala upang kumain; kung hindi mabubusog, mag-aabang sila magdamag.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ang gagala"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "upang kumain"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mabubusog"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "mag-aabang sila magdamag"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:50.450728032Z",
+  "model": "glm-5.3"
+}

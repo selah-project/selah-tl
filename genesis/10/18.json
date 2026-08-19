@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "at ang ⟨את⟩ Arwadita at ang ⟨את⟩ Tsemarita at ang ⟨את⟩ Chamatita; at pagkatapos ay nagkalat ang mga angkan ng Cananeo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arwadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatita"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nagkalat"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga angkan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ng Cananeo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.099020682Z",
+  "model": "glm-5.3"
+}

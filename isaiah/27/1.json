@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Sa araw na yaon, paparusahan ni Yahweh sa kaniyang matigas at malaki at malakas na tabak si Livyatan, ang ahas na tumatakas, at si Livyatan, ang ahas na baluktot; at papatayin niya ang ⟨את⟩ tandang nasa ⟨sa⟩ dagat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "paparusahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "sa kaniyang tabak"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ang matigas"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "at ang malaki"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "at ang malakas"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ahas"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "na tumatakas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at laban kay"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ahas"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "na baluktot"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "at papatayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "ang tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בים",
+      "gloss": "nasa dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:39.129303616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Paano ako mag-iisa na mang magasal-sa inyong pasanin, at ⟨ang⟩ inyong dinadala, at ⟨ang⟩ inyong mga alitan?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "paano"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ako mangagasal"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "inyong pasanin"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "at inyong dinadala"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "at inyong mga alitan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.963540989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ngunit sa ⟨ang⟩ tabing ay hindi siya papasok, at sa ⟨ang⟩ altar ay hindi lalapit, sapagkat depekto ⟨ay⟩ nasa kanya; at hindi niya paglalapastanganin ang ⟨את⟩ aking mga santuwaryo, sapagkat ako si Yahweh na nagpapabanal sa kanila.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ang tabing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "siya papasok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "lalapit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מום",
+      "gloss": "depekto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa kanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "niya paglalapastanganin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga santuwaryo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "aking mga santuwaryo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nagpapabanal sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:57.148671058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Kaya't tumindig sila at tumakas sa takipsilim, at iniwan nila ang ⟨את⟩ kanilang mga tolda at ang ⟨את⟩ kanilang mga kabayo at ang ⟨את⟩ kanilang mga asno — ang kampo ay gaya ng dati — at tumakas sila alang-alang sa kanilang buhay.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "tumindig sila"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "sa takipsilim"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "at iniwan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga tolda"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "kanilang mga tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga kabayo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kanilang mga kabayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga asno"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "kanilang mga asno"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dati"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "at tumakas sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alang-alang sa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "kanilang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:18.399449932Z",
+  "model": "glm-5.3"
+}

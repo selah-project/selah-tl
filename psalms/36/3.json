@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Sapagkat nagpakintab siya sa kanyang sariling mga mata, upang hindi matagpuan ang kanyang kasamaan at mapanggigilalanasin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nagpakintab siya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanyang sarili"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kanyang mga mata"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "upang matagpuan"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ang kanyang kasamaan"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "at mapanggigilalanassin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:53.051147070Z",
+  "model": "glm-5.3"
+}

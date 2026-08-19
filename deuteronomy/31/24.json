@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At nangyari, nang matapos si Moshe na isulat ang ⟨את⟩ mga salita ng Torah na ito sa isang aklat, hanggang sa kanilang pagkakatapos.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nang matapos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "na isulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ng Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "aklat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kanilang pagkakatapos"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:12.969213618Z",
+  "model": "glm-5.3"
+}

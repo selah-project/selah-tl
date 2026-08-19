@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "at mga balat ng mga tupa na namumula, at mga balat ng takash, at mga kahoy ng sita(acacia)",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "at mga balat ng"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "mga tupa(ram)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "na namumula"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "at mga balat ng"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "at mga kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sita(acacia)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:15.811868442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At lumaban ang mga anak ni Yehudah laban sa Yerushalayim, at nabihag nila ito, at pinatay nila ito sa talim ng tabak, at ⟨את⟩ lungsod ay sinunog nila sa apoy.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "lumaban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "laban sa Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "nabihag nila"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ito"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "pinatay nila ito"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa talim ng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sinunog nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:18.544926149Z",
+  "model": "glm-5.3"
+}

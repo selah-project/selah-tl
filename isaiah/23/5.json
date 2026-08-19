@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Kapag dumating ang balita sa Ehipto, mangangamba sila; sa balita tungkol sa Tzor, mangangamba sila.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ang balita"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Ehipto"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "mangangamba sila"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa balita"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tungkol sa Tzor"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:39.452004659Z",
+  "model": "glm-5.3"
+}

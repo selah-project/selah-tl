@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 61,
+  "translation": "Kaya't aawit ako ng papuri sa ⟨ang⟩ pangalan mo magpakailanman, sa pagtupad ko sa aking mga nain, araw-araw.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Kaya't"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aawit ako ng papuri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "pangalan mo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "sa pagtupad ko"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sa aking mga nain"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:07.224418769Z",
+  "model": "glm-5.3"
+}

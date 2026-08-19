@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagtipon siya sa bukid hanggang ⟨ang⟩ gabi, at hinampas niya ang ⟨את⟩ kanyang natipon, at ito'y naging ⟨tungkol sa⟩ isang eipa ng sebada.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "at nagtipon(nang munlad) siya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨ang⟩ gabi"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "at hinampas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang natipon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang kanyang"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "natipon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "⟨tungkol sa⟩ isang eipa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ng sebada"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:54.193954049Z",
+  "model": "glm-5.3"
+}

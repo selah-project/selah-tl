@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At tumindig sila at pumunta sa Ziph sa harapan ni Shaul; at si David at ang kanyang mga lalaki ay nasa ilang ng Maon, sa Araba, sa kanan ng Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "At tumindig sila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at pumunta"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "sa Ziph"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "at ang kanyang mga lalaki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ay nasa ilang ng"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "ng Yeshimon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:39.185940252Z",
+  "model": "glm-5.3"
+}

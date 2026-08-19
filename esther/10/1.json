@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At nagtakda ang hari na si Achashverosh ng tributo sa ibabaw ng lupa at sa mga pulo ng dagat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nagtakda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "tributo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "at sa mga pulo ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:32.497407540Z",
+  "model": "glm-5.3"
+}

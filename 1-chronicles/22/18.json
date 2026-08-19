@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Hindi ba nasa inyo si Yahweh na inyong Elohim, at nagpahinga ba siya sa inyo sa lahat ng dako? Sapagkat ibinigay niya sa aking kamay ang ⟨את⟩ mga naninirahan sa lupain, at ang lupain ay nasakop sa harap ni Yahweh at sa harap ng kaniyang bayan.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nasa inyo"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "at nagpahinga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa lahat ng dako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sa aking kamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan sa lupain"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "at nasakop"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:46.831066686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Sa unang-bunga ng inyong arina, isang keyk na iniaalay — alay-itaas; gaya ng alay-itaas ng giikan, gayon ninyo ⟨את⟩ ito itataas.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "unang-bunga"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ng inyong arina"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "keyk"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "iniaalay (itaas) ninyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "alay-itaas"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "gaya ng alay-itaas"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ng giikan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "itataas ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ito",
+      "marks": "ito (ang keyk na iniaalay)"
+    }
+  ],
+  "timestamp": "2026-08-19T15:09:07.840853457Z",
+  "model": "glm-5.3"
+}

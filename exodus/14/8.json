@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At pinatibay ni Yahweh si ⟨את⟩ puso ni Paroh na hari ng Mitsrajim, at siya'y humabol sa mga anak ni Yisrael, at ang mga anak ni Yisrael ay lumalabas na may itinaas na kamay.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at pinatibay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrajim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "at humabol"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ay lumalabas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "may kamay"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "na itinaas\/mataas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:39.276485442Z",
+  "model": "glm-5.3"
+}

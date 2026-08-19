@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang pag-iisip na nakasandal sa Iyo, iingatan mong mabuti — kapayapaan, kapayapaan — sapagkat sa Iyo ⟨siya⟩ nagtitiwala.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "ang pag-iisip"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "nakasandal"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "iingatan mong mabuti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa Iyo"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "nagtitiwala"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:25.964187893Z",
+  "model": "glm-5.3"
+}

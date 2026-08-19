@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At gagawin mo ang ⟨את⟩ bilang insenso, isang halo, gawa ng tagapaghalo, inasinhan, dalisay, banal.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "At gagawin mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "insenso"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "halo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ng tagapaghalo"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "inasinhan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:24.455050692Z",
+  "model": "glm-5.3"
+}

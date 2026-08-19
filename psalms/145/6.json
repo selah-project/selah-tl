@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "At ang lakas ng iyong mga nakasisindak na gawa ay kanilang sasabihin, at ang iyong kadakilaan ay aking isasalaysay.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "at ang lakas"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ng iyong mga nakasisindak na gawa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ay kanilang sasabihin"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "at ang iyong kadakilaan"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ay aking isasalaysay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.598345306Z",
+  "model": "glm-5.3"
+}

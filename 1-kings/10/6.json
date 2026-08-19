@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi niya sa hari: Totoo ang salitang narinig ko sa aking lupain tungkol sa iyong mga salita at sa iyong karunungan",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ay⟩ naging"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "narinig ko"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "sa aking lupain"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga salita"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "iyong karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:06.863573070Z",
+  "model": "glm-5.3"
+}

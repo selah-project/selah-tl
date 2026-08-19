@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Sa kaniyang kamay ⟨ay⟩ ang mga kalaliman ng lupa, at ang mga rurok ng mga bundok ay sa kaniya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kaniyang kamay"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ang mga kalaliman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "at ang mga rurok"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ng mga bundok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ay sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:56.771495882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kaniyang pinalayas ang ⟨את⟩ uwak; ito ay lumabas, pabalik-balik, hanggang sa matuyo ang mga tubig mula sa ibabaw ng lupa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At kaniyang pinalayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ang uwak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ito ay lumabas"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "at bumabalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "matuyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:18.695414821Z",
+  "model": "glm-5.3"
+}

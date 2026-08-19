@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Tulad nila ang mga gumawa sa kanila — ang bawat umiiwan sa kanila.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "tulad nila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maging sila"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "mga gumawa sa kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "umiiwan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:23.887417507Z",
+  "model": "glm-5.3"
+}

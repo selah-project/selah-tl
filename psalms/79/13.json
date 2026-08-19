@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "At tayong ⟨ang⟩ iyong bayan at kawan ng iyong pastulan ay magpapasalamat sa iyo magpakailanman, sa lahi at lahi, isasalaysay namin ang iyong papuri.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "At tayo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "at kawan"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ng iyong pastulan"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "magpapasalamat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at lahi"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "isasalaysay namin"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ang iyong papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:09.206738210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Datapu't kasing dungis ng kanilang pagpahirap ⟨את⟩ sa kanila, gayon din sila'y dumami at gayon din kumalat; at nangamangha sila dahilan sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "datapu't kasing dungis ng"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "kanilang pagpahirap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon din"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "dumami"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "at gayon din"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "kumalat"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "nangamangha sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahilan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:31.998806585Z",
+  "model": "glm-5.3"
+}

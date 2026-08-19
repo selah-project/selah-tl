@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "At ang ⟨את⟩ aking bayan ay ituturo nila, kung paano magkaiba ang banal sa karaniwan, at kung paano magkaiba ang marumi sa malinis, ipa-alam nila sa kanila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking bayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aking bayan"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "ituturo nila"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magkaiba ang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "sa karaniwan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at magkaiba ang"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "marumi"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "sa malinis"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "ipa-alam nila sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:54:36.542649402Z",
+  "model": "glm-5.3"
+}

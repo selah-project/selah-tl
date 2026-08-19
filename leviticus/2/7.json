@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kung ang handog mo ay isang mincha sa kawali, gawa sa pinong harina na may langis ito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha ng"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "kawali"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "handog mo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinong harina"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na may langis"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:41.544480539Z",
+  "model": "glm-5.3"
+}

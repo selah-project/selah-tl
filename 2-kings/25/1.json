@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 25:1",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nangyari sa ikasiyam na taon ng paghahari niya, sa ikasampung buwan, sa ikasampung araw ng buwan, dumating si Nevukadnetstsar na hari ng Bavel, siya at ang kanyang buong hukbo, laban sa Yerushalayim, at humantong siya laban dito; at nagtayo sila laban dito ng mga torre ng pagsalakay sa paligid.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa taon ng"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ikasiyam"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "paghahari niya"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ng ikasampung"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "sa ikasampung araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Bavel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hukbo niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "at humantong"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban dito"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "at nagtayo sila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban dito"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "mga torre ng pagsalakay"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:13.131986406Z",
+  "model": "glm-5.3"
+}

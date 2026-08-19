@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At binihisan niya ito ng gintong dalisay, sa loob at sa labas; at ginawa niya para rito ang korona na ginto sa palibot;",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "binihisan niya ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "at sa labas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona \/ gilid"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:26.428749127Z",
+  "model": "glm-5.3"
+}

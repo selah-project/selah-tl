@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Si Yahweh ay humalo sa gitna nito ng isang espiritung baluktot, at pinaligaw nila ang ⟨את⟩ Ehipto sa lahat ng gawa nito, gaya ng pagkaligaw ng lasing sa kanyang suka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "humalo"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa gitna nito"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "baluktot"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "at pinaligaw nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ehipto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ehipto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "gawa nito"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "gaya ng pagkaligaw"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "lasing"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "sa kanyang suka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:11.221833942Z",
+  "model": "glm-5.3"
+}

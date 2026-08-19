@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At si Eli ay siyamnapu't walong taon na, at ang kaniyang mga mata ay napatigil, at hindi na siya makakita.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "At si Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ay ... na"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "siyamnapu't"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "walong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "at ang kaniyang mga mata"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ay napatigil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "siya ay makakaya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "makakita"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:58.714780256Z",
+  "model": "glm-5.3"
+}

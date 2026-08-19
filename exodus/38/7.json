@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At ipinasok niya ang ⟨את⟩ mga patpat sa mga singsing sa mga gilid ng altar, upangbuhatin ⟨את⟩ niya iyon sa pamamagitan ng mga iyon; ukit na kahoy ang pagkagawa ⟨את⟩ niyaon rito.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ipinasok niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga patpat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga patpat"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga gilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "upang buhatin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya\/iyon",
+      "marks": "iyon (ang altar)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan ng mga iyon"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "maluwang sa loob"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya\/iyon",
+      "marks": "siya (ang altar)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:18.792931798Z",
+  "model": "glm-5.3"
+}

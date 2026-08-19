@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Itinapon ni Israel ang mabuti; kahit na kalaban ay manghahabol sa kaniya.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "itinapon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang mabuti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kalaban"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "manghahabol sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:36.284555873Z",
+  "model": "glm-5.3"
+}

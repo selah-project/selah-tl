@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Papatayin ng kasamaan ang masama, at ang mga napopoot sa matuwid ay magiging ⟨napaparusahan⟩.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "at ang mga napopoot"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matuwid"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magiging ⟨napaparusahan⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.134187203Z",
+  "model": "glm-5.3"
+}

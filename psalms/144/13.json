@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Ang aming mga kamalig ay punô, nagbibigay ng iba't ibang panustos, mula sa isang uri hanggang sa isang uri; ang aming mga kawan ay may nagsisilang ng libo, napakarami sa aming mga lansangan.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "ang aming mga kamalig"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "punô"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "nagbibigay ng panustos"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "mula sa isang uri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "זן",
+      "gloss": "isang uri"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "ang aming mga kawan"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "may nagsisilang ng libo"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "napakarami (sampung libo)"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "sa aming mga lansangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.223121538Z",
+  "model": "glm-5.3"
+}

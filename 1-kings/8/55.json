@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At tumayo siya, at binasbasan ang ⟨את⟩ buong kapisanan ng Israel nang may malakas na tinig, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumayo siya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong kapisanan ng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nang may tinig"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "malakas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:28:47.391787985Z",
+  "model": "glm-5.3"
+}

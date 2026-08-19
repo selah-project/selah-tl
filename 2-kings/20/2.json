@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At binaligtad niya ang ⟨את⟩ kaniyang mukha patungo sa pader, at nanalangin kay Yahweh, na nagsasabi:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "At binaligtad niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mukha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kaniyang mukha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "pader"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "at nanalangin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    }
+  ],
+  "timestamp": "2026-08-19T16:49:42.836307826Z",
+  "model": "glm-5.3"
+}

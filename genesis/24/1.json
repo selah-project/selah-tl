@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At si Avraham ay tumanda, nakarating na sa maraming araw; at si Yahweh ay nagpala kay Avraham sa lahat.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "At si Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ay tumanda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nakarating na"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa maraming araw"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ay nagpala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:49.199467357Z",
+  "model": "glm-5.3"
+}

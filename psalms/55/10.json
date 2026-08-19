@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Lamonin, Adonai, at hatiin ang kanilang dila, sapagkat nakita ko ang karahasan at alitan sa ⟨the⟩ lunsod.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "lamonin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "hatiin"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang kanilang dila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "karahasan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "at alitan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lunsod"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:08.612055141Z",
+  "model": "glm-5.3"
+}

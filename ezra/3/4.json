@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ipinagdiwang nila ang ⟨את⟩ pista ng mga kubol, gaya ng nakasulat, at ⟨mga⟩ handog na susunugin araw-araw ayon sa bilang, ayon sa utos, bagay ng bawat araw sa araw nito.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ipinagdiwang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pista ng mga kubol"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pista"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ng mga kubol"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "gaya ng nakasulat"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "at handog na susunugin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "araw-araw"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ayon sa bilang"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa utos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa araw nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:12:41.994032271Z",
+  "model": "glm-5.3"
+}

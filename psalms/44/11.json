@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Pinapaatras mo kami mula sa kaaway, at ang mga nanananti sa amin ay nagnakaw para sa kanilang sarili.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "pinapaatras mo kami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "at ang mga nanananti sa amin"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "nagnakaw"
+    },
+    {
+      "surface": "למו",
+      "gloss": "para sa kanilang sarili"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:52.985736100Z",
+  "model": "glm-5.3"
+}

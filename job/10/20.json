@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Hindi ba't kaunti lamang ang aking mga araw? ⟨Tumigil ka nga⟩ at iwan mo akong ⟨mag-isa⟩, upang makalamang-kalamang magningas ako.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba't"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunti lamang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang aking mga araw"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "⟨Tumigil ka nga⟩"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "iwan mo akong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨mag-isa⟩"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "upang makalamang-kalamang magningas ako"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kaunti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:03.887334810Z",
+  "model": "glm-5.3"
+}

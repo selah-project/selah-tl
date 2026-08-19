@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "at ⟨siya⟩ yumaon at naglingkod sa ibang mga elohim at yumukod sa kanila, o sa araw, o sa buwan, o sa buong hukbo ng mga langit na hindi ko iniutos",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "at yumaon"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iba"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "at yumukod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "sa buwan"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ko iniutos"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:19.267769530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Humingi sila, at nagdala siya ng mga pugo, at ng tinapay ng langit pinamuhusan niya sila.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Humingi sila"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at nagdala siya"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ng mga pugo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "at ng tinapay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "pinamuhusan niya sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.043439994Z",
+  "model": "glm-5.3"
+}

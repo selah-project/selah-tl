@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Hindi ba ang buong ⟨ang⟩ lupa ay nasa harapan mo? Maghiwalay ka nga, ikaw, mula sa akin; kung ⟨sa⟩ kaliwa, at ⟨ako⟩ sa kanan; at kung ⟨sa⟩ kanan, at ⟨ako⟩ sa kaliwa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "nasa harapan mo"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "maghiwalay ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "mula sa akin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kaliwa"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "at ako sa kanan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "at ako sa kaliwa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.811048779Z",
+  "model": "glm-5.3"
+}

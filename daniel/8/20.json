@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang tupang may dalawang sungay na iyong nakita ay ⟨ay⟩ ang mga hari ng Media at Persia.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "ang tupà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "iyong nakita"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "may-ari"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "ng mga sungay"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ng Media"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "at Persia"
+    }
+  ],
+  "timestamp": "2026-08-19T19:08:34.958258573Z",
+  "model": "glm-5.3"
+}

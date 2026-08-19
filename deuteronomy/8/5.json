@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At malalaman mo sa iyong puso na kung paanong sinasanhi ng isang tao ang ⟨את⟩ kanyang anak, si Yahweh na iyong Elohim ay nagsasasanhi sa iyo.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "at malalaman mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "iyong puso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "nagsasanhi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kanyang anak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "nagsasasanhi sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:24:57.595875803Z",
+  "model": "glm-5.3"
+}

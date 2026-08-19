@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Salita ang ipinadala ni Adonai sa ⟨ב⟩ Yaakov, at bumagsak ito sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Salita"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipinadala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "at bumagsak"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:58.996907628Z",
+  "model": "glm-5.3"
+}

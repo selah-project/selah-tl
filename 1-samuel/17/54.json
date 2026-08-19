@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Kinuha ni David ang ⟨את⟩ ulo ng Pelishteo at dinala ito sa Yerushalayim; at ang ⟨את⟩ kanyang mga kagamitan ay inilagay sa kanyang tolda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "kinuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo ng Pelishteo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ng Pelishteo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dinala ito"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga kagamitan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kanyang mga kagamitan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "sa kanyang tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:55.249377973Z",
+  "model": "glm-5.3"
+}

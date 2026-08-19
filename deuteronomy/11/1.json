@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at iniibig mo si Yahweh na iyong Elohim, at ingatan mo ang kanyang pag-iingat, at ang kanyang mga tuntunin, at ang kanyang mga hatol, at ang kanyang mga utos, sa lahat ng araw",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "at iniibig mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "at ingatan mo"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ang kanyang pag-iingat"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "at ang kanyang mga tuntunin"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "at ang kanyang mga hatol"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "at ang kanyang mga utos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:36.944371751Z",
+  "model": "glm-5.3"
+}

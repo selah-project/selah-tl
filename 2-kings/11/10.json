@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ibinigay ng saserdote sa mga puno ng mga daan-daon ang ⟨את⟩ sibat at ang ⟨את⟩ mga kalasag na para kay Haring David, na nasa sa bahay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng saserdote"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sa mga puno"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ng mga daan-daon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sibat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang sibat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kalasag"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "mga kalasag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para sa hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nasa sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:01.750256697Z",
+  "model": "glm-5.3"
+}

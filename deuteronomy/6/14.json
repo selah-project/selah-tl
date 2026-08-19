@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Huwag kayong sumunod sa mga elohim na iba, sa mga elohim ng mga bayang nasa paligid ninyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kayong lumakad\/sumunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod ng \/ sumunod sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "sa mga elohim ng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ang mga bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "nasa paligid ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:28.952646922Z",
+  "model": "glm-5.3"
+}

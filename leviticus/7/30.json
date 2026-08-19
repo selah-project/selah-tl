@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 7:30",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sariling kamay niya ang magdadala ng ⟨את⟩ mga handog na apoy ni Yahweh; ang ⟨את⟩ taba sa ibabaw ng ⟨את⟩ dibdib ay dadalhin niya; ang ⟨את⟩ dibdib, para iugoy ito bilang panginginig sa harapan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "kamay niya"
+    },
+    {
+      "surface": "תביאינה",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga handog na apoy"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "mga handog na apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dibdib"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "dadalhin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibdib"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dibdib"
+    },
+    {
+      "surface": "להניף",
+      "gloss": "para iugoy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang dibdib)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "panginginig (handog na iniiugoy)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:35.077058412Z",
+  "model": "glm-5.3"
+}

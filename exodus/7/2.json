@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ikaw ang magsasalita ng ⟨את⟩ lahat ng iuutos ko sa iyo, at si Aharon na kapatid mo ay magsasalita kay Paraon upang magpalaya ⟨⟨siya⟩⟩ ng ⟨את⟩ mga anak ng Israel mula sa kanyang lupain.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magsasalita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "iuutos ko sa iyo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "kapatid mo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsasalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraon"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "upang magpalaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ng Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mula sa kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:00.659465528Z",
+  "model": "glm-5.3"
+}

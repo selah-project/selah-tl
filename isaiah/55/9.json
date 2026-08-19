@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Sapagkat kasing taas ng mga langit sa ⟨ang⟩ lupa, gayundin nang kaitaas ng aking mga lakad sa inyong mga lakad, at ng aking mga pag-iisip sa inyong mga pag-iisip.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kasing taas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa ⟨ang⟩ lupa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayundin nang"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kaitaas"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ng aking mga lakad"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "sa inyong mga lakad"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "at ng aking mga pag-iisip"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "sa inyong mga pag-iisip"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:25.271321589Z",
+  "model": "glm-5.3"
+}

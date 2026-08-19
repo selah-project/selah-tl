@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Minamahal mo ang kasamaan higit sa kabutihan, ang kasinungalingan higit sa pagsasalita ng katuwiran. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "minamahal mo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "higit sa kabutihan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang kasinungalingan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "higit sa pagsasalita"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ng katuwiran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:18.235028066Z",
+  "model": "glm-5.3"
+}

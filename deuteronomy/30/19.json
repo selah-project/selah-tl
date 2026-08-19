@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Pinatotestigo ko sa inyo ngayong araw ang ⟨את⟩ mga langit at ang ⟨את⟩ lupa — ang buhay at ang kamatayan inilagay ko sa harap mo, ang pagpapala at ang sumpa; at pumili ka ng buhay, upang ikaw at ang iyong lahi ay mabuhay,",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "pinatotestigo ko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "at ang kamatayan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inilagay ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang pagpapala"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "at ang sumpa"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "at pumili ka"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ng buhay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "at ang iyong lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:15.794750559Z",
+  "model": "glm-5.3"
+}

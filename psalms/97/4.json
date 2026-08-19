@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Nagliwanag ang Kanyang mga kidlat sa sansinukob; nakita ng ⟨ang⟩ lupa at nayanig.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "nagliwanag"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "ang Kanyang mga kidlat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa sansinukob"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "at nayanig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:09.296813348Z",
+  "model": "glm-5.3"
+}

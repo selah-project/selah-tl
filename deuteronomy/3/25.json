@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Makatawid ako nga, at makita ko ang ⟨את⟩ lupaing mabuti na nasa kabilang ibayo ng Yarden, ⟨ang⟩ bundok na mabuti ⟨na⟩ ito, at ang Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "makatawid ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "at makita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupaing mabuti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupaing"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa kabilang ibayo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ng Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨ang⟩ bundok"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "at ang Levanon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:11.933013564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 91,
+  "translation": "Ang tumatahan sa pinagtataguan ng Elyon, sa lilim ni Shaddai ay magpapalamig ng gabi ⟨siya⟩;",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ang tumatahan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa pinagtataguan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa lilim"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "magpapalamig ng gabi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:58.004809191Z",
+  "model": "glm-5.3"
+}

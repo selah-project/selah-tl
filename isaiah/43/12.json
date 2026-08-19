@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Ako ang nagpahayad, at nagligtas, at nagpatugma — at walang ⟨diose-ng⟩ banyaga sa inyo. At kayo ang aking mga saksi,Oracle ni Yahweh, at ako ay El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nagpahayad"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "at nagligtas"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "at nagpatugma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "banyaga"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "At kayo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ang aking mga saksi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T17:07:10.567750961Z",
+  "model": "glm-5.3"
+}

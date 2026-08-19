@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang Yericho ay nakasara at nakakandado dahil sa mga anak ng Israel — walang lumalabas at walang pumapasok.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "At ang Yericho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "nakasara"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "at nakakandado"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumapasok"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:37.840027248Z",
+  "model": "glm-5.3"
+}

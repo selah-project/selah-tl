@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At nagsalita sila laban sa Elohim; nagsabi: Kaya bang ihanda ng El ang isang hapag sa ilang?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "nagsalita sila"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "laban sa Elohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "kaya ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ihanda"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "hapag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.373636968Z",
+  "model": "glm-5.3"
+}

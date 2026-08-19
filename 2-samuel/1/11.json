@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At hinawikan ni David ang ⟨את⟩ kanyang mga damit, at pinunit niya ang mga ito, at gayundin ang lahat ng mga lalaking ⟨את⟩ kasama niya.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at hinawikan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ang kanyang mga damit"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "at pinunit niya ang mga ito"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at gayundin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "mga lalaking kasama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:27.080552026Z",
+  "model": "glm-5.3"
+}

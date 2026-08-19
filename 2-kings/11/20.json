@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At natuwa ang buong bayan ng lupain, at ang lungsod ay natahimik; at si Athalyahu ay pinatay nila ng tabak sa bahay ng hari.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "natuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "at ang lungsod"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "natahimik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "si Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "pinatay nila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ng tabak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay ng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:11.423646801Z",
+  "model": "glm-5.3"
+}

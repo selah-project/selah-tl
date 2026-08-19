@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At nakita ni Haman na walang lumuluhod na si Mordecai at walang nagpapatirapa sa kanya, at napuno si Haman ng uling-poot.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "lumuluhod"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "at nagpapatirapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ng poot"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:39.572931877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nagsabi siya sa kanila: Huwag ninyo akong ⟨את⟩ pagtagalin, at si Yahweh ay nagpatagumpag sa aking lakad; hayaan ninyo akong umalis at makapupunta ako sa aking panginoon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "ninyo pagtagalin"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "siya (ang alipin, pasalitang layon)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "at si Yahweh"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "nagpatagumpag"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "sa aking lakad"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "hayaan ninyo akong umalis"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "at makapupunta ako"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sa aking panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:05.498182035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kukunin ng pari ang ⟨את⟩ kordero ng handog-na-amin at ang ⟨את⟩ log ng langis, at ihihip ng pari ang ⟨את⟩ mga iyon bilang pag-ihip sa harap ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukunin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng pari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kordero ng handog-na-amin"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kordero"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ng handog-na-amin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "log ng langis"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "at ihihip"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon (kordero at langis)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng pari"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "bilang pag-ihip"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:11.947187479Z",
+  "model": "glm-5.3"
+}

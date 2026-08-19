@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At tumawag ang sugo ni Yahweh kay Avraham, sa pangalawang pagkakataon, mula sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "sa pangalawang pagkakataon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:35.044935728Z",
+  "model": "glm-5.3"
+}

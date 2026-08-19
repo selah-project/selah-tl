@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Ito ang gawa ng aking mga akusador, mula ⟨את⟩ Yahweh, at ng mga nagsasalita ng kasamaan laban sa aking buhay.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ng aking mga akusador"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "at ng mga nagsasalita"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:22.899214160Z",
+  "model": "glm-5.3"
+}

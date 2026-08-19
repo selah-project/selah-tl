@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Tumindig si Yaakov mula sa Be'er-Sheva, at dinala ng mga anak ni Yisrael si ⟨את⟩ Yaakov na kanilang ama, at ang ⟨את⟩ kanilang mga bata, at ang ⟨את⟩ kanilang mga asawa, sa mga kariton na ipinadala ni Paroh upang dalhin si ⟨את⟩ya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "mula sa Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "na kanilang ama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang mga bata"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "kanilang mga bata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang mga asawa"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "kanilang mga asawa"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "sa mga kariton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ipinadala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "upang dalhin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "si ⟨את⟩ya",
+      "marks": "siya (si Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:15.717006092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ilalagay nilá ⟨את⟩ iyon at ⟨את⟩ lahat ng mga kasangkapan nito sa loob ng isang takip na balat ng takhash, at ilalagay nilá sa ⟨the⟩ pingga.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "at ilalagay nilá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng mga kasangkapan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga kasangkapan nito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "takip"
+    },
+    {
+      "surface": "עור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ng takhash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "at ilalagay nilá"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "pingga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:02:36.956565293Z",
+  "model": "glm-5.3"
+}

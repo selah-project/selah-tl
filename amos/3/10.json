@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At hindi nila nalalaman na gawin ang matuwid, pagtitika ni Yahweh — sila na nag-iimbak ng kalupitan at pagnanakaw sa kanilang mga armarian.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nalalaman nila"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "na gawin"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pagtitika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "sila na nag-iimbak"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kalupitan"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "at pagnanakaw"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "sa kanilang mga armarian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:00:02.894534110Z",
+  "model": "glm-5.3"
+}

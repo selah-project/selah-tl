@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "at makikilala ng Mitsrayim na ako si Yahweh, sa pag-unat ko ng ⟨את⟩ aking kamay sa ibabaw ng Mitsrayim, at ilalabas ko ang ⟨את⟩ mga anak ni Yisrael mula sa gitna nila.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "at makikilala ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "sa pag-unat ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking kamay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng aking kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "at ilalabas ko ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "mula sa gitna nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:45.632786768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At papagningasin ng mga anak ni Aharon ⟨את⟩ niyon sa ⟨ang⟩ dambana, ibabaw ng handog na susunugin na nasa ibabaw ng mga kahoy na nasa ibabaw ng apoy — handog na apoy, amoy na kaaya-aya kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "at papagningasin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niyon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ng mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na apoy"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "amoy"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "na kaaya-aya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:08.292401261Z",
+  "model": "glm-5.3"
+}

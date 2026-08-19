@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ang aking mga kapatid ay nangtaksil na parang batis, na parang agusan ng mga batis na lumilipas.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ang aking mga kapatid"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nangtaksil"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "parang"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "parang agusan"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "ng mga batis"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "lumilipas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:46:26.573674074Z",
+  "model": "glm-5.3"
+}

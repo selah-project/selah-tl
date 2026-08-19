@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sampung siko ang haba ng pangalawang kerub: iisang sukat at iisang hugis para sa dalawang kerub.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "sa siko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ang kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "sukat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "at hugis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "para sa dalawa"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ang mga kerub"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:34.521132347Z",
+  "model": "glm-5.3"
+}

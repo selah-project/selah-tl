@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Ibalik Mo kami, Elohim ng ating kaligtasan, at pawalang-bisa ang iyong galit sa amin.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Ibalik Mo kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ng ating kaligtasan"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "at pawalang-bisa"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ang iyong galit"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:27.123964713Z",
+  "model": "glm-5.3"
+}

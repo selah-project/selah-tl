@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sanayin ang bata ayon sa bibig ng kanyang daan; kahit tumanda siya ay hindi siya lumihis diyan.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "sanayin"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig ng"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kanyang daan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "tumanda siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "diyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:05.062634087Z",
+  "model": "glm-5.3"
+}

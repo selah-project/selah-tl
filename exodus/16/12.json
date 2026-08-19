@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Narinig ko ang ⟨את⟩ mga pagdadalamhati ng mga anak ni Yisrael; magsalita ka sa kanila, na sabihin: Sa pagitan ng mga takipsilim kakain kayo ng laman, at sa umaga bubusog kayo ng tinapay; at makikilala ninyo na ako si Yahweh, ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "narito ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pagdadalamhati"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "mga pagdadalamhati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "magsalita ka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sabihin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ng mga takipsilim"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakain kayo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "at sa umaga"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "bubusog kayo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "at makikilala ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:28.336575231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Si Yahweh — sa kanyang banal na templo; si Yahweh — sa mga langit ang kanyang trono. Ang kanyang mga mata ay nagmamasid, ang kanyang mga pilik-mata ay sumusubok sa ⟨mga⟩ anak ng tao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa banal na templo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kanyang banal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang kanyang trono"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang kanyang mga mata"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ay nagmamasid"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ang kanyang mga pilik-mata"
+    },
+    {
+      "surface": "יבחנu",
+      "gloss": "ay sumusubok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:03.379216332Z",
+  "model": "glm-5.3"
+}

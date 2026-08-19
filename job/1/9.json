@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sumagot si HaSatan kay Yahweh at nagsabi: Ngâ bang walang kabayaran pangangamba ni Iyov ang Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "at sumagot"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "si HaSatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ngâ bang walang kabayaran"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pangangamba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:29.298832102Z",
+  "model": "glm-5.3"
+}

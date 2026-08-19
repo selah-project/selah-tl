@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At nakita ni Lea na tumigil na siya sa pag-anak, at kumuha siya ng ⟨את⟩ Zilpa, ang kanyang aliping babae, at ibinigay niya siya ⟨את⟩ kay Yaakov na magasawa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tumigil"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "sa pag-anak"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "ang kanyang aliping babae"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yaakov"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kay Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na magasawa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:11.719933930Z",
+  "model": "glm-5.3"
+}

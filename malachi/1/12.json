@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Datapuwa't kayo, nilalapastangan ninyo ⟨את⟩ siya sa pagsasabi ninyo: ang mesa ni Adonai karumal-dumal, at ang bunga nito, hamak ang pagkain nito.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Datapuwa't kayo"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nilalapastangan ninyo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang pangalan ni Yahweh)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "sa pagsasabi ninyo"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "karumal-dumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "at ang bunga nito"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "hamak"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ang pagkain nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:22.782484505Z",
+  "model": "glm-5.3"
+}

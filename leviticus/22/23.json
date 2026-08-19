@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ang baka o tupa na may sobrang bahagi o kulang — bilang kusang handog maaari mo itong gawin ⟨את⟩, ngunit para sa panata hindi ito katanggap-tanggap.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "at ang baka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "o tupa"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "may sobrang bahagi"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "o kulang"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kusang handog"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maaari mong gawin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka o tupa na may sobrang bahagi o kulang"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ngunit para sa panata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "katanggap-tanggap"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:25.859672699Z",
+  "model": "glm-5.3"
+}

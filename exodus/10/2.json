@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At upang ikwento mo sa mga tainga ng iyong anak at ng anak ng iyong anak ang ⟨את⟩ mga ginawa ko sa Mitzrayim at ⟨את⟩ ang aking mga tandang inilagay ko sa kanila, upang inyong makilala na ako ay si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "at upang"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ikwento mo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga tainga"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ng iyong anak"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "at ng anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ng iyong anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ginawa ko sa Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mga"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ginawa ko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang aking mga tanda"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ang aking mga tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "inilagay ko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "upang inyong makilala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:43.612695223Z",
+  "model": "glm-5.3"
+}

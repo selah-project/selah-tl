@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ilalagay mo doon ang ⟨את⟩ kabaong ng patotoo, at bubulungan mo sa ibabaw ng kabaong ang ⟨את⟩ lambong.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ilalagay mo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabaong"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kabaong"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ng patotoo"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "at bubulungan mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ng kabaong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambong"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "lambong"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:34.841137367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ang pagbubukas ⟨ng⟩ iyong mga salita ay nagbibigay-liwanag, nagbibigay-unawa sa mga simple.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ang pagbubukas"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ng iyong mga salita"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "nagbibigay-liwanag"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "nagbibigay-unawa"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "sa mga simple"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:04.387507040Z",
+  "model": "glm-5.3"
+}

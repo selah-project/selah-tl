@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sinabi ng hari sa kaniya, Bakit mo pa sinusulat ang ⟨את⟩ iyong mga usapin? Aking sinabi: Ikaw at si Tsiva ay maghahati ng ⟨את⟩ bukid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sinusulat mong magsalita"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga usapin"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aking sinabi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "at si Tsiva"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "maghahati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukid"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T16:19:59.323098946Z",
+  "model": "glm-5.3"
+}

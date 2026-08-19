@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Sumain ang iyong kamay sa lalaking nasa iyong kanan, sa anak ng tao na iyong pinatibay para sa iyong sarili.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "sumain"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang iyong kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ng iyong kanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "iyong pinatibay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyong sarili"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.230536876Z",
+  "model": "glm-5.3"
+}

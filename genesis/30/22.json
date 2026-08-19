@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At naalaala ni Elohim si ⟨את⟩ Rachel, at dininig ng Elohim ang kanyang panalangin, at binuksan niya ang ⟨את⟩ bahay-bata nito.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "at naalaala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at dininig"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "at binuksan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay-bata nito"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "bahay-bata nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:18.910696608Z",
+  "model": "glm-5.3"
+}

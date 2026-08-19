@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Kinamumuhian ko ang mga sumusunod sa mga walang-laman na kasinungalingan, ngunit ako ay kay Yahweh nagtitiwala.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Kinamumuhian ko"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ang mga sumusunod\/kumakapit"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "mga walang-laman"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "na kasinungalingan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagtitiwala"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:44.776504866Z",
+  "model": "glm-5.3"
+}

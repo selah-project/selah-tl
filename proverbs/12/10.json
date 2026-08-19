@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Nakakakilala ang matuwid sa kaluluwa ng kanyang hayop, ngunit ang mga awa ng masasama ay malupit.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kaluluwa"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ng kanyang hayop"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ngunit ang mga awa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ay malupit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:07.102914377Z",
+  "model": "glm-5.3"
+}

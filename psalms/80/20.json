@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Yahweh Elohim ng mga hukbo, ibalik mo kami; pasinagin mo ang iyong mga mukha, at maliligtas kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ibalik mo kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "pasinagin mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mga mukha"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "at maliligtas kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:38.230852844Z",
+  "model": "glm-5.3"
+}

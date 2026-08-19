@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 58,
+  "translation": "Bago pa maunawaan ng mga kaldero ninyo ang tinik, gagawin siyang gaya ng lunting kahoy, gaya ng nauupos na ng pag-iinit ng galit, dadaluyin siya ng buhawi.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "maunawaan"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "mga kaldero ninyo"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tinik"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lunting (sariwang)"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "nauupos na ng pag-iinit"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "dadaluyin siya ng buhawi"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:20.829962415Z",
+  "model": "glm-5.3"
+}

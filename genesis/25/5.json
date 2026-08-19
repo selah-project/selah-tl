@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nagbigay si Avraham ng ⟨את⟩ lahat ng nasa kanya kay Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at nagbigay"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapat ng nasa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lapat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nasa kanya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:17.850317065Z",
+  "model": "glm-5.3"
+}

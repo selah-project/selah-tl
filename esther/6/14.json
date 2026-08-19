@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Habang nag-uusap pa sila sa kanya, dumating ang mga kasero ng hari, at nagmadali silang dalhin ang ⟨את⟩ Haman sa handaan na inihanda ni Ester.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "habang nag-uusap pa sila"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "nag-uusap"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "at ang mga kasero"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "at nagmadali sila"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "dalhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "handaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "inihanda"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:11.616075742Z",
+  "model": "glm-5.3"
+}

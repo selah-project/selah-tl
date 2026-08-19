@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Umawit kayo sa kaniya ng bagong awit; gawin ninyong mabuti ang pagtugtog sa gitna ng masigabong hiyawan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "umawit kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "gawin ninyong mabuti"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ang pagtugtog"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sa gitna ng masigabong hiyawan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.173046530Z",
+  "model": "glm-5.3"
+}

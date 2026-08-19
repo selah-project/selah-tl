@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sa ano pa kayo hahampasin, samantalang dinadagdagan pa ninyo ang paghihimagsik? Ang buong ulo ay may sakit, at ang buong puso ay may kirot.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "hahampasin pa kayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "dinadagdagan ninyo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ang paghihimagsik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ay may sakit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ay may kirot"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:52.306469650Z",
+  "model": "glm-5.3"
+}

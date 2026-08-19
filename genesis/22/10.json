@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At iniunat ni Avraham ang ⟨את⟩ kanyang kamay, at kumuha siya ng ⟨את⟩ patalim, upang katayin ang ⟨את⟩ kanyang anak.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patalim"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ng patalim"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "upang katayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kanyang anak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:38.964104839Z",
+  "model": "glm-5.3"
+}

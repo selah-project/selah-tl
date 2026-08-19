@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Kaya't ibibigay ko ang ⟨את⟩ kanilang mga asawa sa iba, at ang kanilang mga bukid sa mga magmamana; sapagkat mula sa maliit hanggang sa dakila, lahat sila ay nakikinabang nang di-makatarungan; mula sa propeta hanggang sa pari, lahat ay gumagawa ng kasinungalingan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga asawa"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "kanilang mga asawa"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "sa iba"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "ang kanilang mga bukid"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "sa mga magmamana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "mula sa maliit"
+    },
+    {
+      "surface": "ו עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "lahat sila"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ay nakikinabang nang di-makatarungan"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sa di-makatarungang tubo"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "mula sa propeta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pare"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ay gumagawa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:18:45.841080529Z",
+  "model": "glm-5.3"
+}

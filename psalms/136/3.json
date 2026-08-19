@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Magpasalamat sa Adonai ng ⟨mga⟩ panginoon, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sa Adonai ng"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "⟨mga⟩ panginoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.679930295Z",
+  "model": "glm-5.3"
+}

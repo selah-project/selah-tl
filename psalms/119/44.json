@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "At babantayan ko ang iyong kautusan nang palagi, magpakailanman at walang hanggan.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "at babantayan ko"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang iyong kautusan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang palagi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.850820979Z",
+  "model": "glm-5.3"
+}

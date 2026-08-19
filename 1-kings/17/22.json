@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At dininig ni Yahweh ang tinig ni Eliyahu, at ang hininga ng bata ay bumalik sa loob niya, at nabuhay siya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dininig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang hininga"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ng bata"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "kaloob-looban niya"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "at nabuhay siya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:58.488224515Z",
+  "model": "glm-5.3"
+}

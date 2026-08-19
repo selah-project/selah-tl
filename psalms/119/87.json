@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Halos lipulin nila ako sa lupa, ngunit ako ay hindi nagpaubaya sa iyong mga tuntunin.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "halos"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "lipulin nila ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "nagpaubaya"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iyong mga tuntunin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:14.078757464Z",
+  "model": "glm-5.3"
+}

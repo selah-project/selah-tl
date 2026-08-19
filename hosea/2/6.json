@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang ⟨את⟩ kanyang mga anak ay hindi ko aaawahin, sapagkat mga anak ng pakikiapid sila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga anak"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "aaawahin ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ng pakikiapid"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:15.481781263Z",
+  "model": "glm-5.3"
+}

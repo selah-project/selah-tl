@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 134,
+  "translation": "Basbasán ka ni Yahweh mula sa Tsiyon, siya na gumawa ng ⟨את⟩ mga langit at ⟨את⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Basbasán ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "mula sa Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:54.278671023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At si Oholibama ay nanganak ng ⟨את⟩ Yeish, at ng ⟨את⟩ Yealam, at ng ⟨את⟩ Korach — ito ang mga anak ni Esav, na ipinanganak sa kanya sa lupain ng Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "At si Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ay nanganak ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Yealam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ng ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:47.102999632Z",
+  "model": "glm-5.3"
+}

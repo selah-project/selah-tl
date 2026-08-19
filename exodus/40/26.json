@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At inilagay niya ang ⟨את⟩ altar ng ginto sa tolda ng kapisanan, sa harapan ng ⟨ang⟩ tabing.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar ng ginto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda ng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tabing"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:29.309371683Z",
+  "model": "glm-5.3"
+}

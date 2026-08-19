@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At si Yishma'yah ang Gib'onita, makapangyarihan sa gitna ng Tatlumpu, at <hidden> sa ibabaw ng Tatlumpu;",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "at si Yishma'yah"
+    },
+    {
+      "surface": "haggiv'oni (הגבעוני)",
+      "gloss": "ang Gib'onita"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makapangyarihan\/mandirigma"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "sa gitna ng Tatlumpu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa ibabaw ng"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ang Tatlumpu"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:56.012007620Z",
+  "model": "glm-5.3"
+}

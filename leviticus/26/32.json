@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At padadaratingin ko, ako mismo, ang ⟨את⟩ lupa, at mangangamba sa ibabaw nito ang inyong mga kaaway, na naninirahan dito.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "at padadaratingin ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "at mangangamba"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa ibabaw nito"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ang inyong mga kaaway"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "na naninirahan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:06.299976361Z",
+  "model": "glm-5.3"
+}

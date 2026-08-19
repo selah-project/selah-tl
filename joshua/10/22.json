@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sinabi ni Yehoshua: Buksan ninyo ang ⟨את⟩ bunganga ng yungib, at ilabang muli sa akin ang ⟨את⟩ limang hari na ito mula sa yungib.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "buksan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunganga ng yungib"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bunganga"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ng yungib"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "at ilabang muli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang hari na ito"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "limang"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "yungib"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:01.375469976Z",
+  "model": "glm-5.3"
+}

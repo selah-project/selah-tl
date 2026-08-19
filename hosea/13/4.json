@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At ako ay Yahweh, ang iyong Elohim, mula sa lupain ng Mitzrayim; at Elohim bukod sa akin ay hindi mo makikilala, at Tagapagligtas na iba ay wala bukod sa akin.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "at Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "bukod sa akin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "mo makikilala"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "at Tagapagligtas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay wala"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "bukod sa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:31.220205842Z",
+  "model": "glm-5.3"
+}

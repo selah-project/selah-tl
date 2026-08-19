@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At sinabi sa kanya ni Yitshak na kanyang ama: Ikaw ba ay sino? At sinabi niya: Ako ang iyong anak, ang iyong panganay, si Esav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kanyang ama"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang iyong anak"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ang iyong panganay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:57.997081740Z",
+  "model": "glm-5.3"
+}

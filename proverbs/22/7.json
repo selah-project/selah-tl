@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ang mayaman ay naghahari sa mga dukha, at ang umuutang ay alipin ng taong nagpapautang.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ang mayaman"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "sa mga dukha"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "naghahari"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "at ang alipin"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ang umuutang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ng taong"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "nagpapautang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:05.062785906Z",
+  "model": "glm-5.3"
+}

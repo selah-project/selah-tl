@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Huwag ninyong salingin ang aking mga Mashíaj, at sa aking mga propeta ay huwag gumawa ng masama.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "salingin ninyo"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ang aking mga Mashíaj"
+    },
+    {
+      "surface": "ו לנביאי",
+      "gloss": "at sa aking mga propeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "gumawa ng masama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:03.810233942Z",
+  "model": "glm-5.3"
+}

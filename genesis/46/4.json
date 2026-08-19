@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Ako ang bababa na kasama mo sa Mitzrayim, at ako rin ang magpapataas sa iyo ⟨pabalik⟩; at si Yosef ang maglalagay ng kanyang kamay sa iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ang bababa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na kasama mo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "at ako rin"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "ang magpapataas sa iyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pabalik"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "at si Yosef"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ang maglalagay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ng kanyang kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:41.329231947Z",
+  "model": "glm-5.3"
+}

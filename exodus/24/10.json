@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nakita nila ang ⟨את⟩ Elohim ng Israel, at sa ilalim ng kaniyang mga paa ay parang gawa ng ladrilyo ng sapir, at parang kalagayan ng mga langit sa kalinisan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "at nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ng Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "at sa ilalim"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ng kaniyang mga paa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "parang gawa"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ng ladrilyo"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ng sapir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "at parang kalagayan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "sa kalinisan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:00.133087472Z",
+  "model": "glm-5.3"
+}

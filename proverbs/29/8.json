@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang mga taong mapanuya ay humihinga ng apoy sa bayan, ngunit ang mga marunong nagpapatalo ng galit.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga taong"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "mapanuya"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "humihinga"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "ngunit ang mga marunong"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "nagpapatalo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ng galit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:29.307955916Z",
+  "model": "glm-5.3"
+}

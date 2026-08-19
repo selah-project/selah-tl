@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ang mamatay kay Baasha sa lungsod ay kakainin ng mga aso, at ang mamatay sa kaniya sa bukid ay kakainin ng mga ibon ng langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ang namamatay"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "kay Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin ng"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mga aso"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "at ang namamatay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin ng"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    }
+  ],
+  "timestamp": "2026-08-19T16:33:20.795258183Z",
+  "model": "glm-5.3"
+}

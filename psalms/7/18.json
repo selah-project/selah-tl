@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Magpapasalamat ako kay Yahweh ayon sa Kanyang katuwiran, at aawitin ko ang pangalan ni Yahweh na Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magpapasalamat ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "ayon sa Kanyang katuwiran"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "at aawitin ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:07.266078397Z",
+  "model": "glm-5.3"
+}

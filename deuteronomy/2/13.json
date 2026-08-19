@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ngayon, tumindig kayo at tumawid kayo para sa inyo ang ⟨את⟩ batis ng Zered; at tumawid kami sa ⟨את⟩ batis ng Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tumindig kayo"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "at tumawid kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batis ng Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "at tumawid kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batis ng Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batis"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:06.393399362Z",
+  "model": "glm-5.3"
+}

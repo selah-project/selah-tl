@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Sapagkat si Yahweh ay nagmamahal ng katarungan, at hindi pababayaan ⟨את⟩ kanyang mga tapat; magpakailanman sila'y ingatan, ngunit ang binhi ng masasama ay pupugutin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagmamahal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng katarungan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "pababayaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga tapat"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kanyang mga tapat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sila'y ingatan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ngunit ang binhi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ay pupugutin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:01.446310948Z",
+  "model": "glm-5.3"
+}

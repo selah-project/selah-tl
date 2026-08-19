@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Kanilang kalooban: ⟨ang⟩ kanilang mga bahay ⟨ay⟩ magpakailanman, kanilang mga tahanan hanggang sa salinlahi at salinlahi; tinawag nila sa kanilang mga pangalan ⟨ang⟩ mga lupain.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "kanilang kalooban"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ang kanilang mga bahay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "kanilang mga tahanan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "hanggang sa salinlahi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "at salinlahi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "tinawag"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "sa kanilang mga pangalan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "mga lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:29.445778641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "at pinunit ko ang ⟨את⟩ kaharian mula sa bahay ni David at ibinigay ko ito sa iyo; ngunit hindi ka naging tulad ng aking lingkod na si David, na nag-ingat ng aking mga utos at lumakad pagkatapos ko nang buong puso niya, upang gawin lamang ang matuwid sa aking mga mata.",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "at-pinunit-ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kaharian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula-sa-bahay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni-David"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "at-ibinigay-ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa-iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit-hindi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka-naging"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "tulad-ng-aking-lingkod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si-David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nag-ingat"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ng-aking-mga-utos"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at-na"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos-ko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang-buong"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "puso-niya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang-gawin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang-matuwid"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa-aking-mga-mata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:28.991898337Z",
+  "model": "glm-5.3"
+}

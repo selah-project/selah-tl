@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Umaungal, nagkukumahog ang mga tubig nito, nayanig ang mga bundok sa kapalmaryan nito. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "umaungal\/naguguluong sumisigaw"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "nagkukumahog (kumukulo)"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ang mga tubig nito"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "nayanig \/ nanginginig"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bundok"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "sa kanyang kapalmaryan\/maapoy na karangalan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:25.285723762Z",
+  "model": "glm-5.3"
+}

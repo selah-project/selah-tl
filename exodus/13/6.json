@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Pitong araw kakain ka ng tinapay na walang lebadura, at sa ikapitong araw ay ⟨may⟩ pista para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakain ka"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "ng tinapay na walang lebadura"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "at sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pista"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:19.561961203Z",
+  "model": "glm-5.3"
+}

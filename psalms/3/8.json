@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Magbangon ka, O Yahweh; iligtas mo ako, O aking Elohim, sapagkat pinagpalo mo ang ⟨את⟩ lahat ng aking mga kaaway sa pisngi; ang mga ngipin ng mga masasama ay pinagpuputol-putol mo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "magbangon ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "aking Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "pinagpalo mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng aking mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aking mga kaaway"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "sa pisngi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mga ngipin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "pinagpuputol-putol mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:01.800513608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sapagkat hindi pabayaan ni Yahweh ang ⟨את⟩ kanyang bayan dahil sa kanyang dakilang pangalan, sapagkat nasiyahan si Yahweh na gawin kayong ⟨את⟩ tungo sa kanya bilang bayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "pabayaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakilang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nasiyahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gawin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "tungo sa kanya bilang bayan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tungo sa kanya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bilang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:05.235031052Z",
+  "model": "glm-5.3"
+}

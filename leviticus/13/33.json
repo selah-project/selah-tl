@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At magpapagupit siya, ngunit ⟨את⟩ ang netek ay hindi niya igugupit; at ipapakulong ng koheno ⟨את⟩ ang netek nang pitong araw, muli.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "at magpapagupit siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "igugupit"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "at ipapakulong"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang koheno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nang pito (na)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "muli"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:24.485887562Z",
+  "model": "glm-5.3"
+}

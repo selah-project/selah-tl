@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Hahatol ka ba sa ⟨את⟩ kanila? Hahatol ka ba, anak ng tao? ⟨את⟩ Mga karumal-dumal na gawa ng kanilang mga magulang — ipakilala mo sa kanila.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Hahatol ka ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sa ⟨את⟩ kanila"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Hahatol ka ba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga karumal-dumal na gawa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "mga karumal-dumal"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ng kanilang mga magulang"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ipakilala mo sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:44:37.175057737Z",
+  "model": "glm-5.3"
+}

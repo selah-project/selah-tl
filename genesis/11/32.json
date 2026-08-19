@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang mga araw ni Terach ay naging limang taon at dalawang daang taon, at namatay si Terach sa Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga araw"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ni Terach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "at dalawang daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "si Terach"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "sa Haran"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:04.392068811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ⟨ay⟩ ang pagkain ni Shelomoh sa isang araw: tatlumpung kor ng pinong harina at animnapung kor ng harina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinong harina"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "at animnapung"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "harina"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:40.017859515Z",
+  "model": "glm-5.3"
+}

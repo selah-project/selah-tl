@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 118,
+  "translation": "Sabihin nawa ang mga natatatakot kay Yahweh: na magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Sabihin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ang mga natatatakot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:12.302165829Z",
+  "model": "glm-5.3"
+}

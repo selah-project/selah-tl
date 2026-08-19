@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sapagkat dumami ang aming mga pagsuway sa harap mo, at ang aming mga kasalanan ay sumasagot laban sa amin; sapagkat ⟨את⟩ ang aming mga pagsuway ay kasama namin, at ⟨את⟩ ang aming mga kasamaan, alam namin ang mga ito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "dumami"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang aming mga pagsuway"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "at ang aming mga kasalanan"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "sumasagot"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "laban sa amin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang aming mga pagsuway"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ang aming mga pagsuway (sa amin)"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "at ⟨את⟩ ang aming mga kasamaan"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "alam namin ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:48.245958544Z",
+  "model": "glm-5.3"
+}

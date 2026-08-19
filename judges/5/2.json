@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sa pagkakalagas ng buhok ng mga pinuno sa Yisrael, sa pagkakakusang-loob ng bayan, pasalamatan ninyo si Yahweh!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "sa pagkalagas"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "ng buhok na malulusog"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "sa pagkakakusang-loob"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pasalamatan ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:39.275102921Z",
+  "model": "glm-5.3"
+}

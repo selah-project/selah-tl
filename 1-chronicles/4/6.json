@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipinanganak ni Naarah sa kaniya si ⟨את⟩ Ahuzzam at si ⟨את⟩ Cheper at si ⟨את⟩ Temeni at si ⟨את⟩ Ahashtari; ito ang mga anak ni Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "at ipinanganak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "si Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ahuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Cheper"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Cheper"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Ahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:07.192977940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang ⟨את⟩ laman at ang ⟨את⟩ balat sinunog niya sa apoy, sa labas ng kampo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "laman"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang laman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "balat"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ang balat"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinunog niya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ng kampo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:54.818523115Z",
+  "model": "glm-5.3"
+}

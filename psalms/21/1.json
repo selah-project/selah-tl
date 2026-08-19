@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Sa Pangunguna. Mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:33.289451089Z",
+  "model": "glm-5.3"
+}

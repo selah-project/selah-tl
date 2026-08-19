@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Ang kanilang mga haligi ay dalawampu, at ang kanilang mga pundasyon ay dalawampu, tanso; ang mga kawit ng mga haligi at ang kanilang mga gintong-banda ay pilak.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "kanilang mga haligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at kanilang mga pundasyon"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tanso"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at kanilang mga pundasyon"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "at kanilang mga pundasyon",
+      "marks": ""
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ng mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "at ang kanilang mga banda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:01.808962319Z",
+  "model": "glm-5.3"
+}

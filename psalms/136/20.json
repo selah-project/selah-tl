@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "At si Og, hari ng Bashan, sapagkat hanggang magpakailanman ang kaniyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "at si Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ng Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hanggang magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kaniyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:58.180405907Z",
+  "model": "glm-5.3"
+}

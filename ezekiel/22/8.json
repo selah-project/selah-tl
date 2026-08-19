@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ang aking mga banal na bagay ay hinamak mo, at ang ⟨את⟩ aking mga shabbat ay dinungisan mo.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ang aking mga banal na bagay"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ay hinamak mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "aking mga shabbat"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ay dinungisan mo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:34.494891146Z",
+  "model": "glm-5.3"
+}

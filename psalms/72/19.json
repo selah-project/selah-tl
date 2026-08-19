@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "At purihin ang pangalan ng kanyang kaluwalhatian magpakailanman; at mapunan ng kanyang kaluwalhatian ⟨את⟩ ang buong lupa. Amin, at amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "at purihin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ng kanyang kaluwalhatian"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "at mapunan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ng kanyang kaluwalhatian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buong lupa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "at amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:43.661911831Z",
+  "model": "glm-5.3"
+}

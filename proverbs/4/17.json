@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sapagkat kinakain nila ang ⟨את⟩ tinapay ng kasamaan, at ang alak ng karahasan ay iniinom nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kinakain nila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "at alak"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ng karahasan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "iniinom nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:42.380203756Z",
+  "model": "glm-5.3"
+}

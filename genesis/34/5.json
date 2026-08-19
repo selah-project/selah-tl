@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At narinig ni Yaakov na dinungisan ⟨si⟩ Dinah na anak niya; at ang mga anak niya ay nasa ⟨את⟩ kanyang mga hayop sa bukid; at nanahimik si Yaakov hanggang sa pagdating nila.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "At si Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narining"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dinungisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "si Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang mga anak niya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay nasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga hayop"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kanyang mga hayop"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "at nanahimik"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "pagdating nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:22.798254106Z",
+  "model": "glm-5.3"
+}

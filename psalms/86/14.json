@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 86,
+  "translation": "O Elohim, mga mayabang ang bumangon laban sa akin, at ang kapisanan ng mga marahas ay naghanap ng aking buhay, at hindi ka nila inilagay sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mga mayabang"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "at ang kapisanan"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ng mga marahas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "naghanap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking buhay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ka nila inilagay"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "sa harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:26.208258393Z",
+  "model": "glm-5.3"
+}

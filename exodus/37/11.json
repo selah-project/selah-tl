@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At binihisan niya ito ng ⟨את⟩ dalisay na ginto, at gumawa siya para rito ng gintong korona sa paligid.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "At binihisan niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at gumawa siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para rito"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:42:22.102687532Z",
+  "model": "glm-5.3"
+}

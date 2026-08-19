@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Hayaang habulin ng kaaway ang aking buhay, at makahabol, at yurakan sa lupa ang aking pagiging-buhay, at ang aking kaluwalhatian ay ipatira sa alabok. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "habulin"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking buhay"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "at makahabol"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "at yumurak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "aking pagiging-buhay"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "at ang aking kaluwalhatian"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa alabok"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ipatira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:47.654416025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ang aking minamahal ay bumaba sa kaniyang halamanan, sa mga bed ng mabangong pabango, upang magpastol sa mga halamanan at umani ng mga liryo.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ang aking minamahal"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "sa kaniyang halamanan"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "sa mga bed"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ng mabangong pabango"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "upang magpastol"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "sa mga halamanan"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "at upang umani"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ng mga liryo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:37.330225712Z",
+  "model": "glm-5.3"
+}

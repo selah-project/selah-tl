@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Gawin Mong mabuti ayon sa Iyong kalooban ang ⟨את⟩ Tsiyon; itatayo Mo ang mga pader ng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Gawin Mong mabuti"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ayon sa Iyong kalooban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "itatayo Mo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:08.900531635Z",
+  "model": "glm-5.3"
+}

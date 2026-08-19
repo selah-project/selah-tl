@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "At iniangat mo ang aking sungay na ⟨katulad ng⟩ sa mga mailap na toro; ako'y pinahiran ng sariwang langis.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "at iniangat mo"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "katulad ng mga mailap na toro"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ang aking sungay"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "pinahiran"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ng langis"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "sariwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:38.165445765Z",
+  "model": "glm-5.3"
+}

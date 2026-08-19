@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At mula sa iyong binhi ay huwag kang magbibigay na ipapadaan sa ⟨si⟩ Molech, at huwag mong lilinangin ang ⟨את⟩ pangalan ng iyong Elohim — ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "At mula sa iyong binhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kang magbibigay"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "na ipapadaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa Molech"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "mong lilinangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ng iyong Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:06.852780698Z",
+  "model": "glm-5.3"
+}

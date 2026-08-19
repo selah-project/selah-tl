@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Ang bayan mo ay mga handog na kusang-loob sa araw ng lakas mo, sa mga ganda ng kabanalan; mula sa sinapupunan, mula sa bukang-liwayway, sa iyo ang hamog ng pagkabata mo.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ang bayan mo"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "mga handog na kusang-loob"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ng lakas mo"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "sa mga ganda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ng kabanalan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mula sa sinapupunan"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "mula sa bukang-liwayway"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "hamog"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ng pagkabata mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:29.005018572Z",
+  "model": "glm-5.3"
+}

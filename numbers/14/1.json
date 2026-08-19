@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At binangon ng buong kongregasyon ⟨ang⟩ kanilang tinig, at umiyak ang bayan sa gabing yaon.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "at binangon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kongregasyon"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "at naglabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang tinig"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "kanilang tinig"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "at umiyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:08:20.215756049Z",
+  "model": "glm-5.3"
+}

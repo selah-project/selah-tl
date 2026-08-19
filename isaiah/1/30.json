@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat magiging parang dubla kayo na nalalanta ang dahon, at parang halamanang walang tubig ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "magiging kayo"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "parang dubla"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "nalalanta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ang dahon"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "at parang halamanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya\/ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:45.353165687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ganito ang sasabihin mo sa propeta: Ano ang sinagot sa iyo ni Yahweh, at ano ang sinalita ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ganito"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sasabihin mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨ang⟩ propeta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ang sinagot sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "at ano"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang sinalita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:25:23.605208015Z",
+  "model": "glm-5.3"
+}

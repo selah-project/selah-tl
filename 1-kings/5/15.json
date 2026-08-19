@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At nagpadala si Hiram, hari ng Tsor, ng ⟨את⟩ kaniyang mga alipin kay Shelomoh, sapagkat narinig niyang ⟨siya⟩ ang ⟨את⟩ pinaharian nila bilang hari sa halip ng kaniyang ama, sapagkat si Hiram ay naging kaibigan ni David sa lahat ng mga araw.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "At nagpadala"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ng Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga alipin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kaniyang mga alipin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narinig niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "pinaharian nila"
+    },
+    {
+      "surface": "משחu",
+      "gloss": "pinaharian nila"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bilang hari"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kaibigan\/umatang-alo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ng mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:22.227219784Z",
+  "model": "glm-5.3"
+}

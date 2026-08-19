@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat mga dayuhan ang bumangon laban sa akin, at mga marahas ang naghahanap sa aking buhay; hindi nila inilagay ang Elohim sa harap nila. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bumangon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "at mga marahas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa aking buhay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nila inilagay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "sa harap nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:27.068262859Z",
+  "model": "glm-5.3"
+}

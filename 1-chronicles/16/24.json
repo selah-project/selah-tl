@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ikwento ninyo sa mga bansa ang ⟨את⟩ kanyang kaluwalhatian, sa lahat ng mga mamamayan ang kanyang mga kamangha-manghang gawa.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ikwento ninyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang kaluwalhatian"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang kanyang kaluwalhatian"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga mamamayan"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ang kanyang mga kamangha-manghang gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:31.973263813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Mabuti si Yahweh sa ⟨lahat⟩, at ang kanyang mga awa ay nasa ibabaw ng lahat ng kanyang mga gawa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mabuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa ⟨lahat⟩"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "at ang kanyang mga awa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kanyang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.961691210Z",
+  "model": "glm-5.3"
+}

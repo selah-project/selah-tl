@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Idaragdag pa ni Yahweh sa inyo — sa inyo at sa inyong mga anak.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "idaragdag pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "inyong mga anak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:02.878921547Z",
+  "model": "glm-5.3"
+}

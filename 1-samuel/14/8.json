@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sinabi ni Yonatan: Narito, tayo'y lalusong sa ⟨the⟩ mga lalaking iyon, at magpapakita tayo sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "tayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "lalusong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaking iyon"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "at magpapakita tayo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:03:05.977229038Z",
+  "model": "glm-5.3"
+}

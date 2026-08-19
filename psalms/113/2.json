@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 113,
+  "translation": "Magiging pinagpala ang pangalan ni Yahweh, mula ngayon at magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "pinagpala"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mula ngayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:35.162504603Z",
+  "model": "glm-5.3"
+}

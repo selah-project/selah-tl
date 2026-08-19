@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Si Elohim ang nakauunawa sa daan nito, at siya ang nakakakilala sa ⟨את⟩ pinanggagalingan nito.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nakauunawa"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "sa daan nito"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakakilala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pinanggagalingan nito"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "sa ⟨את⟩ pinanggagalingan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:51:27.979508645Z",
+  "model": "glm-5.3"
+}

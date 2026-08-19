@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang ⟨את⟩ bukid ng bayan at ang ⟨את⟩ mga bakuran nito ay ibinigay nila kay Kalev na anak ni Yefuneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "bukid"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ibinigay nila"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kay Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:41.813976173Z",
+  "model": "glm-5.3"
+}

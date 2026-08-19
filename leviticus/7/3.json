@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang ⟨את⟩ buong taba nito ay iaalok mula rito: ang ⟨את⟩ buntot-tab at ang ⟨את⟩ taba na tumatakip sa ⟨את⟩ tiyan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ang ⟨את⟩",
+      "marks": "buong taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "taba nito"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ay iaalok"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula rito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buntot-tab"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "buntot-tab (alya)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "na tumatakip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sa tiyan (mga lamang-loob)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:30.888721107Z",
+  "model": "glm-5.3"
+}

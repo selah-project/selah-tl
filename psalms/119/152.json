@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Noong una, nalaman ko mula sa iyong mga patotoo na nagtatatag mo sa mga ito magpakailanman.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "Noong una"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nalaman ko"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "mula sa iyong mga patotoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nagtatatag mo sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:17.518314133Z",
+  "model": "glm-5.3"
+}

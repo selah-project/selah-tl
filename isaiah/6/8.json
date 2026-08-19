@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At narinig ko ang ⟨את⟩ tinig ni Adonai na nagsasabi, Sino ang ⟨את⟩ ipadala ko, at sino ang magpunta para sa amin? At sinabi ko, Nandito ako, ipadala mo ako.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "at narinig ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinig ni Adonai"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ang ipadala ko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "magpunta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "para sa amin"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at sinabi ko"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nandito ako"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ipadala mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:25.987447711Z",
+  "model": "glm-5.3"
+}

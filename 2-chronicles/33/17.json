@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Gayon man, ang bayan ay naghahain pa rin sa mga mataas na lugar, ngunit kay Yahweh lamang, sa kanilang Elohim.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Gayon man"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa rin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "naghahain (ng hain)"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga mataas na lugar"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngunit lamang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa kanilang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:36.560314991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Tulad sa kaibigan, tulad sa kapatid sa akin, nagpatuyo-lakad ako; tulad sa namumula sa ina, nagdalamhati ako, yumuko ako.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "tulad sa kaibigan"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "tulad sa kapatid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nagpatuyo-lakad ako"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "tulad sa namumula"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa ina"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagdalamhati"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "yumuko ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.891460393Z",
+  "model": "glm-5.3"
+}

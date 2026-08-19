@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At inilagay niya ⟨את⟩ mga ito sa mga balikat ng ephod — mga batong pang-alaala para sa mga anak ni Yisra'el — kung paanong iniutos ni Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "At inilagay niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga ito (ang mga bato)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mga balikat"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ng ephod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga batong"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pang-alaala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:40.147559429Z",
+  "model": "glm-5.3"
+}

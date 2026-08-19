@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At nagsalita si Shechem sa ama niya at sa mga kapatid niya na babae: Hanapin ko biyaya sa mga mata ninyo, at ang anumang sabihin ninyo sa akin ay ibibigay ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsalita"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "si Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa\/kay"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ama niya (ni Dinah)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mga kapatid niya"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mahanap ko"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya\/lingap"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "sa mga mata ninyo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at ang na"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sabihin ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ibibigay ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:58.178775377Z",
+  "model": "glm-5.3"
+}

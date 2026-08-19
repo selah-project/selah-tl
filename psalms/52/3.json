@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Bakit ka nagmamalaki sa kasamaan, o makapangyarihan? ⟨Ang⟩ kabutihang-loob ng El ⟨ay⟩ buong araw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ka nagmamalaki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "o makapangyarihan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kabutihang-loob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:44.490574696Z",
+  "model": "glm-5.3"
+}

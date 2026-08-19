@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At pina-lyo ni Yehoshua ang ⟨את⟩ Amalek at ang ⟨את⟩ kanyang bayan sa bibig ng tabak.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "at pina-lyo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanyang bayan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanyang bayan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa bibig ng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:33.572264883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Ngunit Ikaw ay Siya ⟨na iyan⟩, at ang mga taon Mo ay hindi matatapos.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit Ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "at mga taon Mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "matatapos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:30.763497574Z",
+  "model": "glm-5.3"
+}

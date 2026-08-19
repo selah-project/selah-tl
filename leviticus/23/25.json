@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Lahat ng gawa ng paglilingkod ay hindi ninyo gagawin, at maghahandog kayo ng alay na sunog kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "paglilingkod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "at maghahandog kayo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "alay na sunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:34.509689139Z",
+  "model": "glm-5.3"
+}

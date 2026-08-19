@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 114,
+  "translation": "Nang lumabas ang Israel sa Mitsrayim, ang bahay ni Yaakov mula sa bayang iba ang pananalita,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "nang lumabas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mula sa bayan"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "na iba ang pananalita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:05.953365972Z",
+  "model": "glm-5.3"
+}

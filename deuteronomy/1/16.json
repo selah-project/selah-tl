@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iniutos ko sa ⟨את⟩ inyong mga hukom noon ng panahong iyon, na nagsasabi: Makinig kayo sa mga alitan ng inyong mga kapatid, at hatulan ninyo nang may katarungan, sa pagitan ng isang tao at ng kanyang kapatid, at ng kanyang dayuhan.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "at iniutos ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga hukom"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "inyong mga hukom"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "noon ng"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "panahong iyon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "makinig kayo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa mga alitan ng"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong mga kapatid"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "at hatulan ninyo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nang may katarungan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang kapatid"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "kanyang dayuhan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.029231082Z",
+  "model": "glm-5.3"
+}

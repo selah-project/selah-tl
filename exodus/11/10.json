@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At si Moshe at si Aharon ay gumawa ng ⟨את⟩ lahat ng mga tandang ito sa harap ni Paroh; at pinalakas ni Yahweh ⟨את⟩ puso ni Paroh, at hindi niya pinayagan ang ⟨את⟩ mga anak ni Yisrael na umalis sa kanyang lupain.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "At si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga tandang ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "ng mga tanda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "At pinalakas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ni Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pinayagang umalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "mula sa kanyang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:33.453215046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Sapagkat ang aking mga pagsuokál ay nakikilala ko, at ang aking kasalanan ay nakaharap sa akin nang walang-tigil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang aking mga pagsuokál"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nakikilala ko"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "at ang aking kasalanan"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "nakaharap sa akin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nang walang-tigil"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:21.795751301Z",
+  "model": "glm-5.3"
+}

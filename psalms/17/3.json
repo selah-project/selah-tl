@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sinubok mo ang aking puso, dinalaw mo sa gabi, tinangi mo ako — wala kang matatagpuan; ang aking mga balak ay hindi lilipas ng aking bibig.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "sinubok mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "dinalaw mo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "tinangi mo ako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": " kang matatagpuan"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ang aking mga balak"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lilipas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ng aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:36.702221777Z",
+  "model": "glm-5.3"
+}

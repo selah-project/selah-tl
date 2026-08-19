@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Narito, si Yahweh ay nagpapakawala ng lupa at ⟨kinakata⟩ ito, at winawasak ang mga mukha nito, at nagkakalat ng mga naninirahan dito.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "nagpapakawala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "at kinakata"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "winawasak"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mga mukha nito"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "at nagkakalat"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mga naninirahan dito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:40.965818479Z",
+  "model": "glm-5.3"
+}

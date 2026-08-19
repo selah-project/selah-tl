@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "naghahanda ng kanyang tinapay sa tag-araw, nagtitipon ng kanyang pagkain sa ani.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "naghahanda"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa tag-araw"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "kanyang tinapay"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "nagtitipon"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ani"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "kanyang pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:45.045748316Z",
+  "model": "glm-5.3"
+}

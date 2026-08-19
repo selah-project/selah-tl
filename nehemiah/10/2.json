@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sa ⟨mga⟩ nakalagda: si Nechemyah ha-Tirshata, anak ni Chakalyah, at si Tsidkiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "mga nakalagda"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "ha-Tirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "at si Tsidkiyah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:17:11.428955324Z",
+  "model": "glm-5.3"
+}

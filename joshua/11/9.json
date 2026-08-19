@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ginawa ni Yehoshua sa kanila ayon sa sinabi sa kanya ni Yahweh: ang ⟨את⟩ kanilang mga kabayo ay pilayan, at ang ⟨את⟩ kanilang mga karwahe ay sinunog sa apoy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kabayo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kanilang mga kabayo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "pilayan (pagputol ng ugat ng paa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga karwahe"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "kanilang mga karwahe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sinunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:41:38.928387611Z",
+  "model": "glm-5.3"
+}

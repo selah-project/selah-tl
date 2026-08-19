@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Hindi ba ito nakaimbak ⟨sa akin⟩, nakaselyo sa aking mga baul?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "nakaimbak"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨sa akin⟩"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "nakaselyo"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "sa aking mga baul"
+    }
+  ],
+  "timestamp": "2026-08-19T19:42:09.988211455Z",
+  "model": "glm-5.3"
+}

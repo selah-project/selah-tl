@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sapagkat sa kasaganaan ng mga panaginip at ng mga kawalang-halaga at ng maraming salita — sapagkat katakutan mo ang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mga panaginip"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "at mga kawalang-halaga"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "at mga salita"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "marami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "katakutan mo (imperatibo)"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:13.154977089Z",
+  "model": "glm-5.3"
+}

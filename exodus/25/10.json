@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawa sila ng isang Kaban na gawa sa kahoy ng acacia: dalawang siko at kalahati ang haba nito, at isang siko at kalahati ang lapad nito, at isang siko at kalahati ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "At gagawa sila"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ng Kaban"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dalawang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang haba nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang lapad nito"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at isang siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "at kalahati"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.974974671Z",
+  "model": "glm-5.3"
+}

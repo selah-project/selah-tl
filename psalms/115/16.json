@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Ang mga langit — mga langit kay Yahweh, ngunit ang lupa ay ibinigay niya sa mga anak ng tao.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ngunit ang lupa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:02.879172147Z",
+  "model": "glm-5.3"
+}

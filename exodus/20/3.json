@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Huwag mong patayain ⟨na⟩ magkaroon ng mga ibang elohim sa harapan ko ⟨alinsunod sa aking pananaw⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mga iba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ko ⟨sa aking mukha⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:17.075359782Z",
+  "model": "glm-5.3"
+}

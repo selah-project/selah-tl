@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At nagpatuloy siya sa kanyang mga lakbay — mula sa Negev hanggang Bet-El, hanggang sa lugar na doon dati ang tolda niya sa pasimula, sa pagitan ng Bet-El at ng Ha-Ay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagpatuloy siya"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "sa kanyang mga lakbay"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mula sa Negev"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ang tolda niya"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "sa pasimula"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at ng"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:19.466669198Z",
+  "model": "glm-5.3"
+}

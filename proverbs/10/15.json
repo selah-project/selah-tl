@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang kayamanan ng mayaman ay siyang kanyang lungsod na kalakasan; ang kapahamakan ng mga dukha ay ang kanilang karalitaan.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ng mayaman"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "lungsod na"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kalakasan"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "kapahamakan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ng mga dukha"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "karalitaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:16.801504446Z",
+  "model": "glm-5.3"
+}

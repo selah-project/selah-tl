@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Kasamaan ang binubuo ng iyong dila, parang binatong navaja, gumagawa ng pandaraya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Kasamaan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ang binubuo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ng iyong dila"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "parang navaja"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "binatong"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ng pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:44.490737524Z",
+  "model": "glm-5.3"
+}

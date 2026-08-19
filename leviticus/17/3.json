@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Sinumang tao mula sa bahay ni Yisrael na magkatay ng baka o ng tupa o ng kambing, sa kampo, o magkatay sa labas ng kampo,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "sinumang tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(bawat) tao"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "magkatay"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "magkatay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ng kampo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:05.605259153Z",
+  "model": "glm-5.3"
+}

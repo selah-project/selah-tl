@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang mga anak ni Yoshiyahu: ang panganay na si Yochanan, ang pangalawa na si Yehoyakim, ang pangatlo na si Tsidkiyahu, ang pang-apat na si Shallum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ni Yoshiyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ang pangatlo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ang pang-apat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:35.832053792Z",
+  "model": "glm-5.3"
+}

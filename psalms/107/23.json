@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Ang mga bumababa sa dagat sa mga sasakyan, na gumagawa ng gawain sa malalaking tubig —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ang mga bumababa sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "sa mga sasakyan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "na gumagawa ng"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "malalaking tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:24.205289770Z",
+  "model": "glm-5.3"
+}

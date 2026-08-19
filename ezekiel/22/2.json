@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At ikaw, anak ng tao, huhukuman mo ba, huhukuman mo ba ang ⟨את⟩ lungsod ng mga dugo? At ipapaalam mo sa kaniya ang ⟨את⟩ lahat ng kaniyang karumaldumal.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "At ikaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "huhukuman mo ba"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "huhukuman mo ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lungsod ng mga dugo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ng mga dugo"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "At ipapaalam mo sa kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kaniyang karumaldumal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "kaniyang karumaldumal"
+    }
+  ],
+  "timestamp": "2026-08-19T17:45:48.519638522Z",
+  "model": "glm-5.3"
+}

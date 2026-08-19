@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sa pangunguna ng tagapag-ugnay, sa mga instrumentong may kwerdas; isang mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna ng tagapag-ugnay"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sa mga instrumentong may kwerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.354321281Z",
+  "model": "glm-5.3"
+}

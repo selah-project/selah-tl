@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At bumangon pagkatapos niya si Yair ang Gileadita, at hinatulan niya ang ⟨את⟩ Israel dalawampu't dalawang taon.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at bumangon"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkatapos niya"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ang Gileadita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "at hinatulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu't"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:03.420912982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Dinggin, Yahweh, at maawa ka sa akin; Yahweh, maging ikaw ang tumutulong sa akin.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dinggin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "at maawa ka sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "maging ikaw"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ang tumutulong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:22.516434554Z",
+  "model": "glm-5.3"
+}

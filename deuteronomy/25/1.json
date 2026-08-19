@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Kapag may hindi pagkakasundo sa pagitan ng mga tao at lumapit sila sa hukuman at hinatulan sila, ipinahayag na matuwid ang ⟨את⟩ matuwid at ipinahayag na makasalanan ang ⟨את⟩ makasalanan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "may"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "hindi pagkakasundo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "at lumapit sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukuman"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "at hinatulan sila"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ipinahayag na matuwid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matuwid"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ipinahayag na makasalanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang makasalanan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang makasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:09.742853492Z",
+  "model": "glm-5.3"
+}

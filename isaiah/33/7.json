@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Narito, ang kanilang mga bayaning sugo ay sumisigaw sa labas; ang mga tagapamagitan ng kapayapaan ay mapait na umiiyak.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "ang kanilang mga bayaning sugo"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "sumisigaw"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ang mga tagapamagitan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ng kapayapaan"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "na umiiyak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:24.373243046Z",
+  "model": "glm-5.3"
+}

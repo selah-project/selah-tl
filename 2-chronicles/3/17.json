@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At itinayo niya ang ⟨את⟩ mga haligi sa harap ng templo, isa sa kanan at isa sa kaliwa; at tinawag niya ang pangalan ng nasa kanan na Yakhin, at ang pangalan ng nasa kaliwa na Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap ng"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa kanan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "at isa"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sa kaliwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ng nasa kanan"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ng nasa kaliwa"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:02.705599046Z",
+  "model": "glm-5.3"
+}

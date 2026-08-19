@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Iwanan ang aking kahihiyang kinatatakutan ko, sapagkat mabubuti ang iyong mga hatol.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "iwanan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ang aking kahihiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "kinatatakutan ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang iyong mga hatol"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "mabubuti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:28.354684249Z",
+  "model": "glm-5.3"
+}

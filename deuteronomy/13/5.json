@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Kay Yahweh, sa inyong Elohim, susundin ninyo, at ⟨siya⟩ ay kinatatakutan ninyo, at ⟨ang⟩ kanyang mga utos ay iingatan ninyo, at sa kanyang tinig ay pawawakin ninyo, at ⟨siya⟩ ay paglilingkuran ninyo, at sa kanya ay kakapit kayo.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "susundin ninyo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ at ⟨siya⟩",
+      "marks": "kinatatakutan ninyo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kinatatakutan ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanyang mga utos"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kanyang mga utos"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "iingatan ninyo"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "at sa kanyang tinig"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "pawawakin ninyo"
+    },
+    {
+      "surface": "ו אתו",
+      "gloss": "⟨את⟩ at ⟨siya⟩",
+      "marks": "paglilingkuran ninyo"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "paglilingkuran ninyo"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "at sa kanya"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "kakapit kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:41:55.223165309Z",
+  "model": "glm-5.3"
+}

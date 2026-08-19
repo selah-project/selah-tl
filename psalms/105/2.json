@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Umawit kayo sa kanya, magtugtog kayo sa kanya, pag-isipan ang lahat ng kanyang mga kahanga-hanga.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Umawit kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magtugtog kayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "pag-isipan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kanyang mga kahanga-hanga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:02.851668240Z",
+  "model": "glm-5.3"
+}

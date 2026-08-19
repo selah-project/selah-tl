@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang hari na si Shelomoh ay umibig sa maraming babaeng dayuhan, at sa ⟨את⟩ anak ni Paroh: mga Moabita, Amonita, Edomita, Tsidonita, at Hita.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "At ang hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "umibig"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babae"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "marami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak ni Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "mga Moabita"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "mga Amonita"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "mga Edomita"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "mga Tsidonita"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "mga Hita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:48.177343100Z",
+  "model": "glm-5.3"
+}

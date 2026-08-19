@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Ang kabulaanan ay iniisip niya sa kanyang higaan; kanyang itinatayo ang kanyang sarili sa daang hindi mabuti; ang kasamaan ay hindi niya kinamumuhian.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kabulaanan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "iniisip niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kanyang higaan"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "kanyang itinatayo ang sarili"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "kinamumuhian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:04.657366158Z",
+  "model": "glm-5.3"
+}

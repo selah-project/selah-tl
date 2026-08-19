@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At si Izebel ay kakainin ng mga aso sa bakuran ng Yizreel, at walang maglilibing. At binuksan ng bata ang pinto at tumakas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "si Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ng mga aso"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "sa bakuran\/porsyon"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ng Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "maglilibing"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "at binuksan"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ang pinto"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "tumakas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:54.105184061Z",
+  "model": "glm-5.3"
+}

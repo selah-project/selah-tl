@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At inilapit ni Ehud ang ⟨את⟩ alay kay Eglon, hari ng Moab; at si Eglon ay lalaking napakataba.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "at inilapit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang alay"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "kay Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "at si Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaking"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "mataba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:29.959762196Z",
+  "model": "glm-5.3"
+}

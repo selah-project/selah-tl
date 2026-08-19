@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At maglilingkod kayo kay Yahweh, sa inyong Elohim, at pagpapalain niya ang ⟨את⟩ inyong tinapay at ang ⟨את⟩ inyong tubig; at aalisin ko ang sakit mula sa gitna ninyo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "at maglilingkod kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "at pagpapalain niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong tinapay"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "inyong tinapay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "inyong tubig"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "inyong tubig"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "at aalisin ko"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ang sakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "mula sa gitna ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:13.498439175Z",
+  "model": "glm-5.3"
+}

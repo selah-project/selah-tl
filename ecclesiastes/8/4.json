@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sa lugar ng salita ng hari, doon ang kapangyarihan; at sino ang makapagsasabi sa kanya, 'Ano ang ginagawa mo?'",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "sa lugar na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kapangyarihan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makapagsasabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ginagawa mo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:00.065773798Z",
+  "model": "glm-5.3"
+}

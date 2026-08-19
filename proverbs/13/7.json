@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "May nagpapakayaman ngunit wala kahit ano; may nagpapakadukha ngunit may sagana na kayamanan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "may"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "nagpapakayaman"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit wala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kahit ano"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "nagpapakadukha"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ngunit may kayamanan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sagana"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:09.767489491Z",
+  "model": "glm-5.3"
+}

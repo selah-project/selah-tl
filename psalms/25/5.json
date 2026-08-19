@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Patnubayán mo akó sa iyóng katotohanan at turuan mo akó, sapagkákit ikáw ang Elohim ng áking kaligtasan; ⟨את⟩ sa ⟨iyó⟩ akó nag-aabang buóng araw.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "patnubayán mo akó"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa iyóng katotohanan"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "at turuan mo akó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkákit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikáw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ng áking kaligtasan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sa ⟨iyó⟩",
+      "marks": "kinahihilíngan — tútukuyin ng pananabik: `sa iyó'"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nag-aabang akó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buóng"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:50.590218168Z",
+  "model": "glm-5.3"
+}

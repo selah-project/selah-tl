@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sinabi ni Akish sa kanyang mga alipin: Narito, nakikita ninyo ang lalaking nagwawala na parang baliw; bakit ninyo dala siya sa akin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "si Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga alipin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nakikita ninyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "nagwawala na parang baliw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ninyo dala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:21.095355182Z",
+  "model": "glm-5.3"
+}

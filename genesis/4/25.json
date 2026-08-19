@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At muli nakilala ni Adam ang ⟨את⟩ kanyang asawa, at siya'y nanganak ng lalaki, at tinawag niya ang ⟨את⟩ kanyang pangalan na Shet, sapagkat naglagay sa akin si Elohim ng ibang binhi sa halip na Hevel, sapagkat pinatay siya ni Kayin.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "at nakilala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "si Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "kanyang asawa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שת",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ibang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip na"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay siya"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:37.051842139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Ngayon, pumaroon ka, isulat mo ito sa ⟨את⟩ kanilang harap sa tablet at sa aklat ukitin ito; at magiging ⟨ito⟩ para sa araw ng huli, ⟨bilang⟩ saksi hanggang magpakailanman.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ngayon"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pumaroon ka"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "isulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang harap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "aklat"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ukitin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "para sa araw"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ng huli"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hanggang magpakailanman ⟨bilang⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:16.483259209Z",
+  "model": "glm-5.3"
+}

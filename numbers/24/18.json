@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At magiging mana ang Edom, at magiging mana ang Seir, ⟨na mga⟩ kaaway niya; ngunit ang Yisrael ay gagawa nang magiting.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "mana ang Edom"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ang Seir"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kaaway niya"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ngunit ang Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gagawa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nang magiting"
+    }
+  ],
+  "timestamp": "2026-08-19T15:14:29.004600468Z",
+  "model": "glm-5.3"
+}

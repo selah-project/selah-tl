@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At ito ang usapin ng pagpapawalang-bayad: magpawalang-bayad ang bawat may-ari ng utang sa inilutang kamay niya sa kapwa niya; hindi niya pipilitin ang ⟨את⟩ kapwa niya at ang ⟨את⟩ kapatid niya, sapagkat ipinahayag ang pagpapawalang-bayad para kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usapin"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "ng pagpapawalang-bayad"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "magpawalang-bayad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "may-ari"
+    },
+    {
+      "surface": "משה",
+      "gloss": "utang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kamay niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "inilutang"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sa kapwa niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "pipilitin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapwa niya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kapwa niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kapatid niya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kapatid niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ipinahayag"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "pagpapawalang-bayad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:27:49.728773013Z",
+  "model": "glm-5.3"
+}

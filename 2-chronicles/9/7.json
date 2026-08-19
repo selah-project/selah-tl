@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Pinapala ang iyong mga tao, at pinapala ang iyong mga lingkod na ito, na nakatayo sa harap mo palagi at nakikinig sa ⟨את⟩ iyong karunungan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pinapala"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ang iyong mga tao"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "at pinapala"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang iyong mga lingkod"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na nakatayo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "palagi"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "at nakikinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong karunungan"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "iyong karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:24.552546123Z",
+  "model": "glm-5.3"
+}

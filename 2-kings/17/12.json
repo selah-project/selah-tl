@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At naglingkod sila sa mga idolo, na hinggil dito ay sinabi ni Yahweh sa kanila, Huwag ninyong gawin ⟨את⟩ bagay na ito.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "mga idolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyong gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:47:34.846958909Z",
+  "model": "glm-5.3"
+}

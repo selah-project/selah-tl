@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Sapagkat hindi ang aking mga pagaari-isip ay inyong mga pagaari-isip, at hindi ang inyong mga lakad ay aking mga lakad, tutoo ang salita ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "aking-mga-pagaari-isip"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "inyong-mga-pagaari-isip"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at-hindi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "inyong-mga-lakad"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "aking-mga-lakad"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tutoo-ang-salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:42.017727147Z",
+  "model": "glm-5.3"
+}

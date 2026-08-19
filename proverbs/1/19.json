@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ganyan ang mga landas ng bawat sakim sa sakim: ⟨את⟩ buhay ng may-ari nito ay kukunin.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ganyan"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ang mga landas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng bawat"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sakim"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sa sakim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhay ng may-ari nito"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ng may-ari nito"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ay kukunin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:13.217192207Z",
+  "model": "glm-5.3"
+}

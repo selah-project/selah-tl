@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At humirang si Yonatan ng tipan kasama ng sambahayan ni David, na hingin nawa ni Yahweh mula sa kamay ng mga kaaway ni David.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "At humirang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sambahayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "hingin nawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ng mga kaaway"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:48.005032462Z",
+  "model": "glm-5.3"
+}

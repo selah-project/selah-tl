@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "at ⟨את⟩ mga Arvadeo, at ⟨את⟩ mga Zemareo, at ⟨את⟩ mga Hamateo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Arvadeo"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "mga Arvadeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Zemareo"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "mga Zemareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga Hamateo"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "mga Hamateo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:02.962717694Z",
+  "model": "glm-5.3"
+}

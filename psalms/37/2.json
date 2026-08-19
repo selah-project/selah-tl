@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Sapagkat gaya ng damo, madali silang putulin ⟨at⟩ lumanta na parang gulang berde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "gaya ng damo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "madali"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "silang putulin"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "parang gulang berde"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ng damo-sibol"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "lumanta"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:28.597605741Z",
+  "model": "glm-5.3"
+}

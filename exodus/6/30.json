@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ni Moshe sa harap ni Yahweh: Narito, ako ay may ⟨את⟩ hindi-tuli na mga labi, at paanong makikinig sa akin si Paraoh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "hindi-tuli"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "na mga labi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "at paanong"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "makikinig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paraoh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:30.340375547Z",
+  "model": "glm-5.3"
+}

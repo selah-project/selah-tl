@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At kasamaan ⟨ang⟩ ginawa niya sa mga mata ni Yahweh, at pinatay Niya ⟨siya⟩ rin.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "at kasamaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at pinatay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Onan)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:37.326058558Z",
+  "model": "glm-5.3"
+}

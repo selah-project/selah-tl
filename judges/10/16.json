@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At inalis nila ⟨את⟩ mga elohim ng ibang bansa mula sa kanilang gitna, at naglingkod kay ⟨את⟩ Yahweh; at napungas ang kanyang buhay-hininga sa kahirapan ni Israel.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "at inalis nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga elohim ng ibang bansa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga elohim ng"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ibang bansa"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "mula sa kanilang gitna"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "at naglingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "at napungas"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang buhay-hininga"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "sa kahirapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:01.396823534Z",
+  "model": "glm-5.3"
+}

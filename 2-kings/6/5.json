@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Nangyari, habang ang isa ay nagpapatibag ng biga, ang ⟨את⟩ bakal ay nahulog sa tubig; at sumigaw siya at nagsabi: Aba, aking panginoon! At ⟨ito⟩ ay hiniram!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nangyari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "nagpapatibag"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "ng biga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bakal"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang bakal"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "sumigaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aking panginoon"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "hiniram"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:04.656241669Z",
+  "model": "glm-5.3"
+}

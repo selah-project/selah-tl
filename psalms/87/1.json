@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 87,
+  "translation": "Sa mga anak ni Korach, mizmor, isang awit. Ang kanyang pundasyon ay nasa mga banal na bundok.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "isang awit"
+    },
+    {
+      "surface": "יסוסדתו",
+      "gloss": "ang kanyang pundasyon"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "nasa mga bundok ng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadungan\/banal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:37.187161938Z",
+  "model": "glm-5.3"
+}

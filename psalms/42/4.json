@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Naging tinapay sa akin ang aking luha maghapon at magdamag, sa kanilang pagsasabi sa akin buong araw: Nasaan ang iyong Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Naging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ang aking luha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maghapon"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at magdamag"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "sa pagsasabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Nasaan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:20.850725874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Sa araw, uutusan ni Yahweh ang ⟨את⟩ kanyang kagandahang-loob, at sa gabi, ang kanyang awit ay kasama ko — panalangin sa El ng aking buhay.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "uutusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kanyang kagandahang-loob"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "at sa gabi"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kasama ko"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ng aking buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:08.812779165Z",
+  "model": "glm-5.3"
+}

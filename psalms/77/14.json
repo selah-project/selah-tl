@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "O Elohim, sa kabanalan ⟨ang⟩ iyong lakad; sino ang El na dakila na gaya ng Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa kabanalan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "iyong lakad"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "na gaya ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:45.146111134Z",
+  "model": "glm-5.3"
+}

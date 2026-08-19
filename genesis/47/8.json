@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "At sinabi ni Paroh kay Yaakov: Ilang mga araw ng mga taon ng iyong buhay?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Ilang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ng mga taon"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ng iyong buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:24.351576161Z",
+  "model": "glm-5.3"
+}

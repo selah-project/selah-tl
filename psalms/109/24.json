@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Ang aking mga tuhod ⟨ay⟩ nanghina dahil sa pag-aayuno, at ang aking laman ay humupas ng taba.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "aking mga tuhod"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "dahil sa pag-aayuno"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "at aking laman"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "humupas"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ng taba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:50.960040251Z",
+  "model": "glm-5.3"
+}

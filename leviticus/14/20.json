@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At iaangat sa dambana ng kohen ang ⟨את⟩ handog na susunugin at ang ⟨את⟩ handog na harina, at magbabayad-sala sa kaniya ang kohen, at magiging malinis siya.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "at iaangat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na susunugin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "handog na harina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "handog na harina"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "at magbabayad-sala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "para sa kaniya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "at magiging malinis siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:41.226239888Z",
+  "model": "glm-5.3"
+}

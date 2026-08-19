@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Sa araw na yaon, magiging-kariktan at kaluwalhatian ang Sanga ni Yahweh, at ang bunga ng ⟨ang⟩ lupa ay magiging-kagitingan at karangalan para sa mga nakaligtas ng Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Sanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "kariktan"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "at kaluwalhatian"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "at bunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "kagitingan"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "mga nakaligtas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:05.512523539Z",
+  "model": "glm-5.3"
+}

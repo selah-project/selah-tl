@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang manna ay parang binhi ng kulantro ⟨ito⟩, at ang anyo nito ay parang anyo ng bdolyum.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "at ang manna"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "parang binhi ng"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kulantro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "at ang anyo nito"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "parang anyo ng"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdolyum"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:50.920888357Z",
+  "model": "glm-5.3"
+}

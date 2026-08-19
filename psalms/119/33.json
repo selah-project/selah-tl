@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ituro mo sa akin, O Yahweh, ang ⟨את⟩ daan ng iyong mga batas, at ingatan ko ito hanggang wakas.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ituro mo sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iyong mga batas"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "at ingatan ko ito"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hanggang wakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:32.367558189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 52,
+  "translation": "Datapuwa't ako'y gaya ng berdeng puno ng olibo sa bahay ni Elohim: nagtiwala ako sa kabutihang-loob ni Elohim magpakailanman at walang hanggan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Datapuwa't ako"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "gaya ng puno ng olibo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "berde\/luntian"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagtiwala ako"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "sa kabutihang-loob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:31.306307406Z",
+  "model": "glm-5.3"
+}

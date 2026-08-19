@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "At kinaluguran ni Yahweh na siya'y durugin, pinasakit niya; kung kanyang ilalagay ang kanyang buhay bilang handog-kasalanan, makikita niya ang binhi, pahahabain niya ang mga araw, at ang kalooban ni Yahweh ay uunlad sa kanyang kamay.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kinaluguran"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "na siya'y durugin"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "pinasakit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "kanyang ilalagay"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "handog-kasalanan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanyang buhay"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makikita"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "pahahabain"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "at ang kalooban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "uunlad"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:53.603940671Z",
+  "model": "glm-5.3"
+}

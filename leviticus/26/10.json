@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Kakain kayo ng luma na matagal nang nakaimbak, at sasapusan ng luma dahil sa bago.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "kakain kayo"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "luma"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "matagal nang nakaimbak"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ang luma"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa \/ sa harap ng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bago"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "sasapusan ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:42.788738348Z",
+  "model": "glm-5.3"
+}

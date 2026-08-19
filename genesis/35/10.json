@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At sinabi ni Elohim sa kanya: Yaakov ang pangalan mo; hindi na tatawaging Yaakov ang pangalan mo, kundi Yisrael ang magiging pangalan mo. At tinawag niya ⟨את⟩ ang kanyang pangalan na Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang pangalan mo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tatawagin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang pangalan mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na (muli)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(kung hindi)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang pangalan mo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang pangalan (שמו)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang kanyang pangalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:53.729346588Z",
+  "model": "glm-5.3"
+}

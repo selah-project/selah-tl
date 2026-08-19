@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 8:19",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ang mga naiwasak ay tumindig agad mula sa kanilang kinatatwaan, at sila'y tumakbo sa pagkaunat ng kanyang kamay, at pumasok sila sa lungsod at binihag nila ito, at nagmadali sila at sinindihan nila ang ⟨את⟩ lungsod ng apoy.",
+  "tokens": [
+    {
+      "surface": "והאורב",
+      "gloss": "at ang mga naiwasak"
+    },
+    {
+      "surface": "קם",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "agad"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "mula sa kanilang kinatatwaan"
+    },
+    {
+      "surface": "וירוצו",
+      "gloss": "at tumakbo sila"
+    },
+    {
+      "surface": "כנטות",
+      "gloss": "sa pagkaunat ng"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kanyang kamay"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at pumasok sila sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "וילכדוה",
+      "gloss": "at binihag nila ito"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "at nagmadali sila"
+    },
+    {
+      "surface": "ויציתו",
+      "gloss": "at sinindihan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lungsod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang lungsod"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ng apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T15:39:35.294389303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At naging mga araw ni Adam pagkatapos ipanganak ang ⟨את⟩ Shet ay walong daang taon, at nagkaanak ng mga anak na lalaki at babae.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "At naging"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ipanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walong"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak na lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "at babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:01.320562576Z",
+  "model": "glm-5.3"
+}

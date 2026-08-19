@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ng hari sa kaniya: Ano ang problema mo? At sinabi ng babae, Ito: Nagsabi ang babaeng ito sa akin, Ibigay mo ang ⟨את⟩ anak mo at kakainin natin siya ngayong araw, at ang ⟨את⟩ anak ko naman ay kakainin bukas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang problema mo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ng babae"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak mo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak mo"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "at kakainin natin siya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "anak ko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kakainin natin"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bukas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:03.923426871Z",
+  "model": "glm-5.3"
+}

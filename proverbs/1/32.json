@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat ang pagtalikod ng mga mangmang ay papatay sa kanila, at ang kapayapaan ng mga hangal ay magpapahamak sa kanila",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ang pagtalikod"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ng mga mangmang"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "papatay sa kanila"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "at ang kaluwagan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ng mga hangal"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "magpapahamak sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:13.621936865Z",
+  "model": "glm-5.3"
+}

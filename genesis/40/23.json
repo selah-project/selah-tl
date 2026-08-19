@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At hindi naalala ng puno ng mga tagapag-inom si ⟨את⟩ Yosef, at nakalimutan niya siya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naalala"
+    },
+    {
+      "surface": "שר",
+      "gloss": "puno"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ng mga tagapag-inom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "at nakalimutan niya siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:46.225207103Z",
+  "model": "glm-5.3"
+}

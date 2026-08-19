@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 25:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Kapag magkakasamang tumitira ang mga kapatid at mamatay ang isa sa kanila at walang anak ito, hindi magiging sa labas ang asawa ng namatay, sa lalaking dayuhan; ang kanyang bayaw ay papasok ⟨sa kanya⟩ at kukunin niya ⟨siya⟩ na asawa, at isasagawa niya ang tungkulin ng bayaw sa kanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tumitira"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "mga kapatid"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkakasama"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at mamatay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "at anak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa ng"
+    },
+    {
+      "surface": "המת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaking"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "יבמה",
+      "gloss": "kanyang bayaw"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "at kukunin siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na asawa"
+    },
+    {
+      "surface": "ויבמה",
+      "gloss": "at isasagawa ang tungkulin ng bayaw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:04.442415450Z",
+  "model": "glm-5.3"
+}

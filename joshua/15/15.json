@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At umakyat siya doon laban sa mga naninirahan sa Devir; at ang pangalan ng Devir noong una ay Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "umakyat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ng Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "noong una"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-19T15:42:50.003827456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Mula sa lahat ng aking mga pagsukoil, iligtas mo ako; huwag mo akong gawing kahihiyan ng hangal.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "aking mga pagsukoil"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ng hangal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mo akong gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:42.376824122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Yehoshua: Sa pamamagitan nito ay makikilala ninyo na si El na buhay ay nasa gitna ninyo, at walang pasubali na papalayasin Niya mula sa harapan ninyo ang ⟨את⟩ Kenaani, at ang ⟨את⟩ Chiti, at ang ⟨את⟩ Chivi, at ang ⟨את⟩ Perizzi, at ang ⟨את⟩ Girgashi, at ang Emori, at ang Yevusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "sa pamamagitan nito"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "makikilala ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "nasa gitna ninyo"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "at papalayasin Niya nang walang pasubali"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "walang pasubali"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mula sa harapan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Chiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Chiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Chivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Chivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Perizzi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ang Perizzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ang Girgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "at ang Emori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "at ang Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:50.455569856Z",
+  "model": "glm-5.3"
+}

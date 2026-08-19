@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "ang bukid na binili ni Avraham mula ⟨את⟩ mga anak ni Het; doon inilibing si Avraham at si Sarah na asawa niya.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "binili"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mula ⟨את⟩",
+      "marks": "mga anak ni Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "inilibing"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "at si Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:20.940520299Z",
+  "model": "glm-5.3"
+}

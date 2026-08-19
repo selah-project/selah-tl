@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Sumapit nawa ang kawalan sa kanila; bumaba silang buhay pa sa Sheol, sapagkat kasamaan ay nasa kanilang tahanan, sa gitna nila.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "kawalan"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bumaba sila"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "sa kanilang tahanan"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "sa gitna nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:21.020136761Z",
+  "model": "glm-5.3"
+}

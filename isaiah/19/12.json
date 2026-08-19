@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Nasaan nga ang iyong mga marurunong? At ipahayag nila nga ngayon sa iyo, at malaman nila ang itinakda ni Yahweh ng mga hukbo laban sa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nga \/ ngayon"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ang iyong mga marurunong"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "at ipahayag nila"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "at malaman nila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "itinakda \/ ipinayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa \/ tungkol sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:09.829578231Z",
+  "model": "glm-5.3"
+}

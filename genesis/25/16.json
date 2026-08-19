@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ito ang mga anak ni Yishmael, at ito ang kanilang mga pangalan, ayon sa kanilang mga-bayan at ayon sa kanilang mga-kuta: labindalawang pangulo ayon sa kanilang mga bansa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sila⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "kanilang mga pangalan"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ayon sa kanilang mga-bayan"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "at ayon sa kanilang mga-kuta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "labin-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "ayon sa kanilang mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:09.439817119Z",
+  "model": "glm-5.3"
+}

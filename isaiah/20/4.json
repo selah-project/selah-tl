@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "gayon ang papatnubayin ng hari ng Ashur — ang ⟨את⟩ bihag ng Mitzrayim at ang ⟨את⟩ pagkatapon ng Kush, mga batang lalaki at matatanda, na hubad at nakapaa, na nakahubad ng puwit — kahubaran ng Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ang papatnubayin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bihag ng Mitzrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "bihag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "pagkatapon ng Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pagkatapon"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ng Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batang lalaki"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "at matatanda"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "na hubad"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "at nakapaa"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "na nakahubad ng"
+    },
+    {
+      "surface": "שת",
+      "gloss": "puwit"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubaran"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:45.437572908Z",
+  "model": "glm-5.3"
+}

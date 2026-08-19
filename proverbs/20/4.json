@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Dahil sa taglamig ang tamad ay hindi mag-aararo; manghihingi siya sa anihan ngunit walang anuman.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "dahil sa taglamig"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ang tamad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mag-aararo"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "manghihingi"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa anihan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang anuman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:40.013092552Z",
+  "model": "glm-5.3"
+}

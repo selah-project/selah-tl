@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang taba ng bangkay, at ang taba ng hinila ng mababangis na hayop, ay magagamit sa anumang gawain; ngunit kainin — huwag ninyo itong kakainin.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "At ang taba ng"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkay"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "at ang taba ng"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "hinila ng mababangis na hayop"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "magagamit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa anumang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ngunit kainin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ninyo itong kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:10.737247530Z",
+  "model": "glm-5.3"
+}

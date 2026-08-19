@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Ituturo ko sa mga sumasalansang ang iyong mga lakad, at ang mga makasalanan ay babalik sa iyo.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ituturo ko"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "sa mga sumasalansang"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iyong mga lakad"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "at ang mga makasalanan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "babalik"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:17.822378062Z",
+  "model": "glm-5.3"
+}

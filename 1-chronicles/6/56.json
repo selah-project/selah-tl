@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-chronicles 6:56",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa mga anak ni Gershom, mula sa angkan ng kalahati ng tribo ni Menashe: ang ⟨את⟩ Golan sa Bashan at ang ⟨את⟩ mga bakuran nito, at ang ⟨את⟩ Ashtarot at ang ⟨את⟩ mga bakuran nito",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Sa mga anak"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ni Gershom"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "mula sa angkan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ng kalahati"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ng tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ at ang",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mga bakuran nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:34.402061581Z",
+  "model": "glm-5.3"
+}

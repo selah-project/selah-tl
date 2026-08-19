@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Gayon man, sa mga araw na yaon, neum ni Yahweh, hindi ko gagawin ⟨את⟩ sa inyo ang paglipol.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gayon man"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gagawin ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "inyo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ang paglipol"
+    }
+  ],
+  "timestamp": "2026-08-19T17:17:25.303448932Z",
+  "model": "glm-5.3"
+}

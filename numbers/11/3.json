@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At tinawag niya ang pangalan ng lugar na iyon na Tav'erah, sapagkat sumiklab sa kanila ang apoy ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ng lugar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tav'erah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "sumiklab"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T15:06:52.503054301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At hinatulan ni Shemuel ang ⟨את⟩ Israel sa buong mga araw ng buhay niya.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "at hinatulan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ng buhay niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:29.969215120Z",
+  "model": "glm-5.3"
+}

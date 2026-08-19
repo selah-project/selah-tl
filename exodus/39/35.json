@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "⟨את⟩ Kaban ng Patotoo at ⟨את⟩ mga pinggil nito, at ⟨את⟩ luklukan ng kapayapaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaban ng Patotoo"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Kaban"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng Patotoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pinggil nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mga pinggil nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "luklukan ng kapayapaan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "luklukan ng kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:33.512326695Z",
+  "model": "glm-5.3"
+}

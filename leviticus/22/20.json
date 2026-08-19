@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "ang bawat may sa kanya kapintasan, ay huwag ninyong ilapit, sapagkat hindi para sa pagtanggap ⟨ito⟩ magiging sa inyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kapintasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay huwag"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ninyong ilapit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "para sa pagtanggap"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:16.226532218Z",
+  "model": "glm-5.3"
+}

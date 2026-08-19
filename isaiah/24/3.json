@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Lalantang na lantangin ang lupa, at lubos na masasamsam; sapagkat si Yahweh ang nagsalita ng ⟨את⟩ salitang ito.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "lalantang"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "na lantangin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "at lubos na"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "masasamsam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salitang ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itó"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:40.966195030Z",
+  "model": "glm-5.3"
+}

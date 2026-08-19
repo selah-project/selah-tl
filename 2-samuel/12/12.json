@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sapagkat ikaw ay gumawa sa lihim, ngunit ako'y gagawa ng ⟨את⟩ bagay na ito sa harap ng buong Yisrael at sa harap ng araw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ay gumawa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa lihim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngunit ako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ay gagawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay na ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:54.686352246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "At iniwan ng mga sandatahan ang ⟨את⟩ mga bihag at ang ⟨את⟩ samsam sa harapan ng mga pangulo at ng buong kapisanan.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "at iniwan"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "mga sandatahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bihag"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "mga bihag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "samsam"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ng"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ng buong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kapisanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:34:51.554525422Z",
+  "model": "glm-5.3"
+}

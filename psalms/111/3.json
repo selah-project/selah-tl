@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 111,
+  "translation": "Kagitingan at karangalan ang kanyang gawa, at ang kanyang katuwiran ay ⟨namatay⟩ nang walang hanggan.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Kagitingan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ang kanyang gawa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "at ang kanyang katuwiran"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨namatay⟩ nang"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:23.668286624Z",
+  "model": "glm-5.3"
+}

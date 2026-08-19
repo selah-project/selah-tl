@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Anak ko, ang aking toro huwag mong kalimutan, at ang aking mga utos ingatan ng iyong puso.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ang aking toro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimutan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "at ang aking mga utos"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ng iyong puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:22.901166906Z",
+  "model": "glm-5.3"
+}

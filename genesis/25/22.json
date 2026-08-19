@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nagbungguan ang mga anak sa loob niya, at nagsabi siya: Kung gayon, bakit ako ito? At siya'y yumaong magtanong ⟨את⟩ kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "nagbungguan"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa loob niya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "at siya'y yumaon"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "magtanong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:09.528819495Z",
+  "model": "glm-5.3"
+}

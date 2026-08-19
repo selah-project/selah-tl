@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At sasaktin ko ang ⟨את⟩ mga naninirahan sa lunsod na ito, ⟨את⟩ ang tao at ⟨את⟩ ang hayop; sa salot na dakila ay mamamatay sila.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "at sasaktin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan sa lunsod"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga naninirahan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa lunsod"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang hayop"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang hayop"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa salot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "na dakila"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mamamatay sila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:23.309981865Z",
+  "model": "glm-5.3"
+}

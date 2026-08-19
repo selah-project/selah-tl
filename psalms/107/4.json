@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Nagala sila sa ilang, sa kalatiang tirahan ng daan; lungsod na tahanan ay hindi nakita nila.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Nagala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa kalatian"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ng daan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nakita nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.069576661Z",
+  "model": "glm-5.3"
+}

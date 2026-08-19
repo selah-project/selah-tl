@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sa Panguluhan ng mga mang-aawit, sa tugtugin ng Gittith, isang mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa Panguluhan ng mga mang-aawit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "tugtugin ng Gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:46.759753629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagsabi ang kapatid niya na babae sa anak ni Paroh: Ako ba'y pupunta at tatawagin ko para sa iyo ng isang babaeng nagpapasuso mula sa mga Hebreo, at pasusuhin niya para sa iyo ang ⟨את⟩ bata?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ang kapatid niya na babae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ako ba'y pupunta"
+    },
+    {
+      "surface": "ויקראתי לך אשה מינקת מן העברית",
+      "gloss": "at tatawagin ko para sa iyo ng babaeng nagpapasuso mula sa mga Hebreo"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "at pasusuhin niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.106631597Z",
+  "model": "glm-5.3"
+}

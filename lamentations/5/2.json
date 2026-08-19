@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ang ating pamana ay naiiba sa mga dayuhan, ang ating mga bahay sa mga taga-ibang bansa.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ating pamana"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "naiiba"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "sa mga dayuhan"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ating mga bahay"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "sa mga taga-ibang bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:40.852566659Z",
+  "model": "glm-5.3"
+}

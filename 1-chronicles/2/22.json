@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Segub ay nagkaanak ng ⟨את⟩ Yair; at naging sa kaniya ang dalawampu't tatlong lungsod sa lupain ng Gilad.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "at si Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "si Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu't"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ng Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:00.458764711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At nagpatuloy pa silang magkasala laban ⟨kay⟩ Yahweh, sa paghihimagsik laban sa Elyon sa kalatihan.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "nagpatuloy pa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "magkasala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "laban ⟨kay⟩ niya"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "sa paghihimagsik"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "sa kalatihan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.373322634Z",
+  "model": "glm-5.3"
+}

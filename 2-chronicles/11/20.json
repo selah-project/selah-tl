@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At pagkatapos niya ay kinuha niya ang ⟨את⟩ Maachah na anak na babae ni Avshalom, at nanganak siya sa kanya: ⟨את⟩ si Aviyah, ⟨את⟩ si Attay, ⟨את⟩ si Ziza, at ⟨את⟩ si Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "at pagkatapos niya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Maachah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maachah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak na babae"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:49.927752627Z",
+  "model": "glm-5.3"
+}

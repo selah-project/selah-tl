@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Kumapit sa alabok ang aking kaluluwa; buhayin mo ako ayon sa iyong salita.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kumapit"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa alabok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "buhayin mo ako"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ayon sa iyong salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:25.312198531Z",
+  "model": "glm-5.3"
+}

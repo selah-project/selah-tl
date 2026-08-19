@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Nagpadala siya sa kanila ng poot ng kanyang ilong — pangamba at galit at kagipitan — isang pagsusugo ng mga mensahero ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "poot"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ng kanyang ilong"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "pangamba"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "at galit"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "at kagipitan"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "isang pagsusugo"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ng mga mensahero"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:20.416367635Z",
+  "model": "glm-5.3"
+}

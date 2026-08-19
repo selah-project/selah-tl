@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At ang pangako ng biyuda at ng itinaboy, bawat bagay na kaniyang ikinatali sa kaniyang kaluluwa ay tatayo laban sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "at ang pangako"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ng biyuda"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "at ng itinaboy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ikinatali niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "kaniyang kaluluwa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ay tatayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "laban sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:17:06.140425241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At itinaas ko ang ⟨את⟩ aking mga mata at nakita ko, at narito, ⟨isang⟩ lalaking nabihisan ng mga kasuotang lino, at ang kanyang mga balakang ay bigkisan ng ginto ng Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "at itinaas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "at nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "nabihisan"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mga kasuotang lino"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "at ang kanyang mga balakang"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "bigkisan"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ng Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-19T19:10:23.190398056Z",
+  "model": "glm-5.3"
+}

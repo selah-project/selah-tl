@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang kumukurap ng mata ay magdudulot ng sakit, at ang mangmang na mapaglabi ay matutumba.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ang kumukurap"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ng mata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magdudulot"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ng sakit"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "at ang mangmang"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "na mapaglabi"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ay matutumba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:59.580518712Z",
+  "model": "glm-5.3"
+}

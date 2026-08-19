@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At huwag kayong mag-iiwan ng anuman dito hanggang umaga; ngunit ang natitira riyan hanggang umaga ay susunugin ninyo sa apoy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "mag-iiwan kayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niyon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "at ang natitira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niyon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "susunugin ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:07.266639185Z",
+  "model": "glm-5.3"
+}

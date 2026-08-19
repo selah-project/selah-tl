@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 9:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Yahweh sa kaniya: Lumipat ka sa gitna ng lungsod, sa gitna ng Yerushalayim, at maglalagay ka ng tanda sa mga noo ng mga lalaking nangangalabit at nangaghinga dahil sa lahat ng karumal-dumal na ginagawa sa gitna nito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Lumipat ka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "והתוית",
+      "gloss": "at maglalagay ka ng tanda"
+    },
+    {
+      "surface": "תו",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצחות",
+      "gloss": "mga noo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ng mga lalaking"
+    },
+    {
+      "surface": "הנאנחים",
+      "gloss": "nangangalabit"
+    },
+    {
+      "surface": "והנאנקים",
+      "gloss": "at nangaghinga"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "ng karumal-dumal"
+    },
+    {
+      "surface": "הנעשות",
+      "gloss": "na ginagawa"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa gitna nito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:41:53.826602726Z",
+  "model": "glm-5.3"
+}

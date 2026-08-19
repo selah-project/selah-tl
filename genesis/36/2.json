@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "Kumuha si Esav ng ⟨את⟩ kaniyang mga asawa mula sa mga anak na babae ng Kenaan: si Adah na anak ni Elon ⟨na⟩ Hiteo, at si Oholibama na anak ni Anah, apong babae ni Tsibon ⟨na⟩ Hiveo.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kumuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga asawa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "kaniyang mga asawa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mula sa mga anak na babae"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "si Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ni Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiteo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Oholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "si Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ni Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "apong babae"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ni Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiveo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:43.206219290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 4:24",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang kamay ng mga anak ni Yisrael ay lumakad nang lumalakas at tumitigas laban kay Yabin na hari ng Kenaan, hanggang sa gumuho nila si ⟨את⟩ Yabin na hari ng Kenaan.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nang tuloy-tuloy"
+    },
+    {
+      "surface": "וקשה",
+      "gloss": "at tumitigas"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kay Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכריתו",
+      "gloss": "gumuho nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "si Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:09.672254052Z",
+  "model": "glm-5.3"
+}

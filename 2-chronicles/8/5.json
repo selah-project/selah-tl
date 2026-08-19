@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At kaniyang itinayo ang ⟨את⟩ Beit-Choron ⟨ang⟩ itaas at ang ⟨את⟩ Beit-Choron ⟨ang⟩ ibaba, mga lungsod ng kuta, mga pader, mga pinto at mga halang",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "at kaniyang itinayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "itaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ibaba"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod ng"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga pader"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mga pinto"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "at mga halang"
+    }
+  ],
+  "timestamp": "2026-08-19T19:30:07.945727967Z",
+  "model": "glm-5.3"
+}

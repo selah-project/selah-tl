@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Shmuel ay naghahain sa ⟨את⟩ harap ni Yahweh, batang nakasuot ng ephod na lino.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "At si Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "naghahain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harap ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nakasuot"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "na lino"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:23.103231040Z",
+  "model": "glm-5.3"
+}

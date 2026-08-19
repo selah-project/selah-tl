@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sa asawa ng kapwa mo, huwag mong ibibigay ang iyong pagkakahiga na panubok, upang madumihan sa pamamagitan niya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ng kapwa mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mong ibibigay"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ang iyong pagkakahiga"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "na panubok"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "upang madumihan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa pamamagitan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:05.639247033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Anim na araw ay magtatrabaho ka, ngunit sa ikapitong araw magpapahinga ka; sa panahon ng paghaharada at sa panahon ng ani ay magpapahinga ka.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Anim na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "magtatrabaho ka"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magpapahinga ka"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "sa panahon ng paghaharada"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "at sa panahon ng ani"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magpapahinga ka"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:54.306409099Z",
+  "model": "glm-5.3"
+}

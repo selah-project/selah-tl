@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At tatawirin ninyo ang ⟨את⟩ Yarden, at tatahanan ninyo sa ⟨ang⟩ lupain na pinamamana sa inyo ni Yahweh na Elohim ninyo, at magpahinga sa inyo mula sa lahat ng inyong mga kaaway sa paligid, at tatahanan ninyo nang may katiwasayan.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "at tatawirin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "at tatahanan ninyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "pinamamana sa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "at magpahinga (sa inyo)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mula sa lahat ng"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mga kaaway ninyo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "at tatahanan ninyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nang may katiwasayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:39.588611992Z",
+  "model": "glm-5.3"
+}

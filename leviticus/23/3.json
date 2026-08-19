@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa loob ng anim na araw ay may gagawing gawain, ngunit sa ikapitong araw ay Shabbat, isang Shabbat na pahingahan, isang banal na pagtitipon; anumang gawain ay hindi ninyo gagawin — Shabbat ⟨ito⟩ para kay Yahweh sa lahat ng inyong tahanan.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ay may gagawin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngunit sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabbat na pahingahan"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "pagtitipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "inyong tahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:44.904280166Z",
+  "model": "glm-5.3"
+}

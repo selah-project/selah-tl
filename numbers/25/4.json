@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At sinabi ni Yahweh kay Moshe: Kunin mo ang ⟨את⟩ lahat ng mga pinuno ng bayan, at ilantad mo ang ⟨את⟩ sila para kay Yahweh sa harap ng araw, at babalik ang mapusok na galit ni Yahweh mula sa Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga pinuno ng bayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ng mga pinuno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ilantad mo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga pinuno)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mapusok na"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "mula sa Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:14:47.113199446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang alaala ng matuwid ay para sa pagpapala, ngunit ang pangalan ng masasama ay mabubulok.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ang alaala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ng matuwid"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "para sa pagpapala"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ngunit ang pangalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng masasama"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "mabubulok"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:57.223185255Z",
+  "model": "glm-5.3"
+}

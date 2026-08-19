@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At pinagsikapan ni Shaul saktan ng sibat si David sa dingding, ngunit nakaligtas siya sa harap ni Shaul, at hinampas niya ang ⟨את⟩ sibat sa dingding; at si David ay tumakas at nakaligtas nang gabing yaon.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "at pinagsikapan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "saktan"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "ng sibat"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "at nakaligtas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at hinampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sibat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang sibat"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa dingding"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "tumakas"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "at nakaligtas"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nang gabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:01.977232205Z",
+  "model": "glm-5.3"
+}

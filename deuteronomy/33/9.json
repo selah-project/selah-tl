@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Na nagsabi sa kaniyang ama at sa kaniyang ina: Hindi ko siya nakita; at ang ⟨את⟩ kaniyang mga kapatid ay hindi niya kinilala, at ang ⟨את⟩ kaniyang mga anak ay hindi niya nakilala; sapagkat kanilang ginawa ang iyong salita at ang iyong tipan kanilang babantayan.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "na nagsabi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa kaniyang ama"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "at sa kaniyang ina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ko siya nakita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kaniyang mga kapatid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kinilala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kanilang ginawa\/iingatan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang iyong salita"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "at ang iyong tipan"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "kanilang babantayan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:35:38.800339669Z",
+  "model": "glm-5.3"
+}

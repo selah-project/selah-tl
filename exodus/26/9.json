@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At pagsasamahin mo ang ⟨את⟩ limang kurtina nang mag-isa, at ang ⟨את⟩ anim na kurtina nang mag-isa; at idudoble mo ang ⟨את⟩ kurtina na pang-anim pasulong sa harapan ng tolda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "at pagsasamahin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "anim na kurtina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anim na"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nang mag-isa"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "at idudoble mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurtina na pang-anim"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "na pang-anim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ng mukha"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ng tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:47.722474996Z",
+  "model": "glm-5.3"
+}

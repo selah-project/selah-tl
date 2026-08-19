@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Si Yahweh ang bahaging tinimbang sa akin at ang aking kopa; ikaw ang humahawak sa aking kapalaran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahaging tinimbang"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "at ang aking kopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "humahawak"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "aking kapalaran"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:01.785189513Z",
+  "model": "glm-5.3"
+}

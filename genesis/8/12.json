@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At naghintay pa ng pitong araw na iba, at kanyang sinugo ⟨את⟩ ⟨ang⟩ kalapati, at hindi na ito nagbalik pa sa kanya.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "at naghintay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ng pitong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at kanyang sinugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ kalapati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "⟨ang⟩ kalapati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi na"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:55.601454205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang mga tagapagdala ng utos ay lumabas na pinagmamadali sa utos ng hari, at ang batas ay ibinigay sa Shushan na kuta; at ang hari at Haman ay umupo upang uminom, ngunit ang lungsod ng Shushan ay nabalisa.",
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "ang mga tagapagdala ng utos"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "דחופים",
+      "gloss": "pinagmamadali"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa utos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "at ang batas"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ay ibinigay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "at ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "at Haman"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "umuupo"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "upang uminom"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ngunit ang lungsod"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "נבוכה",
+      "gloss": "ay nabalisa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:31.747127489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 79,
+  "translation": "Mizmór ni Asaf. Ya Elohim, dumating ang mga bansa sa ⟨את⟩ iyong minana, hinawan nila ang ⟨את⟩ templo ng iyong kabanalan, ginawa nila ang ⟨את⟩ Yerushalayim na mga tambak ng bato.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmór"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ya Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "sa iyong minana"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hinawan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templo ng iyong kabanalan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ng iyong kabanalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "na mga tambak ng bato"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:35.098145864Z",
+  "model": "glm-5.3"
+}

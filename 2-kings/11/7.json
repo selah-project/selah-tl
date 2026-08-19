@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang dalawang bahagi sa inyo, lahat ng lumalabas sa shabbat, at magbabantay sila ng ⟨את⟩ pagbabantay sa bahay ni Yahweh sa piling ng hari.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "at ang dalawang"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "bahagi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa shabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "at magbabantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagbabantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "pagbabantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa piling ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:18.942566637Z",
+  "model": "glm-5.3"
+}

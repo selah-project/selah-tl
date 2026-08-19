@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Naging mga awit para sa akin ang iyong mga tuntunin sa bahay ng aking pamamahay na dayuhan.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "mga awit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iyong mga tuntunin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ng aking pamamahay na dayuhan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:26.835965715Z",
+  "model": "glm-5.3"
+}

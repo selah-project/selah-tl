@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 83,
+  "translation": "Na nagsabi: Ating ariin sa atin ang ⟨את⟩ mga pastulan ng Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "ating ariin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pastulan ng Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mga pastulan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:08.882127585Z",
+  "model": "glm-5.3"
+}

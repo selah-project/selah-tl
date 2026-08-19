@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang buong kapisanan ng Yisrael ay gagawin ⟨את⟩ niyon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niyon (ang Pesach)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:23.122990077Z",
+  "model": "glm-5.3"
+}

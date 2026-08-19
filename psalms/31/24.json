@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Iibigin ninyo si ⟨את⟩ Yahweh, lahat ng kanyang mga banal; tapat ang nag-iingat na si Yahweh, at ganap na gumaganti sa sobrang gawa ng kapalaluan.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Iibigin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ng kanyang mga banal"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "tapat"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "nag-iingat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "at gumaganti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sobra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ng kapalaluan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:48.573418205Z",
+  "model": "glm-5.3"
+}

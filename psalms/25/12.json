@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sino ang taong may takot kay Yahweh? Siya'y ituturo niya sa daang kanyang pipiliin.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "may takot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ituturo niya siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daang"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "kanyang pipiliin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:42.179469299Z",
+  "model": "glm-5.3"
+}

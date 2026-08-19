@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At ibabalik ko ang ⟨את⟩ pagkabihag ni Yehuda at ang ⟨את⟩ pagkabihag ni Yisrael, at itatayo ko silang muli na gaya ng sa una.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "at ibabalik ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagkabihag ni Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagkabihag ni Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "at itatayo ko sila"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "na gaya ng sa una"
+    }
+  ],
+  "timestamp": "2026-08-19T17:29:43.726119578Z",
+  "model": "glm-5.3"
+}

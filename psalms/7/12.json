@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Si Elohim ay hukom na matuwid, at si El ay nagngangalit sa bawat araw.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at si El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nagngangalit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:23.034795128Z",
+  "model": "glm-5.3"
+}

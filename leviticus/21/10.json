@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang saserdoteng higit sa kanyang mga kapatid, na siyang ibinuhos sa ⟨את⟩ kanyang ulo ng langis ng pagpapahid, at pinuno ang ⟨את⟩ kanyang kamay upang magsuot ng ⟨את⟩ mga damit — ang ⟨את⟩ kanyang ulo ay hindi huhubarin, at ang kanyang mga damit ay hindi pupunitin.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "at ang saserdote"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "higit (na)"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "sa kanyang mga kapatid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "ibinuhos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kanyang ulo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "at pinuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang kamay"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "upang magsuot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga damit"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang kanyang ulo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "huhubarin \/ paluluwagin"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "at ang kanyang mga damit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "pupunitin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:56:16.545868691Z",
+  "model": "glm-5.3"
+}

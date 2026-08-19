@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "At ang mga salita ng pagtatanim ng poot ay pumalibot sa akin, at lumaban sila sa akin nang walang dahilan.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "At ang mga salita ng"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "poot"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "pumalibot sa akin"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "at lumaban sa akin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nang walang dahilan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.602734885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paraoh na hari ng Mitzrayim, at ⟨את⟩ mga alipin niya, at ⟨את⟩ mga pinuno niya, at ⟨את⟩ buong bayan niya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paraoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga alipin niya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mga alipin niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pinuno niya"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "mga pinuno niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong bayan niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bayab niya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:26:24.089597019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "Lahat ng mga kurtina ng looban sa paligid ⟨ay⟩ linen na puti, balinsay na sinulid.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng looban"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen na puti"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "balinsay (sinulid na binaliwtad)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:07.840502171Z",
+  "model": "glm-5.3"
+}

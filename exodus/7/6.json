@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ginawa ni Moshe at ni Aharon ayon sa iniutos ni Yahweh ⟨את⟩ sa kanila; gayon ginawa nila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ginawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at ni Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:45.633115301Z",
+  "model": "glm-5.3"
+}

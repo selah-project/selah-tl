@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Isinaisip namin, O Elohim, ang ⟨iyong⟩ kagandahang-loob mo, sa loob ng ⟨iyong⟩ templo mo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "isinaisip namin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang kagandahang-loob mo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ng templo mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:50.538692663Z",
+  "model": "glm-5.3"
+}

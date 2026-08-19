@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 14:7",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Kung ang aming mga kasalanan ay sumasaksi laban sa amin, gawin mo, Yahweh, alang-alang sa iyong pangalan; sapagkat marami ang aming mga paglalayo, sa iyo kami nagkasala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עונינו",
+      "gloss": "ang aming mga kasalanan"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "sumasaksi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "laban sa amin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawin mo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang-alang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "marami"
+    },
+    {
+      "surface": "משובתינו",
+      "gloss": "ang aming mga paglalayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagkasala kami"
+    }
+  ],
+  "timestamp": "2026-08-19T17:19:58.958440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At sa mga ito magiging marumi kayo: sinumang dumuduroy sa bangkay ng mga ito ay magiging marumo hanggang sa pagtakipsilim.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "at sa mga ito"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "magiging marumi kayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sinumang"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "dumuduroy"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "sa bangkay ng mga ito"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magiging marumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pagtakipsilim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:49:14.588053653Z",
+  "model": "glm-5.3"
+}

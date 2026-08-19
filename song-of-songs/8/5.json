@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sino itong sumisikat mula sa ilang, nakadantay sa kanyang minamahal? Sa ilalim ng punong-mansanas ginising kita — doon hinubaran ng aliw ng ina mo, doon nanganak ang nagsilang sa iyo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sumisikat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "nakadantay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "kanyang minamahal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "punong-mansanas"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ginising kita"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "hinubaran ng aliw"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ina mo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "nagtiis ng hirap"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ang nagsilang sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:57:53.534865382Z",
+  "model": "glm-5.3"
+}

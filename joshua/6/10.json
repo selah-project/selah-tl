@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At si Yehoshua ay nag-utos sa ⟨את⟩ bayan, na nagsasabi: Huwag kayong sumigaw at huwag ninyong papatunugin ⟨את⟩ inyong tinig, at huwag lumabas mula sa inyong bibig ang anumang salita, hanggang sa araw ng pagsasabi ko sa inyo, 'Sumigaw kayo!' — at kayo'y magsisigaw.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nag-utos"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kayong sumigaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ninyong papatunugin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong tinig"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "inyong tinig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "mula sa inyong bibig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ng pagsasabi ko"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "sumigaw kayo"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "at kayo'y magsisigaw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:28.354374861Z",
+  "model": "glm-5.3"
+}

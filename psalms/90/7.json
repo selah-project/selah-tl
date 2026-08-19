@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Sapagkat napawi kami sa iyong galit, at sa iyong poot kami ay nanginig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "napawi kami"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "sa iyong galit"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "at sa iyong poot"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "kami ay nanginig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:13.715107242Z",
+  "model": "glm-5.3"
+}

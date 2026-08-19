@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Nagningas ang galit ni David laban sa taong iyon nang mainit na lubos, at sinabi niya kay Natan: Buhay si Yahweh, sapagkat anak ng kamatayan ang taong gumawa nito!",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nagningas-ang-galit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "galit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "laban sa tao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang mainit na lubos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:12.429073733Z",
+  "model": "glm-5.3"
+}

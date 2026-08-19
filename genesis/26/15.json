@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At ang lahat ng mga balon na hinukay ng mga alipin ng kanyang ama noong mga araw ni Avraham na kanyang ama, pinalohan sila ng mga Pelishteo at pinuno nila ang mga ito ng alabok.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "mga balon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "hinukay ng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alipin ng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "noong mga araw ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kanyang ama"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "pinalohan sila"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "at pinuno ang mga ito"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ng alabok"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:45.951676608Z",
+  "model": "glm-5.3"
+}

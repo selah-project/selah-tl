@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At pinaalis nila si ⟨את⟩ Rivka na kanilang kapatid na babae, at ⟨את⟩ kanyang yaya, at ⟨את⟩ alila ni Avraham, at ⟨את⟩ kanyang mga lalaki.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "at pinaalis nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "si Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "kanilang kapatid na babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang yaya"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "kanyang yaya (nagpapasuso)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alila ni Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alila"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga lalaki"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "kanyang mga lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:58.799074474Z",
+  "model": "glm-5.3"
+}

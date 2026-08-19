@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Datapuwa't ako, sa katuwiran ay makikita ko ang iyong mukha; mabubusog ako, sa paggising, sa iyong anyo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa katuwiran"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "makikita ko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang iyong mukha"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "mabubusog ako"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "sa paggising"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "sa iyong anyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:27.653842378Z",
+  "model": "glm-5.3"
+}

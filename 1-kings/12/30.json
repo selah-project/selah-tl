@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At naging ⟨is⟩ ang bagay na ito bilang kasalanan, at lumakad ang bayan sa harap ⟨ng⟩ isa, hanggang sa Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bilang kasalanan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at lumakad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨ng⟩ isa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:53.101239576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ⟨ang⟩ pundasyon ay mga bato na mamahalin, mga bato na malalaki — mga bato ng sampung siko at mga bato ng walong siko.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "at ang pundasyon"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "mamahalin"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "malalaki"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato ng"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "at mga bato ng"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walong"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:20.144049371Z",
+  "model": "glm-5.3"
+}

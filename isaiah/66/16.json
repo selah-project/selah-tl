@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Sapagkat sa apoy maghahatol si Yahweh, at sa kaniyang tabak sa ⟨את⟩ lahat ng laman; at madadami ang mga nasaktang patay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "maghahatol"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "at sa kaniyang tabak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng laman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at madadami"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ang mga nasaktang patay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:56.028965710Z",
+  "model": "glm-5.3"
+}

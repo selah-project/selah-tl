@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At si Nachshon ay naging ama ni ⟨את⟩ Salmah, at si Salmah ay naging ama ni ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "At si Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ni Salmah"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "at si Salmah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ay naging ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ni Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:50.394068435Z",
+  "model": "glm-5.3"
+}

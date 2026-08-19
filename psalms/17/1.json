@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Panalangin ni David. Dinggin mo, Yahweh, ang katarungan; magpakintig ng tainga sa aking sigaw; pakinggan mo ang aking panalangin — hindi mula sa mga labing may pandaraya.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dinggin mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang katarungan"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "magpakintig ng tainga"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sa aking sigaw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pakinggan mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking panalangin"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "hindi mula sa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mga labi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "may pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:36.701843119Z",
+  "model": "glm-5.3"
+}

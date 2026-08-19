@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sa ikalimang taon, kakainin ninyo ang ⟨את⟩ bunga nito upang madagdagan kayo ng ani nito: ako si Yahweh na inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "At sa taon"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "ang ikalimang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunga nito"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "bunga nito"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "upang madagdagan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ani nito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:30.899675715Z",
+  "model": "glm-5.3"
+}

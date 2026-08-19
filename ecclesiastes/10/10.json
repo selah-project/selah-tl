@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Kung pamumutik ang bakal at hindi ito ⟨nasa⟩ gilid, kailangan ng malaking lakas; ngunit ang pakinabang ng paghahanda ay karunungan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "pamumutik"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang bakal"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "gilid\/mukha"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "kinulang sa gilid"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "at malaking lakas"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "kailangan"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ngunit ang pakinabang"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "paghahanda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:21.161562960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sa iyo, Yahweh, ako'y sumisigaw, at sa Adonai ako'y nagmamakaawa.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako'y sumisigaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ako'y nagmamakaawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:22.516133177Z",
+  "model": "glm-5.3"
+}

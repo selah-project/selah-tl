@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang portiko ng trono kung saan siya humahatol doon — portiko ng paghahatol ang ginawa niya — at ⟨is⟩ ito ay napapaligiran ng sedro, mula sahig hanggang sahig.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "at ang portiko"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ng trono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "siya humahatol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "portiko"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ng paghahatol"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa niya"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "at napapaligitan"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ng sedro"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "mula sa sahig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "sa sahig"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:24.590919038Z",
+  "model": "glm-5.3"
+}

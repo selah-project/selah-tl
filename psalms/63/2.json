@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "Elohim, El ako ay ikaw, ⟨kinabukasan⟩ ikaw ay hahanapin ko; nag-uhaw sa iyo ang aking nefesh, nangamlupi sa iyo ang aking laman, sa lupang tuyo at pagod, walang tubig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "kinabukasan hahanapin kita"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "nag-uhaw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking nefesh"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nangamlupi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aking laman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "tuyo"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "at pagod"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:55.891537816Z",
+  "model": "glm-5.3"
+}

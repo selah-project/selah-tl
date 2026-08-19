@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "⟨את⟩ sino ang ituturo ng kaalaman, at ⟨את⟩ sino pagpapakaunawaín ng ulat? Sa mga inagaw sa gatas, sa mga inalis sa mga suso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ituturo"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ng kaalaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "pagpapakaunawaín"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ng ulat"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "sa mga inagaw (sa gatas)"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sa gatas"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "sa mga inalis"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "sa mga suso"
+    }
+  ],
+  "timestamp": "2026-08-19T17:01:07.415202872Z",
+  "model": "glm-5.3"
+}

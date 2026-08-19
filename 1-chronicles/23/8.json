@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Mga anak ni Ladan: ang puno ⟨ay⟩ si Yechiel, at si Zetam, at si Yoel — tatlo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ladan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang puno"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "si Yechiel"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "at si Zetam"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "at si Yoel"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:36.089074177Z",
+  "model": "glm-5.3"
+}

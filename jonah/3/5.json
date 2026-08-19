@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At naniwala ang mga lalaki ng Nineveh kay Elohim, at ipinatawag nila ang isang pag-aayuno, at nagdamit sila ng mga sako, mula sa kanilang pinakadakila hanggang sa kanilang pinakamaliit.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "at naniwala"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki ng"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "at ipinatawag"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pag-aayuno"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "at nagdamit"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "mga sako"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "mula sa kanilang pinakadakila"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "kanilang pinakamaliit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:21.416675763Z",
+  "model": "glm-5.3"
+}

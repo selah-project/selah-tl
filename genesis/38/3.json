@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At nagdadalantao siya at nanganak ng lalaki, at tinawag niya ⟨את⟩ kanyang pangalan na Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagdadalantao"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lalaki (anak)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "tinawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:02.256810214Z",
+  "model": "glm-5.3"
+}

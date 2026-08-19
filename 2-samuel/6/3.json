@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At isinakay nila ang ⟨את⟩ kaban ni Elohim sa isang bagong kariton, at inangat nila ito mula sa bahay ni Avinadav na nasa Gibea; sina Uza at ang kapatid niya, mga anak ni Avinadav, ang nagpapatakbo ng ⟨את⟩ bagong kariton.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "isinakay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "at inangat nila ito"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "nasa Gibea"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "at si Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "at ang kapatid niya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "nagpapatakbo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagong kariton"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "bagong"
+    }
+  ],
+  "timestamp": "2026-08-19T19:43:58.646450895Z",
+  "model": "glm-5.3"
+}

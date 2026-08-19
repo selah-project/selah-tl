@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Narito, hampasin man ang bato at bumulwak ang tubig, at umaapaw ang mga batis — kayang ba bigyan ng tinapay? Maghahanda kaya ng laman para sa kanyang bayan?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "narito"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hampasin"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "bumulwak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "at mga batis"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "umaapaw"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "kaya bang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bigyan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "maghahanda"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "para sa kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.373781019Z",
+  "model": "glm-5.3"
+}

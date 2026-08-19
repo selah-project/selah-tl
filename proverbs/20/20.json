@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ang sumusumpa sa kaniyang ama at ina, mapapatay ang kaniyang ilawan sa gitna-ng-kadiliman na kalaliman.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "ang sumusumpa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa kaniyang ama"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "at ina"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "mapapatay"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "ang kaniyang ilawan"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "sa gitna-ng-kadiliman"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "na kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:41:58.227777732Z",
+  "model": "glm-5.3"
+}

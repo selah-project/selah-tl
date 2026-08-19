@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "at ang ⟨את⟩ mga pundasyon ng bakuran sa paligid, at ang ⟨את⟩ mga pundasyon ng tarangkahan ng bakuran, at ang ⟨את⟩ lahat ng tulos ng tolda, at ang ⟨את⟩ lahat ng tulos ng bakuran sa paligid.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pundasyon ng bakuran sa paligid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng bakuran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga pundasyon ng tarangkahan ng bakuran"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ng tarangkahan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng bakuran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng tulos ng tolda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tulos"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ng tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng tulos ng bakuran sa paligid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tulos"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng bakuran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:08.311826083Z",
+  "model": "glm-5.3"
+}

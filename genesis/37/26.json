@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At sinabi ni Yehuda sa kanyang mga kapatid: Anong pakinabang kung papatayin natin si ⟨את⟩ ating kapatid at pagtakpan natin ang ⟨את⟩ kanyang dugo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "pakinabang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "patayin natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ating kapatid"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ating kapatid"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "at pagtakpan natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kanyang dugo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:52.446203776Z",
+  "model": "glm-5.3"
+}

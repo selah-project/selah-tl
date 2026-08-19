@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Kasama ng mga mapagpaimbabaw na nanunuya sa piging, nangangatog ng ngipin laban sa akin.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "kasama ng mga mapagpaimbabaw"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "nanunuya"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "sa piging"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "nangangatog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ngipin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:08.891790006Z",
+  "model": "glm-5.3"
+}

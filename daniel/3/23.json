@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang tatlong lalaking ito, sina Shadrach, Meshach, at Abed-Nego, ay nahulog, nakagapos pa, sa gitna ng apuyan ng apoy na nasusunog.",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "at ang mga lalaki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "tatlo"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "at Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "-Nego"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ay nahulog"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ng apuyan"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "na nasusunog"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "nakagapos pa"
+    }
+  ],
+  "timestamp": "2026-08-19T19:07:51.422290861Z",
+  "model": "glm-5.3"
+}

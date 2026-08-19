@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At bakit ninyo dinala ang ⟨את⟩ kapisanan ni Yahweh patungo sa ilang na ito, upang mamatay doon kami at ang ating mga hayop?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ninyo dinala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapisanan ni Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "למות",
+      "gloss": "upang mamatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "at ang ating mga hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:05.996294234Z",
+  "model": "glm-5.3"
+}

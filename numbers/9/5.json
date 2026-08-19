@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nagawa nila ang ⟨את⟩ Paskwa sa unang buwan, sa ikalabing-apat na araw ng buwan, sa pagitan ng mga takipsilim, sa ilang ng Sinai; ayon sa lahat ng iniutos ni Yahweh kay ⟨את⟩ Moshe, gayon ang ginawa ng mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "At ginawa ng mga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskwa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskwa"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "sa unang buwan"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "na araw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ng buwan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga takipsilim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang ng"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T15:05:26.123324991Z",
+  "model": "glm-5.3"
+}

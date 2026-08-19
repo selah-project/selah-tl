@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Sapagkat batas ito para kay Yisrael, kautusan ng Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batas"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "para kay Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kautusan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.674046222Z",
+  "model": "glm-5.3"
+}

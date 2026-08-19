@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 126,
+  "translation": "Ipagbalik Mo, O Yahweh, ang ⟨את⟩ aming pagkabihag, gaya ng mga batis sa Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ipagbalik Mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming pagkabihag"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "aming pagkabihag"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "gaya ng mga batis"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa Negev"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:27.642137595Z",
+  "model": "glm-5.3"
+}

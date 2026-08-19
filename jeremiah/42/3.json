@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At ipahayag sa amin ni Yahweh na iyong Elohim ang ⟨את⟩ daan na tatakbuhan natin, at ang ⟨את⟩ bagay na gawin natin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at ipahayag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "na iyong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang daan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tatakbuhan natin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gawin natin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:32:55.459427782Z",
+  "model": "glm-5.3"
+}

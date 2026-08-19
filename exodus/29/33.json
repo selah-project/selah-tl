@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At kakainin nila ang ⟨את⟩ mga bagay na iyon na ipinagtubos sa pamamagitan nila, upang punuin ang ⟨את⟩ kanilang kamay sa paglalaan sa kanila; ngunit ang ⟨את⟩ dayuhan ay hindi kakain, sapagkat banal ang mga iyon.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "at kakainin nila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga bagay na iyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ipinagtubos"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa pamamagitan nila"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "upang punuin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kamay"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kanilang kamay"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "sa paglalaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ngunit ang dayuhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ang mga iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:46.581756296Z",
+  "model": "glm-5.3"
+}

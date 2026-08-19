@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Si Efraim — parang ibon, lilipad ang kanilang kaluwalhatian: mula sa pagsilang, mula sa tiyan, at mula sa pagbubuntis.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Si Efraim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "parang ibon"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "lilipad"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang kanilang kaluwalhatian"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "mula sa pagsilang"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "at mula sa tiyan"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "at mula sa pagbubuntis"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:42.035236803Z",
+  "model": "glm-5.3"
+}

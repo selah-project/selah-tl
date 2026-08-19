@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At si ⟨את⟩ Yeutz at si ⟨את⟩ Sakhya at si ⟨את⟩ Mirmah — ito ang mga anak niya, mga ulo ng mga mag-anak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Yeutz"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Sakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at si ⟨את⟩",
+      "marks": "si Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ng mga mag-anak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:50.797538531Z",
+  "model": "glm-5.3"
+}

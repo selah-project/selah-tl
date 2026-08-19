@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 2:28",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At dumating ang balita kay Yoav — sapagkat si Yoav ay sumunod kay Adoniyahu, ngunit kay Avshalom hindi siya sumunod — at tumakas si Yoav sa tolda ni Yahweh at humawak sa mga sungay ng altar.",
+  "tokens": [
+    {
+      "surface": "והשמעה",
+      "gloss": "At ang balita"
+    },
+    {
+      "surface": "באה",
+      "gloss": "dumating"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ngunit kay"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "at humawak nang mahigpit"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "sa mga sungay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ng altar"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:01.824509875Z",
+  "model": "glm-5.3"
+}

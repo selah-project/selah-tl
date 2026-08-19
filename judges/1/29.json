@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At si Efrayim ay hindi nagpaalis ng ⟨את⟩ Kanaanito na naninirahan sa Gezer; at tumahan ang Kanaanito sa gitna niya, sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "At si Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "nagpaalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanito"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanito"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at tumahan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanito"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa gitna niya"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:19.432066321Z",
+  "model": "glm-5.3"
+}

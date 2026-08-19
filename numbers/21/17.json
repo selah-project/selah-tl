@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Nang magkagayon, umawit ang Israel ng ⟨את⟩ awiting ito: Umahon ka, O balon — sumagot kayo sa kanya!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nang magkagayon"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "umawit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang awiting ito"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ang awit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "umahon ka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "O balon"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "sumagot kayo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:12:23.936234866Z",
+  "model": "glm-5.3"
+}

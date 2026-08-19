@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At natulog si Shemuël hanggang umaga, at binuksan niya ang ⟨את⟩ mga pinto ng bahay ni Yahweh; at si Shemuël ay natakot na ipahayag kay Eli ang ⟨את⟩ pangitain.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "at natulog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "at binuksan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pinto ng bahay ni Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mga pinto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "at si Shemuël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "natakot"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "na ipahayag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pangitain"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ang pangitain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:07.654256375Z",
+  "model": "glm-5.3"
+}

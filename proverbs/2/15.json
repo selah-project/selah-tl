@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Na ang kanilang mga landas ay baluktot, at mga pabaligtad sa kanilang mga sirkito;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "ang kanilang mga landas"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "baluktot"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "at mga pabaliktad"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "sa kanilang mga sirkito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:07.378122260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ni Yahweh: Bururin ko ang ⟨את⟩ tao na aking nilikha mula sa ibabaw ng mukha ng lupa, mula sa tao hanggang sa hayop, hanggang sa umuusad na nilalang, at hanggang sa ibon ng mga langit, sapagkat nagsisi ako na ginawa ko sila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "bururin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "aking nilikha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mula sa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mula sa tao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "umuusad na nilalang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nagsisi ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ginawa ko sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:42.391581977Z",
+  "model": "glm-5.3"
+}

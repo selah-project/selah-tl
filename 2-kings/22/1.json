@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Walong taóng gulang si Yoashiyahu nang ⟨siya⟩ maghari, at tatlumpû't isang taon siyang naghari sa Yerushalayim; at Yedidah ang pangalan ng kaniyang ina, anak ni Adayah, mula sa Boskat.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "gulang (na anak)"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "si Yoashiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nang maghari ⟨siya⟩"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpû"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "at isang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ng kaniyang ina"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "Yedidah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ni Adayah"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "mula sa Boskat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:30.664486152Z",
+  "model": "glm-5.3"
+}

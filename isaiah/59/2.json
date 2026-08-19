@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Kundi ang inyong mga kasamaan ang naging humihiwalay sa inyo at sa inyong Elohim, at ang inyong mga pagkakasala ay nagkubli ng mukha mula sa inyo sa pagdinig",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kinandi"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "inyong mga kasamaan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "humihiwalay"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "at ang inyong mga pagkakasala"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "nagkubli"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mukha"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "mula sa inyo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa pagdinig"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:40.356135325Z",
+  "model": "glm-5.3"
+}

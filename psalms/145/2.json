@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Araw-araw kitang pagpapalain, at pupurihin ko ang iyong pangalan magpakailanman at magpakawalang-hanggan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "kitang pagpapalain"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "at pupurihin ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "iyong pangalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at magpakawalang-hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:31.356218074Z",
+  "model": "glm-5.3"
+}

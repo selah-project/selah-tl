@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At sinabi ni Moshe sa kanila, Kung gagawin ninyo ⟨את⟩ ang bagay na ito, kung kayo'y maghahandang mangsandata sa harap ni Yahweh sa pakikidigma,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "gagawin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bagay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "kayo maghahandang mangsandata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa pakikidigma"
+    }
+  ],
+  "timestamp": "2026-08-19T15:18:36.511973896Z",
+  "model": "glm-5.3"
+}

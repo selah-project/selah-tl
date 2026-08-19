@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ilalagay mo ang ⟨את⟩ altar ng handog na susunugin sa harap ng pasukan ng Tolda ng Tolda-ng-Pagkikita.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar ng holocausto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ng Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng Pagkikita"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:02.011034135Z",
+  "model": "glm-5.3"
+}

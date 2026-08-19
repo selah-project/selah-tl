@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Bakit kalimita mo kami kailanman? Bakit mo kami pababayaan nang ganap kaya, sa kahabaan ng mga araw?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kailanman"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "kalimutan mo kami"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "pababayaan mo kami"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "nang mahabang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:42.689673896Z",
+  "model": "glm-5.3"
+}

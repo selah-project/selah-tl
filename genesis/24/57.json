@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sinabi nila: Tawagin natin ang dalaga, at tanungin natin ang ⟨את⟩ kanyang bibig.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi nila"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tawagin natin"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ang dalaga"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "at tanungin natin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang bibig"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ang kanyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:58.798666193Z",
+  "model": "glm-5.3"
+}

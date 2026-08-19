@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ang lihim na tipanan ay kay Yahweh para sa mga natatakot sa kanya, at ang kanyang tipan upang ipaalam sa kanila.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Ang lihim na tipanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "para sa mga natatakot sa kanya"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "at ang kanyang tipan"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "upaang ipaalam sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:39.413095844Z",
+  "model": "glm-5.3"
+}

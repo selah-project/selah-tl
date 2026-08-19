@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Sapagkat si Yahweh ay dakila at totoong kapuri-puri, at siya ay kataka-taka sa itaas ng lahat ng elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "at kapuri-puri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "totoo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "at kataka-taka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa itaas ng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:42.605092535Z",
+  "model": "glm-5.3"
+}

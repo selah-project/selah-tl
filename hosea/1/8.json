@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At pinag-henawan niya si Lo-Ruhamah, at naglihi siya at nanganak ng anak na lalaki.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "at pinag-henawan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "at naglihi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:35.169923761Z",
+  "model": "glm-5.3"
+}

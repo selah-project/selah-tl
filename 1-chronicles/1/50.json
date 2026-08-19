@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 1:50",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At nang mamatay si Baal-Chanan, naghari sa kanyang haligid si Hadad; at ang pangalan ng kanyang lungsod ay Pai, at ang pangalan ng kanyang asawa ay Meheitabel na anak ni Matred na anak ni Me-Zahab.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "at nang mamatay"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang haligid"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ng kanyang lungsod"
+    },
+    {
+      "surface": "פעי",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ng kanyang asawa"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "Meheitabel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "Matred"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Me-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahab"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:47.036260656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang liwanag ng mga matuwid ay nagagalak, ngunit ang ilawan ng mga masama ay mapapatay.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matuwaid"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagagalak"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ngunit ang ilawan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "mapapatay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:02.325476733Z",
+  "model": "glm-5.3"
+}

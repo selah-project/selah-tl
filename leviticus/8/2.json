@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Kunin mo si Aharon at ⟨את⟩ mga anak niya na ⟨את⟩ kasama niya, at ⟨את⟩ mga damit, at ⟨את⟩ langis ng pamahid, at ⟨את⟩ baka ng handog para sa kasalanan, at ⟨את⟩ dalawang lalaking tupa, at ⟨את⟩ basket ng mga tinapay na walang pampaasim;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "kunin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak niya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "na kasama niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga damit"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "mga damit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "langis"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pamahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "baka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ng handog para sa kasalanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "dalawang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "lalaking tupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "basket"
+    },
+    {
+      "surface": "סל",
+      "gloss": "basket"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ng mga tinapay na walang pampaasim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:41.304728231Z",
+  "model": "glm-5.3"
+}

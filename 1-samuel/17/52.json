@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At tumayo ang mga lalaki ng Israel at ng Yehuda, at sumigaw, at hinabol ang ⟨את⟩ mga Filisteo hanggang sa pagdating sa libis, at hanggang sa mga tarangkahan ng Ekron; at nalaglag ang mga sugatang Filisteo sa daan ng Shaarayim, at hanggang sa Gat, at hanggang sa Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga lalaki ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at ng Yehuda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "at sumigaw"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "at hinabol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Filisteo"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ang mga Filisteo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "pagdating sa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libis"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mga tarangkahan ng"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "at nalaglag"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ang mga sugatan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisteo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan ng"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Shaarayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang sa"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:42.827949798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at ang ⟨את⟩ langis ng pagpapahid at ang ⟨את⟩ insenso ng mga pabango para sa ⟨ang⟩ santong lugar — ayon sa lahat na iniutos ko sa iyo, gagawin nila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "langis ng pagpapahid"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "langis"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ng pagpapahid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "insenso ng mga pabango"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ng mga pabango"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "para sa santong lugar"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ayon sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "iniutos ko sa iyo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gagawin nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:02.390397340Z",
+  "model": "glm-5.3"
+}

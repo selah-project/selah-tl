@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa ni Yahweh ayon sa salita ni Moshe, at namatay ang mga palaka mula sa mga bahay, mula sa mga bakuran, at mula sa mga bukid.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "at ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga palaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "mga bakuran"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mga bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:57.793067527Z",
+  "model": "glm-5.3"
+}

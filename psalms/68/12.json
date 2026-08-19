@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Si Adonai ang nagbibigay ng salita; ang mga babaing nagbabalita ay isang malaking hukbo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "si Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ang nagbibigay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ng salita"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ang mga babaing nagbabalita"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ay isang hukbo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "na malaki"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:03.275112469Z",
+  "model": "glm-5.3"
+}

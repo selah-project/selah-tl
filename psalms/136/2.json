@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Magpasalamat sa Elohim ng ⟨mga⟩ diyos, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Magpasalamat"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "sa Elohim ng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨mga⟩ diyos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.679826773Z",
+  "model": "glm-5.3"
+}

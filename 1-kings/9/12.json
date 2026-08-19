@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At lumabas si Chiram mula sa Tzor upang makita ang ⟨את⟩ mga lungsod na ibinigay ni Shelomoh sa kaniya, at hindi tumuwid ang mga ito sa kaniyang mga mata.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mula sa Tzor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "upang makita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga lungsod"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga lungsod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "tumuwid"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kaniyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:34.572355481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At nangyari, sa pagkalakas ng kaharian sa kanyang kamay, kanyang pinatay ang ⟨את⟩ kanyang mga aliping pumapatay sa ⟨את⟩ hari na ama niya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nang"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "lumakas"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang kaharian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kanyang pinatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga aliping pumapatay"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "kanyang mga aliping"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "pumapatay sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari na ama niya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ama niya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:52.402015245Z",
+  "model": "glm-5.3"
+}

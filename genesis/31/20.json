@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At ninakaw ni Yaakov ang ⟨את⟩ puso ni Lavan na Arameo, sa hindi pagsasabi sa kanya na siya ay tumatakas.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "At ninakaw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso ni Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "na Arameo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "pagsasabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "siya ay tumatakas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:00.371874377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ipinahayag ni Moshe kay Aharon ang ⟨את⟩ lahat ng mga salita ni Yahweh na kaniyang isinugo, at ang ⟨את⟩ lahat ng mga tanda na kaniyang iniutos sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at ipinahayag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kay Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga salita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kaniyang isinugo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalahat ng mga tanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalahat"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ng mga tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kaniyang iniutos sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:03.814909233Z",
+  "model": "glm-5.3"
+}

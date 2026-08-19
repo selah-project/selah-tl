@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 46,
+  "translation": "Ang kanyang mga anak na lalaki at ang mga anak ng kanyang mga anak ⟨את⟩niya, ang kanyang mga anak na babae at ang mga anak na babae ng kanyang mga anak, at ang buo niyang lahi — dinala niya ⟨את⟩sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "ang kanyang mga anak na lalaki"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kanyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩niya",
+      "marks": "siya (si Yaakov)"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ang kanyang mga anak na babae"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "at ang mga anak na babae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kanyang mga anak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buo"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "niyang lahi"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "dinala niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩siya",
+      "marks": "siya (ang kanyang lahi)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:15.717416616Z",
+  "model": "glm-5.3"
+}

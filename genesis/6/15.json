@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ito ang gagawin mo ⟨את⟩ rito: tatlong daang siko ang haba ng bangka, limampung siko ang luwang nito, at tatlumpung siko ang taas nito.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "rito"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "daan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ng bangka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limampung"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "luwang nito"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "at tatlumpung"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:39.317163738Z",
+  "model": "glm-5.3"
+}

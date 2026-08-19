@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi niya: Hindi ka dadaan. At lumabas ang Edom sa pagsalubong sa kanya nang maraming bayan at nang matibay na kamay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ka dadaan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sa pagsalubong sa kanya"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nang bayan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "marami"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "at nang kamay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "matibay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:22.144966740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang bawat tao, ang ⟨את⟩ kanyang mga banal na bagay ay magiging sa kanya; ang tao na magbibigay sa koheno, ay magiging sa kanya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "at ang bawat tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga banal na bagay"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "kanyang mga banal na bagay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa koheno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:40.041143761Z",
+  "model": "glm-5.3"
+}

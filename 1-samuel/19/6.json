@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At nakinig si Sha'ul sa tinig ni Yehonatan, at nanumpa si Sha'ul: \"Buhay si Yahweh, hindi siya papatayin.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "At nakinig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha'ul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "at nanumpa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha'ul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "siya papatayin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:03.815800597Z",
+  "model": "glm-5.3"
+}

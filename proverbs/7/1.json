@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Anak ko, ingatan mo ang aking mga salita, at ang aking mga utos ay itago mo ⟨את⟩ sa iyong kalooban.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ingatan mo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "at ang aking mga utos"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "itago mo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa iyong kalooban",
+      "marks": "sa iyong kalooban"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:29.184371707Z",
+  "model": "glm-5.3"
+}

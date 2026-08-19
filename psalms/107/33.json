@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 107,
+  "translation": "Ginagawa ni Yahweh ang mga ilog na ⟨magiging⟩ ilang, at ang mga bukal ng tubig na ⟨magiging⟩ tuyong lupa.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ginagawa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga ilog"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "na ilang"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "at ang mga bukal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "na tuyong lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:52.012169458Z",
+  "model": "glm-5.3"
+}

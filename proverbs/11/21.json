@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Kamay sa kamay, hindi malilinis ang masama; ngunit ang binhi ng mga matuwid ay makakatakas.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "malilinis"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang masama"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ngunit ang binhi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "makakatakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:28.244398700Z",
+  "model": "glm-5.3"
+}

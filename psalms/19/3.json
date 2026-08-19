@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Araw sa araw ay bumubulusok ng salita, at gabi sa gabi ay nagpapakilala ng kaalaman.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "bumubulusok"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "salita"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at gabi"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "sa gabi"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nagpapakilala"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalaman"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:41.966712917Z",
+  "model": "glm-5.3"
+}

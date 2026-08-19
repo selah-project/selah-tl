@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 2:17",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At minahal ng hari si ⟨את⟩ Ester higit sa lahat ng mga babae, at nakasumulat siya ng biyaya at kagandahang-loob sa harapan niya higit sa lahat ng mga birhen; at inilagay niya ang korona ng paghahari sa kanyang ulo at pinaghari niya siya sa halip ni Vashti.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "at minahal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ng mga babae"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "at nakasumulat siya"
+    },
+    {
+      "surface": "חן",
+      "gloss": "biyaya"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "at kagandahang-loob"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ng mga birhen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "ang korona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ng paghahari"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "sa kanyang ulo"
+    },
+    {
+      "surface": "וימליכה",
+      "gloss": "at pinaghari niya siya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ni Vashti"
+    }
+  ],
+  "timestamp": "2026-08-19T19:04:29.641017220Z",
+  "model": "glm-5.3"
+}

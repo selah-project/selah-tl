@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "at tingnan ninyo ang pinakamabuti at matuwid sa mga anak ng inyong panginoon, at ilagay ninyo siya sa trono ng kaniyang ama, at makipaglaban kayo sa bahay ng inyong panginoon.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "at tingnan ninyo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang pinakamabuti"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "at matuwid"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ng inyong panginoon"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "at ilagay ninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "at makipaglaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ng inyong panginoon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:44:06.734911365Z",
+  "model": "glm-5.3"
+}

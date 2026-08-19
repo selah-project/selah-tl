@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Huwag ibigay, Yahweh, ang mga pithaya ng masama; ang kanyang balak ay huwag mong ipalabas; baka sila ay magmataas. Selah",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mo ⟨ibigay⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "mga pithaya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ang kanyang balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "mo ipalabas"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "magmataas sila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:30.669417451Z",
+  "model": "glm-5.3"
+}

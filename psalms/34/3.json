@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Sa Yahweh magmamalaki ang aking nefesh; makinig ang mga mapagpakumbaba at magsaya sila.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Sa Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "magmamalaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "makinig"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapagpakumbaba"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "at magsaya sila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.320496265Z",
+  "model": "glm-5.3"
+}

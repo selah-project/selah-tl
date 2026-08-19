@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Ang mga maharlika ng mga bansa ay nagkatipon ⟨bilang⟩ bayan ng Elohim ni Avraham; sapagkat kay Elohim ang mga kalasag ng lupa; lubos Siyang itinaas.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "mga maharlika"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mga kalasag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lubos"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "itinaas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:12.808428316Z",
+  "model": "glm-5.3"
+}

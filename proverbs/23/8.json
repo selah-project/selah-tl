@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Ang ⟨mga⟩ subo na nakain mo ay iluluwa mo, at nasayang ang iyong mga malalambing na salita.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "iyong ⟨mga⟩ subo"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "nakain mo"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "iluluwa mo"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "at nasayang"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga salita"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "malalambing"
+    }
+  ],
+  "timestamp": "2026-08-19T18:42:57.726738595Z",
+  "model": "glm-5.3"
+}

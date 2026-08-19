@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ito ang mga pangalan ng mga anak ni Yisra'el na papasok sa Mitzrayim: kasama ⟨את⟩ ni Yaakov, bawat lalaki at ang kaniyang sambahayan, ay dumating.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga pangalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "na papasok"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "at ang kaniyang sambahayan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ay dumating"
+    }
+  ],
+  "timestamp": "2026-08-19T14:25:52.741012044Z",
+  "model": "glm-5.3"
+}

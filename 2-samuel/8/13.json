@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Nagkamit si David ng pangalan noong siya'y bumalik mula sa pagpigil sa ⟨את⟩ Aram sa libis ng asin — labing walong libo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ginawa\/nagkamit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "noong siya'y bumalik"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "mula sa pagpigil niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ng asin"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "walong"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "labing"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:31.198742478Z",
+  "model": "glm-5.3"
+}

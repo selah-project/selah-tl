@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 148,
+  "translation": "Purihin ninyo siya, lahat ng kaniyang ⟨mga⟩ anghel; purihin ninyo siya, lahat ng kaniyang ⟨mga⟩ hukbo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Purihin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "kaniyang ⟨mga⟩ anghel"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "purihin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "kaniyang ⟨mga⟩ hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:15.929110280Z",
+  "model": "glm-5.3"
+}

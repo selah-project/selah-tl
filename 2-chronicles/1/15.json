@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ginawa ng hari ang ⟨את⟩ pilak at ang ⟨את⟩ ginto sa Yerushalayim na parang mga bato, at ang ⟨את⟩ mga sedro ay ibinigay niya na parang mga sikomoro na nasa kapatagan, sa kasaganaan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ginawa\/ibinigay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ginto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang ginto"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "na parang mga bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga sedro"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ay ibinigay niya"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "na parang mga sikomoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "nasa kapatagan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kasaganaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:27:51.193130879Z",
+  "model": "glm-5.3"
+}

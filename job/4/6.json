@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Hindi ba ang iyong pagkatakot ⟨sa Elohim⟩ ay ang iyong pagtitiwala, ang iyong pag-asa, at ang katapatan ng iyong mga lakad?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ang iyong pagkatakot"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "ang iyong pagtitiwala"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ang iyong pag-asa"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "at ang katapatan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ng iyong mga lakad"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:16.455762107Z",
+  "model": "glm-5.3"
+}

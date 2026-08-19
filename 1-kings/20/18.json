@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At kaniyang sinabi: Kung para sa kapayapaan sila lumabas, hulihin ninyo silang buhay; at kung para sa digmaan sila lumabas, buhay ninyo silang hulihin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "para sa kapayapaan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila lumabas"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "hulihin ninyo sila"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "para sa digmaan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila lumabas"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ninyo silang hulihin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:22.991355385Z",
+  "model": "glm-5.3"
+}

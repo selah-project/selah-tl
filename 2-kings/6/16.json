@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi niya: Huwag kang matakot, sapagkat higit ang mga kasama ⟨את⟩-natin kaysa mga kasama ⟨את⟩ nila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kang matakot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "higit ang bilang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang mga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kasama natin"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kaysa sa mga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:02.459742979Z",
+  "model": "glm-5.3"
+}

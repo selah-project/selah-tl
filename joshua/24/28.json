@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At pinawalan ni Yehoshua ang ⟨את⟩ bayan, bawat isa sa kanyang mana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "pinawalan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "sa kanyang mana"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:57.387901505Z",
+  "model": "glm-5.3"
+}

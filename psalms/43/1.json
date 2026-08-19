@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "Hatolin mo ako, Elohim, at ipagtanggol mo ang aking usapin laban sa bansang hindi sumasampalataya, sa taong mapanlinlang at mapaniil — iligtas mo ako.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "hatolin mo ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "at ipagtanggol mo"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ang aking usapin"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "laban sa bansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sumasampalataya"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ng mapanlinlang"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "at mapaniil"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "iligtas mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:23.666828316Z",
+  "model": "glm-5.3"
+}

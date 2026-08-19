@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ang handog nga sa kasalanan ng aking bayan ay kanilang kinakain, at sa kanilang kasamaan itinaas nila ang kanilang ⟨nafs⟩.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ang handog sa kasalanan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ay kanilang kinakain"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at patungo sa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kanilang kasamaan"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "itinaas nila"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kanilang nafs"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:30.170613644Z",
+  "model": "glm-5.3"
+}

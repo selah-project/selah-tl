@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Na hindi napuno ang palad ng mamamani, ⟨ni⟩ ang bisig ng nagtitipon ng mga bunga.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "na hindi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "palad"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "mamamani"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "at bisig niya"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "nagtitipon ng mga bunga"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.007198219Z",
+  "model": "glm-5.3"
+}

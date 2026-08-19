@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Magpuri kayo Yah; magpuri kayo sa ⟨את⟩ pangalan ni Yahweh; magpuri kayo, mga lingkod ni Yahweh,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "magpuri kayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "magpuri kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "magpuri kayo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga lingkod ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:24.399271381Z",
+  "model": "glm-5.3"
+}

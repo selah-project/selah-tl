@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kaya magtataas sila ng sigaw kay Yahweh, ngunit hindi sila sasagutin ⟨niya⟩; at ikukubli niya ang kaniyang mukha mula sa kanila sa panahong iyon, kung paanong kanilang ginawa ang kasamaan sa mga gawa nila.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kaya sa panahong iyon"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "magtataas sila ng sigaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sasagutin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silang sumisigaw"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "at ikukubli niya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kaniyang mukha"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "mula sa kanila"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "na iyon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "ginawa ang kasamaan"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sa mga gawa nila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:48.354395532Z",
+  "model": "glm-5.3"
+}

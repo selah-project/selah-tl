@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinugo ni Yahweh si ⟨את⟩ Natan kay David, at dumating siya sa kaniya at sinabi niya sa kaniya: May dalawang lalaki na nasa isang lungsod; ang isa ay mayaman, at ang isa ay maralita.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at sinugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay nasa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa lungsod"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mayaman"
+    },
+    {
+      "surface": "ו אחד",
+      "gloss": "at ang isa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "maralita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:54.239645943Z",
+  "model": "glm-5.3"
+}

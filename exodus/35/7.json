@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "At mga balat ng tupa-na-ram na tinina pula, at mga balat ng takash, at mga kahoy ng akasya.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "at mga balat"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ng mga ram (tupa-na-ram)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tinina pula"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "at mga balat"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ng takash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "at mga kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ng akasya (shittim)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:28.897788416Z",
+  "model": "glm-5.3"
+}

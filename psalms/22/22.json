@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Iligtas mo ako sa bibig ng leon, at mula sa mga sungay ng mga mabal na toro ay sumagot ka sa akin.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "iligtas mo ako"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "sa bibig"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ng leon"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "at mula sa mga sungay"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ng mga mabal na toro"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "sumagot ka sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:37.836321499Z",
+  "model": "glm-5.3"
+}

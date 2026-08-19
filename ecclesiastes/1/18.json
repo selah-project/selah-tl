@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat sa kasaganaan ng karunungan ay kasaganaan din ng kapaitan; at ang nagdaragdag ng kaalaman ay nagdaragdag ng hirap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kasaganaan din"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ng kapaitan"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "at ang nagdaragdag"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ng kaalaman"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ay nagdaragdag"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ng hirap"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:56.253487745Z",
+  "model": "glm-5.3"
+}

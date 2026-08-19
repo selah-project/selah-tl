@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At nangyari sa araw natapos ni Moshe ang itinayo ang ⟨את⟩ tabernakulo, at pinahiran niya ito ng langis at inilaan ito, at ang ⟨את⟩ lahat ng mga kagamitan nito, at ang ⟨את⟩ altar at ang ⟨את⟩ lahat ng mga kagamitan nito; at pinahiran niya sila ng langis at inilaan sila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "natapos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ang itinayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakulo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "at pinahiran ng langis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "tabernakulo (inilaan)"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "at inilaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang tabernakulo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "at pinahiran sila ng langis"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "at inilaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (altar at mga kagamitan)"
+    }
+  ],
+  "timestamp": "2026-08-19T15:04:09.883845055Z",
+  "model": "glm-5.3"
+}

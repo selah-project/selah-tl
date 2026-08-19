@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At narinig ni Adonijahu at ng lahat ng mga inanyayahan na ⟨את⟩ kasama niya, at sila'y tinatapos na kumain; at narinig ni Yoav ang ⟨את⟩ tunog ng shofar, at sinabi niya, Bakit ang bayan ay nag-uugong ng malakas?",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijahu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ng lahat"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "mga inanyayahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "kasama niya"
+    },
+    {
+      "surface": "והם",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tinatapos"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tunog"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ng shofar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tunog"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "nag-uugong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:33.940861595Z",
+  "model": "glm-5.3"
+}

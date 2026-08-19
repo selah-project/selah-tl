@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Shemuel sa tagatagak: Ibigay mo ang ⟨את⟩ bahagi na ibinigay ko sa iyo, na sinabi ko sa iyo: Ilagay mo ⟨ang⟩ ⟨את⟩ iyon na kasama mo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "sa tagatagak"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahagi"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ang bahagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ilagay mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyan (na kasama mo)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kasama mo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:01:49.565413849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang mga nakakakita sa iyo ay tititig sa iyo, sa iyo yayamanman: Ito ba ang lalaking nagpabalisa sa lupa, na nagyanig ng mga kaharian?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Ang mga nakakakita sa iyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "ay tititig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "yayamanman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Ito ba"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "nagpabalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nagyanig"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ng mga kaharian"
+    }
+  ],
+  "timestamp": "2026-08-19T16:57:09.769798387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Makinig ka, O anak na babae, at tumingin, at ikiling ang iyong tainga; kalimutan mo rin ang iyong bayan at ang bahay ng iyong ama.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "makinig ka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "O anak na babae"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "at tumingin"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "at ikiling"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang iyong tainga"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "at kalimutan mo rin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang iyong bayan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang bahay ng"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "iyong ama"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:22.578276044Z",
+  "model": "glm-5.3"
+}

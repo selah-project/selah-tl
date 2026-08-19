@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ni Elisha sa kanya: Yumaon ka, sabihin mo: Gagaling ka nga; ngunit ipinakita sa akin ni Yahweh na siya ay tiyak na mamamatay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yumaon ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨hindi⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mabuhay"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "gagaling ka"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ngunit ipinakita sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamamatay"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "tiyak na mamamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:40.834630961Z",
+  "model": "glm-5.3"
+}

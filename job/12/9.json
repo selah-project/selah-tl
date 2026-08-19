@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sino ang hindi nakakaalam sa lahat ng ⟨itong mga bagay⟩ na ang kamay ni Yahweh ang gumawa ⟨nito⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨itong mga bagay⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gumawa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨nito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:36.011629065Z",
+  "model": "glm-5.3"
+}

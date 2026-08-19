@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At nagtakda si Yahweh ng takdang panahon, na nagsasabi: Bukas ay gagawin ni Yahweh ang ⟨את⟩ bagay na ito sa lupain.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "At nagtakda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takdang panahon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Bukas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:21.929801642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ano pa bang gagawin ko sa aking ubasan na hindi ko pa ginawa ⟨dito⟩? Bakit inaasahan kong magbubunga ito ng ubas, ngunit namunga ito ng maasim na bunga?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ano pa bang"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gagawin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "sa aking ubasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hindi ko pa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dito⟩"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Bakit"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "inaasahan ko"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na magbubunga"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ng ubas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ngunit namunga ito"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "ng maasim na bunga"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:32.352386390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nadungisan ang lupa, at ibinilang Ko ang kasamaan nito dito rito, at isinuka ng lupa ang ⟨את⟩ mga naninirahan dito.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "at nadungisan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "at ibinilang Ko"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ang kasamaan nito"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dito rito"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "at isinuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga naninirahan dito"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ang mga naninirahan dito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:08.718035588Z",
+  "model": "glm-5.3"
+}

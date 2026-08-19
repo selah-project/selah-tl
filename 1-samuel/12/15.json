@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ngunit kung hindi kayo makikinig sa tinig ni Yahweh at maghungkag kayo sa ⟨את⟩ bibig ni Yahweh, ay magiging laban sa inyo at sa inyong mga magulang ang kamay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ngunit kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kayo makikinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "at maghungkag kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibig ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ay magiging"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "laban sa inyo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "at sa inyong mga magulang"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:10.762238320Z",
+  "model": "glm-5.3"
+}

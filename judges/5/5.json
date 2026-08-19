@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Nagbula ang mga bundok mula sa harapan ni Yahweh — itong Sinai — mula sa harapan ni Yahweh, Elohim ng Israel.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "mga bundok"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "nagbula"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harapan ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T15:48:17.314392519Z",
+  "model": "glm-5.3"
+}

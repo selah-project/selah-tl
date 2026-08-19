@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 59,
+  "translation": "Sapagkat ang inyong mga palad ay nadumhan ng dugo, at ang inyong mga daliri ng kasamaan; ang inyong mga labi ay nagsalita ng kasinungalingan, ang inyong dila ay bumubulong ng kawalang-katarungan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "inyong mga palad"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "nadumhan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ng dugo"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "at ang inyong mga daliri"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "inyong mga labi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "inyong dila"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ng kawalang-katarungan"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "bumubulong ng"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:40.356262404Z",
+  "model": "glm-5.3"
+}

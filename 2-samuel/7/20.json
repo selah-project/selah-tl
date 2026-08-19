@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ano pa ang maidaragdag ni David na sabihin sa Iyo? Sapagkat Ikaw, nababatid Mo ang ⟨את⟩ iyong lingkod, Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "at ano pa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ang maidaragdag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na sabihin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa Iyo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "at Ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nababatid Mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong lingkod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang iyong lingkod"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:09.627515299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 102,
+  "translation": "Ang aking mga araw ay parang aninaw na humahaba, at ako ay nalanta na parang damo.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "aking mga araw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "parang aninaw"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "na humahaba"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "parang damo"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "nalanta"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:29.555658091Z",
+  "model": "glm-5.3"
+}

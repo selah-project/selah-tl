@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ang aking kalasag ⟨ay⟩ kay Elohim, tagapagligtas ng mga matuwid sa puso.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ang aking kalasag"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "tagapagligtas"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ng mga matuwid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:23.034648533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At sa iyong hayop, at sa mababangis na hayop na nasa iyong lupa — magiging pagkain ang buong ani nito.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "at sa hayop mo"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "at sa mababangis na hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa lupa mo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ani nito"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pagkain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:54.110988334Z",
+  "model": "glm-5.3"
+}

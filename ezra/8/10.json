@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At mula sa mga anak ni Shelomit: ang anak ni Yosifyah, at kasama niya ang isang daan at animnapung mga lalaki.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "at mula sa mga anak ni"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak ni"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "Yosifyah"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "at kasama niya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "at animnapu"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "mga lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T19:13:39.250282792Z",
+  "model": "glm-5.3"
+}

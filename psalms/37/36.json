@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Ngunit lumipas siya, at narito, wala na siya; hinanap ko siya, ngunit hindi na natagpuan.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ngunit lumipas siya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na siya"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "hinanap ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "natagpuan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:46.409116461Z",
+  "model": "glm-5.3"
+}

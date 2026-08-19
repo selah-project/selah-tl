@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Maging sa iyo lamang, at hindi sa mga dayuhan ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "sa mga dayuhan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ mo",
+      "marks": "sa mga dayuhan (kasama mo)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:02.753915544Z",
+  "model": "glm-5.3"
+}

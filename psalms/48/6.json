@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Nakita nila ito, kaya't nanggilalas sila; nataranta sila, nagmadaling tumakas.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "nanggilalas"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nataranta"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "nagmadling tumakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:02.618007204Z",
+  "model": "glm-5.3"
+}

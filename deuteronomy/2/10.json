@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "⟨Ang⟩ mga Eimim noon ang nakatira doon — isang bansang dakila at marami at matangkad, gaya ng mga Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "⟨ang⟩ mga Eimim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "noon"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nakatira"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isang bansa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "na dakila"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at marami"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "at matangkad"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "gaya ng mga Anakim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:31.969256530Z",
+  "model": "glm-5.3"
+}

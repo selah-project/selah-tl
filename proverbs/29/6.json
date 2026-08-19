@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Sa pagkakasala ng masamang tao ⟨ay⟩ bituin ng silo, ngunit ang matuwid ay mag-aawit at magagalak.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "sa pagkakasala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "silo"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ngunit ang matuwid"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "mag-aawit nang malakas"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "at magagalak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:29.307578595Z",
+  "model": "glm-5.3"
+}

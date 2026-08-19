@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Nakarirating ang laki ng iyong mga gawa, Yahweh; napakalalim ng iyong mga pag-iisip.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nakaririting"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ang laki"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ng iyong mga gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "lalim"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ng iyong mga pag-iisip"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:36.971223039Z",
+  "model": "glm-5.3"
+}

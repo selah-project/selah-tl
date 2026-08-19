@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat nasa lilim ng karunungan, nasa lilim ng pilak; ngunit ang pagiging higit ng kaalaman ay ⟨ito⟩: ang karunungan ay nagpapasá-buhay sa mga may-ari nito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nasa lilim"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ng karunungan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "nasa lilim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ngunit ang pagiging higit"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ng kaalaman"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ang karunungan"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "nagpapasá-buhay"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "sa mga may-ari nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:00.593966455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Walang pala, ang ating mga karamdaman ay kaniyang dinamit, at ang ating mga sakit ay kaniyang binalan; ngunit tayo ay nagtingin sa kaniya na tinamaan, hinampas ng Elohim, at pinalunan.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "walang pala"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "ang ating mga karamdaman"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dinamit"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "at ang ating mga sakit"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "binalan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ngunit tayo"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "nagtingin sa kaniya"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "na tinamaan"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "hinampas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "at pinalunan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:47:28.151302154Z",
+  "model": "glm-5.3"
+}

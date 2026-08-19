@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Sapagkat ginawa mo ng lungsod ⟨na⟩ bunton, ng ⟨isang⟩ kuta na lungsod ⟨na⟩ guho; kuta ng mga dayuhan — lungsod na magpakailanman ay hindi maitatayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "bunton"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "guho"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "kuta ng mga dayuhan"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "maitatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:59:52.305436216Z",
+  "model": "glm-5.3"
+}

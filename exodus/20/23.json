@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Huwag kayong gagawa ⟨את⟩ kasama ko ng mga diyos na pilak, at mga diyos na ginto ay huwag kayong gagawa para sa inyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kayong gagawa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kasama ko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga diyos na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "at mga diyos na"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kayong gagawa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:34.799779351Z",
+  "model": "glm-5.3"
+}

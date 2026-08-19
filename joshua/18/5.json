@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At hahatiin nila ⟨את⟩ niya sa pitong bahagi: ang Yehudah ay tatayo sa hangganan niya sa timog, at ang bahay ni Yosef ay tatayo sa hangganán nila sa hilaga.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "at hahatiin nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niya (ang lupa)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "sa pitong"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bahagi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "hangganan niya"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sa timog"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang bahay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tatayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hangganán nila"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa hilaga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:06.064893884Z",
+  "model": "glm-5.3"
+}

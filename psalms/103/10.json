@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Hindi ayon sa ⟨mga⟩ kasalanan namin ginawa ⟨niya⟩ sa amin, at hindi ayon sa ⟨mga⟩ pagkakasala namin ginanti ⟨niya⟩ sa amin;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "ayon sa mga kasalanan namin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "ayon sa mga pagkakasala namin"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ginanti"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.557601591Z",
+  "model": "glm-5.3"
+}

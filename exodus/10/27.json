@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At pinatibay ni Yahweh ang ⟨את⟩ puso ni Paroh, at hindi siya naging handa na paalisin sila.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "at pinatibay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "naging handa"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "na paalisin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:32.825400309Z",
+  "model": "glm-5.3"
+}

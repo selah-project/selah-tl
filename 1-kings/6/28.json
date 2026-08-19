@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At biniyakan niya ng ginto ang ⟨את⟩ mga kerub.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "at biniyakan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kerub"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ang mga kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:34.521675111Z",
+  "model": "glm-5.3"
+}

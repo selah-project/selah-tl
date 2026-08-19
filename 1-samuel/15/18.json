@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At pinadala ka ni Yahweh sa isang lakad, at sinabi: Umalis ka at ilaan sa pagkapahinà ⟨את⟩ mga makasalanan, ⟨את⟩ Amalek, at makipaglaban ka sa kanila hanggang sa kanilang pagkaubos, ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "at pinadala ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa isang lakad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "umalis ka"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "at ilaan mo sa pagkapahinà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga makasalanan"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ang mga makasalanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "at makipaglaban ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "kanilang pagkaubos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:29.746998782Z",
+  "model": "glm-5.3"
+}

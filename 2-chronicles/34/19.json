@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At nangyari, nang marinig ng hari ang ⟨את⟩ mga salita ng Torah, punitin niya ang ⟨את⟩ kanyang mga damit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nang marinig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita ng Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ng Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "punitin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga damit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kanyang mga damit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:56:59.951753354Z",
+  "model": "glm-5.3"
+}

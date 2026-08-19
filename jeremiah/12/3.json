@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Datapwa't Ikaw, Yahweh, nakakilala Ka sa akin, nakikita Mo ako, at sinubok Mo ang aking puso ⟨kaugnay⟩ ⟨את⟩ Iyo; hilahin Mo sila na parang mga tupa hanggang pagkatay, at itinalaga Mo silang bukod sa araw ng pagpatay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "datapwa't Ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "nakakilala Ka sa akin"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "nakikita Mo ako"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "at sinubok Mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sa Iyo",
+      "marks": "kaugnay sa Iyo"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "hilahin Mo sila"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "parang mga tupa"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "hanggang pagkatay"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "at itinalaga Mong bukod sila"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "ng pagpatay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:15.051189325Z",
+  "model": "glm-5.3"
+}

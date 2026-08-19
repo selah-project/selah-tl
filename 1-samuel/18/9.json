@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At nangyari na si Shaul ay nagbantay kay David ⟨את⟩ mula sa araw na yaon at pagkatapos.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "mula sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "at pagkatapos"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:06.680887277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At kinuha ni Naomi ang ⟨את⟩ bata at inilagay siya sa kanyang kandungan, at naging yaya siya nito.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "at kinuha"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "at inilagay siya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sa kanyang kandungan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "yaya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:41.605252920Z",
+  "model": "glm-5.3"
+}

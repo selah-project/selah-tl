@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Oras ⟨ang⟩ manganak, at oras ang mamatay; oras ang magtanim, at oras ang bumunot ng itinanim.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ang manganak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ang mamatay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oras"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ang magtanim"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at oras"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ang bumunot"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ng itinanim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:16.095344937Z",
+  "model": "glm-5.3"
+}

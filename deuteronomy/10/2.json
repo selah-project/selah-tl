@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At isusulat ko sa mga tapyas ang ⟨את⟩ mga salita na nasa mga unang tapyas, na iyong sinira, at ilalagay mo sila sa arka.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "at isusulat ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga tapyas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga salita"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga tapyas"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ang mga una"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "iyong sinira"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "at ilalagay mo sila"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa arka"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:11.200570499Z",
+  "model": "glm-5.3"
+}

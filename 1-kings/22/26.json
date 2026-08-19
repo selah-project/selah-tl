@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At sinabi ng hari ng Israel: Kunin ang ⟨את⟩ Mikayahu at ibalik siya kay Amon, pinuno ng lungsod, at kay Yoash na anak ng hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kunin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ang Mikayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "at ibalik siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at kay"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T19:45:14.324954528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang lumalakad ⟨את⟩ mga marurunong ay magiging marunong, ngunit ang karamay ng mga hangal ay masisira.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ang lumalakad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga marurunong"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mga marurunong"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ay magiging marunong"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ngunit ang karamay"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ng mga hangal"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ay masisira"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:40.640943245Z",
+  "model": "glm-5.3"
+}

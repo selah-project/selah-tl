@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At idinagdag pa ni David na magtanong kay Yahweh, at sinagot siya ni Yahweh at nagsabi: Tumindig ka, bumaba ka sa Keilah, sapagkat ako ay ibibigay ang ⟨את⟩ mga Pelishtey sa iyong kamay.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "at idinagagdag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "na magtanong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "at sinagot siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "bumaba ka"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ay ibibigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Pelishtey"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishtey"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:30.485714251Z",
+  "model": "glm-5.3"
+}

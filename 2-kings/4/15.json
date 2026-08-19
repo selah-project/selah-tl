@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sinabi niya: Tawagin mo siya. At tinawag niya siya, at tumayo siya sa pintuan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tawagin mo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at tinawag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "at tumayo siya"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "sa pintuan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:34.678767828Z",
+  "model": "glm-5.3"
+}

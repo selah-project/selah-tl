@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Sapagkat dukha at maralita ako, at ang aking puso ⟨ay⟩ nasugatan sa loob ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "at maralita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "at aking puso"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nasugatan"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sa loob ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:50.959792006Z",
+  "model": "glm-5.3"
+}

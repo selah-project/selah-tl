@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Walang alaala para sa mga nauna, at gayon din para sa mga hulí na mangyayari — hindi sila magkakaroon ng alaala kasama ng mga darating sa hulí.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walang"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "alaala"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "para sa mga nauna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at gayon din"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "para sa mga hulí"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "na mangyayari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkakaroon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ng alaala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "mga darating"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "sa hulí"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:43.206306097Z",
+  "model": "glm-5.3"
+}

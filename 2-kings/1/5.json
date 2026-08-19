@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Bumalik ang mga sugo sa kaniya, at sinabi niya sa kanila: Ano ito, kayo'y nagsibalik?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "bumalik"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga sugo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kayo'y nagsibalik"
+    }
+  ],
+  "timestamp": "2026-08-19T16:40:05.059444927Z",
+  "model": "glm-5.3"
+}

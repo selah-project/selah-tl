@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Pumunta ka, sabihin mo sa kanila: Magbalik kayo sa inyo, sa inyong mga tolda.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pumunta ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabihin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "magbalik kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "sa inyong mga tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:39.877487845Z",
+  "model": "glm-5.3"
+}

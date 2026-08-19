@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At iniulat kay David ⟨את⟩ ang ginawa ni Ritspah na anak ni Aiyah, ang babae ni Shaúl.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "at iniulat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa ni Ritspah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "si Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ni Aiyah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-19T16:21:43.917446236Z",
+  "model": "glm-5.3"
+}

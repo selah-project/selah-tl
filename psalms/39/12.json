@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "Sa mga pagsaway dahil sa kasamaan sinasanay mo ang tao, at tulad ng tanga ngdamit sinusunog mo ang kaniyang kinalulugdan; tunay na ang lahat ng tao ay kalagay-lagas. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "sa mga pagsaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "sinasanay mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "at sinusunog mo"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "tulad ng tanga-ng-damit"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ang kaniyang kinalulugdan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kalagay-lagas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:42.377304148Z",
+  "model": "glm-5.3"
+}

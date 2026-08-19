@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Nagtatag ⟨siya⟩ ng patotoo sa Yaakov, at naglagay ng tora sa Yisrael, na iniutos ⟨niya⟩ ⟨את⟩ aming mga ama, upang ipaalam ⟨iyon⟩ sa kanilang mga anak.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nagtatag"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "at tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naglagay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aming mga ama"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aming mga ama"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "upaang ipaalam sa kanila"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa kanilang mga anak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.009319091Z",
+  "model": "glm-5.3"
+}

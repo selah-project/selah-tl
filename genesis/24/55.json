@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At nagsabi ang kanyang kapatid na lalaki at ang kanyang ina: Umuwi muna ang dalagita ⟨את⟩ kasama namin ng mga araw o sampung araw; pagkatapos ay maaari na siyang umalis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ang kanyang kapatid na lalaki"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "at ang kanyang ina"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "umaupo\/umuwi muna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang dalagita"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kasama namin",
+      "marks": "ang dalagita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "maaari na siyang umalis"
+    }
+  ],
+  "timestamp": "2026-08-19T14:15:05.498042732Z",
+  "model": "glm-5.3"
+}

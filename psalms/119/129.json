@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Kahanga-hanga ang ⟨mga⟩ patotoo mo; kaya't iningatan ng aking kaluluwa ang mga ito.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "kahanga-hanga"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mga patotoo mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "iningatan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:04.387291709Z",
+  "model": "glm-5.3"
+}

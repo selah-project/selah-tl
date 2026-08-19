@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sa banal ng mga banal kakainin mo ito; bawat lalaki kakain ng ⟨את⟩ banal na iyon; banal magiging sa iyo.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "sa banal"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ng mga banal"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "kakainin mo ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "banal na iyon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:40:49.638216565Z",
+  "model": "glm-5.3"
+}

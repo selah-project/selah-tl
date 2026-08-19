@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Magpasalamat kayo kay Yahweh sa kinor, sa nebel na may sampong tali; magsi-tugtog para sa kaniya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "magpasalamat kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sampong tali"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "magsi-tugtok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:44.172890255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ang mga anak ni Yisrael ay namunga, nagdami nang kumikinang, dumami, at lumakas na lubos na lubos; at napuno ⟨את⟩ ang lupain ng kanila.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "namunga"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "nagdami nang kumikinang"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "dumami"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "lumakas"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "na lubos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na lubos"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "at napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupain"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ng kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:52.966074039Z",
+  "model": "glm-5.3"
+}

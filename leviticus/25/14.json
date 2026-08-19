@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At kung magbibili kayo ng pagbiling-paninda sa inyong kapwa, o bumibili mula sa kamay ng inyong kapwa, huwag ninyong papanlamang ang isa ⟨את⟩ sa kanyang kapatid.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "magbibili kayo"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "pagbibilian"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "sa iyong kapwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bumibili"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ng iyong kapwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "mang-api"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kanyang kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa kanyang kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:11.623642233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ginawa ng Elohim ang ⟨את⟩ kakalat, at hinati niya sa pagitan ng mga tubig na nasa ilalim ng kakalat at sa pagitan ng mga tubig na nasa itaas ng kakalat; at nangyari nga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "At ginawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakalat"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ang kakalat"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "at hinati"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa pagitan ng"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nasa ilalim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ng kakalat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "at sa pagitan ng"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nasa itaas"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ng kakalat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:52.002457431Z",
+  "model": "glm-5.3"
+}

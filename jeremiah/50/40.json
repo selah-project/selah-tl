@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Tulad ng pagpatalsik ni Elohim sa ⟨את⟩ Sodoma at sa ⟨את⟩ Amora at sa ⟨את⟩ mga kapitbahay nito, ani Yahweh; hindi tatahan doon ang sinuman, at hindi magpapakitang-tao doon ang anak ni Adan.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "tulad ng pagpatalsik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga kapitbahay nito"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "mga kapitbahay nito"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sinuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "magpapakitang-tao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon sa kanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:36:50.562520249Z",
+  "model": "glm-5.3"
+}

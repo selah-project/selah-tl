@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Sapagkat dumarating ang pangarap sa kasaganaan ng aba, at ang tinig ng hangal sa kasaganaan ng mga salita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dumarating"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ang pangarap"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "aba"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "at ang tinig"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ng hangal"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga salita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:56.593107588Z",
+  "model": "glm-5.3"
+}

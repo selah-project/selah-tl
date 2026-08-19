@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At kung tubusin ng naglaan ang ⟨את⟩ kaniyang bahay, magdaragdag siya ng ikalimang bahagi ng pilak ng iyong pagtatalaga ng halaga dito, at ito ⟨ay⟩ magiging kaniya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ng naglaan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tubusin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaniyang bahay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang kaniyang bahay"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "magdaragdag siya"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ikalimang bahagi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ng pilak"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ng iyong pagtatalaga ng halaga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dito"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:49.844780242Z",
+  "model": "glm-5.3"
+}

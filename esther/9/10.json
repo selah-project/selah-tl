@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang sampung anak ni Haman, anak ni Hamedata, na kaaway ng mga Judio — pinatay nila; ngunit sa pamimighati ay hindi nila iniabot ang ⟨את⟩ kanilang kamay.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ng mga Judio"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pinatay nila"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "sa pamimighati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iniabot nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kamay"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kanilang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:18.266042415Z",
+  "model": "glm-5.3"
+}

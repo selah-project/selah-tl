@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Ang aming banal at aming marilag na bahay, kung saan pinuri ka ng aming mga ama, ay naging sinusunog-ng-apoy; at ang lahat ng aming kinalulugdang mga bagay ay naging wasak.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "aming banal"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "at aming kaluwalhatian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kung saan"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "pinuri ka"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aming mga ama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "sa pagkasunog"
+    },
+    {
+      "surface": "אש",
+      "gloss": "apoy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "aming kinalulugdan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "sa pagkawasak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:26.455375678Z",
+  "model": "glm-5.3"
+}

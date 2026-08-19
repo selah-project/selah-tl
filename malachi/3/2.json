@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sino ang makatitiis sa ⟨את⟩ araw ng kaniyang pagdating? At sino ang matatagal kapag siya'y lumitaw? Sapagkat siya'y parang apoy ng nagdidalisay at parang sabon ng mga tagapaglaba.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "At sino"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ang makatitiis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "ng kaniyang pagdating"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ang matatagal"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "kapag siya'y lumitaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "parang apoy"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "ng nagdidalisay"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "at parang sabon"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "ng mga tagapaglaba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:11:26.053242735Z",
+  "model": "glm-5.3"
+}

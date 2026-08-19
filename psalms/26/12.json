@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang aking paa ay tumayong matatag sa matuwid na dako; sa mga kapisanan papurihan ko si Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Ang aking paa"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ay tumayong matatag"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sa matuwid na dako"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "sa mga kapisanan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "papurihan ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:53.769479224Z",
+  "model": "glm-5.3"
+}

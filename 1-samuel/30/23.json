@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At sinabi ni David: Hindi ninyo gagawin ang gayon, mga kapatid ko, tungkol ⟨את⟩ sa ibinigay ni Yahweh sa atin, nang ipagtanggol niya ⟨את⟩ tayo at ibigay ang ⟨את⟩ bantayog na lumaban sa atin sa ating kamay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mga kapatid ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ibinigay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "at ipagtanggol niya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tayo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bantayog"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ang bantayog"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "na lumaban"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa atin"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "sa ating kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:25.650451053Z",
+  "model": "glm-5.3"
+}

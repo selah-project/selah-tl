@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang pari na maghahandog ng ⟨את⟩ handog na sinusunog ng sinuman — ang balat ng handog na iyon na kanyang inihandog sa pari, sa kanya magiging iyon.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "at ang pari"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "na maghahandog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog na sinusunog ng sinuman"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "handog na sinusunog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng sinuman"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ang balat"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na sinusunog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "inihandog"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:33.237678649Z",
+  "model": "glm-5.3"
+}

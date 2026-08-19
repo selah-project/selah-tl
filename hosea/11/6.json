@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Sasapit ang tabak sa mga lungsod niya, lilipulin ⟨nito⟩ ang mga panghad niya, at lalamunin sila dahil sa kanilang sariling mga pagpapasya.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "sasapit"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "sa mga lungsod niya"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "lilipulin"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang mga panghad niya"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "lalamunin"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "dahil sa kanilang mga pagpapasya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:13.919732952Z",
+  "model": "glm-5.3"
+}

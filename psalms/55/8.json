@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Tingnan, malayo akong lilipad, magpapahinga sa ilang. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tingnan"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "malayo"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "lilipad"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "magpapahinga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:59.883537612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At sinabi ni Balak kay Bilam: Huwag mo rin namang sumpain sila, huwag mo rin namang pagpalain sila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ni Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin naman"
+    },
+    {
+      "surface": "קב",
+      "gloss": "sumpain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "mo silang sumpain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin naman"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "pagpalain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "mo silang pagpalain"
+    }
+  ],
+  "timestamp": "2026-08-19T15:13:08.828032691Z",
+  "model": "glm-5.3"
+}

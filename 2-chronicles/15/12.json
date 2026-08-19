@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At pumasok sila sa tipanan upang hanapin si ⟨את⟩ Yahweh, ang Elohim ng kanilang mga ninuno, nang buong puso nila at nang buong kaluluwa nila.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at pumasok sila"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "sa tipanan"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "upang hanapin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "kanilang mga ninuno"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nang buong"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "puso nila"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "at nang buong"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "kaluluwa nila"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:06.806750072Z",
+  "model": "glm-5.3"
+}

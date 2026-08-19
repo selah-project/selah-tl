@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Hanggang kailan ninyo sasalakayin ⟨ang⟩ isang tao, papatayin ninyo siya — kayong lahat, na parang pader na nakayuko, bakod na nadaganan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hanggang"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "sasalakayin ninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "papatayin ninyo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kayong lahat"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "parang pader"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "na nakayuko"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "bakod"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "na nadaganan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:44.126568772Z",
+  "model": "glm-5.3"
+}

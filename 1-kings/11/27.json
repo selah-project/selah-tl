@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ito ang dahilan kung bakit iniangat niya ang kamay laban sa hari: nagtayo si Shelomoh ng ⟨את⟩ Milo, isinara niya ang ⟨את⟩ bungad ng lungsod ni David na kaniyang ama.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "iniangat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "laban sa hari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ang Milo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "isinara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bungad ng lungsod ni David"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "bungad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na kaniyang ama"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:42.113500135Z",
+  "model": "glm-5.3"
+}

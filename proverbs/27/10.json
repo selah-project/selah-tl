@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ang iyong kaibigan at ang kaibigan ng iyong ama ay huwag mong iwanan, at sa bahay ng iyong kapatid ay huwag kang pumasok sa araw ng iyong kalamidad; mabuti ang kapitbahay na malapit kaysa kapatid na malayo.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "ang iyong kaibigan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "at ang kaibigan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ng iyong ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "mong iwanan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at sa bahay"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ng iyong kapatid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kang pumasok"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "ng iyong kalamidad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ang kapitbahay"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "na malapit"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kaysa kapatid"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "na malayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:10.988789031Z",
+  "model": "glm-5.3"
+}

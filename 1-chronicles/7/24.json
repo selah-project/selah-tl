@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ang kanyang anak na babae ay si Sheera, at itinayo niya ang ⟨את⟩ Beit-Choron na mababa at ang ⟨את⟩ mataas, at ang ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "At ang kanyang anak na babae"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ay si Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "at itinayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron na mababa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "na mababa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mataas (na Beit-Choron)"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-19T19:21:59.571371039Z",
+  "model": "glm-5.3"
+}

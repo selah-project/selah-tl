@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At hinugasan niya ⟨את⟩ ⟨ang⟩ loob-looban at ⟨את⟩ ⟨ang⟩ mga binti; at pinasingawan niya ⟨ito⟩ sa ibabaw ng handog na susunugin, sa ⟨ang⟩ dambana.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "at hinugasan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loob-looban"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "loob-looban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga binti"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "mga binti"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "at pinasingawan niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dambana"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:53.828936319Z",
+  "model": "glm-5.3"
+}

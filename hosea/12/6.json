@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At si Yahweh, Elohim ng mga hukbo — si Yahweh, ⟨ay⟩ ⟨ang⟩ kanyang pangalaalang-alay.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "At si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ng"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "mga hukbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kanyang pangalaalang-alay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:39.348331501Z",
+  "model": "glm-5.3"
+}

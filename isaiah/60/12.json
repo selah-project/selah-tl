@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Sapagkat ang bansa at ang kaharian na hindi maglilingkod sa iyo ay mapapahamak, at ang mga bansa ay lubos na mga wasak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang bansa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "at ang kaharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "maglilingkod sa iyo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mapapahamak"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "at ang mga bansa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mga wasak"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "lubos na mawawasak"
+    }
+  ],
+  "timestamp": "2026-08-19T17:12:16.916420470Z",
+  "model": "glm-5.3"
+}

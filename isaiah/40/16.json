@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ⟨ang⟩ Lebanon ay hindi sapat na pang-apoy, at ⟨ang⟩ mga hayop nito ay hindi sapat na handog na susunugin.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "At Lebanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay wala"
+    },
+    {
+      "surface": "די",
+      "gloss": "sapat"
+    },
+    {
+      "surface": "בער",
+      "gloss": "na pang-apoy"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "at mga hayop nito"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay wala"
+    },
+    {
+      "surface": "די",
+      "gloss": "sapat"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "na handog na susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:17.797967238Z",
+  "model": "glm-5.3"
+}

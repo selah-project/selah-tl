@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At inilabas niya ⟨את⟩ ako sa maluwag na lugar; kinaligtasan niya ako, sapagkat nalugod siya sa akin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "at inilabas niya"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "sa maluwag na lugar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "kinaligtasan niya ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalugod siya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:44:36.653268948Z",
+  "model": "glm-5.3"
+}

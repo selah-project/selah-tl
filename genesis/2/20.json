@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At naglagay ang tao ng mga pangalan sa lahat ng hayopan, at sa mga ibon ng mga langit, at sa bawat hayop ng parang; ngunit para sa tao, hindi nakatagpo ng katulong na katumbas niya.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tumawag\/naglagay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ng mga pangalan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayopan"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "at sa mga ibon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "at sa bawat"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng parang"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ngunit para sa tao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakatagpo"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "katulong"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "na katumbas niya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:06:58.072395566Z",
+  "model": "glm-5.3"
+}

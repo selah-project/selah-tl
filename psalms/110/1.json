@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 110,
+  "translation": "Mizmór ni David. Ang sabi ni Yahweh sa panginoon ko: \"Umupo ka sa kanan ko, hanggang ilagay ko ang mga kaaway mo bilang tungtungan ng mga paa mo.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór (awit)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sa panginoon ko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "umupo ka"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sa kanan ko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ilagay ko"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mga kaaway mo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tungtungan"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ng mga paa mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:29.004690201Z",
+  "model": "glm-5.3"
+}

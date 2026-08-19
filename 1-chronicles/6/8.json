@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "si Elkana ang kaniyang anak, at si Evyasaf ang kaniyang anak, at si Asir ang kaniyang anak.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kaniyang anak"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "at si Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kaniyang anak"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "at si Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang kaniyang anak"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:54.827847585Z",
+  "model": "glm-5.3"
+}

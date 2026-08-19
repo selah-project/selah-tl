@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Si Yahweh ang nagpapahirap at nagpapayaman, nagpapababa at maging nagpapataas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "nagpapahirap"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "at nagpapayaman"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nagpapababa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "maging"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "nagpapataas"
+    }
+  ],
+  "timestamp": "2026-08-19T15:57:33.838110213Z",
+  "model": "glm-5.3"
+}

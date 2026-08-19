@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang mga kumukampo sa silangan, patungo sa pagsikat ng araw: ang watawat ng kampo ni Yehudah, ayon sa kanilang mga hukbo; at ang pangulo ng mga anak ni Yehudah ay si Nachshon, anak ni Aminadav.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "At ang mga kumukampo"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa unahan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "patungo sa pagsikat ng araw"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "ang watawat"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ng kampo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ayon sa kanilang mga hukbo"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "at ang pangulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ay si Nachshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    }
+  ],
+  "timestamp": "2026-08-19T15:00:57.721961733Z",
+  "model": "glm-5.3"
+}

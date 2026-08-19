@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng hari: Hatiin ninyo ang ⟨את⟩ batang buhay sa dalawa, at ibigay ninyo ang ⟨את⟩ kalahati sa isa at ang ⟨את⟩ kalahati sa isa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "hatiin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batang buhay"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "החי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "sa dalawa"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "at ibigay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalahati"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang kalahati"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kalahati"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang kalahati"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "sa isa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:04.629277786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Sapagkat bago pa maalaman ng bata na tumawag ng 'Ama ko' at 'Ina ko', dadalhin ang ⟨את⟩ kayamanan ng Damasek at ang ⟨את⟩ samsam ng Shomron sa harap ng hari ng Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maalaman"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ng bata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tumawig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ama ko"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "at Ina ko"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dadalhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayamanan ng Damasek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ng Damasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "samsam ng Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "samsam"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ng Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    }
+  ],
+  "timestamp": "2026-08-19T16:54:56.650626857Z",
+  "model": "glm-5.3"
+}

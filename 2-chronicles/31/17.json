@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At ang ⟨את⟩ pagpapatala sa lahi ng mga koheno ayon sa bahay ng kanilang mga ama, at ang mga Levita mula sa anak na dalawampung taon pataas, ayon sa kanilang mga paglilingkod, ayon sa kanilang mga pangkat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagpapatala sa lahi ng mga koheno"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "pagpapatala sa lahi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga koheno"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayon sa bahay"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "at ang mga Levita"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mula sa anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "pataas"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "ayon sa kanilang mga paglilingkod"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "ayon sa kanilang mga pangkat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:35:50.317199264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 77,
+  "translation": "Inilit mo ng iyong braso ang iyong bayan, ang mga anak ni Yaakov at ni Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Inilit mo"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ng iyong braso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang iyong bayan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "at ni Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:45.146333068Z",
+  "model": "glm-5.3"
+}

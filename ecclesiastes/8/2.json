@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ako ⟨ay nagsasabi⟩: ingatan mo ang bibig ng hari, at ukol sa panata sa ⟨harap ng⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bibig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ingatan mo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at ukol sa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "panata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:00.065469462Z",
+  "model": "glm-5.3"
+}

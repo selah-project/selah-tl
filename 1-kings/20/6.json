@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Kundi bukas sa oras na ito, ipapadala ko ang ⟨את⟩ aking mga alipin sa iyo, at pagsisiyasatin nila ang ⟨את⟩ iyong bahay at ang ⟨את⟩ mga bahay ng iyong mga alipin; at mangyayari, ang bawat kaaya-aya sa iyong mga mata, ilalagay nila sa kanilang kamay at dadalhin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "sa oras na ito"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "bukas"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ipapadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga alipin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aking mga alipin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "at pagsisiyasatin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bahay"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong bahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bahay ng iyong mga alipin"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga bahay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ng iyong mga alipin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "kaaya-aya"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sa iyong mga mata"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ilalagay nila"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa kanilang kamay"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "at dadalhin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:38:19.385866061Z",
+  "model": "glm-5.3"
+}

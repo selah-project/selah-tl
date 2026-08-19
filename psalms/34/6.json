@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Silá ay tumingin sa kaniya at ⟨naliwanagan⟩, at ang kanilang mga mukhá ay hindi mahihiya.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "tumingin silá"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "at naliwanagan"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "at ang kanilang mga mukhá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "mahihiya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:28.576073631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Sapagkat hindi sa pana ko umaasa, at ang aking espada ay hindi magliligtas sa akin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "sa pana ko"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "umaasa"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "at ang aking espada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "magliligtas sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:12.145783665Z",
+  "model": "glm-5.3"
+}

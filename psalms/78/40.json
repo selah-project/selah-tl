@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Gaano kadalas nila siyang sinuwayin sa ilang, at pinamighati sa kalatihan!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "gaano kadalas"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "sila siyang sinuwayin \/ sinupalpal"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "sila siyang pinamighati \/ binigyang sakit"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa kalatihan \/ sa tuyong wasteland"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:20.238236116Z",
+  "model": "glm-5.3"
+}

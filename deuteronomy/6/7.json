@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ituturo mong mabuti iyon sa iyong mga anak, at sasabihin mo iyon, sa iyong pagkaupo sa iyong bahay, at sa iyong paglalakad sa daan, at sa iyong paghiga, at sa iyong pagbangon.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "at ituturo mong mabuti"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sa iyong mga anak"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "at sasabihin mo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "sa iyong pagkaupo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa iyong bahay"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "at sa iyong paglalakad"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "at sa iyong paghiga"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "at sa iyong pagbangon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:46.935935354Z",
+  "model": "glm-5.3"
+}

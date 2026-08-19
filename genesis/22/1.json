@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "At nangyari, pagkatapos ng mga bagay na ito, tinukso ⟨את⟩ ni Elohim si Avraham, at sinabi niya sa kanya: Avraham! At sinabi niya: Narito ako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pagkatapos ng"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga bagay"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "at si Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "tinukso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Narito ako"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:38.934371178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sumagot ang aking minamahal at nagsabi sa akin: Tumindig ka, aking irog, aking maganda, at umalis ka.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ang aking minamahal"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tumindig ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "aking irog"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "aking maganda"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "at umalis ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:23.775775014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 48:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 48,
+  "translation": "Lapitan ninyo ako, makinig kayo: ito ay hindi mula sa pasimula ay sa lihim ko sinabi; mula sa panahon ng pagkakaroon nito, naroon ako; at ngayo'y akong sinugo ni Adonai Yahweh at ng kanyang Ruach.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "lapitan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "makinig kayo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "mula sa pasimula"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa lihim"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "sinabi ko"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "mula sa panahon"
+    },
+    {
+      "surface": "היותה",
+      "gloss": "ng pagkakaroon nito"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naroon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "sinugo ako"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "at ang kanyang Ruach"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:50.037081715Z",
+  "model": "glm-5.3"
+}

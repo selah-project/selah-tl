@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Sa Pangulo ng mga tumutugtog ng may instrumentong kuwerdas, isang turo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo ng mga tumutugog"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ng may instrumentong kuwerdas"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "isang turo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:41.622379649Z",
+  "model": "glm-5.3"
+}

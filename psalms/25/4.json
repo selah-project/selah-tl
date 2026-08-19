@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ang mga daan mo, Yahweh, ipakilala mo sa akin; ang mga landas mo ituro mo sa akin.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ang mga daan mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ipakilala mo sa akin"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ang mga landas mo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ituro mo sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:58.180974542Z",
+  "model": "glm-5.3"
+}

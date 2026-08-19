@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At sa gayon pa rin, binubuksan Mo ang ⟨iyong⟩ mata, at ako ay ⟨dinala⟩ Mo sa ⟨את⟩ paghatol sa Iyo?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "at sa gayon pa rin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "binubuksan Mo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang ⟨iyong⟩ mata"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "at ⟨ako⟩ ⟨את⟩",
+      "marks": "ako — minamarkahan ng את ang pasakop ng תביא"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "⟨dinala⟩ Mo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa ⟨את⟩ paghatol"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa Iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:22.854557817Z",
+  "model": "glm-5.3"
+}

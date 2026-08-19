@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Kundi Siya lamang ang aking bato at aking kaligtasan; ang aking matibay na muog; hindi ako maggugulo ⟨o⟩ matutumba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kundi lamang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "aking bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "at aking kaligtasan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "aking matibay na muog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ako maggugulo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.434570227Z",
+  "model": "glm-5.3"
+}

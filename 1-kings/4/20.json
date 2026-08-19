@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Marami ang Yehudah at Yisrael, na parang buhangin sa tabing-dagat ⟨habang⟩ karamihan, kumakain at umiinom at nagsisisiya.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "at Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "parang buhangin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tabi ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa karamihan"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "at umiinom"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "at nagsisisiya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:49.256143939Z",
+  "model": "glm-5.3"
+}

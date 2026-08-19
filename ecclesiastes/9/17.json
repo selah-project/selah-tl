@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang mga salita ng mga marurunong ay pinakikinggan sa katahimikan, higit sa sigaw ng namumuno sa ⟨mga⟩ hungmigan.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ng mga marurunong"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "sa katahimikan"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ay pinakikinggan"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "higit sa sigaw"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ng namumuno"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "sa hungmigan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:04.576721781Z",
+  "model": "glm-5.3"
+}

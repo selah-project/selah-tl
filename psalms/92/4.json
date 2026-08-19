@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 92,
+  "translation": "Sa ⟨isáng⟩ sampung-kuwerdas, at sa nebel, sa mahinang himig sa kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sampung-kuwerdas"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "mahinang himig"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:48.463809485Z",
+  "model": "glm-5.3"
+}

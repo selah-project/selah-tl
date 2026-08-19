@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At iniunat ng hari kay Ester ang ⟨את⟩ setro na ginto, at tumayo si Ester at tumayo sa harapan ng hari.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setro"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ang setro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "na ginto"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "at tumindig"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:32.368319318Z",
+  "model": "glm-5.3"
+}

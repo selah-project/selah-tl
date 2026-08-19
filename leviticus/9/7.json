@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Moshe kay Aharon: Lumapit ka sa altar at gawin mo ang ⟨את⟩ alay-ng-kasalanan mo at ang ⟨את⟩ handog na sinusunog mo, at magbayad-ka ng ikakasala para sa iyo at para sa bayan; at gawin mo ang ⟨את⟩ handog ng bayan at magbayad-ka ng ikakasala para sa kanila, kung paano iniutos ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lumapit ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alay-ng-kasalanan mo"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ang alay-ng-kasalanan mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "handog na sinusunog mo"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "ang handog na sinusunog mo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "at magbayad-ka ng ikakasala"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "para sa iyo"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "at para sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handog ng bayan"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ang handog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "at magbayad-ka ng ikakasala"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paano"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:38.219087313Z",
+  "model": "glm-5.3"
+}

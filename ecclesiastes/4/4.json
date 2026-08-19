@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nakita ko, ako, ang ⟨את⟩ lahat ng pagpapagál at ang ⟨את⟩ lahat ng galing sa gawain, na dahil ito ay inggit ng tao sa kapwa niya: ito rin ay kawalang-saysay at paghahabol ng hangin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "at nakita ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng pagpapagál"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pagpapagál"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat ng galing sa gawain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "galing"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "sa gawain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dahil ito ay"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "inggit ng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "sa kapwa niya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kawalang-saysay"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "at paghahabol"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:53.373671959Z",
+  "model": "glm-5.3"
+}

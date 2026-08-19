@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At sisidlan ng kuhen ang ⟨את⟩ kanyang daliri sa dugo, at magwiwisik siya ng dugo na pito (na) beses sa harapan ni Yahweh, ⟨את⟩ sa harap ng tabing ng ⟨the⟩ kaban.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "at sisidlan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ng kuhen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang daliri"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "kanyang daliri"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "at magwiwisik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ng"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "(na) beses"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sa harap ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "harap ng"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabing"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ng kaban"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:53.666888656Z",
+  "model": "glm-5.3"
+}

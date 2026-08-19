@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Sino ang makapagsasalaysay ng ⟨mga⟩ makapangyarihang gawa ni Yahweh, o magpaparinig ng buong kanyang papuri?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sino"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ang makapagsasalaysay"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ng mga makapangyarihang gawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "magpaparinig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "kanyang papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:06.482184652Z",
+  "model": "glm-5.3"
+}

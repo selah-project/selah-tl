@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At namatay si Sarah sa Kiryat-Arba, na ⟨siya⟩ ay Hevron, sa lupang Kanaan; at pumasok si Avraham upang dumusa kay Sarah at umiyak para sa kanya.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "At namatay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "sa Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩ ay"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kanaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "upang dumusa"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kay Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "at umiyak para sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:14:08.209842810Z",
+  "model": "glm-5.3"
+}

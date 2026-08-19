@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Nagbabantay ang masama sa tadik at naghahanap na patayin siya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "nagbabantay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa tadik"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "at naghahanap"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "na patayin siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:45.563939692Z",
+  "model": "glm-5.3"
+}

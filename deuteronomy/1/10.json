@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Yahweh na ⟨ang⟩ Elohim ninyo ay nagpadami sa ⟨את⟩ inyo, at narito, kayo ngayong araw ay parang mga bituin ng langit sa karamihan;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nagpadami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "at narito kayo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "parang mga bituin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa karamihan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:20:23.963225410Z",
+  "model": "glm-5.3"
+}

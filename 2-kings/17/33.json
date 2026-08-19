@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Si Yahweh ay kinatatakutan nila, at ang ⟨את⟩ kanilang mga elohim ay pinagsisilbihan nila, ayon sa kaugalian ng mga bansa na pinatapon sa kanila mula roon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "kinatatakutan nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang mga elohim"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang mga elohim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "pinagsisilbihan nila"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ayon sa kaugalian"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "dinakot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "mga bansa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mula roon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:49.084219251Z",
+  "model": "glm-5.3"
+}

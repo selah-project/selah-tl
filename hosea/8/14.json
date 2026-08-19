@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Nakalimutan ni Yisrael ang ⟨את⟩ kanyang Lumikha at nagtayo ng mga templo-palasyo; si Yehudah naman ay nagpadami ng mga nakakutaang lungsod; ngunit magpapadala ako ng apoy sa kanyang mga lungsod at tatamon nito ang kanyang mga palasyo.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "nakalimutan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang Lumikha"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "kanyang Lumikha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "mga templo-palasyo"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "si Yehudah naman"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nagpadami"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nakakutaang"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "magpapadala ako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ng apoy"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "sa kanyang mga lungsod"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "tatamon nito"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "ang kanyang mga palasyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:21.462530397Z",
+  "model": "glm-5.3"
+}

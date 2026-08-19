@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At ipinatong ni Moshe ang ⟨את⟩ mga tungkod sa harapan ni Yahweh, sa loob ng tolda ng patotoo.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "at inilagay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tungkod"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ang mga tungkod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa loob ng tolda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng patotoo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:10:48.568236302Z",
+  "model": "glm-5.3"
+}

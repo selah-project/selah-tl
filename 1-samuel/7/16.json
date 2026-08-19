@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At pumupunta siya buwan-taon taon, at gumagala sa Bet-El, at sa Gilgal, at sa Mitspa, at humahatol ng ⟨את⟩ Israel, ⟨את⟩ lahat ng mga lugar na ito.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "at pumupunta"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa takbo ng bawat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa loob ng taon"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "at gumagala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "at sa Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "at sa Mitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "at humahatol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga lugar na ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "mga lugar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:29.969349854Z",
+  "model": "glm-5.3"
+}

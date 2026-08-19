@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Apatnapung hampas ang ihahampas sa kanya, huwag dadagdagan; baka kung magdagdag pa para hampasin siya higit sa mga ito ng maraming hampas, maliitin ang iyong kapatid sa iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "apatnapung"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "hampas ang ihahampas sa kanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "dadagdagan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "kumung magdagdag pa"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "para hampasin siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "higit sa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga ito"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "hampas"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "maliitin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang iyong kapatid"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "sa iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:09.743266332Z",
+  "model": "glm-5.3"
+}

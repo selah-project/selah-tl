@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Sa kanyang kaalaman, ang mga kalaliman ay nahiwa; at ang mga alapaap ay nagbubuhos ng hamog.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "sa kanyang kaalaman"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ang mga kalaliman"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "ay nahiwa"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "at ang mga alapaap"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "ay nagbubuhos"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ng hamog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:21.066040359Z",
+  "model": "glm-5.3"
+}

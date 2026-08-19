@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi ng hari sa kanila, Isang pangarap ang akingarinap, at naguluhan ang aking espiritu upang maalaman ang ⟨את⟩ pangarap.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "isang pangarap"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ang akingarinap"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "at naguluhan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang aking espiritu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "upang maalaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pangarap"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ang pangarap"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:28.488464676Z",
+  "model": "glm-5.3"
+}

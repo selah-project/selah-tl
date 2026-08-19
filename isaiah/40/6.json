@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Isang tinig ang nagsasabi: Mangaral! At kanyang sinabi: Ano ang ipangangaral ko? Ang lahat ng laman ay damo, at ang buong kabaitan nito ay parang bulaklak ng ⟨ang⟩ bukid.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Mangaral!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "at kanyang sinabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ipangangaral ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨ang⟩ laman"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "damo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kabaitan nito"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "parang bulaklak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨ang⟩ bukid"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:40.463523757Z",
+  "model": "glm-5.3"
+}

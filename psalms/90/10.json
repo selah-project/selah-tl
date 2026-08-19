@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Ang mga araw ng mga taon nati'y pitumpung taon, at kung sa lakas, walumpung taon; ngunit ang kanilang kapurihana'y pagpapagod at kahalayan, sapagkat mabilis itong napupugot, at lumilipad kami.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mga araw ng"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "mga taon natin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "sa lakas"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "walumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "at ang kanilang kapurihana"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "pagpapagod"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "at kahalayan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "גז",
+      "gloss": "napupugot"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "mabilis"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "at lumilipad kami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:25.089546123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Iwanan ng aking mga mata ang pagkakita sa ⟨walang halaga⟩; sa iyong mga daan buhayin mo ako.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "iwanan (ipaglipat)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "aking mga mata"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "sa pagkakita"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sa ⟨walang halaga⟩"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "sa iyong mga daan"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "buhayin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:28.354335839Z",
+  "model": "glm-5.3"
+}

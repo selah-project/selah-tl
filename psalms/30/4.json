@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Yahweh, iniahon mo ang aking buhay mula sa Sheol, binuhay mo ako mula sa mga bumababa sa hukay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "iniahon mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "binuhay mo ako"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "mula sa mga bumababa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sa hukay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:57.619779898Z",
+  "model": "glm-5.3"
+}

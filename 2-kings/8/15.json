@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari sa kinabukasan na kumuha siya ng takip-higa, isinalsal sa tubig, at iniabot sa kanyang mukha, at siya'y namatay; at naghari si Chazael sa kanyang halili.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "at nangyari"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa kinabukasan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "ng takip-higa"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "at isinalsal"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "at iniabot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kanyang mukha"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "at namatay"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "si Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang halili"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:35.492132221Z",
+  "model": "glm-5.3"
+}

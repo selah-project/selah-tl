@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Sa harap niya yuyukod ang mga naninirahan sa ilang, at ang kanyang mga kaaway ay dilaan ang alabok.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap niya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "yuyukod"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "mga naninirahan sa ilang"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "at ang kanyang mga kaaway"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "dilaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:39.924156030Z",
+  "model": "glm-5.3"
+}

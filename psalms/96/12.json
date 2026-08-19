@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 96,
+  "translation": "Sasayaw nang galak ang bukid at ang lahat ng nasa loob nito; kung magkagayon ay aawit na may galak ang lahat ng mga puno ng gubat.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "sasayaw nang galak"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nasa loob nito"
+    },
+    {
+      "surface": "אז",
+      "gloss": "kung magkagayon"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "aawit na may galak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga puno ng"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gubat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:35.333170817Z",
+  "model": "glm-5.3"
+}

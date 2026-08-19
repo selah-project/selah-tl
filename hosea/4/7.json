@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Ayon sa kanilang karamayan, gayon nagkasala sila laban sa akin; ang kanilang kaluwalhatian ay ipagpapalit ko sa kahihiyan.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "ayon sa kanilang karamayan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagkasala sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang kanilang kaluwalhatian"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "sa kahihiyan"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ay ipagpapalit ko"
+    }
+  ],
+  "timestamp": "2026-08-19T17:56:30.170478510Z",
+  "model": "glm-5.3"
+}

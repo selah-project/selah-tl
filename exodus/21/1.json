@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang mga hatol na ito ay ilalagay mo sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ang mga ito"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mga hatol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ilalagay mo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:55.762947779Z",
+  "model": "glm-5.3"
+}

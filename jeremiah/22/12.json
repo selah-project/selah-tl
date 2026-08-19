@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sapagkat sa lugar na kinalaunan nila ⟨את⟩ kanya, doon siya mamamatay, at ang ⟨את⟩ lupang ito ay hindi na niya makikita pa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "kinalaunan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kanya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "siya mamamatay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lupang ito"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "niya makikita"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:24:42.416611256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Maawa ka sa akin, O Elohim, maawa ka sa akin, sapagkat sa iyo kumakalinga ang aking nefesh, at sa lilim ng iyong mga pakpak ako'y magnanaklang-manahan, hanggang lumipas ang mga kapahamakan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Maawa ka sa akin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "kumakalinga(nakakulong)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking nefesh"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "at sa lilim"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ng iyong mga pakpak"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ako'y magnanaklang-manahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumipas"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ang mga kapahamakan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:48.347003088Z",
+  "model": "glm-5.3"
+}

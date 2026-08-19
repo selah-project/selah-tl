@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At kayo, magbunga kayo at magparami, dumami kayo sa lupa at magparami diyan.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "At kayo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magbunga kayo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at magparami"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "dumami kayo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "at magparami"
+    },
+    {
+      "surface": "בה",
+      "gloss": "diyan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:07.026835833Z",
+  "model": "glm-5.3"
+}

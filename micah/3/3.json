@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "na kumakain ng laman ng aking bayan, at ang kanilang balat mula sa ibabaw nila ay hinubaran, at ang ⟨את⟩ kanilang mga buto ay pinagpisa, at inilatag na parang sa kaldero, at parang laman sa loob ng sisidlan.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ng laman"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "at ang kanilang balat"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "mula sa ibabaw nila"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "hinubaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga buto"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "kanilang mga buto"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "pinagpisa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "at inilatag"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "sa kaldero"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "at parang laman"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "ng sisidlan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:48.354255571Z",
+  "model": "glm-5.3"
+}

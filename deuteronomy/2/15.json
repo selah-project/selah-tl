@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kamay rin ni Yahweh ay naging laban sa kanila upang lipulin sila mula sa gitna ng kampo, hanggang sa tinapos sila.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at gayundin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "בם",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "upang lipulin sila"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna ng"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tinapos sila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:06.393865527Z",
+  "model": "glm-5.3"
+}

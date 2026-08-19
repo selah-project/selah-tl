@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 129,
+  "translation": "Nang maraming ulit ay pinighati nila ako mula sa aking kabataan, ngunit hindi nila nakaya laban sa akin —",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "nang maraming ulit"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "pinighati nila ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "mula sa aking kabataan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngunit gayon man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nakaya nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "laban sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:11.583813173Z",
+  "model": "glm-5.3"
+}

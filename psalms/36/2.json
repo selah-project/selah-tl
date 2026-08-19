@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "⟨May⟩ sabi ng paghihimagsik ng masama, sa loob ng aking puso: walang takot sa Elohim sa harap ng kanyang mga mata.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ng paghihimagsik"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "takot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kanyang mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:53.051027607Z",
+  "model": "glm-5.3"
+}

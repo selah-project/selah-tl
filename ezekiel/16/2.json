@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Anak ng tao, ipakilala mo kay Yerushalayim ang ⟨את⟩ karumal-dumal niyang mga gawa, at sabihin:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipakilala mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kay Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karumal-dumal niyang mga gawa"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ang kaniyang mga karumal-dumal"
+    }
+  ],
+  "timestamp": "2026-08-19T17:42:18.872062097Z",
+  "model": "glm-5.3"
+}

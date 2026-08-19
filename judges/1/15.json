@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi niya sa kaniya, Ibigay mo sa akin ang pagpapala, sapagkat lupa ng Timog ang ibinigay mo sa akin; ibigay mo rin sa akin ang mga bukal ng tubig. At ibinigay ni Kaleb sa kaniya ang ⟨את⟩ mga bukal sa itaas at ang ⟨את⟩ mga bukal sa ibaba.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "pagpapala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ng Timog"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "ibinigay mo sa akin"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ibigay mo rin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga bukal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bukal sa itaas"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga bukal"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga bukal sa ibaba"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga bukal"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "sa ibaba"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:15.192470353Z",
+  "model": "glm-5.3"
+}

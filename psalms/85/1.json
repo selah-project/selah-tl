@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 85,
+  "translation": "Sa pinuno ng mga mang-aawit, para sa mga anak ni Korach, isang mizmowr.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pinuno ng mga mang-aawit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmowr"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:13.353924509Z",
+  "model": "glm-5.3"
+}

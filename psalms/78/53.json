@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At pinatnubayan niya silang ligtas, at hindi sila natakot; ngunit ang ⟨את⟩ kanilang mga kaaway, tinakpan ng ⟨the⟩ dagat.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "pinatnubayan niya nang ligtas"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nang ligtas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sila natakot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kaaway"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "kanilang mga kaaway"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "tinakpan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:34.841344737Z",
+  "model": "glm-5.3"
+}

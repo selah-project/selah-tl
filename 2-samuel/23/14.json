@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Si David noon ay ⟨nasa⟩ moog, at ang garison ng mga Peleshti noon ay ⟨nasa⟩ Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "at si David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "noon"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa moog"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "at ang garison ng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "noon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:16.374216194Z",
+  "model": "glm-5.3"
+}

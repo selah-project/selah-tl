@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 6:5",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat sila at ang kanilang mga alagang hayop ay aakyat, at ang kanilang mga tolda ay dumarating, na parang balang sa karamihan; at sa kanila at sa kanilang mga kamelyo ay walang bilang; at pumasok sila sa lupain upang wasakin ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "at ang kanilang mga alagang hayop"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "aakyat"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "at ang kanilang mga tolda"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "darating"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "balang"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa karamihan"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "at sa kanila"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "at sa kanilang mga kamelyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "upang wasakin ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:49:00.236294627Z",
+  "model": "glm-5.3"
+}

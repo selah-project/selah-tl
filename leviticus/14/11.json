@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At itatayo ng ⟨את⟩ kohen na nagpapalinis ang ⟨את⟩ taong nagpapalinis at ang ⟨את⟩ mga iyon sa harapan ni Yahweh, sa pasukan ng tolda ng tipan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "at itatayo ng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "na nagpapalinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taong nagpapalinis"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "taong"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "nagpapalinis"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga iyon (ang mga alay)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pasukan ng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda ng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:51:32.986327081Z",
+  "model": "glm-5.3"
+}

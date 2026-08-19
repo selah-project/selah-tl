@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Ganito ang sinabi ni Yahweh: Ingatan ninyo ang hatol at gawin ang katuwiran, sapagkat malapit na ang kaligtasan ko na dumating, at ang katuwiran ko ay mahahayag.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ingatan ninyo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "at gawin"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "katuwiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "malapit na"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kaligtasan ko"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na dumating"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "at ang katuwiran ko"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "ay mahahayag"
+    }
+  ],
+  "timestamp": "2026-08-19T17:11:06.242203695Z",
+  "model": "glm-5.3"
+}

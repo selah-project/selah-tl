@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ibibigay niya ang ⟨את⟩ Israel dahil sa mga kasalanan ni Yaravam na kanyang ginawa, at na pinagkasalanahan niya ang ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "at ibibigay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga kasalanan ni"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kanyang ginawa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at na"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pinagkasalanahan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:47.351074958Z",
+  "model": "glm-5.3"
+}

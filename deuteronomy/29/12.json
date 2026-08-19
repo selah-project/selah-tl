@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "upang itatag ka ⟨את⟩ niya ngayong araw para sa kanya bilang bayan, at siya ay magiging sa iyo na Elohim, gaya ng kanyang sinabi sa iyo, at gaya ng kanyang panunumpa sa mga ninuno mo — kay Avraham, kay Yitshak, at kay Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "itatag"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw (ka)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa kanya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bilang bayan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bilang Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "at gaya ng"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nanumpa"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "sa mga ninuno mo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kay Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kay Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "at kay Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:36.672508059Z",
+  "model": "glm-5.3"
+}

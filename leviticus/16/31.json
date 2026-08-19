@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Ito ay Shabbat na ganap na pahinga sa inyo, at aariinin ninyo ⟨את⟩ inyong mga kaluluwa — batas na magpakailanman.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ganap na pahinga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ito ay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "at aariinin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga kaluluwa"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyong mga kaluluwa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:53.171886356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Alam ng puso ang kapaitan ng kanyang kaluluwa; at sa kanyang kagalakan, hindi makakihalo ang dayuhan.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "alam"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "kapaitan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kanyang kaluluwa"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "at sa kanyang kagalakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "makakihalo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dayuhan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:37.921353860Z",
+  "model": "glm-5.3"
+}

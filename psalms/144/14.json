@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 144,
+  "translation": "Ang aming mga baka ay napakakayang magdala ng pasan; walang pagkasira ng bakod, walang lumalabas, at walang hiyawan sa aming mga lansangan.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ang aming mga baka"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "kayang magdala ng pasan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pagkasira ng bakod"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "hiyawan"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "sa aming mga lansangan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.223352269Z",
+  "model": "glm-5.3"
+}

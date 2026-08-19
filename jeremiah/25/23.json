@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "at ang ⟨את⟩ Dedan, at ang ⟨את⟩ Tema, at ang ⟨את⟩ Buz, at ang ⟨את⟩ lahat ng mga agad na ginugupit ang gilid ng buhok",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga ginugupit ang gilid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "mga ginugupit"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "gilid (ng buhok)"
+    }
+  ],
+  "timestamp": "2026-08-19T17:25:59.182806469Z",
+  "model": "glm-5.3"
+}

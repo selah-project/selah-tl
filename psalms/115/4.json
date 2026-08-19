@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 115,
+  "translation": "Ang kanilang mga idolo ay pilak at ginto, gawa ng mga kamay ng tao.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "kanilang mga idolo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "at ginto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng mga kamay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:30.241937379Z",
+  "model": "glm-5.3"
+}

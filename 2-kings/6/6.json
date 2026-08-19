@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At nagsabi ang lalaki ng Elohim: Saan ito nahulog? At ipinakita niya sa kanya ang ⟨את⟩ lugar; at humiwa siya ng kahoy at inihagis doon, at lumutang ang bakal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsabi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Saan"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ipinakita niya sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lugar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang lugar"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "humiwa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ng kahoy"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "inihagis"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "lumutang"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang bakal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:04.656491115Z",
+  "model": "glm-5.3"
+}

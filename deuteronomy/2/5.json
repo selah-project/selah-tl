@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Huwag kayong manggulo sa kanila, sapagkat hindi ako magbibigay sa inyo mula sa kanilang lupain, kahit tapak ng talampakan ng paa; sapagkat kay Esav ay ipinamana ko ang ⟨את⟩ bundok ng Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "manggulo\/kumalaban"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "mula sa kanilang lupain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ng talampakan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ng paa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ipinamana \/ pag-aari"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundok ng Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:32.481514534Z",
+  "model": "glm-5.3"
+}

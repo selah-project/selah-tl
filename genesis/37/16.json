@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At sinabi niya: Ang ⟨את⟩ mga kapatid ko ang hinahanap ko. Sabihin mo nga sa akin kung nasaan sila nag-aalaga ng kawan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kapatid ko"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mga kapatid ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ang hinahanap"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Sabihin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kung nasaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "nag-aalaga ng kawan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:23.869964621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At binilang ang mga Levita mula sa anak na tatlumpung taon at pataas, at ang bilang nila ayon sa mga bungo nila, sa mga lalaki, tatlumpung at walong libo.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "at binilang"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mula sa anak na"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "at pataas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ang bilang nila"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ayon sa mga bungo nila"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "sa mga lalaki"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tatlumpung"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "at walong"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    }
+  ],
+  "timestamp": "2026-08-19T20:08:59.846436362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At ang limang puno ng mga Filisteo ay nakakita, at bumalik sa Ekron sa araw na yaon.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "At ang limang"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "mga puno"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ng mga Filisteo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at bumalik sila"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "sa Ekron"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:56.565079468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nakita ni Aharon, at nagtayo siya ng altar sa harap nito, at ipinatawag ni Aharon at nagsabi: Isang kapistahan kay Yahweh bukas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "at nagtayo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ng altar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harap nito"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "at ipinatawag"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kapistahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sa bukas"
+    }
+  ],
+  "timestamp": "2026-08-19T14:40:04.703457532Z",
+  "model": "glm-5.3"
+}

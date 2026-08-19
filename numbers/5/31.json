@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang lalaki ay magiging walang sala sa pagkakasala, ngunit ang babaeng yaon ay magbubuhat ng ⟨את⟩ kaniyang sariling kasalanan.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "at magiging walang sala"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sa pagkakasala"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ngunit ang babae"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yaon"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "magbubuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kasalanan"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kaniyang kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:16.304005144Z",
+  "model": "glm-5.3"
+}

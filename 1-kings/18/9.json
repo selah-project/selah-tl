@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At kaniyang sinabi: Ano ang nagawa kong kasalanan, na ibinibigay mo ang ⟨את⟩ iyong alipin sa kamay ni Achab upang ipapatay ako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagkasala ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong alipin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "iyong alipin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "upang ipapatay ako"
+    }
+  ],
+  "timestamp": "2026-08-19T16:34:16.961961658Z",
+  "model": "glm-5.3"
+}

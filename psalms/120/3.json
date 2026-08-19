@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Ano ang ibibigay ⟨sa⟩ iyo, at ano ang idaragdag ⟨sa⟩ iyo, dila ng pandaraya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "at ano"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "idaragdag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ng pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:12.261250446Z",
+  "model": "glm-5.3"
+}

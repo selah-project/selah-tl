@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At binigyan ni Laban siya ng ⟨את⟩ Zilpa na kanyang aliping babae — kay Lea na kanyang anak na babae, bilang aliping babae.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "binigyan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "kanyang aliping babae"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "kay Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kanyang anak na babae"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "aliping babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:29.073519612Z",
+  "model": "glm-5.3"
+}

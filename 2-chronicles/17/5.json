@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Kaya't itinatag ni Yahweh ang ⟨את⟩ kaharian sa kanyang kamay, at nagbigay ang buong Yehudah ng alay-kaluwalhatian kay Yehoshafat, at naging sa kanya ang kayamanan at karangalan nang sagana.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "itinatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "⟨ang⟩ kaharian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "at nagbigay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "alay-kaluwalhatian"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "kay Yehoshafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "at karangalan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nang sagana"
+    }
+  ],
+  "timestamp": "2026-08-19T19:31:48.843471735Z",
+  "model": "glm-5.3"
+}

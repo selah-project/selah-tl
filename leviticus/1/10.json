@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At kung mula sa kawan ang kanyang handog — mula sa mga tupa o mula sa mga kambing — para sa ⟨את⟩ handog na susunugin: lalaki, walang kapintasan, kanyang ihahandog.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang kanyang handog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mga kambing"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "para sa handog na susunugin"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "walang kapintasan"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "kanyang ihahandog"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:14.575601302Z",
+  "model": "glm-5.3"
+}

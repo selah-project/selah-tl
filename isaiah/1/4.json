@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Abaw, bansang nagkakasala, bayang mabigat ng kasamaan, binhi ng mga manggagawa ng kasamaan, mga anak na sumisira! Pinabayaan nila si ⟨את⟩ Yahweh, hinamak nila si ⟨את⟩ Banal ng Yisrael, lumayo silang paurong.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Abaw"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bansang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nagkakasala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mabigat ng"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi ng"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga manggagawa ng kasamaan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak na"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "sumisira"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Pinabayaan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "hinamak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Banal ng Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "si Banal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "lumayo sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paurong"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:29.490792431Z",
+  "model": "glm-5.3"
+}

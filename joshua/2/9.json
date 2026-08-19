@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At sinabi niya sa mga lalaki: Alam ko na ibinigay ni Yahweh sa inyo ang ⟨את⟩ lupain, at na nahulog ang takot ninyo sa amin, at na natunaw ang lahat ng nananahan sa lupain dahil sa inyo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨ang⟩ mga lalaki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "alam ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ lupain"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupain"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at na"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "ang takot ninyo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "at na"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ng nananahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dahil sa inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:13.110129370Z",
+  "model": "glm-5.3"
+}

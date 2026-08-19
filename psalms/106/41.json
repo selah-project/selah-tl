@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "At ibinigay niya sila sa kamay ng mga bansa, at naghari sa kanila ang mga nanananti sa kanila.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "at ibinigay niya sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ng mga bansa"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "at naghari"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ang mga nanananti sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:39.206297594Z",
+  "model": "glm-5.3"
+}

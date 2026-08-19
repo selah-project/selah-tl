@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "At sumagot ang isang tao roon at nagsabi: At sino ang kanilang ama? Kaya naging kasabihan ito: Nasa mga propeta ba pati si Sha'ul?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "sumagot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isang tao"
+    },
+    {
+      "surface": "משם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at sino"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ang kanilang ama"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dahil dito"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kasabihan"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "pati ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Sha'ul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "sa mga propeta"
+    }
+  ],
+  "timestamp": "2026-08-19T16:02:08.166254213Z",
+  "model": "glm-5.3"
+}

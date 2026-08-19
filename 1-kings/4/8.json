@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ito ang kanilang mga pangalan: si Ben-Chur, sa bulubundukin ng Efrayim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ang kanilang mga pangalan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "si Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bulubundukin ng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ng Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:33.691677057Z",
+  "model": "glm-5.3"
+}

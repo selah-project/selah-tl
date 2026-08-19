@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Pabayaan mo ako, upang kanilang lipulin at burahin ko ang ⟨את⟩ kanilang pangalan mula sa ilalim ng mga langit; at gagawin kita na isang bansang makapangyarihan at lalong marami kaysa rito.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "pabayaan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "upang kanilang lipulin"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "at burahin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pangalan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "kanilang pangalan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mula sa ilalim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ng mga langit"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "at gagawin ko"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kita"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na isang bansa"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "at lalong marami"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaysa rito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:23:55.831321414Z",
+  "model": "glm-5.3"
+}

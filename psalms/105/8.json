@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "Naalala niya magpakailanman ang kanyang tipan, ang salitang iniutos niya hanggang sampung libong lahi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "naalala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ang kanyang tipan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "hanggang sampung libong"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:51.321364531Z",
+  "model": "glm-5.3"
+}

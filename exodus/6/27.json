@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sila ang nagsalita kay Paroh na hari ng Mitsrayim upang ilabas ang ⟨את⟩ mga anak ni Yisrael mula sa Mitsrayim; siya nga ay si Moshe at si Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Sila"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "ang nagsalita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "upang ilabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya nga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at si Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:28:33.534306148Z",
+  "model": "glm-5.3"
+}

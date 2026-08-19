@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Yahweh, sa amin ang kahihiyan ng mukha — sa ating mga hari, sa ating mga pinuno, at sa ating mga magulang — sapagkat nagkasala kami sa iyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ang kahihiyan"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ng mukha"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "sa ating mga hari"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "sa ating mga pinuno"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "at sa ating mga magulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagkasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:09:43.638689498Z",
+  "model": "glm-5.3"
+}

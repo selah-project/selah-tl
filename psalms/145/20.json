@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Iningatan ni Yahweh ang ⟨את⟩ lahat ng mga umiibig sa kanya, ngunit ang ⟨את⟩ lahat ng mga masasama ay lilipulin niya.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "iningatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga umiibig sa kanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "mga umiibig sa kanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga masasama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "mga masasama"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "lilipulin niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:33.665957916Z",
+  "model": "glm-5.3"
+}

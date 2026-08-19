@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 35,
+  "translation": "Palakasin ninyo ⟨ang⟩ mga kalong-kamay, at ang mga tuhod na natisod ay patibayin.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "palakasan ninyo"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mga kamay"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "kalong-kamay"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "at mga tuhod"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "natisod"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "patibayin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:51.621131063Z",
+  "model": "glm-5.3"
+}

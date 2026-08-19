@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "May mga tainga sila, ngunit hindi nakikinig; gayundin, walang ⟨may⟩ hininga sa kanilang bibig.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "mga tainga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "silang mayroon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "nakikinig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨may⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hininga"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa kanilang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:26.538877382Z",
+  "model": "glm-5.3"
+}

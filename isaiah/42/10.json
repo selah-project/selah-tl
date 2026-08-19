@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Umawit kayo kay Yahweh ng bagong awit, ⟨ang⟩ kanyang papuri mula sa dulo ng lupa, mga bumababa sa dagat at ⟨ang⟩ pagkakaroon nito, mga pulo at ang mga nakatira sa mga ito.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Umawit kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "kanyang papuri"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mula sa dulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga bumababa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "at ang pagkakaroon nito"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mga pulo"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "at ang mga nakatira sa mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:35.932543884Z",
+  "model": "glm-5.3"
+}

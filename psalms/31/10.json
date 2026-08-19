@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Maawa ka sa akin, Yahweh, sapagkat napipighati ako; nanlumo sa kalungkutan ang aking mata, ang aking buhay-kaluluwa, at ang aking tiyan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "maawa ka sa akin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "צר",
+      "gloss": "napipighati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "nanlumo"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "sa kalungkutan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang aking mata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay-kaluluwa"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "at ang aking tiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:42.767558742Z",
+  "model": "glm-5.3"
+}

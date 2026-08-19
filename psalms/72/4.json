@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 72,
+  "translation": "Hahatolan niya ang mga maralita ng bayan, ililigtas niya ang mga anak ng dukha, at didurugin ang nanlalamang.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "hahatolan niya"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang mga maralita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ililigtas niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ng dukha"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "at didurugin"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ang nanlalamang"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:17.085451558Z",
+  "model": "glm-5.3"
+}

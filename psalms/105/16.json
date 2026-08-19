@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 105,
+  "translation": "At tumawag siya ng taggutom sa ⟨ang⟩ lupa; winasak niya ang buong tungkod ng tinapay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "at tumawag"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ng taggutom"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ lupa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "winasak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:03.810341111Z",
+  "model": "glm-5.3"
+}

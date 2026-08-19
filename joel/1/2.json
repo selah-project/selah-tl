@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Makinig kayo, mga matatanda, dito, at pangunahan ng pandinig ang lahat ng naninirahan sa lupain: Nangyari ba ito sa mga araw ninyo, o sa mga araw ng mga ninuno ninyo?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dito"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga matatanda"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "at pangunahan ng pandinig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ng naninirahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Nangyari ba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "sa mga araw ninyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga araw"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ng mga ninuno ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:58.802386597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Tulad ng init sa tuyong-lugar, ang kagulo ng mga dayuhan ay papayapuin mo; tulad ng init sa lilim ng ulap, ang awit ng mga marahas ay yayapuin.",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "tulad ng init sa tuyong-lugar"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa tuyong-lugar"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ang kagulo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ng mga dayuhan"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "ay papayapuin mo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "init"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa lilim"
+    },
+    {
+      "surface": "עב",
+      "gloss": "ng ulap"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "ang awit"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ng mga marahas"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ay yayapuin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:00:43.882616746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Kami ay nagsalakay sa Negev ng mga Keretita, at sa ⟨loob⟩ na kabilang sa Yehuda, at sa Negev ng Kalev; at ⟨את⟩ Tsiklag sinunog namin sa apoy.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "nagsalakay kami"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sa Negev"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ng mga Keretita"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na kabilang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ng Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "sinunog namin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    }
+  ],
+  "timestamp": "2026-08-19T16:11:32.558285585Z",
+  "model": "glm-5.3"
+}

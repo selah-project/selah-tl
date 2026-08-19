@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At nagsabi si Lavan: Mabuting ibigay ko ⟨את⟩ siya sa iyo kaysa ibigay ko ⟨את⟩ siya sa ibang lalaki; manirahan ka kasama ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "si Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ibigay ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kaysa ibigay ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ibang"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "manirahan ka"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kasama ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:17:14.752105077Z",
+  "model": "glm-5.3"
+}

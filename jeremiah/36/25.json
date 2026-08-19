@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At si Elnatan, si Delayahu, at si Gemaryahu ay nakipag-usap ⟨sa⟩ hari upang huwag sunugin ang ⟨את⟩ balumbon, ngunit hindi siya nakinig sa kanila.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatan"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "Delayahu"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "Gemaryahu"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "nakipag-usap"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "upang huwag"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sunugin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balumbon"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ang balumbon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:31:57.787177503Z",
+  "model": "glm-5.3"
+}

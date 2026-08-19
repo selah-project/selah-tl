@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ganito ang sabi ni Yahweh ng mga hukbo: Pinuntahan-ko ⟨את⟩ ang ginawa ni Amalek sa Yisrael, na nagtanim siya nito sa daan sa kaniyang pag-ahon mula sa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi ng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ng mga hukbo"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "pinuntahan-ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa ni Amalek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ni Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagtanim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nito"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "sa kaniyang pag-ahon"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:13.735388768Z",
+  "model": "glm-5.3"
+}

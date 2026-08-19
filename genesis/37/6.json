@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At kaniyang sinabi sa kanila: Makinig kayo nawa sa panaginip na ito na aking panaginipan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Makinig kayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nawa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sa panaginip"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aking panaginipan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:51.924885510Z",
+  "model": "glm-5.3"
+}

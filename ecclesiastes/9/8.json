@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sa bawat panahon, maging puti ang iyong mga damit, at langis sa iyong ulo ay huwag mang kulangin.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ang iyong mga damit"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "puti"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "at langis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "iyong ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mang kulangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:06.583805460Z",
+  "model": "glm-5.3"
+}

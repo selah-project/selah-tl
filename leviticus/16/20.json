@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At kapag natapos na niya ang pagpapabayad-sala sa ⟨את⟩ santuaryo at sa ⟨את⟩ toldang tipanan at sa ⟨את⟩ dambana, ilalapit niya ang ⟨את⟩ buhay na kambing-tomong.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "at kapag natapos na niya"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ang pagpapabayad-sala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santuaryo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa santuaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩",
+      "marks": "toldang tipanan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ng tipanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩",
+      "marks": "dambana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ilalapit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhay na kambing-tomong"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing-tomong"
+    },
+    {
+      "surface": "החי",
+      "gloss": "buhay na"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:01.920804054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sa itaas, mga bato na mamahalin, ayon sa sukat ng inukit na bato, at sedro.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "at sa itaas"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "mamahalin"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ayon sa sukat"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "inukit na bato"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "at sedro"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:20.144177852Z",
+  "model": "glm-5.3"
+}

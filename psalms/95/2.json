@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Harapin natin ang kaniyang presensiya nang may pasasalamat, sa mga awit sumigaw tayo sa kaniya.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Harapin natin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang kaniyang mga mukha"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nang may pasasalamat"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "sa mga awit"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "sumigaw tayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:56.771229882Z",
+  "model": "glm-5.3"
+}

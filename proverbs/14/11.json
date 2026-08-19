@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Ang bahay ng masasama ay mapapawasak; ngunit ang tolda ng mga matuwid ay mamumulaklak.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masasama"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "mapapawasak"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ngunit ang tolda"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga matuwid"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "mamumulaklak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:37.921488896Z",
+  "model": "glm-5.3"
+}

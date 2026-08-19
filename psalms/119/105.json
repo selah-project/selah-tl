@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Ilaw sa aking mga paa ang iyong salita, at tanglaw sa aking landas.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ilaw"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "sa aking mga paa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang iyong salita"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "at tanglaw"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "sa aking landas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:48.590842993Z",
+  "model": "glm-5.3"
+}

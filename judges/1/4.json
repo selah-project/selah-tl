@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At umahon si Yehudah, at ibinigay ni Yahweh ang ⟨את⟩ Kanaaneo at ang Perizeo sa kanilang kamay, at pinuksa nila sila sa Bezek — sampung libong lalaki.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "At umahon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaneo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaaneo"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "at ang Perizeo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa kanilang kamay"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "at pinuksa nila sila"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T15:46:50.879151224Z",
+  "model": "glm-5.3"
+}

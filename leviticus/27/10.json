@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Hindi niya papalitan ⟨את⟩ ito, at hindi niya pagpapalitin ⟨את⟩ ito — mabuti sa masama, o masama sa mabuti; at kung ipagpalit nga niya ang isang hayop sa ibang hayop, magiging banal ⟨ang⟩ ito at ang kapalit nito.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "papalitan niya ito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "pagpapalitin niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ito"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa masama"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa mabuti"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ipagpalit nga"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "pagpapalit"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa ibang hayop"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "at ang kapalit nito"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:34.741159707Z",
+  "model": "glm-5.3"
+}

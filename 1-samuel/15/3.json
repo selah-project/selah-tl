@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "Ngayon yumaon ka, at papatayin mo ⟨את⟩ si Amalek at ilalaan-ninyo sa pagkasira ⟨את⟩ ang lahat ng kaniya, at hindi ka maaawa sa kaniya; at papatayin mo mula sa lalaki magpahanggang babae, mula sa sanggol magpahanggang sumususo, mula sa baka magpahanggang tupa, mula sa kamelyo magpahanggang asno.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yumaon ka"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "at papatayin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "at ilalaan-ninyo sa pagkasira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "kaaawaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "at papatayin mo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mula sa lalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "magpahanggang"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "mula sa sanggol"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at magpahanggang"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sumususo"
+    },
+    {
+      "surface": "משור",
+      "gloss": "mula sa baka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at magpahanggang"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "mula sa kamelyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at magpahanggang"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asno"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:13.735569611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at ang ⟨את⟩ dambana ng handog na susunugin at ang ⟨את⟩ lahat ng mga kagamitan nito, at ang ⟨את⟩ batya at ang ⟨את⟩ tungtungan nito,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dambana ng handog na susunugin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ng handog na susunugin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batya"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ang batya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tungtungan nito"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tungtungan nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:02.389937776Z",
+  "model": "glm-5.3"
+}

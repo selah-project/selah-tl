@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 120,
+  "translation": "Masyadong nagtagal ang pananahanan ng aking נפש kasama ng mga mapagkapoot sa kapayapaan.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Masyadong nagtagal"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ang pananahanan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking נפש"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mga mapagkapoot"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa kapayapaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:33.612460824Z",
+  "model": "glm-5.3"
+}

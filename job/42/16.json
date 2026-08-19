@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At nabuhay si Iyov pagkatapos nito nang isang daan at apat na pung taon, at nakita niya ang ⟨את⟩ kanyang mga anak at ang ⟨את⟩ mga anak ng kanyang mga anak, apat na henerasyon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "at nabuhay"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nito"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "isang daan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "at apat na pung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga anak ng kanyang mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kanyang mga anak"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "henerasyon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:56:52.743047678Z",
+  "model": "glm-5.3"
+}

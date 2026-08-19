@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At sinabi ni Yahweh kay Noach: Pumasok ka at ang buong iyong sambahayan sa arka, sapagkat ⟨את⟩ ikaw ay nakita kong matuwid sa harapan Ko sa ⟨ang⟩ henerasyong ito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "kay Noach"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pumasok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong sambahayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw (na matuwid)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan Ko"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:57.815947415Z",
+  "model": "glm-5.3"
+}

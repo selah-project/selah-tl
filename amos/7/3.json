@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Nagbawi si Yahweh tungkol dito: Hindi ito mangyayari, sabi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "nagbawi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungkol"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mangyayari"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:01:33.573224997Z",
+  "model": "glm-5.3"
+}

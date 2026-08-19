@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Nang itakda niya ang kanyang mga tanda sa Mitzrayim, at ang kanyang mga kababalaghan sa kapatagan ng Tso'an.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nung"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itakda niya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitzrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ang kanyang mga tanda"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "at ang kanyang mga kababalaghan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ng Tso'an"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:21.863567565Z",
+  "model": "glm-5.3"
+}

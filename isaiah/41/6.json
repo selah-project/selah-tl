@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Sinusuportahan ng bawat isa ang ⟨את⟩ kanyang kapwa, at sa kanyang kapatid ay nagsasabi: Malakas ka!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang kapwa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanyang kapwa"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "sinusuportahan"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "at sa kanyang kapatid"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Malakas ka!"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:43.648277039Z",
+  "model": "glm-5.3"
+}

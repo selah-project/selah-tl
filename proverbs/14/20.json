@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Kahit ng kapwa niya ay kinamumuhian ang dukha, ngunit ang mga umiibig sa mayaman ay marami.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ng kapwa niya"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "kinamumuhian"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ang dukha"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ngunit ang mga umiibig"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "sa mayaman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:37.594541119Z",
+  "model": "glm-5.3"
+}

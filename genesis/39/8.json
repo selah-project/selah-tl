@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 39,
+  "translation": "At tumanggi siya, at nagsabi sa asawa ng kaniyang panginoon: Narito, ang aking panginoon ay hindi nalalaman ⟨את⟩ ano ang nasa bahay, at ang lahat na mayroon siya ay ibinigay sa aking kamay.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "tumanggi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ng kaniyang panginoon"
+    },
+    {
+      "surface": "הן",
+      "gloss": "narito"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang aking panginoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nalalaman"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa bahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sa aking kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:59.427006885Z",
+  "model": "glm-5.3"
+}

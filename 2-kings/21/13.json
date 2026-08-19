@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ibubuhos ko sa Yerushalayim ang ⟨את⟩ panukat-ng-linya ng Shomron at ang ⟨את⟩ pandungaw ng bayan ni Ahab, at pupunin ko ang ⟨את⟩ Yerushalayim na gaya ng pagpapunin ng ⟨את⟩ plato — papunin ito at ibabaltik sa sariling mukha nito.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "at ibubuhos ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panukat-ng-linya ng Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "panukat-ng-linya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ng Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "pandungaw ng bayan ni Ahab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "pandungaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "at pupunin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gaya ng"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "pagpapunin ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "ng ⟨את⟩",
+      "marks": "plato"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "plato"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "papunin"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "at ibabaltik"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mukha nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:12.602153048Z",
+  "model": "glm-5.3"
+}

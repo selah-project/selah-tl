@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 2:22",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Siya ang nagbubukas ng ⟨mga⟩ malalim at ⟨mga⟩ nakatagong bagay; nakakaalam siya ng anumang nasa kadiliman, at ang liwanag ay nananahanan sa kaniya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "גלא",
+      "gloss": "nagbubukas"
+    },
+    {
+      "surface": "עמיקתא",
+      "gloss": "malalim na bagay"
+    },
+    {
+      "surface": "ומסתרתא",
+      "gloss": "at nakatagong bagay"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakakaalam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "anuman"
+    },
+    {
+      "surface": "בחשוכא",
+      "gloss": "nasa kadiliman"
+    },
+    {
+      "surface": "ונהירא",
+      "gloss": "at ang liwanag"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "שרא",
+      "gloss": "nananahanan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:35.101270806Z",
+  "model": "glm-5.3"
+}

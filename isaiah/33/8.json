@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Nangatiwakal ang mga daan, huminto ang naglalakbay sa landas; winasak ⟨niya⟩ ang tipan, hinamak ang mga lungsod, hindi tinuring ang taong mamatay.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "nangatiwakal"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ang mga daan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "huminto"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ang naglalakbay"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa landas"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "winasak"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang tipan"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "hinamak"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ang mga lungsod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tinuring"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ang taong mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:24.373367590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "At ang aking tapang at ang aking kaawaan ay kasama niya, at sa aking pangalan ang kanyang sungay ay itataas.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "at ang aking tapang"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "at ang aking kaawaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "at sa aking pangalan"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "itataas"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ang kanyang sungay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:45.207317373Z",
+  "model": "glm-5.3"
+}

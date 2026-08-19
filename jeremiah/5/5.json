@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Magpupunta ⟨ako⟩ sa mga dakila at sasalitin ko sila ⟨את⟩, sapagkat sila'y nakakilala sa daan ni Yahweh at sa hatol ng kanilang Elohim; ngunit silang lahat ay sama-samang nagpupuri ng pamatok, humihiwalay sa mga tanikala.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "magpupunta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mga dakila"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "sasalitin ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silang mga dakila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakakilala"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hatol"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "kanilang Elohim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sama-sama"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nagpuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamatok"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "humihiwalay"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "mga tanikala"
+    }
+  ],
+  "timestamp": "2026-08-19T17:16:05.077437063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "At pinagdaan niya ang Israel sa gitna nito, sapagkat sa magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "At pinagdaan niya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sa gitna nito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.430477481Z",
+  "model": "glm-5.3"
+}

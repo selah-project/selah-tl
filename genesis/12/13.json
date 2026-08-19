@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Sabihin mo nga na kapatid ko ikaw ⟨את⟩, upang mabuti sa akin dahil sa iyo, at mabuhay ang aking ⟨kaluluwa⟩ alang-alang sa iyo.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "sabihin mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kapatid ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "dahil sa iyo"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "at mabuhay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "alang-alang sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.515743421Z",
+  "model": "glm-5.3"
+}

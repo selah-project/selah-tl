@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At susunugin ng pari ang ⟨את⟩ mga iyon sa dambana — handog na sinusunog para kay Yahweh; alay para sa pagkakasala ito.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "at susunugin (bilang insenso)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga iyon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa dambana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na sinusunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "alay para sa pagkakasala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:47:33.237036275Z",
+  "model": "glm-5.3"
+}

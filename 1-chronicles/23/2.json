@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At kaniyang pinagsama-sama ⟨את⟩ ang lahat ng mga pangulo ng Israel, at ang mga pari, at ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "At kaniyang pinagsama-sama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng mga pangulo ng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "at ang mga pari"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "at ang mga Levita"
+    }
+  ],
+  "timestamp": "2026-08-19T19:55:38.066766772Z",
+  "model": "glm-5.3"
+}

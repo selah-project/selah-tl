@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Purihin ninyo si Yahweh, mga anghel niya, makapangyarihan sa lakas, mga gumagawa ng salita niya, upang makinig sa tinig ng salita niya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Purihin ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mga anghel niya"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "makapangyarihan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa lakas"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mga gumagawa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ng salita niya"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "upang makinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ng salita niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:19.799191746Z",
+  "model": "glm-5.3"
+}

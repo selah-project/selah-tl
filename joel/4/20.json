@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang Yehuda ay mananatili magpakailanman, at ang Yerushalayim, sa lahi hanggang lahi.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "at ang Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mananatili \/ matitira"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at ang Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa lahi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "hanggang lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:56.658403464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sapagkat nagsasabi siya: 'Hindi ba't nang magkakasama, mga hari ang aking mga pinuno?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nagsasabi siya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Hindi ba't"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang aking mga pinuno"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nang magkakasama"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-08-19T16:55:56.101277847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At kukuha siya sa paglilinis ng ⟨את⟩ bahay ng dalawang ibon, at kahoy na sedar, at pula ng tolaat, at ezbob.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "at kukuha siya"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "sa paglilinis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ibon"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "at kahoy"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "at pula"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ng tolaat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "at ezbob"
+    }
+  ],
+  "timestamp": "2026-08-19T14:52:16.780989476Z",
+  "model": "glm-5.3"
+}

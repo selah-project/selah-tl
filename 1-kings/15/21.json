@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At nangyari, nang marinig ito ni Baasha, tumigil siya sa pagtatayo ng ⟨את⟩ Rama, at nanirahan siya sa Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nang marinig ito"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "tumigil siya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "sa pagtatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at nanirahan siya"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "sa Tirtza"
+    }
+  ],
+  "timestamp": "2026-08-19T16:32:51.750471376Z",
+  "model": "glm-5.3"
+}

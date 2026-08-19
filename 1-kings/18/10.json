@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Buhay si Yahweh na iyong Elohim, walang bansa ni kaharian na hindi pinadalhan ng aking panginoon upang hanapin ka; at kanilang sinabi: Wala siya; at pinanumpa niya ang ⟨את⟩ kaharian at ang ⟨את⟩ bansa na ikaw ay hindi matatagpuan.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "iyong Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mayroon"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bansa"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "at kaharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aking panginoon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "upang hanapin ka"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "at kanilang sinabi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "at pinanumpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang kaharian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang bansa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang bansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "matatagpuan ka"
+    }
+  ],
+  "timestamp": "2026-08-19T16:34:16.962312174Z",
+  "model": "glm-5.3"
+}

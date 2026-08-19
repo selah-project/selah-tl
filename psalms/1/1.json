@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Pinapala ang taong hindi lumakad sa payo ng mga masama, at sa daan ng mga makasalanan hindi tumayo, at sa upuan ng mga nanunuya hindi naupo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinapala"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumakad"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "sa payo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masama"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "at sa daan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ng mga makasalanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tumayo"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "at sa upuan"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ng mga nanunuya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naupo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:10.549097880Z",
+  "model": "glm-5.3"
+}

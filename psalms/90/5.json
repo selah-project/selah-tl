@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 90,
+  "translation": "Binaon Mo sila sa tulog; sa umaga ay parang damo na tumutubo sila, na bumabayong muli.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Binaon Mo sila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sa tulog"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa umaga"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "parang damo"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "bumabayong muli"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:13.714818518Z",
+  "model": "glm-5.3"
+}

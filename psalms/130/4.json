@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "Pagkatapos ⟨may⟩ pagpapatawad na kalakip mo, upang ikaw ay katakutan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pagkatapos"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kalakip mo"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ang pagpapatawad"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ikaw ay katakutan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.266193478Z",
+  "model": "glm-5.3"
+}

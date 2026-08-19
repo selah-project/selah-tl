@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At sinabi ni David: Buhay si Yahweh — kundi si Yahweh ang tumama sa kaniya, o dumarating ang kaniyang araw at siya'y namamatay, o bumababa siya sa digmaan at nalilipol.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung hindi \/ kundi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "tumama sa kaniya"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ang kaniyang araw"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "darating"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "at namamatay"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bumababa"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "at nalilipol"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:57.503439126Z",
+  "model": "glm-5.3"
+}

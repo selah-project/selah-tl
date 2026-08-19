@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Huwag kang gagawa para sa iyong sarili ng inanyong diyus-diyosan, anumang kawangis ng anumang nasa ⟨sa⟩ mga langit sa itaas, at ng anumang nasa lupa sa ibaba, at ng anumang nasa mga tubig sa ilalim ng lupa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kang gagawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "para sa iyong sarili"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "inanyong diyus-diyosan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kawangis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nasa mga langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at anumang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nasa lupa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ibaba"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "at anumang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nasa mga tubig"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sa ilalim"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ng lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:30.836674244Z",
+  "model": "glm-5.3"
+}

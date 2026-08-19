@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang lakad ng hangal ay matuwid sa kaniyang mga mata, ngunit ang nakikinig sa payo ay marunong.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang lakad"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ng hangal"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ay matuwid"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa kaniyang mga mata"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ngunit ang nakikinig"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "sa payo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ay marunong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:52.233397485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Gayundin, kapag dalawa ang natutulog, may init sila; ngunit sa isa — paanong siya'y mainit?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gayundin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ang natutulog"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "may init"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ngunit sa isa"
+    },
+    {
+      "surface": "איך",
+      "gloss": "paanong"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "siya mainit"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:05.069242369Z",
+  "model": "glm-5.3"
+}

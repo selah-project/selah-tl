@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At magiging ang araw na ito para sa inyo bilang alaala; at ipagdiwang ninyo ⟨את⟩ niya bilang pista kay Yahweh sa mga lahi ninyo — tuntunin magpakailanman, ipagdiwang ninyo ⟨את⟩ niya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At magiging"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "bilang alaala"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "at ipagdiwang ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niya",
+      "marks": "pista"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bilang pista"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa mga lahi ninyo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "tuntunin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "ipagdiwang ninyo siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:46.173079075Z",
+  "model": "glm-5.3"
+}

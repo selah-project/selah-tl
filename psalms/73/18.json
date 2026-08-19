@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Siyempre't sa mga madulas na dako mo sila inilagay, binagsak mo sila sa mga wasak.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "siyempre't"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "sa mga madulas na dako"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "mo sila inilagay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "binagsak mo sila"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "sa mga wasak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:51.015327069Z",
+  "model": "glm-5.3"
+}

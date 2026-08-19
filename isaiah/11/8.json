@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At maglalaro ang sanggol na sumususo sa butong ng ahas-asp, at sa yungib ng mabahaging ahas iuunat ng batang pina-wean ang kaniyang kamay.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "maglalaro"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sanggol na sumususo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חר",
+      "gloss": "butong"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ahas-asp"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "yungib"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "mabahaging ahas"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "batang pina-wean"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kaniyang kamay"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "iuunat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:13.935491087Z",
+  "model": "glm-5.3"
+}

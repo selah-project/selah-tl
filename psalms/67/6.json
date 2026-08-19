@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 67,
+  "translation": "Magpasasalamat sa iyo ang mga mamamayan, O Elohim; magpasasalamat sa iyo ang mga mamamayan, silang lahat.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Magpasasalamat sa iyo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga mamamayan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magpasasalamat sa iyo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga mamamayan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:25.521365533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "At hindi ⟨lang⟩ sa inyo lamang — ⟨ako⟩ ang tumatahi ng ⟨את⟩ tipang ito at ng ⟨את⟩ sumpang ito;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tumatahi (ng tipan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tipang ito"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tipang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "sumpang ito"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sumpang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:36.810640432Z",
+  "model": "glm-5.3"
+}

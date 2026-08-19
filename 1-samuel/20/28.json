@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sumagot si Yehonatan kay ⟨את⟩ Sha'ul: 'Hiningi nang lubos ni David sa akin na makapunta sa Beit-Lechem.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "At sumagot"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kay Sha'ul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "Hiningi nang lubos"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "hiningi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T16:07:09.607254241Z",
+  "model": "glm-5.3"
+}

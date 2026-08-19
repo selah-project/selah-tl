@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ang giikan at ang pisaan ng ubas ay hindi sila pakakainin, at ang bagong alak ay magpapailanlang ⟨sa⟩ kanila.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "giikan"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "at pisaan ng ubas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "sila pakakainin"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "at bagong alak"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "magpapailanlang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:53.028379745Z",
+  "model": "glm-5.3"
+}

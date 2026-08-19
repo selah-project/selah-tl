@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ni Moshe sa ⟨ang⟩ kongregasyon: Ito ang salita na iniutos ni Yahweh na gawin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨ang⟩ kongregasyon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ang⟩ salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:27.429434829Z",
+  "model": "glm-5.3"
+}

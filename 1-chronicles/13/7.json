@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At isinakay nila ang ⟨את⟩ kabaan ng Elohim sa isang bagong kariton, mula sa bahay ni Avinadav; at sina Utssa at Achiyo ang nagmamaneho ng kariton.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "at isinakay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabaan ng Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kabaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "isang kariton"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "bagong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "at sina Utssa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "at Achiyo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "nagmamaneho"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ng kariton"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:38.844959020Z",
+  "model": "glm-5.3"
+}

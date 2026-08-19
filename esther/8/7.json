@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At sinabi ng hari na si Ahasvero kay Ester na reyna at kay Mordekai na Judeo: Narito, ang bahay ni Haman ibinigay ko kay Ester, at ⟨את⟩ kanyang iniuwi sa poste, dahil sa pag-abot ng kanyang kamay sa mga Judeo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "na si Ahasvero"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "na reyna"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "at kay Mordekai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "na Judeo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang bahay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kay Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "at ⟨את⟩ siya",
+      "marks": "siya (na iniuwi)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "iniuwi sa poste"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "poste"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pag-abot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ng kanyang kamay"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "sa mga Judeo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:52.912807178Z",
+  "model": "glm-5.3"
+}

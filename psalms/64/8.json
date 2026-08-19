@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "At papanà si Elohim sa kanila ng palaso; biglang nangyari ang kanilang mga sugat.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "at papanà siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "palaso"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "bigla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ang kanilang mga sugat"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.633969497Z",
+  "model": "glm-5.3"
+}

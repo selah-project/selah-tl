@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At sasaktan ni Yahweh ang ⟨את⟩ Mitzrayim, na sumasaktan at gumagaling, at babalik sila kay Yahweh, at papakinggan niya sila at gagamutin sila.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "at sasaktan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "na sumasaktan"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "at gumagaling"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "at babalik sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "at papakinggan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niya sila"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "at gagamutin sila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:47.919433714Z",
+  "model": "glm-5.3"
+}

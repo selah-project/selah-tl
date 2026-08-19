@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At ang ⟨את⟩ inyong kapatid na bunso ay dadalhin ninyo sa akin, upang mapatunayan ang inyong mga salita at hindi kayo mamatay. At ginawa nila ang gayon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "inyong kapatid na bunso"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong kapatid"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "na bunso"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "dadalhin ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "at mapatunayan"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ang inyong mga salita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kayo mamatay"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa nila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:13.867495190Z",
+  "model": "glm-5.3"
+}

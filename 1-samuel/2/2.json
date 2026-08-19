@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Walang banal na gaya ni Yahweh, sapagkat walang iba bukod sa iyo, at walang bato na gaya ng ating Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "na gaya ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "iba bukod sa iyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "na gaya ng ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:58:00.557100251Z",
+  "model": "glm-5.3"
+}

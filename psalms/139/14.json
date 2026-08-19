@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 139,
+  "translation": "Pupurihin kita, sapagkat nakamangha akong hinubog; kakilakilabot ang mga gawa mo, at ito'y lubos na nalalaman ng aking kaluluwa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "pupurihin kita"
+    },
+    {
+      "surface": "על",
+      "gloss": " dahil sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "nakamangha \/ kakilakilabot"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "hinubog ako nang"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "mga kagila-gilalas"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang mga gawa mo"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "at ang aking kaluluwa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nalalaman"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:25.975630578Z",
+  "model": "glm-5.3"
+}

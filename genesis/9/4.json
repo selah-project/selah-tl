@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Ngunit laman na nasa ⟨is⟩ buhay pa ng dugo nito ay hindi ninyo kakainin.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "laman"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "na nasa buhay pa nito"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ng dugo nito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kakainin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:06.308796639Z",
+  "model": "glm-5.3"
+}

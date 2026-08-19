@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 49,
+  "translation": "Tinawag ni Yaakov ang kaniyang mga anak, at kaniyang sinabi: Magsipisan kayo, at ipahahayag ko sa inyo ang ⟨את⟩ na mangyayari sa inyo sa huling bahagi ng mga araw.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "tinawag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "magsipisan kayo"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "at ipahahayag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na mangyayari sa inyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na mangyayari"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "mauulit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-sa inyo",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa huling bahagi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ng mga araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:26:19.076737547Z",
+  "model": "glm-5.3"
+}

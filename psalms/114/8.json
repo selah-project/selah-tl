@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 114,
+  "translation": "Ang nagpapabaligtad ng bato upang maging lawa ng tubig, ang chalamish upang maging bukal ng tubig!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Ang nagpapabaligtad"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ng bato"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ang chalamish"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "upang maging bukal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:13.711152068Z",
+  "model": "glm-5.3"
+}

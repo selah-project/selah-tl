@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Mas mabuti ang mabuting pangalan kaysa mabuting pabango, at ang araw ng kamatayan kaysa araw ng ⟨kanyang⟩ kapanganakan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mas mabuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kaysa pabango"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "at ang araw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ng kamatayan"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kaysa araw"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ng kanyang kapanganakan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:02:12.770295974Z",
+  "model": "glm-5.3"
+}

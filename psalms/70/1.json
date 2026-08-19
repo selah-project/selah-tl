@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 70,
+  "translation": "Sa pangunguna, ni David, sa paggunita.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "sa paggunita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:25.168133258Z",
+  "model": "glm-5.3"
+}

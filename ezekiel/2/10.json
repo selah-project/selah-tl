@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kaniyang iniunat ⟨את⟩ iyon sa harap ko, at ito ay nakasulat sa harapan at sa likuran, at nakasulat dito ang mga panaghoy at ungol at kahapis-hapisan.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "at kaniyang iniunat"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "balumbon — ang inunat sa harap ni Yehezqel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ko"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ay nakasulat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "at sa likuran"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "at nakasulat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "dito"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga panaghoy"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "at ungol"
+    },
+    {
+      "surface": "והי",
+      "gloss": "at kahapis-hapisan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:38:39.191677550Z",
+  "model": "glm-5.3"
+}

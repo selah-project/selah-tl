@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At tumalikod si Paraoh at pumasok sa kaniyang bahay, at hindi niya itinuring ang kaniyang puso kahit dito rin.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "At tumalikod"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paraoh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kaniyang bahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "itinuring"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kaniyang puso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kahit"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "dito rin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:11.714227888Z",
+  "model": "glm-5.3"
+}

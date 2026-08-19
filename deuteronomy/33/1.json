@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At ito ang pagpapala na binigkas ni Moshe, lalaki ng Elohim, sa ⟨את⟩ mga anak ni Yisrael bago siya mamatay.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "At ito"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang pagpapala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "binigkas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kamatayan niya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:54.639286626Z",
+  "model": "glm-5.3"
+}

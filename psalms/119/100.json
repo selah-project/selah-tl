@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Higit akong nakauunawa kaysa sa mga matatanda, sapagkat ang iyong mga takdang-utos ay aking ingatan ko.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kaysa sa mga matatanda"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nakauunawa ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iyong mga takdang-utos"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "aking iningatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:45.819451923Z",
+  "model": "glm-5.3"
+}

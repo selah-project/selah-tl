@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ngunit ang ⟨את⟩ tribo ni Levi ay huwag mong bibilangin, at ang ⟨את⟩ ulo nila ay huwag mong isusuma sa gitna ng mga anak ni Yisra'el.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ngunit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tribo ni Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "mo (ay) bibilangin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ulo nila"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ulo nila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mo (ay) isusuma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:05.545358029Z",
+  "model": "glm-5.3"
+}

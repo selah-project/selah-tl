@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Pagkapinatay Niya sila, hinanap nila Siya, at nagbalik sila, at maaga nilang hinanap si El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "pagka"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "pinatay Niya sila"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "hinanap nila Siya"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "at nagbalik sila"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "maaga nilang hinanap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:35.617212572Z",
+  "model": "glm-5.3"
+}

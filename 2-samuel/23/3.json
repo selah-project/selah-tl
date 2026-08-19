@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Nagsalita ang Elohim ng Israel sa akin, nagsalita ang Bato ng Israel: Ang namamahala sa tao ay matuwid, namamahala sa takot sa Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagsalita"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsalita"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang Bato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ang namamahala"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ay matuwid"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "namamahala"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sa takot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:04.649109266Z",
+  "model": "glm-5.3"
+}

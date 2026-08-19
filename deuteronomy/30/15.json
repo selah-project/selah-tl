@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Tingnan: inilagay ko sa harap mo ngayong araw ang ⟨את⟩ buhay at ang ⟨את⟩ mabuti, at ang ⟨את⟩ kamatayan at ang ⟨את⟩ masama.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tingnan"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "inilagay ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa harap mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buhay"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mabuti"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang mabuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kamatayan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ang kamatayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang masama"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang masama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:56.708574573Z",
+  "model": "glm-5.3"
+}

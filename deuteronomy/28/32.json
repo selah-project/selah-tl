@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ang iyong mga anak na lalaki at anak na babae ay ibinibigay sa ibang bayan, habang nakakita ang iyong mga mata at nangangapa sa pag-asa sa kanila buong araw, at walang kakayahan ang iyong kamay.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "iyong mga anak na lalaki"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "at anak na babae"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa bayan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ibang"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "at iyong mga mata"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "nangangapa sa pag-asa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kakayahan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "iyong kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:49.606032341Z",
+  "model": "glm-5.3"
+}

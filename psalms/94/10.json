@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 94,
+  "translation": "Ang nagtuturo sa mga bansa, hindi ba siya nagtatama? Ang nagtuturo sa tao ng kaalaman —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ang nagtuturo-sa-disiplina"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "nagtatama"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ang nagtuturo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:10.073374287Z",
+  "model": "glm-5.3"
+}

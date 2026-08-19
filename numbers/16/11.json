@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 16:11",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Kaya't ikaw at ang buong iyong kapisanan, ⟨sila na⟩ nagtitipon laban kay Yahweh — si Aharon naman, ano siya na ⟨kaya⟩ nagrereklamo kayo laban sa kanya?",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "iyong kapisanan"
+    },
+    {
+      "surface": "הנעדים",
+      "gloss": "nagtitipon"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "si Aharon naman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na kaya"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "nagrereklamo kayo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "laban sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T15:09:50.405797674Z",
+  "model": "glm-5.3"
+}

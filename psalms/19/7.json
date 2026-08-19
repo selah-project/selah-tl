@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Mula sa dulo ng mga langit ang kaniyang paglabas, at ang kaniyang ikot ay hanggang sa mga wakas ng mga ito; at walang nakatago sa kaniyang init.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "mula sa dulo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang kaniyang paglabas"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "at ang kaniyang ikot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "mga wakas ng mga ito"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "nakatago"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "sa kaniyang init"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:16.116672501Z",
+  "model": "glm-5.3"
+}

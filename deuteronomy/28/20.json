@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Ipadadala ni Yahweh laban sa iyo ang ⟨את⟩ sumpa, ang ⟨את⟩ kaguluhan, at ang ⟨את⟩ pagkatuya sa lahat ng itinatanghal ng iyong kamay na gagawin mo, hanggang sa ikaw ay mawasak at hanggang sa ikaw ay maglaho nang madali, dahil sa kasamaan ng iyong mga gawa na pinabayaan mo ako.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ipadadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "laban sa iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sumpa"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "sumpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaguluhan"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "kaguluhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang pagkatuya"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "pagkatuya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ng itinatanghal"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ng iyong kamay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gagawin mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "sa ikaw ay mawasak"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "at hanggang"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "sa ikaw ay maglaho"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nang madali"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kasamaan"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "ng iyong mga gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "pinabayaan mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T15:32:12.526548922Z",
+  "model": "glm-5.3"
+}

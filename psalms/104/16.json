@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Nabubusog ang mga puno ni Yahweh, ang mga sedro ng Levanon na kaniyang itinanim;",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "nabubusog"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ang mga puno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ng Levanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "kaniyang itinanim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:15.543366880Z",
+  "model": "glm-5.3"
+}

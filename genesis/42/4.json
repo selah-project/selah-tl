@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Ngunit si Binyamin, kapatid ni Yosef, hindi sinugo ni Yaakov ⟨את⟩ mga kapatid nito, sapagkat sinabi niya: Baka sakyan siya ng pinsala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sinugo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kapatid nito"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga kapatid nito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sinabi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "baka"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "makaabot sa kanya"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "pinsala"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:21.022220763Z",
+  "model": "glm-5.3"
+}

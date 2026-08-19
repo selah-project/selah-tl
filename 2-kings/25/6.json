@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Dinakip nila ⟨את⟩ ang hari, at dinala nila ⟨את⟩ siya kay hari ng Bavel, sa Rivla; at nagsalita sila ⟨את⟩ sa kaniya ng hatol.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "dinakip nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at iniahon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang hari)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa\/kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ng Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "at nagsalita sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa kaniya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ng hatol"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:11.366363189Z",
+  "model": "glm-5.3"
+}

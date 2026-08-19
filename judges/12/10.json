@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At namatay si Avtzan, at inilibing sa Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "At namatay"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Avtzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "at inilibing"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:02.534093237Z",
+  "model": "glm-5.3"
+}

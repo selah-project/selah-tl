@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Sa Pangulo ng mga mang-aawit — ayon sa \"Shoshannim-Eduth\" — patotoo ni Asaf — isang mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangulo ng mga mang-aawit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth (patotoo)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:56.915861199Z",
+  "model": "glm-5.3"
+}

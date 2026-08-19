@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "Isang tinig ng tumatawag sa ilang: ihanda ang daan ni Yahweh, ituwid sa kaparangan ang mataas na daan para sa ating Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "isang tinig"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ng tumatawag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ihanda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang daan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ituwid"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa kaparangan"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ang mataas na daan"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "para sa ating Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:06:14.438537316Z",
+  "model": "glm-5.3"
+}

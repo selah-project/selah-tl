@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At nang matapos si David sa paghahandog ng ⟨את⟩ handog na susunugin at ng mga handog na kapayapaan, binasbasan niya ang ⟨את⟩ bayan sa pangalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nang matapos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "sa paghahandog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "handog na susunugin"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "mga handog na kapayapaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "binasbasan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa pangalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:14.658376188Z",
+  "model": "glm-5.3"
+}

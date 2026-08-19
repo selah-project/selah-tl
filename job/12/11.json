@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Hindi ba ang tainga ang sumusubok sa mga salita, at ngala ng lawom ang tumitikim ng pagkain para sa sarili?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi ba"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tainga"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "sumusubok"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "at ngala ng lawom"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pagkain"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "tumitikim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "para sa sarili"
+    }
+  ],
+  "timestamp": "2026-08-19T18:48:36.012042827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 117,
+  "translation": "Magpuri kayo ⟨את⟩ kay Yahweh,lahat ng mga bansa;siyasantuwin ninyo siya,lalo ng lahat ng mga pamayanan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Magpuri kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "siyasantuwin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lalo ng lahat ng"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "mga pamayanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:52.074614379Z",
+  "model": "glm-5.3"
+}

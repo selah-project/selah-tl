@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 64,
+  "translation": "Magagalak ang matuwid kay Yahweh, at sa kanya ay mananahan; at magmamalaki ang lahat ng matituwid sa puso.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matuwid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "at mananahan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "at magmamalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "matituwid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:25.266848076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At dumalangin si Avraham sa Elohim, at pinagaling ng Elohim si ⟨את⟩ Avimelech at ⟨את⟩ ang kaniyang asawa at ang kaniyang mga aliping babae, at nagsilang sila.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "at dumalangin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "at pinagaling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang kaniyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang kaniyang asawa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "at ang kaniyang mga aliping babae"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "at nagsilang sila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:22.486122004Z",
+  "model": "glm-5.3"
+}

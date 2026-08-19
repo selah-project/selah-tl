@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Nagtatatag ng kanyang yelo na parang mga piyesa; sa harap ng kanyang lamig, sino ang tatayo?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "nagtatatag"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "kanyang yelo"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "parang mga piyesa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kanyang lamig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tatayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.808471079Z",
+  "model": "glm-5.3"
+}

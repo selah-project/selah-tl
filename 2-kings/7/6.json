@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Pinagparinig ni Adonai sa kampo ng Aram ang ⟨את⟩ tunog ng karwahe, tunog ng kabayo, tunog ng dakilang hukbo, at nagsabi sila, bawat isa sa kapwa niya: Narito, pinasuwelduhan laban sa atin ng hari ng Israel ang ⟨את⟩ mga hari ng mga Hiteyo at ang ⟨את⟩ mga hari ng Mitzrayim, upang dumatal sa atin.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "at si Adonai"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "pinagparinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunog ng karwahe, kabayo, at hukbo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tunog"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ng karwahe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tunog"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ng kabayo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tunog"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ng hukbo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "at nagsabi sila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kapwa niya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pinasuwelduhan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "laban sa atin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hari ng mga Hiteyo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ng mga Hiteyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga hari ng Mitzrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "upang dumatal"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa atin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:43:18.399287033Z",
+  "model": "glm-5.3"
+}

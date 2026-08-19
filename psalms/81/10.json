@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Huwag magkaroon sa iyo ng ⟨el⟩ na banyaga, at huwag ka magyuyukod sa ⟨el⟩ ng ibang bansa;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magkaroon"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "זר",
+      "gloss": "banyaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "magyuyukod ka"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa ⟨el⟩ ng"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ibang bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:53.200545374Z",
+  "model": "glm-5.3"
+}

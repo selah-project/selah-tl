@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Dahil sa tinig ng nanunuya at nanlait, dahil sa kaaway at naghihiganti.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "dahil sa tinig"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "ng nanunuya"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "at nanlait"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "at naghihiganti"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:57.346464811Z",
+  "model": "glm-5.3"
+}

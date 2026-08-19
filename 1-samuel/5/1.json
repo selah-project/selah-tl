@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At ang mga Palestino ay kumuha ng ⟨את⟩ kaban ng Elohim, at dinala nila ito mula sa Even-ha-Ezer papunta sa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "At ang mga Palestino"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ay kumuha ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "at dinala nila ito"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "mula sa Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "papunta sa Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:39.308843627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 73,
+  "translation": "Sapagkat naging mapagtanong ako sa mga nagmamalaki, ⟨sa⟩ kapayapaan ng mga masasama ⟨na⟩ aking nakikita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "naging mapagtanong ako"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "sa mga nagmamalaki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kapayapaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ng mga masasama"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aking nakikita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:42.196020721Z",
+  "model": "glm-5.3"
+}

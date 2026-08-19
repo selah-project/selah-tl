@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "at ang mga kurtina ng looban, at ⟨את⟩ ang kurtina ng pasukan ng looban na malapit sa tabernakulo at sa altar sa palibot, at ⟨את⟩ ang mga lubid nito para sa lahat ng paglilingkod nito.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "at ang mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng looban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kurtina ng pasukan ng looban"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang kurtina"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ng pasukan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ng looban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "malapit sa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang tabernakulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lubid nito"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "ang mga lubid nito"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "para sa lahat"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ng paglilingkod nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:41.183044805Z",
+  "model": "glm-5.3"
+}

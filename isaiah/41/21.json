@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 41:21",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Ilapit ninyo ang inyong paghahatol, sabi ni Yahweh; ilapit ninyo ang inyong mga matibay na katwiran, sabi ng hari ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "Ilapit ninyo"
+    },
+    {
+      "surface": "ריבכם",
+      "gloss": "ang inyong paghahatol"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "ilapit ninyo"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "ang inyong mga matibay na katwiran"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:56.261286922Z",
+  "model": "glm-5.3"
+}

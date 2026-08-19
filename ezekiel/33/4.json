@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "at nakarinig ang nakakarinig ⟨את⟩ ng tinig ng shofar ngunit hindi nagpapaunawa, at pumasok ang tabak at kinuha siya — ang kanyang dugo sa kanyang ulo magiging ⟨niya⟩.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "at nakarinig"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ang nakakarinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng tinig ng shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ng shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nagpapaunawa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tabak"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "at kinuha siya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang kanyang dugo"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa kanyang ulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    }
+  ],
+  "timestamp": "2026-08-19T17:49:52.504730381Z",
+  "model": "glm-5.3"
+}

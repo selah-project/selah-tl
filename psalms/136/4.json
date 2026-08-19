@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 136,
+  "translation": "Sa gumagawa ng malalaking kababalaghan nang nag-iisa, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Sa gumagawa ng"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kababalaghan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "malalaking"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nang nag-iisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:53.680029860Z",
+  "model": "glm-5.3"
+}

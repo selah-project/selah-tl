@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At magsigawa ang mga anak ni Yisrael ng ⟨את⟩ Pesach sa takdang panahon nito.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at magsigawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "sa takdang panahon nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:05:38.963914666Z",
+  "model": "glm-5.3"
+}

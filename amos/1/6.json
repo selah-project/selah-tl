@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ganito ang sabi ni Yahweh: Dahil sa tatlong paglabag ng Aza, at dahil sa apat, hindi ko ito ibabalik — dahil sa pagkatapon nila ng isang buong pagkabihag upang ipasa sa Edom.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatlong"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "paglabag"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ng Aza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at dahil sa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "apat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ko ito ibabalik"
+    },
+    {
+      "surface": "על",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "pagkatapon nila"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "isang buong"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "upang ipasa"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:28.403639455Z",
+  "model": "glm-5.3"
+}

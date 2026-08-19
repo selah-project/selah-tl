@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Sapagkat katulad ng hayop ako, hindi ko Tagalog: sa halip: Sapagkat hayop ako kaysa sa anomang tao, at walang-unawain ng tao sa akin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hayop ako kaysa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "sa anomang tao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at wala"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "unawain"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:57.992823541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Sapagkat sa anim na araw ginawa ni Yahweh ang ⟨את⟩ mga langit at ang ⟨את⟩ lupa, ang ⟨את⟩ dagat at ang ⟨את⟩ lahat na nasa mga ito, at nagpahinga siya sa ikapitong araw; kaya hinablan ni Yahweh ang ⟨את⟩ araw ng Sabbath at itinuring niya itong banal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "anim na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nasa mga ito"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "at nagpahinga siya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ng ikapito"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(alinsunod dito)"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hinablan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng Sabbath"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "at itinuring niya itong banal"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:28.349319680Z",
+  "model": "glm-5.3"
+}

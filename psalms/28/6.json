@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Papuri kay Yahweh, sapagkat dininig niya ang tinig ng aking mga pamamanalangin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "papuri kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dininig niya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tinig"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ng aking mga pamamanalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:20.686965670Z",
+  "model": "glm-5.3"
+}

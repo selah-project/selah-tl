@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "at ang ⟨את⟩ sampung mga tungtungan, at ang ⟨את⟩ sampung mga batya sa ibabaw ng mga tungtungan;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "sampung mga tungtungan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga tungtungan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "sampung mga batya"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "mga batya"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga tungtungan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:55.640531923Z",
+  "model": "glm-5.3"
+}

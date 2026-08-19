@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "Nanghihiram ang masama at hindi nagbabayad; ngunit ang matuwid ay nagpapakita ng awa at nagbibigay.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "nanghihiram"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nagbabayad"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ngunit ang matuwid"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagpapakita ng awa"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "at nagbibigay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:23.832802259Z",
+  "model": "glm-5.3"
+}

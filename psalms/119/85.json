@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Naghukay para sa akin ang mga palalo ng mga bitag — ⟨na⟩ hindi ayon sa iyong Torah.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "naghukay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "para sa akin"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mga palalo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "mga bitag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ayon sa iyong Torah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:14.078346091Z",
+  "model": "glm-5.3"
+}

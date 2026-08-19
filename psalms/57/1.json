@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 57,
+  "translation": "Sa Pangunguna; Huwag Wasakin; mikh-tam ni David, nang tumakas siya mula sa harapan ni Shaul, sa kuweba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa Pangunguna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Huwag"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Wasakin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikh-tam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "nang tumakas siya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mula sa harapan ng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "sa kuweba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:48.346762338Z",
+  "model": "glm-5.3"
+}

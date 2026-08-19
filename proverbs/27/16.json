@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "Ang nagkukubli sa kanya ay nagkukubli sa hangin, at ang langis ng kanyang kanang kamay ay tatawag palayo.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "ang nagkukubli sa kanya"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "nagkukubli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "at ang langis"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ng kanyang kanang kamay"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ay tatawag palayo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:14.467136341Z",
+  "model": "glm-5.3"
+}

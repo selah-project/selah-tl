@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Sapagkat hindi ako tumahan sa ⟨ang⟩ bahay mula sa araw ng pag-akyat ko sa ⟨את⟩ mga anak ni Yisrael mula sa Mitsrayim, hanggang sa araw na ito, kundi ako ay nangibang-bayan sa tolda at sa tabernakulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ako tumahan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa ⟨ang⟩ bahay"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "mula sa araw"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ng pag-akyat ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ang⟩ araw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "at ako ay"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nangibang-bayan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "at sa tabernakulo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:14:24.053872909Z",
+  "model": "glm-5.3"
+}

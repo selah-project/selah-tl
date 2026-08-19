@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sapagkat ikaw ang ⟨ ay ⟨ kaluwalhatian ng kanilang lakas, at sa iyong kaluguran ang aming sungay ay itataas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kaluwalhatian"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ng kanilang lakas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "at sa iyong kaluguran"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "itataas"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ang aming sungay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:48.567223612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Si Yahweh ay nakaupo bilang hari sa baha; at si Yahweh ay uupo bilang hari magpakailanman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "sa baha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nakaupo (bilang hari)"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "at uupo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bilang hari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:00.949708006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At dinama nila si ⟨את⟩ Lot at ang ⟨את⟩ kaniyang ari-arian, anak ng kapatid ni Avram, at umalis sila; at siya ay nakatira sa Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "at dinama nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang ari-arian"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "kaniyang ari-arian"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ng kapatid"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at umalis"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "at siya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nakatira"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "sa Sodom"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:57.794224945Z",
+  "model": "glm-5.3"
+}

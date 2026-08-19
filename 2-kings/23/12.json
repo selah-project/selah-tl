@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 23:12",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At ang ⟨את⟩ mga dambana na nasa bubong ng itaas na silid ni Ajaz, na ginawa ng mga hari ng Yehuda, at ang ⟨את⟩ mga dambanang ginawa ni Menashe sa dalawang looban ng bahay ni Yahweh, pinangwas ng hari, at tinanggal niya roon, at itinapon ang ⟨את⟩ alabok nila sa batis ng Kidron.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "At ang ⟨את⟩",
+      "marks": "mga dambana"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mga dambana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "bubong ng"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "itaas na silid ni"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa ng"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga dambana"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mga dambana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa ni"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "sa dalawang"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "looban ng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "pinangwas ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "at tumakbo\/nilipat siya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "at itinapon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alabok nila"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "ang alabok nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "batis ng"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:57.206481145Z",
+  "model": "glm-5.3"
+}

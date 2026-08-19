@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Bukod sa ⟨sa⟩ mga tao ng mga manlalakbay at kalakal ng mga mangangalakal, at lahat ng mga hari ng Arabo at mga tagapamahala ng lupain.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Bukod sa"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "sa mga tao ng"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "mga manlalakbay"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "at kalakal"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ng mga mangangalakal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at lahat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ng Arabo"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "at mga tagapamahala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:10.192244481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Dukha ako at nanghihina-ng parang mamamatay mula sa kabataan; dala-dala ko ang iyong mga pangamba, lubos akong nagugulumihanan.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "dukha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "at nanghihina parang mamamatay"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "mula sa kabataan"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "dala-dala ko"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ang iyong mga pangamba"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "lubos akong nagugulumihanan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:47.831342282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At magiging parang puno na itinanim sa may mga batis ng tubig, na nagbibigay ng bunga niya sa panahon nito, at ang dahon niya ay hindi lalanta; ang lahat ng kanyang gagawin ay magtatagumpay.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "At magiging"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "parang puno"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "itinanim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "mga batis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang bunga niya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa panahon nito"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "at ang dahon niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "lalanta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kanyang gagawin"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "magtatagumpay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:10.549505013Z",
+  "model": "glm-5.3"
+}

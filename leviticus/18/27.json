@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Sapagkat ang ⟨את⟩ lahat ng mga karumal-dumal na ito ay ginawa ng mga tao ng lupa na nasa harapan ninyo, at nadungisan ang lupa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga karumal-dumal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mga karumal-dumal"
+    },
+    {
+      "surface": "האל",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ay ginawa ng"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tao ng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "nasa harapan ninyo"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "at nadungisan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:08.718551306Z",
+  "model": "glm-5.3"
+}

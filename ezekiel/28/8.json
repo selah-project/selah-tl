@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 28,
+  "translation": "Pababain ka nila sa ⟨ang⟩ hukay, at mamamatay ka sa mga kamatayan ng mga nasugatan, sa gitna ng mga dagat.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "sa hukay"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "pababain ka nila"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "at mamamatay ka"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "sa mga kamatayan"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ng mga nasugatan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa gitna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ng mga dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:48:17.754028354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sinabi ng bayan kay Yehoshua: Si Yahweh, ang ⟨את⟩ ating Elohim, aming paglilingkuran, at sa kanyang tinig kami makinig-sumasailalim.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh, ating Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ating Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "aming paglilingkuran"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "at sa kanyang tinig"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kami makinig-sumasailalim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:45:52.247572210Z",
+  "model": "glm-5.3"
+}

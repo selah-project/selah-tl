@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At mangyayari sa ikaanim na araw, ihahanda nila ang ⟨את⟩ dala nila, at magiging dobleng ulit ito kaysa sa tinipon nila araw-araw.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ang ikaanim"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ihahanda nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dala nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "dala nila"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dobeng ulit"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaysa sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "tinipon nila"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:33:22.435540945Z",
+  "model": "glm-5.3"
+}

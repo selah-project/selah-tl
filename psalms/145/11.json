@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Sasabihin nila ang karangalan ng iyong paghahari, at ipagsasalaysay ang iyong kapangyarihan.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "karangalan"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ng iyong paghahari"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sasabihin nila"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "at ang iyong kapangyarihan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ipagsasalaysay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:23.962041502Z",
+  "model": "glm-5.3"
+}

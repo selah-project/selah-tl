@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Tumindig ang buong bayan na parang isang tao lamang, na nagsasabi: Hindi tayo maglalakad bawat isa sa kanyang tolda, at hindi tayo liliko bawat isa sa kanyang bahay.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tumindig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "na parang tao"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang lamang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "maglalakad tayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "sa kanyang tolda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "liliko tayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa kanyang bahay"
+    }
+  ],
+  "timestamp": "2026-08-19T15:56:06.958631907Z",
+  "model": "glm-5.3"
+}

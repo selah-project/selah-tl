@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng tao: Ang babaing ibinigay mo na sa akin ay nakasama — siya ang nagbigay sa akin mula sa puno, at kumain ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Ang babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ibinigay mo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nakasama ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nagbigay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puno"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at kumain"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:10.007991291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At tumahan si Yaakov sa lupain ng mga pangingibang-bayan ng kaniyang ama, sa lupain ng Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at tumahan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ng mga pangingibang-bayan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ng kaniyang ama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ng Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:07.806216624Z",
+  "model": "glm-5.3"
+}

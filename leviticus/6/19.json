@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Ang saserdote na naghandog nito bilang ⟨את⟩ kasalanan ay siyang kakain nito; sa banal na lugar kakainin ⟨ito⟩, sa looban ng tolda ng tipan.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "naghandog bilang kasalanan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang handog para sa kasalanan)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "siyang kakain nito"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kakainin"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "sa looban ng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda ng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tipan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:46:59.507955289Z",
+  "model": "glm-5.3"
+}

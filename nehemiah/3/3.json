@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At ang ⟨את⟩ tarangkahan ng mga isda ay itinayo ng mga anak ng Hassenaah; sila ay naglatag ng mga balangkas nito, at nagtayo sila ng mga pinto nito, mga barahan nito, at mga traverse nito.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "tarangkahan ng mga isda"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tarangkahan"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "ng mga isda"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ng"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hassenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "naglatag sila nito"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "at nagtayo sila ng"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "mga pinto nito"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "mga barahan nito"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "at mga traverse nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:15:35.967761673Z",
+  "model": "glm-5.3"
+}

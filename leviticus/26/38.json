@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At maglalaho kayo sa mga bansa, at lalamunin kayo ng ⟨את⟩ lupa ng inyong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "at maglalaho kayo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "at lalamunin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo (ang nilalaman)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ng inyong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T14:59:35.180799642Z",
+  "model": "glm-5.3"
+}

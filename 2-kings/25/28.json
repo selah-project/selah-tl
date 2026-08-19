@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At nagsalita siya ng ⟨את⟩ mabubuting bagay sa kanya, at inilagay niya ang ⟨את⟩ kanyang trono ng mas mataas kaysa trono ng mga hari na ⟨את⟩ kasama niya sa Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsalita siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kanya"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "mabubuting bagay"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanyang trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kanyang trono"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ng mas mataaw kaysa... ng mas mataas kaysa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ng mga hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T16:52:00.664198128Z",
+  "model": "glm-5.3"
+}

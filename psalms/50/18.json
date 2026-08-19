@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 50,
+  "translation": "Kapag nakakita ka ng magnanakaw, tumatakbo ka kasama niya, at kasama ng mga mangangalunya ang bahagi mo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kapag"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakakita ka"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ng magnanakaw"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "tumatakbo ka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama ng"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mga mangangalunya"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ang bahagi mo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:47.177477462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Nauuhaw ang aking kaluluwa sa Elohim, sa El na buhay: kailan ako'y paroroon at makikita ang ⟨אng⟩ mukha ng Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Nauuhaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "na buhay"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kailan"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ako'y paroroon"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "at makikita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang mukha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ng Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:20.850567455Z",
+  "model": "glm-5.3"
+}

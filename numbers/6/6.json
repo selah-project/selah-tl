@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sa lahat ng araw ng kaniyang pagtatangi kay Yahweh, sa ⟨isang⟩ namatay ay hindi siya lalapit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "araw ng"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "kaniyang pagtatangi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨isang⟩ tao"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "lalapit"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:51.106415911Z",
+  "model": "glm-5.3"
+}

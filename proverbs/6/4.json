@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Huwag mong bigyan ng tulog ang iyong mga mata, ni antok man sa iyong mga talukap,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mong bigyan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ng tulog"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ang iyong mga mata"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ni antok man"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "sa iyong mga talukap"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:02.263442052Z",
+  "model": "glm-5.3"
+}

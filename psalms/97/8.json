@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Nakita at nagaluwang si Tsiyon, at nagsaya ang mga anak na babae ng Yehuda, dahil sa iyong mga hatol, O Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "nakita\/narinig — nakarinig"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "at nagaluwang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "si Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "at nagsaya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak na babae ng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "iyong mga hatol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:11.095427996Z",
+  "model": "glm-5.3"
+}

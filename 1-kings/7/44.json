@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "at ang ⟨את⟩ isang dagat, at ang ⟨את⟩ labindalawang mga baka sa ilalim ng dagat;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "isang dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "labindalawang mga baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "labing"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:55.640712427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "Ito ang lahing naghahanap sa Kanya, na naghahanap ng iyong mga Mukha — si Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ang lahi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "naghahanap sa Kanya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "naghahanap"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ng iyong mga Mukha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:38.506652695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Ngunit pinigil ni Haman ang kanyang sarili, at pumasok sa kanyang bahay, at nagpadala at pumasok ⟨את⟩ kanyang mga kaibigan at ⟨את⟩ si Zeresh na asawa niya.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ngunit pinigil niya ang sarili"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "at pumasok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kanyang bahay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at nagpadala"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at pinaapasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga kaibigan"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kanyang mga kaibigan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "si Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "na asawa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:09.091856828Z",
+  "model": "glm-5.3"
+}

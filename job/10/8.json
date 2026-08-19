@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ang iyong mga kamay ang humulma at gumawa sa akin nang buong-buo sa paligid, ngunit nilamon mo ako!",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "ang iyong mga kamay"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "humulma sa akin"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "at gumawa sa akin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nang buong-buo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paligid"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "ngunit nilamon mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:47:58.568122122Z",
+  "model": "glm-5.3"
+}

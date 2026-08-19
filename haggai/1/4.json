@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ba ngayon ang panahon para sa inyo — kayo mismo! — na tumira sa inyong mga bahay na bubongán, samantalang ⟨ang⟩ bahay na ito ay guho?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ba ngayon ang panahon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo mismo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "na tumira"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "sa inyong mga bahay"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "bubongán"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "samantalang ang bahay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "guho"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:06.730904830Z",
+  "model": "glm-5.3"
+}

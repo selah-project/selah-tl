@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "Sa lahat ng ito ay nagkasala pa sila, at hindi naniwala sa kaniyang mga kababalaghan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nagkasila pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "naniwala"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "sa kaniyang mga kababalaghan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:14.654145841Z",
+  "model": "glm-5.3"
+}

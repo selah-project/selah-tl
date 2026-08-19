@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 98,
+  "translation": "Sumigaw kayo kay Yahweh, buong lupa; magalak na magsabog ng hiyawan at umawit ng papuri.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "sumigaw kayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "magsabog ng hiyawan"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "at magalak"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "at umawit ng papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:00.404680033Z",
+  "model": "glm-5.3"
+}

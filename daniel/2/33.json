@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang kanyang mga binti ay ⟨ng⟩ bakal, ang kanyang mga paa ay bahagi ⟨ng⟩ bakal at bahagi ⟨ng⟩ luad.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ang kanyang mga binti"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ng⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "ang kanyang mga paa"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "bahagi"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ng⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "at bahagi"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ng⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "luad"
+    }
+  ],
+  "timestamp": "2026-08-19T19:07:00.265042047Z",
+  "model": "glm-5.3"
+}

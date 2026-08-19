@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Ngayon ⟨kaya⟩, iwan mo akong mag-isa, upang sumiklab ang aking galit laban sa kanila at ko silang lubusin; at gagawin kita ⟨את⟩ na isang bansang dakila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ngayon"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "iwan mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akong mag-isa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "upang sumiklab"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ang aking galit"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "laban sa kanila"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "at ko silang lubusin"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "at gagawin"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "kita ⟨את⟩",
+      "marks": "ikaw — gagawing bansang dakila"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na bansa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:39:53.351661990Z",
+  "model": "glm-5.3"
+}

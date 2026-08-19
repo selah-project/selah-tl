@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sa iyo nagsigaw sila at nakaligtas; sa iyo nagtiwala, at hindi ⟨na⟩ nahiya.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "nagsigaw sila"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "at nakaligtas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagtiwala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "nahiya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:50:36.371058724Z",
+  "model": "glm-5.3"
+}

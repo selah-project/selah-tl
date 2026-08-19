@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Kaya't ipinagpalit nila ang ⟨את⟩ kanilang Kaluwalhatian sa Wangis ng Torong kumakain ng damo.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ipinagpalit nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang Kaluwalhatian"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kanilang Kaluwalhatian"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sa Wangis"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng Toro"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ng damo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:22.799905933Z",
+  "model": "glm-5.3"
+}

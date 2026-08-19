@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 60,
+  "translation": "Ibigay mo sa amin ang tulong laban sa kaaway, sapagkat walang-halang tulong ang mula sa tao.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ibigay mo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "tulong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "laban sa kaaway"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "sapagkat walang-hala"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "tulong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    }
+  ],
+  "timestamp": "2026-08-19T18:21:08.524101100Z",
+  "model": "glm-5.3"
+}

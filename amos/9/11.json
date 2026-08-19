@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sa araw na yaon, itatayo ko ang ⟨את⟩ kubong ni David na nahulog, at didikdin ko ang ⟨את⟩ mga butas nito, at ang mga guho nito ay itatayo ko, at itatayo ko itong muli gaya ng mga araw ng unang panahon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "na yaon"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "itatayo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubong ni David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "na nahulog"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "at didikdin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga butas nito"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mga butas nito"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "at ang mga guho nito"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "itatayo ko"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "at itatayo ko itong muli"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "gaya ng mga araw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ng unang panahon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:36.453881108Z",
+  "model": "glm-5.3"
+}

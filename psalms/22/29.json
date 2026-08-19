@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Sapagkat kay Yahweh ang paghahari, at siya ang namumuno sa ⟨את⟩ mga bansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ang paghahari"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "at namumuno"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:34.795852636Z",
+  "model": "glm-5.3"
+}

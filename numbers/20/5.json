@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At bakit ninyo kaming pinaahon mula sa Mitzrayim upang dalhin kami ⟨את⟩ sa lugar na ito na masama? Hindi lugar ng binhi, ni ng igos, ni ng ubas, ni ng granada; at tubig ay walang mainom.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ninyo kaming pinaahon"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mula sa Mitzrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "upang dalhin"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang lugar"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "na masama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ng binhi"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "at ng igos"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "at ng ubas"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "at ng granada"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "at tubig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ay wala"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "mainom"
+    }
+  ],
+  "timestamp": "2026-08-19T15:11:24.282865883Z",
+  "model": "glm-5.3"
+}

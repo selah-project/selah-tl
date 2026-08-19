@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At dinala ko kayo sa lupain ng karmel, upang kainin ang bunga nito at ang kabutihan nito; ngunit pagpasok ninyo, dinungisan ninyo ang ⟨את⟩ aking lupa, at ang aking minana ay ginawa ninyong karumal-dumal.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "at dinala ko kayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ng karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "upang kainin"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ang bunga nito"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "at ang kabutihan nito"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "ngunit pagpasok ninyo"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "dinungisan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking lupa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "aking lupa"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "at ang aking minana"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ginawa ninyo"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "na karumal-dumal"
+    }
+  ],
+  "timestamp": "2026-08-19T19:48:08.308525727Z",
+  "model": "glm-5.3"
+}

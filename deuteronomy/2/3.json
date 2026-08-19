@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapat na sa inyo ang pag-ikot sa ⟨את⟩ bundok na ito; tumungo kayo sa inyong sarili papaitaas ng hilaga.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "sapat na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ang pag-ikot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundok na ito"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "tumungo kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyong sarili"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "papaitaas ng hilaga"
+    }
+  ],
+  "timestamp": "2026-08-19T15:21:12.835347470Z",
+  "model": "glm-5.3"
+}

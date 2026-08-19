@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 99,
+  "translation": "Yahweh na ating Elohim, ikaw ang sumagot sa kanila; ⟨ikaw ang⟩ El na nagpapatawad noon para sa kanila, ngunit naghihiganti sa kanilang mga gawa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na ating Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ang sumagot sa kanila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na nagpapatawad"
+    },
+    {
+      "surface": "היית",
+      "gloss": "noon ⟨ikaw ang⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "para sa kanila"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ngunit naghihiganti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "kanilang mga gawa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:47.947385777Z",
+  "model": "glm-5.3"
+}

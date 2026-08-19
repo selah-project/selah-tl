@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Gayon lamang, kung paanong kinakain ang ⟨את⟩ usa at ang ⟨את⟩ usa-na-pulang, gayon mo itong kakainin; ang marumi at ang malinis na magkasama ay kakain nito.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gayon lamang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kinakain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usa"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "usa-na-pulang"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "usa-na-pulang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mo itong kakainin"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ang marumi"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "at ang malinis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkasama"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "kakain nito"
+    }
+  ],
+  "timestamp": "2026-08-19T15:26:10.908421472Z",
+  "model": "glm-5.3"
+}

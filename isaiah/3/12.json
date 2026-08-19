@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang aking bayan — mga sanggol ang mga naniningil sa kanya, at mga babae ang naghari sa kanya. Bayan ko, ang mga nagpupuri sa iyo ay nagpapaligaw sa iyo, at ang daan ng iyong mga landas ay kanilang nilamon.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Ang aking bayan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "mga naniningil sa kanya"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "mga sanggol"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "at mga babae"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Bayan ko"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "ang mga nagpupuri sa iyo"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ay nagpapaligaw sa iyo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "at ang daan"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ng iyong mga landas"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "ay kanilang nilamon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:22.280388318Z",
+  "model": "glm-5.3"
+}

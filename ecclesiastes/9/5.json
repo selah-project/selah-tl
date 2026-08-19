@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Sapagkat ang mga buhay ay nakaaalam na sila'y mamamatay, ngunit ang mga patay ay walang nalalaman anuman, at walang na pang sa kanila ang gantimpala, sapagkat nailimot na ang kanilang pag-alaala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang mga buhay"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "nakaaalam"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "na sila'y mamamatay"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "ngunit ang mga patay"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ay hindi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "nakaaalam"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "anuman"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na (pang)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ang gantimpala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "nailimot na"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang kanilang pag-alaala"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:06.583199855Z",
+  "model": "glm-5.3"
+}

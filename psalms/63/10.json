@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 63,
+  "translation": "At sila na humahanap ng pagkawasak sa aking kaluluwa ay papasok sa ⟨mga⟩ pinakamababang bahagi ng ⟨the⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "pagkawasak"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "humahanap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ng aking kaluluwa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sa pinakamababang bahagi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:07.200991245Z",
+  "model": "glm-5.3"
+}

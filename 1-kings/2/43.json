@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At bakit mo hindi iningatan ang ⟨את⟩ panunumpa kay Yahweh, at ang ⟨את⟩ utos na ipinagutos ko sa iyo?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "at bakit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "mo iningatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panunumpa kay Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "panunumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "utos"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "utos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ipinagutos ko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:52.337591003Z",
+  "model": "glm-5.3"
+}

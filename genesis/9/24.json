@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At gumising si Noach mula sa kanyang alak, at nalaman niya ang ⟨את⟩ ginawa sa kanya ng kanyang anak na bunso.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "at gumising"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "mula sa kanyang alak"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "at nalaman niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ginawa sa kanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ng kanyang anak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "na bunso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:27.444711778Z",
+  "model": "glm-5.3"
+}

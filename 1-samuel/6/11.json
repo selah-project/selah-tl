@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At inilagay nila ang ⟨את⟩ kaban ni Yahweh sa kariton, at ⟨את⟩ kahon, at ⟨את⟩ mga ginintuang daga, at ⟨את⟩ mga larawan ng kanilang mga bukol.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kahon"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga ginintuang daga"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mga daga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ginintuang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga larawan ng kanilang mga bukol"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "mga larawan"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ng kanilang mga bukol"
+    }
+  ],
+  "timestamp": "2026-08-19T15:59:57.528238128Z",
+  "model": "glm-5.3"
+}

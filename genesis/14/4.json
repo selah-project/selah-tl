@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Labindalawang taon silang naglingkod ⟨את⟩ kay Kedarlaomer, at sa ikalabintatlong taon sila nag-alsa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Labindalawa (dalawang)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(pampu)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sila naglingkod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "kay Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at sa ikatlo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(pampu)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taon"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "sila nag-alsa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:09:52.644545628Z",
+  "model": "glm-5.3"
+}

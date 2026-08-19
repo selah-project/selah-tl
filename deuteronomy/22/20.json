@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngunit kung totoo ang bagay na ito — hindi natagpuan ang mga tanda ng pagkadalisay sa batang babae —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ngunit kung"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totoo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nangyari"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "natagpuan"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "mga tanda ng pagkadalisay"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "sa batang babae"
+    }
+  ],
+  "timestamp": "2026-08-19T15:31:26.657824610Z",
+  "model": "glm-5.3"
+}

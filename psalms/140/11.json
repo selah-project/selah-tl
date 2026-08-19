@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 140,
+  "translation": "Mga uling-nasusunog ang mahulog sa kanila; sa apoy ihagis sila; sa malalalang hukay — hindi sila babangon pa.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "mahulog"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "mga uling-nasusunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ihagis sila"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "sa malalalang hukay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hindi pa"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sila babangon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:30.669750422Z",
+  "model": "glm-5.3"
+}

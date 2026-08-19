@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Ang ⟨mga⟩ amain ninyo, nasaan sila? At ang mga propeta, hanggang magpakailanman ba sila mabubuhay?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ang ⟨mga⟩ amain ninyo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "nasaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "at ang mga propeta"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "hanggang magpakailanman ba"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sila mabubuhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:46.440237897Z",
+  "model": "glm-5.3"
+}

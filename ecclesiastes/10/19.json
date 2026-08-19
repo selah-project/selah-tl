@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Para sa tawanan hinahanda ang ⟨את⟩ tinapay, at ang alak nagpapasaya ng buhay; ngunit ang pilak ang sumasagot sa ⟨את⟩ lahat.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "para sa tawanan"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "hinahanda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "at ang alak"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagpapasaya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "at ang pilak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sumasagot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "lahat"
+    }
+  ],
+  "timestamp": "2026-08-19T19:54:19.278189411Z",
+  "model": "glm-5.3"
+}

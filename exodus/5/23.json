@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At mula noon, nang pumarong ako kay Paroh upang magsalita sa iyong pangalan, hinamak niya ang bayang ito, at ang pagliligtas — hindi mo hinanggal sa ⟨את⟩ iyong bayan.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "at mula noon"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nang pumarong ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "upang magsalita"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa iyong pangalan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hinamak niya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "at ang pagliligtas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "mo hinanggal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong bayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iyong bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:13.464651684Z",
+  "model": "glm-5.3"
+}

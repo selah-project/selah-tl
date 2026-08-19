@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Kundi para sa kanyang kamag-anak na malapit sa kanya: sa kanyang ina at sa kanyang ama, at sa kanyang anak na lalaki, at sa kanyang anak na babae, at sa kanyang kapatid na lalaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "para sa kanyang kamag-anak"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na malapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "sa kanyang ina"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "at sa kanyang ama"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "at sa kanyang anak na lalaki"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "at sa kanyang anak na babae"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "at sa kanyang kapatid na lalaki"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:03.535188259Z",
+  "model": "glm-5.3"
+}

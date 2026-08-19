@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At nangyari, ang pangalan ng panganay niyang anak ay Yoël, at ang pangalan ng pangalawa niya ay Aviyah, mga hukom sa Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang pangalan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "niyang anak"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ay Yoël"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "at ang pangalan"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "ng pangalawa niya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ay Aviyah"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mga hukom"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "sa Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-19T16:00:22.448947196Z",
+  "model": "glm-5.3"
+}

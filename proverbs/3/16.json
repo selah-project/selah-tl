@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Ang haba ng mga araw ay nasa kanang kamay niya; sa kaliwang kamay niya ay kayamanan at kaluwalhatian.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Ang haba ng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga araw"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "nasa kanang kamay niya"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "sa kaliwang kamay niya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kayamanan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "at kaluwalhatian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:21.648340609Z",
+  "model": "glm-5.3"
+}

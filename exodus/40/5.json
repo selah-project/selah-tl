@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At ilalagay mo ang ⟨את⟩ altar ng ginto para sa insenso sa harap ng Aron ng Patotoo, at ilalagay mo ang ⟨את⟩ kurtina ng pasukan ng Tolda.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar ng ginto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "para sa insenso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harap ng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng Patotoo"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurtina ng pasukan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ng pasukan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ng Tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:02.010803335Z",
+  "model": "glm-5.3"
+}

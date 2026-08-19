@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At bibilangin ninyo para sa inyo, mula sa kinabukasan ng shabbat, mula sa araw ng pagdadala ninyo ng ⟨את⟩ omer ng iniaangat na handog: pitong shabbat na ganap sila ⟨maging⟩.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "at bibilangin ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mula sa kinabukasan"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ng shabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "mula sa araw"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ng pagdadala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer ng iniaangat na handog"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ng iniaangat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "ganap"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "sila ⟨maging⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:34.996461594Z",
+  "model": "glm-5.3"
+}

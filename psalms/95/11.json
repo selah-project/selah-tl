@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 95,
+  "translation": "Kaya't ako'y nanumpa sa aking poot: kung папасok sila sa aking pahingahan!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kaya't"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ako'y nanumpa"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "sa aking poot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "papapasok sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "aking pahingahan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:01.727468917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At pumasok siya kay Avraham — hindi, kay Yitshak ang kanyang ama — at nagsabi, Ama ko! At kaniyang sinabi, Heto ako; sino ka, anak ko?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at pumasok siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang kanyang ama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ama ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Heto ako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:16:55.025671482Z",
+  "model": "glm-5.3"
+}

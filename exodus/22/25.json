@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Kung ipagsasangla mo ang kapisan ng kapwa mo, hanggang sa paglubog ng araw isasauli mo ⟨ito⟩ sa kanya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sa pagsangla"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ipagsasangla mo"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "ang kapisan"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ng kapwa mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa paglubog"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ng araw"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "isasauli mo ito"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:58.074999962Z",
+  "model": "glm-5.3"
+}

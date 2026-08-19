@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "paso sa halip ng paso, sugat sa halip ng sugat, pamamaga sa halip ng pamamaga",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip ng"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sugat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip ng"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sugat"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "pamamaga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa halip ng"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "pamamaga"
+    }
+  ],
+  "timestamp": "2026-08-19T14:34:40.771845578Z",
+  "model": "glm-5.3"
+}

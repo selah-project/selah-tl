@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ako, ang karunungan, ay nananahanan kasama ng ⟨ang⟩ pag-iingat, at kaalaman ng mga matinong balak ay aking matatagpuan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang karunungan"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nananahanan ako"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "pag-iingat"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "at kaalaman"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ng mga balak"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ay matatagpuan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:45.241797004Z",
+  "model": "glm-5.3"
+}

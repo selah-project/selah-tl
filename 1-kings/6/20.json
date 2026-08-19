@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sa harap ng Debir: dalawampung siko ang haba, at dalawampung siko ang luwang, at dalawampung siko ang taas nito; at biniyayan niya ito ng pinong ginto, at biniyayan ang altar na sedro.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "at sa harap ng"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang haba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "at dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang luwang"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "at dalawampu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ang taas nito"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "at biniyayan niya ito"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ng ginto"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "pino"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "at biniyayan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "na sedro"
+    }
+  ],
+  "timestamp": "2026-08-19T16:26:09.050174645Z",
+  "model": "glm-5.3"
+}

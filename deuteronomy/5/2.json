@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "Si Yahweh na ating Elohim ang ⟨nagtibay ng⟩ tipan ⟨na pinutol⟩ ⟨kasama⟩ natin sa Chorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na ating Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "⟨nagtibay ng tipan⟩ (literal: pumutol)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kasama natin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Chorev"
+    }
+  ],
+  "timestamp": "2026-08-19T15:22:06.960052316Z",
+  "model": "glm-5.3"
+}

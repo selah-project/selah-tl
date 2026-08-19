@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Subukan mo, kong maaari, ang ⟨את⟩ iyong mga alipin sampung araw, at bigyan nila tayo mula sa mga buto at kumain tayo, at tubig at uminom tayo.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "subukan mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kong maaari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga alipin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iyong mga alipin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "at bigyan nila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "mga buto"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "at kumain tayo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "at tubig"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "at uminom tayo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:06:02.341868789Z",
+  "model": "glm-5.3"
+}

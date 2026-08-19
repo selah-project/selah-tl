@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Pinagpala ang taong ang lakas ay nasa iyo, ng mga landas sa kanilang puso.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinagpala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ang lakas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nasa iyo"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ng mga landas"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa kanilang puso"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:59.016301203Z",
+  "model": "glm-5.3"
+}

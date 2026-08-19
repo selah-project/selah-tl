@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Maganda ang hamak na tao na may alila sa kanya kaysa sa nagpapakadakila sa sarili na walang tinapay.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maganda"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "hamak na tao"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "at may alila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "kaysa sa nagpapakadakila sa sarili"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "na walang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:40:07.102698252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Lumapit na ang mga araw ni David na mamatay, at iniutos niya kay ⟨את⟩ Shelomoh na anak niya, na sabihin:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "lumapit na"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga araw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na mamatay"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kay Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na anak niya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sabihin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:41.094879593Z",
+  "model": "glm-5.3"
+}

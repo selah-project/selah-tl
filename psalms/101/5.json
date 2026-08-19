@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 101,
+  "translation": "Ang nanlalait nang lihim sa kanyang kapwa — ⟨את⟩ kanya lilipulin ko; ang matataas ng mata at malaplapat na puso — ⟨את⟩ kanya, hindi ko matitiis.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ang nanlalait"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "nang lihim"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa kanyang kapwa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kanya (ang nanlalait)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "lilipulin ko"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ng mata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "at malapad"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kanya (ang may matataas na mata)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ko matitiis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:12.341421203Z",
+  "model": "glm-5.3"
+}

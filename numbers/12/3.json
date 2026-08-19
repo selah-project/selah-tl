@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ngunit ang lalaking si Moshe ay napaka-mapagkumbaba, higit sa lahat ng tao na nasa ibabaw ng ⟨itong⟩ lupa.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ngunit ang lalaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ay mapagkumbaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "napaka-"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat ng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukha \/ ibabaw"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨itong⟩ lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T15:07:59.182275763Z",
+  "model": "glm-5.3"
+}

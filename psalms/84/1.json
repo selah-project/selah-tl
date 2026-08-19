@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 84,
+  "translation": "Sa pangunguna ng manunugtog, sa Gitit, para sa mga anak ni Korach, isang mizmór.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa pangunguna ng manunugtog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmór"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:18.245515493Z",
+  "model": "glm-5.3"
+}

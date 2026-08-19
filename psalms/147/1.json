@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Mgntihimilin kay Yah, sapagkat mabuti ang pag-awit para sa ating Elohim, sapagkat kaaya-aya ⟨ito⟩, angkatamtam-dapat ⟨ay⟩ papuri.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Mgntihiyin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kay Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ang pag-awit"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa ating Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kaaya-aya"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "angkop"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "papuri"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:46.092361025Z",
+  "model": "glm-5.3"
+}

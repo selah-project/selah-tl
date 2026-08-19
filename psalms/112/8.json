@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 112,
+  "translation": "Matibay na umaangkla ang kanyang puso, hindi siya matatakot, hanggang sa makita niya ang kanyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "umaangkla nang matibay"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang kanyang puso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "siya matatakot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "ang kanyang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:57.505642418Z",
+  "model": "glm-5.3"
+}

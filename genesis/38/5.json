@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 38,
+  "translation": "At nagdagdag pa siya, at nanganak ng anak na lalaki, at tinawag niya ang ⟨את⟩ kanyang pangalan na Shelah; at siya ay nasa Kezib nang ipanganak niya si ⟨את⟩ya.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nagdagdag pa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nanganak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak na lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tinawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang pangalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kanyang pangalan"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "at siya ay nasa"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "sa Kezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "nang ipanganak niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ya",
+      "marks": "siya (ang anak)"
+    }
+  ],
+  "timestamp": "2026-08-19T14:21:03.215828027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "Sapagkat si Yahweh ay nais ang kagandahang-loob at hindi hain, at ang pagkakilala kay Elohim ay higit sa mga handog na susunugin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kagandahang-loob"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nais ko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hain"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "at ang pagkakilala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kay Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "higit sa mga handog na susunugin"
+    }
+  ],
+  "timestamp": "2026-08-19T17:57:12.565982491Z",
+  "model": "glm-5.3"
+}

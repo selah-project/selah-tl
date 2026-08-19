@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "daniel 11:35",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang ilan sa mga marurunong ay matitisod upang sila ay linangin, at piliin, at paputiin, hanggang sa panahon ng wakas, sapagkat may itinalagang panahon pa.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "המשכילים",
+      "gloss": "ang mga marurunong"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matitisod"
+    },
+    {
+      "surface": "לצרוף",
+      "gloss": "upang linangin (sa apoy)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולברר",
+      "gloss": "at piliin"
+    },
+    {
+      "surface": "וללבן",
+      "gloss": "at paputiin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "wakas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sa itinalagang panahon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:13.901960442Z",
+  "model": "glm-5.3"
+}

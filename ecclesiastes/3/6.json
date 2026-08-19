@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Panahon sa paghahanap, at panahon sa pagkawala; panahon sa pag-iingat, at panahon sa pagtatapon.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa paghahanap"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at panahon"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "sa pagkawala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "sa pag-iingat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "at panahon"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "sa pagtatapon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:08.602258477Z",
+  "model": "glm-5.3"
+}

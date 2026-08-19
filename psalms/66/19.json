@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 66,
+  "translation": "Ngunit tunay na nakinig si Elohim; pinatuol niya ⟨ng⟩ tenga sa tinig ng aking panalangin.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "tunay na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakinig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "pinatuol niya ang tenga"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ng aking panalangin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:07.648787914Z",
+  "model": "glm-5.3"
+}

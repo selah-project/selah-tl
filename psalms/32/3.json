@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Nang tahimik ako, nalanta ang aking mga buto, sa aking pag-ungal buong maghapon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nang"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "tahimik ako"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "nalanta"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang aking mga buto"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "sa aking pag-ungal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "maghapon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:29.994490925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Narito, habang nagsasalita ka pa roon sa hari, ako naman ay papasok pagkatapos mo, at bubuin ko ang ⟨את⟩ iyong mga salita.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "narito"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "habang ... pa"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nagsasalita ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "roon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ako naman"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkatapos mo"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "at bubuin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong mga salita"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "iyong mga salita"
+    }
+  ],
+  "timestamp": "2026-08-19T16:23:35.756206525Z",
+  "model": "glm-5.3"
+}

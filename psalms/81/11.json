@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Ako si Yahweh, ang iyong Elohim, na nagahon sa iyo mula sa lupain ng Mitzrayim; lusubin mo ang iyong bibig at punuin ko ito.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang iyong Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "na nagahon sa iyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "lusubin mo \/ palaparin mo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang iyong bibig"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "at punuin ko ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:53.200728642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Lundo ang puso, higit sa lahat, at ⟨siya ay⟩ walang-pagamot — sino ang makakakilala ⟨dito⟩?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Lundo"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "ang puso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "higit sa lahat"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "at walang-pagamot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya ay⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ang makakakilala ⟨dito⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T17:21:44.033237248Z",
+  "model": "glm-5.3"
+}

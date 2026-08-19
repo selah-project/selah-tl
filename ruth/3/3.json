@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kaya manghugas ka at magpahid ng langis, at magsuot ka ng iyong damit sa iyo, at bumaba ka sa giik; huwag kang magpapakilala sa lalaki hanggang matapos siyang kumain at uminom.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "at manghugas ka"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "at magpahid ng langis"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "at magsuot ka"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "iyong damit"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "at bumaba ka"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sa giik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "magpapakilala ka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "matapos siya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kumain"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "at uminom"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:53.756287054Z",
+  "model": "glm-5.3"
+}

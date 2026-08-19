@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "ang ⟨את⟩ Chesvon at ang ⟨את⟩ mga bakuran nito, ang ⟨את⟩ Yaazer at ang ⟨את⟩ mga bakuran nito — lahat ng mga lungsod, apat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chesvon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga bakuran nito"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga bakuran nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    }
+  ],
+  "timestamp": "2026-08-19T15:44:27.593298086Z",
+  "model": "glm-5.3"
+}

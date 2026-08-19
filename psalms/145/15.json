@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 145,
+  "translation": "Naghihintay sa iyo ang mga mata ng lahat, at ikaw ay nagbibigay sa kanila ng ⟨את⟩ kanilang pagkain sa takdang panahon nito.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "naghihintay"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "nagbibigay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang pagkain"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kanilang pagkain"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa takdang panahon nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.623761417Z",
+  "model": "glm-5.3"
+}

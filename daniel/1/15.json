@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sa katapusan ng sampung araw, lumitaw na mabuti ang kanilang mga anyo at mataba sa laman kaysa sa lahat ng mga batang kumakain ng ⟨את⟩ masarap na pagkain ng hari.",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "At sa katapusan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "araw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "lumitaw"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "kanilang mga anyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mabuti"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "at mataba"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sa laman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaysa sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ng mga bata"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masarap na pagkain ng hari"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "masarap na pagkain"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T19:05:34.243704081Z",
+  "model": "glm-5.3"
+}

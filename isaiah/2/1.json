@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang salita na nakita ni Yeshayahu, anak ni Amots, tungkol sa Yehudah at Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "at Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:19.357171576Z",
+  "model": "glm-5.3"
+}

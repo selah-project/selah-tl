@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 88,
+  "translation": "Sa mga patay ⟨ako⟩ pinalaya, na parang mga binarang nakahiga sa libingan, na hindi mo na ⟨silang⟩ naalala, at sila'y hihiwalay sa iyong kamay.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "sa mga patay"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "pinalaya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "na parang"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga binara"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "nakahiga"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sa libingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "mo naalala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "at sila"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "hihiwalay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:06.892981660Z",
+  "model": "glm-5.3"
+}

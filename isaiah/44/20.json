@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 44,
+  "translation": "Kumakain ng abo; puso na nalinoko, iyon ang humiwalay sa kanya, at hindi niya maliligtas ang ⟨את⟩ kanyang buhay, at hindi niya masasabi: Hindi ba't kasinungalingan sa aking kanang kamay?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ng abo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "nalinoko"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "humiwalay sa kanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "maliligtas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang buhay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kanyang buhay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "masasabi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hindi ba't"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kasinungalingan"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "sa aking kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T17:08:24.501544335Z",
+  "model": "glm-5.3"
+}

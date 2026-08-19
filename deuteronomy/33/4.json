@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Isang Torah ang iniutos sa amin ni Moshe — isang pamana ng kapisanan ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa amin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "pamana"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "kapisanan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T15:34:54.639964053Z",
+  "model": "glm-5.3"
+}

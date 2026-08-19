@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ang kamay ng mga saksi ⟨ang⟩ magiging una sa kanya upang patayin siya, at ang kamay ng buong bayan sa huli; at mulalayo mo ang kasamaan mula sa iyong kaloob-looban",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "kamay"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "ng mga saksi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "una"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "upang patayin siya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "at kamay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayanan"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sa huli"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "at mulalayo mo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "mula sa iyong kaloob-looban"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:34.668997425Z",
+  "model": "glm-5.3"
+}

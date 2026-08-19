@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At dinala ng mga anak ng mga Levita ang ⟨את⟩ kaban ng Elohim, ayon sa iniutos ni Moshe ayon sa salita ni Yahweh — sa kanilang mga balikat, sa mga baras na nasa ibabaw ng mga iyon.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "at dinala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ng"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban ng Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ng Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ayon sa salita ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "sa kanilang mga balikat"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "sa mga baras"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw ng mga iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:14.938683034Z",
+  "model": "glm-5.3"
+}

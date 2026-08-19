@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Narito, saksi sa mga bansa ang ibinigay ko sa kanya, pinuno at tagautos sa mga bansa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Narito"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "sa mga bansa"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ang ibinigay ko sa kanya"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pinuno"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "at tagautos"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:50.388439551Z",
+  "model": "glm-5.3"
+}

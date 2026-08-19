@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At pagkatapos niya ay hinatulan ni Elon ang Zebulonita ang ⟨את⟩ Israel; at hinatulan niya ang ⟨את⟩ Israel na sampung taon.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "At hinatulan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkatapos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "si Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ang Zebulonita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "at hinatulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taon"
+    }
+  ],
+  "timestamp": "2026-08-19T15:52:02.534247006Z",
+  "model": "glm-5.3"
+}

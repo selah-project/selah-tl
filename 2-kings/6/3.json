@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ng isa: Magpaubaya ka nga, at pumarito ka ⟨את⟩ kasama ng iyong mga alipin. At kaniyang sinabi: Ako ay paroroon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ng isa"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "magpaubaya ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "at pumarito ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasama ng iyong mga alipin"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "iyong mga alipin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at kaniyang sinabi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ay paroroon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:42:28.419297676Z",
+  "model": "glm-5.3"
+}

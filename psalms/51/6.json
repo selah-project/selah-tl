@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Sa iyo, sa iyo lamang, nagkasala ako, at ang masama sa iyong mga mata ay aking ginawa, upang matuwid ka sa iyong salita, malinis ka sa iyong paghuhukom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sa iyo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sa iyo lamang"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nagkasala ako"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "at ang masama"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa iyong mga mata"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aking ginawa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "matuwid ka"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa iyong salita"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "malinis ka"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "sa iyong paghuhukom"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:21.795961111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ngunit ako, may tinig ng pasasalamat, maghahandog ako sa iyo; ang aking inialay na nazar ay babayaran ko — ang kaligtasan ay nasa kay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngunit ako"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "may tinig ng"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pasasalamat"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "maghahandog ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "aking inialay na nazar"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "babayaran ko"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ang kaligtasan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ay nasa kay Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:02:44.679177035Z",
+  "model": "glm-5.3"
+}

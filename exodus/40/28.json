@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At inilagay niya ang ⟨את⟩ tabing ng pasukan sa mismong tolda.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "at inilagay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabing ng pasukan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tabing"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ng pasukan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "sa tolda"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:29.309787414Z",
+  "model": "glm-5.3"
+}

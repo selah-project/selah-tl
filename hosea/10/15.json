@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ganito ang ginawa sa inyo, O Beit-El, dahil sa kasamaan ng inyong kasamaan — sa madaling-araw, tuluyang mapupugto ang hari ng Israel.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang ginawa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "O Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kasamaan ng"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "inyong kasamaan"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "sa madaling-araw"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "tuluyang"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "mapupugto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari ng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:10.511666741Z",
+  "model": "glm-5.3"
+}

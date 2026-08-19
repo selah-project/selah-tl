@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Isang patotoo itong itinakda kay Yosef, nang siya'y lumabas sa lupain ng Mitzrayim: isang wika na hindi ko kilala ay aking narinig.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "kay Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "itinakda"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "nang lumabas siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "wika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kilala ko"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "arinig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.674391386Z",
+  "model": "glm-5.3"
+}

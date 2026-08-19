@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Inalis ko ang kanyang balikat mula sa pasan; ang kanyang mga kamay ay nakaalis mula sa pinggang-buhay.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Inalis ko"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "mula sa pasan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ang kanyang balikat"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ang kanyang mga kamay"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "mula sa pinggan ng putik"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "nakaalis"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:58.674532452Z",
+  "model": "glm-5.3"
+}

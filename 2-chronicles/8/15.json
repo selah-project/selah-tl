@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At hindi lumihis sa utos ng hari tungkol sa mga kohen at mga Levita, sa anumang bagay man, at sa mga imbakan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sa utos ng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga kohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "at mga Levita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa anumang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bagay man"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "at sa mga imbakan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:48.225737233Z",
+  "model": "glm-5.3"
+}

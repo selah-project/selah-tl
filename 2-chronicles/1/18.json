@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At sinabi ni Shelomoh na itatayo ang ⟨את⟩ isang bahay para sa pangalan ni Yahweh, at ang ⟨את⟩ isang bahay para sa kaniyang kaharian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "na itatayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang ⟨את⟩ bahay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "para sa pangalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "at ang ⟨את⟩ bahay"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "para sa kaniyang kaharian"
+    }
+  ],
+  "timestamp": "2026-08-19T19:27:09.956129825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Mga taong madugo ay nakapoot sa taong tapat, ngunit ang matuwid ay hinahangad ang kaniyang buhay.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "mga taong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madugo"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "nakapoot"
+    },
+    {
+      "surface": "תם",
+      "gloss": "taong tapat"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "ngunit ang matuwid"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "hinahangad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kaniyang buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:06.310714289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Nagkasala kami kasama ng aming mga ama, nagkasama kami, gumawa ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nagkasala kami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama ng"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aming mga ama"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nagpasama kami"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "gumawa kami ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:40.889971021Z",
+  "model": "glm-5.3"
+}

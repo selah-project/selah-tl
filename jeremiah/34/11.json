@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "Nguni't pagkatapos ay nagbalik-loob sila, at ibinalik ang ⟨את⟩ mga alipin at ang ⟨את⟩ mga aliping babae na pinalaya nilang malalaya, at pinagsakop nila silang maging mga alipin at mga aliping babae.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "at nagbalik-loob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkatapos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "noon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at ibinalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga alipin"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga aliping babae"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "mga aliping babae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pinalaya nila"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "malalaya"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "at pinagsakop nila sila"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "na maging mga alipin"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "at mga aliping babae"
+    }
+  ],
+  "timestamp": "2026-08-19T17:29:53.119575182Z",
+  "model": "glm-5.3"
+}

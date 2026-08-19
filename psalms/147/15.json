@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Ang nagpapadala ng kanyang utos sa lupa, napakabilis tumakbo ang kanyang salita.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "ang nagpapadala"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ng kanyang utos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "מהрה",
+      "gloss": "napakabilis"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "tumakbo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang kanyang salita"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:45.532048573Z",
+  "model": "glm-5.3"
+}

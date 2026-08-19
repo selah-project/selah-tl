@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Sapagkat kalugud-lugod kay Yahweh ang Kanyang bayan; papurihan Niya ang mga mapagkumbaba sa kaligtasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "kalugud-lugod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ang Kanyang bayan"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "papurihan Niya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapagkumbaba"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "sa kaligtasan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:41.965294866Z",
+  "model": "glm-5.3"
+}

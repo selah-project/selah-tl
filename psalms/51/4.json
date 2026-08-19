@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 51,
+  "translation": "Lagiang hugasin mo ako ng aking katampalan, at linisin mo ako ng aking kasalanan.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "lagian"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "hugasan mo ako"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ng aking katampalan"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "at ng aking kasalanan"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "linisin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:10.702042832Z",
+  "model": "glm-5.3"
+}

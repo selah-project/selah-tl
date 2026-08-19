@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 137,
+  "translation": "Dumikit ang dila ko sa ngala-ngala ko, kung hindi kita maalala, kung hindi itataas ko ang ⟨את⟩ Yerushalayim sa itaas ng pangunahing kagalakan ko.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "dumikit"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang dila ko"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "sa ngala-ngala ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "kita maalala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "itataas ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa itaas ng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pangunahan"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "kagalakan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:26.606823688Z",
+  "model": "glm-5.3"
+}

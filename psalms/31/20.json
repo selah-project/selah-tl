@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Nakararami ang iyong kagalingang itinago mo para sa mga natatakot sa iyo, ginawa mo para sa mga nananahanan sa iyo, sa harap ng mga anak ni Adam.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nakararami"
+    },
+    {
+      "surface": "רב",
+      "gloss": "(napakalaki)"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "iyong kagalingan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "itinago mo"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "para sa mga natatakot sa iyo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ginawa mo"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "para sa mga nananahanan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa harap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:43.772360130Z",
+  "model": "glm-5.3"
+}

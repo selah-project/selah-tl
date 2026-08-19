@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Lumubog ang mga bansa sa hukay na ginawa nila; sa lambat na itinago nila, nahuli ang kanilang paa.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "lumubog"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga bansa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "sa hukay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ginawa nila"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "sa lambat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨ito⟩"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "itinago nila"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nahuli"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ang kanilang paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:12:57.542753800Z",
+  "model": "glm-5.3"
+}

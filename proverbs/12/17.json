@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang humihinga ng katapayan ay nagpapahayag ng katarungan, ngunit ang saksi ng mga kasinungalingan ay pandaraya.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "ang humihinga ng"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "katapayan"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "nagpapahayag ng"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ngunit ang saksi ng"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "mga kasinungalingan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pandaraya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:52.207255895Z",
+  "model": "glm-5.3"
+}

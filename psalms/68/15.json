@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 68,
+  "translation": "Nang pagkalatin ni Shaddai ang mga hari sa lupain niyon, nag-aniit ito ng niyebe sa Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "nang pagkalatin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ni Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa lupain niyon"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "nag-aniit ng niyebe"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "sa Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:07.139684076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "ang ⟨את⟩ isang dagat, at ang ⟨את⟩ labindalawang baka sa ilalim nito.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isang dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labindalawang baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dalawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa ilalim nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:28:37.634258959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Ipagiba mo ang iyong mga kagandahang-loob, O ililigtas sa mga sumasanggayong sa iyo, sa pamamagitan ng iyong kanang kamay mula sa mga nagtatanggol laban sa akin.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "ipagiba mo \/ iwangangi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ang iyong mga kagandahang-loob"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ililigtas ng"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "sa mga sumasanggayong"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "mula sa mga nagtataas (laban)"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sa pamamagitan ng iyong kanang kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:32.372180009Z",
+  "model": "glm-5.3"
+}

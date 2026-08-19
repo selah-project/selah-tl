@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At pumasok si Noach at ang kaniyang mga anak na lalaki at ang kaniyang asawa at ang mga asawa ng kaniyang mga anak na lalaki na ⟨את⟩ kasama niya, sa loob ng arka, dahil sa tubig ng baha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "At pumasok"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "at ang kaniyang mga anak na lalaki"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "at ang kaniyang asawa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "at ang mga asawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ng kaniyang mga anak na lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "Noach at ang kaniyang sambahayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa loob ng"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ng baha"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:13.613734330Z",
+  "model": "glm-5.3"
+}

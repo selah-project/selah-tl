@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 80,
+  "translation": "Naglinis ka ng daan sa harapan nito, at nag-ugat ito ng mga ugat nito at napunan nito ang lupain.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "naglinis ka ng daan"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "sa harapan nito"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "at nag-ugat ito"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "mga ugat nito"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "at napunan nito"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupain"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:40.839076014Z",
+  "model": "glm-5.3"
+}

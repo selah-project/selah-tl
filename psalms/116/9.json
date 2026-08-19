@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 116,
+  "translation": "Maglalakad ako sa harapan ni Yahweh, sa mga lupang ⟨ng⟩ mga buhay.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "maglalakad ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa harapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga lupang"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ng mga buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T19:52:13.018811467Z",
+  "model": "glm-5.3"
+}

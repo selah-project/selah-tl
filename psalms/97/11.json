@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 97,
+  "translation": "Liwanag ay itinatanim para sa matuwid, at kagalakan para sa mga matapat sa puso.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ay itinatanim"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "para sa matuwid"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "at para sa mga matapat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa puso"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kagalakan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:28:47.889160244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Nasisiyahan si Yahweh sa ⟨את⟩ mga nag-aalaban sa kanya, sa ⟨את⟩ mga umaasa sa kanyang kagandahang-loob.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "nasisiyahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga nag-aalaban sa kanya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nag-aalaban sa kanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga umaasa sa kanyang kagandahang-loob"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "mga umaasa"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "sa kanyang kagandahang-loob"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.384140118Z",
+  "model": "glm-5.3"
+}

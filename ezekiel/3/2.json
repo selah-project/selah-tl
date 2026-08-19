@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At binuksan ko ang ⟨את⟩ aking bibig, at pinakain niya ako ng ⟨את⟩ balumbong ito.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "at binuksan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aking bibig"
+    },
+    {
+      "surface": "פי",
+      "gloss": "aking bibig"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "at pinakain niya ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balumbong ito"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ang balumbon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:38:53.380611206Z",
+  "model": "glm-5.3"
+}

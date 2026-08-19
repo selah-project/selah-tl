@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "Ang aking mga mata ay laging nakalaan kay Yahweh, sapagkat siya ang maglalabas ng aking mga paa mula sa lambat.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ang aking mga mata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ang maglalabas"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "mula sa lambat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ng aking mga paa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:39.413204496Z",
+  "model": "glm-5.3"
+}

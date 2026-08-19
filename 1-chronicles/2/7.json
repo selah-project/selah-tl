@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang mga anak ni Karmi: Akar, ang gumulo sa Israel, na nagtaksil sa bagay na inialay na lubos.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at mga anak ni"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akar"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "gumulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nagtaksil"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "sa bagay na inialay na lubos"
+    }
+  ],
+  "timestamp": "2026-08-19T19:19:38.025805793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Pinaligiran ako ni Ephrayim ng kasinungalingan, at ng dayà ang bahay ng Yisrael; at si Yehudah, hanggang ngayon ay gumagala nang malaya kasama ng El, at kasama ng mga banal ⟨ay⟩ tapat ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "pinaligiran ako"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "ng kasinungalingan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrayim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "at ng dayà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "at si Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang ngayon"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gumagala nang malaya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kasama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "at kasama"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "mga banal"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tapat"
+    }
+  ],
+  "timestamp": "2026-08-19T17:59:08.736828968Z",
+  "model": "glm-5.3"
+}

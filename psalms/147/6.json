@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 147,
+  "translation": "Itinataguyod ni Yahweh ang mga mapagpakumbaba, pinabababa Niya ang mga masama hanggang sa lupa.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "itinataguyod"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapagpakumbaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "pinabababa Niya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga masama"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:05.937511373Z",
+  "model": "glm-5.3"
+}

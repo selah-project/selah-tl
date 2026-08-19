@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 6,
+  "translation": "At sinabi ni Yahweh kay Yehoshua: Tingnan mo, ibinigay ko sa iyong kamay ang ⟨את⟩ Yericho at ang ⟨את⟩ hari nito — ang mga makapangyarihang mandirigma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tingnan mo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibinigay ko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa iyong kamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "hari nito"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "hari nito"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ang mga makapangyarihang"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "mandirigma"
+    }
+  ],
+  "timestamp": "2026-08-19T15:38:37.840284963Z",
+  "model": "glm-5.3"
+}

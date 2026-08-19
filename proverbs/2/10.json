@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Sapagkat papasok ang karunungan sa iyong puso, at ang kaalaman ay kalilugdan ng iyong ⟨kaluluwa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "papasok"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "karunungan"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "sa iyong puso"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "at ang kaalaman"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ng iyong ⟨kaluluwa⟩"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ay kalilugdan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:07.601453194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Ngunit ikaw, Yahweh, huwag lumayo; aking lakas, sa aking pagtulong magmadali ka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ngunit ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "lumayo"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "aking lakas"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa aking pagtulong"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "magmadali ka"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:52.570841670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At gagawin mo rito ang apat na singsing na ginto, at ilalagay mo ang ⟨את⟩ mga singsing sa apat na sulok na nasa apat na paa nito.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rito"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "na singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ginto"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "at ilalagay mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga singsing"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "apat"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "na sulok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "sa apat"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "naa paa nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:36:37.904460090Z",
+  "model": "glm-5.3"
+}

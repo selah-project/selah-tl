@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kung ang handog mo ay isang mincha sa ⟨את⟩ mahabat, pinong harina na hinalo sa langis at hindi paasin, iyon ito.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mahabat"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "handog mo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinong harina"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "hinalo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa langis"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "hindi paasin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "iyon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:44:41.544081611Z",
+  "model": "glm-5.3"
+}

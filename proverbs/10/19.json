@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Sa kasaganaan ng mga salita ay hindi titigil ang paglabag, ngunit ang nagpipigil ng kaniyang mga labi ay marunong.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "sa kasaganaan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ng mga salita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "titigil"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ang paglabag"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ngunit nagpipigil"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ng kaniyang mga labi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "marunong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:07.539316894Z",
+  "model": "glm-5.3"
+}

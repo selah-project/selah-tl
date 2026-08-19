@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "Ang tinig ni Yahweh ay nagpapasigla sa mga usang-babae, at naghuhubad ng mga gubat; at sa Kanyang templo, ang lahat ay nagsasabi: Kaluwalhatian!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "nagpapasigla sa"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "mga usang-babae"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "at naghuhubad ng"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "mga gubat"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "at sa Kanyang templo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsasabi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kaluwalhatian"
+    }
+  ],
+  "timestamp": "2026-08-19T18:15:00.949413943Z",
+  "model": "glm-5.3"
+}

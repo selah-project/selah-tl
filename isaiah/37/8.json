@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At bumalik si Ravshakeh, at nakita niya ang ⟨את⟩ hari ng Ashur na nakikipaglaban sa Livnah, sapagkat narinig niyang naglakbay siya palayo sa Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "at nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haring (ng Ashur)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "haring"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakikipaglaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "narinig niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "naglakbay palayo"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "sa Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-19T17:04:24.919703344Z",
+  "model": "glm-5.3"
+}

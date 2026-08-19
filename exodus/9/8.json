@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At sinabi ni Yahweh kay Moshe at kay Aharon: Kumuha kayo ng mga punô-kamay ng abo ng pugon, at itatapon ni Moshe ang mga ito sa himpapawid, sa harapan ng mga mata ni Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "at kay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Kumuha kayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mga punô"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "-kamay ng inyo"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ng abo"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "ng pugon"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "at itatapon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sa himpapawid"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa harapan ng mga mata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:21.930561982Z",
+  "model": "glm-5.3"
+}

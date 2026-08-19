@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Mula sa pagkabilanggo at mula sa hatol kinuha siya; at sa ⟨את⟩ kanyang lahi, sino ang magnilay? Sapagkat pinugot siya mula sa lupang may buhay; dahil sa pagsuway ng aking bayan, dumating sa kanila ang sampung salot.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "Mula sa pagkabilanggo"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "at mula sa hatol"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuha siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at sa ⟨את⟩",
+      "marks": "kanyang lahi"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "kanyang lahi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ang magnilay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "pinugot siya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mula sa lupang"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "may buhay"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "dahil sa pagsuway"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "sampung salot"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:06.979880723Z",
+  "model": "glm-5.3"
+}

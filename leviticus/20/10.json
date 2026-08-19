@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At ang lalaking mangangalunya sa ⟨את⟩ asawa ng isang lalaki — na mangangalunya sa ⟨את⟩ asawa ng kanyang kapwa — kamatayan ang parusa: ang kalunya at ang kalunyang babae.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "at ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mangangalunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ng isang lalaki"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ng isang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mangangalunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa ng kanyang kapwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ng kanyang kapwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patayin"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ang kalunya"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "at ang kalunyang babae"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:06.486729587Z",
+  "model": "glm-5.3"
+}

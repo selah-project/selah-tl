@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 24,
+  "translation": "At sinabi niya kay David: Mas matuwid ka kaysa sa akin, sapagkat ikaw ay gumanti sa akin ng kabutihan, at ako'y gumanti sa iyo ng kasamaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matuwid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaysa sa akin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "gumanti ka sa akin"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ng kabutihan"
+    },
+    {
+      "surface": "וואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "gumanti sa iyo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ng kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:09:06.600005011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 149,
+  "translation": "Upang gapusin ang kanilang mga hari sa mga tanikala, at ang kanilang mga marangal sa mga panggapos na bakal.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "upang gapusin"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ang kanilang mga hari"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "sa mga tanikala"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "at ang kanilang mga marangal"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "sa mga panggapos"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "na bakal"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:37.177949265Z",
+  "model": "glm-5.3"
+}

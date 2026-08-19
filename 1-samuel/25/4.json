@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 25,
+  "translation": "At narinig ni David sa ilang na si Nabal ay nagugot ng ⟨את⟩ kaniyang kawan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "nagugot"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "si Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang kawan"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ang kaniyang kawan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:08:55.678975692Z",
+  "model": "glm-5.3"
+}

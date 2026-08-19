@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ginawa rin ng mga salamangkero ang gayon sa kanilang mga lihim na sining upang maglabas ng ⟨את⟩ mga kinim, ngunit hindi nila nakaya; at naging mga kinim sa tao at sa hayop.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "at ginawa rin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang gayon"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ng mga salamangkero"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "sa kanilang mga lihim na sining"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "upang maglabas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kinim"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "mga kinim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila nakaya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "mga kinim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tao"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "at sa hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T14:30:29.794425572Z",
+  "model": "glm-5.3"
+}

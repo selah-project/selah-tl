@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At tinawag ni Elohim ang liwanag na «Araw», at ang kadiliman ay tinawag niyang «Gabi». At naging takipsilim, at naging umaga — unang araw ⟨na⟩ isa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "At tinawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sa liwanag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "«Araw»"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "at sa kadiliman"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tinawag niya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "«Gabi»"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "At naging"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "takipsilim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "umaga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:15.501615480Z",
+  "model": "glm-5.3"
+}

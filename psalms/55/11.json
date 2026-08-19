@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Araw at gabi ikinikotel nila ito sa mga pader nito; at kalabisan at kaguluhan ⟨ay⟩ sa loob nito.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Araw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "at gabi"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ikinikotel nila ito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mga pader nito"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "at kalabisan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "at kaguluhan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa loob nito"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:06.630114267Z",
+  "model": "glm-5.3"
+}

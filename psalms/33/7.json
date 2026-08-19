@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Nangangalap siya na parang tambak ng mga tubig ng dagat, naglalagay sa mga imbakan ng mga kalaliman.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "nangangalap"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "na parang tambak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ng mga tubig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ng dagat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naglalagay"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "sa mga imbakan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ng mga kalaliman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:45.604925312Z",
+  "model": "glm-5.3"
+}

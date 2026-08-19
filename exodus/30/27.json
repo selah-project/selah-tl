@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "at ang ⟨את⟩ mesa na kalakip ng ⟨את⟩ lahat ng kasangkapan nito, at ang ⟨את⟩ ilawan na kalakip ng ⟨את⟩ mga kasangkapan nito, at ang ⟨את⟩ dambana ng insenso,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kasangkapan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ng kasangkapan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilawan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ilawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga kasangkapan nito"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga kasangkapan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dambana ng insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ng insenso"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:40.714057776Z",
+  "model": "glm-5.3"
+}

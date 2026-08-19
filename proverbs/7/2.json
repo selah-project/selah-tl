@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ingatan mo ang aking mga utos at mabuhay ka, at ang aking torah ay ⟨gaya⟩ ng itim ng iyong mga mata.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ingatan mo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ang aking mga utos"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "at mabuhay ka"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "at ang aking torah"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "⟨gaya⟩ ng itim"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ng iyong mga mata"
+    }
+  ],
+  "timestamp": "2026-08-19T18:38:29.184578415Z",
+  "model": "glm-5.3"
+}

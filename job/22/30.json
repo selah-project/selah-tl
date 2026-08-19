@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Hihiligtas niya ang ⟨hindi⟩ inosente, at siya'y maliligtas sa kalinisan ng iyong mga kamay.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "hiligtas niya"
+    },
+    {
+      "surface": "אי",
+      "gloss": "⟨hindi⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "inosente"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "at siya'y maliligtas"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "sa kalinisan"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ng iyong mga kamay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:50:35.621198572Z",
+  "model": "glm-5.3"
+}

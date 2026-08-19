@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Hindi baga kami itinakwil mo, O Elohim, at hindi lumalabas, O Elohim, kasama ng aming mga hukbo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hindi baga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "kami ay itinakwil mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lumalabas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "kasama ng aming mga hukbo"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:40.307886984Z",
+  "model": "glm-5.3"
+}

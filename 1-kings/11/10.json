@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At iniutos sa kaniya tungkol sa bagay na ito, na huwag sumunod sa mga elohim na iba; ngunit hindi niya iniingatan ⟨את⟩ ang iniutos ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungkol sa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bagay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na huwag"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "sumunod\/lumakad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa likod ng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "na iba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iniingatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iniutos ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:30:38.802108765Z",
+  "model": "glm-5.3"
+}

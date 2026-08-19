@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At bawat tao mula sa bahay ni Yisrael at mula sa dayuhan na naninirahan sa gitna nila, na kakain ng anumang dugo — itatalaga ko ang aking mukha laban sa ⟨is⟩ taong kumakain ng ⟨את⟩ dugo, at puputulin ko ⟨את⟩ siya mula sa gitna ng kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "At bawat tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ang dayuhan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa gitna nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anumang"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "at itatalaga ko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang aking mukha"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "laban sa ⟨taong⟩"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "kumakain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "at puputulin ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ng kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:36.757725823Z",
+  "model": "glm-5.3"
+}

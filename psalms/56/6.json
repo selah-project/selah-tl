@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 56,
+  "translation": "Buong araw pinaiiwas ang ⟨את⟩ aking mga salita laban sa akin; ang lahat ng kanilang mga balak ay ⟨ay⟩ para sa kasamaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "araw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang aking mga salita"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "pinaiiwas \/ winawasak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "laban sa akin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ng kanilang mga balak"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "para sa kasamaan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:51:11.090891983Z",
+  "model": "glm-5.3"
+}

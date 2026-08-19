@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Ito ang mga anak ni Cham ayon sa kanilang mga angkan, ayon sa kanilang mga wika, sa kanilang mga lupain, sa kanilang mga bansa",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ayon sa kanilang mga wika"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa kanilang mga lupain"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "sa kanilang mga bansa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:30.099388595Z",
+  "model": "glm-5.3"
+}

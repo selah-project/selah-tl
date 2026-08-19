@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Kung makakaya niyang makipaglaban ⟨את⟩ sa akin at ako'y matalo niya, tayo'y magiging alipin ninyo; ngunit kung ako ang makakaya laban sa kanya at siya'y matalo ko, kayo'y magiging mga alipin namin at maglilingkod kayo ⟨את⟩ sa amin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makakaya niya"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "makipaglaban"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sa akin",
+      "marks": "siya laban sa akin"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "at ako'y matalo niya"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tayo'y magiging"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ngunit kung"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakaya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "laban sa kanya"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "at siya'y matalo ko"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "kayo'y magiging"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "namin"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "mga alipin"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "at maglilingkod kayo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sa amin",
+      "marks": "kami"
+    }
+  ],
+  "timestamp": "2026-08-19T16:05:02.139411600Z",
+  "model": "glm-5.3"
+}

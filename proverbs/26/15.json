@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Nagtago ang tamad ng ⟨kaniyang⟩ kamay sa plato; napagod na ⟨siya⟩ sa pagbabalik nito sa ⟨kaniyang⟩ bibig.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ang tamad"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kaniyang kamay"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "sa plato"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "napagod na"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "sa pagbabalik nito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "kaniyang bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:43:13.193066547Z",
+  "model": "glm-5.3"
+}

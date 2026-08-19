@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At hinawaan niya ng karumihan ang ⟨את⟩ Tofet na nasa libis ng mga anak ni Hinom, upang walang makapagpaparaok sa ⟨את⟩ kaniyang anak at sa ⟨את⟩ kaniyang anak na babae sa apoy para kay Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "At hinawaan niya ng karumihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ang Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "nasa libis ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "upang hindi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "makapagpaparaok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang sinoman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kaniyang anak na babae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "kaniyang anak na babae"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "para kay Molek"
+    }
+  ],
+  "timestamp": "2026-08-19T16:50:57.205968612Z",
+  "model": "glm-5.3"
+}

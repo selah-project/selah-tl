@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At ako ay magpapatigas ng ⟨את⟩ puso ni Paraon, at paparamihin ko ang ⟨את⟩ aking mga tanda at ⟨את⟩ aking mga kababalaghan sa lupain ng Ehipto.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "at ako"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "magpapatigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso"
+    },
+    {
+      "surface": "לב",
+      "gloss": "puso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paraon"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "paparamihin ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga tanda"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "aking mga tanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga kababalaghan"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "aking mga kababalaghan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa lupain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Ehipto"
+    }
+  ],
+  "timestamp": "2026-08-19T14:29:00.659638967Z",
+  "model": "glm-5.3"
+}

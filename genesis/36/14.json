@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "At ang mga ito ang naging mga anak ni Oholibama, anak ni Anah, anak ni Tsibeon, asawa ni Esav; at ipinanganak niya kay Esav si ⟨את⟩ Yeish, at si ⟨את⟩ Yaalam, at si ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "At ang mga ito"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naging"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibeon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "at ipinanganak niya"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kay Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "si Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:20:57.388395242Z",
+  "model": "glm-5.3"
+}

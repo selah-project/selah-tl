@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At nagbalik ang mga anak ni Yisrael mula sa pag-usig sa mga Pelishteo, at hinamas ang ⟨את⟩ kanilang kampo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "mula sa pag-usig"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "hinamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kanilang kampo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:04:55.249156430Z",
+  "model": "glm-5.3"
+}

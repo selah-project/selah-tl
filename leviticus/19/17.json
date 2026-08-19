@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "Huwag mong kamuhian ang ⟨את⟩ iyong kapatid sa iyong puso; sumawatang mabuti ka sa ⟨את⟩ iyong kapwa, at huwag kang magdadala ng kasalanan dahil sa kanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "kamuhian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kapatid"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "iyong kapatid"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa iyong puso"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "sumawata"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "mabuti kang sawatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong kapwa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "iyong kapwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dahil sa kanya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kasalanan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:55:34.549538096Z",
+  "model": "glm-5.3"
+}

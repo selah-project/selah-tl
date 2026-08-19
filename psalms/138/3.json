@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 138,
+  "translation": "Sa araw na tumawag ako, sumagot ka sa akin; inlakas mo ako sa aking kaluluwa nang lakas.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa araw"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "na tumawag ako"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "sumagot ka sa akin"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "inlakas mo ako"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sa aking kaluluwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nang lakas"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:11.273446852Z",
+  "model": "glm-5.3"
+}

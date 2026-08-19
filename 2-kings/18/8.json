@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Siya ang humampas sa ⟨את⟩ mga Pelishti hanggang Azzah at sa ⟨את⟩ mga hangganan nito, mula sa bantayang tore ng mga tagapagbantay hanggang sa nayon na kuta.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "humampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Pelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga hangganan nito"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mga hangganan nito"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "mula sa tore ng"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "mga tagapagbantay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "nayon na"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kuta"
+    }
+  ],
+  "timestamp": "2026-08-19T16:48:23.659600610Z",
+  "model": "glm-5.3"
+}

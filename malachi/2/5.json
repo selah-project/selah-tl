@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "Ang aking tipan ay naging ⟨את⟩ kasama niya — ang buhay at ang kapayapaan; at ibinigay ko ang mga iyon sa kanya bilang pangamba, at natakot siya sa akin, at dahil sa aking pangalan nalupaypay siya.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "ang aking tipan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "niya (Levi)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "at ang kapayapaan"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "at ibinigay ko ang mga iyon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "pangamba"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "at natakot siya sa akin"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "at mula sa harap ng"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aking pangalan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nalupaypay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:10:52.785650482Z",
+  "model": "glm-5.3"
+}

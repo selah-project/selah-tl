@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At ang kumakain niyon ay babatain ang sariling kasalanan, sapagkat ang ⟨את⟩ kabanalan ni Yahweh nilapastangan, at pupugutan ⟨ang⟩ taong iyon mula sa kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "at ang kumakain niyon"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ang kanyang kasalanan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "babatain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabanalan ni Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nilapastangan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "at pupugutan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨ang⟩ taong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyon"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "mula sa kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:35.057907640Z",
+  "model": "glm-5.3"
+}

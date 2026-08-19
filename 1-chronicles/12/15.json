@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ito ang mga galing sa mga anak ni Gad, mga pinuno ng hukbo: ang ⟨isa⟩ ay tumutumbas sa sandaan ang pinakamaliit, at ang pinakadakila sa libo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "galing sa mga anak ni"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pinuno ng"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨isa⟩"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "sa sandaan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ang pinakamaliit"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "at ang pinakadakila"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "sa libo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:23:19.693357497Z",
+  "model": "glm-5.3"
+}

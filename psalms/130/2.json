@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 130,
+  "translation": "Adonai, marinig ⟨mo⟩ ang aking tinig! Maging mapagpansin ang iyong mga tainga sa tinig ng aking mga pamanhikan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "marinig"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ang aking tinig"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "maging"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ang iyong mga tainga"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "mapagpansin"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ng aking mga pamanhikan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.265863564Z",
+  "model": "glm-5.3"
+}

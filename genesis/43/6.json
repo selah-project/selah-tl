@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 43,
+  "translation": "At sinabi ng Yisrael: Bakit ninyo ginawan ako ng kasamaan, sa pagtatapat sa lalaki na mayroon pa kayong kapatid?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "ninyo ginawan ng kasamaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "sa pagtatapat"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa lalaki"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "na mayroon pa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "אח",
+      "gloss": "kapatid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:47.715803714Z",
+  "model": "glm-5.3"
+}

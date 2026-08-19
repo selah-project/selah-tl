@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At ngayon, pumaroon ka; bibigyan kita ng payo, ibinababalot-tao: magligtas ka ng ⟨את⟩ iyong buhay at ng ⟨את⟩ buhay ng iyong anak na si Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "at ngayon"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pumaroon ka"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "bibigyan kita ng payo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ibinababalot-tao"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "payo"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "at magligtas ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyong buhay"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "iyong buhay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buhay ng iyong anak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "buhay"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ng iyong anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-19T16:24:00.484960892Z",
+  "model": "glm-5.3"
+}

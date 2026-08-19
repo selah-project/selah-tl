@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "Ang ⟨את⟩ lahat ng ito ay nakita ko, at ibinigay ko ang ⟨את⟩ aking puso sa lahat ng gawang ginagawa sa ilalim ng araw: ⟨may⟩ panahon na ang tao ay naghahari sa kapwa tao, sa ikakasama niya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lahat ng ito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking puso"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "aking puso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ginagawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "naghahari"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tao"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa kapwa tao"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa ikakasama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:30.953275439Z",
+  "model": "glm-5.3"
+}

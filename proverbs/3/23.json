@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kung magkagayon, lakad kang may-katiwasayan sa ⟨iyong⟩ daan, at hindi matitisod ang ⟨iyong⟩ paa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kung magkagayon"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "lakad ka"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "may-katiwasayan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa iyong daan"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "at ang iyong paa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "matisod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:00.444375235Z",
+  "model": "glm-5.3"
+}

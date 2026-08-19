@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "kung nilalapastangan nila ang aking mga tuntunin, at ang aking mga utos ay hindi nila ingatan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "aking mga tuntunin"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "nilalapastangan nila"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "at aking mga utos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "iningatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:59.187296234Z",
+  "model": "glm-5.3"
+}

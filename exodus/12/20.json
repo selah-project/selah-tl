@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Anumang inasiman ay hindi ninyo kakainin; sa lahat ng inyong mga tahanan, tinapay na walang pampaasim ang kakainin ninyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Anumang"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "inasiman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kakainin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ng inyong mga tahanan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kakainin ninyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tinapay na walang pampaasim"
+    }
+  ],
+  "timestamp": "2026-08-19T14:31:24.600622937Z",
+  "model": "glm-5.3"
+}

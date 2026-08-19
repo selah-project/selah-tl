@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At ang mga anak ni Kalev na anak ni Yefune: si Iru, si Ela, at si Naam; at ang mga anak ni Ela: si Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "at si Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at ang mga anak ni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "at si Kenaz"
+    }
+  ],
+  "timestamp": "2026-08-19T19:20:23.170875708Z",
+  "model": "glm-5.3"
+}

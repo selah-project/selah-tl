@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "At sinabi ni Yosef sa kanila sa ikatlong araw: Ito ang gawin ninyo at mabuhay kayo — si ⟨את⟩ Elohim ay kinatatakutan ko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatlong"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gawin ninyo"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "at mabuhay kayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kinatatakutan ko"
+    }
+  ],
+  "timestamp": "2026-08-19T14:23:13.867185533Z",
+  "model": "glm-5.3"
+}

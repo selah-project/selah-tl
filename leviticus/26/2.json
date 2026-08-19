@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "Ang ⟨את⟩ aking mga Sabbath ay ingatan ninyo, at ang aking santuwaryo ay igalang ninyo; ako ay si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking mga Sabbath"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "aking mga Sabbath"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ingatan ninyo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "at aking santuwaryo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "igalang ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:56.534654Z",
+  "model": "glm-5.3"
+}

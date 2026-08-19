@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Tumayo si Iyob, at pumunit ng ⟨את⟩ kanyang balabal, at ginahasan ang ⟨את⟩ kanyang ulo, at nagpatirapa sa lupa, at sumamba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tumayo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "at pumunit ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang balabal"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "kanyang balabal"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "at ginahasan ang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kanyang ulo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "at nagpatirapa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "at sumamba"
+    }
+  ],
+  "timestamp": "2026-08-19T18:45:42.012258814Z",
+  "model": "glm-5.3"
+}

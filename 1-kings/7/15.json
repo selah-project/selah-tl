@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "At kaniyang hinulma ang ⟨את⟩ dalawang haligi na tanso; labing-walong siko ang taas ng isang haligi, at isang pisi na labindalawang siko ang umikot sa ⟨את⟩ pangalawang haligi.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "at hinulma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang haligi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang dalawang"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na tanso"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "labing-walong"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(sampung-walo)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "ang taas"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ng haligi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang isa"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "at isang pisi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "labindalawang"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(dalawang-ng-sampu)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "umikot sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangalawang haligi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang pangalawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:27:36.990571804Z",
+  "model": "glm-5.3"
+}

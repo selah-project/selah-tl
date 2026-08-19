@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 69,
+  "translation": "Sapagkat nakikinig si Yahweh sa mga dukha, at ang ⟨את⟩ mga bilanggo niya ay hindi niya hinamak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakikinig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mga dukha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga bilanggo niya"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "mga bilanggo niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hinamak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:39.111193645Z",
+  "model": "glm-5.3"
+}

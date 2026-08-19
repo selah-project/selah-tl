@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At kaniyang sinabi, Umagán ka, Daniel, sapagkat sarado at naka-tatak ang ⟨mga⟩ salita hanggang sa panahon ng katapusan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At kaniyang sinabi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Umagán ka"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "sarado"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "at naka-tatak"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang ⟨mga⟩ salita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ng katapusan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:11:03.923924642Z",
+  "model": "glm-5.3"
+}

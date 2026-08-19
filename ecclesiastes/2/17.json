@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At kinamuhian ko ang ⟨את⟩ buhay, sapagkat masama sa akin ang gawa na ginawa sa ilalim ng araw; sapagkat ang lahat ay kahalayan at paghihirap ng ⟨espirito⟩ hangin.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "at kinamuhian ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhay"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang buhay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ang gawa"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "na ginawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalim ng"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "araw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ay kahalayan"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "at paghihirap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ng hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:31.606424272Z",
+  "model": "glm-5.3"
+}

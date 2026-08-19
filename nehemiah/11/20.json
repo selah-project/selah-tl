@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At ang natitira sa Israel, ⟨mga⟩ koheno at Levita, sa lahat ng mga siyudad ng Yehudah, bawat isa sa kaniyang mana.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "At ang natitira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga koheno"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "at Levita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat isa"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "sa kaniyang mana"
+    }
+  ],
+  "timestamp": "2026-08-19T19:18:05.550579002Z",
+  "model": "glm-5.3"
+}

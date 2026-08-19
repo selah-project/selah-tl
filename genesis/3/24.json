@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pinalayas niya ang ⟨את⟩ tao, at nagpatiripa sa silangan ng hardin ng Eden ang ⟨את⟩ mga kerubin at ang ⟨את⟩ nagniningas na espada na umiikot, upang bantayan ang ⟨את⟩ daan ng puno ng buhay.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "pinalayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tao"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "nagpatiripa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa silangan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ng hardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ng Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kerubin"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "mga kerubin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagniningas na espada"
+    },
+    {
+      "surface": "להט",
+      "gloss": "nagniningas"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "umiikot"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "upang bantayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "daan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puno"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ng buhay"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:41.439014862Z",
+  "model": "glm-5.3"
+}

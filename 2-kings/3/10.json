@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ng hari ng Israel, Aba! sapagkat tumawag si Yahweh sa tatlong haring ito upang ibigay sila ⟨את⟩ sa kamay ng Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Israel"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aba!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tumawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "sa tatlong"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "haring"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ibigay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ng Moab"
+    }
+  ],
+  "timestamp": "2026-08-19T16:41:14.351529373Z",
+  "model": "glm-5.3"
+}

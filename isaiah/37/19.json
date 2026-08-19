@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 37,
+  "translation": "At itinapon nila sa apoy ang ⟨את⟩ kanilang mga dios sapagkat hindi mga dios sila, kundi gawa lamang ng kamay ng tao, kahoy at bato — kaya pinuksa nila ang mga ito.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "at inilagay nila sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang kanilang mga dios"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa apoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kundiman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung hindi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ng kamay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "at pinuksa nila ang mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T17:05:03.927579716Z",
+  "model": "glm-5.3"
+}

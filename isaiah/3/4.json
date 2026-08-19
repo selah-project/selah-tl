@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At magbibigay Ako ng mga batang lalaki bilang kanilang mga pinuno, at mga papansinin ang maghahari sa kanila.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "At magbibigay Ako"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batang lalaki"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "bilang kanilang mga pinuno"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "at mga papansinin"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ang maghahari"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T16:53:07.483456821Z",
+  "model": "glm-5.3"
+}

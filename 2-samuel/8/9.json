@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At narinig ni Toi, hari ng Hamat, na sinaktan ni David ang ⟨את⟩ buong hukbo ni Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "at narinig"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "si Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ng Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sinaktan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong hukbo ni Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hukbo"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-19T16:15:05.960680107Z",
+  "model": "glm-5.3"
+}

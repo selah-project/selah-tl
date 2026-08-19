@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sila'y lumiko at nagpasok, at inilagay nila ang ⟨את⟩ mga bata at ang ⟨את⟩ mga alagang hayop at ang ⟨את⟩ mga kasangkapan sa harapan nila.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "at sila'y lumiko"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nagpasok"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "at inilagay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bata"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ang mga bata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga alagang hayop"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mga alagang hayop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga kasangkapan"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "mga kasangkapan"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa harapan nila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:55:09.660341873Z",
+  "model": "glm-5.3"
+}

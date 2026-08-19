@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At iniutos ni Yehoshua sa ⟨את⟩ mga pinúnò ng bayan, na sabihin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "at iniutos"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pinúnò ng bayan"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "sa mga pinúnò"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na sabihin"
+    }
+  ],
+  "timestamp": "2026-08-19T15:36:53.484708860Z",
+  "model": "glm-5.3"
+}

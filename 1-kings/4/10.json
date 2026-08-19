@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "Bin-Chesed, sa Arubot; sa kanya ang Sokoh at ang buong lupain ng Chefer.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "sa Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lupain"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ng Chefer"
+    }
+  ],
+  "timestamp": "2026-08-19T16:25:22.266899517Z",
+  "model": "glm-5.3"
+}

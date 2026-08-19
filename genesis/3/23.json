@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At pinalayas siya ni Yahweh Elohim mula sa hardin ng Eden, upang suyoin ang ⟨את⟩ lupa na kanyang kinuhaan.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "pinalayas siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mula sa hardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ng Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "upang suyoin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lupa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kinuhaan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:41.438742957Z",
+  "model": "glm-5.3"
+}

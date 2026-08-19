@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 41,
+  "translation": "Pinala ang nagpapatalas ng loob sa mahirap; sa araw ng kasamaan, ililigtas siya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Pinala"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nagpapatalas ng loob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mahirap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa araw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ng kasamaan"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ililigtas siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T18:17:43.867094223Z",
+  "model": "glm-5.3"
+}

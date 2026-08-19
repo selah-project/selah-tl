@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 104,
+  "translation": "Lahat ng mga ito ay umaasa sa iyo, upang ibigay mo ang kanilang pagkain sa takdang panahon nito.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Lahat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "umaasa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ibigay mo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang kanilang pagkain"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa takdang panahon nito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:18.694183742Z",
+  "model": "glm-5.3"
+}

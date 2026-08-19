@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nakilala ni Kayin ang ⟨את⟩ kaniyang asawa, at naglihi ito at ipinanganak ang ⟨את⟩ Hanokh; at naging nagtatayo siya ng lungsod, at tinawag niya ang pangalan ng ⟨the⟩ lungsod ayon sa pangalan ng kaniyang anak na si Hanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nakilala"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "kaniyang asawa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "naglihi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ipinanganak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtatayo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "lungsod"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "tinawag niya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangalan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ng lungsod"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "ayon sa pangalan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kaniyang anak"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:08:02.365212325Z",
+  "model": "glm-5.3"
+}

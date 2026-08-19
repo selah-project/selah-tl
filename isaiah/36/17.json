@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 36,
+  "translation": "hanggang sa pagdating ko at pagkuha ko sa inyo ⟨את⟩ papunta sa isang lupang katulad ng inyong lupa, isang lupain ng buto at ng bagong alak, isang lupain ng tinapay at ng mga ubasan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hanggang"
+    },
+    {
+      "surface": "באי",
+      "gloss": "pagdating ko"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "at pagkuha ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papunta sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isang lupa"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "katulad ng inyong lupa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isang lupain"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ng buto"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "at ng bagong alak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isang lupain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ng tinapay"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "at ng mga ubasan"
+    }
+  ],
+  "timestamp": "2026-08-19T17:03:52.132040163Z",
+  "model": "glm-5.3"
+}

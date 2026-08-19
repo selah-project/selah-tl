@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 146,
+  "translation": "Ang gumagawa ng mga langit at lupa, ng ⟨את⟩ dagat at ng ⟨את⟩ lahat ng nasa mga ito; ang nag-iingat ng katotohanan magpakailanman.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gumagawa ng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the⟩ dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "lahat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nasa mga ito"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "nag-iingat ng"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "katotohanan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "magpakailanman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:36:20.218347984Z",
+  "model": "glm-5.3"
+}

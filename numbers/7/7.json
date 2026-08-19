@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 7,
+  "translation": "Ang ⟨את⟩ dalawang kariton at ang ⟨את⟩ apat na baka ay ibinigay niya sa mga anak ni Gershon, ayon sa kanilang paglilingkod.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalawang kariton"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "apat na baka"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "apat na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "kanilang paglilingkod"
+    }
+  ],
+  "timestamp": "2026-08-19T15:03:56.203757679Z",
+  "model": "glm-5.3"
+}

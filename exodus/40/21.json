@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 40,
+  "translation": "At dinala niya ang ⟨את⟩ kaban sa ⟨the⟩ tabernakulo, at inilagay ang ⟨את⟩ tabing na pandekorado, at tinakpan niya ang kaban ng ⟨the⟩ patotoo, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dinala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaban"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "inilagay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabing"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabing"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pandekorado"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "tinakpan niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "patotoo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:43:39.128985842Z",
+  "model": "glm-5.3"
+}

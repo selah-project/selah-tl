@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "At ang anak ni Yehonatan ⟨ay⟩ si Meriv-Baal; at si Meriv-Baal ay naging ama ni ⟨את⟩ Mikhah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "at ang anak ni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "at si Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "naging ama ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Mikhah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "si Mikhah"
+    }
+  ],
+  "timestamp": "2026-08-19T19:22:19.608436833Z",
+  "model": "glm-5.3"
+}

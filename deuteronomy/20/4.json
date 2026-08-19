@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "sapagkat si Yahweh na inyong Elohim ay ⟨siya⟩ ang lumalakad kasama ninyo, upang makipaglaban para sa inyo laban sa inyong mga kaaway, upang iligtas ⟨את⟩ kayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang lumalakad"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kasama ninyo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "upang makipaglaban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "para sa inyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "upang iligtas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kayo"
+    }
+  ],
+  "timestamp": "2026-08-19T15:29:14.313764391Z",
+  "model": "glm-5.3"
+}

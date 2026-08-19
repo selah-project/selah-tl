@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "at sa pag-ukit ng bato para itanim, at sa pag-ukit ng kahoy, upang gumawa sa bawat gawain;",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "at sa pag-ukit"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "para itanim"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "at sa pag-ukit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gumawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa bawat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawain"
+    }
+  ],
+  "timestamp": "2026-08-19T19:39:39.357850988Z",
+  "model": "glm-5.3"
+}

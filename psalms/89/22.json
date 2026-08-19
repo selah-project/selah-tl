@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Na ang aking kamay ay tatag kasama niya, at ang aking braso ay siya palalakasin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aking kamay"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tatag"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "at"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "aking braso"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "siya palalakasin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:56.053346122Z",
+  "model": "glm-5.3"
+}

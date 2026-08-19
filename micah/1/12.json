@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Sapagkat nanglupaypay sa pag-asa ng mabuti ang naninirahan sa Marot; sapagkat bumaba ang kasamaan mula kay Yahweh ⟨את⟩, hanggang sa tarangkahan ng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nanglupaypay"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sa pag-asa ng mabuti"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ang naninirahan"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "sa Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bumaba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kasamaan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "hanggang sa tarangkahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ng Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:03:42.124772859Z",
+  "model": "glm-5.3"
+}

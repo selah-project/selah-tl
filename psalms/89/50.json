@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Nasaan ang iyong mga kaawaan ng unang panahon, O Adonai, na isinumpa mo kay David sa iyong katapatan?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Nasaan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "iyong mga kaawaan"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ng unang panahon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "isinumpa mo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "sa iyong katapatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:27:41.802663851Z",
+  "model": "glm-5.3"
+}

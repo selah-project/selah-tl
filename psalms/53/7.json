@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 53,
+  "translation": "Sino ang magbibigay mula sa Tzion ng mga kaligtasan ng Yisrael? Pagkatapos ibalik ni Elohim ang pagkabihag ng kanyang bayan, magagalak si Yaakov, magtatamasa si Yisrael.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magbibigay"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "mula sa Tzion"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "ng mga kaligtasan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "pagkatapos ibalik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ng kanyang bayan"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "magagalak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magtatamasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:13.751368190Z",
+  "model": "glm-5.3"
+}

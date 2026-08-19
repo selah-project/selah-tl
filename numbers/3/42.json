@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At binilang ni Moshe, kung paanong iniutos ni Yahweh sa kaniya, ang ⟨את⟩ lahat ng panganay sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "at binilang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung paanong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iniutos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sa kaniya",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "ang ⟨את⟩",
+      "marks": "lahat ng panganay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:59.643436599Z",
+  "model": "glm-5.3"
+}

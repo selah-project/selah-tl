@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "At kanyang pinaalis ang ⟨את⟩ kanyang mga kapatid at sila'y umalis; at sinabi niya sa kanila, Huwag kayong magalit sa daan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "at kanyang pinaalis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang mga kapatid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kanyang mga kapatid"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "at sila'y umalis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kayong magalit\/mag-alab"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa daan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:24:47.718909174Z",
+  "model": "glm-5.3"
+}

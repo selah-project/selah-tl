@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Nagalit nang labis si Yahweh sa inyong mga magulang — galit!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "nagalit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyong mga magulang"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "galit"
+    }
+  ],
+  "timestamp": "2026-08-19T18:07:37.529463856Z",
+  "model": "glm-5.3"
+}

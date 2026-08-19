@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At bumalik si Ornan at nakita ang ⟨את⟩ tagapagbalita, at ang apat niyang mga anak na kasama niya ay nagkukubli; at si Ornan ay gumigiik ng trigo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at bumalik"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "si Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagapagbalita"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang tagapagbalita"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "at ang apat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "niyang mga anak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na kasama niya"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ay nagkukukubli"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "at si Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ay gumigiik"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ng trigo"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:15.147333Z",
+  "model": "glm-5.3"
+}

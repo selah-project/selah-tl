@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "At sinaktá ng bayan ng lupa ang ⟨את⟩ lahat ng mga nagkasabwatan laban sa hari na si Amon; at pinagharián ng bayan ng lupa si ⟨את⟩ Yoshiyahu na anak niya sa kanyang lugar.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "at sinaktá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng mga nagkasabwatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "mga nagkasabwatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "at pinagharián"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa kanyang lugar"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:28.762307072Z",
+  "model": "glm-5.3"
+}

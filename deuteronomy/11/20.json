@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "at isusulat mo ang mga ito sa mga haligi ng pinto ng iyong bahay at sa iyong mga tarangkahan",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "at isusulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga haligi ng pinto"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "iyong bahay"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "at sa iyong mga tarangkahan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:25:31.652861619Z",
+  "model": "glm-5.3"
+}

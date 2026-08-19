@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Gayon ma'y ang mga bamah ay hindi nawala; naghahain pa ⟨ang⟩ bayan at nagsusunog ng insenso sa mga bamah.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gayon ma'y \/ datapwa't"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga bamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nawala \/ tinanggihan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "naghahain ng hain"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "at nagsusunog ng insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bamah"
+    }
+  ],
+  "timestamp": "2026-08-19T16:45:52.826403524Z",
+  "model": "glm-5.3"
+}

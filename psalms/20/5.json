@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "Ibibigay niya sa iyo ayon sa iyong puso, at ang buong iyong payo ay kanyang pupunuin.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ibibigay niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ayon sa iyong puso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "iyong payo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "kanyang pupunuin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:14:11.295322692Z",
+  "model": "glm-5.3"
+}

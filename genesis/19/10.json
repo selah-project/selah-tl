@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At iniunat ng mga lalaki ang ⟨את⟩ kanilang kamay, at pinasok nila si ⟨את⟩ Lot sa kanilang sarili, papunta sa bahay, at ang ⟨את⟩ pinto ay isinara nila.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "at iniunat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kamay"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ang kanilang kamay"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "at pinasok nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "papunta sa bahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ang ⟨את⟩",
+      "marks": "pinto"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pinto"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ay isinara nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:12:34.332952342Z",
+  "model": "glm-5.3"
+}

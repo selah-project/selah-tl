@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "At ang ⟨את⟩ anak ng alipin ay gagawin kong bansa rin, dahil iyong binhi siya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "at saka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ng alipin"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sa bansa"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ilalagay ko siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dahil"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iyong binhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:13:57.629639423Z",
+  "model": "glm-5.3"
+}

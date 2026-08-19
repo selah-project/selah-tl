@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At tumayo sa malayo ang kapatid niyang babae, upang malaman kung ano ang gagawin sa kanya.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "at tumayo"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ang kapatid niyang babae"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa malayo"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "upang malaman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kung ano"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang gagawin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:03.993016661Z",
+  "model": "glm-5.3"
+}

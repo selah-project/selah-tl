@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At suhol ay huwag mong tatanggapin, sapagkat ang suhol bumubulag sa mga mulat, at bumabaluktot sa mga salita ng matutuid.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "at suhol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ay huwag"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mong tatanggapin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ang suhol"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "bumubulag"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "sa mga mulat"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "at bumabaluktot"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga salita"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ng mga matutuid"
+    }
+  ],
+  "timestamp": "2026-08-19T14:35:44.330286260Z",
+  "model": "glm-5.3"
+}

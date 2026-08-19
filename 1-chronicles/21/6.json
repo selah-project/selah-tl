@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 21,
+  "translation": "Ngunit si Levi at si Benjamin ay hindi niya isinanay sa gitna nila, sapagkat kasuklam-suklam kay Yoav ang salita ng hari ⟨na iyon⟩.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "ngunit si Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "at si Benjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "isinay"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa gitna nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "kasuklam-suklam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang salita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-19T19:25:27.307888179Z",
+  "model": "glm-5.3"
+}

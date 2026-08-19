@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 65,
+  "translation": "Ang lobo at ang tupa ay mangangaroroon ⟨bilang⟩ isa, at ang leon ay kakain ng darak na parang sa baka, at ang ahas ay alabok ang kanyang pagkain; hindi sila manggagaling, at hindi sila maninira sa buong aking banal na bundok, ani Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "ang lobo"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "at ang tupa"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ay mangangaroroon"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨bilang⟩ isa"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "at ang leon"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "na parang sa baka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ay kakain"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ng darak"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "at ang ahas"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "alabok"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ang kanyang pagkain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "silap manggagaling"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "silap maninira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bundok"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "aking banal"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T17:13:06.874082922Z",
+  "model": "glm-5.3"
+}

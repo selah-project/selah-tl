@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "Elohim ko, akuin mong makaligtas mula sa kamay ng masama, mula sa palad ng baluktot at mapang-api.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "akuin mong makaligtas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mula sa kamay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mula sa palad"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ng baluktot"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "at mapang-api"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:20.588934939Z",
+  "model": "glm-5.3"
+}

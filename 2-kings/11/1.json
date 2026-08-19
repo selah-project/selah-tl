@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At si Atalya, ina ni Achazyahu, ay nakitang namatay ang kaniyang anak, at siya'y bumangon at sumira sa ⟨את⟩ buong lahi ng kaharian.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "At si Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Achazyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ay nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang kaniyang anak"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "at siya'y bumangon"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "at sumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buong lahi ng kaharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lahi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ng kaharian"
+    }
+  ],
+  "timestamp": "2026-08-19T19:46:22.074094722Z",
+  "model": "glm-5.3"
+}

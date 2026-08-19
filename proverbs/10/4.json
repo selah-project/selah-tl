@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 10,
+  "translation": "Naghihirap ang may kamay na tamad, ngunit ang kamay ng masisikap ay nagpapayaman.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "naghihirap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang may\/gumagawa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kamay (palad)"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "na tamad (mandaraya)"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ngunit ang kamay"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ng masisikap"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "nagpapayaman"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:03.434186270Z",
+  "model": "glm-5.3"
+}

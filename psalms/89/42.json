@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sinamsam siya ng lahat ng dumadaan sa daan; naging kahihiyan siya sa kanyang mga kapitbahay.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "sinamsam siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ng lahat ng"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "dumadaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa daan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naging"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kahihiyan"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "sa kanyang mga kapitbahay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:57.677131528Z",
+  "model": "glm-5.3"
+}

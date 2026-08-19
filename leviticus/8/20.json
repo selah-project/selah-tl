@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 8,
+  "translation": "At ⟨את⟩ ang tupa ay hiniwa sa mga hiwa nito; at pinasingawan ni Moshe ⟨את⟩ ang ulo, at ⟨את⟩ ang mga hiwa, at ⟨את⟩ ang taba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang tupa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang tupa"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ay hiniwa"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sa mga hiwa nito"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "at pinasingawan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang mga hiwa"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ang mga hiwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "ang taba"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ang taba"
+    }
+  ],
+  "timestamp": "2026-08-19T14:48:09.603731875Z",
+  "model": "glm-5.3"
+}

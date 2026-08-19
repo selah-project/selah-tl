@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sinabi ni Eliyahu sa buong bayan: Lumapit kayo sa akin. At lumapit ang buong bayan sa kaniya. At kaniyang iniayos ang ⟨את⟩ dambana ni Yahweh na guho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "lumapit kayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "at lumapit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "at kaniyang iniayos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dambana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "na guho"
+    }
+  ],
+  "timestamp": "2026-08-19T16:37:26.875648138Z",
+  "model": "glm-5.3"
+}

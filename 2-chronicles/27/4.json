@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At mga lungsod ay itinayo niya sa kaburulan ng Yehuda, at sa mga gubat ay nagtayo siya ng mga kuta at mga bantayan.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "at mga lungsod"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "itinayo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kaburulan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ng Yehuda"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "at sa mga gubat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtayo"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "mga kuta"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "at mga bantayan"
+    }
+  ],
+  "timestamp": "2026-08-19T19:57:10.232776631Z",
+  "model": "glm-5.3"
+}

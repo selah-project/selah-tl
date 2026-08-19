@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 106,
+  "translation": "Sapagkat pinait nila ang ⟨את⟩ kanyang ruach, at nagsalita siya nang biglaang hindi pinag-isipan ng kanyang mga labi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "pinait nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanyang ruach"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "kanyang espiritu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "at nagsalita siya nang hindi pinag-iisipan"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "sa kanyang mga labi"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:27.085762089Z",
+  "model": "glm-5.3"
+}

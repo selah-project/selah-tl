@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "O Elohim, dinggin mo ang aking dalangin; pakinggan mo ang mga salita ng aking bibig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dinggin mo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang aking dalangin"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pakinggan mo nang maigi"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ang mga salita"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ng aking bibig"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:08.664019780Z",
+  "model": "glm-5.3"
+}

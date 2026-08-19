@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Magpapasakop ako nang buong-buo kay Yahweh ng aking bibig, at sa gitna ng marami ay aking pupurihin siya.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magpapasakop ako \/ magbibigay-pasasalamat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kay Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang buong-buo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ng aking bibig"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "at sa gitna ng"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marami"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ay aking pupurihin siya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:55.734449452Z",
+  "model": "glm-5.3"
+}

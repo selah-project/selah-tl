@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "tl",
+  "chapter": 20,
+  "translation": "At sinabi ni David kay Yehonatan: Sino ang magpapaalám sa akin, o ano kung sagutin ka ng iyong ama nang matigas?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magpapaalám"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "sagutin ka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "iyong ama"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nang matigas"
+    }
+  ],
+  "timestamp": "2026-08-19T16:06:24.571808142Z",
+  "model": "glm-5.3"
+}

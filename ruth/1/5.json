@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "At namatay din ang dalawa — si Machlon at si Kilyon — at naiwan ang babae sa dalawa niyang mga anak at sa asawa niya.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "At namatay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "din"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang dalawa"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "si Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "at si Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "at naiwan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babae"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa dalawa"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "niyang mga anak"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "at sa asawa niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:58:06.194680021Z",
+  "model": "glm-5.3"
+}

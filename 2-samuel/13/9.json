@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "At kinuha niya ang ⟨את⟩ pinggan at ibinuhos sa harapan niya, ngunit tumanggi siyang kumain. At sinabi ni Amnon: Ilabas ninyo ang bawat lalaki mula sa akin; at lumabas ang bawat lalaki mula sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "at kinuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pinggan"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "ang pinggan"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "at ibinuhos"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa harapan niya"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ngunit tumanggi siya"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "na kumain"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "si Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "ilabas ninyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "mula sa akin"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang bawat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mula sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T16:16:42.052721285Z",
+  "model": "glm-5.3"
+}

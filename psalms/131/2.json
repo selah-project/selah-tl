@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 131,
+  "translation": "Kung hindi — pinantay ko at pinatahimik ko ang aking kaluluwa, parang batang umalis sa dibdib ng ina nito; kaya ng batang umalis sa dibdib ay ang aking kaluluwa sa akin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "pinantay ko"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "at pinatahimik ko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "parang batang-umalis-sa-dibdib"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ina nito"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kaya ng batang-umalis-sa-dibdib"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:37.467337339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Bilangin mo ang ⟨את⟩ mga anak ni Levi ayon sa bahay ng kanilang mga ama, ayon sa kanilang mga angkan: bawat lalaki mula sa isang buwang ang gulang at pataas ay bubilangin mo.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Bilangin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayon sa bahay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ng kanilang mga ama"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayon sa kanilang mga angkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mula sa anak"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ng isang buwan"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "at pataas"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "bubib... bubilangin mo sila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:01:26.745701729Z",
+  "model": "glm-5.3"
+}

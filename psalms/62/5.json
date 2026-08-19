@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 62,
+  "translation": "Kundi mula sa kanyang karangalan lamang nagpayo ⟨sila⟩ upang itapon siya pababa; nalulugod ⟨sila⟩ sa kasinungalingan; binabasbas nila ng kanilang bibig, ngunit sa kanilang kaloob-looban nila sinusumpa. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kundi lamang"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "kanyang karangalan"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "nagpayo sila"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "upang itapon pababa"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "nalulugod sila"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sa kasinungalingan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ng kanilang bibig"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "binabasbas nila"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ngunit sa kanilang kaloob-looban"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "sinusumpa nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T18:22:18.434168122Z",
+  "model": "glm-5.3"
+}

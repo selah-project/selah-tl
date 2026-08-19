@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At hugasan nila ang kanilang mga kamay at ang kanilang mga paa, at huwag silang mamatay; at magiging ⟨ay⟩ tuloy-paring batas sa kanila iyon, sa kanya at sa kanyang binhi, sa kanilang mga lahi.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "at hugasan nila"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang kanilang mga kamay"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "at ang kanilang mga paa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at huwag"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila'y mamatay"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "at magiging"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "חק",
+      "gloss": "tulong-batas na batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tuloy-pari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa kanya"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "at sa kanyang binhi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa kanilang mga lahi"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:43.624126219Z",
+  "model": "glm-5.3"
+}

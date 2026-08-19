@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 34,
+  "translation": "At nakita ni Aharon at ng lahat ng mga anak ni Yisrael si ⟨את⟩ Moshe, at narito, nakasisinag ang balat ng kaniyang mukha, at sila'y natakot lumapit sa kaniya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "at nakita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at lahat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "at narito"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nakasisinag"
+    },
+    {
+      "surface": "עור",
+      "gloss": "balat"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ng kaniyang mukha"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "at sila'y natakot"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "lumapit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T14:41:14.224436888Z",
+  "model": "glm-5.3"
+}

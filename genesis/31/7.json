@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "Ngunit niloko ng inyong ama ako, at pinalitan ang ⟨את⟩ aking upa na makalipas-umpung ulit; ngunit hindi pinayagan ng Elohim na siya'y sumama sa akin.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "ngunit ang inyong ama"
+    },
+    {
+      "surface": "התל",
+      "gloss": "niloko"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "at pinalitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aking upa"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "aking upa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sampung"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "ulit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "pinayagan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "na sumama"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:18:24.634051943Z",
+  "model": "glm-5.3"
+}

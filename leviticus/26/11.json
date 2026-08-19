@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 26,
+  "translation": "At ilalagay ko ang aking tahanan sa gitna ninyo, at hindi kadirihiin ng aking kaluluwa ⟨את⟩ inyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ilalagay ko"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "aking tahanan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "sa gitna ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "kadirihiin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aking kaluluwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:58:42.788891007Z",
+  "model": "glm-5.3"
+}

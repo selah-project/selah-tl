@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 22,
+  "translation": "Nagligaw sila ng tulong, ngunit walang tagapagligtas; kay Yahweh, ngunit hindi sila sinagot.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "nagligaw sila ng tulong"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ngunit walang"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "tagapagligtas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngunit hindi"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "sila sinagot"
+    }
+  ],
+  "timestamp": "2026-08-19T16:22:32.862424459Z",
+  "model": "glm-5.3"
+}

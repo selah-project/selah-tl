@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At ingatan ng mga anak ni Yisrael ⟨את⟩ shabbat, upang gawin ⟨את⟩ shabbat sa kanilang mga salinlahi — tipang walang hanggan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "At ingatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upang gawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa kanilang mga salinlahi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walang hanggan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:58.325643108Z",
+  "model": "glm-5.3"
+}

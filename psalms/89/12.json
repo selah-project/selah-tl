@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 89,
+  "translation": "Sa iyo ang mga langit, oo, sa iyo ang lupa; ang sanlibutan at ang kapunuan nito, ikaw ang nagtatag ng mga ito.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sa iyo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang lupa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang sanlibutan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "at ang kapunuan nito"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nagtatag ng mga ito"
+    }
+  ],
+  "timestamp": "2026-08-19T18:26:44.216230340Z",
+  "model": "glm-5.3"
+}

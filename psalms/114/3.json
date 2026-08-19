@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 114,
+  "translation": "Nakita ng dagat at tumakas, ang Yarden ay umatras paurong.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "at tumakas"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ang Yarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "umatras"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "paurong"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:05.953753138Z",
+  "model": "glm-5.3"
+}

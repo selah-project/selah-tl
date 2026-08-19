@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At mag-aalay mula sa zagig ng mga shelamim ng handog na sinusunog para kay Yahweh: ang ⟨את⟩ taba na tumatahong ⟨את⟩ bituka, at ang ⟨את⟩ buong taba na nasa ibabaw ng bituka.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "At mag-aalay"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mula sa zagig"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ng mga shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "handog na sinusunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "para kay Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "na tumatahong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bituka"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "buong taba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "nasa ibabaw"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ng bituka"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:11.247405222Z",
+  "model": "glm-5.3"
+}

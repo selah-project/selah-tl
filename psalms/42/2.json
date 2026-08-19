@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 42,
+  "translation": "Kung paanong ang usang naghahangad sa mga agusan ng tubig, gayon ang aking kaluluwa ay naghahangad sa iyo, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Kung paanong ang usa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "mga agusan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ng tubig"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gayon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking kaluluwa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "naghahangad"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sa iyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T18:18:20.850429366Z",
+  "model": "glm-5.3"
+}

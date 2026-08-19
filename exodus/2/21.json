@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At nagpasyang tumira si Moshe kasama ⟨את⟩ lalaki, at ibinigay niya si ⟨את⟩ Tzippora na anak niya kay Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "nagpasyang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "si Tzippora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak niya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kay Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:20.152544972Z",
+  "model": "glm-5.3"
+}

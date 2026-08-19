@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "May tinig na narinig sa ⟨mga⟩ kaluwagan, pag-iyak at mga panalanging maamo ng mga anak ni Yisrael, sapagkat pinalihis nila ang ⟨את⟩ kanilang lakad, nakalimutan nila ang ⟨את⟩ Yahweh na Elohim nila.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tinig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "kaluwagan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "naririnig"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pag-iyak"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mga panalanging maamo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "pinalihis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang lakad"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "kanilang lakad"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "nakalimutan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh na Elohim nila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nila"
+    }
+  ],
+  "timestamp": "2026-08-19T17:15:45.378221630Z",
+  "model": "glm-5.3"
+}

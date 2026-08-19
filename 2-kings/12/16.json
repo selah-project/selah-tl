@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "at hindi pagkukwentahin ang ⟨את⟩ mga taong ibinibigay sa kanilang kamay ang ⟨את⟩ pilak upang ibigay sa mga gumagawa ng gawain, sapagkat may katapatan silang gumagawa",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "pagkukwentahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tao"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ibinibigay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kamay nila"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "upang ibigay"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga gumagawa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ng gawain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "may katapatan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gumagawa"
+    }
+  ],
+  "timestamp": "2026-08-19T16:46:13.058735236Z",
+  "model": "glm-5.3"
+}

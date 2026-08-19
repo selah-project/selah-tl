@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 54,
+  "translation": "Sapagkat tulad ng babaing pinabayaan at malungkot sa loob, iyon ang tumawag sa iyo na Yahweh, at tulad ng asawa ng kabataan na itinakwil — sabi ng iyong Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "tulad ng babae"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "pinabayaan"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "at malungkot"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa loob"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "tumawag sa iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "at tulad ng asawa"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "ng kabataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "itinakwil"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ng iyong Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T17:10:31.550768144Z",
+  "model": "glm-5.3"
+}

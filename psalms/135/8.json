@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 135,
+  "translation": "Pumalo Siya sa mga panganay ng Mitzrayim, mula sa tao hanggang sa hayop.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "pumalo"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "sa mga panganay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ng Mitzrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mula sa tao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanggang sa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayop"
+    }
+  ],
+  "timestamp": "2026-08-19T18:34:09.807332261Z",
+  "model": "glm-5.3"
+}

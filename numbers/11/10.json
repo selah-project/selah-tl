@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "At narinig ni Moshe ang ⟨את⟩ bayan na umiiyak, bawat pamilya, ang bawat lalaki sa pasukan ng kanyang tolda; at napaiinit ang ilong ni Yahweh nang labis, at sa mga mata ni Moshe ay masama ⟨ito⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "At narinig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "na umiiyak"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "bawat pamilya niya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pasukan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ng kanyang tolda"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "at napaiinit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang ilong\/poot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "at sa mga mata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masama"
+    }
+  ],
+  "timestamp": "2026-08-19T15:07:30.487801929Z",
+  "model": "glm-5.3"
+}

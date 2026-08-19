@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 71,
+  "translation": "⟨Ikaw⟩ na nagpakita sa amin ng maraming kagipitan at kasamaan, ay babalik Kang muli na bubuhayin sa amin; at mula sa ⟨mga⟩ kalaliman ng lupa, ay babalik Kang mag-aakyat sa akin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Ikaw⟩ na"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "nagpakita sa amin"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "kagipitan"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "maraming"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "at kasamaan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik Kang"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "bubuhayin sa amin"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "at mula sa kalaliman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ng lupa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik Kang muli"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mag-aakyat sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:23:30.016006188Z",
+  "model": "glm-5.3"
+}

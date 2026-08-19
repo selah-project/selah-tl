@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Ang humahamak sa kanyang kapwa ay kulang sa bait; ngunit ang taong may pagkaunawa ay mananahimik.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "humahamak"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sa kanyang kapwa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa bait"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ngunit ang taong"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "may pagkaunawa"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "mananahimik"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:22.476945805Z",
+  "model": "glm-5.3"
+}

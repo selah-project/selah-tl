@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "Ang babaing matapang ay korona ng kaniyang asawa, ngunit ang nakapipinsala sa puri ay gaya ng bulok sa kaniyang mga buto.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ang babaing"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matapang (may-yaman at lakas)"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ng kaniyang asawa"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ngunit gaya ng bulok (kalawang)"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sa kaniyang mga buto"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ang nakapipinsala sa puri (nakakahiya)"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:42.440635445Z",
+  "model": "glm-5.3"
+}

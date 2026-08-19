@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "At inilabas niya ang ⟨את⟩ Asherah mula sa bahay ni Yahweh, sa labas ng Yerushalayim, patungo sa libis ng Kidron, at sinusunog niya ⟨את⟩ ito sa libis ng Kidron, dinurog niya hanggang maging alabok, at itinapon niya ang ⟨את⟩ alabok nito sa mga libingan ng mga anak ng bayan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ininlabas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "sa labas"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ng Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patungo sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "libis"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "ng Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "at sinusunog niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ito (ang Asherah)"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa libis"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "ng Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "dinurog niya"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "hanggang maging alabok"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "at itinapon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alabok nito"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "alabok nito"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mga libingan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ng mga anak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T16:51:19.353051941Z",
+  "model": "glm-5.3"
+}

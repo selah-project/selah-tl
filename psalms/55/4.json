@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 55,
+  "translation": "Dahil sa tinig ng kaaway, dahil sa pang-aapi ng masama; sapagkat binabagsak nila sa akin ang karumal-dumal, at sa poot kanilang kinamumuhian ako.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Dahil sa tinig"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ng kaaway"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "pang-aapi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "binabagsak nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "און",
+      "gloss": "ang karumal-dumal"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "at sa poot"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "kinamumuhian nila ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:20:41.622840338Z",
+  "model": "glm-5.3"
+}

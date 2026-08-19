@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "At ikaw babalik at makikinig sa tinig ni Yahweh, at gawin mo ang ⟨את⟩ lahat ng kanyang mga utos na iniuutos ko sa iyo ngayong araw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "at ikaw"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "babalik"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "at makikinig"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tinig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "at gawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahat ng kanyang mga utos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kanyang mga utos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "iniuutos ko sa iyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngayong araw"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:49.201385280Z",
+  "model": "glm-5.3"
+}

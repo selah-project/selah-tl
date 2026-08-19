@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 11,
+  "translation": "Kung mapupuno ang mga ulap ng ulan, sa lupain sila ⟨magbubuhos⟩; at kung matatumba ang puno sa timog, o kaya sa hilaga, sa lugar kung saan natumba ang puno, doon ⟨ito mananatili⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "mapupuno"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ang mga ulap"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ng ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ lupain"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "sila ⟨magbubuhos⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "at kung"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matatumba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ang puno"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "sa timog"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o kaya"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "sa hilaga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sa lugar"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kung saan natumba"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ang puno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨ito mananatili⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T19:03:17.426478757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 103,
+  "translation": "Ang taong-mortal ay gaya ng damo ang kaniyang mga araw, gaya ng bulaklak ng parang kaya siya mamumulaklak.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "taong-mortal"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "gaya ng damo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kaniyang mga araw"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "gaya ng bulaklak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ng parang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mamumulaklak"
+    }
+  ],
+  "timestamp": "2026-08-19T18:29:03.726058521Z",
+  "model": "glm-5.3"
+}

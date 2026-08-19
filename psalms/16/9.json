@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "Kaya nagalak ang aking puso, at nagsaya ang aking kaluwalhatian; oo, ang aking laman ay tatahan nang may ⟨tiyak na⟩ kapanatagan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagalak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang aking puso"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "at nagsaya"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang aking kaluwalhatian"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang aking laman"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tatahan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nang may kapanatagan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:13:10.259844834Z",
+  "model": "glm-5.3"
+}

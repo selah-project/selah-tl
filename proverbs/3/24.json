@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Kung ihiga mo ang ⟨iyong⟩ sarili, hindi ka matatakot; at kung nakahiga ka na, matamis ang ⟨iyong⟩ tulog.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ihiga mo ang sarili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "matatakot ka"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "at nakahiga ka na"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "matamis"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ang iyong tulog"
+    }
+  ],
+  "timestamp": "2026-08-19T18:37:00.444501184Z",
+  "model": "glm-5.3"
+}

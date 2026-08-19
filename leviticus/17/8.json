@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "At sa kanila'y sasabihin mo: bawat tao mula sa bahay ni Yisrael at mula sa dayuhan na naninirahan sa gitna nila, na mag-aalay ng olah o ng zabach,",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "at sa kanila"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sasabihin mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat tao"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mula sa bahay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "at mula sa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "dayuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "naninirahan"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa gitna nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mag-aalay"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabach"
+    }
+  ],
+  "timestamp": "2026-08-19T14:54:33.026477461Z",
+  "model": "glm-5.3"
+}

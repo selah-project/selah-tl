@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 108,
+  "translation": "Upang maligtas ang iyong mga minamahal, iligtas mo sa pamamagitan ng iyong kanang kamay, at sagutin mo ako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "upang"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "maligtas"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ang iyong mga minamahal"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "iligtas mo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sa pamamagitan ng iyong kanang kamay"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "at sagutin mo ako"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:40.599369196Z",
+  "model": "glm-5.3"
+}

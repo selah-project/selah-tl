@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At sinabi ni Yahweh kay Moshe at kay Aharon: Ito ang tuntunin ng Pesach — bawat anak ng taga-ibang bansa ay hindi kakain nito.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "at kay Aharon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ito"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ang tuntunin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ng Pesach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ng taga-ibang bansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kakain"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:03.549197229Z",
+  "model": "glm-5.3"
+}

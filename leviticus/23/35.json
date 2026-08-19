@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 23,
+  "translation": "Sa unang araw, ⟨may⟩ banal na pagtitipon; kahit anong gawaing-pangkaawayan ay hindi ninyo gagawin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa araw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨ang⟩ una"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "pagtitipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kahit anong"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "gawaing"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "pangkaawayan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hindi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo gagawin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:57:38.213420205Z",
+  "model": "glm-5.3"
+}

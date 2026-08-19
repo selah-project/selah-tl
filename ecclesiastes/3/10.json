@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "Nakita ko ang ⟨את⟩ pagpupunyagi na ibinigay ng Elohim sa mga anak ng tao upang paglungurin doon.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagpupunyagi"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ang pagpupunyagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ibinigay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ng tao"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "upang paglungurin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T19:00:47.082331299Z",
+  "model": "glm-5.3"
+}

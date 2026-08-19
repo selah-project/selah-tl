@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 29,
+  "translation": "at nakita ninyo ⟨ang⟩ ⟨את⟩ kanilang kasuklam-suklam at ⟨את⟩ kanilang mga idolo — kahoy at bato, pilak at ginto, na nasa kanila.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "at nakita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang kasuklam-suklam"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "kanilang kasuklam-suklam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "kanilang mga idolo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "kanilang mga idolo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "at bato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "at ginto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "nasa kanila"
+    }
+  ],
+  "timestamp": "2026-08-19T15:33:36.811345504Z",
+  "model": "glm-5.3"
+}

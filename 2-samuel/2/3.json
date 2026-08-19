@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang kaniyang mga lalaking kasama niya ay inakyat ni David, bawat lalaki pati ang kaniyang sambahayan; at tumira sila sa mga lungsod ng Hevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "At ang kaniyang mga lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kasama niya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "inakyat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bawat lalaki"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "pati ang kaniyang sambahayan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "at tumira"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga lungsod"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ng Hevron"
+    }
+  ],
+  "timestamp": "2026-08-19T16:12:12.838670546Z",
+  "model": "glm-5.3"
+}

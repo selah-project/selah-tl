@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At sinabi ng hari: Lumihis ka, tumayo ka rito. At lumihis siya at tumayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "סב",
+      "gloss": "lumihis"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "tumayo ka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "rito"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "at lumihis"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "at tumayo"
+    }
+  ],
+  "timestamp": "2026-08-19T16:20:28.360532224Z",
+  "model": "glm-5.3"
+}

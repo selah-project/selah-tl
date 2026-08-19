@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At tatahan sa ilang ang katarungan, at ang katuwiran ay uupo sa mabungang bukid.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "at tatahan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "at ang katuwiran"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "sa mabungang bukid"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uupo"
+    }
+  ],
+  "timestamp": "2026-08-19T17:02:09.484360269Z",
+  "model": "glm-5.3"
+}

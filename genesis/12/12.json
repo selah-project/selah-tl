@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 12,
+  "translation": "At mangyayari, kapag nakita ka ng ⟨את⟩ mga taga-Mitsrayim at sabihin nila, 'Asawa niya ito,' ay papatayin nila ⟨את⟩ ako, ngunit ikaw naman na ⟨את⟩ ay bubuhayin nila.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "at mangyayari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapag"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mga taga-Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "sabihin nila"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "asawa niya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "papatayin nila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "at ⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bubuhayin nila"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:29.909654283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 119,
+  "translation": "Higit akong nagkaroon ng unawa kaysa sa lahat ng aking mga guro, sapagkat ang iyong mga patotoo ay aking pagmumuni-muni.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kaysa sa lahat ng"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "aking mga guro"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "nagkaroon ako ng unawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "iyong mga patotoo"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "pagmumuni-muni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aking \/ sa akin"
+    }
+  ],
+  "timestamp": "2026-08-19T18:32:45.819350755Z",
+  "model": "glm-5.3"
+}

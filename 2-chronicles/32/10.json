@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "Ganito ang sabi ni Sancherib na hari ng Ashur: Sa ano kayo umaasa, na kayo'y nananatili sa kuta sa Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ganito"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang sabi"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ni Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ng Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kayo"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "umaasa"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "nananatili"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "sa kuta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T19:36:06.011361949Z",
+  "model": "glm-5.3"
+}

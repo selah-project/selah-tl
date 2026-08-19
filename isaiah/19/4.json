@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "tl",
+  "chapter": 19,
+  "translation": "At isasailalim ko ang ⟨את⟩ Mitzrayim sa kamay ng mga tiyahim na panginoon, at isang marahas na hari ang maghahari sa kanila, anila ang Adonai, si Yahweh Tzevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "At isasailalim ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitzrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamay"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ng mga panginoon"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "na tiyahim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "at isang hari"
+    },
+    {
+      "surface": "עז",
+      "gloss": "na marahas"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ang maghahari"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sa kanila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "anila"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ang Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-19T16:58:38.177958623Z",
+  "model": "glm-5.3"
+}

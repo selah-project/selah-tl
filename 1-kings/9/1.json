@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "tl",
+  "chapter": 9,
+  "translation": "Nangyari, nang matapos ni Shelomoh ang pagtatayo ng ⟨את⟩ bahay ni Yahweh at ng ⟨את⟩ bahay ng hari, at ng ⟨את⟩ buong kalugud-lugod na nais ni Shelomoh na gawin,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nangyari"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nang matapos"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ang pagtatayo ng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "bahay ng hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bahay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ng hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "buong pagnanasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "buong"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "pagnanasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nais niya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "na gawin"
+    }
+  ],
+  "timestamp": "2026-08-19T16:29:03.679681685Z",
+  "model": "glm-5.3"
+}

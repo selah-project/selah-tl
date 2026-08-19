@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 31,
+  "translation": "At ingatan ninyo ⟨את⟩ shabbat, sapagkat banal ito sa inyo; ang naglalapastangan dito ay tiyak na papatayin, sapagkat bawat gumagawa doon ng gawa, mapupugot ⟨ang⟩ taong iyan mula sa gitna ng kanyang bayan.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "At ingatan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyo"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "ang naglalapastangan dito"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tiyak na patay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "papatayin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bawat"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "gumagawa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "doon"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "mapupugot"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨ang⟩ taong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyan"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "mula sa gitna"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "ng kanyang bayan"
+    }
+  ],
+  "timestamp": "2026-08-19T14:38:58.325171370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "Ang ⟨את⟩ mga hatol Ko ay gagawin ninyo, at ang ⟨את⟩ mga tuntunin Ko ay ingatan ninyo, upang lumakad sa mga ito: Ako si Yahweh, ang ⟨inyong⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hatol Ko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga hatol Ko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "gagawin ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ⟨את⟩",
+      "marks": "mga tuntunin Ko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mga tuntunin Ko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ingatan ninyo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "upang lumakad"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga ito"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-08-19T14:53:20.630952668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 32,
+  "translation": "At nagtanong si Yaakov at nagsabi, Ipagahamoy mo nga ang iyong pangalan. At kaniyang sinabi, Bakit ito na tinatanong mo ang aking pangalan? At kaniyang binasbasan si ⟨את⟩ yaon doon.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "at nagtanong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ipagahamoy mo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang iyong pangalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sinabi niya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "bakit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ito"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "tinatanong mo"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ang aking pangalan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "at binasbasan niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Yaakov)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T14:19:22.703090338Z",
+  "model": "glm-5.3"
+}

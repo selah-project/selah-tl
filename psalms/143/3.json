@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 143,
+  "translation": "Sapagkat hinahabol ng kaaway ang aking buhay; dinaganan niya sa lupa ang aking-kanyang pagkabuhay; pinauka niya akong tumira ⟨sa⟩ kadiliman, gaya ng mga patay ng unang panahon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sapagkat"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "hinahabol"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ng kaaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang aking buhay"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "dinaganan niya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lupa"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "aking pagkabuhay"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "pinauka niya akong tumira"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "gaya ng mga patay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ng unang panahon"
+    }
+  ],
+  "timestamp": "2026-08-19T18:35:40.607312952Z",
+  "model": "glm-5.3"
+}

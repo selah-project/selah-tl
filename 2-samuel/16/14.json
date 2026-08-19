@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "tl",
+  "chapter": 16,
+  "translation": "At dumating ang hari at ang buong bayan na ⟨את⟩ kasama niya, pagod na pagod, at nagpahinga doon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "at ang buong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kasama niya",
+      "marks": "ang bayan na kasama ng hari"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "pagod na pagod"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "at nagpahinga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "doon"
+    }
+  ],
+  "timestamp": "2026-08-19T16:18:25.220247064Z",
+  "model": "glm-5.3"
+}

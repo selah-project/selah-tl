@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 4,
+  "translation": "At nagpatuloy siya sa pagsilang ⟨את⟩ sa kapatid niya, ⟨את⟩ si Hevel; at naging pastol si Hevel ng mga tupa, at si Kayin ay naging manggagawa ng lupa.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "At nagpatuloy siya"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sa pagsilang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kapatid niya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa kapatid niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastol ng"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga tupa"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "at si Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ay naging"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "manggagawa ng"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T14:07:42.267843428Z",
+  "model": "glm-5.3"
+}

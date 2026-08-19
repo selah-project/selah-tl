@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 27,
+  "translation": "At gagawin mo ang ⟨את⟩ ⟨the⟩ altar mula sa kahoy ng akasya: limang siko ang haba, at limang siko ang luwang — parisukat ⟨ay⟩ magiging ang altar — at tatlong siko ang taas nito.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "at gagawin mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang altar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ altar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy ng"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasya"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "haba"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "at limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "luwang"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "parisukat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "at tatlong"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "taas nito"
+    }
+  ],
+  "timestamp": "2026-08-19T14:37:13.942630555Z",
+  "model": "glm-5.3"
+}

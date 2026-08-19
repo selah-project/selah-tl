@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "tl",
+  "chapter": 5,
+  "translation": "At dumating ang lahat ng mga matanda ng Yisrael, at dinampot ng mga Levita ang ⟨את⟩ kaban.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "at dumating"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat ng"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga matanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ng Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "at dinampot"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ng mga Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaban"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kaban"
+    }
+  ],
+  "timestamp": "2026-08-19T19:29:00.635161017Z",
+  "model": "glm-5.3"
+}

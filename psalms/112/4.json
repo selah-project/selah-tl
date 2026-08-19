@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 112,
+  "translation": "Sumilip ang liwanag sa kadiliman para sa mga matutuwid — mapagkawangisawa, maawain, at matuwid ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "sumilip \/ sumikat"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kadiliman"
+    },
+    {
+      "surface": "אור",
+      "gloss": "liwanag"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "para sa mga matutuwid"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mapagkawangisawa"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "maawain"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "at matuwid"
+    }
+  ],
+  "timestamp": "2026-08-19T18:31:23.269303629Z",
+  "model": "glm-5.3"
+}

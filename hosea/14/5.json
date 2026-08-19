@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "Pagagalingin ko ang kanilang pagtalikod, iibigin ko sila nang kusang-loob, sapagkat naibalik na ang aking nagalit na ilong mula sa kaniya.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "pagagalingin ko"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "ang kanilang pagtalikod"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "iibigin ko sila"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nang kusang-loob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "שב",
+      "gloss": "naibalik na"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "aking nagalit na ilong"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mula sa kaniya"
+    }
+  ],
+  "timestamp": "2026-08-19T17:58:48.619994100Z",
+  "model": "glm-5.3"
+}

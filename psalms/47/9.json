@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 47,
+  "translation": "Naghari ang Elohim sa ⟨mga⟩ bansa; umupo ang Elohim sa trono ng kabanalan Niya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "umupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kabanalan Niya"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:12.808215380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 13,
+  "translation": "Ang sugo ng masama ay mahuhulog sa kasamaan, ngunit ang tagapagdala ng balita na tapat ay paggagaling.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ng masama"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "mahuhulog"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kasamaan"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ngunit ang tagapagdala ng balita"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "na tapat"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "paggagaling"
+    }
+  ],
+  "timestamp": "2026-08-19T18:39:40.640381740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 124,
+  "translation": "Ang tulong natin ay nasa pangalan ni Yahweh, gumawa ng mga langit at lupa.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ang tulong natin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nasa pangalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gumawa ng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "at lupa"
+    }
+  ],
+  "timestamp": "2026-08-19T18:33:52.950634664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "tl",
+  "chapter": 17,
+  "translation": "Yahweh, walang gaya mo, at walang Elohomaliban sa iyo, sa lahat ng narinig namin sa ating mga tainga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "gaya mo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "at walang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "maliban sa iyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa lahat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ng"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "narinig namin"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "sa ating mga tainga"
+    }
+  ],
+  "timestamp": "2026-08-19T19:24:45.311541529Z",
+  "model": "glm-5.3"
+}

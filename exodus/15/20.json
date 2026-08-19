@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At kumuha si Miryam na babaing propeta, kapatid ni Aharon, ng ⟨את⟩ tambolino sa kaniyang kamay, at lumabas ang lahat ng mga babae pagkatapos niya na may mga tambolino at mga sayaw.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "at kumuha"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "si Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "na babaing propeta"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kapatid"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambolino"
+    },
+    {
+      "surface": "התף",
+      "gloss": "tambolino"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "sa kaniyang kamay"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "at lumabas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang lahat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ng mga babae"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pagkatapos niya"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "na may mga tambolino"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "at mga sayaw"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:37.227640911Z",
+  "model": "glm-5.3"
+}

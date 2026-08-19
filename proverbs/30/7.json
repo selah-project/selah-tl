@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tl",
+  "chapter": 30,
+  "translation": "Dalawang bagay ang hiningi ko mula ⟨את⟩ sa iyo; huwag mong ipagkait sa akin bago ako mamatay.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dalawang"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "hiningi ko"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "mula ⟨את⟩ sa iyo",
+      "marks": "sa iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huwag"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ipagkait mo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akin"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "bago pa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ako mamatay"
+    }
+  ],
+  "timestamp": "2026-08-19T18:44:33.481270560Z",
+  "model": "glm-5.3"
+}

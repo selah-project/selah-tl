@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "tl",
+  "chapter": 14,
+  "translation": "At ibinalik niya ⟨את⟩ ang buong ari-arian, at pati na ⟨את⟩ si Lot na kanyang kapatid at ang kanyang ari-arian ay ibinalik, at pati na ⟨את⟩ ang mga babae at ⟨את⟩ ang mga tao.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "at ibinalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang buong ari-arian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang buong"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "ari-arian"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "na kanyang kapatid"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "at ang kanyang ari-arian"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ay ibinalik"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "at pati na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga babae"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tao"
+    }
+  ],
+  "timestamp": "2026-08-19T14:10:01.348512800Z",
+  "model": "glm-5.3"
+}

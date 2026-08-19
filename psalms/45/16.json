@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 45,
+  "translation": "Ihahatid sila nang may kagalakan at pagtatalastas na saya; papasok sila sa looban ng hari.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ihahatid sila"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sa-kagalakan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "at saya"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "papasok sila"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa-looban"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ng hari"
+    }
+  ],
+  "timestamp": "2026-08-19T18:19:07.120162134Z",
+  "model": "glm-5.3"
+}

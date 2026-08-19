@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At sinabi ni Yahweh: Ako'y nakakita, oo nakita ko ang ⟨את⟩ kalumbayan ng aking bayan na nasa Mitsrayim, at ang ⟨את⟩ kanilang daing ay narinig ko dahil sa kanilang mga tagapanggipit, sapagkat kilala ko ang ⟨את⟩ kanilang mga kapighatian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "At sinabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita (tiyak na tiyak)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalumbayan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kalumbayan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ng aking bayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nasa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "kanilang daing"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kanilang daing"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "narinig ko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dahil sa"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "kanilang mga tagapanggipit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sapagkat"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kilala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanilang mga kapighatian"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "kanilang mga kapighatian"
+    }
+  ],
+  "timestamp": "2026-08-19T14:27:35.096884221Z",
+  "model": "glm-5.3"
+}

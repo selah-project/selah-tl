@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "tl",
+  "chapter": 18,
+  "translation": "At ito ang magiging karapatan ng mga saserdote mula ⟨את⟩ bayan, mula ⟨את⟩ mga naghahandog ng handog — kapwa baka o tupa: ibibigay sa saserdote ang bisig, ang mga panga, at ang tiyan.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "at ito"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magiging"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "karapatan\/batas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ng mga saserdote"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mula",
+      "marks": "bayon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ng bayan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mula",
+      "marks": "sa mga naghahandog ng handog"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mga naghahandog"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "ng handog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapwa\/m ga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ibibigay"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ang bisig"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "at ang mga panga"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "at ang tiyan"
+    }
+  ],
+  "timestamp": "2026-08-19T15:28:56.556779822Z",
+  "model": "glm-5.3"
+}

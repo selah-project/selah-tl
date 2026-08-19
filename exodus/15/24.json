@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "tl",
+  "chapter": 15,
+  "translation": "At nanaghoy ang bayan laban kay Moshe, na nagsasabi: Ano ang iinumin natin?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "at nanaghoy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang bayan"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na nagsasabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ang iinumin natin"
+    }
+  ],
+  "timestamp": "2026-08-19T14:32:37.184259422Z",
+  "model": "glm-5.3"
+}

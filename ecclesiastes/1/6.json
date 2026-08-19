@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "tl",
+  "chapter": 1,
+  "translation": "Pumupunta ang hangin sa timog at umiikot sa hilaga; umiikot, umiikot ang pagpupunta ng hangin, at sa kanyang mga sirkito nagbabalik ang hangin.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "pumupunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "timog"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "at umiikot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "hilaga"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "umiikot"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "umiikot"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "pagpupunta"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ang hangin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "at ayon sa"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "kanyang mga sirkito"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbabalik"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ang hangin"
+    }
+  ],
+  "timestamp": "2026-08-19T19:01:14.823646269Z",
+  "model": "glm-5.3"
+}

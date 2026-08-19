@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 109,
+  "translation": "Mamaril ang tagautang sa lahat ng mayroon siya, at ninakaw ng mga dayuhan ang bunga ng kaniyang pagpapagod.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "maghahanda ng bitag \/ mamaril"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "tagautang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa lahat ng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mayroon siya"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "at ninakaw"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga dayuhan"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ang bunga ng kaniyang pagpapagod"
+    }
+  ],
+  "timestamp": "2026-08-19T18:30:51.820361627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 3:10",
+  "book": "judges",
+  "lang": "tl",
+  "chapter": 3,
+  "translation": "At naging sumasa-kanya ang espiritu ni Yahweh, at hinatulan niya ang ⟨את⟩ Yisrael, at lumabas siya sa digmaan; at ibinigay ni Yahweh sa kanyang kamay si ⟨את⟩ Kushan-Rish'atayim hari ng Aram, at lumakas ang kanyang kamay laban kay Kushan-Rish'atayim.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "at naging"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sumasa-kanya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "hinatulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lumabas"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa digmaan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at ibinigay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa kanyang kamay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Kushan-Rish'atayim"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rish'atayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ng Aram"
+    },
+    {
+      "surface": "ותעז",
+      "gloss": "at lumakas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang kanyang kamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "laban kay"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rish'atayim"
+    }
+  ],
+  "timestamp": "2026-08-19T15:47:34.882920649Z",
+  "model": "glm-5.3"
+}

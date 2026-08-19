@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 33,
+  "translation": "Si Yahweh ang nagpawalang-bisa sa payo ng mga bansa; pinigil niya ang mga balak ng mga mamamayan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "nagpawalang-bisa"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "payo ng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga bansa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "pinigil"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mga balak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga mamamayan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:16:46.336881160Z",
+  "model": "glm-5.3"
+}

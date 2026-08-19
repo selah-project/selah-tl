@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 78,
+  "translation": "At ilagay sa Elohim ang kanilang pagtitiwala, at hindi malimutan ang mga gawa ni El, kundi ingatan ang kanyang mga utos.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "at ilagay"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ang kanilang pagtitiwala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at hindi"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "malimutan"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ang mga gawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "at ang kanyang mga utos"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ingatan"
+    }
+  ],
+  "timestamp": "2026-08-19T18:24:38.009686939Z",
+  "model": "glm-5.3"
+}

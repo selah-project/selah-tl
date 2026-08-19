@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "tl",
+  "chapter": 81,
+  "translation": "Sa puno ng mga mang-aawit, ayon sa Gittit, kay Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa puno ng mga mang-aawit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayon sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kay Asaf"
+    }
+  ],
+  "timestamp": "2026-08-19T18:25:41.048318009Z",
+  "model": "glm-5.3"
+}

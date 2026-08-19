@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "tl",
+  "chapter": 2,
+  "translation": "At ang natira sa mincha ay para kay Aharon at para sa kanyang mga anak — banal ng mga banal mula sa mga handog na apoy ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "At ang natira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mula sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "para kay Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "at para sa kanyang mga anak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "banal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ng mga banal"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "mula sa mga handog na apoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T14:45:17.567861220Z",
+  "model": "glm-5.3"
+}
