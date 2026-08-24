@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 13,
-  "translation": "Kundi sasamtalahin mo siyang talaga; ang iyong kamay ang ⟨⟨maging⟩⟩ unang sa kaniya upang siya'y ipatay, at ang kamay ng buong bayan sa huli.",
+  "translation": "sapagkat kapatayin mo siyang kailanma'y ⟨walang⟩ {tiyak na patayin}; ang iyong kamay ang ⟨maging⟩ unang-una sa kanya upang siya'y ipatay, at ang kamay ng buong bayan sa huli.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kung kundi"
+      "gloss": "sapagkat"
     },
     {
       "surface": "הרג",
-      "gloss": "patayin"
+      "gloss": "kailanma'y patayin"
     },
     {
       "surface": "תהרגנו",
-      "gloss": "mong siyang patayin"
+      "gloss": "siyang kailanma'y patayin"
     },
     {
       "surface": "ידך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "sa kaniya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "בראשונה",
-      "gloss": "sa una"
+      "gloss": "unang-una"
     },
     {
       "surface": "להמיתו",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "bayans"
+      "gloss": "bayan"
     },
     {
       "surface": "באחרנה",
       "gloss": "sa huli"
     }
   ],
-  "timestamp": "2026-08-19T15:26:05.302354966Z",
+  "timestamp": "2026-08-24T19:40:37.798508659Z",
   "model": "glm-5.3"
 }

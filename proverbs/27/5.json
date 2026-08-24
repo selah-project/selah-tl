@@ -5,8 +5,29 @@
   "book": "proverbs",
   "lang": "tl",
   "chapter": 27,
-  "translation": "Marahil ang tuyong pagbatay kaysa pag-ibig na lihim: mabuti ang pagtutuwirang lantad kaysa pag-ibig na nakatago.",
-  "tokens": [],
-  "timestamp": "2026-08-19T18:43:24.498035957Z",
+  "translation": "Mas mabuti ang tutol na lantad kaysa pag-ibig na nagkukubli.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "mas mabuti"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tutol\/saway"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "lantad"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "mula sa pag-ibig"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "nagkukubli"
+    }
+  ],
+  "timestamp": "2026-08-24T19:45:13.208750030Z",
   "model": "glm-5.3"
 }

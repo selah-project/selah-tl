@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tl",
   "chapter": 8,
-  "translation": "Na ibinigay ng hari sa mga Judio na nasa bawat lunsod — na magtipon at tumayong ⟨para⟩ sa kanilang buhay — upang wasakin, upang patayin at upang lipulin ang ⟨את⟩ buong lakas ng bayan at lalawigan na nanliligalig sa ⟨את⟩ ⟨אתם⟩ kanilang mga anak at babae, at ang kanilang samsam ay samsamin.",
+  "translation": "na ibinigay ng hari sa mga Yehudi na nasa bawat isa't isa'y lunsod, upang mangapis at tumayo sa kanilang buhay, upang lipulin, patayin at wasakin ang ⟨את⟩ buong puwersa ng bayan at lalawigang nanliligalig sa ⟨את⟩ kanila, ⟨את⟩ mga bata at mga babae, at ang kanilang samsam ay dangkinin.",
   "tokens": [
     {
       "surface": "אשר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ליהודים",
-      "gloss": "sa mga Judio"
+      "gloss": "sa mga Yehudi"
     },
     {
       "surface": "אשר",
-      "gloss": "na"
+      "gloss": "na nasa"
     },
     {
       "surface": "בכל",
-      "gloss": "sa bawat"
+      "gloss": "bawat"
     },
     {
       "surface": "עיר",
-      "gloss": "lunsod"
+      "gloss": "isa't isa'y lunsod"
     },
     {
       "surface": "ועיר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "להקהל",
-      "gloss": "na magtipon"
+      "gloss": "upang mangapis"
     },
     {
       "surface": "ולעמד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "על",
-      "gloss": "para sa"
+      "gloss": "sa"
     },
     {
       "surface": "נפשם",
@@ -57,20 +57,20 @@
     },
     {
       "surface": "להשמיד",
-      "gloss": "upang wasakin"
+      "gloss": "upang lipulin"
     },
     {
       "surface": "ולהרג",
-      "gloss": "upang patayin"
+      "gloss": "patayin"
     },
     {
       "surface": "ולאבד",
-      "gloss": "at upang lipulin"
+      "gloss": "at wasakin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buong lakas ng bayan at lalawigan"
+      "marks": "buong puwersa"
     },
     {
       "surface": "כל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "lakas"
+      "gloss": "puwersa"
     },
     {
       "surface": "עם",
@@ -90,16 +90,15 @@
     },
     {
       "surface": "הצרים",
-      "gloss": "na nanliligalig"
+      "gloss": "nanliligalig sa kanila"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "mga anak at babae (kanila)"
+      "gloss": "⟨את⟩ kanila"
     },
     {
       "surface": "טף",
-      "gloss": "mga anak"
+      "gloss": "mga bata"
     },
     {
       "surface": "ונשים",
@@ -107,13 +106,13 @@
     },
     {
       "surface": "ושללם",
-      "gloss": "at ang kanilang samsam"
+      "gloss": "ang kanilang samsam"
     },
     {
       "surface": "לבוז",
-      "gloss": "ay samsamin"
+      "gloss": "dangkinin"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.036628758Z",
+  "timestamp": "2026-08-24T19:46:10.348394154Z",
   "model": "glm-5.3"
 }

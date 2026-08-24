@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tl",
   "chapter": 39,
-  "translation": "Sa ibabaw ng ⟨פני⟩ ng bukid mahuhulog ka, sapagkat ako ang nagsalita, oracle ni Adonai Yahweh.",
+  "translation": "Sa ibabaw ng ⟨mukha ng⟩ bukas na parang ikaw babagsak, sapagkat ako ang nagsalita, {neum} ni Adonai Yahweh.",
   "tokens": [
     {
       "surface": "על",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "⟨פני⟩ (mukha\/ng harapan)"
+      "gloss": "mukha ng"
     },
     {
       "surface": "השדה",
-      "gloss": "ng bukid"
+      "gloss": "bukas na parang"
     },
     {
       "surface": "תפול",
-      "gloss": "mahuhulog ka"
+      "gloss": "ikaw babagsak"
     },
     {
       "surface": "כי",
@@ -33,21 +33,21 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "nagsalita"
+      "gloss": "ang nagsalita"
     },
     {
       "surface": "נאם",
-      "gloss": "oracle"
+      "gloss": "neum"
     },
     {
       "surface": "אדני",
-      "gloss": "ni Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T17:52:23.571874129Z",
+  "timestamp": "2026-08-24T19:43:48.246486318Z",
   "model": "glm-5.3"
 }

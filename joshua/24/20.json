@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tl",
   "chapter": 24,
-  "translation": "Kung iwanan ninyo si ⟨את⟩ Yahweh at maglingkod kayo ng mga elohim ng dayuhan, babalik ⟨siya⟩ at sasamain kayo, at lilipulin ⟨את⟩ ⟨kayong את⟩ pagkatapos ng paggawa niya ng mabuti sa inyo.",
+  "translation": "Kung iwan ninyo si ⟨את⟩ Yahweh at maglingkod sa mga elohim ng ibang lahi, babalik siya at sasamain kayo, at lilipulin kayo ⟨את⟩, pagkatapos ng kanyang paggawa ng mabuti sa inyo.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "תעזבו",
-      "gloss": "iwanan ninyo"
+      "gloss": "iwan ninyo"
     },
     {
       "surface": "את",
-      "gloss": "si ⟨את⟩",
-      "marks": "Yahweh"
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
     },
     {
       "surface": "יהוה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "at maglingkod kayo"
+      "gloss": "at maglingkod"
     },
     {
       "surface": "אלהי",
-      "gloss": "ng mga elohim"
+      "gloss": "mga elohim"
     },
     {
       "surface": "נכר",
-      "gloss": "ng dayuhan"
+      "gloss": "ng ibang lahi"
     },
     {
       "surface": "ושב",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והרע",
-      "gloss": "at sasamain"
+      "gloss": "sasamain"
     },
     {
       "surface": "לכם",
@@ -50,16 +50,15 @@
     },
     {
       "surface": "וכלה",
-      "gloss": "at lilipulin"
+      "gloss": "lilipulin"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨kayong את⟩",
-      "marks": "kayo"
+      "gloss": "⟨את⟩ kayo"
     },
     {
       "surface": "אחרי",
-      "gloss": "pagkatapos ng"
+      "gloss": "pagkatapos"
     },
     {
       "surface": "אשר",
@@ -67,13 +66,13 @@
     },
     {
       "surface": "היטיב",
-      "gloss": "paggawa niya ng mabuti"
+      "gloss": "nagpaganda\/paggawa ng mabuti"
     },
     {
       "surface": "לכם",
       "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.162966359Z",
+  "timestamp": "2026-08-24T19:40:58.372548135Z",
   "model": "glm-5.3"
 }

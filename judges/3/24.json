@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "tl",
   "chapter": 3,
-  "translation": "At siya ay lumabas, at dumating ang kanyang mga alipin, at nakita nila, at narito, nakaasarang mabuti ang ⟨את⟩ mga pinto ng itaas na silid, at sinabi nila, \"Tanging nagtatakip siya ng ⟨את⟩ kanyang mga paa sa ⟨the⟩ silid-tag-init.\"",
+  "translation": "At siya ay lumabas na, at dumating ang kanyang mga alipin, at nakita nila, at narito, naka-barado ang mga pinto ng itaas na silid; at sinabi nila, tiyak pinuprotexa niya ang ⟨את⟩ kanyang mga paa sa ⟨ang⟩ silid ng pag-iingat.",
   "tokens": [
     {
       "surface": "והוא",
@@ -13,10 +13,10 @@
     },
     {
       "surface": "יצא",
-      "gloss": "lumabas"
+      "gloss": "lumabas na"
     },
     {
-      "surface": "ועבדיו",
+      "surface": "ויעבדיו",
       "gloss": "at ang kanyang mga alipin"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "surface": "דלתות",
-      "gloss": "mga pinto"
+      "gloss": "ang mga pinto"
     },
     {
       "surface": "העליה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נעלות",
-      "gloss": "nakaasara mabuti"
+      "gloss": "naka-barado"
     },
     {
       "surface": "ויאמרו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אך",
-      "gloss": "tanging"
+      "gloss": "tiyak"
     },
     {
       "surface": "מסיך",
-      "gloss": "nagtatakip"
+      "gloss": "pinuprotexa niya"
     },
     {
       "surface": "הוא",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "המקרה",
-      "gloss": "tag-init"
+      "gloss": "ng pag-iingat ng init"
     }
   ],
-  "timestamp": "2026-08-19T15:48:34.584045620Z",
+  "timestamp": "2026-08-24T19:41:34.805837914Z",
   "model": "glm-5.3"
 }

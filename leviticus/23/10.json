@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 23,
-  "translation": "Magsalita ka sa mga anak ni Yisrael at sabihin mo sa kanila: Kung kayo'y pumasok sa lupain na ibinibigay ko sa inyo at inani ninyo ang ⟨את⟩ ani nito, magdala kayo ng ⟨את⟩ omer, pinaka-unang bunga ng inyong ani, sa ⟨the⟩ paring kohen:",
+  "translation": "Magsalita ka sa mga anak ni Yisra'el at sabihin mo sa kanila: Pagdating ninyo sa lupaing ibinibigay ko sa inyo at inani na ninyo ⟨את⟩ ani nito, magdadala kayo ng ⟨את⟩ omer, unang bunga ng inyong ani, sa ⟨the⟩ saserdote.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "magsalita"
+      "gloss": "Magsalita ka"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ni Yisra'el"
     },
     {
       "surface": "ואמרת",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kung"
+      "gloss": "Pag"
     },
     {
       "surface": "תבאו",
-      "gloss": "pumasok kayo"
+      "gloss": "dating ninyo"
     },
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "lupain"
+      "gloss": "lupaing"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ako"
+      "gloss": "ko"
     },
     {
       "surface": "נתן",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וקצרתם",
-      "gloss": "at inani ninyo"
+      "gloss": "at inani na ninyo"
     },
     {
       "surface": "את",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "והבאתם",
-      "gloss": "at magdadala kayo"
+      "gloss": "magdadala kayo"
     },
     {
       "surface": "את",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ראשית",
-      "gloss": "pinaka-unang bunga"
+      "gloss": "unang bunga"
     },
     {
       "surface": "קצירכם",
@@ -103,9 +103,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "paring kohen"
+      "gloss": "saserdote"
     }
   ],
-  "timestamp": "2026-08-19T14:56:46.723480484Z",
+  "timestamp": "2026-08-24T19:39:32.780880865Z",
   "model": "glm-5.3"
 }

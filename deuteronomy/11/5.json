@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At ang ginawa niya sa inyo sa ilang, hanggang sa pagdating ninyo hanggang sa ⟨the⟩ lugar na ito:",
+  "translation": "At ang ginawa niya sa inyo sa ilang, hanggang sa pagparoon ninyo sa ⟨ang⟩ dakong ito,",
   "tokens": [
     {
       "surface": "ואשר",
@@ -13,37 +13,37 @@
     },
     {
       "surface": "עשה",
-      "gloss": "sa inyo"
+      "gloss": "niya"
     },
     {
       "surface": "לכם",
-      "gloss": "sa ilang"
+      "gloss": "sa inyo"
     },
     {
       "surface": "במדבר",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "עד",
       "gloss": "hanggang"
     },
     {
-      "surface": "עד",
-      "gloss": "pagdating ninyo"
+      "surface": "באכם",
+      "gloss": "sa pagparoon ninyo"
     },
     {
-      "surface": "באכם",
+      "surface": "עד",
       "gloss": "hanggang sa"
     },
     {
-      "surface": "עד",
-      "gloss": "⟨the⟩ lugar"
-    },
-    {
       "surface": "המקום",
-      "gloss": "na ito"
+      "gloss": "⟨ang⟩ dakong"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "ito"
     }
   ],
-  "timestamp": "2026-08-19T15:25:42.526287246Z",
+  "timestamp": "2026-08-24T19:40:13.118148411Z",
   "model": "glm-5.3"
 }

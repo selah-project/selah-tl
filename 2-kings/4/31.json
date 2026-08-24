@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At si Geichazi ay naunahan sila, at inilagay ang ⟨את⟩ tungkod sa ibabaw ng mukha ng bata, ngunit walang tinig at walang pakikinig; kaya't bumalik siya upang salubungin siya, at ipinahayag sa kanya, na nagsasabi: Hindi gumising ang bata.",
+  "translation": "At si Gechazi ay nauna sa kanila, at inilagay ang ⟨את⟩ tungkod sa ibabaw ng mukha ng bata; ngunit walang tinig at walang galing. At siya'y bumalik na sinalubong siya, at ibinalita sa kaniya, na nagsasabi: Hindi gumising ang bata.",
   "tokens": [
     {
       "surface": "וגחזי",
-      "gloss": "At si Geichazi"
+      "gloss": "At si Gechazi"
     },
     {
       "surface": "עבר",
-      "gloss": "naunahan"
+      "gloss": "nauna \/ lumampas"
     },
     {
       "surface": "לפניהם",
-      "gloss": "silа"
+      "gloss": "sa harap nila"
     },
     {
       "surface": "וישם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "mukha ng"
+      "gloss": "mukha"
     },
     {
       "surface": "הנער",
-      "gloss": "bata"
+      "gloss": "ng bata"
     },
     {
       "surface": "ואין",
@@ -58,23 +58,23 @@
     },
     {
       "surface": "קשב",
-      "gloss": "pakikinig"
+      "gloss": "galing \/ pandinig"
     },
     {
       "surface": "וישב",
-      "gloss": "kaya't bumalik siya"
+      "gloss": "At siya'y bumalik"
     },
     {
       "surface": "לקראתו",
-      "gloss": "upang salubungin siya"
+      "gloss": "na sinalubong siya"
     },
     {
       "surface": "ויגד",
-      "gloss": "at ipinahayag"
+      "gloss": "at ibinalita"
     },
     {
       "surface": "לו",
-      "gloss": "sa kanya"
+      "gloss": "sa kaniya"
     },
     {
       "surface": "לאמר",
@@ -93,6 +93,6 @@
       "gloss": "ang bata"
     }
   ],
-  "timestamp": "2026-08-19T16:42:07.836861661Z",
+  "timestamp": "2026-08-24T19:42:26.621682510Z",
   "model": "glm-5.3"
 }

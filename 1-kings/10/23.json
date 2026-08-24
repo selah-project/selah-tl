@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 10,
-  "translation": "At lumaki ang Haring Shelomoh higit sa lahat ng mga hari ng ⟨⟨lupa⟩⟩, sa yaman at sa karunungan.",
+  "translation": "Kaya't lumaki si Haring Shelomoh nang higit sa lahat ng mga hari ng ⟨את⟩ lupa, sa yaman at sa karunungan.",
   "tokens": [
     {
       "surface": "ויגדל",
-      "gloss": "at lumaki"
+      "gloss": "lumaki nang higit"
     },
     {
       "surface": "המלך",
-      "gloss": "ang Haring"
+      "gloss": "ang hari"
     },
     {
       "surface": "שלמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "higit sa lahat"
+      "gloss": "sa lahat ng"
     },
     {
       "surface": "מלכי",
@@ -36,10 +36,10 @@
       "gloss": "sa yaman"
     },
     {
-      "surface": "ולחכמה",
+      "surface": "ו לחכמה",
       "gloss": "at sa karunungan"
     }
   ],
-  "timestamp": "2026-08-19T16:30:13.522632061Z",
+  "timestamp": "2026-08-24T19:41:53.802776894Z",
   "model": "glm-5.3"
 }

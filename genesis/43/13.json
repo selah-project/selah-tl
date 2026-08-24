@@ -5,16 +5,15 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 43,
-  "translation": "At kunin ninyo ang ⟨את⟩ inyong mga kapatid, at tumindig kayo, magbalik kayo sa ⟨the⟩ lalaki.",
+  "translation": "At ⟨את⟩ inyong kapatid ay kunin ninyo, at tumindig kayo, magbalik kayo sa ⟨ang⟩ lalaki.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "inyong mga kapatid"
+      "gloss": "at ⟨את⟩"
     },
     {
       "surface": "אחיכם",
-      "gloss": "inyong mga kapatid"
+      "gloss": "inyong kapatid"
     },
     {
       "surface": "קחו",
@@ -22,7 +21,7 @@
     },
     {
       "surface": "וקומו",
-      "gloss": "at tumindig kayo"
+      "gloss": "tumindig kayo"
     },
     {
       "surface": "שובו",
@@ -34,9 +33,9 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ lalaki"
+      "gloss": "⟨ang⟩ lalaki"
     }
   ],
-  "timestamp": "2026-08-19T14:24:13.163318411Z",
+  "timestamp": "2026-08-24T19:37:12.811360502Z",
   "model": "glm-5.3"
 }

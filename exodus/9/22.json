@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 9,
-  "translation": "At sinabi ni Yahweh kay Moshe: Iunat mo ang ⟨את⟩ iyong kamay tungo sa mga langit, upang may malagyong yelo sa buong lupain ng Mitzrayim, sa ⟨the⟩ tao, sa ⟨the⟩ hayop, at sa lahat ng damo ng bukid, sa lupain ng Mitzrayim.",
+  "translation": "At sinabi ni Yahweh kay Moshe: Iunat mo ang ⟨את⟩ iyong kamay sa mga langit, at magkaroon ng yelo sa buong lupain ng Mitzrayim — sa tao at sa hayop at sa baging-baging ng parang sa lupain ng Mitzrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "tungo sa"
+      "gloss": "sa"
     },
     {
       "surface": "השמים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "upang may"
+      "gloss": "at magkaroon"
     },
     {
       "surface": "ברד",
-      "gloss": "malagyong yelo"
+      "gloss": "yelo (granizo)"
     },
     {
       "surface": "בכל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ng Mitzrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "על",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "האדם",
-      "gloss": "⟨the⟩ tao"
+      "gloss": "tao"
     },
     {
       "surface": "ועל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨the⟩ hayop"
+      "gloss": "hayop"
     },
     {
       "surface": "ועל",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "bawat"
     },
     {
       "surface": "עשב",
-      "gloss": "damo"
+      "gloss": "baging-baging"
     },
     {
       "surface": "השדה",
-      "gloss": "ng bukid"
+      "gloss": "ng parang"
     },
     {
       "surface": "בארץ",
@@ -105,6 +105,6 @@
       "gloss": "ng Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T14:29:41.145114591Z",
+  "timestamp": "2026-08-24T19:38:20.296399114Z",
   "model": "glm-5.3"
 }

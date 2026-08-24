@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 3,
-  "translation": "At ngayon, narito, ang hiyak ng mga anak ni Yisrael ay dumarating sa akin, at nakita ko rin ang ⟨את⟩ pang-aapi na ang Mitzrayim ay pumipighati sa kanila ⟨את⟩ ⟨אתם⟩.",
+  "translation": "At ngayon, narito, ang hiyaw ng mga anak ni Yisrael ay dumating sa akin, at nakita ko rin ang ⟨את⟩ pang-aapi na dinaranas nila mula sa mga Ehipsiyo na nagpupighati sa ⟨את⟩ kanila.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "צעקת",
-      "gloss": "hiyak"
+      "gloss": "hiyaw"
     },
     {
       "surface": "בני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "באה",
-      "gloss": "darating"
+      "gloss": "dumating"
     },
     {
       "surface": "אלי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "(nakita)"
+      "gloss": "nakita ko rin"
     },
     {
       "surface": "את",
@@ -58,18 +58,18 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ang Mitzrayim"
+      "gloss": "mga Ehipsiyo"
     },
     {
       "surface": "לחצים",
-      "gloss": "pumipighati"
+      "gloss": "nagpupighati"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "sa kanila"
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.082708605Z",
+  "timestamp": "2026-08-24T19:37:27.023110373Z",
   "model": "glm-5.3"
 }

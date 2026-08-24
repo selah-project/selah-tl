@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 2,
-  "translation": "At itinayo ni Yahweh Elohim ang ⟨את⟩ tagiliran na kinuha niya sa ⟨⟨ang⟩⟩ tao bilang isang babae, at dinala niya ⟨siya⟩ sa ⟨⟨ang⟩⟩ tao.",
+  "translation": "At itinayo ni Yahweh Elohim ang ⟨את⟩ tadyang na kanyang kinuha sa tao upang maging babae, at dinala niya siya sa tao.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tagiliran"
+      "marks": "tadyang"
     },
     {
       "surface": "הצלע",
-      "gloss": "ang tagiliran"
+      "gloss": "ang tadyang"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "kinuha niya"
+      "gloss": "kinuha"
     },
     {
       "surface": "מן",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "האדם",
-      "gloss": "⟨ang⟩ tao"
+      "gloss": "tao"
     },
     {
       "surface": "לאשה",
-      "gloss": "bilang isang babae"
+      "gloss": "upang maging babae"
     },
     {
       "surface": "ויבאה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "האדם",
-      "gloss": "⟨ang⟩ tao"
+      "gloss": "tao"
     }
   ],
-  "timestamp": "2026-08-19T14:07:17.228618359Z",
+  "timestamp": "2026-08-24T19:37:54.847157841Z",
   "model": "glm-5.3"
 }

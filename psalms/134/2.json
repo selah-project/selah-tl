@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 134,
-  "translation": "Iangat ninyo ang inyong mga kamay patungo sa ⟨the⟩ santuwaryo, at basbasán ninyo si ⟨את⟩ Yahweh.",
+  "translation": "Iangat ang inyong mga kamay sa santong dambana, at pagpalain ninyo si Yahweh ⟨את⟩ —",
   "tokens": [
     {
       "surface": "שאו",
-      "gloss": "Iangat ninyo"
+      "gloss": "iangat"
     },
     {
       "surface": "ידכם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "sa ⟨the⟩ santuwaryo"
+      "gloss": "sa santong dambana"
     },
     {
       "surface": "וברכו",
-      "gloss": "at basbasán ninyo"
+      "gloss": "at pagpalain ninyo"
     },
     {
       "surface": "את",
@@ -30,9 +30,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "si Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T18:33:54.278542431Z",
+  "timestamp": "2026-08-24T19:45:15.938534173Z",
   "model": "glm-5.3"
 }

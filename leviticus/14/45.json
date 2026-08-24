@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 14,
-  "translation": "At bubuwagin niya ang ⟨את⟩ bahay — ang ⟨את⟩ mga bato nito at ang ⟨את⟩ mga kahoy nito at ang ⟨את⟩ buong alabok ng bahay — at ilalabas niya sa labas ng lungsod, sa ⟨the⟩ maruming lugar.",
+  "translation": "At babagsakin niya ang ⟨את⟩ bahay — ang ⟨את⟩ mga bato nito, at ang ⟨את⟩ mga kahoy nito, at ang ⟨את⟩ buong alikabok ng bahay — at ilalabas niya sa labas ng lungsod, sa ⟨isang⟩ maruruming dako.",
   "tokens": [
     {
       "surface": "ונתץ",
-      "gloss": "at bubuwagin"
+      "gloss": "at babagsakin"
     },
     {
       "surface": "את",
@@ -41,7 +41,7 @@
     {
       "surface": "ואת",
       "gloss": "at ⟨את⟩",
-      "marks": "buong alabok ng bahay"
+      "marks": "buong alikabok"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עפר",
-      "gloss": "alabok"
+      "gloss": "alikabok"
     },
     {
       "surface": "הבית",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והוציא",
-      "gloss": "at ilalabas niya"
+      "gloss": "at ilalabas"
     },
     {
       "surface": "אל",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "מקום",
-      "gloss": "lugar"
+      "gloss": "dako"
     },
     {
       "surface": "טמא",
       "gloss": "marumi"
     }
   ],
-  "timestamp": "2026-08-19T14:52:17.096434369Z",
+  "timestamp": "2026-08-24T19:39:33.974999406Z",
   "model": "glm-5.3"
 }

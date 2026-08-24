@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At katayin niya ang ⟨את⟩ lalaking-kambing na handog para sa kasalanan, na ukol sa bayan, at dadalhin niya ang ⟨את⟩ dugo nito sa loob ng kurtina, at gagawin sa ⟨את⟩ dugo nito kung ano ang ginawa sa dugo ng baka, at wiwisikan niya ⟨אתו⟩ nito sa ibabaw ng takip-na-kapatiran at sa harap ng takip-na-kapatiran.",
+  "translation": "At patayin niya ang ⟨את⟩ kambing na handog sa kasalanan na ukol sa bayan, at dadalhin niya ang ⟨את⟩ dugo nito sa loob ng tabing, at gagawin niya sa ⟨את⟩ dugo nito kung paano ginawa sa dugo ng baka, at iwisik niya ang ⟨את⟩ nito sa takip ng kaban at sa harap ng takip ng kaban.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "At katayin"
+      "gloss": "at patayin niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lalaking-kambing"
+      "marks": "ang kambing"
     },
     {
       "surface": "שעיר",
-      "gloss": "ang lalaking-kambing"
+      "gloss": "kambing"
     },
     {
       "surface": "החטאת",
-      "gloss": "na handog para sa kasalanan"
+      "gloss": "handog sa kasalanan"
     },
     {
       "surface": "אשר",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "והביא",
-      "gloss": "at dadalhin"
+      "gloss": "at dadalhin niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugo nito"
+      "marks": "ang dugo nito"
     },
     {
       "surface": "דמו",
@@ -51,32 +51,32 @@
     },
     {
       "surface": "מבית",
-      "gloss": "sa loob"
+      "gloss": "loob"
     },
     {
       "surface": "לפרכת",
-      "gloss": "ng kurtina"
+      "gloss": "ng tabing"
     },
     {
       "surface": "ועשה",
-      "gloss": "at gagawin"
+      "gloss": "at gagawin niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dugo nito"
+      "marks": "ang dugo nito"
     },
     {
       "surface": "דמו",
-      "gloss": "sa dugo nito"
+      "gloss": "ang dugo nito"
     },
     {
       "surface": "כאשר",
-      "gloss": "kung ano"
+      "gloss": "kung paano"
     },
     {
       "surface": "עשה",
-      "gloss": "ang ginawa"
+      "gloss": "ginawa"
     },
     {
       "surface": "לדם",
@@ -88,30 +88,30 @@
     },
     {
       "surface": "והזה",
-      "gloss": "at wiwisikan"
+      "gloss": "at iwisik niya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya",
-      "marks": "dugo nito"
+      "gloss": "⟨את⟩",
+      "marks": "ito"
     },
     {
       "surface": "על",
-      "gloss": "sa ibabaw"
+      "gloss": "sa"
     },
     {
       "surface": "הכפרת",
-      "gloss": "ng takip-na-kapatiran"
+      "gloss": "takip ng kaban"
     },
     {
       "surface": "ולפני",
-      "gloss": "at sa harap"
+      "gloss": "at sa harap ng"
     },
     {
       "surface": "הכפרת",
-      "gloss": "ng takip-na-kapatiran"
+      "gloss": "takip ng kaban"
     }
   ],
-  "timestamp": "2026-08-19T14:53:21.923695851Z",
+  "timestamp": "2026-08-24T19:39:58.447254942Z",
   "model": "glm-5.3"
 }

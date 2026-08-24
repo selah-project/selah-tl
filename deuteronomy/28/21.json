@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 28,
-  "translation": "Didikit nang tuloy-tuloy si Yahweh sa iyo ng ⟨את⟩ salot, hanggang sa lipunin ka niya ⟨את⟩ mula sa ⟨the⟩ lupa na doon kinapaparoroonan mo upang ariin ito.",
+  "translation": "Ididikit ng Yahweh sa iyo ang ⟨את⟩ salot, hanggang sa lipulin ⟨את⟩ ka nito mula sa ⟨the⟩ lupa na pinapasukan mo upang kunin itong pag-aari.",
   "tokens": [
     {
       "surface": "ידבק",
-      "gloss": "didikit nang tuloy-tuloy"
+      "gloss": "ididikit"
     },
     {
       "surface": "יהוה",
@@ -30,16 +30,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "hanggang"
+      "gloss": "hanggang sa"
     },
     {
       "surface": "כלתו",
-      "gloss": "lipunin ka niya"
+      "gloss": "lipulin ka"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ka",
-      "marks": "ikaw (object)"
+      "gloss": "⟨את⟩ ka"
     },
     {
       "surface": "מעל",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "kinapaparoroonan"
+      "gloss": "papasok"
     },
     {
       "surface": "שמה",
@@ -67,9 +66,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "upang ariin ito"
+      "gloss": "upang kunin itong pag-aari"
     }
   ],
-  "timestamp": "2026-08-19T19:42:25.952634556Z",
+  "timestamp": "2026-08-24T19:40:09.472459277Z",
   "model": "glm-5.3"
 }

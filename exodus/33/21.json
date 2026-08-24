@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 33,
-  "translation": "At sinabi ni Yahweh: Narito, may dakong ⟨את⟩ katabi Ko, at titindig ka sa ⟨the⟩ bato;",
+  "translation": "At sinabi ni Yahweh: Narito, ⟨may⟩ ⟨isang⟩ lugar ⟨את⟩-sa-akin, at tatayo ka sa bató;",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "at sinabi"
+      "gloss": "At sinabi"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,20 @@
     },
     {
       "surface": "הנה",
-      "gloss": "narito"
+      "gloss": "Narito"
     },
     {
       "surface": "מקום",
-      "gloss": "dako"
+      "gloss": "lugar"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ katabi Ko"
+      "gloss": "⟨את⟩-sa-akin",
+      "marks": "sa akin (kalapitan: 'katabi Ko'\/'malapit sa Akin')"
     },
     {
       "surface": "ונצבת",
-      "gloss": "at titindig ka"
+      "gloss": "at tatayo ka"
     },
     {
       "surface": "על",
@@ -37,9 +38,9 @@
     },
     {
       "surface": "הצור",
-      "gloss": "bato"
+      "gloss": "ang bató"
     }
   ],
-  "timestamp": "2026-08-19T14:39:37.275248898Z",
+  "timestamp": "2026-08-24T19:38:28.996711796Z",
   "model": "glm-5.3"
 }

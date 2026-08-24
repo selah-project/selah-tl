@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "tl",
   "chapter": 9,
-  "translation": "Bilang ⟨the⟩ mga araw na nagpahinga sa mga ito ang mga Yehudi mula sa kanilang mga kaaway, at ⟨the⟩ buwan na nabago para sa kanila mula sa kalungkutan tungo sa kagalakan, at mula sa pagluluksa tungo sa mabuting araw — upang gawin ang mga ito ⟨את⟩ na mga araw ng pagdiriwang na may pagkain at kagalakan, at ng pagpapadala ng mga bahagi, bawat isa sa kanyang kapwa, at mga kaloob sa mga dukha.",
+  "translation": "Bilang ng mga araw na nagpahinga ang mga Yehudi mula sa kanilang mga kaaway, at ang buwan na nabaliktad sa kanila mula sa pamumutangis tungo sa kagalakan, at mula sa pagluluksa tungo sa mabuting araw, upang gawin ⟨את⟩ mga ito na mga araw ng pagkain at ng kagalakan, at ng pagpapadala ng mga bahagi, bawat isa sa kanyang kapwa, at ng mga kaloob sa mga dukha.",
   "tokens": [
     {
       "surface": "כימים",
-      "gloss": "bilang ⟨the⟩ mga araw"
+      "gloss": "bilang ng mga araw"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "sa mga ito"
+      "gloss": "sa kanila"
     },
     {
       "surface": "היהודים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והחדש",
-      "gloss": "at ⟨the⟩ buwan"
+      "gloss": "at ang buwan"
     },
     {
       "surface": "אשר",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "נהפך",
-      "gloss": "nabago"
+      "gloss": "nabaliktad"
     },
     {
       "surface": "להם",
-      "gloss": "para sa kanila"
+      "gloss": "sa kanila"
     },
     {
       "surface": "מיגון",
-      "gloss": "mula sa kalungkutan"
+      "gloss": "mula sa pamumutangis"
     },
     {
       "surface": "לשמחה",
@@ -73,16 +73,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ang mga ito",
-      "marks": "mga araw"
+      "gloss": "⟨את⟩",
+      "marks": "mga ito (ang mga araw)"
     },
     {
       "surface": "ימי",
-      "gloss": "mga araw"
+      "gloss": "mga araw ng"
     },
     {
       "surface": "משתה",
-      "gloss": "ng pagdiriwang na may pagkain"
+      "gloss": "pagkain\/bangket"
     },
     {
       "surface": "ושמחה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "ומשלוח",
-      "gloss": "at ng pagpapadala"
+      "gloss": "at pagpapadala ng"
     },
     {
       "surface": "מנות",
@@ -113,6 +113,6 @@
       "gloss": "sa mga dukha"
     }
   ],
-  "timestamp": "2026-08-19T19:05:43.669941172Z",
+  "timestamp": "2026-08-24T19:46:09.761455521Z",
   "model": "glm-5.3"
 }

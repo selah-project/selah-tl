@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 13,
-  "translation": "At umakyat si David at buong Israel sa Baala, patungo sa Kiryat-Yearim na nasa Yehuda, upang itaig doon ang ⟨את⟩ kabaan ng Elohim, si Yahweh na nakaupo sa ⟨the⟩ kerubim, na tinatawagang ⟨is⟩ Pangalan.",
+  "translation": "Umahon si David at ang buong Israel sa Baala, patungo sa Kiryat-Yearim na nasa Yehuda, upang umangat mula roon ang ⟨את⟩ kaban ng Elohim, ni Yahweh na nakaupo sa ⟨mga⟩ kerubin, na tinatawag doon ang Kaniyang pangalan.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "at umakyat"
+      "gloss": "umahon"
     },
     {
       "surface": "דויד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "at buong"
+      "gloss": "at ang buong"
     },
     {
       "surface": "ישראל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יערים",
-      "gloss": "-Yearim"
+      "gloss": "Yearim"
     },
     {
       "surface": "אשר",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "להעלות",
-      "gloss": "upang itaig"
+      "gloss": "upang umangat"
     },
     {
       "surface": "משם",
-      "gloss": "doon"
+      "gloss": "mula roon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kabaan ng Elohim"
+      "marks": "kaban"
     },
     {
       "surface": "ארון",
-      "gloss": "kabaan"
+      "gloss": "kaban"
     },
     {
       "surface": "האלהים",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "יושב",
-      "gloss": "na nakaupo"
+      "gloss": "na nakaupo sa"
     },
     {
       "surface": "הכרובים",
-      "gloss": "sa kerubim"
+      "gloss": "mga kerubin"
     },
     {
       "surface": "אשר",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "נקרא",
-      "gloss": "tinatawagang"
+      "gloss": "tinatawag"
     },
     {
       "surface": "שם",
-      "gloss": "Pangalan"
+      "gloss": "pangalan"
     }
   ],
-  "timestamp": "2026-08-19T19:23:38.844782293Z",
+  "timestamp": "2026-08-24T19:46:43.193170870Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 15,
-  "translation": "At sumagot si Ittai sa ⟨את⟩ hari at nagsabi: Buhay si Yahweh, at buhay ang panginoon ko ang hari, sapagkat sa ⟨the⟩ lugar na doon magiging ang panginoon ko ang hari, kung ⟨sa⟩ kamatayan, kung ⟨sa⟩ buhay, sapagkat doon magiging ang alipin mo.",
+  "translation": "At sumagot si Ittai sa ⟨את⟩ hari at nagsabi: Buhay si Yahweh, at buhay ang aking panginoong hari — kung saan naroroon ang aking panginoong hari, kung sa kamatayan man o sa buhay, kung naroroon nga doon magiging alipin mo.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "at sumagot"
+      "gloss": "At sumagot"
     },
     {
       "surface": "אתי",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang hari"
+      "marks": "hari"
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "sa hari"
     },
     {
       "surface": "ויאמר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "buhay"
+      "gloss": "Buhay"
     },
     {
       "surface": "יהוה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "sapagkat"
+      "gloss": "—"
     },
     {
       "surface": "אם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "na"
+      "gloss": "na kung saan"
     },
     {
       "surface": "יהיה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "kung"
+      "gloss": "o kung"
     },
     {
       "surface": "לחיים",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "sapagkat"
+      "gloss": "nga"
     },
     {
       "surface": "שם",
@@ -110,9 +110,9 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "ang alipin mo"
+      "gloss": "alipin mo"
     }
   ],
-  "timestamp": "2026-08-19T16:19:23.624574567Z",
+  "timestamp": "2026-08-24T19:41:03.445842347Z",
   "model": "glm-5.3"
 }

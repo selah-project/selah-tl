@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 146,
-  "translation": "Ang gumagawa ng mga langit at lupa, ng ⟨את⟩ dagat at ng ⟨את⟩ lahat ng nasa mga ito; ang nag-iingat ng katotohanan magpakailanman.",
+  "translation": "Na gumawa ⟨את⟩ ng mga langit at ng lupa, ⟨את⟩ ng dagat at ng lahat ng nasa mga ito; si Yahweh, ang nag-iingat ng katotohanan magpakailanman —",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "gumagawa ng"
+      "gloss": "gumawa ng"
     },
     {
       "surface": "שמים",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "הים",
-      "gloss": "⟨the⟩ dagat"
+      "gloss": "ang dagat"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "lahat"
     },
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "at ng lahat"
     },
     {
       "surface": "אשר",
@@ -47,17 +47,17 @@
     },
     {
       "surface": "השמר",
-      "gloss": "nag-iingat ng"
+      "gloss": "ang nag-iingat"
     },
     {
       "surface": "אמת",
-      "gloss": "katotohanan"
+      "gloss": "ng katotohanan"
     },
     {
       "surface": "לעולם",
       "gloss": "magpakailanman"
     }
   ],
-  "timestamp": "2026-08-19T18:36:20.218347984Z",
+  "timestamp": "2026-08-24T19:45:27.192834637Z",
   "model": "glm-5.3"
 }

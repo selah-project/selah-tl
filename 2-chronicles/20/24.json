@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 20,
-  "translation": "At si Yehuda ay dumating sa ⟨the⟩ bantayan, sa ⟨the⟩ ilang; at tumingin sila sa ⟨the⟩ karamihan, at narito, mga bangkay na nahuhulog sa lupa, at walang nakaligtas.",
+  "translation": "At dumaong ang Yehuda sa ⟨ang⟩ Mitspa na patungo sa ilang, at tumingin sila sa ⟨את⟩ karamihan, at narito — mga bangkay na nakadapa sa lupa, at walang nakaligtas.",
   "tokens": [
     {
       "surface": "ויהודה",
-      "gloss": "at si Yehuda"
+      "gloss": "at ang Yehuda"
     },
     {
       "surface": "בא",
-      "gloss": "dumating"
+      "gloss": "dumaong"
     },
     {
       "surface": "על",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "⟨the⟩ bantayan"
+      "gloss": "Mitspa"
     },
     {
       "surface": "למדבר",
-      "gloss": "sa ⟨the⟩ ilang"
+      "gloss": "patungo sa ilang"
     },
     {
       "surface": "ויפנו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "⟨the⟩ karamihan"
+      "gloss": "karamihan"
     },
     {
       "surface": "והנם",
-      "gloss": "at narito"
+      "gloss": "at narito sila"
     },
     {
       "surface": "פגרים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נפלים",
-      "gloss": "nahuhulog"
+      "gloss": "nakadapa"
     },
     {
       "surface": "ארצה",
@@ -64,6 +64,6 @@
       "gloss": "nakaligtas"
     }
   ],
-  "timestamp": "2026-08-19T19:33:17.492342636Z",
+  "timestamp": "2026-08-24T19:46:16.471375416Z",
   "model": "glm-5.3"
 }

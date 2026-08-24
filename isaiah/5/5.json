@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "tl",
   "chapter": 5,
-  "translation": "At ngayon, ipakikilala ko nga ⟨את⟩ sa inyo ang ⟨את⟩ gagawin ko sa aking ubasan: aalisin ang ⟨ה⟩ bakod nito at magiging ⟨is⟩ nilamon; babagsakin ang pader nito at magiging ⟨is⟩ yapakan.",
+  "translation": "At ngayon, ipapaalam ko nawa ⟨את⟩ sa inyo ang ⟨את⟩ ngaing ginagawa ko sa aking ubasan: aalisin ko ang bakod nito at magiging ⟨is⟩ nailalapa; babagsakin ko ang dingding nito at magiging ⟨is⟩ yapyapan.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,24 +13,25 @@
     },
     {
       "surface": "אודיעה",
-      "gloss": "ipakikilala ko"
+      "gloss": "ipapaalam ko"
     },
     {
       "surface": "נא",
-      "gloss": "nga"
+      "gloss": "nawa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sa inyo"
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "sa inyo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang gagawin ko"
+      "marks": "ngaing ginagawa ko sa aking ubasan"
     },
     {
       "surface": "אשר",
-      "gloss": "ang"
+      "gloss": "nga"
     },
     {
       "surface": "אני",
@@ -38,7 +39,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "gumagawa"
+      "gloss": "ginagawa"
     },
     {
       "surface": "לכרמי",
@@ -46,11 +47,11 @@
     },
     {
       "surface": "הסר",
-      "gloss": "aalisin"
+      "gloss": "aalisin ko"
     },
     {
       "surface": "משוכתו",
-      "gloss": "bakod nito"
+      "gloss": "ang bakod nito"
     },
     {
       "surface": "והיה",
@@ -58,15 +59,15 @@
     },
     {
       "surface": "לבער",
-      "gloss": "para nilamon"
+      "gloss": "nailalapa"
     },
     {
       "surface": "פרץ",
-      "gloss": "babagsakin"
+      "gloss": "babagsakin ko"
     },
     {
       "surface": "גדרו",
-      "gloss": "pader nito"
+      "gloss": "ang dingding nito"
     },
     {
       "surface": "והיה",
@@ -74,9 +75,9 @@
     },
     {
       "surface": "למרמס",
-      "gloss": "para yapaakan"
+      "gloss": "yapyapan"
     }
   ],
-  "timestamp": "2026-08-19T16:54:02.359715654Z",
+  "timestamp": "2026-08-24T19:42:51.631122529Z",
   "model": "glm-5.3"
 }

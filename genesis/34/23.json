@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 34,
-  "translation": "Ang kanilang mga hayop at ang kanilang ari-arian at lahat ng kanilang mga hayop — hindi ba ⟨⟨sa⟩⟩ atin ang mga ito? Tanging sumang-ayon lamang tayo sa kanila, at tumira sila ⟨את⟩ kasama natin.",
+  "translation": "Ang kanilang mga hayop at ang kanilang pag-aari at lahat ng kanilang mga hayop — hindi ba ⟨⟨sa⟩⟩ atin ang mga ito? Lamang sumang-ayon ⟨sa⟩ kanila, at tumira sila ⟨kasama⟩ natin.",
   "tokens": [
     {
       "surface": "מקנהם",
-      "gloss": "ang kanilang mga hayop"
+      "gloss": "kanilang mga hayop"
     },
     {
       "surface": "וקנינם",
-      "gloss": "at ang kanilang ari-arian"
+      "gloss": "at ang kanilang pag-aari"
     },
     {
       "surface": "וכל",
-      "gloss": "at lahat ng"
+      "gloss": "at lahat"
     },
     {
       "surface": "בהמתם",
-      "gloss": "kanilang mga hayop"
+      "gloss": "ng kanilang mga hayop"
     },
     {
       "surface": "הלוא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אך",
-      "gloss": "tanging"
+      "gloss": "lamang"
     },
     {
       "surface": "נאותה",
-      "gloss": "sumang-ayon lamang tayo"
+      "gloss": "sumang-ayon"
     },
     {
       "surface": "להם",
@@ -53,10 +53,9 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kasama natin",
-      "marks": "kasama natin"
+      "gloss": "⟨את⟩ natin"
     }
   ],
-  "timestamp": "2026-08-19T19:38:41.840849731Z",
+  "timestamp": "2026-08-24T19:37:55.396655413Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 135,
-  "translation": "Ang lahat ng naging kalooban ni Yahweh ay ginawa Niya — sa ⟨the⟩ mga langit at sa lupa, sa mga dagat, at sa lahat ng mga kalaliman.",
+  "translation": "Ang lahat ng ninais ni Yahweh ay ginawa ⟨niya⟩ sa mga langit at sa lupa, sa mga dagat at sa lahat ng mga kalaliman.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ng"
+      "gloss": "na"
     },
     {
       "surface": "חפץ",
-      "gloss": "naging kalooban"
+      "gloss": "ninais"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "עשה",
@@ -48,6 +48,6 @@
       "gloss": "ng mga kalaliman"
     }
   ],
-  "timestamp": "2026-08-19T18:34:09.807060741Z",
+  "timestamp": "2026-08-24T19:45:17.833416698Z",
   "model": "glm-5.3"
 }

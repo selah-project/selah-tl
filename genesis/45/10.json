@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 45,
-  "translation": "at tatahan ka sa lupain ng Goshen, at magiging malapit ka sa akin — ikaw, ang iyong mga anak at ang mga anak ng iyong mga anak, ang iyong mga kawan at mga baka, at lahat ng sa iyo.",
+  "translation": "at titira ka sa lupain ng Goshen, at magiging malapit ka sa akin — ikaw, at ang iyong mga anak, at ang mga anak ng iyong mga anak, at ang iyong mga tupa, at ang iyong mga baka, at ang lahat ng ⟨na⟩ sa iyo:",
   "tokens": [
     {
       "surface": "וישבת",
-      "gloss": "at tatahan ka"
+      "gloss": "at titira ka"
     },
     {
       "surface": "בארץ",
@@ -44,16 +44,12 @@
       "gloss": "at ang mga anak"
     },
     {
-      "surface": "בניכם",
-      "gloss": "בניך"
-    },
-    {
       "surface": "בניך",
       "gloss": "ng iyong mga anak"
     },
     {
       "surface": "וצאנך",
-      "gloss": "at ang iyong mga kawan"
+      "gloss": "at ang iyong mga tupa"
     },
     {
       "surface": "ובקרך",
@@ -61,17 +57,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "at lahat"
+      "gloss": "at ang lahat"
     },
     {
       "surface": "אשר",
-      "gloss": "ng"
+      "gloss": "⟨na⟩"
     },
     {
       "surface": "לך",
       "gloss": "sa iyo"
     }
   ],
-  "timestamp": "2026-08-19T14:25:10.249152263Z",
+  "timestamp": "2026-08-24T19:37:25.055891653Z",
   "model": "glm-5.3"
 }

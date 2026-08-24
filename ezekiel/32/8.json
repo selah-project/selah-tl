@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tl",
   "chapter": 32,
-  "translation": "Lahat ng mga ilawan ng liwanag sa ⟨the⟩ kalangitan, didilimin ko sila dahil sa iyo, at maglalagay ako ng kadiliman sa ibabaw ng iyong lupa, anila Adonai Yahweh.",
+  "translation": "Lahat ng mga ilawan ng liwanag sa langit, padidilimin ko ⟨ang mga ito⟩ laban sa iyo, at ibubuhos ko ang kadiliman sa iyong lupa, oracle ni Adonai Yahweh.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "lahat"
     },
     {
       "surface": "מאורי",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "sa kalangitan"
+      "gloss": "sa langit"
     },
     {
       "surface": "אקדירם",
-      "gloss": "didilimin ko sila"
+      "gloss": "padidilimin ko ⟨ang mga ito⟩"
     },
     {
       "surface": "עליך",
-      "gloss": "dahil sa iyo"
+      "gloss": "laban sa iyo"
     },
     {
       "surface": "ונתתי",
-      "gloss": "at maglalagay ako ng"
+      "gloss": "at ibubuhos ko"
     },
     {
       "surface": "חשך",
-      "gloss": "kadiliman"
+      "gloss": "ang kadiliman"
     },
     {
       "surface": "על",
-      "gloss": "sa ibabaw ng"
+      "gloss": "sa"
     },
     {
       "surface": "ארצך",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "נאם",
-      "gloss": "anila"
+      "gloss": "oracle"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "ni Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T17:49:30.828446602Z",
+  "timestamp": "2026-08-24T19:43:33.951526972Z",
   "model": "glm-5.3"
 }

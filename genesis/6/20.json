@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 6,
-  "translation": "Mula sa mga ibon ayon sa kanilang uri, at mula sa mga hayop ayon sa uri nito, mula sa bawat gumagapay sa ⟨the⟩ lupa ayon sa uri nito, dalawa sa bawat isa, paroroon sila sa iyo, upang buhayin.",
+  "translation": "Mula sa mga ibon ayon sa kanilang uri, at mula sa mga hayop ayon sa uri nito, mula sa bawat gumagapang na bagay ng lupa ayon sa uri nito, dalawa ng bawat uri ay paroroon sa iyo upang buhayin.",
   "tokens": [
     {
       "surface": "מהעוף",
-      "gloss": "Mula sa mga ibon"
+      "gloss": "mula sa mga ibon"
     },
     {
       "surface": "למינהו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "ang mga hayop"
+      "gloss": "mga hayop"
     },
     {
       "surface": "למינה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "רמש",
-      "gloss": "gumagapay"
+      "gloss": "gumagapang na bagay"
     },
     {
       "surface": "האדמה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "sa bawat isa"
+      "gloss": "ng bawat"
     },
     {
       "surface": "יבאו",
@@ -64,6 +64,6 @@
       "gloss": "upang buhayin"
     }
   ],
-  "timestamp": "2026-08-19T14:09:21.199564808Z",
+  "timestamp": "2026-08-24T19:38:02.812601420Z",
   "model": "glm-5.3"
 }

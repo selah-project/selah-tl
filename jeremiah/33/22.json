@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tl",
   "chapter": 33,
-  "translation": "na hindi mabibilang ang hukbo ng ⟨the⟩ langit at hindi masusukat ang buhangin ng dagat, gayon din dadamiin ko ang ⟨את⟩ binhi ni David na aking lingkod, at ⟨את⟩ ang mga Levita na naglilingkod ⟨את⟩ sa akin.",
+  "translation": "Na hindi mabilang ang hukbo ng ⟨mga⟩ langit at hindi nasusukat ang buhangin ng dagat, gayunding paramihin Ko ang ⟨את⟩ binhi ni David na aking alipin at ang ⟨את⟩ mga Levita na naglilingkod ⟨את⟩ sa Akin.",
   "tokens": [
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יספר",
-      "gloss": "mabibilang"
+      "gloss": "mabilang"
     },
     {
       "surface": "צבא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "ng langit"
+      "gloss": "ng mga langit"
     },
     {
       "surface": "ולא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ימד",
-      "gloss": "masusukat"
+      "gloss": "nasusukat"
     },
     {
       "surface": "חול",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "gayon din"
+      "gloss": "gayunding"
     },
     {
       "surface": "ארבה",
-      "gloss": "dadamiin ko"
+      "gloss": "paramihin Ko"
     },
     {
       "surface": "את",
@@ -66,15 +66,16 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "aking lingkod"
+      "gloss": "aking alipin"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩"
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga Levita"
     },
     {
       "surface": "הלוים",
-      "gloss": "ang mga Levita"
+      "gloss": "mga Levita"
     },
     {
       "surface": "משרתי",
@@ -82,9 +83,9 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ sa akin"
+      "gloss": "⟨את⟩ sa Akin"
     }
   ],
-  "timestamp": "2026-08-19T17:29:53.168937873Z",
+  "timestamp": "2026-08-24T19:43:44.606354137Z",
   "model": "glm-5.3"
 }

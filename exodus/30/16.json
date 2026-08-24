@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 30,
-  "translation": "At kukunin mo ang ⟨את⟩ pilak ng pagbabayad-puri ⟨את⟩ ⟨mula kay את⟩ mga anak ni Yisrael, at ibubukod mo ⟨את⟩ ⟨ito⟩ sa paglilingkod sa tolda ng tipanan; at magiging paalala ito para sa mga anak ni Yisrael sa harapan ni Yahweh, upang magbayad-puri ⟨para⟩ sa inyong mga kaluluwa.",
+  "translation": "At kukunin mo ang ⟨את⟩ pilak ng mga pagsasakripisyo-pagtubos mula ⟨מאת⟩ sa mga anak ni Yisra'el, at ibibigay mo ⟨את⟩-ito sa gawain ng Tolda ng Tipunan; at magiging ⟨ito⟩ sa mga anak ni Yisra'el bilang alaala sa harapan ni Yahweh, upang magbayad-paggawa ng pagtubos para sa inyong mga kaluluwa.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "At kukunin mo"
+      "gloss": "at kukunin mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pilak ng pagbabayad-puri"
+      "marks": "pilak"
     },
     {
       "surface": "כסף",
-      "gloss": "ang pilak"
+      "gloss": "pilak"
     },
     {
       "surface": "הכפרים",
-      "gloss": "ng pagbabayad-puri"
+      "gloss": "ng mga pagsasakripisyo-pagtubos"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨mula kay את⟩"
+      "gloss": "mula ⟨את⟩"
     },
     {
       "surface": "בני",
@@ -34,15 +34,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ni Yisra'el"
     },
     {
       "surface": "ונתת",
-      "gloss": "at ibubukod mo"
+      "gloss": "at ibibigay mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨ito⟩"
+      "gloss": "⟨את⟩-ito",
+      "marks": "sa gawain ng Tolda ng Tipunan"
     },
     {
       "surface": "על",
@@ -50,15 +51,15 @@
     },
     {
       "surface": "עבדת",
-      "gloss": "paglilingkod"
+      "gloss": "gawain"
     },
     {
       "surface": "אהל",
-      "gloss": "sa tolda"
+      "gloss": "Tolda"
     },
     {
       "surface": "מועד",
-      "gloss": "ng tipanan"
+      "gloss": "ng Tipunan"
     },
     {
       "surface": "והיה",
@@ -66,15 +67,15 @@
     },
     {
       "surface": "לבני",
-      "gloss": "para sa mga anak"
+      "gloss": "sa mga anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "ni Yisra'el"
     },
     {
       "surface": "לזכרון",
-      "gloss": "paalala"
+      "gloss": "bilang alaala"
     },
     {
       "surface": "לפני",
@@ -82,21 +83,21 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "לכפר",
-      "gloss": "upang magbayad-puri"
+      "gloss": "upang magbayad-paggawa ng pagtubos"
     },
     {
       "surface": "על",
-      "gloss": "⟨para⟩ sa"
+      "gloss": "para sa"
     },
     {
       "surface": "נפשתיכם",
       "gloss": "inyong mga kaluluwa"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.079353072Z",
+  "timestamp": "2026-08-24T19:38:33.230885173Z",
   "model": "glm-5.3"
 }

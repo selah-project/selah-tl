@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 47,
-  "translation": "At natapos ang taong yaon, at dumating sila sa kanya sa ikalawang taon, at sinabi nila sa kanya: Hindi namin ikukubli sa aming panginoon na, sapagkat napo na ang ⟨⟨pilak⟩⟩ at ang mga hayop ay nasa aming panginoon; walang natitira sa harap ng aming panginoon kundi ang aming mga katawan at ang aming lupa.",
+  "translation": "At natapos yaong taon, at pumaroon sila sa kanya sa ikalawang taon at nagsabi sa kanya: Hindi namin ikukubli sa panginoon ko na ubos na ang pilak, at ang mga alagang hayop ay nasa panginoon ko; walang natira sa harap ng panginoon ko kundi ang aming mga katawan at ang aming lupa.",
   "tokens": [
     {
       "surface": "ותתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "השנה",
-      "gloss": "ang taon"
+      "gloss": "yaong taon"
     },
     {
       "surface": "ההוא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "at dumating sila"
+      "gloss": "at pumaroon sila"
     },
     {
       "surface": "אליו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "sila sa kanya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "לא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "נכחד",
-      "gloss": "ikukubli namin"
+      "gloss": "ikukubli"
     },
     {
       "surface": "מאדני",
-      "gloss": "sa aming panginoon"
+      "gloss": "sa panginoon ko"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "sapagkat"
+      "gloss": "kung"
     },
     {
       "surface": "תם",
-      "gloss": "napo"
+      "gloss": "ubos na"
     },
     {
       "surface": "הכסף",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ומקנה",
-      "gloss": "at ang mga hayop"
+      "gloss": "at ang mga alaga"
     },
     {
       "surface": "הבהמה",
-      "gloss": "ng mga alagang hayop"
+      "gloss": "mga hayop"
     },
     {
       "surface": "אל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "aming panginoon"
+      "gloss": "panginoon ko"
     },
     {
       "surface": "לא",
@@ -93,23 +93,23 @@
     },
     {
       "surface": "נשאר",
-      "gloss": "natitira"
+      "gloss": "natira"
     },
     {
       "surface": "לפני",
-      "gloss": "sa harap"
+      "gloss": "sa harap ng"
     },
     {
       "surface": "אדני",
-      "gloss": "ng aming panginoon"
+      "gloss": "panginoon ko"
     },
     {
       "surface": "בלתי",
-      "gloss": "kung hindi"
+      "gloss": "kungundi"
     },
     {
       "surface": "אם",
-      "gloss": "bagkus"
+      "gloss": "maliban"
     },
     {
       "surface": "גויתנו",
@@ -120,6 +120,6 @@
       "gloss": "at ang aming lupa"
     }
   ],
-  "timestamp": "2026-08-19T14:25:53.750080067Z",
+  "timestamp": "2026-08-24T19:37:41.878618482Z",
   "model": "glm-5.3"
 }

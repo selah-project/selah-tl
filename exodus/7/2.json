@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 7,
-  "translation": "Ikaw ang magsasalita ng ⟨את⟩ lahat ng iuutos ko sa iyo, at si Aharon na kapatid mo ay magsasalita kay Paraon upang magpalaya ⟨⟨siya⟩⟩ ng ⟨את⟩ mga anak ng Israel mula sa kanyang lupain.",
+  "translation": "Ikaw ang magsasalita ng ⟨את⟩ lahat ng aking iuutos sa iyo, at si Aharon na kapatid mo ay magsasalita kay Paroh, at kaniyang papapunanin ⟨את⟩ mga anak ni Yisrael na umalis sa kaniyang lupain.",
   "tokens": [
     {
       "surface": "אתה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang lahat"
+      "marks": "lahat"
     },
     {
       "surface": "כל",
@@ -30,14 +30,14 @@
     },
     {
       "surface": "אצוך",
-      "gloss": "iuutos ko sa iyo"
+      "gloss": "iuutos sa iyo"
     },
     {
       "surface": "ואהרן",
       "gloss": "at si Aharon"
     },
     {
-      "surface": "אחיק",
+      "surface": "אחיך",
       "gloss": "kapatid mo"
     },
     {
@@ -50,16 +50,16 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paraon"
+      "gloss": "Paroh"
     },
     {
-      "surface": "ושלח",
-      "gloss": "upang magpalaya"
+      "surface": "וישלח",
+      "gloss": "at papapunanin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga anak ng Israel"
+      "marks": "mga anak ni Yisrael"
     },
     {
       "surface": "בני",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מארצו",
-      "gloss": "mula sa kanyang lupain"
+      "gloss": "sa kaniyang lupain"
     }
   ],
-  "timestamp": "2026-08-19T14:29:00.659465528Z",
+  "timestamp": "2026-08-24T19:38:13.148269831Z",
   "model": "glm-5.3"
 }

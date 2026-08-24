@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At sinabi ni Elisha sa kanya: Ano ang gagawin ko para sa iyo? Sabihin mo sa akin, ano ang mayroon sa bahay? At sinabi niya: Wala sa bahay ng iyong aliping babae anuman, kundi ⟨⟨isang⟩⟩ banga ng langis.",
+  "translation": "At sinabi ni Elisha sa kanya: Ano ang gagawin ko para sa iyo? Sabihin mo sa akin, ano ang mayroon sa bahay? At sinabi niya: Wala ang iyong lingkod na anuman sa bahay, kundi isang bunganga ng langis.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לכי",
-      "gloss": "ng iyo"
+      "gloss": "ng sa iyo"
     },
     {
       "surface": "בבית",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "At sinabi niya"
+      "gloss": "At sinabi"
     },
     {
       "surface": "אין",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לשפחתך",
-      "gloss": "ng iyong aliping babae"
+      "gloss": "ang iyong lingkod"
     },
     {
       "surface": "כל",
@@ -77,21 +77,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "kundi"
+      "gloss": "kung hindi"
     },
     {
       "surface": "אם",
-      "gloss": "maliban"
+      "gloss": "kundi"
     },
     {
       "surface": "אסוך",
-      "gloss": "banga"
+      "gloss": "isang bunganga"
     },
     {
       "surface": "שמן",
       "gloss": "ng langis"
     }
   ],
-  "timestamp": "2026-08-19T19:45:48.820309936Z",
+  "timestamp": "2026-08-24T19:42:08.860532764Z",
   "model": "glm-5.3"
 }

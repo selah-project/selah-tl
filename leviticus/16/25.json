@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At ang ⟨את⟩ taba ng handog para sa kasalayan ay kanyang paiitugin sa ⟨the⟩ altar.",
+  "translation": "At ang ⟨את⟩ taba ng handog para sa kasalayan ay paiitinin niya sa usok sa ibabaw ng ⟨ang⟩ altar.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "at ang ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "taba"
     },
     {
@@ -22,13 +22,13 @@
     },
     {
       "surface": "יקטיר",
-      "gloss": "paiitugin"
+      "gloss": "paiitinin niya sa usok"
     },
     {
       "surface": "המזבחה",
-      "gloss": "sa altar"
+      "gloss": "sa ibabaw ng altar"
     }
   ],
-  "timestamp": "2026-08-19T14:53:43.640158445Z",
+  "timestamp": "2026-08-24T19:39:10.894300880Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 6,
-  "translation": "Sa lahat ng mga araw ng kaniyang paglalaan, ng anumang ginawa mula sa puno ng ubas, mula sa buto hanggang sa balat, ay hindi kakainin.",
+  "translation": "Sa lahat ng mga araw ng kaniyang pagiging nazir, mula sa lahat ng ginawa mula sa puno ng ubas, mula sa mga buto hanggang sa balat, hindi siya kakain.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "sa lahat ng"
+      "gloss": "sa lahat"
     },
     {
       "surface": "ימי",
-      "gloss": "mga araw"
+      "gloss": "ng mga araw"
     },
     {
       "surface": "נזרו",
-      "gloss": "ng kaniyang paglalaan"
+      "gloss": "ng kaniyang pagiging nazir"
     },
     {
       "surface": "מכל",
-      "gloss": "ng anumang"
+      "gloss": "mula sa lahat"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "היין",
-      "gloss": "⟨the⟩ ng alak"
+      "gloss": "ng alak"
     },
     {
       "surface": "מחרצנים",
-      "gloss": "mula sa buto"
+      "gloss": "mula sa mga buto"
     },
     {
       "surface": "ועד",
-      "gloss": "hanggang sa"
+      "gloss": "at hanggang"
     },
     {
       "surface": "זג",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "kakainin"
+      "gloss": "siya kakain"
     }
   ],
-  "timestamp": "2026-08-19T15:04:09.810107048Z",
+  "timestamp": "2026-08-24T19:39:05.557114853Z",
   "model": "glm-5.3"
 }

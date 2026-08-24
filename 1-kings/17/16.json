@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 17,
-  "translation": "Ang harina sa bangа ay hindi nauubos, at ang sisidlan ng langis ay hindi kumukulang, ayon sa salita ni Yahweh na kaniyang sinalita sa pamamagitan ni Eliyahu.",
+  "translation": "Hindi nabigo ang bangang harina, at hindi kulang ang sisian ng langis, ayon sa salita ni Yahweh na sinalita ⟨niya⟩ sa pamamagitan ng kamay ni Eliyahu.",
   "tokens": [
     {
       "surface": "כד",
-      "gloss": "bangа ng"
+      "gloss": "bangang harina"
     },
     {
       "surface": "הקמח",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כלתה",
-      "gloss": "nauubos"
+      "gloss": "nabigo\/nauubos"
     },
     {
       "surface": "וצפחת",
-      "gloss": "at sisidlan ng"
+      "gloss": "at ang sisian ng langis"
     },
     {
       "surface": "השמן",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "חסר",
-      "gloss": "kumukulang"
+      "gloss": "kulang"
     },
     {
       "surface": "כדבר",
-      "gloss": "ayon sa salita ni"
+      "gloss": "ayon sa salita"
     },
     {
       "surface": "יהוה",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kaniyang sinalita"
+      "gloss": "sinalita"
     },
     {
       "surface": "ביד",
-      "gloss": "sa pamamagitan (sa kamay) ni"
+      "gloss": "sa pamamagitan ng kamay"
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliyahu"
+      "gloss": "ni Eliyahu"
     }
   ],
-  "timestamp": "2026-08-19T16:34:04.787225789Z",
+  "timestamp": "2026-08-24T19:41:58.997912621Z",
   "model": "glm-5.3"
 }

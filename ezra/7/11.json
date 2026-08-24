@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "tl",
   "chapter": 7,
-  "translation": "At ito ang kopya ng sulat ng utos na ibinigay ng hari na si Artachshasta kay Ezra na ⟨ה⟩ kohen, na sofer — sofer ng mga salita ng mga utos ni Yahweh at ng kaniyang mga tuntunin tungkol sa Yisrael:",
+  "translation": "At ito ang kopya (פרשגן) ng liham (הנשתון) na ibinigay ng hari na si Artachshasta kay Ezra na kohen, ang eskriba — eskriba ng mga salita ng mga utos ni Yahweh at ng mga batas niya ukol sa Israel.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "at ito"
+      "gloss": "At ito"
     },
     {
       "surface": "פרשגן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנשתון",
-      "gloss": "ng sulat ng utos"
+      "gloss": "liham"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ארתחשסתא",
-      "gloss": "si Artachshasta"
+      "gloss": "Artachshasta"
     },
     {
       "surface": "לעזרא",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "ang kohen (pari)"
+      "gloss": "ang kohen"
     },
     {
-      "surface": "הספר",
-      "gloss": "ang sofer (eskriba)"
+      "surface": "הסופר",
+      "gloss": "ang eskriba"
     },
     {
-      "surface": "ספר",
-      "gloss": "sofer"
+      "surface": "סופר",
+      "gloss": "eskriba"
     },
     {
       "surface": "דברי",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "וחקיו",
-      "gloss": "at ng kaniyang mga tuntunin"
+      "gloss": "at ng mga batas niya"
     },
     {
       "surface": "על",
-      "gloss": "tungkol sa"
+      "gloss": "ukol sa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-19T19:13:54.244854594Z",
+  "timestamp": "2026-08-24T19:46:25.893179799Z",
   "model": "glm-5.3"
 }

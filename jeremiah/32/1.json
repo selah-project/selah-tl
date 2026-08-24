@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tl",
   "chapter": 32,
-  "translation": "Ang salita na nangyari kay Yirmeyahu ⟨את⟩ mula ⟨kay את⟩ Yahweh sa ikasampung taon ni Tsidkiyahu, hari ng Yehudah — ito ang taong ikalabingwalo ni Nevukhadretsar.",
+  "translation": "Ang salita na nangyari kay Yirmeyahu mula ⟨את⟩ Yahweh, sa ikasampung taon ni Tsidkiyahu, hari ng Yehuda — siya nga ang taong labing-walo (na taon) ni Nevukhadretstsar.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -29,7 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ mula ⟨kay את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "בשנת",
-      "gloss": "sa taon"
+      "gloss": "sa ikasampung taon"
     },
     {
       "surface": "העשרית",
@@ -53,33 +54,33 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ng Yehudah"
+      "gloss": "ng Yehuda"
     },
     {
       "surface": "היא",
-      "gloss": "ito"
+      "gloss": "siya nga"
     },
     {
       "surface": "השנה",
-      "gloss": "ang taon"
+      "gloss": "ang taong"
     },
     {
       "surface": "שמנה",
-      "gloss": "ikalabingwalo"
+      "gloss": "labing-walo"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "(na taon)"
     },
     {
       "surface": "שנה",
-      "gloss": "taon"
+      "gloss": "(na taon)"
     },
     {
       "surface": "לנבוכדראצר",
-      "gloss": "ni Nevukhadretsar"
+      "gloss": "ni Nevukhadretstsar"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.060151406Z",
+  "timestamp": "2026-08-24T19:43:47.649236680Z",
   "model": "glm-5.3"
 }

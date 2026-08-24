@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 8,
-  "translation": "At iuunday ni Aharon ang ⟨את⟩ mga Levita bilang handog na inuunday sa harapan ni Yahweh, ⟨את⟩ ⟨מאת⟩ mula sa mga anak ni Yisrael; at magiging sa kanila ang maglingkod sa ⟨את⟩ paglilingkod kay Yahweh.",
+  "translation": "At iuugoy ni Aharon ang ⟨את⟩ mga Levita bilang pag-uugoy sa harapan ni Yahweh, mula sa ⟨את⟩ mga anak ni Yisrael; at magiging ⟨sila⟩ para sa paglilingkod sa ⟨את⟩ paglilingkod ni Yahweh.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "at iuunday ni"
+      "gloss": "At iuugoy"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "si Aharon"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "handog na inuunday"
+      "gloss": "bilang pag-uugoy (handog na iniiugoy)"
     },
     {
       "surface": "לפני",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ⟨מאת⟩ mula sa"
+      "gloss": "⟨את⟩ mula sa"
     },
     {
       "surface": "בני",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "ang maglingkod sa"
+      "gloss": "para sa paglilingkod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "paglilingkod"
+      "marks": "paglilingkod ni Yahweh"
     },
     {
       "surface": "עבדת",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.158946306Z",
+  "timestamp": "2026-08-24T19:39:15.316155827Z",
   "model": "glm-5.3"
 }

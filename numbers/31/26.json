@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 31,
-  "translation": "Itaas mo ang ⟨את⟩ ulo ng nasamsam na bihag, sa tao at sa hayop — ikaw, at si Elazar na kohen, at ang mga pangulo ng mga ama ng ⟨the⟩ kongregasyon;",
+  "translation": "Itaas mo ang ⟨את⟩ ulo ng nasamsam na bihag, sa tao at sa hayop — ikaw, at si Elazar na kohen, at ang mga ulo ng mga ama ng kongregasyon.",
   "tokens": [
     {
       "surface": "שא",
-      "gloss": "itaas mo ang"
+      "gloss": "Itaas mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ulo ng nasamsam"
+      "marks": "ulo ng nasamsam na bihag"
     },
     {
       "surface": "ראש",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "מלקוח",
-      "gloss": "ng nasamsam na bihag"
+      "gloss": "ng nasamsam"
     },
     {
       "surface": "השבי",
-      "gloss": "ang bihag"
+      "gloss": "na bihag"
     },
     {
       "surface": "באדם",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "וראשי",
-      "gloss": "at ang mga pangulo ng"
+      "gloss": "at ang mga ulo"
     },
     {
       "surface": "אבות",
-      "gloss": "mga ama"
+      "gloss": "ng mga ama"
     },
     {
       "surface": "העדה",
       "gloss": "ng kongregasyon"
     }
   ],
-  "timestamp": "2026-08-19T15:17:24.053412190Z",
+  "timestamp": "2026-08-24T19:40:22.067541400Z",
   "model": "glm-5.3"
 }

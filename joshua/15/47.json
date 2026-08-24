@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tl",
   "chapter": 15,
-  "translation": "Ang Ashdod na kasama ang kaniyang mga bayan at ang kaniyang mga nayon; ang Azzah na kasama ang kaniyang mga bayan at ang kaniyang mga nayon; hanggang sa batis ng Mitzrayim, at ang ⟨הים⟩ Dagat ang ⟨הוא⟩ hangganan at ⟨גבול⟩ hangganan ng mga ito;",
+  "translation": "Ashdod, ang mga baryo nito at ang mga nayon nito; Azzah, ang mga baryo nito at ang mga nayon nito; hanggang sa daluyan ng Mitsrayim; at ang dagat ang ⟨ay⟩ hangganan, at ⟨ito ang⟩ hangganan ng inilaan:",
   "tokens": [
     {
       "surface": "אשדוד",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בנותיה",
-      "gloss": "ang kaniyang mga bayan"
+      "gloss": "ang mga baryo nito"
     },
     {
       "surface": "וחצריה",
-      "gloss": "at ang kaniyang mga nayon"
+      "gloss": "at ang mga nayon nito"
     },
     {
       "surface": "עזה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בנותיה",
-      "gloss": "ang kaniyang mga bayan"
+      "gloss": "ang mga baryo nito"
     },
     {
       "surface": "וחצריה",
-      "gloss": "at ang kaniyang mga nayon"
+      "gloss": "at ang mga nayon nito"
     },
     {
       "surface": "עד",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "נחל",
-      "gloss": "batis"
+      "gloss": "daluyan"
     },
     {
       "surface": "מצרים",
-      "gloss": "ng Mitzrayim"
+      "gloss": "ng Mitsrayim"
     },
     {
       "surface": "והים",
-      "gloss": "at ang Dagat"
+      "gloss": "at ang dagat"
     },
     {
-      "surface": "והגבול",
+      "surface": "הגבול",
       "gloss": "ang hangganan"
     },
     {
       "surface": "וגבול",
-      "gloss": "at ang hangganan ng mga ito"
+      "gloss": "at ⟨ito ang⟩ hangganan"
     }
   ],
-  "timestamp": "2026-08-19T15:42:42.975069416Z",
+  "timestamp": "2026-08-24T19:41:14.675403906Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 25,
-  "translation": "At gagawin ninyo ang ⟨את⟩ aking mga batas, at ang ⟨את⟩ aking mga hatol ay ingatan ninyo, at gagawin ninyo ang ⟨את⟩ mga ito, at tatahan ninyo sa ⟨the⟩ lupa nang ligtas.",
+  "translation": "At gagawin ninyo ang ⟨את⟩ aking mga batas, at ang ⟨את⟩ aking mga hatol ay ingatan ninyo, at isasagawa ninyo ang ⟨את⟩ mga ito, at tatahan kayo sa ⟨the⟩ lupa nang may-katiwasayan.",
   "tokens": [
     {
       "surface": "ועשיתם",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "aking mga hatol"
     },
     {
@@ -35,15 +35,16 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "at gagawin ninyo"
+      "gloss": "at isasagawa ninyo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ang mga ito"
+      "gloss": "⟨את⟩",
+      "marks": "mga ito"
     },
     {
       "surface": "וישבתם",
-      "gloss": "at tatahan ninyo"
+      "gloss": "at tatahan kayo"
     },
     {
       "surface": "על",
@@ -55,9 +56,9 @@
     },
     {
       "surface": "לבטח",
-      "gloss": "nang ligtas"
+      "gloss": "nang may-katiwasayan"
     }
   ],
-  "timestamp": "2026-08-19T14:58:23.905473839Z",
+  "timestamp": "2026-08-24T19:39:32.426301492Z",
   "model": "glm-5.3"
 }

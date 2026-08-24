@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 2,
-  "translation": "At makikita mo ang kalaban sa ⟨the⟩ tirahan ⟨ko⟩, sa lahat ng kabutihang ipagkakaloob sa ⟨את⟩ Israel; at walang ⟨maging⟩ matanda sa iyong bahay sa lahat ng mga araw.",
+  "translation": "At makikita mo ang ⟨את⟩ kalaban sa tahanan, sa lahat ng kabutihang gagawin sa ⟨את⟩ Israel; at walang matatanda sa iyong bahay sa lahat ng mga araw.",
   "tokens": [
     {
       "surface": "והבטת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מעון",
-      "gloss": "tirahan"
+      "gloss": "sa tahanan"
     },
     {
       "surface": "בכל",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ייטיב",
-      "gloss": "ipagkakaloob ng kabutihan"
+      "gloss": "gagawing mabuti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "sa Israel"
     },
     {
       "surface": "ישראל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "at walang"
+      "gloss": "at hindi"
     },
     {
       "surface": "יהיה",
-      "gloss": "maging"
+      "gloss": "magiging mayroon"
     },
     {
       "surface": "זקן",
@@ -65,6 +65,6 @@
       "gloss": "mga araw"
     }
   ],
-  "timestamp": "2026-08-19T19:43:29.762152742Z",
+  "timestamp": "2026-08-24T19:40:53.667738756Z",
   "model": "glm-5.3"
 }

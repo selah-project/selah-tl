@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "tl",
   "chapter": 48,
-  "translation": "Naligaya si Moab mula sa kanyang kabataan, at nagpahinga siya sa ⟨the⟩ kanyang mga labi ng alak, at hindi siya ibinuhos mula sa sisidlan papunta sa sisidlan, at sa pagkatapon ay hindi siya nagsialis; kaya't nanatili ang kanyang lasa sa kanya, at ang kanyang amoy ay hindi nabago.",
+  "translation": "Nagpahinga si Moab mula sa kanyang pagkabata, at nanahimik siya sa ⟨ibabaw ng⟩ kanyang mga labi, at hindi inibuhos mula sa kasangkapan patungo sa kasangkapan, at sa pagkatapon ay hindi siya nagsiyaon; kaya't nanatili ang kanyang lasa sa kanya, at ang kanyang amoy ay hindi nabago.",
   "tokens": [
     {
       "surface": "שאנן",
-      "gloss": "naligaya"
+      "gloss": "nagpahinga"
     },
     {
       "surface": "מואב",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מנעוריו",
-      "gloss": "mula sa kanyang kabataan"
+      "gloss": "mula sa kanyang pagkabata"
     },
     {
       "surface": "ושקט",
-      "gloss": "at nagpahinga"
+      "gloss": "at nanahimik"
     },
     {
       "surface": "הוא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "sa ⟨ibabaw ng⟩"
     },
     {
       "surface": "שמריו",
-      "gloss": "kanyang mga labi ng alak"
+      "gloss": "kanyang mga labi"
     },
     {
       "surface": "ולא",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "הורק",
-      "gloss": "ibinuhos"
+      "gloss": "inibuhos"
     },
     {
       "surface": "מכלי",
-      "gloss": "mula sa sisidlan"
+      "gloss": "mula sa kasangkapan"
     },
     {
       "surface": "אל",
-      "gloss": "papunta sa"
+      "gloss": "patungo sa"
     },
     {
       "surface": "כלי",
-      "gloss": "sisidlan"
+      "gloss": "kasangkapan"
     },
     {
       "surface": "ובגולה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "nagsialis"
+      "gloss": "nagsiyaon"
     },
     {
       "surface": "על",
@@ -80,7 +80,7 @@
       "gloss": "nanatili"
     },
     {
-      "surface": "घעमו",
+      "surface": "טעמו",
       "gloss": "ang kanyang lasa"
     },
     {
@@ -100,6 +100,6 @@
       "gloss": "nabago"
     }
   ],
-  "timestamp": "2026-08-19T19:49:02.739318358Z",
+  "timestamp": "2026-08-24T19:43:43.313768113Z",
   "model": "glm-5.3"
 }

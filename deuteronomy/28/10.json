@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 28,
-  "translation": "At makikita ng lahat ng mga bayan ng ⟨the⟩ lupa na ang pangalan ni Yahweh ay tinatawag sa ibabaw mo, at mangangamba sila sa iyo.",
+  "translation": "At makikita ng lahat ng mga bayan ng ⟨ang⟩ lupa na ang pangalan ni Yahweh ay ⟨na⟩tinawag sa ⟨ibabaw ng⟩ iyo, at mangangamba sila sa iyo.",
   "tokens": [
     {
       "surface": "וראו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "ng lahat ng"
     },
     {
       "surface": "עמי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "lupa"
+      "gloss": "ng lupa"
     },
     {
       "surface": "כי",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "שם",
-      "gloss": "pangalan"
+      "gloss": "ang pangalan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ni Yahweh"
     },
     {
       "surface": "נקרא",
-      "gloss": "tinatawag"
+      "gloss": "ay tinawag"
     },
     {
       "surface": "עליך",
-      "gloss": "sa ibabaw mo"
+      "gloss": "sa iyo"
     },
     {
       "surface": "ויראו",
@@ -52,6 +52,6 @@
       "gloss": "sa iyo"
     }
   ],
-  "timestamp": "2026-08-19T15:32:08.676674836Z",
+  "timestamp": "2026-08-24T19:40:06.997556799Z",
   "model": "glm-5.3"
 }

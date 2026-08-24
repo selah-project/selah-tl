@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 25,
-  "translation": "At kung hindi ito tubusin hanggang sa mapuno para sa kanya ang isang buong taon, ay mananatili ang bahay na nasa bayang may ⟨the⟩ pader sa pinakamamay-ari nito ⟨את⟩ at sa mga lahi nito; hindi ito lalabas sa Yovel.",
+  "translation": "At kung hindi tubusin hanggang sa mapuno sa kanya ang isang taong ganap, ang bahay na nasa lungsod na may pader ay ⟨ay⟩ mananatili magpakailanman sa bumili ⟨את⟩ nito sa kanyang mga salinlahi; hindi ito lalabas sa Yobel.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "At kung"
+      "gloss": "at kung"
     },
     {
       "surface": "לא",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "עד",
-      "gloss": "hanggang"
+      "gloss": "hanggang sa"
     },
     {
       "surface": "מלאת",
-      "gloss": "sa mapuno"
+      "gloss": "mapuno"
     },
     {
       "surface": "לו",
-      "gloss": "para sa kanya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "שנה",
-      "gloss": "isang taon"
+      "gloss": "taon"
     },
     {
       "surface": "תמימה",
-      "gloss": "buong"
+      "gloss": "ganap"
     },
     {
       "surface": "וקם",
-      "gloss": "mananatili"
+      "gloss": "at mananatili (itatatag)"
     },
     {
       "surface": "הבית",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "nasa bayan"
+      "gloss": "nasa lungsod"
     },
     {
       "surface": "אשר",
@@ -61,28 +61,28 @@
     },
     {
       "surface": "לא",
-      "gloss": "⟨the⟩ pader"
+      "gloss": "may (lit. hindi-kulang)"
     },
     {
       "surface": "חמה",
-      "gloss": "may pader"
+      "gloss": "pader"
     },
     {
       "surface": "לצמיתת",
-      "gloss": "sa pinakamamay-ari"
+      "gloss": "magpakailanman"
     },
     {
       "surface": "לקנה",
-      "gloss": "nito"
+      "gloss": "sa bumili"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sa mga lahi nito"
+      "marks": "sa kanyang mga salinlahi"
     },
     {
       "surface": "לדרתיו",
-      "gloss": "sa mga lahi nito"
+      "gloss": "sa kanyang mga salinlahi"
     },
     {
       "surface": "לא",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "ביבל",
-      "gloss": "sa Yovel"
+      "gloss": "sa Yobel"
     }
   ],
-  "timestamp": "2026-08-19T14:58:23.878920568Z",
+  "timestamp": "2026-08-24T19:39:22.971844544Z",
   "model": "glm-5.3"
 }

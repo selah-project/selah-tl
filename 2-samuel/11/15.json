@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At sumulat siya sa ⟨the⟩ sulat, na nagsasabi: Ilagay ninyo si ⟨את⟩ Uriyah sa harap ng ⟨the⟩ matinding pakikipaglaban, at umurong kayo mula sa likod niya, upang siya'y matalo at mamatay.",
+  "translation": "At sumulat siya sa liham, na nagsasabi: Ilagay ninyo si ⟨את⟩ Uriyah sa harapan ng matinding pakikipaglaban, at umurong kayo mula sa kanyang likuran, upang siya ay matalo at mamatay.",
   "tokens": [
     {
       "surface": "ויכתב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "sa ⟨the⟩ sulat"
+      "gloss": "sa liham"
     },
     {
       "surface": "לאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הבו",
-      "gloss": "Ilagay ninyo"
+      "gloss": "ilagay ninyo"
     },
     {
       "surface": "את",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מול",
-      "gloss": "sa harap ng"
+      "gloss": "harapan ng"
     },
     {
       "surface": "פני",
-      "gloss": "harap"
+      "gloss": "mukha ng"
     },
     {
       "surface": "המלחמה",
-      "gloss": "⟨the⟩ pakikipaglaban"
+      "gloss": "pakikipaglaban"
     },
     {
       "surface": "החזקה",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "מאחריו",
-      "gloss": "mula sa likod niya"
+      "gloss": "mula sa kanyang likuran"
     },
     {
       "surface": "ונכה",
-      "gloss": "at matalo"
+      "gloss": "at siya ay matalo"
     },
     {
       "surface": "ומת",
       "gloss": "at mamatay"
     }
   ],
-  "timestamp": "2026-08-19T20:06:37.311757104Z",
+  "timestamp": "2026-08-24T19:41:27.618488909Z",
   "model": "glm-5.3"
 }

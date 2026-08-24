@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 40,
-  "translation": "Manghina sila dahil sa <the> kahihiyan nila — sa saknit ng kanilang kahihiyan — ang mga nagsasabi sa akin: 'Heto na! Heto na!'",
+  "translation": "Magsilungan sila ⟨na⟩ dahil sa kanilang kahihiyan, nagsasabi sa akin, Heah, heah.",
   "tokens": [
     {
       "surface": "ישמו",
-      "gloss": "manghina sila"
+      "gloss": "magsilungan\/magsidurog sila"
     },
     {
       "surface": "על",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "עקב",
-      "gloss": "saknit"
+      "gloss": "bilang ganti (sa takong)"
     },
     {
       "surface": "בשתם",
-      "gloss": "ng kanilang kahihiyan"
+      "gloss": "kanilang kahihiyan"
     },
     {
       "surface": "האמרים",
-      "gloss": "ang mga nagsasabi"
+      "gloss": "nagsasabi"
     },
     {
       "surface": "לי",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "האח",
-      "gloss": "'Heto na!'"
+      "gloss": "Heah!"
     },
     {
       "surface": "האח",
-      "gloss": "'Heto na!'"
+      "gloss": "Heah!"
     }
   ],
-  "timestamp": "2026-08-19T18:18:11.266786891Z",
+  "timestamp": "2026-08-24T19:44:48.028787045Z",
   "model": "glm-5.3"
 }

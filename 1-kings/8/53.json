@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 8,
-  "translation": "Sapagkat ikaw ang naghiwalay sa kanila para sa iyo bilang pamana mula sa lahat ng mga bayan ng ⟨the⟩ lupa, kung paanong nagsalita ka sa pamamagitan ng kamay ni Moshe na alila mo, nang ilabas mo ang ⟨את⟩ mga ama natin mula sa Mitsrayim, Adonai Yahweh.",
+  "translation": "Sapagkat ikaw ang naghiwalay sa kanila para sa iyo bilang pamana, mula sa lahat ng mga bayan ng ⟨ang⟩ lupa, kung paanong nagsalita ka sa pamamagitan ng kamay ni Moshe na iyong lingkod, sa paglabas mo sa ⟨את⟩ ating mga ama mula sa Mitsrayim, o Adonai Yahweh.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הבדלתם",
-      "gloss": "naghiwalay"
+      "gloss": "naghiwalay sa kanila"
     },
     {
       "surface": "לך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ lupa"
+      "gloss": "⟨ang⟩ lupa"
     },
     {
       "surface": "כאשר",
@@ -53,24 +53,24 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "ni Moshe"
     },
     {
       "surface": "עבדך",
-      "gloss": "alila mo"
+      "gloss": "na iyong lingkod"
     },
     {
       "surface": "בהוציאך",
-      "gloss": "nang ilabas mo"
+      "gloss": "sa paglabas mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga ama natin"
+      "marks": "ating mga ama"
     },
     {
       "surface": "אבתינו",
-      "gloss": "mga ama natin"
+      "gloss": "ating mga ama"
     },
     {
       "surface": "ממצרים",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "o Adonai"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T16:28:47.391384014Z",
+  "timestamp": "2026-08-24T19:41:56.115995600Z",
   "model": "glm-5.3"
 }

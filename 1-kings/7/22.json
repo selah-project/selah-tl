@@ -5,10 +5,10 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 7,
-  "translation": "At sa ibabaw ng ⟨the⟩ mga haligi ay ⟨may⟩ gawa na anyo ng ⟨lisensyo⟩ liryong; kaya natapos ang paggawa ng mga haligi.",
+  "translation": "At sa ibabaw ng mga haligi ay ⟨is⟩ gawa na hugis-liryo; sa gayon natapos ang ⟨the⟩ paggawa ng mga haligi.",
   "tokens": [
     {
-      "surface": "ו על",
+      "surface": "ועל",
       "gloss": "at sa ibabaw ng"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שושן",
-      "gloss": "liryong"
+      "gloss": "hugis-liryo"
     },
     {
       "surface": "ותתם",
@@ -40,6 +40,6 @@
       "gloss": "ng mga haligi"
     }
   ],
-  "timestamp": "2026-08-19T16:27:51.247042313Z",
+  "timestamp": "2026-08-24T19:42:24.048687253Z",
   "model": "glm-5.3"
 }

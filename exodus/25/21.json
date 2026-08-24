@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 25,
-  "translation": "At ilalagay mo ang ⟨את⟩ takip ng kasilungan sa ibabaw ng ⟨the⟩ arka, mula sa itaas; at sa ⟨the⟩ arka ilalagay mo ang ⟨את⟩ patotoo na ibibigay Ko sa iyo.",
+  "translation": "At ilalagay mo ang ⟨את⟩ kapporet sa ibabaw ng kaban, paitaas; at sa kaban ilalagay mo ang ⟨את⟩ patotoo na ibibigay Ko sa iyo.",
   "tokens": [
     {
       "surface": "ונתת",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "takip ng kasilungan"
+      "marks": "kapporet"
     },
     {
       "surface": "הכפרת",
-      "gloss": "takip ng kasilungan"
+      "gloss": "kapporet"
     },
     {
       "surface": "על",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הארן",
-      "gloss": "arka"
+      "gloss": "kaban"
     },
     {
       "surface": "מלמעלה",
-      "gloss": "mula sa itaas"
+      "gloss": "paitaas"
     },
     {
       "surface": "ואל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארן",
-      "gloss": "arka"
+      "gloss": "kaban"
     },
     {
       "surface": "תתן",
@@ -66,6 +66,6 @@
       "gloss": "sa iyo"
     }
   ],
-  "timestamp": "2026-08-19T14:36:30.476470270Z",
+  "timestamp": "2026-08-24T19:38:55.390236929Z",
   "model": "glm-5.3"
 }

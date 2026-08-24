@@ -5,15 +5,16 @@
   "book": "amos",
   "lang": "tl",
   "chapter": 3,
-  "translation": "Kayo lamang ang nakilala ko sa lahat ng angkan ng ⟨the⟩ lupa; kaya't dadalawin ko sa inyo ang ⟨את⟩ lahat ng inyong mga kasalanan.",
+  "translation": "Tanging kayo ⟨את⟩ lamang ang nakilala ko sa lahat ng mga angkan ng ⟨ang⟩ lupa; kaya hahatulan ko sa inyo ang ⟨את⟩ lahat ng inyong mga kasalanan.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "lamang"
+      "gloss": "tanging"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kayo"
+      "gloss": "⟨את⟩ kayo",
+      "marks": "kayo — kilala ko"
     },
     {
       "surface": "ידעתי",
@@ -25,23 +26,23 @@
     },
     {
       "surface": "משפחות",
-      "gloss": "angkan"
+      "gloss": "mga angkan"
     },
     {
       "surface": "האדמה",
-      "gloss": "lupa"
+      "gloss": "ng lupa"
     },
     {
       "surface": "על",
-      "gloss": "kaya't"
+      "gloss": "samakatuwid (alinsunod dito)"
     },
     {
       "surface": "כן",
-      "gloss": "dahil dito"
+      "gloss": "kaya"
     },
     {
       "surface": "אפקד",
-      "gloss": "dadalawin ko"
+      "gloss": "hahatulan\/dadalawin ko"
     },
     {
       "surface": "עליכם",
@@ -50,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lahat ng inyong mga kasalanan"
+      "marks": "ang lahat ng inyong mga kasalanan"
     },
     {
       "surface": "כל",
@@ -58,9 +59,9 @@
     },
     {
       "surface": "עונתיכם",
-      "gloss": "ng inyong mga kasalanan"
+      "gloss": "inyong mga kasalanan"
     }
   ],
-  "timestamp": "2026-08-19T18:00:22.136599348Z",
+  "timestamp": "2026-08-24T19:43:43.877878901Z",
   "model": "glm-5.3"
 }

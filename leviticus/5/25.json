@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 5,
-  "translation": "At ang ⟨את⟩ kanyang asham ay dadalhin niya kay Yahweh: isang tandang tupa na walang kapintasan mula sa kawan, ayon sa iyong pagtatakda-halaga, bilang handog na pamparasahan, sa ⟨the⟩ saserdote.",
+  "translation": "At ang ⟨את⟩ kanyang asham ay kanyang idadala kay Yahweh — isang tandang tupa na walang kapintasan mula sa kawan, ayon sa iyong pagtaya, bilang handog para sa kasalanan, sa ⟨iyo⟩, sa harap ng kohen.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ at ⟨ang⟩",
       "marks": "kanyang asham"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "יביא",
-      "gloss": "dadalhin niya"
+      "gloss": "kanyang idadala"
     },
     {
       "surface": "ליהוה",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "בערכך",
-      "gloss": "ayon sa iyong pagtatakda-halaga"
+      "gloss": "ayon sa iyong pagtaya"
     },
     {
       "surface": "לאשם",
-      "gloss": "bilang handog na pamparasahan"
+      "gloss": "bilang handog para sa kasalanan"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "sa harap ng"
     },
     {
       "surface": "הכהן",
-      "gloss": "saserdote"
+      "gloss": "kohen"
     }
   ],
-  "timestamp": "2026-08-19T14:46:29.975386498Z",
+  "timestamp": "2026-08-24T19:39:07.200743261Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 32,
-  "translation": "At lumakas siya, at itinayo ang ⟨את⟩ buong pader na sirang-sira, at itinaas paitaas sa ⟨the⟩ mga tore, at sa labas ng pader, isa pang ⟨pader⟩; at pinatibay ang ⟨את⟩ Millo, sa lungsod ni David, at gumawa siya ng mga sandata nang marami, at mga kalasag.",
+  "translation": "At nagpatibay siya, at itinayo ang ⟨את⟩ buong pader na wasak, at pinaakyat sa mga tore, at sa labas ng pader ay ⟨may⟩ isa pang pader, at pinatibay ang ⟨את⟩ Milo ng lungsod ni David, at gumawa siya ng mga sandata sa kasaganaan, at mga kalasag.",
   "tokens": [
     {
       "surface": "ויתחזק",
-      "gloss": "at lumakas siya"
+      "gloss": "nagpatibay siya"
     },
     {
       "surface": "ויבן",
-      "gloss": "at itinayo"
+      "gloss": "itinayo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buong pader na sirang-sira"
+      "marks": "buong pader na wasak"
     },
     {
       "surface": "כל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "הפרוצה",
-      "gloss": "na sirang-sira"
+      "gloss": "nasira \/ wasak"
     },
     {
       "surface": "ויעל",
-      "gloss": "at itinaas paitaas"
+      "gloss": "pinaakyat"
     },
     {
       "surface": "על",
@@ -54,24 +54,24 @@
     },
     {
       "surface": "אחרת",
-      "gloss": "isa pang ⟨pader⟩"
+      "gloss": "isa pang"
     },
     {
       "surface": "ויחזק",
-      "gloss": "at pinatibay"
+      "gloss": "pinatibay"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Millo"
+      "marks": "Milo ng lungsod ni David"
     },
     {
       "surface": "המלוא",
-      "gloss": "Millo"
+      "gloss": "Milo"
     },
     {
       "surface": "עיר",
-      "gloss": "sa lungsod"
+      "gloss": "lungsod"
     },
     {
       "surface": "דויד",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "at gumawa siya"
+      "gloss": "gumawa siya"
     },
     {
       "surface": "שלח",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "לרב",
-      "gloss": "nang marami"
+      "gloss": "sa kasaganaan"
     },
     {
       "surface": "ומגנים",
       "gloss": "at mga kalasag"
     }
   ],
-  "timestamp": "2026-08-19T19:36:28.509483822Z",
+  "timestamp": "2026-08-24T19:47:19.954181014Z",
   "model": "glm-5.3"
 }

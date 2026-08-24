@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 7,
-  "translation": "At ang ⟨את⟩ mga ilawan-lampara, lima sa kanan at lima sa kaliwa, sa harap ng ⟨the⟩ debir, ginto na pinong-pino; at ang mga bulaklak, at ang mga ilawan, at ang mga pang-ipit ng gintong || apat na [[tignan: saway sa pagdaragdag]] —",
+  "translation": "At ⟨את⟩ mga ilawan-lagayan — lima sa kanan at lima sa kaliwa, sa harap ng ⟨the⟩ Debir — ginto ng pinuro; at ang mga bulaklak, at ang mga ilawan, at ang mga pang-ipit, ginto.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mga ilawan-lampara"
+      "marks": "mga ilawan-lagayan"
     },
     {
       "surface": "המנרות",
-      "gloss": "ang mga ilawan-lampara"
+      "gloss": "mga ilawan-lagayan"
     },
     {
       "surface": "חמש",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "⟨the⟩ debir"
+      "gloss": "⟨the⟩ Debir"
     },
     {
       "surface": "זהב",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "סגור",
-      "gloss": "pinong-pino"
+      "gloss": "ng pinuro"
     },
     {
       "surface": "והפרח",
@@ -65,6 +65,6 @@
       "gloss": "ginto"
     }
   ],
-  "timestamp": "2026-08-19T16:27:53.468564683Z",
+  "timestamp": "2026-08-24T19:42:25.071212666Z",
   "model": "glm-5.3"
 }

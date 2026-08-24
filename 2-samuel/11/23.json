@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At sinabi ng sugo kay David: Tunay na lumakas laban sa amin ang mga tao, at lumabas sa amin sa ⟨the⟩ parang, at naging mataas kami laban sa kanila hanggang sa pasukan ng ⟨the⟩ tarangkahan.",
+  "translation": "At sinabi ng mensahero kay David: Tunay na lumakas laban sa amin ang mga lalaki at lumabas patungo sa amin sa bukid, at naging matatag kami laban sa kanila hanggang sa pasukan ng tarangkahan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sinabi"
+      "gloss": "at sinabi"
     },
     {
       "surface": "המלאך",
-      "gloss": "sugo"
+      "gloss": "ang mensahero"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "Tunay na"
+      "gloss": "tunay na"
     },
     {
       "surface": "גברו",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "mga tao"
+      "gloss": "ang mga lalaki"
     },
     {
       "surface": "ויצאו",
-      "gloss": "lumabas"
+      "gloss": "at lumabas"
     },
     {
       "surface": "אלינו",
-      "gloss": "sa amin"
+      "gloss": "patungo sa amin"
     },
     {
       "surface": "השדה",
-      "gloss": "parang"
+      "gloss": "sa bukid"
     },
     {
-      "surface": "ויהיינו",
-      "gloss": "naging mataas kami"
+      "surface": "ויהיה",
+      "gloss": "at naging"
     },
     {
       "surface": "עליהם",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "השער",
-      "gloss": "tarangkahan"
+      "gloss": "ng tarangkahan"
     }
   ],
-  "timestamp": "2026-08-19T16:16:03.703278077Z",
+  "timestamp": "2026-08-24T19:41:26.483471001Z",
   "model": "glm-5.3"
 }

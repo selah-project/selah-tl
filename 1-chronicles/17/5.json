@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 17,
-  "translation": "Sapagkat hindi ako tumahan sa ⟨the⟩ bahay mula sa araw na iniahon ko ang ⟨את⟩ Yisra'el hanggang sa araw na ito, at ako'y naging mula sa tolda patungo sa tolda at mula sa tirahan.",
+  "translation": "Sapagkat hindi ako nakatira sa ⟨isang⟩ bahay mula sa araw na inangat ko ang ⟨את⟩ Yisrael hanggang sa araw na ito, at ako'y naging maglipat-lipat mula sa tolda patungo sa tolda at mula sa tabernakulo ⟨patungo sa tabernakulo⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישבתי",
-      "gloss": "tumahan ako"
+      "gloss": "nakatira ako"
     },
     {
       "surface": "בבית",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "iniahon ko"
+      "gloss": "inangat ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
-      "surface": "י שראל",
-      "gloss": "Yisra'el"
+      "surface": "ישראל",
+      "gloss": "Yisrael"
     },
     {
       "surface": "עד",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "וממשכן",
-      "gloss": "at mula sa tirahan"
+      "gloss": "at mula sa tabernakulo"
     }
   ],
-  "timestamp": "2026-08-19T19:56:02.769045485Z",
+  "timestamp": "2026-08-24T19:46:38.334898903Z",
   "model": "glm-5.3"
 }

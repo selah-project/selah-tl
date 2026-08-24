@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 22,
-  "translation": "At nagsugo siya ng mga mensahero kay Bilam na anak ni Beor, sa Ptorah na nasa ⟨tabi ng⟩ ilog, lupain ng mga anak ng kanyang bayan, upang tawagin siya, na nagsasabi: Narito, isang bayan ang lumabas mula sa Mitsrayim; narito, tinakpan nito ang ⟨את⟩ mata ng ⟨ang⟩ lupa, at ito'y nakapanahan <<na>> nakatayo sa tapat ko.",
+  "translation": "At nagsugo siya ng mga sugo kay Bilam na anak ni Beor, sa Pethora na nasa tabi ng ilog, sa lupain ng mga anak ng kanyang bayan, na tumawag sa kanya, na nagsasabi: Narito, isang bayan ang lumabas mula sa Mitsrayim; narito, tinakpan nito ang ⟨את⟩ mata ng lupa, at ito ay nakatira kalaban ko.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "at nagsugo"
+      "gloss": "At nagsugo"
     },
     {
       "surface": "מלאכים",
-      "gloss": "mga mensahero"
+      "gloss": "mga sugo"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פתורה",
-      "gloss": "sa Ptorah"
+      "gloss": "sa Pethora"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sa tabi ng"
+      "gloss": "nasa tabi ng"
     },
     {
       "surface": "הנהר",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "mga anak ng"
+      "gloss": "mga anak"
     },
     {
       "surface": "עמו",
-      "gloss": "kanyang bayan"
+      "gloss": "ng kanyang bayan"
     },
     {
       "surface": "לקרא",
-      "gloss": "upang tawagin"
+      "gloss": "na tumawag"
     },
     {
       "surface": "לו",
-      "gloss": "siya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "לאמר",
@@ -113,14 +113,14 @@
       "gloss": "at ito"
     },
     {
-      "surface": "ישב",
-      "gloss": "nakatayo"
+      "surface": "יושב",
+      "gloss": "nakatira"
     },
     {
       "surface": "ממלי",
-      "gloss": "sa tapat ko"
+      "gloss": "kalaban ko"
     }
   ],
-  "timestamp": "2026-08-19T15:13:00.682491261Z",
+  "timestamp": "2026-08-24T19:40:10.747147538Z",
   "model": "glm-5.3"
 }

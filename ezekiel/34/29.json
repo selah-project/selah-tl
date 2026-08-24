@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tl",
   "chapter": 34,
-  "translation": "At magtatatag Ako para sa kanila ng isang tanim na tanyag, at hindi na magiging mga nalipon-sa-gutom sa lupain, at hindi na nila babatahin ang kahihiyan ng ⟨the⟩ mga bansa.",
+  "translation": "At magtatatag Ako para sa kanila ng ⟨את⟩ tanim na pinangalanan, at hindi na magkakaroon pa ng mga tinipon ng gutom sa lupain, at hindi na dadalhin pa nila ang kahihiyan ng ⟨את⟩ mga bansa.",
   "tokens": [
     {
       "surface": "והקמתי",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "לשם",
-      "gloss": "para sa pangalan"
+      "gloss": "na pinangalanan"
     },
     {
       "surface": "ולא",
-      "gloss": "at hindi"
+      "gloss": "at hindi na"
     },
     {
       "surface": "יהיו",
-      "gloss": "magiging"
+      "gloss": "magkakaroon"
     },
     {
       "surface": "עוד",
-      "gloss": "na (mula ngayon)"
+      "gloss": "pa"
     },
     {
       "surface": "אספי",
-      "gloss": "mga nalipon"
+      "gloss": "mga tinipon"
     },
     {
       "surface": "רעב",
@@ -49,25 +49,26 @@
     },
     {
       "surface": "ולא",
-      "gloss": "at hindi"
+      "gloss": "at hindi na"
     },
     {
       "surface": "ישאו",
-      "gloss": "babatahin"
+      "gloss": "dadalhin nila"
     },
     {
       "surface": "עוד",
-      "gloss": "na"
+      "gloss": "pa"
     },
     {
       "surface": "כלמת",
-      "gloss": "kahihiyan"
+      "gloss": "ang kahihiyan"
     },
     {
       "surface": "הגוים",
-      "gloss": "ng mga bansa"
+      "gloss": "ng mga bansa",
+      "marks": "mga bansa"
     }
   ],
-  "timestamp": "2026-08-19T17:50:41.109758925Z",
+  "timestamp": "2026-08-24T19:43:39.472641260Z",
   "model": "glm-5.3"
 }

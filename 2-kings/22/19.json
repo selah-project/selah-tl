@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 22,
-  "translation": "Dahil malambot ang iyong puso at nagpakababa ka sa harapan ni Yahweh nang marinig mo ang aking sinalita laban sa ⟨ang⟩ lugar na ito at sa mga naninirahan dito, na maging pagkawasak at sumpa, at pumunit ka ⟨את ng iyong mga damit⟩ at umiyak ka sa harapan Ko — Ako rin ay nakarinig, anila ni Yahweh.",
+  "translation": "dahil malambot ang iyong puso at nagpakababa ka sa harap ni Yahweh nang marinig mo ang aking sinasalita laban sa lugar na ito at sa mga naninirahan dito, na maging kalagutan at sumpa, at pinunit mo ang iyong mga damit at umiyak ka sa harap Ko — at Ako rin ay nakinig, gayon ang sabi ni Yahweh —",
   "tokens": [
     {
       "surface": "יען",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "sa harapan"
+      "gloss": "sa harap"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "aking sinalita"
+      "gloss": "sinasalita Ko"
     },
     {
       "surface": "על",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨ang⟩ lugar"
+      "gloss": "ang lugar"
     },
     {
       "surface": "הזה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "לשמה",
-      "gloss": "pagkawasak"
+      "gloss": "kalagutan"
     },
     {
       "surface": "ולקללה",
@@ -77,16 +77,16 @@
     },
     {
       "surface": "ותקרע",
-      "gloss": "at pumunit ka"
+      "gloss": "at pinunit mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ng iyong mga damit"
+      "marks": "ang iyong mga damit"
     },
     {
       "surface": "בגדיך",
-      "gloss": "iyong mga damit"
+      "gloss": "ang iyong mga damit"
     },
     {
       "surface": "ותבכה",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa harapan Ko"
+      "gloss": "sa harap"
     },
     {
       "surface": "וגם",
-      "gloss": "Ako rin"
+      "gloss": "at gayon din"
     },
     {
       "surface": "אנכי",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "nakarinig"
+      "gloss": "nakinig"
     },
     {
       "surface": "נאם",
-      "gloss": "anila"
+      "gloss": "gayon ang sabi"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T16:50:50.020078007Z",
+  "timestamp": "2026-08-24T19:42:40.837618171Z",
   "model": "glm-5.3"
 }

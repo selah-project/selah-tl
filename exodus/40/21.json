@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 40,
-  "translation": "At dinala niya ang ⟨את⟩ kaban sa ⟨the⟩ tabernakulo, at inilagay ang ⟨את⟩ tabing na pandekorado, at tinakpan niya ang kaban ng ⟨the⟩ patotoo, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "translation": "At dinala niya ang ⟨את⟩ arko papunta sa tabernakulo, at inilagay niya ang ⟨את⟩ kurtinang pantakip, at tinakpan niya ang arko ng ⟨the⟩ patotoo, kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaban"
+      "marks": "arko"
     },
     {
       "surface": "הארן",
-      "gloss": "kaban"
+      "gloss": "arko"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "papunta sa"
     },
     {
       "surface": "המשכן",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "וישם",
-      "gloss": "inilagay"
+      "gloss": "inilagay niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tabing"
+      "marks": "kurtinang pantakip"
     },
     {
       "surface": "פרכת",
-      "gloss": "tabing"
+      "gloss": "kurtina"
     },
     {
       "surface": "המסך",
-      "gloss": "pandekorado"
+      "gloss": "pantakip"
     },
     {
       "surface": "ויסך",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "kaban"
+      "gloss": "arko"
     },
     {
       "surface": "העדות",
@@ -83,6 +83,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T14:43:39.128985842Z",
+  "timestamp": "2026-08-24T19:38:40.518785335Z",
   "model": "glm-5.3"
 }

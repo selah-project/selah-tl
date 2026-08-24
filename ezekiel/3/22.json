@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "tl",
   "chapter": 3,
-  "translation": "At nandoon sa akin ang kamay ni Yahweh, at sinabi niya sa akin: Tumindig ka, lumabas ka patungo sa ⟨the⟩ kapatagan, at doon ako sasalitain kang ⟨את⟩ mulá.",
+  "translation": "At nandoon sa akin doon ang kamay ni Yahweh, at sinabi niya sa akin: Bumangon ka, lumabas ka sa parang, at doon ako magsasalita ⟨את⟩ sa iyo.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "at naging"
+      "gloss": "at nandoon"
     },
     {
       "surface": "עלי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "at sinabi niya"
+      "gloss": "at sinabi"
     },
     {
       "surface": "אלי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "קום",
-      "gloss": "tumindig ka"
+      "gloss": "bumangon ka"
     },
     {
       "surface": "צא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "patungo sa"
+      "gloss": "sa"
     },
     {
       "surface": "הבקעה",
-      "gloss": "⟨the⟩ kapatagan"
+      "gloss": "parang"
     },
     {
       "surface": "ושם",
@@ -57,13 +57,14 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "sasalitain ako"
+      "gloss": "magsasalita ako"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ kang mulá"
+      "gloss": "⟨את⟩",
+      "marks": "sa iyo"
     }
   ],
-  "timestamp": "2026-08-19T17:38:52.259563543Z",
+  "timestamp": "2026-08-24T19:44:05.437769229Z",
   "model": "glm-5.3"
 }

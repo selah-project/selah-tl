@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 18,
-  "translation": "At mangyayari, kapag umalis ako ⟨את⟩ mula sa iyo, at dadalhin ka ng Ruach ni Yahweh sa lugar na hindi ko nalalaman; at paroroon akong ipagsabi kay Achab, at hindi ka niya matatagpuan, at papatayin niya ako; datapwa't ang iyong alipin ay natatakot ⟨kay את⟩ Yahweh mula sa aking pagkabata.",
+  "translation": "At mangyayari, kapag umalis ako mula ⟨sa iyo⟩, dadalhin ka ng Ruach ni Yahweh sa ⟨isang⟩ lugar na hindi ko alam; at pagdating ko upang ipahayag kay Ajav, at hindi ka niya matagpuan, papatayin niya ako; ngunit ang iyong lingkod ay natatakot kay ⟨את⟩ Yahweh mula sa aking pagkabata.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "aalis"
+      "gloss": "umalis"
     },
     {
       "surface": "מאתך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ורוח",
-      "gloss": "at ruach"
+      "gloss": "at ang Ruach"
     },
     {
       "surface": "יהוה",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אדע",
-      "gloss": "ko nalalaman"
+      "gloss": "ko alam"
     },
     {
       "surface": "ובאתי",
-      "gloss": "at paroroon ako"
+      "gloss": "at pagdating ko"
     },
     {
       "surface": "להגיד",
-      "gloss": "upang ipagsabi"
+      "gloss": "upang ipahayag"
     },
     {
       "surface": "לאחאב",
-      "gloss": "kay Achab"
+      "gloss": "kay Ajav"
     },
     {
       "surface": "ולא",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "ימצאך",
-      "gloss": "ka niya matatagpuan"
+      "gloss": "ka niya matagpuan"
     },
     {
       "surface": "והרגני",
-      "gloss": "at papatayin niya ako"
+      "gloss": "papatayin niya ako"
     },
     {
       "surface": "ועבדך",
-      "gloss": "at ang iyong alipin"
+      "gloss": "ngunit ang iyong lingkod"
     },
     {
       "surface": "ירא",
-      "gloss": "natatakot"
+      "gloss": "ay natatakot"
     },
     {
       "surface": "את",
@@ -97,6 +97,6 @@
       "gloss": "mula sa aking pagkabata"
     }
   ],
-  "timestamp": "2026-08-19T16:34:16.962643422Z",
+  "timestamp": "2026-08-24T19:42:01.290763109Z",
   "model": "glm-5.3"
 }

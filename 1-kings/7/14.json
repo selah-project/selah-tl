@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 7,
-  "translation": "Anak siya ng isang babaeng balo mula sa lipi ng Naftali, at ang kaniyang ama ay lalaking taga-Tzor, manggagawa sa tanso; at napunan siya ng ⟨את⟩ karunungan, ng ⟨את⟩ unawa, at ng ⟨את⟩ kaalaman upang gumawa ng bawat gawain sa tanso; at siya'y pumasok kay ה hari Shelomoh at ginawa ang ⟨את⟩ kaniyang buong gawain.",
+  "translation": "Anak siya ng isang babaeng balo, mula sa tribo ng Naftali, at ang kaniyang ama ay lalaki ng Tsor, manggagawa sa tanso; at napunan siya ng ⟨את⟩ karunungan at ng ⟨את⟩ unawa at ng ⟨את⟩ kaalaman upang gumawa ng lahat ng gawain sa tanso; at dumating siya kay Haring Shelomoh at ginawa niya ang ⟨את⟩ lahat ng kaniyang gawain.",
   "tokens": [
     {
       "surface": "בן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "ng isang babae"
+      "gloss": "babaeng"
     },
     {
       "surface": "אלמנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ממטה",
-      "gloss": "mula sa lipi"
+      "gloss": "mula sa tribo"
     },
     {
       "surface": "נפתלי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "צרי",
-      "gloss": "taga-Tzor"
+      "gloss": "ng Tsor"
     },
     {
       "surface": "חרש",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וימלא",
-      "gloss": "at napunan"
+      "gloss": "at napunan siya"
     },
     {
       "surface": "את",
@@ -62,25 +62,25 @@
     },
     {
       "surface": "החכמה",
-      "gloss": "ang karunungan"
+      "gloss": "karunungan"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
+      "gloss": "at ng ⟨את⟩",
       "marks": "unawa"
     },
     {
       "surface": "התבונה",
-      "gloss": "ang unawa"
+      "gloss": "unawa"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
+      "gloss": "at ng ⟨את⟩",
       "marks": "kaalaman"
     },
     {
       "surface": "הדעת",
-      "gloss": "ang kaalaman"
+      "gloss": "kaalaman"
     },
     {
       "surface": "לעשות",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "ng bawat"
+      "gloss": "ng lahat"
     },
     {
       "surface": "מלאכה",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "ויבוא",
-      "gloss": "at pumasok"
+      "gloss": "at dumating siya"
     },
     {
       "surface": "אל",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "Haring"
     },
     {
       "surface": "שלמה",
@@ -116,22 +116,22 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "at ginawa"
+      "gloss": "at ginawa niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaniyang buong gawain"
+      "marks": "lahat"
     },
     {
       "surface": "כל",
-      "gloss": "ang buong"
+      "gloss": "ang lahat"
     },
     {
       "surface": "מלאכתו",
-      "gloss": "kaniyang gawain"
+      "gloss": "ng kaniyang gawain"
     }
   ],
-  "timestamp": "2026-08-19T16:27:36.990355130Z",
+  "timestamp": "2026-08-24T19:41:58.139415040Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 40,
-  "translation": "At iniunat niya ang ⟨את⟩ tolda sa ibabaw ng Mishkan, at inilagay ang ⟨את〕 takip ng tolda sa ibabaw nito, mula sa itaas — kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
+  "translation": "At iniunat niya ang ⟨את⟩ tolda sa ibabaw ng ⟨ang⟩ tabernakulo, at inilagay niya ang ⟨את⟩ pantakip ng tolda sa ibabaw nito, mula sa itaas — kung paanong iniutos ni Yahweh kay ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויפרש",
-      "gloss": "At iniunat"
+      "gloss": "at iniunat niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang tolda"
+      "marks": "tolda"
     },
     {
       "surface": "האהל",
-      "gloss": "ang tolda"
+      "gloss": "tolda"
     },
     {
       "surface": "על",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Mishkan"
+      "gloss": "tabernakulo"
     },
     {
       "surface": "וישם",
-      "gloss": "at inilagay"
+      "gloss": "at inilagay niya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang takip ng tolda"
+      "marks": "pantakip ng tolda"
     },
     {
       "surface": "מכסה",
-      "gloss": "ang takip"
+      "gloss": "pantakip"
     },
     {
       "surface": "האהל",
@@ -63,18 +63,18 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "si Moshe"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "si Moshe"
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T14:44:21.620866517Z",
+  "timestamp": "2026-08-24T19:38:22.857205645Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 6,
-  "translation": "At ako, narito, magdadala ako ng ⟨את⟩ unos-ng-tubig — mga tubig — sa ibabaw ng ⟨the⟩ lupa, upang wasakin ang lahat ng laman na may hangin-ng-buhay sa loob nito, sa ilalim ng ⟨the⟩ mga langit; lahat ng nasa lupa ay mamamatay.",
+  "translation": "At ako, narito, dinadala ko ang ⟨את⟩ bahang tubig sa ibabaw ng lupa upang wasakin ang laman na may hinga ng buhay sa ilalim ng mga langit; lahat ng nasa lupa ay mamamatay.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "At ako"
+      "gloss": "at ako"
     },
     {
       "surface": "הנני",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "מביא",
-      "gloss": "nagdadala"
+      "gloss": "dinadala ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "unos-ng-tubig"
+      "marks": "bahang tubig"
     },
     {
       "surface": "המבול",
-      "gloss": "ang unos-ng-tubig"
+      "gloss": "ang bahang"
     },
     {
       "surface": "מים",
-      "gloss": "mga tubig"
+      "gloss": "tubig"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ang lupa"
+      "gloss": "lupa"
     },
     {
       "surface": "לשחת",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בו",
-      "gloss": "sa loob nito"
+      "gloss": "sa kanya"
     },
     {
       "surface": "רוח",
-      "gloss": "hangin"
+      "gloss": "hinga"
     },
     {
       "surface": "חיים",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "ang mga langit"
+      "gloss": "mga langit"
     },
     {
       "surface": "כל",
@@ -93,6 +93,6 @@
       "gloss": "mamamatay"
     }
   ],
-  "timestamp": "2026-08-19T14:09:21.198824924Z",
+  "timestamp": "2026-08-24T19:38:02.811928584Z",
   "model": "glm-5.3"
 }

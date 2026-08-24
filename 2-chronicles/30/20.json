@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 30,
-  "translation": "At dininig ni Yahweh si Yechizkiyahu, at pinagaling ⟨ang את⟩ bayan.",
+  "translation": "At dininig ni Yahweh si Yechizkiyahu, at pinagaling niya ang ⟨את⟩ bayan.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
-      "gloss": "si"
+      "gloss": "kay"
     },
     {
       "surface": "יחזקיהו",
@@ -37,6 +37,6 @@
       "gloss": "ang bayan"
     }
   ],
-  "timestamp": "2026-08-19T19:35:45.943787809Z",
+  "timestamp": "2026-08-24T19:47:10.445818212Z",
   "model": "glm-5.3"
 }

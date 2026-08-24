@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At nakilala ni Kayin ang ⟨את⟩ kaniyang asawa, at naglihi ito at ipinanganak ang ⟨את⟩ Hanokh; at naging nagtatayo siya ng lungsod, at tinawag niya ang pangalan ng ⟨the⟩ lungsod ayon sa pangalan ng kaniyang anak na si Hanokh.",
+  "translation": "At nakilala ni Kayin ang ⟨את⟩ kaniyang asawa, at siya'y naglihi at nagsilang ng ⟨את⟩ Khanokh; at naging tagapagtayo siya ng lungsod, at tinawag niya ang pangalan ng lungsod ayon sa pangalan ng kaniyang anak na si Khanokh.",
   "tokens": [
     {
       "surface": "וידע",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "ותהר",
-      "gloss": "naglihi"
+      "gloss": "at naglihi"
     },
     {
       "surface": "ותלד",
-      "gloss": "ipinanganak"
+      "gloss": "at nagsilang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hanokh"
+      "marks": "Khanokh"
     },
     {
       "surface": "חנוך",
-      "gloss": "Hanokh"
+      "gloss": "Khanokh"
     },
     {
       "surface": "ויהי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בנה",
-      "gloss": "nagtatayo"
+      "gloss": "tagapagtayo"
     },
     {
       "surface": "עיר",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "tinawag niya"
+      "gloss": "at tinawag"
     },
     {
       "surface": "שם",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "בנו",
-      "gloss": "kaniyang anak"
+      "gloss": "ng kaniyang anak"
     },
     {
       "surface": "חנוך",
-      "gloss": "Hanokh"
+      "gloss": "Khanokh"
     }
   ],
-  "timestamp": "2026-08-19T14:08:02.365212325Z",
+  "timestamp": "2026-08-24T19:37:29.525865168Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 31,
-  "translation": "At mangyayari, kapag sumapit na sa kanila ang maraming kasamaan at kagipitan, sasagot ang awiting ito sa harapan nila bilang saksi, sapagkat hindi ito malilimutan sa bibig ng kanilang lahi; sapagkat nalalaman ko ang ⟨את⟩ hilig nito na ginagawa ⟨niya⟩ ngayon, bago ko pa sila dalhin sa lupang ⟨אשר⟩ ipinangako ko.",
+  "translation": "At mangyayari, kapag dumating sa kanila ang ⟨את⟩ maraming kasamaan at kapighatian, sasagot ang awiting ito sa harapan nila bilang saksi magpakailanman, sapagkat hindi ito makakalimutan mula sa bibig ng kanilang lahi; sapagkat kilala ko ang ⟨את⟩ kanilang likas na pag-iisip na ginagawa nila ngayon, bago ko sila dalhin sa lupang ipinangako ko.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "At mangyayari"
+      "gloss": "at mangyayari"
     },
     {
       "surface": "כי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "תמצאן",
-      "gloss": "sumapit"
+      "gloss": "dumating sa kanila"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ sa kanya",
-      "marks": "kasamaan"
+      "gloss": "⟨את⟩",
+      "marks": "maraming kasamaan"
     },
     {
       "surface": "רעות",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "וצרות",
-      "gloss": "at kagipitan"
+      "gloss": "at kapighatian"
     },
     {
       "surface": "וענתה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לעד",
-      "gloss": "magpakailanman bilang saksi"
+      "gloss": "magpakailanman"
     },
     {
       "surface": "כי",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "תשכח",
-      "gloss": "malilimutan"
+      "gloss": "makakalimutan"
     },
     {
       "surface": "מפי",
-      "gloss": "sa bibig"
+      "gloss": "mula sa bibig"
     },
     {
       "surface": "זרעו",
@@ -82,16 +82,16 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "nalalaman ko"
+      "gloss": "kilala ko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hilig"
+      "marks": "kanilang likas na pag-iisip"
     },
     {
       "surface": "יצרו",
-      "gloss": "ang hilig"
+      "gloss": "kanilang likas na pag-iisip"
     },
     {
       "surface": "אשר",
@@ -134,6 +134,6 @@
       "gloss": "ipinangako ko"
     }
   ],
-  "timestamp": "2026-08-19T15:36:12.968502214Z",
+  "timestamp": "2026-08-24T19:40:14.252934029Z",
   "model": "glm-5.3"
 }

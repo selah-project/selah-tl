@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At ilalagay niya ang ⟨את⟩ insenso sa apoy sa harap ni Yahweh, at takipin ng ulap ng insenso ang ⟨את⟩ takip-na-kapatiran na nasa ibabaw ng ⟨the⟩ patotoo, at hindi siya mamamatay.",
+  "translation": "At ilalagay niya ang ⟨את⟩ insenso sa apoy sa harapan ni Yahweh, at tatakpan ng ulap ng insenso ang ⟨את⟩ takip ng kasilungan na nasa ibabaw ⟨ng⟩ patotoo, at hindi siya mamamatay.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "At ilalagay"
+      "gloss": "at ilalagay niya"
     },
     {
       "surface": "את",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "הקטרת",
-      "gloss": "ang insenso"
+      "gloss": "insenso"
     },
     {
       "surface": "על",
@@ -30,32 +30,32 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa harap"
+      "gloss": "sa harapan ng"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "וכסה",
-      "gloss": "at takipin"
+      "gloss": "at tatakpan ng"
     },
     {
       "surface": "ענן",
-      "gloss": "ng ulap"
+      "gloss": "ulap"
     },
     {
       "surface": "הקטרת",
-      "gloss": "ng insenso"
+      "gloss": "insenso"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "takip-na-kapatiran"
+      "marks": "takip ng kasilungan"
     },
     {
       "surface": "הכפרת",
-      "gloss": "ang takip-na-kapatiran"
+      "gloss": "takip ng kasilungan"
     },
     {
       "surface": "אשר",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "על",
-      "gloss": "sa ibabaw"
+      "gloss": "nasa ibabaw ng"
     },
     {
       "surface": "העדות",
-      "gloss": "ng patotoo"
+      "gloss": "patotoo"
     },
     {
       "surface": "ולא",
@@ -78,6 +78,6 @@
       "gloss": "mamamatay"
     }
   ],
-  "timestamp": "2026-08-19T14:53:21.923122280Z",
+  "timestamp": "2026-08-24T19:39:20.575564563Z",
   "model": "glm-5.3"
 }

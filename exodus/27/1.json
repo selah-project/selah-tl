@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 27,
-  "translation": "At gagawin mo ang ⟨את⟩ ⟨the⟩ altar mula sa kahoy ng akasya: limang siko ang haba, at limang siko ang luwang — parisukat ⟨ay⟩ magiging ang altar — at tatlong siko ang taas nito.",
+  "translation": "At gagawin mo ang ⟨את⟩ dambana na gawa sa kahoy ng akasya: limang siko ang haba, at limang siko ang luwang; parisukat ⟨ang⟩ magiging dambana, at tatlong siko ang taas niya.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang altar"
+      "marks": "dambana"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ altar"
+      "gloss": "ang dambana"
     },
     {
       "surface": "עצי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "ang altar"
+      "gloss": "ang dambana"
     },
     {
       "surface": "ושלש",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "קמתו",
-      "gloss": "taas nito"
+      "gloss": "taas niya"
     }
   ],
-  "timestamp": "2026-08-19T14:37:13.942630555Z",
+  "timestamp": "2026-08-24T19:38:32.858780296Z",
   "model": "glm-5.3"
 }

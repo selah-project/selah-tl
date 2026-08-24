@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 20,
-  "translation": "At siya'y nakipagpayo sa ⟨the⟩ bayan, at nagtayo siya ng mga mang-aawit kay Yahweh at ng mga nagpupuri sa kaharangan ng kabanalan, sa paglabas sa harapan ng mga armado, at nagsasabi: Ibigay ninyo ang pasasalamat kay Yahweh, sapagkat magpakailanman ang kanyang kagandahang-loob.",
+  "translation": "At nagpayo siya sa ⟨את⟩ bayan, at nagtatag siya ng mga umaawit kay Yahweh at ng mga nagpupuri sa karangyaang banal, sa paglabas sa harap ng mga armado, na nagsasabing: Pasalamatan ninyo si Yahweh, sapagkat magpakailanman ang kanyang kagandahang-loob.",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "at nakipagpayo"
+      "gloss": "at nagpayo siya"
     },
     {
       "surface": "אל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bayan"
+      "gloss": "bayan"
     },
     {
       "surface": "ויעמד",
-      "gloss": "at nagtayo"
+      "gloss": "at nagtatag siya"
     },
     {
       "surface": "משררים",
-      "gloss": "mga mang-aawit"
+      "gloss": "mga umaawit"
     },
     {
       "surface": "ליהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "להדרת",
-      "gloss": "sa kaharangan ng"
+      "gloss": "sa karangyaan ng"
     },
     {
       "surface": "קדש",
-      "gloss": "kabanalan"
+      "gloss": "banal"
     },
     {
       "surface": "בצאת",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa harapan ng"
+      "gloss": "sa harap ng"
     },
     {
       "surface": "החלוץ",
-      "gloss": "⟨the⟩ mga armado"
+      "gloss": "mga armado"
     },
     {
       "surface": "ואמרים",
-      "gloss": "at nagsasabi"
+      "gloss": "na nagsasabing"
     },
     {
       "surface": "הודו",
-      "gloss": "ibigay ninyo ang pasasalamat"
+      "gloss": "pasalamatan ninyo"
     },
     {
       "surface": "ליהוה",
-      "gloss": "kay Yahweh"
+      "gloss": "si Yahweh"
     },
     {
       "surface": "כי",
@@ -80,6 +80,6 @@
       "gloss": "ang kanyang kagandahang-loob"
     }
   ],
-  "timestamp": "2026-08-19T19:33:17.491787128Z",
+  "timestamp": "2026-08-24T19:46:27.573051020Z",
   "model": "glm-5.3"
 }

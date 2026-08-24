@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "tl",
   "chapter": 9,
-  "translation": "At nang dumating siya sa harap ng hari, sinabi — kasama ng ⟨the⟩ sulat — na babalik ang masamang balak na binalak niya laban sa mga Yehudi sa kanyang sariling ulo, at binitay ⟨את⟩ siya at ⟨את⟩ ang kanyang mga anak sa puno.",
+  "translation": "At nang siya ay dumating sa harapan ng hari, sinabi kasama ang sulat: babalik ang kaniyang masamang balak na binalak niya laban sa mga Yehudi — sa sarili niyang ulo; at siya'y iginabay sa ⟨את⟩ at ang ⟨את⟩ kaniyang mga anak sa punongkahoy.",
   "tokens": [
     {
       "surface": "ובבאה",
-      "gloss": "At nang dumating siya"
+      "gloss": "at nang siya ay dumating"
     },
     {
       "surface": "לפני",
-      "gloss": "sa harap ng"
+      "gloss": "sa harapan ng"
     },
     {
       "surface": "המלך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "kasama ng"
+      "gloss": "kasama"
     },
     {
       "surface": "הספר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מחשבתו",
-      "gloss": "ang kanyang balak"
+      "gloss": "ang kaniyang balak"
     },
     {
       "surface": "הרעה",
-      "gloss": "masama"
+      "gloss": "masamang"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חשב",
-      "gloss": "binalak"
+      "gloss": "binalak niya"
     },
     {
       "surface": "על",
@@ -57,33 +57,33 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "ang mga Yehudi"
+      "gloss": "mga Yehudi"
     },
     {
       "surface": "על",
-      "gloss": "sapapatungo sa"
+      "gloss": "sa ibabaw ng"
     },
     {
       "surface": "ראשו",
-      "gloss": "ang kanyang ulo"
+      "gloss": "sarili niyang ulo"
     },
     {
       "surface": "ותלו",
-      "gloss": "at binitay"
+      "gloss": "at iginabay"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "siya (si Haman)"
+      "marks": "siya (kaniya)"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
-      "marks": "ang kanyang mga anak"
+      "gloss": "⟨את⟩",
+      "marks": "kaniyang mga anak"
     },
     {
       "surface": "בניו",
-      "gloss": "ang kanyang mga anak"
+      "gloss": "kaniyang mga anak"
     },
     {
       "surface": "על",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "העץ",
-      "gloss": "ang puno"
+      "gloss": "punongkahoy"
     }
   ],
-  "timestamp": "2026-08-19T19:54:49.492107864Z",
+  "timestamp": "2026-08-24T19:46:01.541094503Z",
   "model": "glm-5.3"
 }

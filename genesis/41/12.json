@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 41,
-  "translation": "At doon ⟨את⟩ kasama namin ⟨⟨ay may⟩⟩ isang binatang Hebreo, alipin ng puno ng mga tagapatay; at isinalaysay namin sa kaniya, at ipinakahulugan niya sa amin ⟨את⟩ aming mga pangarap — bawat isa ayon sa kaniyang pangarap ay ipinakahulugan.",
+  "translation": "At doon may ⟨את⟩-kapiling namin na isang binatang Hebreo, alila ng punong tagapagluto, at isinalaysay namin sa kaniya, at ipinaliwanag niya sa amin ang ⟨את⟩ aming mga panaginip — bawat isa ayon sa kaniyang panaginip ay ipinaliwanag niya.",
   "tokens": [
     {
       "surface": "ושם",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "kasama namin"
+      "gloss": "⟨את⟩-kapiling namin"
     },
     {
       "surface": "נער",
@@ -26,7 +25,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "alipin"
+      "gloss": "alila"
     },
     {
       "surface": "לשר",
@@ -34,11 +33,11 @@
     },
     {
       "surface": "הטבחים",
-      "gloss": "mga tagapatay"
+      "gloss": "ng mga tagapagluto"
     },
     {
       "surface": "ונספר",
-      "gloss": "at isinalaysay namin"
+      "gloss": "at isinalaysay"
     },
     {
       "surface": "לו",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "ויפתר",
-      "gloss": "at ipinakahulugan niya"
+      "gloss": "at ipinaliwanag"
     },
     {
       "surface": "לנו",
@@ -55,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aming mga pangarap"
+      "marks": "aming mga panaginip"
     },
     {
       "surface": "חלמתינו",
-      "gloss": "aming mga pangarap"
+      "gloss": "aming mga panaginip"
     },
     {
       "surface": "איש",
@@ -67,13 +66,13 @@
     },
     {
       "surface": "כחלמו",
-      "gloss": "ayon sa kaniyang pangarap"
+      "gloss": "ayon sa kaniyang panaginip"
     },
     {
       "surface": "פתר",
-      "gloss": "ay ipinakahulugan"
+      "gloss": "ipinaliwanag niya"
     }
   ],
-  "timestamp": "2026-08-19T14:22:00.328171198Z",
+  "timestamp": "2026-08-24T19:37:20.282191072Z",
   "model": "glm-5.3"
 }

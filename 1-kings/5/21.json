@@ -5,8 +5,94 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 5,
-  "translation": "Nangyari, nang marinig ng Chiram ang ⟨את⟩ mga salita ni Shelomoh, siya'y natuwa nang labis, at nagsabi: Praises be kay Yahweh ngayong araw, na nagbigay kay David ng isang marunong na anak sa ibabaw ng ⟨ang⟩ bayang marami, dito.",
-  "tokens": [],
-  "timestamp": "2026-08-19T16:27:02.722312208Z",
+  "translation": "At nangyari, nang marinig ni Chiram ang ⟨את⟩ mga salita ni Shelomoh, siya'y nagtuwa nang labis, at nagsabi: Purihin ang Yahweh sa araw na ito, na nagbigay kay David ng isang anak na marunong, sa ibabaw ng bayang dakila na ito.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "At nangyari"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nang marinig"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Chiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga salita"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga salita"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "siya'y nagtuwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nang labis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at nagsabi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Purihin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ang Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa araw na ito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagbigay"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kay David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ng anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "na marunong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw ng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bayang"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "dakila"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "na ito"
+    }
+  ],
+  "timestamp": "2026-08-24T19:41:45.629815954Z",
   "model": "glm-5.3"
 }

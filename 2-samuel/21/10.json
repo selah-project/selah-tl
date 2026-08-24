@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 21,
-  "translation": "At kumuha si Ritspah na anak ni Aiyah ng ⟨את⟩ sako, at iwinasiwas niya ito para sa kaniya sa ibabaw ng bato, mula sa simula ng ani hanggang sa bumuhos ang tubig sa kanila mula sa ⟨the⟩ langit; at hindi niya hinayaang magpahinga sa kanila ang mga ibon ng langit sa araw, ni ⟨את⟩ mga hayop ng parang sa gabi.",
+  "translation": "Kinuha ni Ritspah na anak ni Ayah ang ⟨את⟩ sako, at iniunat niya ito para sa kanyang sarili sa ibabaw ng bato, mula sa pasimula ng ani hanggang bumuhos ang tubig sa ibabaw nila mula sa ⟨mga⟩ langit; at hindi niya hinayaang magpahinga sa kanila ang mga ibon ng langit sa araw, ni ang ⟨את⟩ mga hayop ng parang sa gabi.",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "at kumuha siya"
+      "gloss": "kinuha"
     },
     {
       "surface": "רצפה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "איה",
-      "gloss": "ni Aiyah"
+      "gloss": "ni Ayah"
     },
     {
       "surface": "את",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "השק",
-      "gloss": "ng sako"
+      "gloss": "ang sako"
     },
     {
       "surface": "ותטהו",
-      "gloss": "at iwinasiwas niya ito"
+      "gloss": "at iniunat niya ito"
     },
     {
       "surface": "לה",
-      "gloss": "para sa kaniya"
+      "gloss": "para sa kanyang sarili"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "מתחלת",
-      "gloss": "mula sa simula"
+      "gloss": "mula sa pasimula"
     },
     {
       "surface": "קציר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "hanggang sa"
+      "gloss": "hanggang"
     },
     {
       "surface": "נתך",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "sa kanila"
+      "gloss": "sa ibabaw nila"
     },
     {
       "surface": "מן",
-      "gloss": "mula"
+      "gloss": "mula sa"
     },
     {
       "surface": "השמים",
-      "gloss": "sa langit"
+      "gloss": "langit"
     },
     {
       "surface": "ולא",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "לנוח",
-      "gloss": "magpahinga"
+      "gloss": "na magpahinga"
     },
     {
       "surface": "עליהם",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "at ⟨את⟩",
       "marks": "mga hayop ng parang"
     },
     {
@@ -126,6 +126,6 @@
       "gloss": "sa gabi"
     }
   ],
-  "timestamp": "2026-08-19T16:21:43.917296051Z",
+  "timestamp": "2026-08-24T19:42:12.437717238Z",
   "model": "glm-5.3"
 }

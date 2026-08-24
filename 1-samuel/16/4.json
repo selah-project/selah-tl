@@ -5,24 +5,24 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At ginawa ni Shemuël ang ⟨את⟩ sinabi ni Yahweh, at dumating siya sa Beth-lechem, at nanginig ang mga matatanda ng ⟨the⟩ lungsod sa kanyang pagdating, at sinabi niya: Kapayapaan ang pagdating ko.",
+  "translation": "At ginawa ni Shemuel ang ⟨את⟩ sinabi ni Yahweh, at dumating siya sa Beit-Lechem; at nanginig ang matatanda ng ⟨the⟩ lungsod sa pagtanggap sa kaniya, at sinabi niya: Kapayapaan ang pagdating mo.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "at ginawa"
+      "gloss": "At ginawa"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuël"
+      "gloss": "ni Shemuel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang sinabi ni Yahweh"
+      "marks": "sinabi"
     },
     {
       "surface": "אשר",
-      "gloss": "na"
+      "gloss": "ang sinabi"
     },
     {
       "surface": "דבר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beth"
+      "gloss": "Beit"
     },
     {
       "surface": "לחם",
-      "gloss": "lehem"
+      "gloss": "-Lechem"
     },
     {
       "surface": "ויחרדו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "ang mga matatanda"
+      "gloss": "ang matatanda"
     },
     {
       "surface": "העיר",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "sa kanyang pagharap"
+      "gloss": "sa pagtanggap sa kaniya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "at sinabi"
+      "gloss": "at sumagot siya"
     },
     {
-      "surface": "שלם",
+      "surface": "שלום",
       "gloss": "Kapayapaan"
     },
     {
       "surface": "בואך",
-      "gloss": "ang iyong pagdating"
+      "gloss": "ang pagdating mo"
     }
   ],
-  "timestamp": "2026-08-19T16:04:34.676184321Z",
+  "timestamp": "2026-08-24T19:40:52.615923288Z",
   "model": "glm-5.3"
 }

@@ -5,29 +5,29 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At ilalagay nilá ⟨את⟩ iyon at ⟨את⟩ lahat ng mga kasangkapan nito sa loob ng isang takip na balat ng takhash, at ilalagay nilá sa ⟨the⟩ pingga.",
+  "translation": "At ilalagay nila ⟨את⟩ ⟨siya nito⟩ at ⟨ang⟩ lahat ng mga kagamitan nito sa takip na balat ng tahash, at ilalagay nila sa ⟨ang⟩ patungan na dinadala.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "at ilalagay nilá"
+      "gloss": "at ilalagay nila"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "iyon"
+      "gloss": "⟨את⟩ ⟨siya nito⟩",
+      "marks": "ang kandelabro (menorah)"
     },
     {
       "surface": "ואת",
-      "gloss": "at ⟨את⟩",
-      "marks": "lahat ng mga kasangkapan nito"
+      "gloss": "⟨את⟩ ⟨at ang⟩",
+      "marks": "lahat ng mga kagamitan nito"
     },
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "lahat"
     },
     {
       "surface": "כליה",
-      "gloss": "mga kasangkapan nito"
+      "gloss": "mga kagamitan nito"
     },
     {
       "surface": "אל",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "תחש",
-      "gloss": "ng takhash"
+      "gloss": "tahash"
     },
     {
       "surface": "ונתנו",
-      "gloss": "at ilalagay nilá"
+      "gloss": "at ilalagay nila"
     },
     {
       "surface": "על",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "pingga"
+      "gloss": "ang patungan na dinadala"
     }
   ],
-  "timestamp": "2026-08-19T15:02:36.956565293Z",
+  "timestamp": "2026-08-24T19:39:45.532069231Z",
   "model": "glm-5.3"
 }

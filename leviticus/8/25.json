@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 8,
-  "translation": "At kumuha siya ng ⟨את⟩ taba, at ng ⟨את⟩ buntot, at ng ⟨את⟩ buong taba na nasa ⟨the⟩ mga bituka, at ng ⟨את⟩ udyong ng atay, at ng ⟨את⟩ dalawang bato, at ng ⟨את⟩ taba ng mga ito, at ng ⟨את⟩ hita ng kanan;",
+  "translation": "At kumuha siya ng ⟨את⟩ taba at ng ⟨את⟩ buntot-tabà at ng ⟨את⟩ buong taba na nasa ⟨the⟩ loob-looban, at ng ⟨את⟩ bahaging-umiiwan ng atay, at ng ⟨את⟩ dalawang bato, at ng ⟨את⟩ taba nila, at ng ⟨את⟩ hita ng kanan;",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "at kumuha"
+      "gloss": "at kumuha siya ng"
     },
     {
       "surface": "את",
@@ -18,16 +18,16 @@
     },
     {
       "surface": "החלב",
-      "gloss": "ang taba"
+      "gloss": "taba"
     },
     {
       "surface": "ואת",
       "gloss": "at ⟨את⟩",
-      "marks": "buntot"
+      "marks": "buntot-tabà"
     },
     {
       "surface": "האליה",
-      "gloss": "ang buntot na taba"
+      "gloss": "buntot-tabà"
     },
     {
       "surface": "ואת",
@@ -40,7 +40,7 @@
     },
     {
       "surface": "החלב",
-      "gloss": "ang taba"
+      "gloss": "taba"
     },
     {
       "surface": "אשר",
@@ -52,16 +52,16 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "mga bituka"
+      "gloss": "loob-looban"
     },
     {
       "surface": "ואת",
       "gloss": "at ⟨את⟩",
-      "marks": "udyong ng atay"
+      "marks": "bahaging-umiiwan ng atay"
     },
     {
       "surface": "יתרת",
-      "gloss": "udyong"
+      "gloss": "bahaging-umiiwan"
     },
     {
       "surface": "הכבד",
@@ -83,11 +83,11 @@
     {
       "surface": "ואת",
       "gloss": "at ⟨את⟩",
-      "marks": "taba ng mga ito"
+      "marks": "taba nila"
     },
     {
       "surface": "חלבהן",
-      "gloss": "taba ng mga ito"
+      "gloss": "taba nila"
     },
     {
       "surface": "ואת",
@@ -103,6 +103,6 @@
       "gloss": "ng kanan"
     }
   ],
-  "timestamp": "2026-08-19T14:49:05.921207371Z",
+  "timestamp": "2026-08-24T19:39:44.814276814Z",
   "model": "glm-5.3"
 }

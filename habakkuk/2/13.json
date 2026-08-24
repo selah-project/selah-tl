@@ -5,11 +5,11 @@
   "book": "habakkuk",
   "lang": "tl",
   "chapter": 2,
-  "translation": "Hindi baga, narito, mula ⟨את⟩ Yahweh ng mga hukbo — magpapagal ang mga bayan sa ⟨the⟩ apoy, at ang mga bansa sa ⟨the⟩ walang-laman ay mangangapos sila?",
+  "translation": "Hindi ba, narito, mula ⟨את⟩ Yahweh ng mga hukbo — at mangangapoy ang mga bayan dahil sa apoy, at ang mga bansa dahil sa walang-laman, malalagot sila.",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "hindi baga"
+      "gloss": "hindi ba"
     },
     {
       "surface": "הנה",
@@ -17,8 +17,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "Yahweh ng mga hukbo"
+      "gloss": "⟨את⟩ mula"
     },
     {
       "surface": "יהוה",
@@ -30,7 +29,7 @@
     },
     {
       "surface": "וייגעו",
-      "gloss": "at magpapagal"
+      "gloss": "at mangangapoy"
     },
     {
       "surface": "עמים",
@@ -38,7 +37,7 @@
     },
     {
       "surface": "בדי",
-      "gloss": "sa"
+      "gloss": "dahil sa"
     },
     {
       "surface": "אש",
@@ -50,7 +49,7 @@
     },
     {
       "surface": "בדי",
-      "gloss": "sa"
+      "gloss": "dahil sa"
     },
     {
       "surface": "ריק",
@@ -58,9 +57,9 @@
     },
     {
       "surface": "יעפו",
-      "gloss": "ay mangangapos sila"
+      "gloss": "malalagot sila"
     }
   ],
-  "timestamp": "2026-08-19T19:50:27.801900856Z",
+  "timestamp": "2026-08-24T19:44:51.929272151Z",
   "model": "glm-5.3"
 }

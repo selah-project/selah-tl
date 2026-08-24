@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 6,
-  "translation": "At ang bawat handog ng saserdote ay ⟨⟨magiging⟩⟩ lubos na sunugin; hindi kakainin.",
+  "translation": "At ang bawat mincha ng kohen ay kailangang ⟨sapáng⟩ ganap — hindi kakainin.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "At ang bawat"
+      "gloss": "at ang bawat"
     },
     {
       "surface": "מנחת",
-      "gloss": "handog"
+      "gloss": "mincha ng"
     },
     {
       "surface": "כהן",
-      "gloss": "ng saserdote"
+      "gloss": "kohen"
     },
     {
       "surface": "כליל",
-      "gloss": "lubos na"
+      "gloss": "ganap (sapáng lahat)"
     },
     {
       "surface": "תהיה",
-      "gloss": "magiging"
+      "gloss": "ay magiging \/ kailangang maging"
     },
     {
       "surface": "לא",
@@ -36,6 +36,6 @@
       "gloss": "kakainin"
     }
   ],
-  "timestamp": "2026-08-19T14:46:45.127134100Z",
+  "timestamp": "2026-08-24T19:39:03.713705285Z",
   "model": "glm-5.3"
 }

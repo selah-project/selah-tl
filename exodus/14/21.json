@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 14,
-  "translation": "At iniunat ni Moshe ang ⟨את⟩ kaniyang kamay sa ibabaw ng ⟨the⟩ dagat, at pinatagal ng Yahweh ang ⟨את⟩ dagat na umiiral nang buong gabi sa pamamagitan ng malakas na hanging silangan, at ginawa niya ang ⟨את⟩ dagat na tuyo⟨ng⟩ lupa, at nahati ang mga tubig.",
+  "translation": "At iniunat ni Moshe ang ⟨את⟩ kaniyang kamay sa ibabaw ng ⟨ang⟩ dagat, at pinatulong ng Yahweh ang ⟨את⟩ dagat sa pamamagitan ng malakas na hanging-silangan buong gabi, at ginawa niya ang ⟨את⟩ dagat na tuyong lupa, at nahiwa ang mga tubig.",
   "tokens": [
     {
       "surface": "ויט",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "הים",
-      "gloss": "ang dagat"
+      "gloss": "⟨ang⟩ dagat"
     },
     {
       "surface": "ויולך",
-      "gloss": "at pinatagal na umiiral"
+      "gloss": "at pinatulong"
     },
     {
       "surface": "יהוה",
-      "gloss": "si Yahweh"
+      "gloss": "ng Yahweh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang dagat"
+      "marks": "dagat"
     },
     {
       "surface": "הים",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "קדים",
-      "gloss": "na silangan"
+      "gloss": "silangan"
     },
     {
       "surface": "עזה",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "nang buong"
+      "gloss": "buong"
     },
     {
       "surface": "הלילה",
@@ -88,13 +88,13 @@
     },
     {
       "surface": "ויבקעו",
-      "gloss": "at nahati"
+      "gloss": "at nahiwa"
     },
     {
       "surface": "המים",
       "gloss": "ang mga tubig"
     }
   ],
-  "timestamp": "2026-08-19T14:31:53.135850886Z",
+  "timestamp": "2026-08-24T19:38:34.700403297Z",
   "model": "glm-5.3"
 }

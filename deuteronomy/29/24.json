@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 29,
-  "translation": "At kanilang sasabihin: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, Elohim ng kanilang mga ama, na kanyang tinipan ⟨kasama⟩ kanila noong ilabas niya sila ⟨את⟩ ⟨אתם⟩ mula sa lupain ng Mitzrayim.",
+  "translation": "At sasabihin nila: Sapagkat iniwan nila ang ⟨את⟩ tipan ni Yahweh, ng Elohim ng kanilang mga ama, na kinal niya ⟨כasama⟩ nila nang ilabas niya sila ⟨את⟩ mula sa lupain ng Mitzrayim.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "At kanilang sasabihin"
+      "gloss": "at sasabihin nila"
     },
     {
       "surface": "על",
-      "gloss": "Sapagkat"
+      "gloss": "sapagkat"
     },
     {
       "surface": "אשר",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "כרת",
-      "gloss": "tinipan"
+      "gloss": "kinal niya"
     },
     {
       "surface": "עמם",
-      "gloss": "sa kanila"
+      "gloss": "kasama nila"
     },
     {
       "surface": "בהוציאו",
-      "gloss": "noong ilabas niya"
+      "gloss": "nang ilabas niya"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "silà (mula sa lupain ng Mitzrayim)"
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
     },
     {
       "surface": "מארץ",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ng Mitzrayim"
+      "gloss": "Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.113816598Z",
+  "timestamp": "2026-08-24T19:40:37.671390778Z",
   "model": "glm-5.3"
 }

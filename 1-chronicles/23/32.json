@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 23,
-  "translation": "At bantayan nila ang ⟨את⟩ pagbabantay ng tolda ng kapisanan, at ang ⟨את⟩ pagbabantay ng ⟨the⟩ banal na dako, at ang pagbabantay ng mga anak ni Aharon, na kanilang mga kapatid, para sa paglilingkod sa bahay ni Yahweh.",
+  "translation": "At bantayan nila ang ⟨את⟩ pagbabantay sa tolda ng tipunan, at ang ⟨את⟩ pagbabantay sa ⟨ang⟩ banal na dako, at ang pagbabantay sa mga anak ni Aharon, na kanilang mga kapatid, para sa paglilingkod sa bahay ni Yahweh.",
   "tokens": [
     {
       "surface": "ושמרו",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pagbabantay ng tolda ng kapisanan"
+      "marks": "pagbabantay"
     },
     {
       "surface": "משמרת",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "מועד",
-      "gloss": "ng kapisanan"
+      "gloss": "ng tipunan"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pagbabantay ng banal na dako"
+      "marks": "pagbabantay"
     },
     {
       "surface": "משמרת",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ng banal na dako"
+      "gloss": "sa banal na dako"
     },
     {
       "surface": "ומשמרת",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "ng mga anak"
+      "gloss": "mga anak"
     },
     {
       "surface": "אהרן",
@@ -55,21 +55,21 @@
     },
     {
       "surface": "אחיהם",
-      "gloss": "na kanilang mga kapatid"
+      "gloss": "kanilang mga kapatid"
     },
     {
-      "surface": "لעבדת",
-      "gloss": ""
+      "surface": "לעבדת",
+      "gloss": "para sa paglilingkod"
     },
     {
       "surface": "בית",
-      "gloss": "sa bahay"
+      "gloss": "bahay"
     },
     {
       "surface": "יהוה",
       "gloss": "ni Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T19:56:16.857150557Z",
+  "timestamp": "2026-08-24T19:46:33.580396255Z",
   "model": "glm-5.3"
 }

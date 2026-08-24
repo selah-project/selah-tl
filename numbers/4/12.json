@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At kukuha sila ng ⟨את⟩ lahat ng mga kasangkapan ng paglilingkod na pinaglilingkuran nilá sa pamamagitan ng mga iyon sa ⟨the⟩ kabanalan, at ilalagay nilá sa isang balabal na kulay-azure, at tatahupin nilá ⟨את⟩ mga iyon ng takip na balat ng takhash, at ilalagay nilá sa ⟨the⟩ pingga.",
+  "translation": "At kukunin nila ⟨ang⟩ lahat ng mga kasangkapan ng paglilingkod na pinaglilingkuran sa mga ito sa ⟨ang⟩ banal na dako, at ilalagay nila sa damit na asul, at cobubuhon nila ⟨את⟩ ⟨silá⟩ ng takip na balat ng tahash, at ilalagay nila sa ⟨ang⟩ patungan na dinadala.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "at kukuha sila"
+      "gloss": "at kukunin nila"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨ang⟩",
       "marks": "lahat ng mga kasangkapan ng paglilingkod"
     },
     {
       "surface": "כל",
-      "gloss": "lahat ng"
+      "gloss": "lahat"
     },
     {
       "surface": "כלי",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "pinaglilingkuran nilá"
+      "gloss": "pinaglilingkuran sa"
     },
     {
       "surface": "בם",
-      "gloss": "sa pamamagitan ng mga iyon"
+      "gloss": "mga ito"
     },
     {
       "surface": "בקדש",
-      "gloss": "sa kabanalan"
+      "gloss": "sa banal na dako"
     },
     {
       "surface": "ונתנו",
-      "gloss": "at ilalagay nilá"
+      "gloss": "at ilalagay nila"
     },
     {
       "surface": "אל",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "בגד",
-      "gloss": "balabal"
+      "gloss": "damit"
     },
     {
       "surface": "תכלת",
-      "gloss": "kulay-azure"
+      "gloss": "na asul"
     },
     {
       "surface": "וכסו",
-      "gloss": "at tatahupin nilá"
+      "gloss": "at cobubuhon nila"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "mga iyon"
+      "gloss": "⟨את⟩ ⟨silá⟩",
+      "marks": "ang mga kasangkapan"
     },
     {
       "surface": "במכסה",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "תחש",
-      "gloss": "ng takhash"
+      "gloss": "tahash"
     },
     {
       "surface": "ונתנו",
-      "gloss": "at ilalagay nilá"
+      "gloss": "at ilalagay nila"
     },
     {
       "surface": "על",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "המוט",
-      "gloss": "pingga"
+      "gloss": "ang patungan na dinadala"
     }
   ],
-  "timestamp": "2026-08-19T15:02:36.956892223Z",
+  "timestamp": "2026-08-24T19:39:45.532655087Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 11,
-  "translation": "Sino ang sumuntok kay ⟨את⟩ Avimelekh na anak ni Yerubeshet? Hindi ba isang babae ang naghagda sa kaniya ng piraso ng gilingan mula sa ibabaw ng ⟨the⟩ pader, at siya'y namatay sa Tevetz? Bakit kayo lumapit sa ⟨the⟩ pader? At iyong sasabihin: Namatay din ang iyong alipin na si Uriyah na Hetita.",
+  "translation": "Sino ang humiwa ⟨את⟩ kay Avimelekh na anak ni Yerubeshet? Hindi ba ⟨is⟩ isang babae ang naghagay sa kaniya ng pinaghiwang gilingan mula sa ibabaw ng pader, at siya'y namatay sa Tevetz? Bakit kayo lumapit sa pader? At sasabihin mo: Namatay din ang iyong lingkod na si Uriyah ang Hetita.",
   "tokens": [
     {
       "surface": "מי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "הכה",
-      "gloss": "sumuntok"
+      "gloss": "ang humiwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avimelekh"
+      "marks": "kay Avimelekh"
     },
     {
       "surface": "אבימלך",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ירבשת",
-      "gloss": "Yerubeshet"
+      "gloss": "ni Yerubeshet"
     },
     {
       "surface": "הלוא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "השליכה",
-      "gloss": "naghagda"
+      "gloss": "naghagay"
     },
     {
       "surface": "עליו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "פלח",
-      "gloss": "piraso ng gilingan"
+      "gloss": "pinaghiwang gilingan"
     },
     {
       "surface": "רכב",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "namatay"
+      "gloss": "at namatay"
     },
     {
       "surface": "בתבץ",
@@ -89,8 +89,8 @@
       "gloss": "pader"
     },
     {
-      "surface": "ואמרת",
-      "gloss": "sasabihin mo"
+      "surface": "ו אמרת",
+      "gloss": "At sasabihin mo"
     },
     {
       "surface": "גם",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "iyong alipin"
+      "gloss": "iyong lingkod"
     },
     {
       "surface": "אוריה",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "החתי",
-      "gloss": "Hetita"
+      "gloss": "ang Hetita"
     },
     {
       "surface": "מת",
       "gloss": "namatay"
     }
   ],
-  "timestamp": "2026-08-19T16:16:03.702951218Z",
+  "timestamp": "2026-08-24T19:41:15.035069203Z",
   "model": "glm-5.3"
 }

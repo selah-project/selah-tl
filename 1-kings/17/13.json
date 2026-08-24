@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 17,
-  "translation": "At sinabi ni Eliyahu sa kaniya: Huwag kang matakot, pumasok ka, gawin mo gaya ng iyong sinabi; nguni't gawan mo muna ako mula roon ng maliit na niluto, at ilabas mo ⟨sa⟩ akin; at sa iyo at sa iyong anak ay gagawin mo sa huli.",
+  "translation": "At sinabi ni Eliyahu sa kaniya: Huwag kang matakot, pumasok ka, gawin mo ayon sa iyong salita; nguni't gumawa ka muna ng maliit na ⟨את⟩ tinapay na abo sa akin mula roon, at ilabas mo sa akin, at sa iyo at sa iyong anak ay gagawin mo sa huli.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "at sinabi ni"
+      "gloss": "At sinabi"
     },
     {
       "surface": "אליה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliyahu"
+      "gloss": "si Eliyahu"
     },
     {
       "surface": "אל",
-      "gloss": "huwag"
+      "gloss": "Huwag"
     },
     {
       "surface": "תיראי",
-      "gloss": "matakot ka"
+      "gloss": "ka matakot"
     },
     {
       "surface": "באי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "כדברך",
-      "gloss": "gayа ng iyong sinabi"
+      "gloss": "ayon sa iyong salita"
     },
     {
       "surface": "אך",
-      "gloss": "nguni't lamang"
+      "gloss": "nguni't"
     },
     {
       "surface": "עשי",
-      "gloss": "gawin mo"
+      "gloss": "gumawa ka"
     },
     {
       "surface": "לי",
-      "gloss": "para sa akin"
+      "gloss": "sa akin"
     },
     {
       "surface": "משם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "עגה",
-      "gloss": "niluto na maliit na tinapay"
+      "gloss": "tinapay na abo"
     },
     {
       "surface": "קטנה",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "בראשנה",
-      "gloss": "una"
+      "gloss": "sa una"
     },
     {
       "surface": "והוצאת",
-      "gloss": "at ilalabas mo"
+      "gloss": "at ilabas mo"
     },
     {
       "surface": "לי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ולך",
-      "gloss": "at para sa iyo"
+      "gloss": "at sa iyo"
     },
     {
       "surface": "ולבנך",
@@ -92,6 +92,6 @@
       "gloss": "sa huli"
     }
   ],
-  "timestamp": "2026-08-19T16:34:04.786564584Z",
+  "timestamp": "2026-08-24T19:42:20.964496526Z",
   "model": "glm-5.3"
 }

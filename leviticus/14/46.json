@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 14,
-  "translation": "At ang pumasok sa bahay sa lahat ng araw ng pagsasara nito ay magiging marumi hanggang ⟨the⟩ takipsilim.",
+  "translation": "At ang pumapasok sa bahay sa lahat ng mga araw ng pagkasara ⟨את⟩ nito ay magiging marumi hanggang sa pagtakipsilim.",
   "tokens": [
     {
       "surface": "והבא",
-      "gloss": "at ang pumasok"
+      "gloss": "at ang pumapasok"
     },
     {
       "surface": "אל",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ימי",
-      "gloss": "ng araw"
+      "gloss": "mga araw"
     },
     {
       "surface": "הסגיר",
-      "gloss": "ng pagsasara nito"
+      "gloss": "ng pagkasara"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ siya",
-      "marks": "ang pagsasara nito"
+      "gloss": "⟨את⟩",
+      "marks": "nito"
     },
     {
       "surface": "יטמא",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "hanggang"
+      "gloss": "hanggang sa"
     },
     {
       "surface": "הערב",
-      "gloss": "takipsilim"
+      "gloss": "pagtakipsilim"
     }
   ],
-  "timestamp": "2026-08-19T14:52:17.096722242Z",
+  "timestamp": "2026-08-24T19:39:33.975292860Z",
   "model": "glm-5.3"
 }

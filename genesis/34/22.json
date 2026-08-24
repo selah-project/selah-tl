@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 34,
-  "translation": "Ngunit sa lamang ito sasang-ayon ang mga lalaki ⟨את⟩ sa amin, na tumira ⟨את⟩ kasama natin at maging ⟨⟨maging⟩⟩ na isang bayan: kung tuliin para sa atin ang bawat lalaki, kung paanong sila ay natuli.",
+  "translation": "Lamang sa ganito sasang-ayon ⟨sa⟩ atin ang mga lalaki, na tumira ⟨kasama⟩ natin at maging isang bayan: sa tuliin sa atin ang bawat lalaki, kung paanong sila ay napatuli.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "ngunit (sa lamang)"
+      "gloss": "lamang"
     },
     {
       "surface": "בזאת",
-      "gloss": "sa ito"
+      "gloss": "sa ganito"
     },
     {
       "surface": "יאתו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "sa amin"
+      "gloss": "sa atin"
     },
     {
       "surface": "האנשים",
@@ -33,32 +33,31 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ kasama natin",
-      "marks": "tumira kasama natin"
+      "gloss": "⟨את⟩ natin"
     },
     {
       "surface": "להיות",
-      "gloss": "na maging"
+      "gloss": "maging"
     },
     {
       "surface": "לעם",
-      "gloss": "na isang bayan"
+      "gloss": "isang bayan"
     },
     {
       "surface": "אחד",
-      "gloss": "isang"
+      "gloss": "isa"
     },
     {
       "surface": "בהמול",
-      "gloss": "sa pagtutuli"
+      "gloss": "sa tuliin"
     },
     {
       "surface": "לנו",
-      "gloss": "para sa atin"
+      "gloss": "sa atin"
     },
     {
       "surface": "כל",
-      "gloss": "bawat"
+      "gloss": "ang bawat"
     },
     {
       "surface": "זכר",
@@ -66,7 +65,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kung paano"
+      "gloss": "kung paanong"
     },
     {
       "surface": "הם",
@@ -74,9 +73,9 @@
     },
     {
       "surface": "נמלים",
-      "gloss": "ay natuli"
+      "gloss": "ay napatuli"
     }
   ],
-  "timestamp": "2026-08-19T19:38:45.257959996Z",
+  "timestamp": "2026-08-24T19:37:55.396499769Z",
   "model": "glm-5.3"
 }

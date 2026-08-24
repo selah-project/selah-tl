@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "tl",
   "chapter": 19,
-  "translation": "At nangalunya ang kaniyang pilagsho laban sa kaniya, at umalis siya ⟨מאתו⟩ sa kaniya patungo sa bahay ng kaniyang ama, sa Beit-Lechem ng Yehuda, at natira siya roon nang apat na buwan.",
+  "translation": "At nagpalandi ang kaniyang pilgesh laban sa kaniya, at yumaon siya mula ⟨את⟩ kaniya tungo sa bahay ng kaniyang ama, tungo sa Beit-Lechem ng Yehudah; at nanatili siya roon na apat na buwan.",
   "tokens": [
     {
       "surface": "ותזנה",
-      "gloss": "at nangalunya"
+      "gloss": "at nagpalandi"
     },
     {
       "surface": "עליו",
@@ -17,48 +17,48 @@
     },
     {
       "surface": "פילגשו",
-      "gloss": "ang kaniyang pilagsho"
+      "gloss": "ang kaniyang pilgesh"
     },
     {
       "surface": "ותלך",
-      "gloss": "at umalis siya"
+      "gloss": "at yumaon siya"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ sa kaniya",
-      "marks": "siya (ang nag-alis)"
+      "gloss": "⟨את⟩",
+      "marks": "mula ⟨את⟩ kaniya"
     },
     {
       "surface": "אל",
-      "gloss": "patungo sa"
+      "gloss": "tungo sa"
     },
     {
       "surface": "בית",
-      "gloss": "bahay ng"
+      "gloss": "bahay"
     },
     {
       "surface": "אביה",
-      "gloss": "kaniyang ama"
+      "gloss": "ng kaniyang ama"
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "tungo sa"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit"
     },
     {
       "surface": "לחם",
-      "gloss": "Lechem ng"
+      "gloss": "-Lechem"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "ng Yehudah"
     },
     {
       "surface": "ותהי",
-      "gloss": "at natira siya"
+      "gloss": "at nanatili siya"
     },
     {
       "surface": "שם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "nang mga araw"
+      "gloss": "na araw"
     },
     {
       "surface": "ארבעה",
@@ -77,6 +77,6 @@
       "gloss": "na buwan"
     }
   ],
-  "timestamp": "2026-08-19T15:56:00.334872178Z",
+  "timestamp": "2026-08-24T19:41:01.944261453Z",
   "model": "glm-5.3"
 }

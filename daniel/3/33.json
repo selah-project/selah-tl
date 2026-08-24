@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "tl",
   "chapter": 3,
-  "translation": "Mga tanda Niya — gaano kalaki! At mga kamangha-mangha Niya — gaano kalakas! Ang Kanyang kaharian ay ⟨⟨h⟩⟩ kaharian magpakailanman, at ang Kanyang pamamahala ay sa lahat ng henerasyon at henerasyon.",
+  "translation": "Ang ⟨mga⟩ tanda Niya ay gaano kalaki, at ang ⟨mga⟩ kamangha-mangha Niya ay gaano kalakas! Ang paghahari Niya ay paghahari magpakailanman, at ang pamamahala Niya ay sa lahat ng henerasyon at henerasyon.",
   "tokens": [
     {
       "surface": "אתוהי",
-      "gloss": "mga tanda Niya"
+      "gloss": "ang kanyang mga tanda"
     },
     {
       "surface": "כמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ותמהוהי",
-      "gloss": "at mga kamangha-mangha Niya"
+      "gloss": "at ang kanyang mga kamangha-mangha"
     },
     {
       "surface": "כמה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מלכותה",
-      "gloss": "ang Kanyang kaharian"
+      "gloss": "ang kanyang paghahari"
     },
     {
       "surface": "מלכות",
-      "gloss": "kaharian"
+      "gloss": "paghahari"
     },
     {
       "surface": "עלם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ושלטנה",
-      "gloss": "at ang Kanyang pamamahala"
+      "gloss": "at ang kanyang pamamahala"
     },
     {
       "surface": "עם",
@@ -60,6 +60,6 @@
       "gloss": "at henerasyon"
     }
   ],
-  "timestamp": "2026-08-19T19:06:42.212433185Z",
+  "timestamp": "2026-08-24T19:45:43.063613541Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 23,
-  "translation": "Hindi sila titira sa ⟨את⟩ iyong lupain, baka pasalanan nila ang ⟨את⟩ ⟨אתך⟩ ikaw laban sa akin; sapagkat maglilingkod ka sa ⟨את⟩ kanilang mga elohim, sapagkat ⟨ang⟩ mga ito ay magiging bitag sa iyo.",
+  "translation": "Hindi sila mananahan sa iyong lupain, baka pasalanan nila ikaw laban sa akin; sapagkat maglilingkod ka sa ⟨את⟩ kanilang mga diyos, sapagkat magiging bitag ⟨ang mga ito⟩ sa iyo.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ישבו",
-      "gloss": "titira (sila)"
+      "gloss": "mananahan sila"
     },
     {
       "surface": "בארצך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יחטיאו",
-      "gloss": "pasalanan (nila)"
+      "gloss": "pasalanan nila"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
+      "gloss": "⟨את⟩",
       "marks": "ikaw"
     },
     {
@@ -47,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanilang mga elohim"
+      "marks": "kanilang mga diyos"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "kanilang mga elohim"
+      "gloss": "kanilang mga diyos"
     },
     {
       "surface": "כי",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "למוקש",
-      "gloss": "bilang bitag"
+      "gloss": "bitag"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.083533699Z",
+  "timestamp": "2026-08-24T19:38:21.217416634Z",
   "model": "glm-5.3"
 }

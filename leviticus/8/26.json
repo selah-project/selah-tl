@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 8,
-  "translation": "At mula sa basket ng mga tinapay na walang pampaasim na nasa harapan ni Yahweh, kumuha siya ng isang tinapay na walang pampaasim, at isang tinapay ng langis, at isang pinatpat, at inilagay sa ⟨the⟩ mga taba at sa hita ng kanan;",
+  "translation": "At mula sa basket ng mga tinapay na walang pampaalsa na nasa harapan ni Yahweh, kumuha siya ng isang hinurnong tinapay na walang pampaalsa, at isang tinapay na may langis, at isang manipis na diskarte, at inilagay ⟨niya ang mga iyon⟩ sa ibabaw ng mga taba at sa hita ng kanan.",
   "tokens": [
     {
       "surface": "ומסל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המצות",
-      "gloss": "ng mga tinapay na walang pampaasim"
+      "gloss": "ng mga tinapay na walang pampaalsa"
     },
     {
       "surface": "אשר",
@@ -29,43 +29,43 @@
     },
     {
       "surface": "לקח",
-      "gloss": "kumuha"
+      "gloss": "kumuha siya ng"
     },
     {
       "surface": "חלת",
-      "gloss": "tinapay"
+      "gloss": "hinurnong tinapay"
     },
     {
       "surface": "מצה",
-      "gloss": "na walang pampaasim"
+      "gloss": "na walang pampaalsa"
     },
     {
       "surface": "אחת",
-      "gloss": "isa"
+      "gloss": "isang"
     },
     {
       "surface": "וחלת",
-      "gloss": "at tinapay"
+      "gloss": "at isang tinapay"
     },
     {
       "surface": "לחם",
-      "gloss": "ng tinapay"
+      "gloss": "na may"
     },
     {
       "surface": "שמן",
-      "gloss": "na may langis"
+      "gloss": "langis"
     },
     {
       "surface": "אחת",
-      "gloss": "isa"
+      "gloss": "isang"
     },
     {
       "surface": "ורקיק",
-      "gloss": "at pinatpat"
+      "gloss": "at isang manipis na diskarte"
     },
     {
       "surface": "אחד",
-      "gloss": "isa"
+      "gloss": "isang"
     },
     {
       "surface": "וישם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "sa ibabaw ng"
     },
     {
       "surface": "החלבים",
@@ -92,6 +92,6 @@
       "gloss": "ng kanan"
     }
   ],
-  "timestamp": "2026-08-19T14:49:05.921549890Z",
+  "timestamp": "2026-08-24T19:39:44.814629283Z",
   "model": "glm-5.3"
 }

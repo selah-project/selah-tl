@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "tl",
   "chapter": 11,
-  "translation": "Kung mapupuno ang mga ulap ng ulan, sa lupain sila ⟨magbubuhos⟩; at kung matatumba ang puno sa timog, o kaya sa hilaga, sa lugar kung saan natumba ang puno, doon ⟨ito mananatili⟩.",
+  "translation": "Kung mapupuno ang mga ulap ng ulan, sa ibabaw ng lupa sila magbubuhos; at kung matatal ang puno sa timog, o kaya sa hilaga, sa pook kung saan natatal ang puno, doon ito mananatili.",
   "tokens": [
     {
       "surface": "אם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "גשם",
-      "gloss": "ng ulan"
+      "gloss": "ulan"
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "sa ibabaw ng"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ lupain"
+      "gloss": "lupa"
     },
     {
       "surface": "יריקו",
-      "gloss": "sila ⟨magbubuhos⟩"
+      "gloss": "magbubuhos"
     },
     {
       "surface": "ואם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יפול",
-      "gloss": "matatumba"
+      "gloss": "matatal"
     },
     {
       "surface": "עץ",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "ואם",
-      "gloss": "o kaya"
+      "gloss": "o kaya sa"
     },
     {
       "surface": "בצפון",
-      "gloss": "sa hilaga"
+      "gloss": "hilaga"
     },
     {
       "surface": "מקום",
-      "gloss": "sa lugar"
+      "gloss": "sa pook"
     },
     {
       "surface": "שיפול",
-      "gloss": "kung saan natumba"
+      "gloss": "kung saan natatal"
     },
     {
       "surface": "העץ",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "⟨ito mananatili⟩"
+      "gloss": "ito mananatili"
     }
   ],
-  "timestamp": "2026-08-19T19:03:17.426478757Z",
+  "timestamp": "2026-08-24T19:46:16.022506328Z",
   "model": "glm-5.3"
 }

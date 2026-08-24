@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 25,
-  "translation": "At magkikita Ako sa iyo doon, at magsasalita Ako ⟨את⟩ sa iyo mula sa ibabaw ng takip ng kasilungan, mula sa pagitan ng dalawang kerubin na nasa ⟨the⟩ arka ng patotoo — tungkol sa ⟨את⟩ lahat ng ipag-uutos Ko sa ⟨את⟩ iyo patungo sa mga anak ni Yisrael.",
+  "translation": "At magkikita Ako sa iyo doon, at magsasalita Ako ⟨את⟩ iyo mula sa ibabaw ng kapporet, mula sa pagitan ng dalawang kerub na nasa ibabaw ng kaban ng patotoo, tungkol sa ⟨את⟩ lahat ng ipag-uutos Ko ⟨את⟩ sa iyo sa mga anak ni Yisrael.",
   "tokens": [
     {
       "surface": "ונועדתי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sa iyo"
+      "gloss": "⟨את⟩ iyo"
     },
     {
       "surface": "מעל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "takip ng kasilungan"
+      "gloss": "kapporet"
     },
     {
       "surface": "מבין",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerubin"
+      "gloss": "kerub"
     },
     {
       "surface": "אשר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "על",
-      "gloss": "nasa"
+      "gloss": "nasa ibabaw ng"
     },
     {
       "surface": "ארן",
-      "gloss": "arka"
+      "gloss": "kaban"
     },
     {
       "surface": "העדת",
-      "gloss": "ng patotoo"
+      "gloss": "patotoo"
     },
     {
       "surface": "את",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "lahat"
+      "gloss": "lahat ng"
     },
     {
       "surface": "אשר",
-      "gloss": "ng"
+      "gloss": "na"
     },
     {
       "surface": "אצוה",
@@ -82,22 +82,21 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ iyo",
-      "marks": "patungo sa iyo"
+      "gloss": "⟨את⟩ sa iyo"
     },
     {
       "surface": "אל",
-      "gloss": "patungo sa"
+      "gloss": "sa"
     },
     {
       "surface": "בני",
-      "gloss": "mga anak"
+      "gloss": "mga anak ni"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T14:36:30.476750068Z",
+  "timestamp": "2026-08-24T19:38:55.390501557Z",
   "model": "glm-5.3"
 }

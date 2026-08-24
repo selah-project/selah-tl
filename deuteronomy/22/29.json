@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 22,
-  "translation": "At ibibigay ng lalaking sumiping ⟨את⟩ kanya sa ama ng dalaga ang limampung ⟨ים⟩ pilak, at siya'y magiging asawa niya, sapagkat dinuhani niya ito; hindi niya matatanggal siya sa lahat ng kanyang mga araw.",
+  "translation": "At ibibigay ng lalaking sumiping ⟨את⟩ kanya sa ama ng dalaga na limampung ⟨כסף⟩, at sa kanya siya'y magiging asawa, sapagkat kanyang pinahiya ⟨את⟩ kanya; hindi niya makakayang pauwiin ⟨את⟩ kanya sa lahat ng kanyang mga araw.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -21,7 +21,8 @@
     },
     {
       "surface": "עמה",
-      "gloss": "sa kanya"
+      "gloss": "kanya",
+      "marks": ""
     },
     {
       "surface": "לאבי",
@@ -33,7 +34,7 @@
     },
     {
       "surface": "חמשים",
-      "gloss": "limampung"
+      "gloss": "limampu"
     },
     {
       "surface": "כסף",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "magiging"
+      "gloss": "siya'y magiging"
     },
     {
       "surface": "לאשה",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "ענה",
-      "gloss": "dinuhani niya"
+      "gloss": "kanyang pinahiya"
     },
     {
       "surface": "לא",
@@ -69,21 +70,21 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "matatanggal niya"
+      "gloss": "makakayang"
     },
     {
       "surface": "שלחה",
-      "gloss": "siya sa pagpapawala"
+      "gloss": "pauwiin"
     },
     {
       "surface": "כל",
-      "gloss": "lahat"
+      "gloss": "sa lahat ng"
     },
     {
       "surface": "ימיו",
-      "gloss": "ng kanyang mga araw"
+      "gloss": "kanyang mga araw"
     }
   ],
-  "timestamp": "2026-08-19T15:29:39.422254533Z",
+  "timestamp": "2026-08-24T19:47:38.155223244Z",
   "model": "glm-5.3"
 }

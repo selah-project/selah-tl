@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 6,
-  "translation": "Nang magkagayon, nagsalita si Shelomoh: Si Yahweh ay nagsabi na tatahan sa ⟨⟨kadiliman⟩⟩ na makapal.",
+  "translation": "Nang magkagayon, nagsalita si Shelomoh: Si Yahweh ay nagsabi na tatahan sa ⟨sa⟩ kadiliman.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "nang magkagayon"
+      "gloss": "Nang magkagayon"
     },
     {
       "surface": "אמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "Si Yahweh"
     },
     {
       "surface": "אמר",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "לשכון",
-      "gloss": "na tatahan"
+      "gloss": "tatahan"
     },
     {
       "surface": "בערפל",
-      "gloss": "sa kadiliman na makapal"
+      "gloss": "sa kadiliman"
     }
   ],
-  "timestamp": "2026-08-19T19:28:48.844250557Z",
+  "timestamp": "2026-08-24T19:46:16.368738450Z",
   "model": "glm-5.3"
 }

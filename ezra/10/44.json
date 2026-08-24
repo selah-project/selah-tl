@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "tl",
   "chapter": 10,
-  "translation": "Lahat ng ⟨אלה⟩ ay nag-asawa ng banyagang mga babae, at mayroon sa kanila na may mga asawang ⟨את⟩ nagpakadalubhasa sa mga anak.",
+  "translation": "Lahat ng ⟨אלה⟩ ay nag-asawa ng babaeng dayuhan, at mayroon sa kanila na ⟨may⟩ mga asawang babaeng ⟨na⟩ nag-anak ng mga anak.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Lahat ng"
+      "gloss": "lahat"
     },
     {
       "surface": "אלה",
-      "gloss": "⟨ang mga ito⟩"
+      "gloss": "⟨ng⟩ mga ito"
     },
     {
       "surface": "נשאי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נשים",
-      "gloss": "mga banyagang babae"
+      "gloss": "mga asawang babae"
     },
     {
       "surface": "נכריות",
-      "gloss": "banyaga"
+      "gloss": "babaeng dayuhan"
     },
     {
       "surface": "ויש",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "נשים",
-      "gloss": "mga asawa"
+      "gloss": "mga asawang babae"
     },
     {
       "surface": "וישימו",
-      "gloss": "na nagtaas"
+      "gloss": "nag-anak"
     },
     {
       "surface": "בנים",
       "gloss": "mga anak"
     }
   ],
-  "timestamp": "2026-08-19T19:14:51.812359426Z",
+  "timestamp": "2026-08-24T19:46:32.664065451Z",
   "model": "glm-5.3"
 }

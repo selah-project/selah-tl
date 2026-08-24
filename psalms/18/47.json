@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 18,
-  "translation": "Buhay si Yahweh, at papurihan ang bato kong ⟨⟨→⟩⟩ Ilalakip: at papurihan ang aking Bato, at mataas na ang Elohim ng kaligtasan ko.",
-  "tokens": [],
-  "timestamp": "2026-08-19T18:13:46.193863424Z",
+  "translation": "Buhay si Yahweh, at pagbukang-palad sa bato ko, at lumaganap ⟨na⟩ ang Elohim ng kaligtasan ko —",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Buhay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "at pagbukang-palad"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sa bato ko"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "at lumaganap"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ng kaligtasan ko"
+    }
+  ],
+  "timestamp": "2026-08-24T19:44:45.442188833Z",
   "model": "glm-5.3"
 }

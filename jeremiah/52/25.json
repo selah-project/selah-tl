@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tl",
   "chapter": 52,
-  "translation": "At mula sa ⟨the⟩ lungsod ay kumuha siya ng isang eunuko na noon ay tagapamahala sa mga lalaking mandirigma, at pitong lalaki sa mga nakakakita sa mukha ng hari, na natagpuan sa lungsod, at ⟨את⟩ ang tagasulat na panginoon ng hukbo na nagtitipon ng ⟨את⟩ bayan ng lupain, at animnapung lalaki mula sa bayan ng lupain na natagpuan sa gitna ng lungsod.",
+  "translation": "At mula sa ⟨ang⟩ lungsod ay kumuha siya ng isang eunuko na nanunungkulan sa mga lalaking mandirigma, at pitong lalaki sa mga nakakakita sa mukha ng hari, na nasumpungan sa lungsod, at ang ⟨את⟩ tagasulat na puno ng hukbo na nagtatakbong nagbubilang ng ⟨את⟩ bayan ng lupain, at animnapung lalaki mula sa bayan ng lupain na nasusumpungan sa gitna ng lungsod.",
   "tokens": [
     {
       "surface": "ומן",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ lungsod"
+      "gloss": "lungsod"
     },
     {
       "surface": "לקח",
-      "gloss": "kumuha"
+      "gloss": "kumuha siya"
     },
     {
       "surface": "סריס",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "noon ay"
+      "gloss": "nanunungkulan"
     },
     {
       "surface": "פקיד",
-      "gloss": "tagapamahala"
+      "gloss": "opisyal"
     },
     {
       "surface": "על",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ושבעה",
-      "gloss": "at pito"
+      "gloss": "at pitong"
     },
     {
       "surface": "אנשים",
-      "gloss": "mga lalaki"
+      "gloss": "lalaki"
     },
     {
       "surface": "מראי",
-      "gloss": "mga nakakakita"
+      "gloss": "sa mga nakakakita"
     },
     {
       "surface": "פני",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "natagpuan"
+      "gloss": "nasumpungan"
     },
     {
       "surface": "בעיר",
@@ -85,8 +85,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ang tagasulat"
+      "gloss": "at ⟨את⟩",
+      "marks": "tagasulat"
     },
     {
       "surface": "ספר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "panginoon"
+      "gloss": "puno"
     },
     {
       "surface": "הצבא",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "המצבא",
-      "gloss": "nagtitipon"
+      "gloss": "nagbubilang"
     },
     {
       "surface": "את",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "וששים",
-      "gloss": "at animnapu"
+      "gloss": "at animnapung"
     },
     {
       "surface": "איש",
@@ -135,7 +135,7 @@
     },
     {
       "surface": "הנמצאים",
-      "gloss": "na natagpuan"
+      "gloss": "na nasusumpungan"
     },
     {
       "surface": "בתוך",
@@ -146,6 +146,6 @@
       "gloss": "lungsod"
     }
   ],
-  "timestamp": "2026-08-19T17:38:06.411559510Z",
+  "timestamp": "2026-08-24T19:44:03.316389193Z",
   "model": "glm-5.3"
 }

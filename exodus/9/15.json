@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 9,
-  "translation": "Sapagkat ngayon, ipinadala ko na ang ⟨את⟩ aking kamay at sasaktan kita ⟨את⟩ ⟨אותך⟩ at ang ⟨את⟩ iyong bayan ng salot, at matutupok ka mula sa lupa.",
+  "translation": "Sapagkat ngayon, iniunat ko na ang ⟨את⟩ aking kamay at sasaktan kita ⟨את⟩ at ang ⟨את⟩ iyong bayan ng salot, at ikaw ay mapupuksa mula sa lupa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sapagkat"
+      "gloss": "sapagkat"
     },
     {
       "surface": "עתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "ipinadala ko na"
+      "gloss": "iniunat\/isiniad ko na"
     },
     {
       "surface": "את",
@@ -30,12 +30,11 @@
     },
     {
       "surface": "ואך",
-      "gloss": "at sasaktan"
+      "gloss": "at"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ ⟨אותך⟩",
-      "marks": "ka (ikaw)"
+      "gloss": "ikaw ⟨את⟩"
     },
     {
       "surface": "ואת",
@@ -52,7 +51,7 @@
     },
     {
       "surface": "ותכחד",
-      "gloss": "at matutupok ka"
+      "gloss": "at mapupuksa"
     },
     {
       "surface": "מן",
@@ -63,6 +62,6 @@
       "gloss": "lupa"
     }
   ],
-  "timestamp": "2026-08-19T14:30:02.705200579Z",
+  "timestamp": "2026-08-24T19:38:44.929386706Z",
   "model": "glm-5.3"
 }

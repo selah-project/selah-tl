@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 9,
-  "translation": "Sapagkat sa pagkakataong ito, ako'y nagpapadala ng ⟨את⟩ lahat ng aking mga salot laban sa iyo ⟨אל⟩ sa iyong puso, at sa iyong mga alipin, at sa iyong bayan, upang iyong makilala na walang katulad ko sa buong lupa.",
+  "translation": "Sapagkat sa pagkakataong ito, ako'y magpapadala ng ⟨את⟩ lahat ng aking mga salot patungo sa iyong puso, at sa iyong mga alipin, at sa iyong bayan, upang iyong matingnan na walang kahawig na katulad ko sa buong lupa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sapagkat"
+      "gloss": "sapagkat"
     },
     {
       "surface": "בפעם",
-      "gloss": "sa pagkakataong"
+      "gloss": "sa pagkakataon"
     },
     {
       "surface": "הזאת",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "שלח",
-      "gloss": "nagpapadala"
+      "gloss": "magpapadala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lalahat ng aking mga salot"
+      "marks": "lahat"
     },
     {
       "surface": "כל",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מגפתי",
-      "gloss": "ng aking mga salot"
+      "gloss": "aking mga salot"
     },
     {
       "surface": "אל",
-      "gloss": "laban sa"
+      "gloss": "patungo sa"
     },
     {
       "surface": "לבך",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "iyong makilala"
+      "gloss": "iyong matingnan\/malaman"
     },
     {
       "surface": "כי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "כמני",
-      "gloss": "katulad ko"
+      "gloss": "kahawig na katulad ko"
     },
     {
       "surface": "בכל",
@@ -85,6 +85,6 @@
       "gloss": "lupa"
     }
   ],
-  "timestamp": "2026-08-19T14:30:02.704821216Z",
+  "timestamp": "2026-08-24T19:38:44.929018586Z",
   "model": "glm-5.3"
 }

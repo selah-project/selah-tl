@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At sinabi niya sa kaniya: Sabihin mo nga sa kaniya: Narito, ikaw ay nabalisa para sa amin nang ⟨את⟩ buong balisa na ito — ano ang gagawin para sa iyo? Mayroon bang ipagsasabi para sa iyo sa ⟨the⟩ hari o sa pinuno ng hukbo? At sumagot siya: Sa gitna ng aking bayan ako nakatira.",
+  "translation": "At sinabi niya sa kanya: Sabihin mo nga sa kanya: Narito, nag-alala ka sa amin nang ⟨את⟩ buong pag-aalalang ito — ano ang gagawin para sa iyo? Mayroon bang sasabihin para sa iyo sa hari o sa pinuno ng hukbo? At sinabi niya: Sa gitna ng aking bayan ako nakatira.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "at sinabi"
+      "gloss": "At sinabi"
     },
     {
       "surface": "לו",
-      "gloss": "sa kaniya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "אמר",
-      "gloss": "sabihin mo"
+      "gloss": "Sabihin"
     },
     {
       "surface": "נא",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "אליה",
-      "gloss": "sa kaniya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "הנה",
-      "gloss": "narito"
+      "gloss": "Narito"
     },
     {
       "surface": "חרדת",
-      "gloss": "ikaw ay nabalisa"
+      "gloss": "nag-alala ka"
     },
     {
       "surface": "אלינו",
-      "gloss": "para sa amin"
+      "gloss": "sa amin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buong balisa na ito"
+      "marks": "buong pag-aalalang ito"
     },
     {
       "surface": "כל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "החרדה",
-      "gloss": "balisa"
+      "gloss": "pag-aalala"
     },
     {
       "surface": "הזאת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "gagawin"
+      "gloss": "ang gagawin"
     },
     {
       "surface": "לך",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "היש",
-      "gloss": "mayroon ba"
+      "gloss": "Mayroon bang"
     },
     {
       "surface": "לדבר",
-      "gloss": "ipagsasabi"
+      "gloss": "sasabihin"
     },
     {
       "surface": "לך",
@@ -105,12 +105,12 @@
       "gloss": "ng hukbo"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "at sinabi niya"
+      "surface": "ותאמר",
+      "gloss": "At sinabi"
     },
     {
       "surface": "בתוך",
-      "gloss": "sa gitna"
+      "gloss": "Sa gitna"
     },
     {
       "surface": "עמי",
@@ -125,6 +125,6 @@
       "gloss": "nakatira"
     }
   ],
-  "timestamp": "2026-08-19T16:41:34.678360641Z",
+  "timestamp": "2026-08-24T19:42:13.244143915Z",
   "model": "glm-5.3"
 }

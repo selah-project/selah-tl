@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 3,
-  "translation": "At nasakop namin ⟨את⟩ ang lahat ng kaniyang mga lungsod sa panahong iyon — walang lungsod ⟨קריה⟩ na hindi namin kinuha ⟨את⟩ mula sa kanila: animnapung lungsod, ang buong lupaing panghiganti ng Argob, kaharian ni Og sa Bashan.",
+  "translation": "At hinuli natin ang ⟨את⟩ lahat ng kaniyang mga lungsod sa panahong yaon; walang lungsod na hindi natin kinuha mula ⟨את⟩ kanila — animnapung lungsod, ang buong distrito ng Argob, ang kaharian ni Og sa Bashan.",
   "tokens": [
     {
       "surface": "ונלכד",
-      "gloss": "at nasakop namin"
+      "gloss": "at hinuli natin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang lahat ng kaniyang mga lungsod"
+      "marks": "lalahat ng kaniyang mga lungsod"
     },
     {
       "surface": "כל",
-      "gloss": "ang lahat"
+      "gloss": "lahat"
     },
     {
       "surface": "עריו",
-      "gloss": "ng kaniyang mga lungsod"
+      "gloss": "kaniyang mga lungsod"
     },
     {
       "surface": "בעת",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "na iyon"
+      "gloss": "yaon"
     },
     {
       "surface": "לא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "may"
+      "gloss": "mayroon"
     },
     {
       "surface": "קריה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "namin kinuha"
+      "gloss": "kinuha natin"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ mula sa kanila"
+      "gloss": "mula ⟨את⟩ kanila"
     },
     {
       "surface": "ששים",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "עיר",
-      "gloss": "na lungsod"
+      "gloss": "lungsod"
     },
     {
       "surface": "כל",
-      "gloss": "ang buong"
+      "gloss": "buong"
     },
     {
       "surface": "חבל",
-      "gloss": "lupaing panghiganti"
+      "gloss": "distrito"
     },
     {
       "surface": "ארגב",
-      "gloss": "ng Argob"
+      "gloss": "Argob"
     },
     {
       "surface": "ממלכת",
@@ -93,6 +93,6 @@
       "gloss": "sa Bashan"
     }
   ],
-  "timestamp": "2026-08-19T15:21:55.891125456Z",
+  "timestamp": "2026-08-24T19:40:41.533215621Z",
   "model": "glm-5.3"
 }

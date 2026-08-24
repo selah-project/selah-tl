@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 17,
-  "translation": "At sinabi ni Yahweh kay Moshe: Ibalik ang ⟨את⟩ tungkod ni Aharon sa harap ng ⟨the⟩ patotoo, bilang ingatan, bilang tanda para sa ⟨mga⟩ anak ni Meri, at matapos ang ⟨mga⟩ pag-aalsa nila laban sa akin, upang hindi sila mamatay.",
+  "translation": "At sinabi ni Yahweh kay Moshe: 'Ibalik mo ang ⟨את⟩ pato ni Aharon sa harap ng patotoo, bilang ingatan, para maging tanda sa mga anak ni Meri, upang matapos ang kanilang mga pagdadahilan laban sa akin at hindi sila mamatay.'",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "השב",
-      "gloss": "ibalik"
+      "gloss": "ibalik mo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tungkod ni Aharon"
+      "marks": "pato ni Aharon"
     },
     {
       "surface": "מטה",
-      "gloss": "tungkod"
+      "gloss": "pato"
     },
     {
       "surface": "אהרן",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "לאות",
-      "gloss": "bilang tanda"
+      "gloss": "para maging tanda"
     },
     {
       "surface": "לבני",
-      "gloss": "para sa mga anak"
+      "gloss": "sa mga anak ni"
     },
     {
       "surface": "מרי",
-      "gloss": "ni Meri"
+      "gloss": "Meri"
     },
     {
       "surface": "ותכל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "תלונתם",
-      "gloss": "mga pag-aalsa nila"
+      "gloss": "ang kanilang mga pagdadahilan"
     },
     {
       "surface": "מעלי",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "upang hindi"
+      "gloss": "at hindi"
     },
     {
       "surface": "ימתו",
       "gloss": "sila mamatay"
     }
   ],
-  "timestamp": "2026-08-19T15:10:51.448148188Z",
+  "timestamp": "2026-08-24T19:40:18.955187941Z",
   "model": "glm-5.3"
 }

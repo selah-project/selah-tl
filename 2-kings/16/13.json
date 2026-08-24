@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At iginalo niya ang ⟨את⟩ kanyang handog na sunugin at ang ⟨את⟩ kanyang handog na harain, at ibinuhos ang ⟨את⟩ kanyang inuming handog, at iniwisik ang ⟨את⟩ dugo ng ⟨the⟩ mga handog na kapayapaan na sa kaniya sa ibabaw ng altar.",
+  "translation": "At pinagsunog niya ang ⟨את⟩ kanyang handog na sunugin at ang ⟨את⟩ kanyang handog na harain, at ibinuhos ang ⟨את⟩ kanyang inumin, at winisikan ang ⟨את⟩ dugo ng mga handog na kapayapaan na sa kanya sa ibabaw ng altar.",
   "tokens": [
     {
       "surface": "ויקטר",
-      "gloss": "at iginalo niya"
+      "gloss": "pinagsunog niya"
     },
     {
       "surface": "את",
@@ -31,24 +31,24 @@
     },
     {
       "surface": "ויסך",
-      "gloss": "at ibinuhos niya"
+      "gloss": "ibinuhos niya"
     },
     {
       "surface": "את",
-      "gloss": "ang ⟨את⟩",
-      "marks": "kanyang inuming handog"
+      "gloss": "⟨את⟩",
+      "marks": "kanyang inumin"
     },
     {
       "surface": "נסכו",
-      "gloss": "kanyang inuming handog"
+      "gloss": "kanyang inumin"
     },
     {
       "surface": "ויזרק",
-      "gloss": "at iniwisik niya"
+      "gloss": "winisikan niya"
     },
     {
       "surface": "את",
-      "gloss": "ang ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "dugo"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "sa kaniya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "על",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "ang altar"
+      "gloss": "altar"
     }
   ],
-  "timestamp": "2026-08-19T16:48:08.732636045Z",
+  "timestamp": "2026-08-24T19:41:55.129114183Z",
   "model": "glm-5.3"
 }

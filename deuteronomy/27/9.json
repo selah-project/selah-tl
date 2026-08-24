@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 27,
-  "translation": "At nagsalita si Moshe at ang mga koheno, ang mga Levita, sa buong Israel, na nagsasabi: Tumahimik ka at makinig, O Israel; sa araw na ito ikaw ay naging ⟨⟨is⟩⟩ bayan kay Yahweh na iyong Elohim.",
+  "translation": "At sinabi ni Moshe at ang mga koheno, ang mga Levita, sa buong Yisra'el, na nagsasabi: Manahimik ka at makinig ka, Yisra'el; sa araw na ito ay naging ⟨⟨ikaw⟩⟩ bayan ka na para kay Yahweh na iyong Elohim.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "At nagsalita"
+      "gloss": "at sinabi ni"
     },
     {
       "surface": "משה",
-      "gloss": "si Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "והכהנים",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "לאמר",
-      "gloss": "na nagsasabi"
+      "gloss": "na nagsasabi:"
     },
     {
       "surface": "הסכת",
-      "gloss": "Tumahimik ka"
+      "gloss": "Manahimik ka"
     },
     {
       "surface": "ושמע",
-      "gloss": "at makinig"
+      "gloss": "at makinig ka"
     },
     {
       "surface": "ישראל",
-      "gloss": "O Israel"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "היום",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "נהיית",
-      "gloss": "ikaw ay naging"
+      "gloss": "naging ka"
     },
     {
       "surface": "לעם",
-      "gloss": "bayan"
+      "gloss": "bayan para sa"
     },
     {
       "surface": "ליהוה",
@@ -76,6 +76,6 @@
       "gloss": "na iyong Elohim"
     }
   ],
-  "timestamp": "2026-08-19T15:31:39.379979019Z",
+  "timestamp": "2026-08-24T19:40:07.564392103Z",
   "model": "glm-5.3"
 }

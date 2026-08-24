@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "tl",
   "chapter": 26,
-  "translation": "At sa ilalim ng kanilang kamay ay hukbo ng digmaan, tatlong daang libo at pitong libo at limang daan, mga gumagawa ng digma na may lakas na kapangyarihan, upang tumulong sa hari laban sa ⟨the⟩ kaaway.",
+  "translation": "At sa ilalim ng kanilang kamay ⟨may⟩ hukbo ng sandatahan, tatlong daan at walumpung libo't pitong libo't limang daan — mga gumagawa ng digmaan na may lakas ng tapang, upang tumulong sa hari laban sa kaaway.",
   "tokens": [
     {
       "surface": "ועל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "צבא",
-      "gloss": "ng digmaan"
+      "gloss": "ng sandatahan"
     },
     {
       "surface": "שלש",
-      "gloss": "tatlo"
+      "gloss": "tatlong"
     },
     {
       "surface": "מאות",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "ng digma"
+      "gloss": "ng digmaan"
     },
     {
       "surface": "בכח",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "ng kapangyarihan"
+      "gloss": "ng tapang"
     },
     {
       "surface": "לעזר",
@@ -84,6 +84,6 @@
       "gloss": "kaaway"
     }
   ],
-  "timestamp": "2026-08-19T19:35:18.602405056Z",
+  "timestamp": "2026-08-24T19:47:15.729211832Z",
   "model": "glm-5.3"
 }

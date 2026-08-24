@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 1,
-  "translation": "At sinabi ng hari sa kanila: Kunin ninyo kasama ninyo ang ⟨את⟩ mga alipin ng inyong panginoon, at isakay ninyo ang ⟨את⟩ Shelomoh na anak ko sa ⟨the⟩ mola na akin, at dadalhin ninyo ⟨את⟩ siya pababa sa Gichon.",
+  "translation": "At sinabi ng hari sa kanila: Kunin ninyong kasama ⟨את⟩ mga lingkod ng inyong panginoon, at ipagkabayo ninyo ⟨את⟩ Shelomoh na anak ko sa ⟨ang⟩ pingas na sa akin, at ibaba ninyo ⟨את⟩ siya hanggang Gichon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ang hari"
+      "gloss": "ng hari"
     },
     {
       "surface": "להם",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "קחו",
-      "gloss": "kunin ninyo"
+      "gloss": "kunin"
     },
     {
       "surface": "עמכם",
-      "gloss": "kasama ninyo"
+      "gloss": "ninyong kasama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga alipin ng inyong panginoon"
+      "marks": "mga lingkod ng inyong panginoon"
     },
     {
       "surface": "עבדי",
-      "gloss": "mga alipin ng"
+      "gloss": "mga lingkod"
     },
     {
       "surface": "אדניכם",
-      "gloss": "inyong panginoon"
+      "gloss": "ng inyong panginoon"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "at isasakay ninyo"
+      "gloss": "at ipagkabayo ninyo"
     },
     {
       "surface": "את",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "si Shelomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "בני",
-      "gloss": "anak ko"
+      "gloss": "na anak ko"
     },
     {
       "surface": "על",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "mola"
+      "gloss": "pingas"
     },
     {
       "surface": "אשר",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "akin"
+      "gloss": "sa akin"
     },
     {
       "surface": "והורדתם",
-      "gloss": "at dadalhin ninyo pababa"
+      "gloss": "at ibaba ninyo"
     },
     {
       "surface": "אתו",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "sa"
+      "gloss": "hanggang"
     },
     {
       "surface": "גחון",
       "gloss": "Gichon"
     }
   ],
-  "timestamp": "2026-08-19T16:24:26.523084254Z",
+  "timestamp": "2026-08-24T19:42:05.731469169Z",
   "model": "glm-5.3"
 }

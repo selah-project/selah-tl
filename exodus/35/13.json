@@ -5,8 +5,53 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 35,
-  "translation": "ang ⟨את⟩ hapag at ang ⟨את⟩ mga patak niya at ang ⟨את⟩ lahat ng mga kagamitan nito at ang ⟨את⟩ tinapay ng ḳgd Harungan",
-  "tokens": [],
-  "timestamp": "2026-08-19T14:41:32.688992860Z",
+  "translation": "Ang ⟨את⟩ mesa at ang ⟨את⟩ mga pingga nito at ang ⟨את⟩ lahat ng mga kagamitan nito, at ang ⟨את⟩ tinapay ng ⟨ang⟩ mga pananaw;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "mga pingga nito"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mga pingga nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "lahat ng mga kagamitan nito"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lahat ng"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan nito"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "at ang ⟨את⟩",
+      "marks": "tinapay ng mga pananaw"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "mga pananaw"
+    }
+  ],
+  "timestamp": "2026-08-24T19:38:26.617290488Z",
   "model": "glm-5.3"
 }

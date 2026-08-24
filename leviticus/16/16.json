@@ -5,31 +5,31 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 16,
-  "translation": "At magpapakaparusahan siya sa ⟨the⟩ santuwaryo dahil sa mga karumihan ng mga anak ni Yisrael, at dahil sa kanilang mga pagsuway, sa lahat ng kanilang mga kasalanan; at gayundin ang gagawin niya sa tolda ng kaganapan, na nananahan ⟨את⟩ ⟨אתם⟩ kasama nila sa gitna ng kanilang mga karumihan.",
+  "translation": "At lilinisin niya ang banal na dako dahil sa mga karumihan ng mga anak ni Yisrael at sa kanilang mga pagsuway sa lahat ng kanilang mga kasalanan; at gayundin gagawin niya sa tolda ng tipanan na nananahan ⟨את⟩ kasama nila sa gitna ng kanilang mga karumihan.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "At magpapakaparusahan"
+      "gloss": "at lilinisin niya"
     },
     {
       "surface": "על",
-      "gloss": "sa"
+      "gloss": "dahil sa"
     },
     {
       "surface": "הקדש",
-      "gloss": "ang santuwaryo"
+      "gloss": "ang banal na dako"
     },
     {
       "surface": "מטמאת",
-      "gloss": "dahil sa mga karumihan"
+      "gloss": "sa mga karumihan"
     },
     {
       "surface": "בני",
-      "gloss": "ng mga anak"
+      "gloss": "mga anak ni"
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ומפשעיהם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "sa lahat"
+      "gloss": "sa lahat ng"
     },
     {
       "surface": "חטאתם",
-      "gloss": "ng kanilang mga kasalanan"
+      "gloss": "kanilang mga kasalanan"
     },
     {
       "surface": "וכן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "ang gagawin niya"
+      "gloss": "gagawin niya"
     },
     {
       "surface": "לאהל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "ng kaganapan"
+      "gloss": "ng tipanan"
     },
     {
       "surface": "השכן",
@@ -65,17 +65,18 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩ kasama"
+      "gloss": "⟨את⟩",
+      "marks": "kasama nila"
     },
     {
       "surface": "בתוך",
-      "gloss": "sa gitna"
+      "gloss": "sa gitna ng"
     },
     {
       "surface": "טמאתם",
-      "gloss": "ng kanilang mga karumihan"
+      "gloss": "kanilang mga karumihan"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.134796552Z",
+  "timestamp": "2026-08-24T19:39:58.447555259Z",
   "model": "glm-5.3"
 }

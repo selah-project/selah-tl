@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 13,
-  "translation": "At nangyari, habang ⟨silа⟩ nakaupo sila sa mesa, na dumating ang salita ni Yahweh sa propeta na nagbalik ⟨sa⟩ ⟨kanya⟩.",
+  "translation": "At nangyari, habang sila'y nakaupo sa ⟨the⟩ hapag, dumating ang salita ni Yahweh sa propeta na nagbalik sa kaniya,",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "silа"
+      "gloss": "sila"
     },
     {
       "surface": "ישבים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "mesa"
+      "gloss": "hapag"
     },
     {
       "surface": "ויהי",
-      "gloss": "na dumating"
+      "gloss": "dumating"
     },
     {
       "surface": "דבר",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "השיבו",
-      "gloss": "nagbalik sa kanya"
+      "gloss": "nagbalik sa kaniya"
     }
   ],
-  "timestamp": "2026-08-19T16:31:36.452529223Z",
+  "timestamp": "2026-08-24T19:41:50.957412022Z",
   "model": "glm-5.3"
 }

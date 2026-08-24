@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At tumingin siya, at narito, ang hari ay nakatayo sa ⟨the⟩ haligi ayon sa kaugalian, at ang mga pangulo at ang mga trumpeta ay nasa hari, at ang buong bayan ng lupain ay nagagalak at umiinog ng mga trumpeta; at pumunit si Athaljah ng ⟨את⟩ kanyang mga damit at sumigaw: Pakikipagsabwatan! Pakikipagsabwatan!",
+  "translation": "At nang tumingin siya, at narito, nakatayo ang hari sa ⟨ang⟩ haligi ayon sa kaugalian, at ang mga panginoon at ang mga trumpeta ⟨ay nandoon⟩ sa hari, at ang buong bayan ng lupain ay nagagalak at umiinog ng mga trumpeta; at pumunit si Athalya ng ⟨את⟩ kanyang mga damit at sumigaw: Pakikipagsabwatan! Pakikipagsabwatan!",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "at tumingin"
+      "gloss": "at nang tumingin siya"
     },
     {
       "surface": "והנה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העמוד",
-      "gloss": "haligi"
+      "gloss": "⟨ang⟩ haligi"
     },
     {
       "surface": "כמשפט",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "והשרים",
-      "gloss": "at ang mga pangulo"
+      "gloss": "at ang mga panginoon"
     },
     {
       "surface": "והחצצרות",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "nasa"
+      "gloss": "sa"
     },
     {
       "surface": "המלך",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "עתליה",
-      "gloss": "si Athaljah"
+      "gloss": "Athalya"
     },
     {
       "surface": "את",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "קשר",
-      "gloss": "Pakikipagsabwatan"
+      "gloss": "Pakikipagsabwatan!"
     },
     {
       "surface": "קשר",
-      "gloss": "Pakikipagsabwatan"
+      "gloss": "Pakikipagsabwatan!"
     }
   ],
-  "timestamp": "2026-08-19T16:45:40.857120403Z",
+  "timestamp": "2026-08-24T19:42:01.965801440Z",
   "model": "glm-5.3"
 }

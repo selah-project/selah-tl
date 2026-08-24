@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "tl",
   "chapter": 28,
-  "translation": "Sapagkat tulad sa bundok ng Peratsim babangon si Yahweh, tulad sa lambak sa Giv'on yayanig niya ⟨⟨ang lupa⟩⟩ — upang gawin ang kaniyang gawa, banyaga ang kaniyang gawa, at upang isagawa ang kaniyang paglilingkod, kakaiba ang kaniyang paglilingkod.",
+  "translation": "Sapagkat babangon si Yahweh gaya ng sa Har Peratsim, mag-aalab gaya ng sa libis ng Giv'on, upang gawin ang Kanyang gawa—kakaiba ang Kanyang gawa—at upang ganapin ang Kanyang gawain, banyaga ang Kanyang gawain.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sapagkat"
+      "gloss": "Sapagkat"
     },
     {
       "surface": "כהר",
-      "gloss": "tulad sa bundok ng"
+      "gloss": "gaya ng sa har"
     },
     {
       "surface": "פרצים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "כעמק",
-      "gloss": "tulad sa lambak sa"
+      "gloss": "gaya ng sa libis"
     },
     {
       "surface": "בגבעון",
-      "gloss": "Giv'on"
+      "gloss": "ng Giv'on"
     },
     {
       "surface": "ירגז",
-      "gloss": "yayanig"
+      "gloss": "mag-aalab"
     },
     {
       "surface": "לעשות",
@@ -45,33 +45,33 @@
     },
     {
       "surface": "מעשהו",
-      "gloss": "ang kaniyang gawa"
+      "gloss": "ang Kanyang gawa"
     },
     {
       "surface": "זר",
-      "gloss": "banyaga"
-    },
-    {
-      "surface": "מעשהו",
-      "gloss": "ang kaniyang gawa"
-    },
-    {
-      "surface": "ולעבד",
-      "gloss": "at upang isagawa"
-    },
-    {
-      "surface": "עבדתו",
-      "gloss": "ang kaniyang paglilingkod"
-    },
-    {
-      "surface": "נכריה",
       "gloss": "kakaiba"
     },
     {
+      "surface": "מעשהו",
+      "gloss": "ang Kanyang gawa"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "at upang ganapin"
+    },
+    {
       "surface": "עבדתו",
-      "gloss": "ang kaniyang paglilingkod"
+      "gloss": "ang Kanyang gawain"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "banyaga"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ang Kanyang gawain"
     }
   ],
-  "timestamp": "2026-08-19T17:02:58.952503498Z",
+  "timestamp": "2026-08-24T19:42:59.457905317Z",
   "model": "glm-5.3"
 }

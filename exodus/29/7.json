@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 29,
-  "translation": "At kukunin mo ang ⟨את⟩ langis ng pagpapahid, at ibubuhos mo sa ibabaw ng kaniyang ulo, at papahidian mo ⟨את⟩ ⟨אתו⟩ siya.",
+  "translation": "At kukunin mo ang ⟨את⟩ langis ng pagpapahid, at ibubuhos mo sa kaniyang ulo, at papahiran mo siya.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sa ibabaw ng"
+      "gloss": "sa"
     },
     {
       "surface": "ראשו",
@@ -38,14 +38,14 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "at papahidian mo"
+      "gloss": "at papahiran mo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "siya (Aharon)"
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang pinapahid)"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.084378381Z",
+  "timestamp": "2026-08-24T19:38:17.511402914Z",
   "model": "glm-5.3"
 }

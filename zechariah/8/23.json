@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "tl",
   "chapter": 8,
-  "translation": "Ganito ang sabi ni Yahweh ng mga hukbo: Nang mga araw na yaon, kukuha ng sampung lalaki mula sa lahat ng mga wika ng mga bansa, at hahawakan sa gilid ng damit ng isang lalaking Yehudi, na magsasabi: Tayo'y sumama sa inyo, sapagkat narinig namin na ⟨⟨ay⟩⟩ nakasama ang Elohim sa inyo.",
+  "translation": "Ganito ang sinabi ni Yahweh ng mga hukbo: Sa mga araw na yaon, huhugutin ng sampung lalaki mula sa lahat ng wika ng mga bansa, at hahawakan nila ang laylayan ng isang lalaking Yehudi, na nagsasabi: Pumaroon tayo kasama ⟨ninyo⟩, sapagkat narinig namin na ang Elohim ay ⟨kasama⟩ ninyo.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "ganito"
+      "gloss": "Ganito"
     },
     {
       "surface": "אמר",
-      "gloss": "ang sabi"
+      "gloss": "sinabi"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בימים",
-      "gloss": "sa mga araw"
+      "gloss": "Sa mga araw"
     },
     {
       "surface": "ההמה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יחזיקו",
-      "gloss": "kukuha (hahawak)"
+      "gloss": "huhugutin"
     },
     {
       "surface": "עשרה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לשנות",
-      "gloss": "mga wika"
+      "gloss": "wika"
     },
     {
       "surface": "הגוים",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "והחזיקו",
-      "gloss": "at hahawakan"
+      "gloss": "at hahawakan nila"
     },
     {
       "surface": "בכנף",
-      "gloss": "sa gilid ng damit"
+      "gloss": "ang laylayan"
     },
     {
       "surface": "איש",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na magsasabi"
+      "gloss": "na nagsasabi"
     },
     {
       "surface": "נלכה",
-      "gloss": "tayo'y sumama"
+      "gloss": "Pumaroon tayo"
     },
     {
       "surface": "עמכם",
-      "gloss": "sa inyo"
+      "gloss": "kasama ninyo"
     },
     {
       "surface": "כי",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "nakasama sa inyo"
+      "gloss": "⟨kasama⟩ ninyo"
     }
   ],
-  "timestamp": "2026-08-19T18:08:39.676360185Z",
+  "timestamp": "2026-08-24T19:44:55.056130376Z",
   "model": "glm-5.3"
 }

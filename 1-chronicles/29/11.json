@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 29,
-  "translation": "Sa iyo, Yahweh, ang kadakilaan at ang kapangyarihan at ang kaluwalhatian at ang tagumpay at ang karangalan; sapagkat ang lahat na nasa ⟨the⟩ langit at sa lupa ⟨ay sa iyo⟩; sa iyo, Yahweh, ang paghahari, at ikaw ang itinataas bilang ulo sa ibabaw ng lahat.",
+  "translation": "Sa iyo, Yahweh, ang kadakilaan at ang kalakasan at ang karangalan at ang pagtatagumpay at ang kahariang-dakila, sapagkat ang lahat ay nasa mga langit at nasa lupa; sa iyo, Yahweh, ang kaharian, at ikaw ay ⟨iniangat⟩ na ulo sa ⟨ibabaw⟩ ng lahat.",
   "tokens": [
     {
       "surface": "לך",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "והגבורה",
-      "gloss": "at ang kapangyarihan"
+      "gloss": "at ang kalakasan"
     },
     {
       "surface": "והתפארת",
-      "gloss": "at ang kaluwalhatian"
+      "gloss": "at ang karangalan"
     },
     {
       "surface": "והנצח",
-      "gloss": "at ang tagumpay"
+      "gloss": "at ang pagtatagumpay"
     },
     {
       "surface": "וההוד",
-      "gloss": "at ang karangalan"
+      "gloss": "at ang kahariang-dakila"
     },
     {
       "surface": "כי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "nasa langit"
+      "gloss": "nasa mga langit"
     },
     {
       "surface": "ובארץ",
-      "gloss": "at sa lupa"
+      "gloss": "at nasa lupa"
     },
     {
       "surface": "לך",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "ang paghahari"
+      "gloss": "ang kaharian"
     },
     {
       "surface": "והמתנשא",
-      "gloss": "at ang itinataas"
+      "gloss": "at ang nagmamataas"
     },
     {
       "surface": "לכל",
@@ -76,6 +76,6 @@
       "gloss": "bilang ulo"
     }
   ],
-  "timestamp": "2026-08-19T19:28:03.333507447Z",
+  "timestamp": "2026-08-24T19:46:18.982314284Z",
   "model": "glm-5.3"
 }

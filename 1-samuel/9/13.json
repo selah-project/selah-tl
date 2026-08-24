@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 9,
-  "translation": "Pagdating ninyo sa lungsod, kaagad ninyong matatagpuan ⟨אתו⟩ siya, bago pa siya umakyat sa mataas na dako upang kumain; sapagkat hindi kakain ang bayan hanggang sa pagdating niya, sapagkat siya ang magbabasbas sa hain; pagkatapos noon kakain ang mga inanyayahan. At ngayon, umakyat kayo, sapagkat sa araw na ito ⟨אתו⟩ siya ay matatagpuan ninyo ⟨אתו⟩ siya.",
+  "translation": "Pagdating ninyo sa ⟨ang⟩ siyudad, kaagad ninyong matatagpuan ⟨את⟩ siya, bago pa siya umakyat sa mataas na lugar upang kumain; sapagkat hindi kakain ang bayan hanggang sa pagdating niya, sapagkat siya ang magbabasbas sa ⟨ang⟩ hain; pagkatapos nito, kakain ang mga inanyayahan. Ngayon nga, umakyat kayo, sapagkat siya — gaya ng araw na ito — matatagpuan ninyo ⟨את⟩ siya.",
   "tokens": [
     {
       "surface": "כבאכם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "sa lungsod"
+      "gloss": "sa siyudad"
     },
     {
       "surface": "כן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "siya"
     },
     {
@@ -34,11 +34,11 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "umakyat siya"
+      "gloss": "siya umakyat"
     },
     {
       "surface": "הבמתה",
-      "gloss": "sa mataas na dako"
+      "gloss": "sa mataas na lugar"
     },
     {
       "surface": "לאכל",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "noon"
+      "gloss": "nito"
     },
     {
       "surface": "יאכלו",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "at ngayon"
+      "gloss": "ngayon nga"
     },
     {
       "surface": "עלו",
@@ -114,12 +114,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "siya"
+      "gloss": "⟨את⟩ siya"
     },
     {
       "surface": "כהיום",
-      "gloss": "sa araw na ito"
+      "gloss": "gaya ng araw na ito"
     },
     {
       "surface": "תמצאון",
@@ -127,10 +126,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "siya"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.106191194Z",
+  "timestamp": "2026-08-24T19:41:12.894760059Z",
   "model": "glm-5.3"
 }

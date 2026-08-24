@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At sisidlan ng kuhen ang ⟨את⟩ kanyang daliri sa dugo, at magwiwisik siya ng dugo na pito (na) beses sa harapan ni Yahweh, ⟨את⟩ sa harap ng tabing ng ⟨the⟩ kaban.",
+  "translation": "At didips ng kohen ang ⟨את⟩ kanyang daliri sa dugo, at magwisik siya ng mula sa dugo na pitong ulit sa harapan ni Yahweh, sa ⟨את⟩ harap ng lambong ng banal na lugar.",
   "tokens": [
     {
       "surface": "וטבל",
-      "gloss": "at sisidlan"
+      "gloss": "at didips"
     },
     {
       "surface": "הכהן",
-      "gloss": "ng kuhen"
+      "gloss": "ang kohen"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "והזה",
-      "gloss": "at magwiwisik"
+      "gloss": "at magwisik"
     },
     {
       "surface": "מן",
-      "gloss": "ng"
+      "gloss": "ng mula sa"
     },
     {
       "surface": "הדם",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "שבע",
-      "gloss": "pito"
+      "gloss": "pitong"
     },
     {
       "surface": "פעמים",
-      "gloss": "(na) beses"
+      "gloss": "ulit"
     },
     {
       "surface": "לפני",
@@ -58,7 +58,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ sa harap ng"
+      "gloss": "⟨את⟩",
+      "marks": "harap ng lambong"
     },
     {
       "surface": "פני",
@@ -66,13 +67,13 @@
     },
     {
       "surface": "פרכת",
-      "gloss": "tabing"
+      "gloss": "lambong"
     },
     {
       "surface": "הקדש",
-      "gloss": "ng kaban"
+      "gloss": "ng banal na lugar"
     }
   ],
-  "timestamp": "2026-08-19T14:45:53.666888656Z",
+  "timestamp": "2026-08-24T19:38:31.878703596Z",
   "model": "glm-5.3"
 }

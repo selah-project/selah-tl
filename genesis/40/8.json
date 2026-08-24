@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 40,
-  "translation": "At sinabi nila sa kaniya: Pangarap ang panaginip namin, ngunit walang ⟨את⟩ tagapag-interpret nito. At sinabi sa kanila si Yosef: Hindi ba sa Elohim ang mga interpretasyon? Ikwento ⟨נא⟩ ngayon sa akin.",
+  "translation": "At sinabi nila sa kanya: Panaginipin ang panaginip namin, at walang tagapagpaliwanag ng ⟨את⟩ nito. At sinabi ni Yosef sa kanila: Hindi ba sa Elohim ang mga pagpapaliwanag? Ipakwento ninyo, pakiusap, sa akin.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אליו",
-      "gloss": "sa kaniya"
+      "gloss": "sa kanya"
     },
     {
       "surface": "חלום",
-      "gloss": "pangarap"
+      "gloss": "panaginipin"
     },
     {
       "surface": "חלמנו",
-      "gloss": "ang panaginip namin"
+      "gloss": "panaginip namin"
     },
     {
       "surface": "ופתר",
-      "gloss": "ngunit tagapag-interpret"
+      "gloss": "at tagapagpaliwanag"
     },
     {
       "surface": "אין",
@@ -33,7 +33,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nito"
+      "gloss": "⟨את⟩",
+      "marks": "nito (ang panaginipin)"
     },
     {
       "surface": "ויאמר",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "si Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "הלוא",
@@ -57,21 +58,21 @@
     },
     {
       "surface": "פתרנים",
-      "gloss": "ang mga interpretasyon"
+      "gloss": "mga pagpapaliwanag"
     },
     {
       "surface": "ספרו",
-      "gloss": "ikwento"
+      "gloss": "ipakwento ninyo"
     },
     {
       "surface": "נא",
-      "gloss": "⟨נא⟩ ngayon"
+      "gloss": "pakiusap"
     },
     {
       "surface": "לי",
       "gloss": "sa akin"
     }
   ],
-  "timestamp": "2026-08-19T14:22:31.278305562Z",
+  "timestamp": "2026-08-24T19:37:20.193063951Z",
   "model": "glm-5.3"
 }

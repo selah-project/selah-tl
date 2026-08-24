@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At siya ay tumagal kay ⟨את⟩ ⟨the⟩ lalaking Ehipsiyo, isang lalaking limang siko ang tayog, at sa kamay ng Ehipsiyo ay may sibat na parang dalahian ng mga nagsusulid; at siya ay lumapit sa kanya na may tungkod, at dinambot ang ⟨את⟩ sibat mula sa kamay ng Ehipsiyo, at pinatay siya ng sariling sibat.",
+  "translation": "At siya ay pumatalim sa ⟨את⟩ lalaking Ehipsiyo — lalaking limang siko ang tayog — at sa kamay ng Ehipsiyo ay sibat na parang haliging paghahabi ng tela; at siya'y bumaba laban sa kanya na may tungkod, at dinambot ang ⟨את⟩ sibat mula sa kamay ng Ehipsiyo, at pinatay siya ng sariling sibat.",
   "tokens": [
     {
       "surface": "והוא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הכה",
-      "gloss": "tumagal"
+      "gloss": "pumatalim sa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ lalaking Ehipsiyo"
+      "marks": "lalaking Ehipsiyo"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ lalaki"
+      "gloss": "lalaking"
     },
     {
       "surface": "המצרי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "lalaki"
+      "gloss": "lalaking"
     },
     {
       "surface": "מדה",
@@ -58,19 +58,19 @@
     },
     {
       "surface": "כמנור",
-      "gloss": "parang dalahian"
+      "gloss": "parang haligi ng"
     },
     {
       "surface": "ארגים",
-      "gloss": "ng mga nagsusulid"
+      "gloss": "naghahabi ng tela"
     },
     {
       "surface": "וירד",
-      "gloss": "at lumapit"
+      "gloss": "at bumaba"
     },
     {
       "surface": "אליו",
-      "gloss": "sa kanya"
+      "gloss": "laban sa kanya"
     },
     {
       "surface": "בשבט",
@@ -78,16 +78,16 @@
     },
     {
       "surface": "ויגזל",
-      "gloss": "at dinambot"
+      "gloss": "at dinambot ang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ sibat"
+      "marks": "sibat"
     },
     {
       "surface": "החנית",
-      "gloss": "⟨the⟩ sibat"
+      "gloss": "sibat"
     },
     {
       "surface": "מיד",
@@ -106,6 +106,6 @@
       "gloss": "ng sariling sibat"
     }
   ],
-  "timestamp": "2026-08-19T19:23:08.614721458Z",
+  "timestamp": "2026-08-24T19:47:00.397391670Z",
   "model": "glm-5.3"
 }

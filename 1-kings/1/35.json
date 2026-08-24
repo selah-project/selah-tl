@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 1,
-  "translation": "At aakyat kayo pagkatapos niya, at siya'y paroroon at uupo sa ⟨the⟩ trono ko, at siya ang hahari sa halili ko; at kaniya — inutos ko — na maging nagid sa ibabaw ng Israel at sa ibabaw ng Yehudah.",
+  "translation": "At aakyat kayo ⟨sa kaniyang⟩ likuran, at siya'y paroroon at uupo sa aking trono, at siya ang maghahari bilang ⟨kahalili⟩ ko; at ⟨siya⟩ ang aking iniutos na maging pinuno sa Israel at sa Yehudah.",
   "tokens": [
     {
       "surface": "ועליתם",
-      "gloss": "at sasakay kayo paitaas"
+      "gloss": "at aakyat kayo"
     },
     {
       "surface": "אחריו",
-      "gloss": "pagkatapos niya"
+      "gloss": "sa kaniyang likuran"
     },
     {
       "surface": "ובא",
-      "gloss": "at siya'y paroroon"
+      "gloss": "at paroroon"
     },
     {
       "surface": "וישב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כסאי",
-      "gloss": "trono ko"
+      "gloss": "aking trono"
     },
     {
       "surface": "והוא",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "ימלך",
-      "gloss": "hahari"
+      "gloss": "maghahari"
     },
     {
       "surface": "תחתי",
-      "gloss": "sa halili ko"
+      "gloss": "bilang kahalili ko"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ siya",
-      "marks": "inutos ko (ang tinutukoy: siya)"
+      "gloss": "⟨את⟩",
+      "marks": "siya (iniutos ko)"
     },
     {
       "surface": "צויתי",
-      "gloss": "inutos ko"
+      "gloss": "iniutos ko"
     },
     {
       "surface": "להיות",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "nagid na pinuno"
+      "gloss": "pinuno"
     },
     {
       "surface": "על",
-      "gloss": "sa ibabaw ng"
+      "gloss": "sa"
     },
     {
       "surface": "ישראל",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "ועל",
-      "gloss": "at sa ibabaw ng"
+      "gloss": "at sa"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-19T16:24:26.523543253Z",
+  "timestamp": "2026-08-24T19:41:48.765210843Z",
   "model": "glm-5.3"
 }

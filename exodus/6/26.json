@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 6,
-  "translation": "Siya ay si Aharon at si Moshe, na sinabihan ni Yahweh: ⟨⟨Ilayas ninyo⟩⟩ ang ⟨את⟩ mga anak ni Yisrael mula sa lupain ng Mitsrayim ayon sa kanilang mga hukbo.",
+  "translation": "Siya ay si Aharon at si Moshe, na sinabihan ni Yahweh: Ilabas ninyo ang ⟨את⟩ mga anak ni Yisrael mula sa lupain ng Mitzrayim ayon sa kanilang mga hukbo.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "Siya"
+      "gloss": "siya"
     },
     {
       "surface": "אהרן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "sinabi"
+      "gloss": "sinabihan"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "להם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוציאו",
-      "gloss": "Ilayas ninyo"
+      "gloss": "ilabas ninyo"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ng Mitsrayim"
+      "gloss": "ng Mitzrayim"
     },
     {
       "surface": "על",
@@ -69,6 +69,6 @@
       "gloss": "kanilang mga hukbo"
     }
   ],
-  "timestamp": "2026-08-19T14:28:33.534139983Z",
+  "timestamp": "2026-08-24T19:38:13.071119140Z",
   "model": "glm-5.3"
 }

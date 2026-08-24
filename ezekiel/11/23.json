@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At umahon ang kaluwalhatian ni Yahweh mula sa gitna ng ⟨the⟩ lungsod, at tumayo sa bundok na nasa silangan ng ⟨the⟩ lungsod.",
+  "translation": "At umahon ang kaluwalhatian ni Yahweh mula sa gitna ng ⟨ang⟩ lungsod, at tumayo sa bundok na nasa silangan ng lungsod.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "ang kaluwalhatian"
+      "gloss": "kaluwalhatian"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מעל",
@@ -56,6 +56,6 @@
       "gloss": "ng lungsod"
     }
   ],
-  "timestamp": "2026-08-19T17:40:55.655841983Z",
+  "timestamp": "2026-08-24T19:43:30.719170108Z",
   "model": "glm-5.3"
 }

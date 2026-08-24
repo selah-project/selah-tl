@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 103,
-  "translation": "Sapagkat kasing taas ng ⟨mga⟩ langit sa ibabaw ng ⟨⟨ lupa, gayon nagpapanaig ang kaniyang kagandahang-loob sa ⟨mga⟩ natatakot sa kaniya;",
+  "translation": "Sapagkat kasing taas ng ⟨mga⟩ langit sa ibabaw ng ⟨⟨lupa⟩⟩ lupa, gayon nagpanganib ang kanyang kagandahang-loob sa mga nakatatakot sa kanya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כגבה",
-      "gloss": "kasing taas ng"
+      "gloss": "kasing taas"
     },
     {
       "surface": "שמים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "lupa"
+      "gloss": "⟨ang⟩ lupa"
     },
     {
       "surface": "גבר",
-      "gloss": "nagpapanaig"
+      "gloss": "nagpanganib"
     },
     {
       "surface": "חסדו",
-      "gloss": "kaniyang kagandahang-loob"
+      "gloss": "ang kanyang kagandahang-loob"
     },
     {
       "surface": "על",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "יראיו",
-      "gloss": "mga natatakot sa kaniya"
+      "gloss": "mga nakatatakot sa kanya"
     }
   ],
-  "timestamp": "2026-08-19T18:29:00.557745852Z",
+  "timestamp": "2026-08-24T19:45:11.134727381Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At ilalabas niya ang ⟨את⟩ buong toro sa labas ng kampo, sa dakong malinis, sa tapunan ng abo, at susunugin niya ⟨את⟩ ⟨אתו⟩ sa mga kahoy sa apoy; sa tapunan ng abo siya susunugin.",
+  "translation": "At dadalhin ⟨niya⟩ ang ⟨את⟩ buong baka sa labas ng kampo, sa malinis na dako, sa dungkaan ng abo, at susunugin niya ⟨את⟩-ito sa kahoy sa apoy; sa dungkaan ng abo siya susunugin.",
   "tokens": [
     {
       "surface": "והוציא",
-      "gloss": "at ilalabas niya"
+      "gloss": "at dadalhin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buong toro"
+      "marks": "buong baka"
     },
     {
       "surface": "כל",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הפר",
-      "gloss": "toro"
+      "gloss": "baka"
     },
     {
       "surface": "אל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "tapunan"
+      "gloss": "dungkaan"
     },
     {
       "surface": "הדשן",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ושרף",
-      "gloss": "at susunugin niya"
+      "gloss": "at susunugin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "buong toro"
+      "gloss": "⟨את⟩-ito",
+      "marks": "baka"
     },
     {
       "surface": "על",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "עצים",
-      "gloss": "mga kahoy"
+      "gloss": "kahoy"
     },
     {
       "surface": "באש",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "tapunan"
+      "gloss": "dungkaan"
     },
     {
       "surface": "הדשן",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "ישרף",
-      "gloss": "siya susunugin"
+      "gloss": "susuñgin"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.130534286Z",
+  "timestamp": "2026-08-24T19:39:17.942682508Z",
   "model": "glm-5.3"
 }

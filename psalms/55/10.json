@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 55,
-  "translation": "Lamonin, Adonai, at hatiin ang kanilang dila, sapagkat nakita ko ang karahasan at alitan sa ⟨the⟩ lunsod.",
+  "translation": "Lamonin, Adonai, hatiin mo ang ⟨את⟩ kanilang dila, sapagkat nakita ko ang ⟨את⟩ karahasan at ang ⟨את⟩ alitan sa lungsod.",
   "tokens": [
     {
       "surface": "בלע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פלג",
-      "gloss": "hatiin"
+      "gloss": "hatiin mo"
     },
     {
       "surface": "לשונם",
@@ -36,14 +36,18 @@
       "gloss": "karahasan"
     },
     {
-      "surface": "וריב",
-      "gloss": "at alitan"
+      "surface": "ו",
+      "gloss": "at"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "alitan"
     },
     {
       "surface": "בעיר",
-      "gloss": "sa lunsod"
+      "gloss": "sa lungsod"
     }
   ],
-  "timestamp": "2026-08-19T19:51:08.612055141Z",
+  "timestamp": "2026-08-24T19:45:07.379087350Z",
   "model": "glm-5.3"
 }

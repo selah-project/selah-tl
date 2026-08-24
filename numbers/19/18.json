@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 19,
-  "translation": "At kukuha ng ezsobo, at isisawsaw sa tubig ng isang taong malinis, at iwiwisik niya sa tolda, at sa lahat ng mga kasangkapan, at sa mga ⟨nepeso⟩ ⟨אשר⟩ nandoon, at sa nakadampi sa buto, o sa tinamaan, o sa patay, o sa libingan.",
+  "translation": "At kukuha ng issopo ang taong malinis, at itatatalop ito sa tubig, at wiwisikin ⟨ang⟩ tolda at ⟨ang⟩ lahat ng mga kasangkapan, at ⟨ang⟩ mga tao na nandoon, at ⟨ang⟩ humipo sa buto, o sa pinatay, o sa patay, o sa libingan.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אזוב",
-      "gloss": "ezsobo"
+      "gloss": "issopo"
     },
     {
       "surface": "וטבל",
-      "gloss": "at isisawsaw sa"
+      "gloss": "at itatatalop"
     },
     {
       "surface": "במים",
-      "gloss": "tubig"
+      "gloss": "sa tubig"
     },
     {
       "surface": "איש",
-      "gloss": "isang tao"
+      "gloss": "ang tao"
     },
     {
       "surface": "טהור",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והזה",
-      "gloss": "at iwiwisik"
+      "gloss": "at wiwisikin"
     },
     {
       "surface": "על",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "הנפשות",
-      "gloss": "mga ⟨nepeso⟩"
+      "gloss": "mga tao"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨אשר⟩"
+      "gloss": "na"
     },
     {
       "surface": "היו",
-      "gloss": "nandoon-noon"
+      "gloss": "nandoon"
     },
     {
       "surface": "שם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "nakadampi"
+      "gloss": "humipo"
     },
     {
       "surface": "בעצם",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "בחלל",
-      "gloss": "sa tinamaan"
+      "gloss": "sa pinatay"
     },
     {
       "surface": "או",
@@ -112,6 +112,6 @@
       "gloss": "sa libingan"
     }
   ],
-  "timestamp": "2026-08-19T20:05:57.087984377Z",
+  "timestamp": "2026-08-24T19:40:09.074277096Z",
   "model": "glm-5.3"
 }

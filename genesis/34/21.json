@@ -5,32 +5,31 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 34,
-  "translation": "Ang mga taong ito ay mapayapa ⟨⟨silá⟩⟩ sa ⟨את⟩ amin; at umupo sila sa lupain at ipagkalakal nila ⟨את⟩ ito; at ang lupain, narito, maluwang sa kamay sa harap nila; ⟨את⟩ mga anak na babae nila ay kunin natin para sa atin na mga asawa, at ⟨את⟩ mga anak na babae natin ay ibibigay natin sa kanila.",
+  "translation": "Ang mga lalaking ito ay payapa ⟨kasama⟩ natin; at tumira sila sa lupain at ipagbili ⟨ito⟩; at ang lupain, heto, malawak sa harap nila; ⟨את⟩ mga anak na babae nila ay kunin natin para sa ating mga asawa, at ⟨את⟩ mga anak na babae natin ay ibibigay natin sa kanila.",
   "tokens": [
     {
       "surface": "האנשים",
-      "gloss": "ang mga tao"
+      "gloss": "ang mga lalaki"
     },
     {
       "surface": "האלה",
-      "gloss": "na ito"
+      "gloss": "ito"
     },
     {
       "surface": "שלמים",
-      "gloss": "mapayapa"
+      "gloss": "payapa"
     },
     {
       "surface": "הם",
-      "gloss": "⟨silá⟩"
+      "gloss": "sila"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ amin",
-      "marks": "sa amin"
+      "gloss": "⟨את⟩ natin"
     },
     {
       "surface": "וישבו",
-      "gloss": "at tumira"
+      "gloss": "at tumira sila"
     },
     {
       "surface": "בארץ",
@@ -38,12 +37,12 @@
     },
     {
       "surface": "ויסחרו",
-      "gloss": "at magkalakal"
+      "gloss": "at magkalakal sila"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ito (ang lupain)"
+      "marks": "lupain"
     },
     {
       "surface": "והארץ",
@@ -51,15 +50,15 @@
     },
     {
       "surface": "הנה",
-      "gloss": "narito"
+      "gloss": "heto"
     },
     {
       "surface": "רחבת",
-      "gloss": "maluwang"
+      "gloss": "malawak"
     },
     {
       "surface": "ידים",
-      "gloss": "sa kamay"
+      "gloss": "ng mga kamay"
     },
     {
       "surface": "לפניהם",
@@ -84,7 +83,7 @@
     },
     {
       "surface": "לנשים",
-      "gloss": "na mga asawa"
+      "gloss": "bilang mga asawa"
     },
     {
       "surface": "ואת",
@@ -104,6 +103,6 @@
       "gloss": "sa kanila"
     }
   ],
-  "timestamp": "2026-08-19T19:38:45.257671511Z",
+  "timestamp": "2026-08-24T19:37:55.396236845Z",
   "model": "glm-5.3"
 }

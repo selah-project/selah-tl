@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 21,
-  "translation": "At sinabi ng saserdote: Ang tabak ni Golyat ang Pelishteo, na iyong pinatay sa libis ng Elah — narito, ⟨⟨ito⟩⟩ ay nababalot sa kasuotan sa likod ng epod; kung ⟨את⟩ kukunin mo para sa iyo, kunin mo, sapagkat walang iba maliban dito ang nandito. At sinabi si David: Walang katulad nito; ibinibigay mo ito sa akin.",
+  "translation": "At sinabi ng saserdote: Ang tabak ni Golyat ang Palestino, na iyong napatay sa libis ng Elah — narito, ito ay nababalot sa tela sa likod ng ephod; kung ⟨את⟩ ito'y kukunin mo, kunin mo, sapagkat walang iba maliban dito rito. At sinabi ni David: Walang katulad nito; ibigay mo sa akin ⟨את⟩ nito.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "ang Pelishteo"
+      "gloss": "ang Palestino"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הכית",
-      "gloss": "iyong pinatay"
+      "gloss": "iyong napatay"
     },
     {
       "surface": "בעמק",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "לוטה",
-      "gloss": "ay nababalot"
+      "gloss": "nababalot"
     },
     {
       "surface": "בשמלה",
-      "gloss": "sa kasuotan"
+      "gloss": "sa tela"
     },
     {
       "surface": "אחרי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "האפוד",
-      "gloss": "ng epod"
+      "gloss": "ng ephod"
     },
     {
       "surface": "אם",
@@ -74,19 +74,19 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "kukunin mo ito"
+      "marks": "ito (ang tabak)"
     },
     {
       "surface": "תקח",
-      "gloss": "kukunin mo"
+      "gloss": "kukunin"
     },
     {
       "surface": "לך",
-      "gloss": "para sa iyo"
+      "gloss": "mo"
     },
     {
       "surface": "קח",
-      "gloss": "kunin mo"
+      "gloss": "kunin"
     },
     {
       "surface": "כי",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "בזה",
-      "gloss": "ang nandito"
+      "gloss": "rito"
     },
     {
       "surface": "ויאמר",
@@ -126,13 +126,13 @@
     },
     {
       "surface": "תננה",
-      "gloss": "ibinibigay mo"
+      "gloss": "ibigay"
     },
     {
       "surface": "לי",
       "gloss": "sa akin"
     }
   ],
-  "timestamp": "2026-08-19T16:07:58.183672706Z",
+  "timestamp": "2026-08-24T19:41:29.306163825Z",
   "model": "glm-5.3"
 }

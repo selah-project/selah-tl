@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "tl",
   "chapter": 6,
-  "translation": "At magiging חֵרֶם ang lungsod — ito at ang lahat ng nasa loob nito — para kay Yahweh; bagkos si Rachab ang patutot ay mabubuhay, siya at ang lahat na ⟨את⟩ kasama niya sa bahay, sapagkat itinago niya ang ⟨את⟩ mga sugo na sinugo namin.",
+  "translation": "At magiging חֵרֶם ang lunsod — siya at ang lahat ng nasa loob niya — kay Yahweh; bagkos si Rachab ang babaeng bayarang buhay, siya at ang lahat ng ⟨את⟩ kasama niya sa bahay, sapagkat itinago niya ang ⟨את⟩ mga sugo na sinugo namin.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "ang lungsod"
+      "gloss": "ang lunsod"
     },
     {
       "surface": "חרם",
-      "gloss": "חֵרֶם (bagay na itinakdang lipolin)"
+      "gloss": "חֵרֶם (inilaan sa pagkasira)"
     },
     {
       "surface": "היא",
-      "gloss": "ito"
+      "gloss": "siya"
     },
     {
       "surface": "וכל",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בה",
-      "gloss": "nasa loob nito"
+      "gloss": "nasa loob niya"
     },
     {
       "surface": "ליהוה",
-      "gloss": "para kay Yahweh"
+      "gloss": "kay Yahweh"
     },
     {
       "surface": "רק",
-      "gloss": "bagkos (lamang)"
+      "gloss": "bagkos"
     },
     {
       "surface": "רחב",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הזונה",
-      "gloss": "ang patutot"
+      "gloss": "ang babaeng bayaran"
     },
     {
       "surface": "תחיה",
-      "gloss": "ay mabubuhay"
+      "gloss": "buhay"
     },
     {
       "surface": "היא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "at ang lahat na"
+      "gloss": "at ang lahat ng"
     },
     {
       "surface": "אשר",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ kasama"
+      "gloss": "⟨את⟩ kasama niya"
     },
     {
       "surface": "בבית",
-      "gloss": "niya sa bahay"
+      "gloss": "sa bahay"
     },
     {
       "surface": "כי",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "המלאכים",
-      "gloss": "mga sugo"
+      "gloss": "ang mga sugo"
     },
     {
       "surface": "אשר",
@@ -101,6 +101,6 @@
       "gloss": "sinugo namin"
     }
   ],
-  "timestamp": "2026-08-19T15:38:53.462225422Z",
+  "timestamp": "2026-08-24T19:40:37.188159283Z",
   "model": "glm-5.3"
 }

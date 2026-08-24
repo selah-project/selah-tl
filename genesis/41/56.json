@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 41,
-  "translation": "At ang taggutom ay nasa ibabaw ng buong < את >mukha⟩ ng lupa, at binuksan ni Yosef ang ⟨את⟩ lahat ng nasa loob nila, at nagtinda siya sa Mitzrayim; at lumakas ang taggutom sa lupain ng Mitzrayim.",
+  "translation": "At ang gutom ay sumapit sa ibabaw ng buong surface ng ⟨the⟩ lupain, at binuksan ni Yosef ang ⟨את⟩ lahat ng nasa loob nito, at nagtinda siya sa Mitzrayim; at lumakas ang gutom sa lupain ng Mitzrayim.",
   "tokens": [
     {
       "surface": "והרעב",
-      "gloss": "at ang taggumatay"
+      "gloss": "At ang gutom"
     },
     {
       "surface": "היה",
-      "gloss": "ay ⟨nasa⟩"
+      "gloss": "ay sumapit"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "mukha"
+      "gloss": "surface"
     },
     {
       "surface": "הארץ",
-      "gloss": "ng lupa"
+      "gloss": "ng ⟨the⟩ lupain"
     },
     {
       "surface": "ויפתח",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "laman ng mga bodega"
+      "marks": "lahat"
     },
     {
       "surface": "כל",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "בהם",
-      "gloss": "nasa loob nila"
+      "gloss": "nasa loob nito"
     },
     {
       "surface": "וישבר",
-      "gloss": "at nagtinda"
+      "gloss": "at nagtinda siya"
     },
     {
       "surface": "למצרים",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הרעב",
-      "gloss": "ang taggumatay"
+      "gloss": "ang gutom"
     },
     {
       "surface": "בארץ",
@@ -81,6 +81,6 @@
       "gloss": "ng Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T14:22:51.659890847Z",
+  "timestamp": "2026-08-24T19:37:50.940452404Z",
   "model": "glm-5.3"
 }

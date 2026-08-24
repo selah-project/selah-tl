@@ -5,23 +5,23 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 14,
-  "translation": "Ang ⟨the⟩ isa ay isang matarik na dalisdis nasa hilaga, sa harap ng Mikmash, at ang ⟨the⟩ isa nasa timog, sa harap ng Geva.",
+  "translation": "Ang ⟨the⟩ tarok ng isa, matarok sa hilaga sa harap ng Mikmas, at ang isa sa timog sa harap ng Geba.",
   "tokens": [
     {
       "surface": "השן",
-      "gloss": "ang dalisdis"
+      "gloss": "ang tarok"
     },
     {
       "surface": "האחד",
-      "gloss": "ang isa"
+      "gloss": "ng isa"
     },
     {
-      "surface": "מצוק",
-      "gloss": "matarik na dalisdis"
+      "surface": "מצוץ",
+      "gloss": "matarok"
     },
     {
       "surface": "מצפון",
-      "gloss": "nasa hilaga"
+      "gloss": "sa hilaga"
     },
     {
       "surface": "מול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מכמש",
-      "gloss": "Mikmash"
+      "gloss": "Mikmas"
     },
     {
       "surface": "והאחד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מנגב",
-      "gloss": "nasa timog"
+      "gloss": "sa timog"
     },
     {
       "surface": "מול",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "גבע",
-      "gloss": "Geva"
+      "gloss": "Geba"
     }
   ],
-  "timestamp": "2026-08-19T16:03:05.976727447Z",
+  "timestamp": "2026-08-24T19:41:47.122611219Z",
   "model": "glm-5.3"
 }

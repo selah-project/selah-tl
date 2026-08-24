@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 26,
-  "translation": "At magsasabi ka sa harap ni Yahweh na iyong Elohim: Inalis ko na ang banal na bahagi mula sa ⟨the⟩ bahay, at ibinigay ko rin ito sa Levita, sa dayuhan, sa ulila, at sa biyuda, ayon sa lahat ng iyong mga utos na iniutos mo sa akin; hindi ako lumampas mula sa iyong mga utos, at hindi ko nakalimutan ⟨ang mga ito⟩.",
+  "translation": "At sasabihin mo sa harap ni Yahweh na iyong Elohim: Naalis ko na ang ⟨את⟩ banal na bahagi mula sa bahay, at ibinigay ko rin ito sa Levita, sa dayuhan, sa ulila, at sa balo, ayon sa lahat ng iyong utos na iniutos mo sa akin; hindi lumampas sa iyong mga utos, at hindi ko nakalimutan.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "at magsasabi ka"
+      "gloss": "at sasabihin mo"
     },
     {
       "surface": "לפני",
-      "gloss": "sa harap ni"
+      "gloss": "sa harap ng"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "na iyong Elohim"
+      "gloss": "iyong Elohim"
     },
     {
       "surface": "בערתי",
-      "gloss": "inalis ko na"
+      "gloss": "naalis ko na"
     },
     {
       "surface": "הקדש",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "at pati"
+      "gloss": "at gayon din"
     },
     {
       "surface": "נתתיו",
@@ -52,7 +52,7 @@
       "gloss": "sa Levita"
     },
     {
-      "surface": "ולגר",
+      "surface": "ו לגר",
       "gloss": "at sa dayuhan"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ולאלמנה",
-      "gloss": "at sa biyuda"
+      "gloss": "at sa balo"
     },
     {
       "surface": "ככל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מצותך",
-      "gloss": "iyong mga utos"
+      "gloss": "iyong utos"
     },
     {
       "surface": "אשר",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "ממצותיך",
-      "gloss": "mula sa iyong mga utos"
+      "gloss": "sa iyong mga utos"
     },
     {
       "surface": "ולא",
@@ -100,6 +100,6 @@
       "gloss": "nakalimutan ko"
     }
   ],
-  "timestamp": "2026-08-19T15:32:19.235024804Z",
+  "timestamp": "2026-08-24T19:40:29.228812469Z",
   "model": "glm-5.3"
 }

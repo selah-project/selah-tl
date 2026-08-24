@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tl",
   "chapter": 21,
-  "translation": "At binigyan ni David si Arnán sa ⟨the⟩ lugar ng mga siklong ginto, sa bigat na anim na raan.",
+  "translation": "At binigyan ni David si Arnán sa ⟨את⟩ lugar ng mga sikel na ginto, sa timbang na anim na raan.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לארנן",
-      "gloss": "kay Arnán"
+      "gloss": "si Arnán"
     },
     {
       "surface": "במקום",
-      "gloss": "sa ⟨the⟩ lugar"
+      "gloss": "sa lugar"
     },
     {
       "surface": "שקלי",
-      "gloss": "mga siklo"
+      "gloss": "ng mga sikel"
     },
     {
       "surface": "זהב",
-      "gloss": "ng ginto"
+      "gloss": "na ginto"
     },
     {
       "surface": "משקל",
-      "gloss": "sa bigat"
+      "gloss": "sa timbang"
     },
     {
       "surface": "שש",
@@ -44,6 +44,6 @@
       "gloss": "na raan"
     }
   ],
-  "timestamp": "2026-08-19T19:25:03.774453063Z",
+  "timestamp": "2026-08-24T20:09:29.287958456Z",
   "model": "glm-5.3"
 }

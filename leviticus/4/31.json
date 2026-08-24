@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At ang ⟨את⟩ buong taba nito ay alisin niya, kung paanong inaalis ang taba mula sa hain ng mga handog-kapayapaan; at pasusungawin ng saserdote sa ⟨the⟩ altar, bilang mababangong amoy-kalugudlugod kay Yahweh; at magbabayad-sala ang saserdote para sa kanya, at mapapatawad sa kanya.",
+  "translation": "At ⟨את⟩ lahat ng taba nito ay aalisin niya, kung paanong inaalis ang taba mula sa hain ng mga handog-na-kapayapaan; at susunugin ng pari ang ⟨mga⟩ ito sa altar, bilang amoy na nakalulugod kay Yahweh; at magbabayad-sala ang pari para sa kanya, at mapapatawad siya.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "buong taba nito"
+      "marks": "lhat ng taba nito"
     },
     {
       "surface": "כל",
-      "gloss": "buong"
+      "gloss": "lhat"
     },
     {
       "surface": "חלבה",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "יסיר",
-      "gloss": "alisin niya"
+      "gloss": "aalisin niya"
     },
     {
       "surface": "כאשר",
-      "gloss": "kung paanong"
+      "gloss": "kapaanong"
     },
     {
       "surface": "הוסר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "mga handog-kapayapaan"
+      "gloss": "mga handog-na-kapayapaan"
     },
     {
       "surface": "והקטיר",
-      "gloss": "at pasusungawin"
+      "gloss": "at susunugin"
     },
     {
       "surface": "הכהן",
-      "gloss": "ang saserdote"
+      "gloss": "ang pari"
     },
     {
       "surface": "המזבחה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "na kalugudlugod"
+      "gloss": "na nakalulugod"
     },
     {
       "surface": "ליהוה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "ang saserdote"
+      "gloss": "ang pari"
     },
     {
       "surface": "ונסלח",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "sa kanya"
+      "gloss": "siya"
     }
   ],
-  "timestamp": "2026-08-19T14:46:41.026779392Z",
+  "timestamp": "2026-08-24T19:39:18.441131273Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 2,
-  "translation": "At walang siça ng parang pa sa ⟨⟨lupa⟩⟩ bago ito umiral sa lupa, at walang damo ng parang bago sumibol, sapagkat hindi pa nagpapaulan si Yahweh Elohim sa lupa, at walang taong magbubungkal ng ⟨את⟩ lupa.",
+  "translation": "At bawat palumpong ng parang, bago pa ⟨ay⟩ nasa lupa, at bawat damo ng parang, bago pa tumubo, sapagkat hindi pa nagpapaulan si Yahweh Elohim sa lupa, at walang tao na magbungkal ng ⟨את⟩ lupa.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "at bawat"
+      "gloss": "At bawat"
     },
     {
       "surface": "שיח",
-      "gloss": "sisa ng halaman"
+      "gloss": "palumpong"
     },
     {
       "surface": "השדה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "umiral"
+      "gloss": "nasa"
     },
     {
       "surface": "בארץ",
-      "gloss": "sa lupa"
+      "gloss": "lupa"
     },
     {
       "surface": "וכל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יצמח",
-      "gloss": "sumibol"
+      "gloss": "tumubo"
     },
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "hindi"
+      "gloss": "hindi pa"
     },
     {
       "surface": "המטיר",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "ay wala"
+      "gloss": "walang"
     },
     {
       "surface": "לעבד",
-      "gloss": "upang bungkalin"
+      "gloss": "magbungkal"
     },
     {
       "surface": "את",
@@ -101,6 +101,6 @@
       "gloss": "lupa"
     }
   ],
-  "timestamp": "2026-08-19T14:07:29.305120378Z",
+  "timestamp": "2026-08-24T19:37:17.177032249Z",
   "model": "glm-5.3"
 }

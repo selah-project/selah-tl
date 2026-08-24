@@ -5,32 +5,32 @@
   "book": "1-kings",
   "lang": "tl",
   "chapter": 8,
-  "translation": "⟨את⟩ ⟨Ang kapag> magkasala ang isang tao sa kapwa niya at ipinataw sa kanya ang panumpa upang parusahan siya nito, at dumating ang panumpa sa harap ng iyong dambana, sa bahay na ito —",
+  "translation": "⟨את⟩ na ang magkakasala sa kanyang kapwa, at may itatakdang sumpa sa kanya upang ipanumpa siya, at paparoon ang sumpa sa harap ng iyong dambana, sa bahay na ito:",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang kapag magkasala ang isang tao (ang buong sugnay na minamarkahan)"
+      "marks": "na ang magkakasala sa kanyang kapwa"
     },
     {
       "surface": "אשר",
-      "gloss": "kapag"
+      "gloss": "na"
     },
     {
       "surface": "יחטא",
-      "gloss": "magkasala"
+      "gloss": "magkakasala"
     },
     {
       "surface": "איש",
-      "gloss": "ang isang tao"
+      "gloss": "(ang tao)"
     },
     {
       "surface": "לרעהו",
-      "gloss": "sa kapwa niya"
+      "gloss": "sa kanyang kapwa"
     },
     {
       "surface": "ונשא",
-      "gloss": "at ipinataw"
+      "gloss": "at may itatakdang sumpa"
     },
     {
       "surface": "בו",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "אלה",
-      "gloss": "panumpa"
+      "gloss": "sumpa"
     },
     {
       "surface": "להאלתו",
-      "gloss": "upang parusahan siya nito"
+      "gloss": "upang ipanumpa siya"
     },
     {
       "surface": "ובא",
-      "gloss": "at dumating"
+      "gloss": "at paparoon"
     },
     {
       "surface": "אלה",
-      "gloss": "ang panumpa"
+      "gloss": "ang sumpa"
     },
     {
       "surface": "לפני",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ito"
+      "gloss": "na ito"
     }
   ],
-  "timestamp": "2026-08-19T16:29:46.748744213Z",
+  "timestamp": "2026-08-24T19:47:41.739045561Z",
   "model": "glm-5.3"
 }

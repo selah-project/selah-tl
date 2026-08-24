@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 4,
-  "translation": "At nagpadala ang bayan sa Shilo, at kanilang dinambit mula roon ang ⟨את⟩ kaban ng tipan ni Yahweh Tsevaot na nananahanang nakaupo sa ⟨the⟩ mga kerub, at naroon ang dalawang anak ni Eli, kasama ang kaban ng tipan ng Elohim — si Chofni at si Pinchas.",
+  "translation": "At nagsugo ang bayan sa Shiloh, at dinala nila mula roon ang ⟨את⟩ kaban ng tipan ni Yahweh ng mga hukbo, na nakaupo ⟨sa⟩ mga kerubin; at doon ang dalawang anak ni Eli, kasama ng kaban ng tipan ng Elohim — si Chafni at si Pinchas.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "at nagpadala"
+      "gloss": "At nagsugo"
     },
     {
       "surface": "העם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שלה",
-      "gloss": "sa Shilo"
+      "gloss": "sa Shiloh"
     },
     {
       "surface": "וישאו",
-      "gloss": "at kanilang dinambit"
+      "gloss": "at dinala nila"
     },
     {
       "surface": "משם",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaban ng tipan ni Yahweh Tsevaot"
+      "marks": "kaban"
     },
     {
       "surface": "ארון",
-      "gloss": "ang kaban"
+      "gloss": "kaban"
     },
     {
       "surface": "ברית",
@@ -46,39 +46,39 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "ng mga hukbo"
     },
     {
-      "surface": "יושב",
+      "surface": "ישב",
       "gloss": "na nakaupo"
     },
     {
       "surface": "הכרבים",
-      "gloss": "sa mga kerub"
+      "gloss": "mga kerubin"
     },
     {
       "surface": "ושם",
-      "gloss": "at naroon"
+      "gloss": "at doon"
     },
     {
       "surface": "שני",
-      "gloss": "ang dalawang"
+      "gloss": "dalawang"
     },
     {
       "surface": "בני",
-      "gloss": "anak ni"
+      "gloss": "anak"
     },
     {
       "surface": "עלי",
-      "gloss": "Eli"
+      "gloss": "ni Eli"
     },
     {
       "surface": "עם",
-      "gloss": "kasama"
+      "gloss": "kasama ng"
     },
     {
       "surface": "ארון",
-      "gloss": "ang kaban"
+      "gloss": "kaban"
     },
     {
       "surface": "ברית",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "חפני",
-      "gloss": "si Chofni"
+      "gloss": "si Chafni"
     },
     {
       "surface": "ופינחס",
       "gloss": "at si Pinchas"
     }
   ],
-  "timestamp": "2026-08-19T15:59:13.236144245Z",
+  "timestamp": "2026-08-24T19:40:53.001197126Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 12,
-  "translation": "At kung babae ang isisilang, magiging marumi siya nang dalawang linggo, ayon sa pagkatapos ng kanyang regla, at anim na pu't anim na araw siya mag-uupong ⟨⟨sa⟩⟩ dugo ng kanyang pagkadalisay.",
+  "translation": "At kung babae ang ipanganak, magiging marumi siya nang dalawang linggo, ayon sa pagdating ng kanyá; animnapu't anim na araw ang ⟨siya⟩ uupo sa ⟨dugo⟩ ng kanyang pagkadalisay.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תלד",
-      "gloss": "isisilang"
+      "gloss": "ipanganak"
     },
     {
       "surface": "וטמאה",
-      "gloss": "magiging marumi siya"
+      "gloss": "magiging marumi"
     },
     {
       "surface": "שבעים",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "כנדתה",
-      "gloss": "ayon sa kanyang regla"
+      "gloss": "ayon sa pagdating ng kanyá"
     },
     {
       "surface": "וששים",
-      "gloss": "anim na pu'"
+      "gloss": "animnapu't"
     },
     {
       "surface": "יום",
-      "gloss": "anim na araw"
-    },
-    {
-      "surface": "וששת",
-      "gloss": "at anim na"
-    },
-    {
-      "surface": "ימים",
       "gloss": "araw"
     },
     {
+      "surface": "וששת",
+      "gloss": "anim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na araw"
+    },
+    {
       "surface": "תשב",
-      "gloss": "mag-uupong"
+      "gloss": "upo"
     },
     {
       "surface": "על",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "דמי",
-      "gloss": "dugo"
+      "gloss": "⟨dugo⟩"
     },
     {
       "surface": "טהרה",
-      "gloss": "ng kanyang pagkadalisay"
+      "gloss": "pagkadalisay"
     }
   ],
-  "timestamp": "2026-08-19T14:50:45.545284560Z",
+  "timestamp": "2026-08-24T19:39:05.067465130Z",
   "model": "glm-5.3"
 }

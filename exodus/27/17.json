@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 27,
-  "translation": "Lahat ng mga haligi ng ⟨⟨the⟩⟩ looban, sa palibot, ay bibigyan ng pilak na banda; ang mga kawali nila ay pilak, at ang mga pinggan-nilalakan nila ay tanso.",
+  "translation": "Lahat ng mga haligi ng ⟨ang⟩ looban sa palibot ay bibigkisin ng pilak; ang mga kawit nila ay pilak, at ang mga pundasyon nila ay tanso.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "mga haligi"
+      "gloss": "ng mga haligi"
     },
     {
       "surface": "החצר",
-      "gloss": "ng looban"
+      "gloss": "ng ⟨ang⟩ looban"
     },
     {
       "surface": "סביב",
@@ -25,7 +25,15 @@
     },
     {
       "surface": "מחשקים",
-      "gloss": "bibigyan ng banda"
+      "gloss": "bibigkisin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ang mga kawit nila"
     },
     {
       "surface": "כסף",
@@ -33,13 +41,13 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": ""
+      "gloss": "at ang mga pundasyon nila"
     },
     {
       "surface": "נחשת",
       "gloss": "tanso"
     }
   ],
-  "timestamp": "2026-08-19T14:37:24.079867569Z",
+  "timestamp": "2026-08-24T19:38:13.576803852Z",
   "model": "glm-5.3"
 }

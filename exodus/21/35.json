@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 21,
-  "translation": "At kung mangungorAng baka ng isang tao sa ⟨את⟩ baka ng kapwa niya at mamatay, ipagbibilI nila ang ⟨את⟩ ⟨the⟩ buhay na baka at hahatiin nila ang ⟨את⟩ halaga nito; at ang ⟨את⟩ patay ay hahatiin din nila.",
+  "translation": "At kung magnorna ang baka ng isang tao sa ⟨את⟩ baka ng kanyang kapwa at ito'y mamatay, ipagbibili nila ang ⟨את⟩ buhay na baka at hahatiin ang ⟨את⟩ halaga nito; at ang ⟨את⟩ patay ay hahatiin din nila.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יגף",
-      "gloss": "mangungorA"
+      "gloss": "magnorna"
     },
     {
       "surface": "שור",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "ng kapwa niya"
+      "gloss": "ng kanyang kapwa"
     },
     {
       "surface": "ומת",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "ומכרו",
-      "gloss": "at ipagbibilI nila"
+      "gloss": "ipagbibili nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang buhay na baka"
+      "marks": "buhay na baka"
     },
     {
       "surface": "השור",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "וחצו",
-      "gloss": "at hahatiin nila"
+      "gloss": "hahatiin"
     },
     {
       "surface": "את",
@@ -72,12 +72,12 @@
     },
     {
       "surface": "וגם",
-      "gloss": "at pati"
+      "gloss": "at"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang patay"
+      "marks": "patay"
     },
     {
       "surface": "המת",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "יחצון",
-      "gloss": "hahatiin nila"
+      "gloss": "hahatiin din nila"
     }
   ],
-  "timestamp": "2026-08-19T19:39:28.861328478Z",
+  "timestamp": "2026-08-24T19:38:22.348799873Z",
   "model": "glm-5.3"
 }

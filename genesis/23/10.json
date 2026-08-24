@@ -5,8 +5,28 @@
   "book": "genesis",
   "lang": "tl",
   "chapter": 23,
-  "translation": "At si Efron ay ⟨⟨nakaupo⟩⟩ sa gitna ng mga anak ni Cheit; at sumagot si Efron ang Chiti kay ⟨את⟩ Avraham sa mga tainga ng mga anak ni Cheit, ⟨את⟩ sa lahat ng pumapasok sa tarangkahan ng kanyang lungsod, na sinasabi:",
+  "translation": "At si Efron ay ⟨ay⟩ nakaupo sa gitna ng mga anak ni Het, at sumagot si Efron ang Hetita kay Avraham ⟨את⟩ sa mga tainga ng mga anak ni Het, sa lahat ng pumapasok sa tarangkahan ng kaniyang lungsod, na nagsasaying:",
   "tokens": [
+    {
+      "surface": "ועפרון",
+      "gloss": "At si Efron"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nakaupo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa gitna ng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
     {
       "surface": "ויען",
       "gloss": "at sumagot"
@@ -17,12 +37,12 @@
     },
     {
       "surface": "החתי",
-      "gloss": "ang Chiti"
+      "gloss": "ang Hetita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avraham"
+      "marks": "kay Avraham"
     },
     {
       "surface": "אברהם",
@@ -30,19 +50,19 @@
     },
     {
       "surface": "באזני",
-      "gloss": "sa mga tainga"
+      "gloss": "sa mga tainga ng"
     },
     {
       "surface": "בני",
-      "gloss": "mga anak"
+      "gloss": "mga anak ni"
     },
     {
       "surface": "חת",
-      "gloss": "ni Cheit"
+      "gloss": "Het"
     },
     {
       "surface": "לכל",
-      "gloss": "⟨את⟩ sa lahat"
+      "gloss": "sa lahat ng"
     },
     {
       "surface": "באי",
@@ -50,17 +70,17 @@
     },
     {
       "surface": "שער",
-      "gloss": "sa tarangkahan"
+      "gloss": "tarangkahan"
     },
     {
       "surface": "עירו",
-      "gloss": "ng kanyang lungsod"
+      "gloss": "ng kaniyang lungsod"
     },
     {
       "surface": "לאמר",
-      "gloss": "na sinasabi"
+      "gloss": "na nagsasabi"
     }
   ],
-  "timestamp": "2026-08-19T14:14:07.238953562Z",
+  "timestamp": "2026-08-24T19:47:45.929803476Z",
   "model": "glm-5.3"
 }

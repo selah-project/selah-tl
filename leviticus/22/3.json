@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 22,
-  "translation": "Sabihin mo sa kanila: Sa inyong mga lahi, bawat lalaking lumalapit, mula sa buong inyong binhi, sa mga banal na bagay na inilalaan ng mga anak ni Yisrael kay Yahweh, samantalang may karumihan siya — iyon na ⟨⟨tao⟩⟩ ay ihihiwalay mula sa harapan ko; ako si Yahweh.",
+  "translation": "Sabihin mo sa kanila, sa iyong mga lahi: bawat lalaking lumalapit, mula sa buong lahi ninyo, sa ⟨ang⟩ mga banal na bagay na itinatalaga ng mga anak ni Yisrael kay Yahweh, samantalang may karumihan siyang nakakabit — magpupugot ⟨sa⟩ ⟨kanyang⟩ sarili ang taong iyon mula sa harapan ko; ako si Yahweh.",
   "tokens": [
     {
       "surface": "אמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "sa inyong mga lahi"
+      "gloss": "sa iyong mga lahi"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "זרעכם",
-      "gloss": "inyong binhi"
+      "gloss": "lahi ninyo"
     },
     {
       "surface": "אל",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "יקדישו",
-      "gloss": "inilalaan"
+      "gloss": "itintalaga"
     },
     {
       "surface": "בני",
-      "gloss": "ng mga anak"
+      "gloss": "mga anak"
     },
     {
       "surface": "ישראל",
@@ -73,23 +73,23 @@
     },
     {
       "surface": "וטמאתו",
-      "gloss": "at karumihan niya"
+      "gloss": "samantalang may karumihan siya"
     },
     {
       "surface": "עליו",
-      "gloss": "sa kanya"
+      "gloss": "nakakabit sa kanya"
     },
     {
       "surface": "ונכרתה",
-      "gloss": "ay ihihiwalay"
+      "gloss": "at magpupugot"
     },
     {
       "surface": "הנפש",
-      "gloss": "iyon na tao"
+      "gloss": "ang taong"
     },
     {
       "surface": "ההוא",
-      "gloss": "na"
+      "gloss": "iyon"
     },
     {
       "surface": "מלפני",
@@ -104,6 +104,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T14:56:20.335581619Z",
+  "timestamp": "2026-08-24T19:39:24.857577406Z",
   "model": "glm-5.3"
 }

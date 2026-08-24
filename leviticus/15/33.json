@@ -5,40 +5,40 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 15,
-  "translation": "At ng ⟨the⟩ babae sa kaniyang regla, at ng ⟨the⟩ may daloy, ⟨את⟩ kaniyang daloy — para sa lalaki at para sa babae, at para sa lalaking sumisiping sa ⟨isang⟩ babae nang marumi.",
+  "translation": "At ng babae sa kanyang regla, at ng may panaog ang ⟨את⟩ kanyang agos, sa lalaki at sa babae, at sa lalaking hihiga na ⟨may⟩ babae ritwal na marumi.",
   "tokens": [
     {
       "surface": "והדוה",
-      "gloss": "at ng babae sa kaniyang regla"
+      "gloss": "at ng babae-sa-regla"
     },
     {
       "surface": "בנדתה",
-      "gloss": "sa kaniyang regla"
+      "gloss": "sa kanyang regla"
     },
     {
       "surface": "והזב",
-      "gloss": "at ng may daloy"
+      "gloss": "at ng may panaog"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaniyang daloy"
+      "marks": "kanyang agos"
     },
     {
       "surface": "זובו",
-      "gloss": "kaniyang daloy"
+      "gloss": "kanyang agos"
     },
     {
       "surface": "לזכר",
-      "gloss": "para sa lalaki"
+      "gloss": "sa lalaki"
     },
     {
       "surface": "ולנקבה",
-      "gloss": "at para sa babae"
+      "gloss": "at sa babae"
     },
     {
       "surface": "ולאיש",
-      "gloss": "at para sa lalaki"
+      "gloss": "at sa lalaking"
     },
     {
       "surface": "אשר",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "sumisiping"
+      "gloss": "hihiga"
     },
     {
       "surface": "עם",
-      "gloss": "sa"
+      "gloss": "na ⟨may⟩"
     },
     {
       "surface": "טמאה",
-      "gloss": "maruming babae"
+      "gloss": "ritwal na marumi na babae"
     }
   ],
-  "timestamp": "2026-08-19T14:51:57.952031766Z",
+  "timestamp": "2026-08-24T19:39:04.293464874Z",
   "model": "glm-5.3"
 }

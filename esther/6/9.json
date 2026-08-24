@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "tl",
   "chapter": 6,
-  "translation": "At ibigay ang ⟨the⟩ damit at ang kabayo sa kamay ng isang tao mula sa mga panginoon ng hari, sa mga Paratas, at damitan nila ang ⟨את⟩ lalaking kinalulugdan ng hari parangalan, at sakayin nila siya sa kabayo sa liwasan ng lungsod, at ipahayag nila sa harap niya: Kaya ito'y gawin sa lalaking kinalulugdan ng hari parangalan.",
+  "translation": "at ibigay ang damit at ang kabayo sa kamay ng isang tao mula sa mga panginoon ng hari, sa mga partemim, at damitán nila ang ⟨את⟩ taong kaluguran ng hari parangalan, at sakayin nila siya sa kabayo sa liwasan ng lungsod, at ipahayag nila sa harap niya: ganoon ang gawin sa taong kaluguran ng hari parangalan.",
   "tokens": [
     {
       "surface": "ונתון",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "isang tao"
+      "gloss": "ng isang tao"
     },
     {
       "surface": "משרי",
-      "gloss": "mula sa mga panginoon"
+      "gloss": "mga panginoon"
     },
     {
       "surface": "המלך",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "הפרתמים",
-      "gloss": "sa mga Paratas"
+      "gloss": "sa mga partemim"
     },
     {
       "surface": "והלבישו",
-      "gloss": "at damitan nila"
+      "gloss": "at damitán nila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ang lalaki"
+      "marks": "ang tao"
     },
     {
       "surface": "האיש",
-      "gloss": "ang lalaki"
+      "gloss": "ang tao"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "kinalulugdan"
+      "gloss": "kaluguran"
     },
     {
       "surface": "ביקרו",
@@ -102,15 +102,15 @@
     },
     {
       "surface": "ככה",
-      "gloss": "kaya"
+      "gloss": "ganoon"
     },
     {
       "surface": "יעשה",
-      "gloss": "ito'y gawin"
+      "gloss": "ang gawin"
     },
     {
       "surface": "לאיש",
-      "gloss": "sa lalaki"
+      "gloss": "sa tao"
     },
     {
       "surface": "אשר",
@@ -122,13 +122,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "kinalulugdan"
+      "gloss": "kaluguran"
     },
     {
       "surface": "ביקרו",
       "gloss": "parangalan"
     }
   ],
-  "timestamp": "2026-08-19T19:06:05.340058433Z",
+  "timestamp": "2026-08-24T19:46:08.440428536Z",
   "model": "glm-5.3"
 }

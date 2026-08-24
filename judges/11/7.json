@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At sinabi ni Yiftach sa mga matanda ng Gilad: Hindi ba kayo ⟨את⟩ ang nagpatiwakal sa akin sa pagkamuhian ninyo ako, at pinatalsik ninyo ako sa bahay ng aking ama? At bakit kayo pumunta sa akin ngayon, nang maging mahigpit ang kalagayan ninyo?",
+  "translation": "At sinabi ni Yiftach sa mga matatanda ng Gilad: Hindi baga kayo ang ⟨את⟩ nagpoot sa akin at pinatalsik ninyo ako mula sa bahay ng aking ama? At bakit kayo naparito sa akin ngayon, nang maging mahigpit na sa inyo?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "At sinabi"
+      "gloss": "at sinabi"
     },
     {
       "surface": "יפתח",
-      "gloss": "ni Yiftach"
+      "gloss": "Yiftach"
     },
     {
       "surface": "לזקני",
-      "gloss": "sa mga matanda ng"
+      "gloss": "sa mga matatanda ng"
     },
     {
       "surface": "גלעד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "Hindi ba"
+      "gloss": "hindi baga"
     },
     {
       "surface": "אתם",
@@ -33,12 +33,11 @@
     },
     {
       "surface": "שנאתם",
-      "gloss": "nagpatiwakal sa akin sa pagkamuhian"
+      "gloss": "nagpoot (kayo)"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ako",
-      "marks": "pinatalsik ako (objecto ng pagkamuhian at pagpapatalas)"
+      "gloss": "⟨את⟩ akin"
     },
     {
       "surface": "ותגרשוני",
@@ -54,11 +53,11 @@
     },
     {
       "surface": "ומדוע",
-      "gloss": "At bakit"
+      "gloss": "at bakit"
     },
     {
-      "surface": "באתм",
-      "gloss": "kayо pumunta"
+      "surface": "באתם",
+      "gloss": "naparito kayo"
     },
     {
       "surface": "אלי",
@@ -74,13 +73,13 @@
     },
     {
       "surface": "צר",
-      "gloss": "maging mahigpit ang kalagayan"
+      "gloss": "maging mahigpit"
     },
     {
       "surface": "לכם",
-      "gloss": "ninyo"
+      "gloss": "sa inyo"
     }
   ],
-  "timestamp": "2026-08-19T15:52:56.206939785Z",
+  "timestamp": "2026-08-24T19:41:09.000235466Z",
   "model": "glm-5.3"
 }

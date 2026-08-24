@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tl",
   "chapter": 14,
-  "translation": "at ibibigay mo ang salapi sa anumang minithi ng iyong נפש — sa baka, sa tupa, sa alak, sa inuming nakalalasing, at sa anumang hihingin ng iyong נפש; at kakain ka roon sa harapan ni Yahweh na iyong Elohim, at matutuwa ka — ikaw at ang iyong sambahayan.",
+  "translation": "At ibibigay mo ang salapi sa anumang naisin ng iyong kaluluwa — sa baka, sa tupa, sa alak, sa inuming nakalalasing, at sa anumang hilingin sa iyo ng iyong kaluluwa; at kakain ka roon sa harapan ni Yahweh na iyong Elohim, at magagalak ka — ikaw at ang iyong sambahayan.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תאוה",
-      "gloss": "minithi"
+      "gloss": "naisin"
     },
     {
       "surface": "נפשך",
-      "gloss": "ng iyong נפש"
+      "gloss": "ng iyong kaluluwa"
     },
     {
       "surface": "בבקר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "תשאלך",
-      "gloss": "hihingin sa iyo"
+      "gloss": "hilingin sa iyo"
     },
     {
       "surface": "נפשך",
-      "gloss": "ng iyong נפש"
+      "gloss": "ng iyong kaluluwa"
     },
     {
       "surface": "ואכלת",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "sa harapan"
+      "gloss": "sa harapan ni"
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ושמחת",
-      "gloss": "at matutuwa ka"
+      "gloss": "at magagalak ka"
     },
     {
       "surface": "אתה",
@@ -96,6 +96,6 @@
       "gloss": "at ang iyong sambahayan"
     }
   ],
-  "timestamp": "2026-08-19T15:27:14.685383760Z",
+  "timestamp": "2026-08-24T19:40:31.626269863Z",
   "model": "glm-5.3"
 }

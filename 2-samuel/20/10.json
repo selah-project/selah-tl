@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "tl",
   "chapter": 20,
-  "translation": "At si Amasa ay hindi nakapag-ingat sa tabak na nasa kamay ni Yoav, at tinamaan niya siya ⟨את⟩ roon sa tiyan, at ibinuhos ang kanyang mga bituka sa lupa, at hindi na ulit sa kanya, at namatay siya. At sina Yoav at Avishai na kapatid niya ay naghabol kay身后 Sheba na anak ni Bikri.",
+  "translation": "At si Amasa ay hindi nagbantay sa tabak na nasa kamay ni Yoav, at tinamaan niya siya ⟨את⟩ roon sa ⟨ang⟩ tiyan, at ibinuhos niya ang kanyang bituka sa lupa, at hindi na niya ito inulit ⟨sa kanya⟩, at namatay siya; at si Yoav at si Avishai na kapatid niya ay humabol kay Sheva na anak ni Bikri.",
   "tokens": [
     {
       "surface": "ועמשא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נשמר",
-      "gloss": "nakapag-ingat"
+      "gloss": "nagbantay"
     },
     {
       "surface": "בחרב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "at tinamaan siya"
+      "gloss": "at tinamaan niya siya"
     },
     {
       "surface": "בה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "החמש",
-      "gloss": "tiyan\/ikalimang tadyang"
+      "gloss": "tiyan"
     },
     {
       "surface": "וישפך",
-      "gloss": "at ibinuhos"
+      "gloss": "at ibinuhos niya"
     },
     {
       "surface": "מעיו",
-      "gloss": "ang kanyang mga bituka"
+      "gloss": "ang kanyang bituka"
     },
     {
       "surface": "ארצה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "na ulit"
+      "gloss": "na inulit"
     },
     {
       "surface": "לו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ויואב",
-      "gloss": "At si Yoav"
+      "gloss": "at si Yoav"
     },
     {
       "surface": "ואבישי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "רדף",
-      "gloss": "naghabol"
+      "gloss": "ay humabol"
     },
     {
       "surface": "אחרי",
@@ -101,17 +101,17 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Sheba"
+      "gloss": "Sheva"
     },
     {
       "surface": "בן",
-      "gloss": "anak"
+      "gloss": "na anak"
     },
     {
       "surface": "בכרי",
       "gloss": "ni Bikri"
     }
   ],
-  "timestamp": "2026-08-19T16:21:23.533060019Z",
+  "timestamp": "2026-08-24T20:09:29.286553356Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "tl",
   "chapter": 39,
-  "translation": "⟨את⟩ mga damit-ng-serbisyo para sa paglilingkod sa ⟨the⟩ banal na lugar, ⟨את⟩ mga banal na damit ni Aharon ⟨the⟩ pari, at ⟨את⟩ mga damit ng kaniyang mga anak para sa pagkapari.",
+  "translation": "ang ⟨את⟩ mga damit-panlingkod para sa paglilingkod sa ⟨the⟩ banal na dako, ang ⟨את⟩ mga banal na damit para kay Aharon na ⟨the⟩ saserdote, at ang ⟨את⟩ mga damit ng kaniyang mga anak para sa pagkasaserdote.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga damit-ng-serbisyo"
+      "marks": "mga damit-panlingkod"
     },
     {
       "surface": "בגדי",
-      "gloss": "mga damit"
+      "gloss": "mga damit-panlingkod"
     },
     {
       "surface": "השרד",
-      "gloss": "ng-serbisyo"
+      "gloss": "panlingkod"
     },
     {
       "surface": "לשרת",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "sa banal na lugar"
+      "gloss": "sa banal na dako"
     },
     {
       "surface": "את",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "mga damit"
+      "gloss": "mga banal na damit"
     },
     {
       "surface": "הקדש",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "לאהרן",
-      "gloss": "ni Aharon"
+      "gloss": "para kay Aharon"
     },
     {
       "surface": "הכהן",
-      "gloss": "ang pari"
+      "gloss": "ang saserdote"
     },
     {
       "surface": "ואת",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "para sa pagkapari"
+      "gloss": "para sa pagkasaserdote"
     }
   ],
-  "timestamp": "2026-08-19T14:44:07.859908575Z",
+  "timestamp": "2026-08-24T19:38:12.931016173Z",
   "model": "glm-5.3"
 }

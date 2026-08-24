@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "tl",
   "chapter": 26,
-  "translation": "Huwag mong ipisan ⟨עם⟩ mga makasalanan ang aking kaluluwa, ni ⟨עם⟩ mga taong maramdaman sa dugo ang aking buhay.",
+  "translation": "Huwag mong ipisan ⟨ang⟩ aking kaluluwa kasama ng mga makasalanan, ni ang aking buhay kasama ng mga lalaking mamamatay-tao.",
   "tokens": [
     {
       "surface": "אל",
@@ -17,34 +17,33 @@
     },
     {
       "surface": "עם",
-      "gloss": "⟨עם⟩"
+      "gloss": "kasama ng"
     },
     {
       "surface": "חטאים",
-      "gloss": "mga makasalanan",
-      "marks": "mga makasalanan"
+      "gloss": "mga makasalanan"
     },
     {
       "surface": "נפשי",
-      "gloss": "ang aking kaluluwa"
+      "gloss": "⟨ang⟩ aking kaluluwa"
     },
     {
       "surface": "ועם",
-      "gloss": "ni ⟨עם⟩"
+      "gloss": "ni kasama ng"
     },
     {
       "surface": "אנשי",
-      "gloss": "mga taong"
+      "gloss": "mga lalaking"
     },
     {
       "surface": "דמים",
-      "gloss": "maramdaman sa dugo"
+      "gloss": "mamamatay-tao"
     },
     {
       "surface": "חיי",
       "gloss": "ang aking buhay"
     }
   ],
-  "timestamp": "2026-08-19T18:14:53.768981944Z",
+  "timestamp": "2026-08-24T19:44:42.764410780Z",
   "model": "glm-5.3"
 }

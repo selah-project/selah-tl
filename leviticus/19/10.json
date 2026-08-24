@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "tl",
   "chapter": 19,
-  "translation": "At ang iyong ubasan ay huwag mong bubungkalin nang lubos, at ang mga natirang bunga ng iyong ubasan ay huwag mong pipitasin; sa maralita at sa dayuhan ay iiwan mo ang mga ito ⟨את⟩ ⟨אתם⟩; ako si Yahweh na inyong Elohim.",
+  "translation": "At ang iyong ubasan ay hindi mo lalagpas-lagpasin, at ang natirang bungang nalagas sa iyong ubasan ay hindi mo pipulot; para sa mahirap at para sa dayuhan iyong iiwan ang mga ito ⟨את⟩ ⟨אתם⟩ — ako si Yahweh, ang inyong Elohim.",
   "tokens": [
     {
       "surface": "וכרמך",
@@ -13,44 +13,44 @@
     },
     {
       "surface": "לא",
-      "gloss": "huwag"
+      "gloss": "hindi"
     },
     {
       "surface": "תעולל",
-      "gloss": "bubungkalin nang lubos"
+      "gloss": "lalagpas-lagpasin"
     },
     {
       "surface": "ופרט",
-      "gloss": "at ang mga natirang bunga"
+      "gloss": "at ang nalagas"
     },
     {
       "surface": "כרמך",
-      "gloss": "ng iyong ubasan"
+      "gloss": "sa iyong ubasan"
     },
     {
       "surface": "לא",
-      "gloss": "huwag"
+      "gloss": "hindi"
     },
     {
       "surface": "תלקט",
-      "gloss": "pipitasin"
+      "gloss": "pipulot"
     },
     {
       "surface": "לעני",
-      "gloss": "sa maralita"
+      "gloss": "para sa mahirap"
     },
     {
       "surface": "ולגר",
-      "gloss": "at sa dayuhan"
+      "gloss": "at para sa dayuhan"
     },
     {
       "surface": "תעזב",
-      "gloss": "iiwan mo"
+      "gloss": "iyong iiwan"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ang mga ito (mga nalalabi) — nagtuturo sa mga ibinabawal na anihin"
+      "marks": "ang mga ito (mga nalagas)"
     },
     {
       "surface": "אני",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "na inyong Elohim"
+      "gloss": "ang inyong Elohim"
     }
   ],
-  "timestamp": "2026-08-19T20:32:39.133683195Z",
+  "timestamp": "2026-08-24T20:09:29.289170458Z",
   "model": "glm-5.3"
 }

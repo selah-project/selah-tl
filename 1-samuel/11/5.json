@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "tl",
   "chapter": 11,
-  "translation": "At narito, si Shaul ay dumating kasunod ng mga baka mula sa bukid, at sinabi ni Shaul, Ano ang sa ⟨the⟩ bayan, na ⟨na⟩ umiiyak ⟨sila⟩? At isinaysay nila sa kanya ang ⟨את⟩ mga salita ng mga lalaki ng Yavesh.",
+  "translation": "At narito, si Shaul ay dumating na sumusunod sa mga baka mula sa bukid; at sinabi ni Shaul, Ano ang sa bayan, na tumatangis? At isinaysay nila sa kanya ang ⟨את⟩ mga salita ng mga lalaki ng Yavesh.",
   "tokens": [
     {
       "surface": "והנה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kasunod ng"
+      "gloss": "na sumusunod"
     },
     {
       "surface": "הבקר",
-      "gloss": "mga baka"
+      "gloss": "sa mga baka"
     },
     {
       "surface": "מן",
-      "gloss": "mula sa"
+      "gloss": "mula"
     },
     {
       "surface": "השדה",
-      "gloss": "bukid"
+      "gloss": "sa bukid"
     },
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "si Shaul"
+      "gloss": "ni Shaul"
     },
     {
       "surface": "מה",
@@ -57,20 +57,20 @@
     },
     {
       "surface": "יבכו",
-      "gloss": "umiiyak"
+      "gloss": "tumatangis"
     },
     {
       "surface": "ויספרו",
-      "gloss": "at isinaysay nila"
+      "gloss": "At isinaysay"
     },
     {
       "surface": "לו",
-      "gloss": "sa kanya"
+      "gloss": "nila sa kanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mga salita"
+      "marks": "mga salita ng mga lalaki ng Yavesh"
     },
     {
       "surface": "דברי",
@@ -85,6 +85,6 @@
       "gloss": "ng Yavesh"
     }
   ],
-  "timestamp": "2026-08-19T16:01:13.930426860Z",
+  "timestamp": "2026-08-24T19:40:59.838669831Z",
   "model": "glm-5.3"
 }

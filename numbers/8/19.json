@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "tl",
   "chapter": 8,
-  "translation": "At ibinigay ko ang ⟨את⟩ mga Levita bilang mga kaloob kay Aharon at sa kanyang mga anak, mula sa gitna ng mga anak ni Yisra'el, upang maglingkod sa ⟨את⟩ paglilingkod ng mga anak ni Yisra'el sa tolda ng kapisanan, at upang magbayad-puri para sa mga anak ni Yisra'el, at hindi magkakaroon ng salot sa mga anak ni Yisra'el paglapit ng mga anak ni Yisra'el sa ⟨the⟩ santuario.",
+  "translation": "At ibinigay ko ang ⟨את⟩ mga Levita — mga inialay — kay Aharon at sa kanyang mga anak, mula sa gitna ng mga anak ni Yisrael, upang maglingkod sa ⟨את⟩ paglilingkod ng mga anak ni Yisrael sa toldang tipunan, at upang magbayad-puri para sa mga anak ni Yisrael, at hindi magkakaroon ng salot sa mga anak ni Yisrael sa paglapit ng mga anak ni Yisrael sa ⟨ang⟩ banal na dako.",
   "tokens": [
     {
       "surface": "ואתנה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "bilang mga kaloob"
+      "gloss": "mga inialay"
     },
     {
       "surface": "לאהרן",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisra'el"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "לעבד",
@@ -51,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "paglilingkod ng mga anak ni Yisra'el"
+      "marks": "paglilingkod"
     },
     {
       "surface": "עבדת",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisra'el"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "באהל",
-      "gloss": "sa tolda"
+      "gloss": "sa toldang"
     },
     {
       "surface": "מועד",
-      "gloss": "ng kapisanan"
+      "gloss": "tipunan"
     },
     {
       "surface": "ולכפר",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisra'el"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "ולא",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisra'el"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "נגף",
@@ -111,7 +111,7 @@
     },
     {
       "surface": "בגשת",
-      "gloss": "paglapit"
+      "gloss": "sa paglapit"
     },
     {
       "surface": "בני",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ni Yisra'el"
+      "gloss": "ni Yisrael"
     },
     {
       "surface": "אל",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "⟨the⟩ santuario"
+      "gloss": "banal na dako"
     }
   ],
-  "timestamp": "2026-08-19T19:40:59.604163798Z",
+  "timestamp": "2026-08-24T19:39:27.616671422Z",
   "model": "glm-5.3"
 }
