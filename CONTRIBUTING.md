@@ -67,3 +67,8 @@ mungkahi laban sa Hebreo, sa mga tuntunin, sa mga sanggunian, at sa
 pagkakahanay — maaaring tanggapin, lutasin kasama ka, maghintay ng
 karagdagang katibayan, o tanggihan nang may dahilan. Ang teksto ang
 sinusuri, hindi ang tao.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
