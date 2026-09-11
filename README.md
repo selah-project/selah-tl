@@ -83,3 +83,9 @@ pagwawasto, paglalathala, at pagpapaunlad, tingnan ang
 Mga mambabasa, mga nag-aaral ng Hebreo, mga tagasalin, mga nagsasalita
 ng Tagalog — malugod kayong tinatanggap. Bago mag-ulat ng mali o
 magmungkahi ng pagbabago, basahin ang [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
