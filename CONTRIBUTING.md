@@ -14,7 +14,7 @@ tiyak sa mungkahi lamang.
 - Magbukas ng **Pull request** kung parehong malinaw ang mali at ang
   pagwawasto.
 - Para sa mga usapin ng software, o seguridad/account/privacy, gamitin
-  ang [Selah Support](https://selahproject.com/support).
+  ang [Selah Support](https://s33k3r.com/learn/support).
 
 ## Ano ang isasama
 
